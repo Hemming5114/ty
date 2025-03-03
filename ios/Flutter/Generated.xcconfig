@@ -1,5 +1,5 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/runner/hostedtoolcache/flutter/3.7.0-stable/arm64
+FLUTTER_ROOT=/Users/runner/hostedtoolcache/flutter/3.29.0-stable/arm64
 FLUTTER_APPLICATION_PATH=/Users/runner/work/ty/ty
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib/main.dart
