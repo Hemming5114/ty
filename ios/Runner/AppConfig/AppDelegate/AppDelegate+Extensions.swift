@@ -75,7 +75,7 @@ extension AppDelegate {
 }
 
 // MARK: - Firebase
-extension AppDelegate: MessagingDelegate, UNUserNotificationCenterDelegate {
+extension AppDelegate: MessagingDelegate {
         
     func setupFireBase() {
         FirebaseApp.configure()
@@ -91,31 +91,7 @@ extension AppDelegate: MessagingDelegate, UNUserNotificationCenterDelegate {
             UIApplication.shared.registerForRemoteNotifications()
         }
     }
-    
-    func application(_ application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
-        let deviceStr = deviceToken.map { String(format: "%02hhx", $0) }.joined()
-         Messaging.messaging().apnsToken = deviceToken
-         printLog(message: "APNS Token = \(deviceStr)")
-         Messaging.messaging().token { token, error in
-             if let error = error {
-                 printLog(message: "error = \(error)")
-             } else if let token = token {
-                 printLog(message: "token = \(token)")
-             }
-         }
-    }
-    
-    func application(_ application: UIApplication, didFailToRegisterForRemoteNotificationsWithError error: Error) {
-        print("推送注册失败: \(error)")
-    }
-    
-    // MARK:收到推送消息
-    func application(_ application: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable : Any], fetchCompletionHandler completionHandler: @escaping (UIBackgroundFetchResult) -> Void) {
-        
-        handleRemoteNotification(userInfo)
-        
-        completionHandler(.newData)
-    }
+
     func handleRemoteNotification(_ userInfo: [AnyHashable : Any]?) {
         if UIApplication.shared.applicationState == .active {
             
@@ -124,16 +100,6 @@ extension AppDelegate: MessagingDelegate, UNUserNotificationCenterDelegate {
         }
     }
     
-    /// 点击消息（app运行中）
-    func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
-        // 处理业务跳转
-        if UIApplication.shared.applicationState == .active {
-           
-        } else {
-            
-        }
-        completionHandler()
-    }
     
     func messaging(_ messaging: Messaging, didReceiveRegistrationToken fcmToken: String?) {
         let dataDict: [String: String] = ["token": fcmToken ?? ""]

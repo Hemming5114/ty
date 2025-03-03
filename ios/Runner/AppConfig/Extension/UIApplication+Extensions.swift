@@ -27,7 +27,7 @@ extension UIApplication {
 }
 
 extension UIApplication {
-    static var key: UIwindow {
+    static var key: UIWindow? {
         return UIApplication.shared
             .connectedScenes
             .filter { $0.activationState == .foregroundActive && $0 is UIWindowScene }

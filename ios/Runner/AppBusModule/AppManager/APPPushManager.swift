@@ -297,7 +297,7 @@ extension APPPushManager {
                 }
                 return
             }
-            if let root = UIApplication.shared.keywindow.rootViewController, let tabbar = root as? BaseTabBarController {
+            if let root = UIApplication.shared.keyWindow?.rootViewController, let tabbar = root as? BaseTabBarController {
                 tabbar.selectTabbar(type: type)
                 currentVC.navigationController?.popToRootViewController(animated: true)
             }
@@ -306,7 +306,7 @@ extension APPPushManager {
     
     /// 创建页面登录的刷新列表
     func checkToRefreshTheTopPageIsCreated() {
-        if let root = UIApplication.shared.keywindow.rootViewController,
+        if let root = UIApplication.shared.keyWindow?.rootViewController,
             let tabbar = root as? BaseTabBarController,
             let topVC = tabbar.selectedViewController as? BaseNavigationController, topVC.tabBarItemType == .create,
             let createVC = topVC.viewControllers.first as? CreateMainController  {
