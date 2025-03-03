@@ -8,7 +8,7 @@
 import UIKit
 import NVActivityIndicatorView
 
-extension JXPagingListContainerView: @retroactive JXSegmentedViewListContainer {}
+extension JXPagingListContainerView: JXSegmentedViewListContainer {}
 
 class MineMainController: BaseViewController {
     
