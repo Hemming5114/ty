@@ -8,7 +8,7 @@
 import UIKit
 
 struct AppConfig {
-    static let runningEnvironment = false
+    static let runningEnvironment = true
     static let runningPkgID = runningEnvironment ? "501" : "500"
     static let runningNetVersion = "1.0.0"
     static let runningBundleID = Bundle.main.bundleIdentifier!
