@@ -16,12 +16,6 @@ jobs:
       - uses: subosito/flutter-action@v1
         with:
           flutter-version: '3.29.0'
-    
-      # 添加设置 Dart SDK 版本的步骤
-      - name: Set Dart SDK Version
-        run: |
-          dart pub global activate dart_sdk_version_manager
-          dart pub global run dart_sdk_version_manager use 3.7.0
           
       - name: Setup Flutter Environment
         run: |
