@@ -40,8 +40,8 @@ def swift_Third
   # 图片加载
 #  pod 'Kingfisher', '~> 8.1.3'
   # 图片选择
-  pod 'HXPhotoPicker'
-  
+  pod 'HXPhotoPicker', '~> 4.2.4'
+
   # 错误提示信息
   pod 'Then', '3.0.0'
   pod 'IQKeyboardManagerSwift', '~> 8.0.0'
