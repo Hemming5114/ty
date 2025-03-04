@@ -11,7 +11,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.oiyonice.oiyo</key>
-		<string>com.oiyonice.oiyo_dis_20241211</string>
+		<string>HoneyAIDis</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
@@ -20,7 +20,7 @@
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>798RL7J5U7</string>
+	<string>GVA54C2N44</string>
 	<key>uploadSymbols</key>
 	<false/>
 </dict>
