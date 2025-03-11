@@ -9,6 +9,7 @@ class AppDelegate: FlutterAppDelegate {
         // 设置全局导航栏样式
         setupGlobalAppearance()
         
+        
         // 设置键盘管理
         setupKeyboardManager()
         
