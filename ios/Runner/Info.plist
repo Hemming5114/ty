@@ -29,37 +29,12 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.305907429958-nl9ftllock2t5h6jdg2tmmvnniq9fg4s</string>
-			</array>
-		</dict>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>airun</string>
-			</array>
-		</dict>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>com.Honeyaichatapp.ios2025</string>
+				<string>com.funny2025.yu</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
-	<key>GIDClientID</key>
-	<string>305907429958-nl9ftllock2t5h6jdg2tmmvnniq9fg4s.apps.googleusercontent.com</string>
-	<key>LSApplicationQueriesSchemes</key>
-	<array>
-		<string>com.Honeyaichatapp.ios2025</string>
-		<string>googlechromes</string>
-		<string>googlegmail</string>
-		<string>airun</string>
-	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
@@ -67,12 +42,12 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
-	<key>NSCameraUsageDescription</key>
-	<string>Use your camera permissions to modify avatars, create characters, and generate reference images</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>需要访问相册权限以保存图片</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>You need to use your album permissions to modify avatars, create characters, and generate reference images</string>
+	<string>需要访问相册权限以保存图片</string>
 	<key>NSUserTrackingUsageDescription</key>
-	<string>We value your privacy. Tracking helps us improve our service while keeping your data secure</string>
+	<string>我们需要获取您的广告标识符以提供更好的个性化服务体验，您的隐私将受到严格保护。</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -82,13 +57,6 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-	</array>
-	<key>UISupportedInterfaceOrientations~ipad</key>
-	<array>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
-		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
 </dict>
 </plist>

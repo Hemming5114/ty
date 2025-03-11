@@ -24,7 +24,7 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 //  THE SOFTWARE.
 
-#if canImport(SwiftUI) && canImport(Combine) && !os(watchOS)
+#if canImport(SwiftUI) && canImport(Combine) && canImport(UIKit) && !os(watchOS)
 import SwiftUI
 import Combine
 
@@ -47,17 +47,9 @@ public struct KFAnimatedImage: KFImageProtocol {
     }
 }
 
-#if os(macOS)
-@available(macOS 11.0, *)
-typealias KFCrossPlatformViewRepresentable = NSViewRepresentable
-#else
-@available(iOS 14.0, tvOS 14.0, watchOS 7.0, *)
-typealias KFCrossPlatformViewRepresentable = UIViewRepresentable
-#endif
-
 /// A wrapped `UIViewRepresentable` of `AnimatedImageView`
 @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
-public struct KFAnimatedImageViewRepresenter: KFCrossPlatformViewRepresentable, KFImageHoldingView {
+public struct KFAnimatedImageViewRepresenter: UIViewRepresentable, KFImageHoldingView {
     public typealias RenderingView = AnimatedImageView
     public static func created(from image: KFCrossPlatformImage?, context: KFImage.Context<Self>) -> KFAnimatedImageViewRepresenter {
         KFAnimatedImageViewRepresenter(image: image, context: context)
@@ -66,31 +58,8 @@ public struct KFAnimatedImageViewRepresenter: KFCrossPlatformViewRepresentable, 
     var image: KFCrossPlatformImage?
     let context: KFImage.Context<KFAnimatedImageViewRepresenter>
     
-    #if os(macOS)
-    public func makeNSView(context: Context) -> AnimatedImageView {
-        return makeImageView()
-    }
-    
-    public func updateNSView(_ nsView: AnimatedImageView, context: Context) {
-        updateImageView(nsView)
-    }
-    #else
     public func makeUIView(context: Context) -> AnimatedImageView {
-        return makeImageView()
-    }
-    
-    public func updateUIView(_ uiView: AnimatedImageView, context: Context) {
-        updateImageView(uiView)
-    }
-    #endif
-    
-    @MainActor
-    private func makeImageView() -> AnimatedImageView {
         let view = AnimatedImageView()
-        
-        #if !os(macOS)
-        view.isUserInteractionEnabled = true
-        #endif
         
         self.context.renderConfigurations.forEach { $0(view) }
         
@@ -102,9 +71,8 @@ public struct KFAnimatedImageViewRepresenter: KFCrossPlatformViewRepresentable, 
         return view
     }
     
-    @MainActor
-    private func updateImageView(_ imageView: AnimatedImageView) {
-        imageView.image = image
+    public func updateUIView(_ uiView: AnimatedImageView, context: Context) {
+        uiView.image = image
     }
 }
 
