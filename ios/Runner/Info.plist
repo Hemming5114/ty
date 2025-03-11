@@ -50,6 +50,10 @@
 	<string>我们需要获取您的广告标识符以提供更好的个性化服务体验，您的隐私将受到严格保护。</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
