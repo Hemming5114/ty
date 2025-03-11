@@ -10,8 +10,8 @@
 	<string>app-store</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.Honeyaichatapp.ios2025</key>
-		<string>HoneyAIDis</string>
+		<key>com.funny2025.yu</key>
+		<string>funny2025</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
@@ -20,7 +20,7 @@
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>GVA54C2N44</string>
+	<string>WT6U89AJY5</string>
 	<key>uploadSymbols</key>
 	<false/>
 </dict>
