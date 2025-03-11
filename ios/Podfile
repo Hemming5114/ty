@@ -12,7 +12,7 @@ target 'Runner' do
   pod 'Moya', '~> 15.0'
   
   # 布局约束
-  pod 'SnapKit', '~> 5.6.0'
+  pod 'SnapKit', '~> 5.7.1'
   
   # 键盘管理
   pod 'IQKeyboardManagerSwift', '~> 6.5.16'

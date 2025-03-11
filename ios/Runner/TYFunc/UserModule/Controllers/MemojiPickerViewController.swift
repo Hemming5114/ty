@@ -74,7 +74,7 @@ extension MemojiPickerViewController: UICollectionViewDelegate, UICollectionView
     }
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
-        let width = (collectionView.bounds.width - 64) / 3
+        let width = floor((collectionView.bounds.width - 64) / 3.0)
         return CGSize(width: width, height: width)
     }
     
