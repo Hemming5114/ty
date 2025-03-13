@@ -62,7 +62,6 @@
 		AA384E9F2D7FD13000E8B665 /* UIViewController+Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E3F2D7FD13000E8B665 /* UIViewController+Navigation.swift */; };
 		AA384EA02D7FD13000E8B665 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E392D7FD13000E8B665 /* WebViewController.swift */; };
 		AA384EA12D7FD13000E8B665 /* ExploreCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E542D7FD13000E8B665 /* ExploreCell.swift */; };
-		AA384EA22D7FD13000E8B665 /* FortuneCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E552D7FD13000E8B665 /* FortuneCell.swift */; };
 		AA384EA32D7FD13000E8B665 /* Array+Shuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E3B2D7FD13000E8B665 /* Array+Shuffle.swift */; };
 		AA384EA42D7FD13000E8B665 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E692D7FD13000E8B665 /* AboutUsViewController.swift */; };
 		AA384EA52D7FD13000E8B665 /* ExploreModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E4E2D7FD13000E8B665 /* ExploreModels.swift */; };
@@ -87,7 +86,6 @@
 		AA384EB82D7FD13000E8B665 /* ExploreLayoutSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E4C2D7FD13000E8B665 /* ExploreLayoutSection.swift */; };
 		AA384EB92D7FD13000E8B665 /* MusicSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E4A2D7FD13000E8B665 /* MusicSelectionViewController.swift */; };
 		AA384EBA2D7FD13000E8B665 /* MoodCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E662D7FD13000E8B665 /* MoodCollectionViewCell.swift */; };
-		AA384EBB2D7FD13000E8B665 /* UserStatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E7C2D7FD13000E8B665 /* UserStatsView.swift */; };
 		AA384EBC2D7FD13000E8B665 /* ChatHistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E282D7FD13000E8B665 /* ChatHistoryViewController.swift */; };
 		AA384EBD2D7FD13000E8B665 /* HelpCenterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E6E2D7FD13000E8B665 /* HelpCenterViewController.swift */; };
 		AA384EBE2D7FD13000E8B665 /* MoodSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA384E622D7FD13000E8B665 /* MoodSelectionViewController.swift */; };
@@ -174,7 +172,6 @@
 		AA384E512D7FD13000E8B665 /* FortuneService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FortuneService.swift; sourceTree = "<group>"; };
 		AA384E522D7FD13000E8B665 /* MusicService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicService.swift; sourceTree = "<group>"; };
 		AA384E542D7FD13000E8B665 /* ExploreCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreCell.swift; sourceTree = "<group>"; };
-		AA384E552D7FD13000E8B665 /* FortuneCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FortuneCell.swift; sourceTree = "<group>"; };
 		AA384E562D7FD13000E8B665 /* SecretCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretCell.swift; sourceTree = "<group>"; };
 		AA384E582D7FD13000E8B665 /* ExploreHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreHeaderView.swift; sourceTree = "<group>"; };
 		AA384E5B2D7FD13000E8B665 /* Date+Format.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Format.swift"; sourceTree = "<group>"; };
@@ -201,7 +198,6 @@
 		AA384E792D7FD13000E8B665 /* MemojiCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemojiCell.swift; sourceTree = "<group>"; };
 		AA384E7A2D7FD13000E8B665 /* SettingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingCell.swift; sourceTree = "<group>"; };
 		AA384E7B2D7FD13000E8B665 /* UserMenuCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserMenuCell.swift; sourceTree = "<group>"; };
-		AA384E7C2D7FD13000E8B665 /* UserStatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserStatsView.swift; sourceTree = "<group>"; };
 		AA384EBF2D7FD1D000E8B665 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AA384EC32D7FD49000E8B665 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		AA3852EE2D7FDF3C00E8B665 /* Runner.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Runner.entitlements; sourceTree = "<group>"; };
@@ -501,7 +497,6 @@
 			isa = PBXGroup;
 			children = (
 				AA384E542D7FD13000E8B665 /* ExploreCell.swift */,
-				AA384E552D7FD13000E8B665 /* FortuneCell.swift */,
 				AA384E562D7FD13000E8B665 /* SecretCell.swift */,
 			);
 			path = Cells;
@@ -622,7 +617,6 @@
 				AA384E792D7FD13000E8B665 /* MemojiCell.swift */,
 				AA384E7A2D7FD13000E8B665 /* SettingCell.swift */,
 				AA384E7B2D7FD13000E8B665 /* UserMenuCell.swift */,
-				AA384E7C2D7FD13000E8B665 /* UserStatsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -874,7 +868,6 @@
 				AA384E9F2D7FD13000E8B665 /* UIViewController+Navigation.swift in Sources */,
 				AA384EA02D7FD13000E8B665 /* WebViewController.swift in Sources */,
 				AA384EA12D7FD13000E8B665 /* ExploreCell.swift in Sources */,
-				AA384EA22D7FD13000E8B665 /* FortuneCell.swift in Sources */,
 				AA384EA32D7FD13000E8B665 /* Array+Shuffle.swift in Sources */,
 				AA384EA42D7FD13000E8B665 /* AboutUsViewController.swift in Sources */,
 				AA384EA52D7FD13000E8B665 /* ExploreModels.swift in Sources */,
@@ -899,7 +892,6 @@
 				AA384EB82D7FD13000E8B665 /* ExploreLayoutSection.swift in Sources */,
 				AA384EB92D7FD13000E8B665 /* MusicSelectionViewController.swift in Sources */,
 				AA384EBA2D7FD13000E8B665 /* MoodCollectionViewCell.swift in Sources */,
-				AA384EBB2D7FD13000E8B665 /* UserStatsView.swift in Sources */,
 				AA384EBC2D7FD13000E8B665 /* ChatHistoryViewController.swift in Sources */,
 				AA384EBD2D7FD13000E8B665 /* HelpCenterViewController.swift in Sources */,
 				AA384EBE2D7FD13000E8B665 /* MoodSelectionViewController.swift in Sources */,
