@@ -5,13 +5,16 @@ struct User: Codable {
     let name: String
     let avatar: String
     var coins: Int
+    var isMember: Bool 
+    var memberExpiryDate: Date?
+    var hasEverBeenMember: Bool
     
     private static let keychainKey = "AppUserInfo0"
     
     static func generateNewUser(completion: @escaping (Result<User, Error>) -> Void) {
         let userId = String(format: "%06d", Int.random(in: 100000...999999))
         let randomAvatar = "head_\(Int.random(in: 1...10))"
-        let coins = Int.random(in: 1000...9999)
+        let coins = Int.random(in: 1000...9999) // 随机生成4位数金币
         
         // 调用智谱接口生成用户名
         ZhipuAIService.shared.sendMessage("帮我取一个2～6位的中文名字") { result in
@@ -27,21 +30,20 @@ struct User: Codable {
                 // 如果获取到的名字不符合要求，使用默认名字
                 let userName = name.count >= 2 ? name : "用户\(userId)"
                 
-                let user = User(id: userId, name: String(userName), avatar: randomAvatar, coins: coins)
+                let user = User(
+                    id: userId, 
+                    name: String(userName), 
+                    avatar: randomAvatar, 
+                    coins: coins,
+                    isMember: false,
+                    memberExpiryDate: nil,
+                    hasEverBeenMember: false
+                )
                 completion(.success(user))
                 
             case .failure(let error):
                 // 接口失败时使用默认名字
-                let user = User(id: userId, name: "用户\(userId)", avatar: randomAvatar, coins: coins)
-                
-                // 显示错误提示
-                NotificationCenter.default.post(
-                    name: NSNotification.Name("ShowErrorToast"),
-                    object: nil,
-                    userInfo: ["message": "生成用户名失败：\(error.localizedDescription)"]
-                )
-                
-                completion(.success(user))
+                completion(.failure(error))
             }
         }
     }
@@ -76,11 +78,26 @@ struct User: Codable {
             return nil
         }
     }
+    
+    // 检查是否需要消耗金币
+    func needsCoinsForChat() -> Bool {
+        return !isMember
+    }
+    
+    // 消耗金币
+    mutating func consumeCoins(_ amount: Int) -> Bool {
+        if coins >= amount {
+            coins -= amount
+            saveToKeychain()
+            return true
+        }
+        return false
+    }
 }
 
 // MARK: - CustomStringConvertible
 extension User: CustomStringConvertible {
     var description: String {
-        return "User(id: \(id), name: \(name), avatar: \(avatar), coins: \(coins))"
+        return "User(id: \(id), name: \(name), avatar: \(avatar), coins: \(coins), isMember: \(isMember), memberExpiryDate: \(String(describing: memberExpiryDate)))"
     }
 } 

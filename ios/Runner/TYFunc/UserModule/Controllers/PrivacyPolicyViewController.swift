@@ -50,14 +50,34 @@ class PrivacyPolicyViewController: UIViewController {
             • 个人信息：昵称、头像等基本信息
             • 使用数据：心情记录、对话内容、使用习惯等
             • 设备信息：设备型号、系统版本、使用时间等
+            • 支付信息：仅用于处理您的应用内购买交易
             
             这些信息帮助我们：
-            • 个性化您的使用体验
-            • 提供更准确的情感分析
+            • 提供个性化的AI互动体验
             • 改进我们的服务质量
+            • 处理您的购买请求
+            • 保护您的账户安全
             """,
-            icon: "doc.text.fill",
-            color: .systemIndigo
+            icon: "person.badge.shield.checkmark.fill",
+            color: .systemOrange
+        )
+        
+        addSection(
+            title: "支付与交易",
+            content: """
+            关于应用内购买：
+            • 所有支付通过 Apple 的应用内购买系统进行
+            • 我们不会直接收集或存储您的支付信息
+            • 交易记录将被安全存储用于客服支持
+            • 您可以在 App Store 设置中管理订阅
+            
+            购买保护：
+            • 支持 Apple 官方退款政策
+            • 提供购买记录查询服务
+            • 确保交易安全与透明
+            """,
+            icon: "creditcard.fill",
+            color: .systemGreen
         )
         
         addSection(

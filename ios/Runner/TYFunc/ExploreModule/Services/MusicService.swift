@@ -13,6 +13,40 @@ class MusicService {
         return audioPlayer?.isPlaying ?? false
     }
     
+    // 音乐列表，后5首为VIP音乐
+    let musics = [
+        ("晨曦之歌", "晨曦之歌"),
+        ("和谐的心弦", "和谐的心弦"),
+        ("旅行的旋律", "旅行的旋律"),
+        // 免费音乐
+        ("琵琶旋律", "琵琶旋律"),
+        ("下雨天", "下雨天"),
+        // VIP音乐
+        ("校园", "校园"),
+        ("夜晚的思恋", "夜晚的思恋"),
+        ("悠扬的旋律", "悠扬的旋律"),
+        ("自由之歌", "自由之歌"),
+        ("Beautiful Goodbye", "Beautiful Goodbye")
+    ]
+    
+    // 判断音乐是否是VIP音乐
+    func isVIPMusic(_ index: Int) -> Bool {
+        return index >= musics.count - 5
+    }
+    
+    // 判断音乐是否已购买
+    func isMusicPurchased(_ musicName: String) -> Bool {
+        let purchasedMusic = UserDefaults.standard.array(forKey: "PurchasedMusic") as? [String] ?? []
+        return purchasedMusic.contains(musicName)
+    }
+    
+    // 购买音乐
+    func purchaseMusic(_ musicName: String) {
+        var purchasedMusic = UserDefaults.standard.array(forKey: "PurchasedMusic") as? [String] ?? []
+        purchasedMusic.append(musicName)
+        UserDefaults.standard.set(purchasedMusic, forKey: "PurchasedMusic")
+    }
+    
     private init() {
         setupAudioSession()
         setupRemoteCommandCenter()
@@ -144,11 +178,6 @@ class MusicService {
             "旅行的旋律",
             "琵琶旋律",
             "下雨天",
-            "校园",
-            "夜晚的思恋",
-            "悠扬的旋律",
-            "自由之歌",
-            "Beautiful Goodbye"
         ]
         
         if let randomMusic = musics.randomElement() {

@@ -156,4 +156,138 @@ class FortuneService {
             defaults.set(data, forKey: monthlyKey)
         }
     }
+    
+    // 生成每日运势
+    func generateDailyFortune(completion: @escaping (String) -> Void) {
+        if let cache = loadDailyCache(), cache.isValid {
+            completion(cache.content)
+            return
+        }
+        
+        guard let user = User.loadFromKeychain() else {
+            completion("今天运势平平，宜静心修养")
+            return
+        }
+        
+        // 根据用户名生成运势
+        let prompt = """
+        你是一位专业的占卜师，请根据用户"\(user.name)"的名字为其生成今日运势，包含以下内容：
+        1. 今日运势评分（1-5星）
+        2. 一句积极正面的运势描述（20字以内）
+        3. 今日宜忌（各2项）
+        请用简洁的格式输出。
+        """
+        
+        ZhipuAIService.shared.sendMessage(prompt) { [weak self] result in
+            switch result {
+            case .success(let content):
+                // 缓存运势
+                let cache = FortuneCache(content: content, createdAt: Date())
+                self?.saveDailyCache(content: content)
+                completion(content)
+                
+            case .failure:
+                // 生成失败时返回默认运势
+                let defaultFortune = """
+                今日运势：★★★☆☆
+                运势描述：心怀感恩，好运自来
+                宜：学习充电、与朋友聚会
+                忌：过度劳累、轻信他人
+                """
+                completion(defaultFortune)
+            }
+        }
+    }
+    
+    // 生成月度运势
+    func generateMonthlyFortune(completion: @escaping (String) -> Void) {
+        if let cache = loadMonthlyCache(), cache.isValid {
+            completion(cache.content)
+            return
+        }
+        
+        guard let user = User.loadFromKeychain() else {
+            completion("本月运势平稳，保持平常心")
+            return
+        }
+        
+        // 根据用户名生成月度运势
+        let prompt = """
+        你是一位专业的占卜师，请根据用户"\(user.name)"的名字为其生成本月运势，包含以下内容：
+        1. 本月运势评分（1-5星）
+        2. 月度运势概述（40字以内）
+        3. 本月重点关注领域（3项）
+        4. 开运建议（2项）
+        请用简洁的格式输出。
+        """
+        
+        ZhipuAIService.shared.sendMessage(prompt) { [weak self] result in
+            switch result {
+            case .success(let content):
+                // 缓存运势
+                let cache = FortuneCache(content: content, createdAt: Date())
+                self?.saveMonthlyCache(content: content)
+                completion(content)
+                
+            case .failure:
+                // 生成失败时返回默认运势
+                let defaultFortune = """
+                本月运势：★★★★☆
+                运势概述：诸事顺遂，保持积极心态，好运将至
+                重点关注：
+                1. 自我提升
+                2. 人际关系
+                3. 健康管理
+                开运建议：
+                1. 多与亲朋好友互动交流
+                2. 保持规律作息，注意运动
+                """
+                completion(defaultFortune)
+            }
+        }
+    }
+    
+    // 生成周运势
+    func generateWeeklyFortune(completion: @escaping (String) -> Void) {
+        if let cache = loadWeeklyCache(), cache.isValid {
+            completion(cache.content)
+            return
+        }
+        
+        guard let user = User.loadFromKeychain() else {
+            completion("本周运势平稳，继续加油")
+            return
+        }
+        
+        // 根据用户名生成周运势
+        let prompt = """
+        你是一位专业的占卜师，请根据用户"\(user.name)"的名字为其生成本周运势，包含以下内容：
+        1. 本周运势评分（1-5星）
+        2. 周运势概述（30字以内）
+        3. 本周吉日（2天）
+        4. 开运建议（2项）
+        请用简洁的格式输出。
+        """
+        
+        ZhipuAIService.shared.sendMessage(prompt) { [weak self] result in
+            switch result {
+            case .success(let content):
+                // 缓存运势
+                self?.saveWeeklyCache(content: content)
+                completion(content)
+                
+            case .failure:
+                // 生成失败时返回默认运势
+                let defaultFortune = """
+                本周运势：★★★★☆
+                运势概述：贵人相助，事业有成
+                吉日：周三、周六
+                开运建议：
+                1. 把握贵人机会，主动社交
+                2. 适当运动，保持活力
+                """
+                completion(defaultFortune)
+            }
+        }
+    }
 } 

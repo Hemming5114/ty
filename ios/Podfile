@@ -28,6 +28,9 @@ target 'Runner' do
   
   pod 'MJRefresh', '~> 3.7.9'
 
+  pod 'ProgressHUD', '~> 14.1.1'
+
+
 end
 
 post_install do |installer|

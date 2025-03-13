@@ -13,6 +13,10 @@ class ExploreViewController: UIViewController {
     
     private var rotationAnimation: CABasicAnimation?
     
+    private var dailyFortune: String?
+    private var weeklyFortune: String?
+    private var monthlyFortune: String?
+    
     init() {
         let layout = UICollectionViewCompositionalLayout { section, env in
             switch section {
@@ -37,6 +41,7 @@ class ExploreViewController: UIViewController {
         setupData()
         setupMusicButton()
         setupNotifications()
+        loadFortunes()
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -166,6 +171,27 @@ class ExploreViewController: UIViewController {
     
     deinit {
         NotificationCenter.default.removeObserver(self)
+    }
+    
+    // MARK: - 运势相关
+    private func loadFortunes() {
+        // 加载每日运势
+        FortuneService.shared.generateDailyFortune { [weak self] content in
+            self?.dailyFortune = content
+            self?.collectionView.reloadSections(IndexSet(integer: 0))
+        }
+        
+        // 加载周运势
+        FortuneService.shared.generateWeeklyFortune { [weak self] content in
+            self?.weeklyFortune = content
+            self?.collectionView.reloadSections(IndexSet(integer: 0))
+        }
+        
+        // 加载月运势
+        FortuneService.shared.generateMonthlyFortune { [weak self] content in
+            self?.monthlyFortune = content
+            self?.collectionView.reloadSections(IndexSet(integer: 0))
+        }
     }
 }
 

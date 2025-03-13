@@ -117,20 +117,30 @@ class MusicSelectionViewController: UIViewController {
 
 extension MusicSelectionViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return musics.count
+        return musicService.musics.count
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath)
-        let music = musics[indexPath.row]
-        cell.textLabel?.text = music.0
+        let music = musicService.musics[indexPath.row]
         
-        // 标记当前播放的音乐，只有在开关打开时显示勾选
-        if musicSwitch.isOn && music.1 == musicService.currentMusic {
-            cell.accessoryType = .checkmark
-        } else {
-            cell.accessoryType = .none
+        var config = cell.defaultContentConfiguration()
+        config.text = music.0
+        
+        // 设置VIP标识
+        if musicService.isVIPMusic(indexPath.row) {
+            let user = User.loadFromKeychain()
+            if user?.isMember == true || musicService.isMusicPurchased(music.1) {
+                config.secondaryText = "VIP"
+                config.secondaryTextProperties.color = .systemYellow
+            } else {
+                config.secondaryText = "VIP · 5金币"
+                config.secondaryTextProperties.color = .systemGray
+            }
         }
+        
+        cell.contentConfiguration = config
+        cell.accessoryType = music.1 == musicService.currentMusic ? .checkmark : .none
         
         return cell
     }
@@ -138,14 +148,57 @@ extension MusicSelectionViewController: UITableViewDelegate, UITableViewDataSour
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         tableView.deselectRow(at: indexPath, animated: true)
         
-        let music = musics[indexPath.row]
+        let music = musicService.musics[indexPath.row]
         
-        // 如果开关是关闭状态，先打开开关
-        if !musicSwitch.isOn {
-            musicSwitch.setOn(true, animated: true)
+        // 检查是否是VIP音乐
+        if musicService.isVIPMusic(indexPath.row) {
+            guard var user = User.loadFromKeychain() else { return }
+            
+            // 如果不是会员且未购买过
+            if !user.isMember && !musicService.isMusicPurchased(music.1) {
+                // 检查金币是否足够
+                if user.coins >= 5 {
+                    // 显示购买确认
+                    let alert = UIAlertController(
+                        title: "购买音乐",
+                        message: "是否使用5金币购买《\(music.0)》？购买后可永久使用",
+                        preferredStyle: .alert
+                    )
+                    
+                    alert.addAction(UIAlertAction(title: "取消", style: .cancel))
+                    alert.addAction(UIAlertAction(title: "购买", style: .default) { [weak self] _ in
+                        // 扣除金币
+                        user.coins -= 5
+                        user.saveToKeychain()
+                        
+                        // 发送通知更新用户界面
+                        NotificationCenter.default.post(name: NSNotification.Name("UserCoinsDidChangeNotification"), object: nil)
+                        
+                        // 记录购买
+                        self?.musicService.purchaseMusic(music.1)
+                        
+                        // 播放音乐
+                        self?.musicService.playMusic(music.1)
+                        self?.tableView.reloadData()
+                    })
+                    
+                    present(alert, animated: true)
+                    return
+                } else {
+                    // 金币不足提示
+                    let alert = UIAlertController(
+                        title: "金币不足",
+                        message: "您的金币不足，请充值或开通会员后使用",
+                        preferredStyle: .alert
+                    )
+                    alert.addAction(UIAlertAction(title: "确定", style: .default))
+                    present(alert, animated: true)
+                    return
+                }
+            }
         }
         
-        // 播放选中的音乐
+        // 播放音乐
         musicService.playMusic(music.1)
         tableView.reloadData()
     }

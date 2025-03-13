@@ -201,6 +201,38 @@ class ChatViewController: UIViewController {
         let reportVC = ReportViewController(ai: session.aiModel)
         navigationController?.pushViewController(reportVC, animated: true)
     }
+    
+    private func sendMessage(_ text: String) {
+        guard var user = User.loadFromKeychain() else { return }
+        
+        // 非会员需要消耗金币
+        if !user.isMember {
+            if user.coins < 1 {
+                let alert = UIAlertController(
+                    title: "金币不足",
+                    message: "您的金币不足，每条消息需要消耗1金币，请充值或开通会员",
+                    preferredStyle: .alert
+                )
+                alert.addAction(UIAlertAction(title: "确定", style: .default))
+                present(alert, animated: true)
+                return
+            }
+            
+            // 扣除金币
+            user.coins -= 1
+            user.saveToKeychain()
+            
+            // 发送通知更新用户界面
+            NotificationCenter.default.post(name: NSNotification.Name("UserCoinsDidChangeNotification"), object: nil)
+        }
+        
+        // 发送消息
+        let message = ChatMessage(content: text, type: .text, role: .user)
+        messages.append(message)
+        updateSession()
+        tableView.reloadData()
+        scrollToBottom()
+    }
 }
 
 // MARK: - UITableViewDelegate & DataSource

@@ -2,6 +2,7 @@ class UserMenuCell: UITableViewCell {
     private let containerView = UIView()
     private let iconImageView = UIImageView()
     private let titleLabel = UILabel()
+    private let subtitleLabel = UILabel()
     private let arrowImageView = UIImageView()
     
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
@@ -20,19 +21,27 @@ class UserMenuCell: UITableViewCell {
         containerView.backgroundColor = .white
         containerView.layer.cornerRadius = 12
         
-        titleLabel.font = TYConstants.UI.Font.body
+        iconImageView.contentMode = .scaleAspectFit
+        
+        titleLabel.font = .systemFont(ofSize: 16)
         titleLabel.textColor = .black
+        
+        subtitleLabel.font = .systemFont(ofSize: 14)
+        subtitleLabel.textColor = .systemGray
+        subtitleLabel.textAlignment = .right
         
         arrowImageView.image = UIImage(systemName: "chevron.right")
         arrowImageView.tintColor = .systemGray3
+        arrowImageView.contentMode = .scaleAspectFit
         
         contentView.addSubview(containerView)
         containerView.addSubview(iconImageView)
         containerView.addSubview(titleLabel)
+        containerView.addSubview(subtitleLabel)
         containerView.addSubview(arrowImageView)
         
         containerView.snp.makeConstraints { make in
-            make.edges.equalToSuperview().inset(UIEdgeInsets(top: 0, left: 12, bottom: 10, right: 12))
+            make.edges.equalToSuperview().inset(UIEdgeInsets(top: 4, left: 16, bottom: 4, right: 16))
         }
         
         iconImageView.snp.makeConstraints { make in
@@ -43,6 +52,11 @@ class UserMenuCell: UITableViewCell {
         
         titleLabel.snp.makeConstraints { make in
             make.left.equalTo(iconImageView.snp.right).offset(12)
+            make.centerY.equalToSuperview()
+        }
+        
+        subtitleLabel.snp.makeConstraints { make in
+            make.right.equalTo(arrowImageView.snp.left).offset(-8)
             make.centerY.equalToSuperview()
         }
         
@@ -58,5 +72,7 @@ class UserMenuCell: UITableViewCell {
         iconImageView.image = UIImage(systemName: item.icon)
         iconImageView.tintColor = item.color
         titleLabel.text = item.title
+        subtitleLabel.text = item.subtitle
+        subtitleLabel.isHidden = item.subtitle == nil
     }
 } 

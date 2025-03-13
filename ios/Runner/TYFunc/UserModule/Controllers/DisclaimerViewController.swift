@@ -43,9 +43,23 @@ class DisclaimerViewController: UIViewController {
             • 所有服务仅供个人使用和参考
             • AI生成的内容仅供娱乐，不构成专业建议
             • 背景音乐由AI生成，仅供个人使用和欣赏
+            • 会员服务和虚拟货币仅限本应用使用
             """,
             icon: "info.circle.fill",
             color: .systemBlue
+        )
+        
+        addSection(
+            title: "付费服务",
+            content: """
+            关于应用内购买：
+            • 虚拟货币和会员服务均为虚拟商品
+            • 购买后不支持退换，请谨慎选择
+            • 会员到期后相关权益将自动失效
+            • 自动续订可在 App Store 中管理
+            """,
+            icon: "cart.fill",
+            color: .systemPurple
         )
         
         addSection(

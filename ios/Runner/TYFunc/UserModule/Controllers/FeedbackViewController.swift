@@ -141,12 +141,12 @@ class FeedbackViewController: UIViewController {
     @objc private func submitTapped() {
         // 验证输入
         guard let feedback = feedbackTextView.text, !feedback.isEmpty else {
-            showAlert(title: "提示", message: "请输入反馈内容")
+            showAlert(message: "请输入反馈内容")
             return
         }
         
         guard let contact = contactTextField.text, !contact.isEmpty else {
-            showAlert(title: "提示", message: "请输入联系方式")
+            showAlert(message: "请输入联系方式")
             return
         }
         
@@ -155,7 +155,7 @@ class FeedbackViewController: UIViewController {
         let isValidPhone = contact.count == 11 && contact.allSatisfy { $0.isNumber }
         
         guard isValidEmail || isValidPhone else {
-            showAlert(title: "提示", message: "请输入正确的邮箱或手机号码")
+            showAlert(message: "请输入正确的邮箱或手机号码")
             return
         }
         
@@ -196,16 +196,10 @@ class FeedbackViewController: UIViewController {
                     
                 case .failure:
                     // 显示错误提示
-                    self.showAlert(title: "提示", message: "系统繁忙，请重试")
+                    self.showAlert(message: "系统繁忙，请重试")
                 }
             }
         }
-    }
-    
-    private func showAlert(title: String, message: String) {
-        let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
-        alert.addAction(UIAlertAction(title: "确定", style: .default))
-        present(alert, animated: true)
     }
 }
 

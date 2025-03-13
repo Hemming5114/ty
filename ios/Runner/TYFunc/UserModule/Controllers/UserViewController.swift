@@ -28,28 +28,48 @@ class UserViewController: UIViewController {
         return label
     }()
     
-    private let coinsView = UserStatsView(icon: "dollarsign.circle.fill", title: "桃币")
     private let tableView = UITableView(frame: .zero, style: .insetGrouped)
     
+    private let memberBadge: UIImageView = {
+        let imageView = UIImageView(image: UIImage(systemName: "crown.fill"))
+        imageView.tintColor = TYConstants.UI.themeColor
+        imageView.isHidden = true // 默认隐藏
+        return imageView
+    }()
+    
     // MARK: - Properties
-    private let sections: [[MenuItem]] = [
-        // 通用
-        [
-            MenuItem(icon: "trash.fill", title: "清除缓存", color: .systemRed),
-            MenuItem(icon: "bell.badge.fill", title: "消息通知", color: .systemOrange)
-        ],
-        // 支持与帮助
-        [
-            MenuItem(icon: "questionmark.circle.fill", title: "帮助中心", color: .systemBlue),
-            MenuItem(icon: "exclamationmark.bubble.fill", title: "意见反馈", color: .systemGreen)
-        ],
-        // 关于
-        [
-            MenuItem(icon: "hand.raised.fill", title: "隐私政策", color: .systemIndigo),
-            MenuItem(icon: "doc.text.fill", title: "责任声明", color: .systemGray),
-            MenuItem(icon: "info.circle.fill", title: "关于我们", color: .systemBlue)
+    private var sections: [[MenuItem]] {
+        // 获取用户会员状态
+        let user = User.loadFromKeychain()
+        let isMember = user?.isMember ?? false
+        let memberStatus = isMember ? "已开通" : "享专属特权"
+        
+        return [
+            // 会员与充值
+            [
+                MenuItem(icon: "creditcard.fill", 
+                        title: "金币", 
+                        color: .systemOrange,
+                        subtitle: "\(user?.coins ?? 0)金币"),
+                MenuItem(icon: "crown.fill", 
+                        title: "会员", 
+                        color: .systemPink,
+                        subtitle: memberStatus)
+            ],
+            // 通用
+            [
+                MenuItem(icon: "bell", title: "消息通知", color: .systemBlue),
+                MenuItem(icon: "questionmark.circle", title: "帮助中心", color: .systemGreen),
+                MenuItem(icon: "exclamationmark.bubble", title: "意见反馈", color: .systemOrange)
+            ],
+            // 其他
+            [
+                MenuItem(icon: "doc.text", title: "隐私政策", color: .systemIndigo),
+                MenuItem(icon: "doc.plaintext", title: "责任声明", color: .systemPurple),
+                MenuItem(icon: "info.circle", title: "关于我们", color: .systemTeal)
+            ]
         ]
-    ]
+    }
     
     private let sectionTitles = ["通用", "支持与帮助", "关于"]
     
@@ -57,10 +77,13 @@ class UserViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setupUI()
-        loadUserInfo()
         setupGestures()
+        loadUserInfo()
+        setupNotifications()
     }
-    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+    }
     // MARK: - UI Setup
     private func setupUI() {
         view.backgroundColor = .systemGroupedBackground
@@ -84,6 +107,14 @@ class UserViewController: UIViewController {
         refreshButton.snp.makeConstraints { make in
             make.left.equalTo(nameLabel.snp.right).offset(8)
             make.centerY.equalTo(nameLabel)
+            make.width.height.equalTo(24)
+        }
+        
+        // 添加会员标识
+        headerView.addSubview(memberBadge)
+        memberBadge.snp.makeConstraints { make in
+            make.right.equalTo(avatarImageView)
+            make.bottom.equalTo(avatarImageView)
             make.width.height.equalTo(24)
         }
         
@@ -138,7 +169,18 @@ class UserViewController: UIViewController {
             if let avatarImage = UIImage(named: user.avatar) {
                 avatarImageView.image = avatarImage
             }
-            coinsView.setValue("\(user.coins)")
+            
+            // 显示/隐藏会员标识
+            memberBadge.isHidden = !user.isMember
+            
+            // 如果是会员，设置头像边框颜色为金色
+            if user.isMember {
+                avatarImageView.layer.borderColor = UIColor.systemYellow.cgColor
+                nameLabel.textColor = TYConstants.UI.themeColor
+            } else {
+                avatarImageView.layer.borderColor = TYConstants.UI.themeColor.cgColor
+                nameLabel.textColor = .black
+            }
         }
     }
     
@@ -157,7 +199,7 @@ class UserViewController: UIViewController {
             if var user = User.loadFromKeychain() {
                 // 从选中的图片名称中获取头像ID
                 if let avatarName = image.accessibilityIdentifier {
-                    user = User(id: user.id, name: user.name, avatar: avatarName, coins: user.coins)
+                    user = User(id: user.id, name: user.name, avatar: avatarName, coins: user.coins, isMember: user.isMember, hasEverBeenMember: user.hasEverBeenMember)
                     user.saveToKeychain()
                 }
             }
@@ -205,7 +247,7 @@ class UserViewController: UIViewController {
                             guard let self = self else { return }
                             // 更新用户信息
                             if var user = User.loadFromKeychain() {
-                                user = User(id: user.id, name: String(name), avatar: user.avatar, coins: user.coins)
+                                user = User(id: user.id, name: String(name), avatar: user.avatar, coins: user.coins, isMember: user.isMember, hasEverBeenMember: user.hasEverBeenMember)
                                 user.saveToKeychain()
                                 
                                 // 更新UI
@@ -276,6 +318,24 @@ class UserViewController: UIViewController {
         
         present(alert, animated: true)
     }
+    
+    private func setupNotifications() {
+        NotificationCenter.default.addObserver(
+            self,
+            selector: #selector(userCoinsDidChange),
+            name: NSNotification.Name("UserCoinsDidChangeNotification"),
+            object: nil
+        )
+    }
+    
+    @objc private func userCoinsDidChange() {
+        loadUserInfo()
+        tableView.reloadData()
+    }
+    
+    deinit {
+        NotificationCenter.default.removeObserver(self)
+    }
 }
 
 // MARK: - UITableViewDelegate & DataSource
@@ -327,6 +387,14 @@ extension UserViewController: UITableViewDelegate, UITableViewDataSource {
         let item = sections[indexPath.section][indexPath.row]
         
         switch item.title {
+        case "金币":
+            let rechargeVC = RechargeViewController()
+            pushWithHiddenTabBar(rechargeVC)
+            
+        case "会员":
+            let memberVC = MemberViewController()
+            pushWithHiddenTabBar(memberVC)
+            
         case "清除缓存":
             handleClearCache()
         case "消息通知":
