@@ -64,7 +64,8 @@ class UserViewController: UIViewController {
             ],
             // 其他
             [
-                MenuItem(icon: "doc.text", title: "隐私政策", color: .systemIndigo),
+                MenuItem(icon: "doc.text.fill", title: "用户协议", color: .systemBlue),
+                MenuItem(icon: "hand.raised.fill", title: "隐私政策", color: .systemGreen),
                 MenuItem(icon: "doc.plaintext", title: "责任声明", color: .systemPurple),
                 MenuItem(icon: "info.circle", title: "关于我们", color: .systemTeal)
             ]
@@ -410,9 +411,21 @@ extension UserViewController: UITableViewDelegate, UITableViewDataSource {
             feedbackVC.hidesBottomBarWhenPushed = true
             navigationController?.pushViewController(feedbackVC, animated: true)
         case "隐私政策":
-            let privacyVC = PrivacyPolicyViewController()
-            privacyVC.hidesBottomBarWhenPushed = true
-            navigationController?.pushViewController(privacyVC, animated: true)
+            let webVC = WebViewController(
+                title: "隐私政策",
+                urlString: TYConstants.WebURL.privacyPolicy,
+                isPushed: true
+            )
+            webVC.hidesBottomBarWhenPushed = true
+            navigationController?.pushViewController(webVC, animated: true)
+        case "用户协议":
+            let webVC = WebViewController(
+                title: "用户协议",
+                urlString: TYConstants.WebURL.userAgreement,
+                isPushed: true
+            )
+            webVC.hidesBottomBarWhenPushed = true
+            navigationController?.pushViewController(webVC, animated: true)
         case "责任声明":
             let disclaimerVC = DisclaimerViewController()
             disclaimerVC.hidesBottomBarWhenPushed = true

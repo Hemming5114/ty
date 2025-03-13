@@ -6,10 +6,11 @@ class WebViewController: UIViewController {
     private let webView = WKWebView()
     private let titleString: String
     private let urlString: String
-    
-    init(title: String, urlString: String) {
-        self.titleString = title
+    private let isPushed: Bool
+
+    init(title: String, urlString: String, isPushed: Bool = false) {        self.titleString = title
         self.urlString = urlString
+        self.isPushed = isPushed
         super.init(nibName: nil, bundle: nil)
     }
     
@@ -29,8 +30,7 @@ class WebViewController: UIViewController {
         
         // 设置导航栏
         let closeButton = UIBarButtonItem(
-            image: UIImage(systemName: "xmark"),
-            style: .plain,
+            image: UIImage(systemName: isPushed ? "chevron.left" : "xmark"),            style: .plain,
             target: self,
             action: #selector(closeButtonTapped)
         )
@@ -57,6 +57,11 @@ class WebViewController: UIViewController {
     }
     
     @objc private func closeButtonTapped() {
-        dismiss(animated: true)
+        if isPushed {
+            navigationController?.popViewController(animated: true)
+        } else {
+            dismiss(animated: true)
+        }
+
     }
 } 
