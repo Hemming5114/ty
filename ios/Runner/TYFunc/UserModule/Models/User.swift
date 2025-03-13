@@ -9,7 +9,7 @@ struct User: Codable {
     var memberExpiryDate: Date?
     var hasEverBeenMember: Bool
     
-    private static let keychainKey = "AppUserInfo0"
+    private static let keychainKey = "AppUserInfo"
     
     static func generateNewUser(completion: @escaping (Result<User, Error>) -> Void) {
         let userId = String(format: "%06d", Int.random(in: 100000...999999))
