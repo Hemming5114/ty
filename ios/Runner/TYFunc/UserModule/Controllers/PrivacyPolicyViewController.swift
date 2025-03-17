@@ -38,7 +38,7 @@ class PrivacyPolicyViewController: UIViewController {
         // 添加内容
         addSection(
             title: "我们重视您的隐私",
-            content: "桃遇致力于保护您的个人隐私。我们深知个人信息对您的重要性，我们将以高度的勤勉和审慎义务对待这些信息。",
+            content: "轻遇致力于保护您的个人隐私。我们深知个人信息对您的重要性，我们将以高度的勤勉和审慎义务对待这些信息。",
             icon: "lock.shield.fill",
             color: .systemBlue
         )

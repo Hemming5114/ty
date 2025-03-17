@@ -37,7 +37,7 @@ class AboutUsViewController: UIViewController {
         versionLabel.textColor = .systemGray
         
         // 应用描述
-        descriptionLabel.text = "桃遇是一款融合AI技术的心情陪伴应用，致力于为用户提供温暖贴心的情感交流体验。"
+        descriptionLabel.text = "轻遇是一款融合AI技术的心情陪伴应用，致力于为用户提供温暖贴心的情感交流体验。"
         descriptionLabel.numberOfLines = 0
         descriptionLabel.textAlignment = .center
         descriptionLabel.font = .systemFont(ofSize: 16)

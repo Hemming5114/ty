@@ -38,7 +38,7 @@ class DisclaimerViewController: UIViewController {
         addSection(
             title: "服务说明",
             content: """
-            桃遇是一款心情陪伴应用，我们希望通过AI技术为用户提供情感支持和陪伴。请注意：
+            轻遇是一款心情陪伴应用，我们希望通过AI技术为用户提供情感支持和陪伴。请注意：
             
             • 所有服务仅供个人使用和参考
             • AI生成的内容仅供娱乐，不构成专业建议

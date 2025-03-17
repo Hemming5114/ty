@@ -103,7 +103,7 @@ extension SettingsViewController: UITableViewDelegate, UITableViewDataSource {
     private func showAbout() {
         let alert = UIAlertController(
             title: "关于我们",
-            message: "桃遇 v1.0.0\n一个有趣的AI聊天应用",
+            message: "轻遇 v1.1.0\n一个有趣的AI聊天应用",
             preferredStyle: .alert
         )
         alert.addAction(UIAlertAction(title: "确定", style: .default))

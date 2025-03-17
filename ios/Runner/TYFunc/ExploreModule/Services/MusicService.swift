@@ -85,7 +85,7 @@ class MusicService {
     
     private func setupNowPlaying() {
         var nowPlayingInfo = [String: Any]()
-        nowPlayingInfo[MPMediaItemPropertyTitle] = "桃遇背景音乐"
+        nowPlayingInfo[MPMediaItemPropertyTitle] = "轻遇背景音乐"
         nowPlayingInfo[MPMediaItemPropertyArtist] = "AI生成"
         
         if let image = UIImage(named: "AppIcon") {
