@@ -40,10 +40,16 @@ extension ContactUsViewController: UITableViewDelegate, UITableViewDataSource {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath)
         let contact = contacts[indexPath.row]
         
-        var config = cell.defaultContentConfiguration()
-        config.text = contact.0
-        config.secondaryText = contact.1
-        cell.contentConfiguration = config
+        if #available(iOS 14.0, *) {
+            var config = cell.defaultContentConfiguration()
+            config.text = contact.0
+            config.secondaryText = contact.1
+            cell.contentConfiguration = config
+        } else {
+            cell.textLabel?.text = contact.0
+            cell.detailTextLabel?.text = contact.1
+        }
+       
         
         return cell
     }

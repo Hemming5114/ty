@@ -66,12 +66,19 @@ extension HelpCenterViewController: UITableViewDelegate, UITableViewDataSource {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath)
         let item = sections[indexPath.section].1[indexPath.row]
         
-        var config = cell.defaultContentConfiguration()
-        config.text = item.0
-        config.secondaryText = item.1
-        config.secondaryTextProperties.numberOfLines = 0
-        config.secondaryTextProperties.color = .systemGray
-        cell.contentConfiguration = config
+        if #available(iOS 14.0, *) {
+            var config = cell.defaultContentConfiguration()
+            config.text = item.0
+            config.secondaryText = item.1
+            config.secondaryTextProperties.numberOfLines = 0
+            config.secondaryTextProperties.color = .systemGray
+            cell.contentConfiguration = config
+            
+        } else {
+            cell.textLabel?.text =  item.0
+            cell.detailTextLabel?.text =  item.0
+            // Fallback on earlier versions
+        }
         
         cell.selectionStyle = .none
         

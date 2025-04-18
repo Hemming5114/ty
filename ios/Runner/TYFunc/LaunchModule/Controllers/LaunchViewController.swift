@@ -1,7 +1,6 @@
 import UIKit
 import SnapKit
 import SafariServices
-import AppTrackingTransparency
 
 class LaunchViewController: UIViewController {
     private let launchImageView = UIImageView()
@@ -133,14 +132,8 @@ class LaunchViewController: UIViewController {
             shakeAgreementStack()
             return
         }
+        self.handleUserCreation()
         
-        // 先请求 IDFA 权限
-        ATTrackingManager.requestTrackingAuthorization { [weak self] status in
-            DispatchQueue.main.async {
-                // 无论授权结果如何，继续执行原有逻辑
-                self?.handleUserCreation()
-            }
-        }
     }
     
     private func handleUserCreation() {

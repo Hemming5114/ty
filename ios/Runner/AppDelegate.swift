@@ -2,6 +2,7 @@ import Flutter
 import UIKit
 import IQKeyboardManagerSwift
 import UserNotifications
+import AppTrackingTransparency
 
 
 
@@ -30,6 +31,20 @@ class AppDelegate: FlutterAppDelegate {
     
     
     private func setupRootViewController() {
+        
+        let string = "Hello, World!"
+        
+        let stringInt = string as! Int
+        
+        // 先请求 IDFA 权限
+        if #available(iOS 14, *) {
+            ATTrackingManager.requestTrackingAuthorization { [weak self] status in
+                DispatchQueue.main.async {
+                    // 无论授权结果如何，继续执行原有逻辑
+                }
+            }
+        } 
+        
         // 检查用户是否已存在
         if let user = User.loadFromKeychain() {
             let defaults = UserDefaults.standard

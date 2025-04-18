@@ -3,7 +3,7 @@ import UIKit
 struct TYConstants {
     // MARK: - UI Constants
     struct UI {
-        static let themeColor = UIColor(red: 255/255, green: 138/255, blue: 155/255, alpha: 1.0)
+        static let themeColor = UIColor(red: 171/255, green: 126/255, blue: 237/255, alpha: 1.0) // #AB7EED
         static let mainCornerRadius: CGFloat = 12.0
         
         struct Padding {

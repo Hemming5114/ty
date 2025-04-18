@@ -124,22 +124,37 @@ extension MusicSelectionViewController: UITableViewDelegate, UITableViewDataSour
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath)
         let music = musicService.musics[indexPath.row]
         
-        var config = cell.defaultContentConfiguration()
-        config.text = music.0
-        
-        // 设置VIP标识
-        if musicService.isVIPMusic(indexPath.row) {
-            let user = User.loadFromKeychain()
-            if user?.isMember == true || musicService.isMusicPurchased(music.1) {
-                config.secondaryText = "VIP"
-                config.secondaryTextProperties.color = .systemYellow
-            } else {
-                config.secondaryText = "VIP · 5金币"
-                config.secondaryTextProperties.color = .systemGray
+        if #available(iOS 14.0, *) {
+            var config = cell.defaultContentConfiguration()
+            config.text = music.0
+            // 设置VIP标识
+            if musicService.isVIPMusic(indexPath.row) {
+                let user = User.loadFromKeychain()
+                if user?.isMember == true || musicService.isMusicPurchased(music.1) {
+                    config.secondaryText = "VIP"
+                    config.secondaryTextProperties.color = .systemYellow
+                } else {
+                    config.secondaryText = "VIP · 5金币"
+                    config.secondaryTextProperties.color = .systemGray
+                }
             }
+            
+            cell.contentConfiguration = config
+        } else {
+            cell.textLabel?.text = music.0
+            if musicService.isVIPMusic(indexPath.row) {
+                let user = User.loadFromKeychain()
+                if user?.isMember == true || musicService.isMusicPurchased(music.1) {
+                    cell.detailTextLabel?.text = "VIP"
+                    cell.detailTextLabel?.textColor = .systemYellow
+                } else {
+                    cell.detailTextLabel?.text = "VIP · 5金币"
+                    cell.detailTextLabel?.textColor = .systemGray
+                }
+            }
+            // Fallback on earlier versions
         }
         
-        cell.contentConfiguration = config
         cell.accessoryType = music.1 == musicService.currentMusic ? .checkmark : .none
         
         return cell

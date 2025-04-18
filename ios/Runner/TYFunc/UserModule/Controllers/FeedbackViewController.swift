@@ -231,23 +231,19 @@ extension FeedbackViewController: UICollectionViewDelegate, UICollectionViewData
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         if indexPath.item == selectedImages.count {
-            showPhotosPicker()
+            showFeedPhotosPicker()
         }
     }
 }
 
 // MARK: - PHPickerViewControllerDelegate
 extension FeedbackViewController: PHPickerViewControllerDelegate {
-    private func showPhotosPicker() {
-        var config = PHPickerConfiguration()
-        config.selectionLimit = maxImageCount - selectedImages.count
-        config.filter = .images
-        
-        let picker = PHPickerViewController(configuration: config)
-        picker.delegate = self
-        present(picker, animated: true)
+    private func showFeedPhotosPicker() {
+        self.showImagePicker()
     }
     
+    @available(iOS 14.0, *)
+
     func picker(_ picker: PHPickerViewController, didFinishPicking results: [PHPickerResult]) {
         picker.dismiss(animated: true)
         
@@ -260,6 +256,12 @@ extension FeedbackViewController: PHPickerViewControllerDelegate {
                     }
                 }
             }
+        }
+    }
+    override func handleSelectedImage(_ image: UIImage) {
+        DispatchQueue.main.async {
+            self.selectedImages.append(image)
+            self.imageCollectionView.reloadData()
         }
     }
 }
