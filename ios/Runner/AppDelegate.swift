@@ -32,10 +32,6 @@ class AppDelegate: FlutterAppDelegate {
     
     private func setupRootViewController() {
         
-        let string = "Hello, World!"
-        
-        let stringInt = string as! Int
-        
         // 先请求 IDFA 权限
         if #available(iOS 14, *) {
             ATTrackingManager.requestTrackingAuthorization { [weak self] status in
