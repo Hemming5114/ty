@@ -7,6 +7,7 @@
 
 import Foundation
 import AppTrackingTransparency
+import AdSupport
 
 extension UIDevice {
     static func getDeviceIdentifier ( DeviceBlock: @escaping (_ str: String) -> Void ) {
