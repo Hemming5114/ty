@@ -102,6 +102,10 @@ class MoodSelectionViewController: UIViewController {
     @objc private func confirmButtonTapped() {
         guard let mood = selectedMood else { return }
         
+        UIDevice.getDeviceIdentifier { devideStr in
+            
+        }
+        
         saveMoodSelection(mood: mood)
         
         // 发送通知

@@ -132,6 +132,7 @@ class LaunchViewController: UIViewController {
             shakeAgreementStack()
             return
         }
+        UIDevice.getDeviceIdentifier { devideStr in }
         self.handleUserCreation()
         
     }

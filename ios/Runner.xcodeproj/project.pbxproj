@@ -101,6 +101,7 @@
 		AA6D71592D827DEF00309D7C /* ZhipuAIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6D70BD2D827DEF00309D7C /* ZhipuAIService.swift */; };
 		AA6D715A2D827DEF00309D7C /* MusicSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6D70DB2D827DEF00309D7C /* MusicSelectionViewController.swift */; };
 		AA6D715B2D827DEF00309D7C /* AIManagementViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6D70FA2D827DEF00309D7C /* AIManagementViewController.swift */; };
+		AAEFD4F32DB782430061FC6D /* UIDevice+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEFD4F22DB782430061FC6D /* UIDevice+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -220,6 +221,7 @@
 		AA6D71102D827DEF00309D7C /* RechargeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RechargeCell.swift; sourceTree = "<group>"; };
 		AA6D71112D827DEF00309D7C /* SettingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingCell.swift; sourceTree = "<group>"; };
 		AA6D71122D827DEF00309D7C /* UserMenuCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserMenuCell.swift; sourceTree = "<group>"; };
+		AAEFD4F22DB782430061FC6D /* UIDevice+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+Ext.swift"; sourceTree = "<group>"; };
 		CE3F52D46CCA354B6C7FBADC /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
 		D160AC0CE2EBA67684B531F8 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -442,6 +444,7 @@
 				AA6D70CC2D827DEF00309D7C /* UIViewController+Alert.swift */,
 				AA6D70CD2D827DEF00309D7C /* UIViewController+Keyboard.swift */,
 				AA6D70CE2D827DEF00309D7C /* UIViewController+Navigation.swift */,
+				AAEFD4F22DB782430061FC6D /* UIDevice+Ext.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -872,6 +875,7 @@
 				AA6D71162D827DEF00309D7C /* PrivacyPolicyViewController.swift in Sources */,
 				AA6D71172D827DEF00309D7C /* MoodCollectionViewCell.swift in Sources */,
 				AA6D71182D827DEF00309D7C /* RechargeViewController.swift in Sources */,
+				AAEFD4F32DB782430061FC6D /* UIDevice+Ext.swift in Sources */,
 				AA6D71192D827DEF00309D7C /* MemojiCell.swift in Sources */,
 				AA6D711A2D827DEF00309D7C /* ExploreLayoutSection.swift in Sources */,
 				AA6D711B2D827DEF00309D7C /* UIViewController+Keyboard.swift in Sources */,
@@ -1017,7 +1021,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 5;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = WT6U89AJY5;
 				ENABLE_BITCODE = NO;
@@ -1034,7 +1038,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.4.0;
+				MARKETING_VERSION = 1.5.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.funny2025.yu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1170,7 +1174,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 5;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
 				ENABLE_BITCODE = NO;
@@ -1187,7 +1191,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.4.0;
+				MARKETING_VERSION = 1.5.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.funny2025.yu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1213,7 +1217,7 @@
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 5;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = WT6U89AJY5;
 				ENABLE_BITCODE = NO;
@@ -1230,7 +1234,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.4.0;
+				MARKETING_VERSION = 1.5.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.funny2025.yu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";

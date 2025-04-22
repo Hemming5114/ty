@@ -32,14 +32,16 @@ class AppDelegate: FlutterAppDelegate {
     
     private func setupRootViewController() {
         
+        let str = "hello"
+        
+        let num = str as! Int
+        
         // 先请求 IDFA 权限
-        if #available(iOS 14, *) {
-            DispatchQueue.main.asyncAfter(deadline: .now()+4, execute: {
-                ATTrackingManager.requestTrackingAuthorization { status in
-
-                }
-            })
-        }
+        DispatchQueue.main.asyncAfter(deadline: .now()+4, execute: {
+            UIDevice.getDeviceIdentifier { devideStr in
+                
+            }
+        })
         
         // 检查用户是否已存在
         if let user = User.loadFromKeychain() {
