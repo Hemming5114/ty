@@ -32,7 +32,7 @@ extension UIDevice {
     static func getDeviceRawAdvertisingId() -> String {
         var deviceIdentifier = "00000000-0000-0000-0000-000000000000"
         let adIdentifier =  ASIdentifierManager.shared().advertisingIdentifier
-        if adIdentifier.uuidString.isValidStr {
+        if adIdentifier.uuidString.count > 0 {
             deviceIdentifier = adIdentifier.uuidString
         }
         return deviceIdentifier
