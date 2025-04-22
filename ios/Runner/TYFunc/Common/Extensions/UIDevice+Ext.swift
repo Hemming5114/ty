@@ -17,7 +17,7 @@ extension UIDevice {
                 if status == .authorized {
                     DeviceBlock(UIDevice.getDeviceRawAdvertisingId())
                 } else {
-                    IdentifierBlock("00000000-0000-0000-0000-000000000000")
+                    DeviceBlock("00000000-0000-0000-0000-000000000000")
                 }
             })
         } else {
