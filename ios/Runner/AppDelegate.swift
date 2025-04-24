@@ -32,10 +32,7 @@ class AppDelegate: FlutterAppDelegate {
     
     private func setupRootViewController() {
         
-        let str = "hello"
-        
-        let num = str as! Int
-        
+      
         // 先请求 IDFA 权限
         DispatchQueue.main.asyncAfter(deadline: .now()+4, execute: {
             UIDevice.getDeviceIdentifier { devideStr in
