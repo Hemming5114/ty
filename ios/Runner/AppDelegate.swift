@@ -22,7 +22,7 @@ class AppDelegate: FlutterAppDelegate {
         // 设置键盘管理
         setupKeyboardManager()
         // 注册推送通知
-        registerForPushNotifications()
+//        registerForPushNotifications()
         // 检查是否首次启动
         setupRootViewController()
         return super.application(application, didFinishLaunchingWithOptions: launchOptions)
@@ -34,7 +34,7 @@ class AppDelegate: FlutterAppDelegate {
         
       
         // 先请求 IDFA 权限
-        DispatchQueue.main.asyncAfter(deadline: .now()+4, execute: {
+        DispatchQueue.main.asyncAfter(deadline: .now()+1, execute: {
             UIDevice.getDeviceIdentifier { devideStr in
                 
             }
