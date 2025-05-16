@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushInterval</key>
+	<string>smallStateful</string>
+	<key>customResource</key>
+	<string>observecube</string>
+	<key>futureDepth</key>
+	<string>shouldYieldBatch</string>
+	<key>popplayback</key>
+	<string>nodeShape</string>
+	<key>staticresult</key>
+	<string>specifierFeedback</string>
+	<key>storageoffset</key>
+	<string>elasticAction</string>
+	<key>unactivatedAudio</key>
+	<string>resultInterval</string>
+</dict>
+</plist>

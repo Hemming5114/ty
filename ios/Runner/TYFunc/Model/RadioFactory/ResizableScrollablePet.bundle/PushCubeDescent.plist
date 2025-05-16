@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedMapper</key>
+	<string>otherUnary</string>
+	<key>diffablecyclebottom</key>
+	<string>prevScroll</string>
+	<key>instructionStatus</key>
+	<string>canPushHistogram</string>
+	<key>localColor</key>
+	<string>canPushTangent</string>
+	<key>maintainsingleton</key>
+	<string>sharedArchitecture</string>
+	<key>petLeft</key>
+	<string>cycleMethod</string>
+	<key>shouldUnmountOption</key>
+	<string>resourcetraversal</string>
+	<key>sinkforce</key>
+	<string>arithmeticPlatform</string>
+	<key>usecaselikescope</key>
+	<string>immutabletickercoord</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxResponse</key>
+	<string>shouldNavigateTabBar</string>
+	<key>concurrentDelegate</key>
+	<string>semanticsInterval</string>
+	<key>consultativeData</key>
+	<string>storagemodesaturation</string>
+	<key>fixedkernelappearance</key>
+	<string>originalDialogs</string>
+	<key>lastlocalizationstatus</key>
+	<string>invisibleConstant</string>
+	<key>musicaction</key>
+	<string>sizedboxValue</string>
+	<key>originalVariant</key>
+	<string>ondimensionchanged</string>
+	<key>sequentialStroke</key>
+	<string>alignmentChain</string>
+	<key>synchronousskin</key>
+	<string>canRenderHeap</string>
+</dict>
+</plist>

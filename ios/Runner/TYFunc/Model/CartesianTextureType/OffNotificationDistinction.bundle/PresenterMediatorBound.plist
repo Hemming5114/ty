@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterasbridge</key>
+	<string>mediaqueryScope</string>
+	<key>futuremenu</key>
+	<string>interactorSingleton</string>
+	<key>localInkWell</key>
+	<string>renderGridView</string>
+	<key>shouldPaintSwift</key>
+	<string>skirtOrigin</string>
+	<key>substantialsignduration</key>
+	<string>canRestartAccessory</string>
+	<key>timersearcher</key>
+	<string>pointBrightness</string>
+</dict>
+</plist>

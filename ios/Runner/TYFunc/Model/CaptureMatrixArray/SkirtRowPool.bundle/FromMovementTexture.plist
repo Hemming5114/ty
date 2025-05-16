@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTrigger</key>
+	<string>multiplyDelegate</string>
+	<key>directAnchor</key>
+	<string>trajectoryBehavior</string>
+	<key>geometricMobile</key>
+	<string>promiseActivity</string>
+	<key>isMovement</key>
+	<string>detachExpanded</string>
+	<key>optimizegram</key>
+	<string>interactionBottom</string>
+	<key>presenterLeft</key>
+	<string>advancedPromise</string>
+	<key>showcollection</key>
+	<string>transformerInterpreter</string>
+	<key>sortedModulus</key>
+	<string>canParsePrecision</string>
+	<key>transitionMode</key>
+	<string>colorTint</string>
+</dict>
+</plist>

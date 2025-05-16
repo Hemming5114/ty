@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticUtil</key>
+	<string>canHandleMedia</string>
+	<key>filterresponse</key>
+	<string>tableFlyweight</string>
+	<key>imperativeScheduler</key>
+	<string>delegateDescription</string>
+	<key>infoBottom</key>
+	<string>canPaintBuilder</string>
+	<key>localAlpha</key>
+	<string>substantialInterpolation</string>
+	<key>lostchecklist</key>
+	<string>regulateException</string>
+	<key>prevTimer</key>
+	<string>zoneLeft</string>
+	<key>sharedEfficiency</key>
+	<string>shouldFinishConsumer</string>
+	<key>shouldResumePageView</key>
+	<string>hierarchicalPager</string>
+</dict>
+</plist>

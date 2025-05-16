@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedConnector</key>
+	<string>canBindModal</string>
+	<key>desktopPresenter</key>
+	<string>activityTint</string>
+	<key>reusableEquivalent</key>
+	<string>largeTopic</string>
+	<key>robustStep</key>
+	<string>coordinatorflyweightstatus</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInterval</key>
+	<string>sequentialview</string>
+	<key>imperativeTriangles</key>
+	<string>shouldEmitActivity</string>
+	<key>newestGate</key>
+	<string>canTransitionScreen</string>
+	<key>primaryTitle</key>
+	<string>observelayer</string>
+	<key>sortedCompletion</key>
+	<string>musicrestriction</string>
+	<key>viewOrientation</key>
+	<string>islabel</string>
+</dict>
+</plist>

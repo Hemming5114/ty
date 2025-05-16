@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonQueue</key>
+	<string>providerinteraction</string>
+	<key>dynamicProcessor</key>
+	<string>deserializeAperture</string>
+	<key>euclideanConverter</key>
+	<string>chartStrategy</string>
+	<key>hyperbolicAnimator</key>
+	<string>maxPageView</string>
+	<key>persistentDistinction</key>
+	<string>cloneDescription</string>
+	<key>respectiveVertex</key>
+	<string>escalateCubit</string>
+	<key>shouldCancelView</key>
+	<string>arithmeticUseCase</string>
+	<key>symmetricExpanded</key>
+	<string>persistmethod</string>
+</dict>
+</plist>

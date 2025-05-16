@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSelector</key>
+	<string>shouldPopPainter</string>
+	<key>cacheResponse</key>
+	<string>staticPolyfill</string>
+	<key>elasticCursor</key>
+	<string>rapidanchor</string>
+	<key>fixedPageView</key>
+	<string>sustainableDimension</string>
+	<key>fragmentsStatus</key>
+	<string>maxMaster</string>
+	<key>logarithmBorder</key>
+	<string>canParseDrawer</string>
+	<key>requiredEqualization</key>
+	<string>publicMember</string>
+	<key>shouldMountCupertino</key>
+	<string>adjustTopic</string>
+	<key>shouldMountedSpine</key>
+	<string>missedSign</string>
+</dict>
+</plist>

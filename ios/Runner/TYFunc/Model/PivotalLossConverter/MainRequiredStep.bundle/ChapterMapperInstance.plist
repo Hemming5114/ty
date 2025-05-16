@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionOffset</key>
+	<string>chapterAppearance</string>
+	<key>dedicatedSemantics</key>
+	<string>synchronizeoverlay</string>
+	<key>flexType</key>
+	<string>requestconnector</string>
+	<key>hardBuffer</key>
+	<string>interactiveMission</string>
+	<key>largeCollection</key>
+	<string>activeTechnique</string>
+	<key>priorityName</key>
+	<string>stepColor</string>
+	<key>restartplayback</key>
+	<string>chartmoderesponse</string>
+</dict>
+</plist>

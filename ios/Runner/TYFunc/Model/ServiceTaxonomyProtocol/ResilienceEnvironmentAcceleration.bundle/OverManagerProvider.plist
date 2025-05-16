@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentgesturedetector</key>
+	<string>sophisticatedTitle</string>
+	<key>evaluationStyle</key>
+	<string>concurrentevaluation</string>
+	<key>eventtierskewx</key>
+	<string>relationalBloc</string>
+	<key>intuitiveMaterial</key>
+	<string>tensorFrame</string>
+	<key>robustcosine</key>
+	<string>consumptionScale</string>
+	<key>schedulershape</key>
+	<string>startBitrate</string>
+	<key>shouldSaveCosine</key>
+	<string>parsebaseline</string>
+	<key>shouldUpdateExpanded</key>
+	<string>onanchorchanged</string>
+	<key>topicPosition</key>
+	<string>ondialogstap</string>
+</dict>
+</plist>

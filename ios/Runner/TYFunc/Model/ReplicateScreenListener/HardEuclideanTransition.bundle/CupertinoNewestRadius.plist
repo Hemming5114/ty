@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetpainter</key>
+	<string>syncProgressBar</string>
+	<key>callbackTail</key>
+	<string>statelessChain</string>
+	<key>customBullet</key>
+	<string>liteAnchor</string>
+	<key>deferredStrength</key>
+	<string>shouldShowConstraint</string>
+	<key>isGrayscale</key>
+	<string>streamImage</string>
+	<key>shouldPaintConvolution</key>
+	<string>providershade</string>
+	<key>shouldResumeAspect</key>
+	<string>comprehensiveShader</string>
+	<key>unsortedSelector</key>
+	<string>callbackStage</string>
+</dict>
+</plist>

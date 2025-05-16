@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorInterval</key>
+	<string>shouldBuildWidget</string>
+	<key>mainBitrate</key>
+	<string>statelessReference</string>
+	<key>pinchableMediaQuery</key>
+	<string>arithmeticPrecision</string>
+	<key>relationalInfo</key>
+	<string>adaptivestateful</string>
+	<key>shouldRoutePrecision</key>
+	<string>finishRow</string>
+</dict>
+</plist>

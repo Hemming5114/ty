@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decouplesegment</key>
+	<string>enumerateResource</string>
+	<key>desktopBox</key>
+	<string>fixedMaterial</string>
+	<key>imperativeMusic</key>
+	<string>multiplyzone</string>
+	<key>interactoracceleration</key>
+	<string>bitrateCoord</string>
+	<key>mediumElasticity</key>
+	<string>singleConnector</string>
+	<key>provisionRight</key>
+	<string>symmetricCycle</string>
+	<key>resourcestylefeedback</key>
+	<string>showDelegate</string>
+	<key>shouldkeepprovider</key>
+	<string>activityVisibility</string>
+</dict>
+</plist>

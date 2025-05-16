@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableContraction</key>
+	<string>tweakBorder</string>
+	<key>eagerChannel</key>
+	<string>usageFeedback</string>
+	<key>shouldProcessGradient</key>
+	<string>decoupleProvider</string>
+	<key>shouldUnbindCosine</key>
+	<string>unactivatedReliability</string>
+	<key>singletonbridgecontrast</key>
+	<string>canStopPageView</string>
+	<key>tableState</key>
+	<string>appendLayout</string>
+</dict>
+</plist>

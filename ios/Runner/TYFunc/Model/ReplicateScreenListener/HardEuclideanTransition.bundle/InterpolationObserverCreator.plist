@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoImage</key>
+	<string>navigateInkWell</string>
+	<key>clipperHead</key>
+	<string>mediumPainter</string>
+	<key>otherTask</key>
+	<string>updateCell</string>
+	<key>shouldRenderCache</key>
+	<string>executeService</string>
+	<key>shouldTransitionCompletion</key>
+	<string>canNotifyBrush</string>
+	<key>sliderFormat</key>
+	<string>autoAnimation</string>
+	<key>vectorlikeflyweight</key>
+	<string>dropdownbuttonqueue</string>
+	<key>vertexOffset</key>
+	<string>routeShader</string>
+</dict>
+</plist>

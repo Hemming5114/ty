@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitstyle</key>
+	<string>priorEvaluation</string>
+	<key>cartesianDescent</key>
+	<string>isolateDuration</string>
+	<key>errorCoord</key>
+	<string>descriptorBound</string>
+	<key>subpixelmetrics</key>
+	<string>subtlefinder</string>
+</dict>
+</plist>

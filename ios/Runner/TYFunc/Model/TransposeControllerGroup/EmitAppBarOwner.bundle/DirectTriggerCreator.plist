@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeReduction</key>
+	<string>usedTask</string>
+	<key>effectmechanism</key>
+	<string>mapWork</string>
+	<key>interactionAlignment</key>
+	<string>tabviewcombiner</string>
+	<key>nextActivity</key>
+	<string>tabviewState</string>
+	<key>requiredawaitopacity</key>
+	<string>descriptionPrototype</string>
+	<key>robustSkirt</key>
+	<string>pinchableCapacity</string>
+	<key>secondMenu</key>
+	<string>sizedboxShade</string>
+	<key>shouldEncodeCharacter</key>
+	<string>canCancelSignature</string>
+	<key>taskleft</key>
+	<string>selecteddocument</string>
+</dict>
+</plist>

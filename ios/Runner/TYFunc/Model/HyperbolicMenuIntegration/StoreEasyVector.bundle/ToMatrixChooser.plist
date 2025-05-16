@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioinvariable</key>
+	<string>pushtask</string>
+	<key>asynchronousScale</key>
+	<string>canRouteCharacter</string>
+	<key>converteredge</key>
+	<string>robustDropdownButton</string>
+	<key>descriptoranalyzer</key>
+	<string>typicalLifecycle</string>
+	<key>firstEquivalent</key>
+	<string>localReliability</string>
+	<key>lockswitch</key>
+	<string>binaryDensity</string>
+	<key>obtainframe</key>
+	<string>introspectEntity</string>
+	<key>pageviewstate</key>
+	<string>composableCoordinator</string>
+	<key>semanticPriority</key>
+	<string>cruderolestyle</string>
+</dict>
+</plist>

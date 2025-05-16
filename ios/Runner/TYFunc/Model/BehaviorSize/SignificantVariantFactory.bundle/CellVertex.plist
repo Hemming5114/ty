@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticHandler</key>
+	<string>connectorDensity</string>
+	<key>enhancedependency</key>
+	<string>connectrouter</string>
+	<key>infoOffset</key>
+	<string>responsiveChart</string>
+	<key>itemVelocity</key>
+	<string>canTransitionStack</string>
+	<key>shouldFetchMobile</key>
+	<string>customFragments</string>
+	<key>uniformStream</key>
+	<string>axisAction</string>
+	<key>visibleAwait</key>
+	<string>shouldStartNotification</string>
+</dict>
+</plist>

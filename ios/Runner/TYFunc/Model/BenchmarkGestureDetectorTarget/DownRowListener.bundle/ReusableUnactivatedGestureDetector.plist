@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackoutsidecomposite</key>
+	<string>newestPlate</string>
+	<key>consultativecontroller</key>
+	<string>storePopup</string>
+	<key>cosineorientation</key>
+	<string>materialChapter</string>
+	<key>localRouter</key>
+	<string>bufferCount</string>
+	<key>marshalposition</key>
+	<string>featureVisitor</string>
+	<key>swiftsubscription</key>
+	<string>missedCursor</string>
+	<key>uniqueRequest</key>
+	<string>pauseCursor</string>
+</dict>
+</plist>

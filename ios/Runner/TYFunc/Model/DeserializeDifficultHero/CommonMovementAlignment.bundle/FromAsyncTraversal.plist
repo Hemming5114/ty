@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOperation</key>
+	<string>receiveAsync</string>
+	<key>ephemeralvolume</key>
+	<string>accordionDuration</string>
+	<key>navigationFlags</key>
+	<string>textureOrigin</string>
+	<key>shouldInflateScaffold</key>
+	<string>visibleLoop</string>
+	<key>shouldunbindbatch</key>
+	<string>allocatorsaturation</string>
+	<key>viewawaybuffer</key>
+	<string>singletonName</string>
+</dict>
+</plist>

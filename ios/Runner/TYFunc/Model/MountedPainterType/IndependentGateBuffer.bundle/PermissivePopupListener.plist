@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateLatency</key>
+	<string>evaluateLabel</string>
+	<key>denseChooser</key>
+	<string>keyJoiner</string>
+	<key>independentAscent</key>
+	<string>progressbarlocation</string>
+	<key>inheritedComponent</key>
+	<string>granularAspect</string>
+	<key>rowparamcontrast</key>
+	<string>scopeHead</string>
+	<key>sequentialMetadata</key>
+	<string>buffertheme</string>
+	<key>shouldEncodeLoss</key>
+	<string>similarReducer</string>
+	<key>statusSize</key>
+	<string>statefulTabBar</string>
+	<key>unactivatedSound</key>
+	<string>fixedOffset</string>
+</dict>
+</plist>

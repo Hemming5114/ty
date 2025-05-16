@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderamongvariable</key>
+	<string>sorterRotation</string>
+	<key>filterSkewY</key>
+	<string>iterativeAscent</string>
+	<key>modelState</key>
+	<string>cycleTop</string>
+	<key>observerResponse</key>
+	<string>bindCertificate</string>
+	<key>shouldRenderReduction</key>
+	<string>saveDuration</string>
+	<key>sortedSelector</key>
+	<string>missedBitrate</string>
+</dict>
+</plist>

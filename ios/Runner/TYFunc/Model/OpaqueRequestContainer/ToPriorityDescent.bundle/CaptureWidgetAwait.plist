@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintEdge</key>
+	<string>spotPattern</string>
+	<key>ignoredTweak</key>
+	<string>formatCursor</string>
+	<key>impressionInteraction</key>
+	<string>canNavigatePriority</string>
+	<key>promisestructurevalidation</key>
+	<string>configurationaroundfacade</string>
+	<key>shouldRestartCycle</key>
+	<string>dimensionProxy</string>
+	<key>shouldSaveFragment</key>
+	<string>soundFlags</string>
+	<key>symmetricSizedBox</key>
+	<string>shouldsavecompletion</string>
+	<key>toolsinceenvironment</key>
+	<string>completionTemple</string>
+</dict>
+</plist>

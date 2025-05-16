@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioexceptcommand</key>
+	<string>axisFormat</string>
+	<key>brushvolume</key>
+	<string>chartDistance</string>
+	<key>colorInteraction</key>
+	<string>serializeTimer</string>
+	<key>concretePriority</key>
+	<string>menuFeedback</string>
+	<key>labelDepth</key>
+	<string>layoutOffset</string>
+	<key>originalloss</key>
+	<string>interactionBound</string>
+	<key>rectifylayout</key>
+	<string>cartesianintegration</string>
+	<key>regulateradius</key>
+	<string>sequentialSkirt</string>
+</dict>
+</plist>

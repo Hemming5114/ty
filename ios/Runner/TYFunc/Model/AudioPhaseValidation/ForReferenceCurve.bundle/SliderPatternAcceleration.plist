@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedCaption</key>
+	<string>materialCheckbox</string>
+	<key>interactorLocation</key>
+	<string>transformStateful</string>
+	<key>lazyScroller</key>
+	<string>grayscalePrototype</string>
+	<key>retainedConstraint</key>
+	<string>dynamicShader</string>
+	<key>retainednibstate</key>
+	<string>partitioncallback</string>
+	<key>shouldSerializeSizedBox</key>
+	<string>tensorDispatcher</string>
+	<key>smallInfrastructure</key>
+	<string>skinKind</string>
+</dict>
+</plist>

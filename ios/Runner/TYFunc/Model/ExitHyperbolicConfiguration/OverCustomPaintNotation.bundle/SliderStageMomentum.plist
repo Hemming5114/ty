@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorlocation</key>
+	<string>utilDecorator</string>
+	<key>commonresult</key>
+	<string>bindGradient</string>
+	<key>inactiveResource</key>
+	<string>denseAlignment</string>
+	<key>spriteInterval</key>
+	<string>canInflatePadding</string>
+</dict>
+</plist>

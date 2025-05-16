@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactivefuturehead</key>
+	<string>projectionScale</string>
+	<key>liteTimer</key>
+	<string>heapsingleton</string>
+	<key>notationAcceleration</key>
+	<string>smartThroughput</string>
+	<key>responderMode</key>
+	<string>petForce</string>
+	<key>tableacceleration</key>
+	<string>conformReducer</string>
+	<key>tappabledelegate</key>
+	<string>appendResponse</string>
+</dict>
+</plist>

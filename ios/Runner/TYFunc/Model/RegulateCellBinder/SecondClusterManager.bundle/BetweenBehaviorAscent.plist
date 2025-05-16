@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateConnector</key>
+	<string>significantDuration</string>
+	<key>prevComponent</key>
+	<string>gemStage</string>
+	<key>respectiveStateless</key>
+	<string>canSubscribeEqualization</string>
+	<key>sequentialModule</key>
+	<string>displayableResponder</string>
+	<key>shouldCacheReference</key>
+	<string>pivotalsemantics</string>
+	<key>shouldDisconnectCertificate</key>
+	<string>playthread</string>
+	<key>shouldPauseDuration</key>
+	<string>dissociateDuration</string>
+	<key>shouldReplacePet</key>
+	<string>multiNotification</string>
+	<key>transformerorigin</key>
+	<string>eraseParticle</string>
+</dict>
+</plist>

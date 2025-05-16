@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableController</key>
+	<string>canPersistTernary</string>
+	<key>largeSession</key>
+	<string>shouldSerializeOption</string>
+	<key>mediumVector</key>
+	<string>activityfacadetheme</string>
+	<key>nativeCustomPaint</key>
+	<string>unactivatedStroke</string>
+	<key>rowdescription</key>
+	<string>denseProfile</string>
+	<key>secondEvolution</key>
+	<string>provisionbottom</string>
+</dict>
+</plist>

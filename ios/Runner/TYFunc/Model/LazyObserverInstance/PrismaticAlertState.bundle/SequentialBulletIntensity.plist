@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationperprototype</key>
+	<string>multiSplitter</string>
+	<key>commonView</key>
+	<string>sophisticatedDropdownButton</string>
+	<key>desktopConvolution</key>
+	<string>autoInfrastructure</string>
+	<key>draggablepetinteraction</key>
+	<string>notifierviatier</string>
+	<key>equipmentrequest</key>
+	<string>connectorValidation</string>
+	<key>evaluationColor</key>
+	<string>radiusedge</string>
+	<key>hasMobile</key>
+	<string>stampEnvironment</string>
+	<key>iterativestorage</key>
+	<string>bindDuration</string>
+	<key>roleDirection</key>
+	<string>promisehash</string>
+</dict>
+</plist>

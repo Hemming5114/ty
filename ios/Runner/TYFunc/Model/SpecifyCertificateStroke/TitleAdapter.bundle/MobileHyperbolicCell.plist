@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertloss</key>
+	<string>shouldpausetext</string>
+	<key>currentwrapper</key>
+	<string>techniquePattern</string>
+	<key>desktopcontroller</key>
+	<string>boxVariable</string>
+	<key>efficiencyVisible</key>
+	<string>enumerateResponse</string>
+	<key>loadcupertino</key>
+	<string>materialpositiondensity</string>
+	<key>paralleltabbar</key>
+	<string>routeMobile</string>
+	<key>prevRow</key>
+	<string>restartlogarithm</string>
+	<key>singletonscalability</key>
+	<string>statelessOperation</string>
+	<key>staticTangent</key>
+	<string>tappableMonster</string>
+	<key>utilorientation</key>
+	<string>listenerSkewX</string>
+</dict>
+</plist>

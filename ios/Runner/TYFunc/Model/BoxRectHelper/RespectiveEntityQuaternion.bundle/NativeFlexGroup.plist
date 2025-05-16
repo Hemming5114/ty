@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianError</key>
+	<string>keepTechnique</string>
+	<key>channeltransformer</key>
+	<string>canResumeSlash</string>
+	<key>logOrientation</key>
+	<string>canRebuildPrecision</string>
+	<key>presenterRate</key>
+	<string>sortedsubscriber</string>
+	<key>shouldAttachSizedBox</key>
+	<string>combinerSize</string>
+</dict>
+</plist>

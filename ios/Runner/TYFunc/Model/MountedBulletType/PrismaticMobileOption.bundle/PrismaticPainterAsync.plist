@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerjobstyle</key>
+	<string>agileListView</string>
+	<key>checklistTint</key>
+	<string>modalhue</string>
+	<key>compileloop</key>
+	<string>timelinevisible</string>
+	<key>eventRate</key>
+	<string>observeAppBar</string>
+	<key>mediaqueryShape</key>
+	<string>presentAnchor</string>
+	<key>shouldShowMember</key>
+	<string>pinchableprovision</string>
+	<key>shouldrestartmovement</key>
+	<string>shouldInflateCycle</string>
+</dict>
+</plist>

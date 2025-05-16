@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintContrast</key>
+	<string>asynchronousSwift</string>
+	<key>fixedChannel</key>
+	<string>shouldencodecaption</string>
+	<key>hierarchicalCollection</key>
+	<string>titlefrequency</string>
+	<key>independentResilience</key>
+	<string>mobileslider</string>
+	<key>largeAlpha</key>
+	<string>shouldPushPrecision</string>
+	<key>layershape</key>
+	<string>encapsulateFuture</string>
+	<key>lossFlags</key>
+	<string>shouldPresentAnimatedContainer</string>
+	<key>pinchableLabel</key>
+	<string>normalBinder</string>
+	<key>sequentialPet</key>
+	<string>hasExponent</string>
+	<key>statefulSizedBox</key>
+	<string>cartesianResource</string>
+</dict>
+</plist>

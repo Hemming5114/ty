@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetsingletonvisibility</key>
+	<string>activeSubscriber</string>
+	<key>reactiveVideo</key>
+	<string>repositorybeyondtask</string>
+	<key>rendererresponse</key>
+	<string>customizedView</string>
+	<key>shouldTransformScaffold</key>
+	<string>dependencyFunction</string>
+</dict>
+</plist>

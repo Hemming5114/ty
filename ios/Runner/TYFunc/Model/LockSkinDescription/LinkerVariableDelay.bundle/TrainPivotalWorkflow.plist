@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableRepository</key>
+	<string>canFetchGem</string>
+	<key>histogramresult</key>
+	<string>normalAlpha</string>
+	<key>hyperbolicAnchor</key>
+	<string>shouldDismissGrayscale</string>
+	<key>modelContrast</key>
+	<string>checkboxinmediator</string>
+	<key>otherRadius</key>
+	<string>scheduleTask</string>
+	<key>profilelocation</key>
+	<string>graphFeedback</string>
+	<key>semanticsMode</key>
+	<string>greatRestriction</string>
+	<key>trianglesScale</key>
+	<string>popResult</string>
+</dict>
+</plist>

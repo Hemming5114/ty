@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectrotation</key>
+	<string>observeScaffold</string>
+	<key>associatedProtocol</key>
+	<string>previewTint</string>
+	<key>clusterPosition</key>
+	<string>canCacheOverlay</string>
+	<key>polyfillRate</key>
+	<string>inactiveSubscription</string>
+	<key>replaceswitch</key>
+	<string>replaceStoryboard</string>
+	<key>routebesidepattern</key>
+	<string>shouldNotifyExponent</string>
+</dict>
+</plist>

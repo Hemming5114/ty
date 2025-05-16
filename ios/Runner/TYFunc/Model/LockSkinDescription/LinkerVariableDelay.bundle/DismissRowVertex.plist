@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencydescription</key>
+	<string>deferredTentative</string>
+	<key>protocolDirection</key>
+	<string>revisitManager</string>
+	<key>resultFormat</key>
+	<string>createReference</string>
+	<key>rowtopic</key>
+	<string>intensityRotation</string>
+	<key>shouldPresentVariant</key>
+	<string>shouldPaintCharacter</string>
+	<key>shouldStartBehavior</key>
+	<string>spritespacing</string>
+	<key>shouldStopTechnique</key>
+	<string>shouldSetStateAccessory</string>
+</dict>
+</plist>

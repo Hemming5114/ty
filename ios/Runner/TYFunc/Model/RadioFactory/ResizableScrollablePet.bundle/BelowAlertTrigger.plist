@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardDuration</key>
+	<string>canCreateGradient</string>
+	<key>dispatchaperture</key>
+	<string>dynamicLabel</string>
+	<key>layerscale</key>
+	<string>polyfillVisibility</string>
+	<key>materialResponse</key>
+	<string>asynchronoustitle</string>
+	<key>resizableBullet</key>
+	<string>concurrentCheckbox</string>
+	<key>unactivatedcombiner</key>
+	<string>enabledGesture</string>
+	<key>unlocktween</key>
+	<string>particleOperation</string>
+</dict>
+</plist>

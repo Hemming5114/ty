@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateVisible</key>
+	<string>cupertinoMediator</string>
+	<key>chapterName</key>
+	<string>brushBorder</string>
+	<key>consultativePadding</key>
+	<string>paddingProcess</string>
+	<key>densePainter</key>
+	<string>platesincemode</string>
+	<key>descriptionname</key>
+	<string>similarSymbol</string>
+	<key>fetchdrawer</key>
+	<string>canStartProjection</string>
+	<key>lostzone</key>
+	<string>shouldStartCoordinator</string>
+	<key>similarHandler</key>
+	<string>parseNotifier</string>
+	<key>visiblePet</key>
+	<string>convolutionPadding</string>
+</dict>
+</plist>

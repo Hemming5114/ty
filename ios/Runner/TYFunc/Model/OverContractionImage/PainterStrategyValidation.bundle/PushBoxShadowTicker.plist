@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativePriority</key>
+	<string>sustainableFrame</string>
+	<key>detailSpacing</key>
+	<string>retainedCursor</string>
+	<key>ignoredTransition</key>
+	<string>shouldUnmountedSegue</string>
+	<key>pivotallayoutsaturation</key>
+	<string>canRebuildButton</string>
+</dict>
+</plist>

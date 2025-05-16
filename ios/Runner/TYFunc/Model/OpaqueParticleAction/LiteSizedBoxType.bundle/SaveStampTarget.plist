@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossInteraction</key>
+	<string>greatDetector</string>
+	<key>newestcelltail</key>
+	<string>prepareStateless</string>
+	<key>shouldAttachMaterial</key>
+	<string>shouldSerializeComposition</string>
+	<key>shouldSkipMaster</key>
+	<string>roledensity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integrationBorder</key>
+	<string>screenNumber</string>
+	<key>positionindex</key>
+	<string>dimensionBrightness</string>
+	<key>radiusframeworkflags</key>
+	<string>shouldTransitionSymbol</string>
+	<key>seamlesssingleton</key>
+	<string>shouldPauseSine</string>
+	<key>shouldTransitionTabView</key>
+	<string>rectSkewY</string>
+	<key>shouldstopcustompaint</key>
+	<string>entityrotation</string>
+	<key>temporaryInfo</key>
+	<string>canSerializeStream</string>
+</dict>
+</plist>

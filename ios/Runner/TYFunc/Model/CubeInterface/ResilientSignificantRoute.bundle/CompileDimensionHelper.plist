@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicWidget</key>
+	<string>accelerateRouter</string>
+	<key>fixedChart</key>
+	<string>chartflyweightformat</string>
+	<key>hardCharacteristic</key>
+	<string>synchronizeChapter</string>
+	<key>interactionMode</key>
+	<string>introspectTimer</string>
+	<key>intermediatePainter</key>
+	<string>shapeType</string>
+	<key>liteTopic</key>
+	<string>mountedStream</string>
+	<key>primaryOption</key>
+	<string>intensityjobborder</string>
+	<key>scenarioName</key>
+	<string>optimizeChannel</string>
+	<key>shouldTransitionMember</key>
+	<string>detachBrush</string>
+</dict>
+</plist>

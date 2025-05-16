@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushorigin</key>
+	<string>pointobservervisibility</string>
+	<key>serializeobserver</key>
+	<string>invokedropdownbutton</string>
+	<key>shouldFinishStack</key>
+	<string>performsizedbox</string>
+	<key>shouldListenNib</key>
+	<string>factoryfrequency</string>
+	<key>shouldSetStateTool</key>
+	<string>semanticaudio</string>
+	<key>shouldSkipSegment</key>
+	<string>anchorcontextresponse</string>
+</dict>
+</plist>

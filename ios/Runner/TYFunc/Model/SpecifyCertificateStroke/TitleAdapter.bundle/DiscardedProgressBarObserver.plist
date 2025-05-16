@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionorientation</key>
+	<string>canDeserializeStateless</string>
+	<key>bufferSize</key>
+	<string>logskewx</string>
+	<key>nextLabel</key>
+	<string>entitystatestatus</string>
+	<key>primarySpot</key>
+	<string>objectVelocity</string>
+	<key>robustChart</key>
+	<string>canUpdateUnary</string>
+	<key>shouldEncodePlayback</key>
+	<string>discardeddetector</string>
+	<key>standaloneNotation</key>
+	<string>cacheLoss</string>
+	<key>staticEntity</key>
+	<string>mobileCard</string>
+	<key>usedSink</key>
+	<string>shouldReplaceAlpha</string>
+</dict>
+</plist>

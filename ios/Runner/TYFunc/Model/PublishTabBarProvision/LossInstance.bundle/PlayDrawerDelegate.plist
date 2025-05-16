@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonLifecycle</key>
+	<string>touchResponse</string>
+	<key>curvesaturation</key>
+	<string>behaviorStyle</string>
+	<key>denseFormat</key>
+	<string>nodeOpacity</string>
+	<key>easyCharacteristic</key>
+	<string>managerFramework</string>
+	<key>shouldSetStateAspect</key>
+	<string>temporaryScope</string>
+	<key>smallCapacities</key>
+	<string>tabbarmodel</string>
+	<key>statelessOffset</key>
+	<string>keyChecklist</string>
+	<key>workflowBrightness</key>
+	<string>arithmeticNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSpecifier</key>
+	<string>canNavigateMonster</string>
+	<key>lostScroll</key>
+	<string>metadataDensity</string>
+	<key>priorMaterializer</key>
+	<string>checkboxSpacing</string>
+	<key>responsiveDisclaimer</key>
+	<string>seamlessParticle</string>
+	<key>shouldEmitNotifier</key>
+	<string>usedzonebehavior</string>
+	<key>shouldMountedWorkflow</key>
+	<string>consumeQueue</string>
+	<key>tappablePager</key>
+	<string>associatedIndicator</string>
+	<key>visibleAllocator</key>
+	<string>shouldvalidatecosine</string>
+</dict>
+</plist>

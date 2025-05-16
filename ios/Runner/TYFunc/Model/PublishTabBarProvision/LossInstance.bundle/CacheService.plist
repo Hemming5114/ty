@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableReducer</key>
+	<string>graphicresilience</string>
+	<key>listenpreview</key>
+	<string>cardFlags</string>
+	<key>nextCapacity</key>
+	<string>segmentVisitor</string>
+	<key>overridespot</key>
+	<string>customFrame</string>
+	<key>permissiveBrush</key>
+	<string>delegatestroke</string>
+	<key>subscribershape</key>
+	<string>transformMovement</string>
+	<key>webSubscriber</key>
+	<string>soundSaturation</string>
+</dict>
+</plist>

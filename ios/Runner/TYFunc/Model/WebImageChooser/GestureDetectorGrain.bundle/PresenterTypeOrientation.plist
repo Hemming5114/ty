@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSwift</key>
+	<string>canRebuildCapsule</string>
+	<key>aspectBrightness</key>
+	<string>draggableBatch</string>
+	<key>basicappbar</key>
+	<string>canCacheGesture</string>
+	<key>clustercenter</key>
+	<string>streamresponse</string>
+	<key>concurrentCheckbox</key>
+	<string>resizeWidget</string>
+	<key>pivotalTolerance</key>
+	<string>skipCheckbox</string>
+	<key>selectedoptimizer</key>
+	<string>gateaboutnumber</string>
+	<key>serviceType</key>
+	<string>dispatchButton</string>
+	<key>uniqueSizedBox</key>
+	<string>shouldPauseBrush</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushinterval</key>
+	<string>characterTheme</string>
+	<key>referenceframe</key>
+	<string>materialMobile</string>
+	<key>sanitizezone</key>
+	<string>graphTop</string>
+	<key>shouldFormatMember</key>
+	<string>canParseMission</string>
+	<key>workflowtheme</key>
+	<string>symmetricAudio</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblemetrics</key>
+	<string>entityDirection</string>
+	<key>joinerOffset</key>
+	<string>criticalClipper</string>
+	<key>objectPressure</key>
+	<string>imperativeCompleter</string>
+	<key>shouldRouteHero</key>
+	<string>canvasTemple</string>
+	<key>shouldbindprofile</key>
+	<string>scrollableResource</string>
+</dict>
+</plist>

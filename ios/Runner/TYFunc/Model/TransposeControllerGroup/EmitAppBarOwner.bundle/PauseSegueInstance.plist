@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTimeline</key>
+	<string>gridframeworkduration</string>
+	<key>constructactivity</key>
+	<string>canShowWorkflow</string>
+	<key>intermediateProgressBar</key>
+	<string>requiredsine</string>
+	<key>lostSign</key>
+	<string>insteadMetadata</string>
+	<key>secondAsset</key>
+	<string>isduration</string>
+	<key>shouldMountCurve</key>
+	<string>encodeGesture</string>
+	<key>symmetricPermutation</key>
+	<string>shouldPreparePositioned</string>
+</dict>
+</plist>

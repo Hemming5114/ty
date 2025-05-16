@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoNib</key>
+	<string>touchAllocator</string>
+	<key>detectorCount</key>
+	<string>gestureActivity</string>
+	<key>enumerateresource</key>
+	<string>diversifiedBuilder</string>
+	<key>mapperFrequency</key>
+	<string>themeType</string>
+	<key>synchronousRouter</key>
+	<string>shouldInflateSkin</string>
+	<key>timerfactory</key>
+	<string>draggableCollection</string>
+	<key>uniqueContrast</key>
+	<string>canYieldWidget</string>
+	<key>videoType</key>
+	<string>provisionHead</string>
+</dict>
+</plist>

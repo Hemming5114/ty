@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorevaluation</key>
+	<string>baselineright</string>
+	<key>bindchapter</key>
+	<string>immutableModel</string>
+	<key>missionparticle</key>
+	<string>gateStage</string>
+	<key>persistentSorter</key>
+	<string>collectiontheme</string>
+	<key>rectangleHead</key>
+	<string>richtextSkewY</string>
+	<key>releaseoverlay</key>
+	<string>permanentPager</string>
+	<key>shouldUnmountedCapacities</key>
+	<string>markSlider</string>
+	<key>similarGram</key>
+	<string>multiplicationnearmode</string>
+	<key>tablebutton</key>
+	<string>canceltimer</string>
+</dict>
+</plist>

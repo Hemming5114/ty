@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSpacing</key>
+	<string>enhanceMetadata</string>
+	<key>easyAudio</key>
+	<string>switchflags</string>
+	<key>hardController</key>
+	<string>navigationInteraction</string>
+	<key>invisibleCombiner</key>
+	<string>streamProjection</string>
+	<key>smartMerger</key>
+	<string>fusedBuilder</string>
+	<key>unactivatedSensor</key>
+	<string>respectiveAnimator</string>
+</dict>
+</plist>

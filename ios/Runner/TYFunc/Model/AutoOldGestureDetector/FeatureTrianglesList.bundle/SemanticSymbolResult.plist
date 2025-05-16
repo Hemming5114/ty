@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectduration</key>
+	<string>apertureName</string>
+	<key>cellLocation</key>
+	<string>canPrepareBatch</string>
+	<key>cellTension</key>
+	<string>accordionView</string>
+	<key>challengemode</key>
+	<string>rebuildBuilder</string>
+	<key>equivalenttension</key>
+	<string>groupCenter</string>
+	<key>factoryrotation</key>
+	<string>contractionObserver</string>
+	<key>hasFragment</key>
+	<string>firstResolver</string>
+	<key>mutableMomentum</key>
+	<string>recursionvalidation</string>
+	<key>scrollableElement</key>
+	<string>prismaticBehavior</string>
+	<key>shouldDisconnectSpecifier</key>
+	<string>concatenateduration</string>
+</dict>
+</plist>

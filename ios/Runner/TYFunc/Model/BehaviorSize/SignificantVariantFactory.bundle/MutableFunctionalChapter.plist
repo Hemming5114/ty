@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSpacing</key>
+	<string>standaloneUseCase</string>
+	<key>entityinset</key>
+	<string>navigateAwait</string>
+	<key>keepcubit</key>
+	<string>groupEnvironment</string>
+	<key>permissiveUnary</key>
+	<string>restartPositioned</string>
+	<key>shouldunmountedanimation</key>
+	<string>imagetasksize</string>
+	<key>statefulNode</key>
+	<string>finishLabel</string>
+	<key>typicaltitle</key>
+	<string>offsetStore</string>
+	<key>usagechart</key>
+	<string>easySubscriber</string>
+</dict>
+</plist>

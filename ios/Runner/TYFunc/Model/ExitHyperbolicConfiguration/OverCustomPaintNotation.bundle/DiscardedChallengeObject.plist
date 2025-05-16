@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelvarsize</key>
+	<string>resizeIsolate</string>
+	<key>disconnectbuffer</key>
+	<string>canHandleCycle</string>
+	<key>flexTheme</key>
+	<string>cupertinoshapesaturation</string>
+	<key>indicatorSkewY</key>
+	<string>canPaintCertificate</string>
+	<key>newestIcon</key>
+	<string>adaptiveImpression</string>
+	<key>shouldCacheSpecifier</key>
+	<string>visiblerectangle</string>
+	<key>shouldHandleSignature</key>
+	<string>hierarchicalSizedBox</string>
+	<key>symbolTint</key>
+	<string>segmentAlignment</string>
+	<key>unaryparameterpressure</key>
+	<string>shouldDisconnectStoryboard</string>
+</dict>
+</plist>

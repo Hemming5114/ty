@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalCluster</key>
+	<string>observerinteraction</string>
+	<key>shouldInflateRow</key>
+	<string>canListenSwitch</string>
+	<key>shouldbindpainter</key>
+	<string>shouldStopTable</string>
+	<key>shouldpublishfragment</key>
+	<string>cupertinoRenderer</string>
+	<key>statelessinsidevariable</key>
+	<string>shouldUnbindMovement</string>
+	<key>substantialListView</key>
+	<string>schematag</string>
+</dict>
+</plist>

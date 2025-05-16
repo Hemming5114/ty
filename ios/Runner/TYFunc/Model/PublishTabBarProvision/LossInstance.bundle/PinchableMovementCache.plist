@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStream</key>
+	<string>statusOrientation</string>
+	<key>commonStoryboard</key>
+	<string>listenAnimation</string>
+	<key>diffableMap</key>
+	<string>shouldObserveTextField</string>
+	<key>disparateInfrastructure</key>
+	<string>canDispatchAnimatedContainer</string>
+	<key>elasticmetadata</key>
+	<string>dismissSignature</string>
+	<key>interfaceorigin</key>
+	<string>declarativeBehavior</string>
+	<key>typicalQueue</key>
+	<string>savehistogram</string>
+</dict>
+</plist>

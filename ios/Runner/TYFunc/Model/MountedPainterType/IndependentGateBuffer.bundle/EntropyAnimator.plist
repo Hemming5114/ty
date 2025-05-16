@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticConstant</key>
+	<string>subtleMovement</string>
+	<key>behaviorTail</key>
+	<string>receiverSkewX</string>
+	<key>converterSize</key>
+	<string>baselineutil</string>
+	<key>fixedrow</key>
+	<string>segueAction</string>
+	<key>inflatesizedbox</key>
+	<string>notificationHead</string>
+	<key>lossStatus</key>
+	<string>subsequentnode</string>
+	<key>lostblocstyle</key>
+	<string>resumeMaterial</string>
+	<key>pushbehavior</key>
+	<string>canRouteThread</string>
+	<key>taxonomyRight</key>
+	<string>descriptiondispatcher</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTabView</key>
+	<string>declarativeconverter</string>
+	<key>combinerPosition</key>
+	<string>shouldanimateprofile</string>
+	<key>crudeSegment</key>
+	<string>integerDensity</string>
+	<key>draggablecoordinator</key>
+	<string>enumerateCallback</string>
+	<key>shouldParseStateful</key>
+	<string>listennib</string>
+	<key>sizedboxmomentum</key>
+	<string>substantialSorter</string>
+	<key>sophisticatedOccasion</key>
+	<string>directlyCatalyst</string>
+	<key>spotVisibility</key>
+	<string>shouldShowLog</string>
+	<key>usedSpine</key>
+	<string>originalMedia</string>
+</dict>
+</plist>

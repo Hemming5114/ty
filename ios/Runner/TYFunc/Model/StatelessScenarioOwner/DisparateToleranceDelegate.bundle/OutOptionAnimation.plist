@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedtasktheme</key>
+	<string>sensormargin</string>
+	<key>enabledEvaluation</key>
+	<string>firstDuration</string>
+	<key>fragmentwithoutphase</key>
+	<string>pinchablebatchdirection</string>
+	<key>fusedElement</key>
+	<string>dynamicPopup</string>
+	<key>localizationbesidemode</key>
+	<string>prepareIndicator</string>
+	<key>responsiveWorkflow</key>
+	<string>cloneDelegate</string>
+	<key>shouldRestartBaseline</key>
+	<string>secondStoryboard</string>
+	<key>tensorAsset</key>
+	<string>gemSize</string>
+</dict>
+</plist>

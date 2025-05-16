@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectcontainmemento</key>
+	<string>denseProject</string>
+	<key>parallelrowvalidation</key>
+	<string>blocscenario</string>
+	<key>pinchablemodelcoord</key>
+	<string>processFuture</string>
+	<key>responsivePreview</key>
+	<string>validateSensor</string>
+	<key>shouldEndBox</key>
+	<string>encapsulateContainer</string>
+</dict>
+</plist>

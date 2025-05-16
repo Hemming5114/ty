@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOrientation</key>
+	<string>activeDispatcher</string>
+	<key>disparateGridView</key>
+	<string>shouldPublishObserver</string>
+	<key>geometricNotification</key>
+	<string>axisOpacity</string>
+	<key>newestInterpolation</key>
+	<string>playbackTemple</string>
+	<key>touchnearvariable</key>
+	<string>easyEntity</string>
+</dict>
+</plist>

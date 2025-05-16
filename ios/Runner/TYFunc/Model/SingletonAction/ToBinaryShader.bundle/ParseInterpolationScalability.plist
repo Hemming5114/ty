@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentoperationfrequency</key>
+	<string>permissiveDisclaimer</string>
+	<key>mapMode</key>
+	<string>basicGridView</string>
+	<key>statelessDepth</key>
+	<string>referenceLocation</string>
+	<key>tabviewSkewY</key>
+	<string>seekInjection</string>
+</dict>
+</plist>

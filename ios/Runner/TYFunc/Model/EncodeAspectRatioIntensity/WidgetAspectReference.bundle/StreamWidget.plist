@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchSkewX</key>
+	<string>themeRate</string>
+	<key>displayableWidget</key>
+	<string>decodeSubpixel</string>
+	<key>parsestateless</key>
+	<string>primarycurve</string>
+	<key>subscriberStatus</key>
+	<string>extensionorientation</string>
+</dict>
+</plist>

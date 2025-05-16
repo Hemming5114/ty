@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationnearstrategy</key>
+	<string>canObserveLayout</string>
+	<key>graphchooser</key>
+	<string>agileRouter</string>
+	<key>robustConstant</key>
+	<string>interactiveReliability</string>
+	<key>scrollableConnector</key>
+	<string>sensorForce</string>
+	<key>shouldCreateProjection</key>
+	<string>cupertinoKernel</string>
+	<key>shouldSetStateSegment</key>
+	<string>defaultpromise</string>
+	<key>sustainableConverter</key>
+	<string>encapsulateView</string>
+	<key>transitionisolate</key>
+	<string>syncservice</string>
+</dict>
+</plist>

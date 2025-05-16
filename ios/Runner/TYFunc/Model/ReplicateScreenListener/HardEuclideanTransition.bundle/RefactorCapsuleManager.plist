@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineformat</key>
+	<string>consumervisitorcolor</string>
+	<key>cosinetaxonomy</key>
+	<string>shouldNavigateDimension</string>
+	<key>eagerCapacity</key>
+	<string>signatureBehavior</string>
+	<key>entropytint</key>
+	<string>smallresourcesize</string>
+	<key>localizationskewx</key>
+	<string>normalTrigger</string>
+	<key>pagerRotation</key>
+	<string>gridviewoperationtheme</string>
+</dict>
+</plist>

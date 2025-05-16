@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelcapacities</key>
+	<string>staticlayout</string>
+	<key>composableCache</key>
+	<string>searcherTint</string>
+	<key>immutableCharacteristic</key>
+	<string>cursorinset</string>
+	<key>loaderStyle</key>
+	<string>plateAcceleration</string>
+	<key>progressbarTransparency</key>
+	<string>significantModal</string>
+	<key>resizableSize</key>
+	<string>topicState</string>
+</dict>
+</plist>

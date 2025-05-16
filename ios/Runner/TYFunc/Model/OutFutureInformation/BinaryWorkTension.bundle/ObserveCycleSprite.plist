@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredtransitiondirection</key>
+	<string>associatedResult</string>
+	<key>methodalongphase</key>
+	<string>canLoadNotification</string>
+	<key>notifystack</key>
+	<string>bulletdata</string>
+	<key>polygonAlignment</key>
+	<string>holdAwait</string>
+	<key>priorCapsule</key>
+	<string>typicalaxis</string>
+	<key>prismaticSubscription</key>
+	<string>serializeAsync</string>
+	<key>smartPresenter</key>
+	<string>entityFacade</string>
+	<key>staticRoute</key>
+	<string>shouldUnmountPainter</string>
+	<key>workflowResponse</key>
+	<string>originalSkirt</string>
+</dict>
+</plist>

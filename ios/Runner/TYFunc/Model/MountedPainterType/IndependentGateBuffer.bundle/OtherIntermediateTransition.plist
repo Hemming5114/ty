@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRadio</key>
+	<string>switchofplatform</string>
+	<key>arithmeticLeft</key>
+	<string>seamlessEquipment</string>
+	<key>converterMargin</key>
+	<string>shouldLayoutTable</string>
+	<key>denseTriangles</key>
+	<string>imageComposite</string>
+	<key>emitcallback</key>
+	<string>logTag</string>
+	<key>hasExtension</key>
+	<string>unlockScene</string>
+	<key>logPosition</key>
+	<string>euclideanRect</string>
+	<key>provisionCenter</key>
+	<string>shouldDismissPet</string>
+	<key>pushsession</key>
+	<string>petScope</string>
+	<key>threadservice</key>
+	<string>selecteddialogs</string>
+</dict>
+</plist>

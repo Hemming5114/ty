@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>searcherDelay</key>
+	<string>oldElement</string>
+	<key>shapeTail</key>
+	<string>deserializeBox</string>
+	<key>shouldHandleRole</key>
+	<string>calculateRadius</string>
+	<key>subsequentResolver</key>
+	<string>canContinueSwift</string>
+	<key>transitionchannel</key>
+	<string>interactivegrainrotation</string>
+</dict>
+</plist>

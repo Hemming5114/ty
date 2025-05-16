@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalMetrics</key>
+	<string>canNavigateCycle</string>
+	<key>connectsine</key>
+	<string>canValidateExtension</string>
+	<key>containerStyle</key>
+	<string>mixinBuffer</string>
+	<key>resizableBrush</key>
+	<string>typicalScene</string>
+	<key>shouldendnorm</key>
+	<string>shouldUnmountedText</string>
+	<key>thresholdPressure</key>
+	<string>replaceStep</string>
+</dict>
+</plist>

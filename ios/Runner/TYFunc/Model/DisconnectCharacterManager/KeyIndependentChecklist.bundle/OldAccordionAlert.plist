@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherDirection</key>
+	<string>explicitStorage</string>
+	<key>fusedTweak</key>
+	<string>lastRecursion</string>
+	<key>gridefficiency</key>
+	<string>spineSaturation</string>
+	<key>shouldhandlebatch</key>
+	<string>shouldEmitCanvas</string>
+	<key>storageevent</key>
+	<string>shouldTrainBinary</string>
+</dict>
+</plist>

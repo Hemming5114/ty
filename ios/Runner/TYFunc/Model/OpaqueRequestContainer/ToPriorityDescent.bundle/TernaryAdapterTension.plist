@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileThroughput</key>
+	<string>formatSpeed</string>
+	<key>certificaterepository</key>
+	<string>setupAction</string>
+	<key>desktopInstruction</key>
+	<string>chapterorigin</string>
+	<key>lazySearcher</key>
+	<string>actionRotation</string>
+	<key>mapCount</key>
+	<string>animateMargin</string>
+	<key>newesteffect</key>
+	<string>seamlessPreview</string>
+	<key>notifierType</key>
+	<string>resulttransparency</string>
+	<key>requiredElement</key>
+	<string>hasAlpha</string>
+	<key>shouldConnectNotifier</key>
+	<string>cartesianThread</string>
+	<key>shouldParseExtension</key>
+	<string>invisibleUnary</string>
+</dict>
+</plist>

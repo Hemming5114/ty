@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLatency</key>
+	<string>criticalBrush</string>
+	<key>directSpine</key>
+	<string>progressbarBottom</string>
+	<key>framevaluecoord</key>
+	<string>clippervertex</string>
+	<key>hasduration</key>
+	<string>appbarMargin</string>
+	<key>referenceContrast</key>
+	<string>checklistoperationformat</string>
+	<key>sequentialQueue</key>
+	<string>shouldSerializeGesture</string>
+	<key>transitionworkflow</key>
+	<string>traversalColor</string>
+</dict>
+</plist>

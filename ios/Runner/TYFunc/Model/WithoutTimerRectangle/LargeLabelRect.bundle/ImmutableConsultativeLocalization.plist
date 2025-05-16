@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteRichText</key>
+	<string>masterLevel</string>
+	<key>equalizationRate</key>
+	<string>canDisposeMusic</string>
+	<key>reactivePosition</key>
+	<string>shouldRebuildText</string>
+	<key>wraplistener</key>
+	<string>activatedIndicator</string>
+</dict>
+</plist>

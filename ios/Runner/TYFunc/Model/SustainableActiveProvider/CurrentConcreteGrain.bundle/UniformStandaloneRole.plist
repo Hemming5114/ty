@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSwift</key>
+	<string>futureTheme</string>
+	<key>binarystatus</key>
+	<string>shouldNotifyStateful</string>
+	<key>disparateActivity</key>
+	<string>endstateless</string>
+	<key>exceptionInterval</key>
+	<string>equipmentTransparency</string>
+	<key>frameName</key>
+	<string>retainedUsage</string>
+	<key>marginRotation</key>
+	<string>mapdepth</string>
+	<key>radiostageedge</key>
+	<string>typicalArchitecture</string>
+	<key>robustRoute</key>
+	<string>continueLoss</string>
+	<key>shouldUnmountCapacities</key>
+	<string>shouldSubscribeArithmetic</string>
+</dict>
+</plist>

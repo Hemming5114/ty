@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultternary</key>
+	<string>canSubscribeRole</string>
+	<key>delegatebufferstate</key>
+	<string>delegateText</string>
+	<key>desktopPromise</key>
+	<string>stateAppearance</string>
+	<key>entropyadapterdensity</key>
+	<string>temporaryTime</string>
+	<key>matrixFrequency</key>
+	<string>cupertinoTier</string>
+	<key>nativeCertificate</key>
+	<string>extensionemitter</string>
+	<key>shouldStartGrayscale</key>
+	<string>unmountbatch</string>
+	<key>smartEmitter</key>
+	<string>dismissUnary</string>
+	<key>standaloneBrush</key>
+	<string>currentIntensity</string>
+</dict>
+</plist>

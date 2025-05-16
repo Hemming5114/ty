@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEffect</key>
+	<string>consultativecosineindex</string>
+	<key>basicMaster</key>
+	<string>cacheSubpixel</string>
+	<key>deferredBullet</key>
+	<string>columnpicker</string>
+	<key>lastGrid</key>
+	<string>serializeMission</string>
+	<key>tickerhue</key>
+	<string>spotFacade</string>
+</dict>
+</plist>

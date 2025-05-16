@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiverestriction</key>
+	<string>shouldYieldMovement</string>
+	<key>difficultContraction</key>
+	<string>asynchronousobject</string>
+	<key>firstSession</key>
+	<string>immutableResource</string>
+	<key>isChallenge</key>
+	<string>fragmentticker</string>
+	<key>listviewtentative</key>
+	<string>finishhandler</string>
+	<key>previewDelay</key>
+	<string>integrityDelay</string>
+</dict>
+</plist>

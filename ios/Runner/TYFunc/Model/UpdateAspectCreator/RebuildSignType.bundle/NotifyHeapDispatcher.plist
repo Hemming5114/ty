@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBound</key>
+	<string>shouldAnimateSwift</string>
+	<key>globalSemantics</key>
+	<string>lastReduction</string>
+	<key>originalRadio</key>
+	<string>shouldtransformheap</string>
+	<key>semanticsContrast</key>
+	<string>commonState</string>
+	<key>sortedResponse</key>
+	<string>convertText</string>
+	<key>typicalslider</key>
+	<string>accessoryOpacity</string>
+	<key>unactivatedGraphic</key>
+	<string>canContinueCompletion</string>
+</dict>
+</plist>

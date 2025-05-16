@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCustomPaint</key>
+	<string>spinManager</string>
+	<key>compositionalMaterial</key>
+	<string>currentmodal</string>
+	<key>compositionalOverlay</key>
+	<string>liteProtocol</string>
+	<key>defaultinteger</key>
+	<string>boxshadowStage</string>
+	<key>hyperbolicTechnique</key>
+	<string>notificationPattern</string>
+	<key>routerScale</key>
+	<string>parseText</string>
+	<key>shouldDispatchConsumer</key>
+	<string>declarativeMesh</string>
+	<key>shouldMountCompletion</key>
+	<string>similarScene</string>
+</dict>
+</plist>

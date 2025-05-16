@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackcluster</key>
+	<string>shouldRouteBullet</string>
+	<key>criticalTheme</key>
+	<string>shouldValidateLog</string>
+	<key>difficultSkin</key>
+	<string>benchmarkTimer</string>
+	<key>eagerAperture</key>
+	<string>showLogarithm</string>
+	<key>mediocreDrawer</key>
+	<string>gradientcompleter</string>
+	<key>rectTail</key>
+	<string>canInflateDialogs</string>
+</dict>
+</plist>

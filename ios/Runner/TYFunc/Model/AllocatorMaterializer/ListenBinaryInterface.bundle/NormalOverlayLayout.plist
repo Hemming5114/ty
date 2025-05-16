@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiothreshold</key>
+	<string>visualizeSprite</string>
+	<key>bandwidthBehavior</key>
+	<string>debugTexture</string>
+	<key>customizedView</key>
+	<string>multiFragment</string>
+	<key>decorationCoord</key>
+	<string>canContinueAnchor</string>
+	<key>mediaquerybound</key>
+	<string>looplinker</string>
+	<key>previewscale</key>
+	<string>buttonversusvalue</string>
+	<key>radiotypepressure</key>
+	<string>iconAdapter</string>
+	<key>shouldPopSlider</key>
+	<string>mediaqueryormode</string>
+	<key>shouldUpdateBuilder</key>
+	<string>removeError</string>
+</dict>
+</plist>

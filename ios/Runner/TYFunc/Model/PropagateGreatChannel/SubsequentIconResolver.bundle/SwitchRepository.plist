@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateDuration</key>
+	<string>canRenderExponent</string>
+	<key>channelsduringvar</key>
+	<string>baselineName</string>
+	<key>consumptionbrightness</key>
+	<string>canDetachStoryboard</string>
+	<key>detachscaffold</key>
+	<string>shouldobservevariant</string>
+	<key>directFormat</key>
+	<string>navigateLogarithm</string>
+	<key>explicitConsumption</key>
+	<string>shouldSkipBullet</string>
+	<key>filterPadding</key>
+	<string>canShowSegue</string>
+	<key>ignoredExtension</key>
+	<string>deployChannel</string>
+	<key>resilienceDelay</key>
+	<string>observerInterpreter</string>
+</dict>
+</plist>

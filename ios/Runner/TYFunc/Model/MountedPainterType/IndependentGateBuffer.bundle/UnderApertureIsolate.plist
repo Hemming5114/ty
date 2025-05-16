@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalQuaternion</key>
+	<string>largeInjection</string>
+	<key>crudeStack</key>
+	<string>stackContext</string>
+	<key>liteAmortization</key>
+	<string>resizableFeature</string>
+	<key>presenterSkewX</key>
+	<string>shouldValidateMedia</string>
+	<key>shouldCreateTabView</key>
+	<string>specifyMission</string>
+</dict>
+</plist>

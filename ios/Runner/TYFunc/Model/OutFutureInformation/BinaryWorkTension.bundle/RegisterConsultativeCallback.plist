@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneallocator</key>
+	<string>specifyLatency</string>
+	<key>eagerParticle</key>
+	<string>resizableScaffold</string>
+	<key>featureFrequency</key>
+	<string>canShowBuilder</string>
+	<key>invisibleController</key>
+	<string>shouldPersistSpine</string>
+	<key>lastAnimation</key>
+	<string>copyBuilder</string>
+	<key>materialElasticity</key>
+	<string>disabledStateless</string>
+	<key>pinchableAscent</key>
+	<string>trainSession</string>
+	<key>previewformsaturation</key>
+	<string>layeraboutvariable</string>
+	<key>providerValidation</key>
+	<string>fixedAwait</string>
+	<key>shouldPersistBehavior</key>
+	<string>originalJoiner</string>
+</dict>
+</plist>

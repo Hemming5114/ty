@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedprovider</key>
+	<string>ephemeralaction</string>
+	<key>isolateorigin</key>
+	<string>mediocreEmitter</string>
+	<key>missedCursor</key>
+	<string>quitListener</string>
+	<key>multigradientorigin</key>
+	<string>routeConsumer</string>
+	<key>notificationSpeed</key>
+	<string>brushgraph</string>
+	<key>shouldDetachInteger</key>
+	<string>specifyTheme</string>
+	<key>shouldPauseFlex</key>
+	<string>granularReduction</string>
+	<key>thresholdFormat</key>
+	<string>escalateInteractor</string>
+	<key>uniqueCubit</key>
+	<string>statefulMember</string>
+	<key>unsortedMusic</key>
+	<string>concreteOption</string>
+</dict>
+</plist>

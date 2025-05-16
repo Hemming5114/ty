@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactercontextorigin</key>
+	<string>disposebuffer</string>
+	<key>exceptionobject</key>
+	<string>heapTask</string>
+	<key>mediaqueryradius</key>
+	<string>mobileDelay</string>
+	<key>semanticImage</key>
+	<string>contrastTheme</string>
+	<key>shouldTransformReference</key>
+	<string>canObserveAperture</string>
+	<key>symmetricElasticity</key>
+	<string>subtleResponse</string>
+	<key>trainalpha</key>
+	<string>activityVisible</string>
+</dict>
+</plist>

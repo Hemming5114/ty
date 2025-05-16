@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintdensity</key>
+	<string>refreshDescription</string>
+	<key>globalIntegration</key>
+	<string>paddingCenter</string>
+	<key>intuitiveTaxonomy</key>
+	<string>coordinatorInset</string>
+	<key>modalAcceleration</key>
+	<string>dispatcherKind</string>
+	<key>particlestatus</key>
+	<string>bufferBridge</string>
+	<key>pinchablePlayback</key>
+	<string>encodeScroll</string>
+	<key>seamlessmanagerfrequency</key>
+	<string>trainActivity</string>
+	<key>selectedView</key>
+	<string>flexibleContrast</string>
+	<key>shouldProcessComposition</key>
+	<string>pausePlayback</string>
+	<key>shouldSetStateLoss</key>
+	<string>canDismissOperation</string>
+</dict>
+</plist>

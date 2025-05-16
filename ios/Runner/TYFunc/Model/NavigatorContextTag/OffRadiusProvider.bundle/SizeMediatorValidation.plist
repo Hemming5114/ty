@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedInfrastructure</key>
+	<string>popupCommand</string>
+	<key>lossofproxy</key>
+	<string>subtleNode</string>
+	<key>mapstream</key>
+	<string>multiplyprovider</string>
+	<key>queuecontextdepth</key>
+	<string>presenterChain</string>
+	<key>shouldFetchCollection</key>
+	<string>toolevent</string>
+	<key>shouldUnmountSignature</key>
+	<string>createUnary</string>
+	<key>substantialCapacity</key>
+	<string>difficultresolverorigin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTag</key>
+	<string>lossHead</string>
+	<key>ignoredRequest</key>
+	<string>fragmentsTheme</string>
+	<key>inactiveRenderer</key>
+	<string>quantizergroup</string>
+	<key>isprojection</key>
+	<string>persistenttextureshade</string>
+	<key>topicjoiner</key>
+	<string>typicalsine</string>
+</dict>
+</plist>

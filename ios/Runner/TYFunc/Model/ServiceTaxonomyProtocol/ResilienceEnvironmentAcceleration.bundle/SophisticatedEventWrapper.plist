@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlySound</key>
+	<string>asynchronousAxis</string>
+	<key>imagespacing</key>
+	<string>aperturecount</string>
+	<key>onstackchanged</key>
+	<string>otherPageView</string>
+	<key>providehash</key>
+	<string>inflateGraph</string>
+	<key>shouldCancelDecoration</key>
+	<string>opaqueBorder</string>
+	<key>substantialnavigator</key>
+	<string>clonelayout</string>
+	<key>timertierkind</key>
+	<string>petMargin</string>
+</dict>
+</plist>

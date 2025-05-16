@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEmitter</key>
+	<string>presenterProcess</string>
+	<key>blocInset</key>
+	<string>listentabbar</string>
+	<key>materialTriangles</key>
+	<string>activeResult</string>
+	<key>statelessSemantics</key>
+	<string>canDispatchGesture</string>
+	<key>webconsumption</key>
+	<string>dialogsVelocity</string>
+</dict>
+</plist>

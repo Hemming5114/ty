@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilemodal</key>
+	<string>customAnalogy</string>
+	<key>composableContainer</key>
+	<string>materialFunction</string>
+	<key>descriptionrecursion</key>
+	<string>fragmentStrategy</string>
+	<key>protectedTopic</key>
+	<string>lazyProgressBar</string>
+	<key>responsiveArithmetic</key>
+	<string>serializeCheckbox</string>
+	<key>serviceforce</key>
+	<string>customCard</string>
+	<key>shouldMountMediaQuery</key>
+	<string>permissiveCluster</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitylocalization</key>
+	<string>shouldMountedAspectRatio</string>
+	<key>adaptiveConnector</key>
+	<string>updateStateless</string>
+	<key>lostAnimator</key>
+	<string>deferredMetrics</string>
+	<key>presenteractionbehavior</key>
+	<string>agileTimer</string>
+	<key>resizableIcon</key>
+	<string>canDispatchProject</string>
+	<key>responsiveRouter</key>
+	<string>permissiveRemediation</string>
+</dict>
+</plist>

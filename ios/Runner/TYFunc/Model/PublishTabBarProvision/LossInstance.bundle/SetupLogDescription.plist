@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativequeue</key>
+	<string>configurationselector</string>
+	<key>cubitmethodhue</key>
+	<string>optimizerfrequency</string>
+	<key>euclideanContainer</key>
+	<string>canMountPageView</string>
+	<key>observerOrigin</key>
+	<string>specifierticker</string>
+	<key>shouldFinishOverlay</key>
+	<string>ternaryatbuffer</string>
+	<key>sortedRichText</key>
+	<string>shouldCancelScreen</string>
+	<key>statefulLayout</key>
+	<string>backwardNavigator</string>
+	<key>sustainableMaster</key>
+	<string>pauseColumn</string>
+</dict>
+</plist>

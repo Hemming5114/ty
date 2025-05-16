@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicIndex</key>
+	<string>seamlessallocatorduration</string>
+	<key>cupertinocompositeorientation</key>
+	<string>shouldStreamLayout</string>
+	<key>eagerRole</key>
+	<string>defaultdimension</string>
+	<key>inactiveCompleter</key>
+	<string>constraintResponse</string>
+	<key>mobileQueue</key>
+	<string>exponentMode</string>
+	<key>oldEmitter</key>
+	<string>animatedanchordistance</string>
+	<key>shouldattachgesturedetector</key>
+	<string>rectNumber</string>
+	<key>sineasprocess</key>
+	<string>sophisticatedDispatcher</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderFeedback</key>
+	<string>skirtAlignment</string>
+	<key>custompaintactivityalignment</key>
+	<string>responseSaturation</string>
+	<key>decorationDensity</key>
+	<string>elasticityType</string>
+	<key>desktopEntity</key>
+	<string>textName</string>
+	<key>disparateMethod</key>
+	<string>statelessRect</string>
+	<key>invisibleBinary</key>
+	<string>canBuildNavigator</string>
+	<key>newestusecase</key>
+	<string>sortedStatus</string>
+	<key>shouldSetStateNavigator</key>
+	<string>serializeHistogram</string>
+	<key>statefulBuffer</key>
+	<string>mediathannumber</string>
+</dict>
+</plist>

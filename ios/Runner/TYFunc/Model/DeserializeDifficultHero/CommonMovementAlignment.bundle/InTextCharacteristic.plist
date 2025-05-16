@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistDensity</key>
+	<string>fragmentsAcceleration</string>
+	<key>geometricConstraint</key>
+	<string>priorRect</string>
+	<key>hasVariant</key>
+	<string>mobileTransformer</string>
+	<key>hashformstyle</key>
+	<string>reducereducer</string>
+	<key>responsiveAsset</key>
+	<string>semanticEvolution</string>
+	<key>selectedinkwell</key>
+	<string>imperativeImpact</string>
+	<key>unaryOpacity</key>
+	<string>elasticvector</string>
+	<key>vectorBehavior</key>
+	<string>entropyInterval</string>
+</dict>
+</plist>

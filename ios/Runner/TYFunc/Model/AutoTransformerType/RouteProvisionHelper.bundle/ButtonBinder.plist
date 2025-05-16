@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertMode</key>
+	<string>canPopPromise</string>
+	<key>gemforsingleton</key>
+	<string>provideraspect</string>
+	<key>mediaqueryinterface</key>
+	<string>configurePreview</string>
+	<key>remainderSpeed</key>
+	<string>interactionRotation</string>
+	<key>shouldCreateTask</key>
+	<string>overlayMomentum</string>
+	<key>sophisticatedGrain</key>
+	<string>canStartProvider</string>
+</dict>
+</plist>

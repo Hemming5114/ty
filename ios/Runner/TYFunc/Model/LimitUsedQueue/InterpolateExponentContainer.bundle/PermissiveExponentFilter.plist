@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeaspectsize</key>
+	<string>directlyConfidentiality</string>
+	<key>displayableInjection</key>
+	<string>titlewithoutchain</string>
+	<key>heroRotation</key>
+	<string>inactiveAnimatedContainer</string>
+	<key>shouldSkipHistogram</key>
+	<string>sequentialCupertino</string>
+	<key>shoulddispatchcustompaint</key>
+	<string>canPublishStamp</string>
+	<key>shouldprocessvariant</key>
+	<string>prepareDelegate</string>
+	<key>shouldstreamconsumer</key>
+	<string>shouldSetStateStoryboard</string>
+	<key>sustainableMatrix</key>
+	<string>canPaintChannels</string>
+	<key>themekind</key>
+	<string>staticFlex</string>
+</dict>
+</plist>

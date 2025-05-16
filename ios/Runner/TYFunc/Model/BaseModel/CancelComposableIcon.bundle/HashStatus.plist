@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileChooser</key>
+	<string>coordinatortype</string>
+	<key>deferredModal</key>
+	<string>prevMomentum</string>
+	<key>enabledcolor</key>
+	<string>canDisposeStateless</string>
+	<key>occasionFlags</key>
+	<string>shouldFormatAccessory</string>
+	<key>pickerFlags</key>
+	<string>restrictionDistance</string>
+	<key>platethreshold</key>
+	<string>delegateWidget</string>
+	<key>resourceSkewY</key>
+	<string>shouldAttachNotification</string>
+	<key>shouldTransformMedia</key>
+	<string>apertureStructure</string>
+	<key>specifyInfrastructure</key>
+	<string>displayInjection</string>
+</dict>
+</plist>

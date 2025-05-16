@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardMargin</key>
+	<string>refreshButton</string>
+	<key>flexibleModulus</key>
+	<string>shouldBindController</string>
+	<key>isClipper</key>
+	<string>addstamp</string>
+	<key>largeFilter</key>
+	<string>shouldobservechecklist</string>
+	<key>navigateaspectratio</key>
+	<string>renderCursor</string>
+	<key>shouldCancelMission</key>
+	<string>destroyRepository</string>
+	<key>shouldEndPromise</key>
+	<string>popupscopespacing</string>
+	<key>shouldStreamInstruction</key>
+	<string>promiseRight</string>
+</dict>
+</plist>

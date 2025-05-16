@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCapsule</key>
+	<string>mobileBitrate</string>
+	<key>composableGridView</key>
+	<string>layoutDocument</string>
+	<key>granularJoiner</key>
+	<string>progressbarlikememento</string>
+	<key>keypopup</key>
+	<string>toleranceFeedback</string>
+	<key>musicscale</key>
+	<string>validatePlate</string>
+	<key>shouldPublishMobile</key>
+	<string>cupertinoStructure</string>
+</dict>
+</plist>

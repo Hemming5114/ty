@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilesignborder</key>
+	<string>shearContainer</string>
+	<key>augmentcoordinator</key>
+	<string>configurationForm</string>
+	<key>contractionSkewY</key>
+	<string>persisttabview</string>
+	<key>giftSpacing</key>
+	<string>shouldPaintCompletion</string>
+	<key>integerFeedback</key>
+	<string>optimizerComposite</string>
+	<key>preparestorage</key>
+	<string>encodeSpecifier</string>
+	<key>rendererPadding</key>
+	<string>spineParameter</string>
+	<key>responseFlags</key>
+	<string>sizeBrightness</string>
+	<key>shouldInflateSkirt</key>
+	<string>signaturekind</string>
+</dict>
+</plist>

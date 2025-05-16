@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentFormat</key>
+	<string>equalizationFormat</string>
+	<key>inheritedPublisher</key>
+	<string>extensionInset</string>
+	<key>integrationMomentum</key>
+	<string>divideprofile</string>
+	<key>localizationscalability</key>
+	<string>semanticUsage</string>
+	<key>painterSkewX</key>
+	<string>discardedBuffer</string>
+	<key>shouldSkipSine</key>
+	<string>unsortedStateful</string>
+	<key>statelessModulus</key>
+	<string>mountedTabView</string>
+	<key>symmetricTechnique</key>
+	<string>criticalBaseline</string>
+	<key>uniqueHandler</key>
+	<string>receiveFrame</string>
+	<key>unmountpadding</key>
+	<string>allocatorMemento</string>
+</dict>
+</plist>

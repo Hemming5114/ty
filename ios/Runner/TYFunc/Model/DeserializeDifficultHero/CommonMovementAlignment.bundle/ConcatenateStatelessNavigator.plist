@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeanimation</key>
+	<string>showcursor</string>
+	<key>skirtHue</key>
+	<string>shouldReplaceFragment</string>
+	<key>temporaryProcessor</key>
+	<string>explicitImage</string>
+</dict>
+</plist>

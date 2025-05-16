@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTrigger</key>
+	<string>skirttext</string>
+	<key>cardpreview</key>
+	<string>canFinishCurve</string>
+	<key>intuitiveStoryboard</key>
+	<string>pageviewhead</string>
+	<key>requestanalogy</key>
+	<string>permanentdelegate</string>
+	<key>specifyProject</key>
+	<string>interactorrecursion</string>
+	<key>spritejoiner</key>
+	<string>layerStructure</string>
+</dict>
+</plist>

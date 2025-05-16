@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionVelocity</key>
+	<string>asynchronousRepository</string>
+	<key>ignoredRepository</key>
+	<string>imageHue</string>
+	<key>missedGradient</key>
+	<string>precisionTheme</string>
+	<key>missedLoop</key>
+	<string>uniquecachetop</string>
+	<key>otherIntegrity</key>
+	<string>mountFuture</string>
+	<key>processorPadding</key>
+	<string>permanentTransition</string>
+	<key>relationalModal</key>
+	<string>recursionAppearance</string>
+	<key>seamlessLayer</key>
+	<string>canRestartCanvas</string>
+	<key>shouldParseCanvas</key>
+	<string>pivotalOccasion</string>
+</dict>
+</plist>

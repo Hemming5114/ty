@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledstatecenter</key>
+	<string>monsterattask</string>
+	<key>intuitivesensor</key>
+	<string>otherBox</string>
+	<key>keyCube</key>
+	<string>resizableTolerance</string>
+	<key>lastStrength</key>
+	<string>checklistRight</string>
+	<key>sophisticatedPresenter</key>
+	<string>navigatorInset</string>
+</dict>
+</plist>

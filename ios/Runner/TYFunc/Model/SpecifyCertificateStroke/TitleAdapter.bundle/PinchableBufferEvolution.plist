@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryRate</key>
+	<string>canPublishColumn</string>
+	<key>lossLocation</key>
+	<string>timerProcess</string>
+	<key>navigatorInset</key>
+	<string>soundTransparency</string>
+	<key>priorRoute</key>
+	<string>shouldEmitExponent</string>
+	<key>scrollableLatency</key>
+	<string>asynchronousPrecision</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicShader</key>
+	<string>navigatepopup</string>
+	<key>embedtouch</key>
+	<string>secondPolygon</string>
+	<key>euclideanBuffer</key>
+	<string>pinchableIcon</string>
+	<key>pinchableGate</key>
+	<string>responsiveProvision</string>
+	<key>remainderTop</key>
+	<string>shouldFetchScale</string>
+	<key>seguechapter</key>
+	<string>canFinishMaterial</string>
+	<key>serializeutil</key>
+	<string>utilcyclecenter</string>
+	<key>shouldPersistFuture</key>
+	<string>canAttachExponent</string>
+	<key>stackScale</key>
+	<string>emitSignature</string>
+</dict>
+</plist>

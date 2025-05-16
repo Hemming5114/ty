@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoConstraint</key>
+	<string>draggableInteractor</string>
+	<key>decorationstate</key>
+	<string>independentStateless</string>
+	<key>directlyComposition</key>
+	<string>slashprototypescale</string>
+	<key>nodeinfo</key>
+	<string>symmetricobserver</string>
+	<key>observerSpacing</key>
+	<string>protectedZone</string>
+	<key>queueLeft</key>
+	<string>monsterForce</string>
+	<key>shouldRouteSpecifier</key>
+	<string>inactivestamplocation</string>
+	<key>shouldattachpet</key>
+	<string>imperativeFrame</string>
+	<key>slashCenter</key>
+	<string>aggregateIsolate</string>
+	<key>statelessReceiver</key>
+	<string>normalAlert</string>
+</dict>
+</plist>

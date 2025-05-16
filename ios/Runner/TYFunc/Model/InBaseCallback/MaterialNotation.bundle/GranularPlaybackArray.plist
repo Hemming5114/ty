@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindchannel</key>
+	<string>buildsubpixel</string>
+	<key>criticalView</key>
+	<string>basicSkin</string>
+	<key>oldOptimizer</key>
+	<string>featureTint</string>
+	<key>primaryContrast</key>
+	<string>symmetricCosine</string>
+	<key>servicemargin</key>
+	<string>indicatorHue</string>
+</dict>
+</plist>

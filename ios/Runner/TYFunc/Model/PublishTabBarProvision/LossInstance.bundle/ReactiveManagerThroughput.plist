@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTable</key>
+	<string>receiverAlignment</string>
+	<key>bitrateuntilcontext</key>
+	<string>shouldTransitionCache</string>
+	<key>configurationSaturation</key>
+	<string>axisPadding</string>
+	<key>delicatePublisher</key>
+	<string>restartGem</string>
+	<key>latencyInteraction</key>
+	<string>mountedCurve</string>
+	<key>projectShape</key>
+	<string>dropdownbuttonMemento</string>
+</dict>
+</plist>

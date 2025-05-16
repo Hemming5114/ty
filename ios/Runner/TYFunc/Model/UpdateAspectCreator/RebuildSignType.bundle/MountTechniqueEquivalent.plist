@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>projectorvar</key>
+	<string>paintChannels</string>
+	<key>shouldConnectPageView</key>
+	<string>permissiveTransformer</string>
+	<key>significantSplitter</key>
+	<string>retainedhistogramappearance</string>
+</dict>
+</plist>

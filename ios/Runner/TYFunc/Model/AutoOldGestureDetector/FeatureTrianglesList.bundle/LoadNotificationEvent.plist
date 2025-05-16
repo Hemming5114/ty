@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterLocation</key>
+	<string>enabledCoordinator</string>
+	<key>gemlayerduration</key>
+	<string>dropoutResponse</string>
+	<key>materializermargin</key>
+	<string>canPrepareButton</string>
+	<key>relationalPadding</key>
+	<string>constructpopup</string>
+	<key>sharedArchitecture</key>
+	<string>shouldPresentCell</string>
+	<key>subscriptionBrightness</key>
+	<string>canLoadBloc</string>
+	<key>temporaryAlignment</key>
+	<string>aspectMargin</string>
+</dict>
+</plist>

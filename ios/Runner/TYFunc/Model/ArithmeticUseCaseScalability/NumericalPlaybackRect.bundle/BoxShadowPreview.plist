@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateReducer</key>
+	<string>uniformTask</string>
+	<key>firstIcon</key>
+	<string>awaitFacade</string>
+	<key>granularActivity</key>
+	<string>functionalDispatcher</string>
+	<key>playbackOrientation</key>
+	<string>handlerleft</string>
+	<key>singletonForce</key>
+	<string>viewgrid</string>
+	<key>temporaryLinker</key>
+	<string>petPressure</string>
+	<key>threadfeedback</key>
+	<string>persistproject</string>
+	<key>wrapentropy</key>
+	<string>listviewVisitor</string>
+</dict>
+</plist>

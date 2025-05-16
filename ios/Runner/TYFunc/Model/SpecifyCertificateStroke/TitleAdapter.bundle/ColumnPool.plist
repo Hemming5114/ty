@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionschema</key>
+	<string>offsetfinder</string>
+	<key>customizedRadio</key>
+	<string>spineskewy</string>
+	<key>customizedResponder</key>
+	<string>globalSingleton</string>
+	<key>metadatacyclestatus</key>
+	<string>layoutMemento</string>
+	<key>secondSink</key>
+	<string>otherPublisher</string>
+	<key>shouldDismissGem</key>
+	<string>processradius</string>
+	<key>shouldParseAnimatedContainer</key>
+	<string>scheduleTransition</string>
+	<key>unsortedAnalogy</key>
+	<string>basicTrajectory</string>
+</dict>
+</plist>

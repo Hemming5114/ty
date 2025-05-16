@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledSpine</key>
+	<string>joinerResponse</string>
+	<key>interactiveChecklist</key>
+	<string>appendGrid</string>
+	<key>notificationvalidation</key>
+	<string>bulletTag</string>
+	<key>permanentCharacteristic</key>
+	<string>statefulDensity</string>
+	<key>prismaticjoiner</key>
+	<string>cancelScreen</string>
+	<key>routedecoration</key>
+	<string>shouldFetchOverlay</string>
+	<key>shouldPushActivity</key>
+	<string>resilientHero</string>
+	<key>similarTweak</key>
+	<string>inheritedsemanticsskewx</string>
+	<key>sinkhue</key>
+	<string>confidentialityBorder</string>
+	<key>taskLocation</key>
+	<string>keepCompletion</string>
+</dict>
+</plist>

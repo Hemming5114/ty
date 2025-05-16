@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorright</key>
+	<string>shouldUnbindCoordinator</string>
+	<key>infrastructureVisibility</key>
+	<string>shouldFinishSlider</string>
+	<key>shouldAttachChallenge</key>
+	<string>logAppearance</string>
+	<key>uniformTransformer</key>
+	<string>dataInterval</string>
+	<key>uniformTrigger</key>
+	<string>retainDelegate</string>
+</dict>
+</plist>

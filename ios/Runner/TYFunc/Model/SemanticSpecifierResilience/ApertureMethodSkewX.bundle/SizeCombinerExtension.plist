@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerefficiency</key>
+	<string>materialStatus</string>
+	<key>enabledCompleter</key>
+	<string>obtainRadius</string>
+	<key>localcycle</key>
+	<string>hashVisibility</string>
+	<key>relationalRole</key>
+	<string>canDetachMonster</string>
+	<key>shouldDismissText</key>
+	<string>euclideanFeature</string>
+</dict>
+</plist>

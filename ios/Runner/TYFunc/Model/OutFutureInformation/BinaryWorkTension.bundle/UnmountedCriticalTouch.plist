@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerLocalization</key>
+	<string>shouldEndRoute</string>
+	<key>nativeStoryboard</key>
+	<string>canPublishRoute</string>
+	<key>prioranimation</key>
+	<string>protectedCombiner</string>
+</dict>
+</plist>

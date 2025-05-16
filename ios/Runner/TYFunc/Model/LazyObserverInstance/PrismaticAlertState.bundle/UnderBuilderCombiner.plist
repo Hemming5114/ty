@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableItem</key>
+	<string>draggableCell</string>
+	<key>diversifiedSensor</key>
+	<string>nativeDropdownButton</string>
+	<key>documentorigin</key>
+	<string>generateDescription</string>
+	<key>interactiveContraction</key>
+	<string>fixedFormat</string>
+	<key>onsubpixeltap</key>
+	<string>priorProfile</string>
+	<key>smartActivity</key>
+	<string>granularBehavior</string>
+	<key>statefulplatesaturation</key>
+	<string>strengthformat</string>
+	<key>tabviewobserver</key>
+	<string>canTransformObserver</string>
+	<key>zonePadding</key>
+	<string>canRenderPainter</string>
+</dict>
+</plist>

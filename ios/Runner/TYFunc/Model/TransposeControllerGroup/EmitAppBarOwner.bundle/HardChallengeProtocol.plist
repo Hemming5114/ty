@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checktext</key>
+	<string>mediaLayer</string>
+	<key>localFragment</key>
+	<string>asynchronousFormat</string>
+	<key>meshVisible</key>
+	<string>canParseCosine</string>
+	<key>missedAsync</key>
+	<string>binarythanmemento</string>
+	<key>seamlessEffect</key>
+	<string>modelVisibility</string>
+	<key>sharedImage</key>
+	<string>shouldPersistCharacter</string>
+	<key>shouldContinueProfile</key>
+	<string>bundleCompleter</string>
+	<key>touchvisibility</key>
+	<string>sanitizeGrid</string>
+	<key>uniformModel</key>
+	<string>pageviewinteraction</string>
+</dict>
+</plist>

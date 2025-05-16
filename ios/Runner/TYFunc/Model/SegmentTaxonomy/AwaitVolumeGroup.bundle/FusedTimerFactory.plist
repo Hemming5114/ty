@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredCustomPaint</key>
+	<string>addCubit</string>
+	<key>dynamicScene</key>
+	<string>builderfromjob</string>
+	<key>elasticdocument</key>
+	<string>transitiontop</string>
+	<key>mainState</key>
+	<string>keepLabel</string>
+	<key>reusableCosine</key>
+	<string>animatedcontainerwithbridge</string>
+	<key>shouldRouteMatrix</key>
+	<string>oldStatus</string>
+	<key>statelessSubscriber</key>
+	<string>tickerinset</string>
+	<key>textfieldVisibility</key>
+	<string>sortedFlex</string>
+	<key>threadOffset</key>
+	<string>resolverBorder</string>
+</dict>
+</plist>

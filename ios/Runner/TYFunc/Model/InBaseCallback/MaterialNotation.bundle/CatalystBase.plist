@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionRight</key>
+	<string>sequentialBuffer</string>
+	<key>customhero</key>
+	<string>notifyskirt</string>
+	<key>delegateFeedback</key>
+	<string>currentBullet</string>
+	<key>parallelConstraint</key>
+	<string>explicitDelivery</string>
+	<key>parallelElement</key>
+	<string>cancelallocator</string>
+	<key>sceneformat</key>
+	<string>newestOption</string>
+	<key>sustainableInteraction</key>
+	<string>easyresource</string>
+	<key>unsortedPicker</key>
+	<string>deployequipment</string>
+</dict>
+</plist>

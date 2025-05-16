@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customInstruction</key>
+	<string>gridviewComposite</string>
+	<key>declarativeLayer</key>
+	<string>restoreoffset</string>
+	<key>elementVisibility</key>
+	<string>canEmitIndicator</string>
+	<key>publicEfficiency</key>
+	<string>tickerCenter</string>
+	<key>retainedCompletion</key>
+	<string>widgetinterval</string>
+	<key>shouldContinuePageView</key>
+	<string>respectiveproviderfeedback</string>
+	<key>shouldSetStateContainer</key>
+	<string>referenceTop</string>
+	<key>statelessConstraint</key>
+	<string>diffableSensor</string>
+	<key>textmode</key>
+	<string>frameorbridge</string>
+	<key>unactivatedcube</key>
+	<string>createEntropy</string>
+</dict>
+</plist>

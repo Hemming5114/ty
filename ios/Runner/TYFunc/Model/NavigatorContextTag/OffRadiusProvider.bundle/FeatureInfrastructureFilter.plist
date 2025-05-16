@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorInteraction</key>
+	<string>canInflateBullet</string>
+	<key>sceneTheme</key>
+	<string>uniqueRouter</string>
+	<key>statelessGraph</key>
+	<string>servicescale</string>
+	<key>symmetricTolerance</key>
+	<string>subscriberOpacity</string>
+</dict>
+</plist>

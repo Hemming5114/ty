@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBehavior</key>
+	<string>activatedOffset</string>
+	<key>ephemeralVideo</key>
+	<string>buttonversussystem</string>
+	<key>interactiveProtocol</key>
+	<string>aspectPadding</string>
+	<key>lifecycleFeedback</key>
+	<string>configurePreview</string>
+	<key>mediocreNode</key>
+	<string>streamtiercoord</string>
+	<key>sampleVisibility</key>
+	<string>dismissFragment</string>
+</dict>
+</plist>

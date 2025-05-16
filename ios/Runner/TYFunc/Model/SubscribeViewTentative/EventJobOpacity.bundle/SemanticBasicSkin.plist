@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishbrush</key>
+	<string>respectiveStack</string>
+	<key>inheritedConstraint</key>
+	<string>initializeutil</string>
+	<key>lifecycleRate</key>
+	<string>canBindGraphic</string>
+	<key>metricsAppearance</key>
+	<string>titleAppearance</string>
+	<key>providerEdge</key>
+	<string>directlyTimer</string>
+	<key>recursiontop</key>
+	<string>embraceScene</string>
+	<key>samplesubscription</key>
+	<string>draggablePublisher</string>
+</dict>
+</plist>

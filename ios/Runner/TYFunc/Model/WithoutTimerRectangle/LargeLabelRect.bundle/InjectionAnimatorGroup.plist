@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAperture</key>
+	<string>exceptionParameter</string>
+	<key>custompaintFeedback</key>
+	<string>cloneRoute</string>
+	<key>detailinteraction</key>
+	<string>logimpression</string>
+	<key>heroVisible</key>
+	<string>hardRenderer</string>
+	<key>shouldReplaceMission</key>
+	<string>subtleRestriction</string>
+	<key>shouldSetStateOperation</key>
+	<string>quantizationCoordinator</string>
+	<key>widgetIndex</key>
+	<string>currentreference</string>
+</dict>
+</plist>

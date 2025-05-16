@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSegue</key>
+	<string>canEmitProvider</string>
+	<key>discardedStateful</key>
+	<string>multiAnimator</string>
+	<key>greatCapacities</key>
+	<string>symmetricAscent</string>
+	<key>iterativeScene</key>
+	<string>pinchableRect</string>
+	<key>relationalBoxShadow</key>
+	<string>setstateUnary</string>
+	<key>scaleState</key>
+	<string>concurrentDistinction</string>
+	<key>shouldObserveView</key>
+	<string>scaffoldtension</string>
+	<key>shouldRebuildGift</key>
+	<string>pauseMaterial</string>
+	<key>usedtext</key>
+	<string>createSkin</string>
+</dict>
+</plist>

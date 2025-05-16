@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationfrequency</key>
+	<string>cupertinoScheduler</string>
+	<key>handlerconnector</key>
+	<string>canSubscribeAnimatedContainer</string>
+	<key>interactiveTable</key>
+	<string>respondSink</string>
+	<key>shouldcontinuecontroller</key>
+	<string>activatedScene</string>
+</dict>
+</plist>

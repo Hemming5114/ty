@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFilter</key>
+	<string>aggregateService</string>
+	<key>binderColor</key>
+	<string>retainedCertificate</string>
+	<key>cardrequest</key>
+	<string>marshalFactory</string>
+	<key>directlysemanticsbehavior</key>
+	<string>measureBloc</string>
+	<key>effectevent</key>
+	<string>eventinset</string>
+	<key>itemScale</key>
+	<string>canDismissMap</string>
+	<key>lossTop</key>
+	<string>mutableVolume</string>
+	<key>reusableTentative</key>
+	<string>notifyWidget</string>
+	<key>scenariotheme</key>
+	<string>mobileNode</string>
+</dict>
+</plist>

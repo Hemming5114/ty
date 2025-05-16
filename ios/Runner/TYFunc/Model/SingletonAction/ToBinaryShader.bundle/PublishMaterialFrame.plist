@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedAspect</key>
+	<string>transitionDepth</string>
+	<key>hierarchicalScaffold</key>
+	<string>inflateSample</string>
+	<key>mediaversusmediator</key>
+	<string>subscriptiondecoratorvelocity</string>
+	<key>offsettangent</key>
+	<string>replaceBuilder</string>
+	<key>onsessiontap</key>
+	<string>mediumRow</string>
+	<key>provideroutsidebuffer</key>
+	<string>animatedFragments</string>
+	<key>shouldCacheAnimatedContainer</key>
+	<string>streamlineSize</string>
+	<key>shouldPauseCosine</key>
+	<string>rapidTween</string>
+	<key>unbindnorm</key>
+	<string>onpromisetap</string>
+</dict>
+</plist>

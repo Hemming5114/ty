@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedfeedback</key>
+	<string>emitExtension</string>
+	<key>instructionVisibility</key>
+	<string>concurrentAccessory</string>
+	<key>multiChooser</key>
+	<string>shouldDisposeSine</string>
+	<key>progressbarShape</key>
+	<string>imperativeRouter</string>
+	<key>responseTheme</key>
+	<string>shouldReplaceDescriptor</string>
+	<key>selectedpromise</key>
+	<string>assetInteraction</string>
+	<key>shouldEmitBuilder</key>
+	<string>entitydelivery</string>
+</dict>
+</plist>

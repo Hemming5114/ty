@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableReference</key>
+	<string>shouldCreateMatrix</string>
+	<key>disabledAlert</key>
+	<string>dismissKernel</string>
+	<key>missiongroup</key>
+	<string>matrixStyle</string>
+	<key>optimizerincludekind</key>
+	<string>skipSensor</string>
+	<key>protectedBrush</key>
+	<string>reducerCoord</string>
+	<key>shouldAttachMomentum</key>
+	<string>temporarySwift</string>
+	<key>shouldInflateCollection</key>
+	<string>shouldAttachBuilder</string>
+	<key>shouldmountedcurve</key>
+	<string>workflowDirection</string>
+	<key>shouldobserveaccessory</key>
+	<string>shouldRouteAxis</string>
+	<key>widgetanalogy</key>
+	<string>attachintensity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedRadio</key>
+	<string>relationalStream</string>
+	<key>liteSegment</key>
+	<string>disconnectTouch</string>
+	<key>rapidbuffertransparency</key>
+	<string>handlePriority</string>
+	<key>slashDirection</key>
+	<string>shouldNotifyStream</string>
+	<key>smartAmortization</key>
+	<string>mapParam</string>
+	<key>statelessAspectRatio</key>
+	<string>disparateShape</string>
+</dict>
+</plist>

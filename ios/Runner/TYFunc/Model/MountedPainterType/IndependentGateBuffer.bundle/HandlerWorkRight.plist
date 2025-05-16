@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocscenario</key>
+	<string>euclideanBuffer</string>
+	<key>differentiateaction</key>
+	<string>boxjobvelocity</string>
+	<key>elasticmaterial</key>
+	<string>mountedPriority</string>
+	<key>hardSorter</key>
+	<string>transformerProcess</string>
+	<key>onchallengechanged</key>
+	<string>objectFrequency</string>
+	<key>rangeEdge</key>
+	<string>scaleBorder</string>
+	<key>segmentbottom</key>
+	<string>routedecoration</string>
+</dict>
+</plist>

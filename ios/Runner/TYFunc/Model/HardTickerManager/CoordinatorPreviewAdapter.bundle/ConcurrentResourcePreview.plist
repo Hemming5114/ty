@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarktimer</key>
+	<string>capsuleWork</string>
+	<key>channelformat</key>
+	<string>capacitiesStrategy</string>
+	<key>floatprofile</key>
+	<string>baselineSaturation</string>
+	<key>infrastructureDistance</key>
+	<string>tweakContrast</string>
+	<key>shouldFormatAppBar</key>
+	<string>meshDelay</string>
+	<key>shouldformatternary</key>
+	<string>mutableItem</string>
+</dict>
+</plist>

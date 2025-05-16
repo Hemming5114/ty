@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicAlignment</key>
+	<string>richtextVisible</string>
+	<key>composableCompleter</key>
+	<string>layoutSpacing</string>
+	<key>composablealertdirection</key>
+	<string>transitionAnimatedContainer</string>
+	<key>euclideanSpine</key>
+	<string>selectedequalization</string>
+	<key>keyResponder</key>
+	<string>dataVelocity</string>
+	<key>missednavigator</key>
+	<string>canvasActivity</string>
+	<key>usecaseofplatform</key>
+	<string>robustResource</string>
+</dict>
+</plist>

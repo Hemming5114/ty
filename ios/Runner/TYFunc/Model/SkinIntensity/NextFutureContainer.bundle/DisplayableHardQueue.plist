@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindevent</key>
+	<string>requiredTweak</string>
+	<key>cachegradient</key>
+	<string>movementerror</string>
+	<key>clipperOffset</key>
+	<string>protocolParam</string>
+	<key>cubebrightness</key>
+	<string>difficultRequest</string>
+	<key>decorationSpeed</key>
+	<string>dependencySystem</string>
+	<key>resilienceShape</key>
+	<string>confidentialityFormat</string>
+	<key>sizedboxreliability</key>
+	<string>statefulProvider</string>
+	<key>sortedTask</key>
+	<string>pendingExpanded</string>
+	<key>visibleVector</key>
+	<string>cupertinoMode</string>
+</dict>
+</plist>

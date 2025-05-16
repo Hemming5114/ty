@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSize</key>
+	<string>canRebuildBatch</string>
+	<key>certificateStatus</key>
+	<string>configurePopup</string>
+	<key>elasticStorage</key>
+	<string>shouldPopExtension</string>
+	<key>logSaturation</key>
+	<string>canHandleProjection</string>
+	<key>propagatebloc</key>
+	<string>asynchronouspositioneddistance</string>
+	<key>vertexname</key>
+	<string>inheritedCanvas</string>
+</dict>
+</plist>

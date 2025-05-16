@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTitle</key>
+	<string>hashValidation</string>
+	<key>activityPosition</key>
+	<string>positionTask</string>
+	<key>compositionalInformation</key>
+	<string>menuObserver</string>
+	<key>customChannels</key>
+	<string>canDismissAccessory</string>
+	<key>disparateInterpolation</key>
+	<string>latencyType</string>
+	<key>lossthanbuffer</key>
+	<string>granularTextField</string>
+</dict>
+</plist>

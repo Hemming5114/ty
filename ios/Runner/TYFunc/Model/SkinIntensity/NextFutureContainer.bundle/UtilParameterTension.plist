@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorCenter</key>
+	<string>memberMediator</string>
+	<key>explicitCreator</key>
+	<string>notifystate</string>
+	<key>gridTheme</key>
+	<string>sortedCaption</string>
+	<key>layoutInset</key>
+	<string>shouldSerializePageView</string>
+	<key>routestatus</key>
+	<string>shouldShowMultiplication</string>
+	<key>shouldPresentLog</key>
+	<string>independentEmitter</string>
+	<key>smallCapacities</key>
+	<string>oldConnector</string>
+	<key>stampstrategystatus</key>
+	<string>alertinterval</string>
+	<key>texturetint</key>
+	<string>litesearcher</string>
+</dict>
+</plist>

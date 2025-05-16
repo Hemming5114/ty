@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalGroup</key>
+	<string>rowFlyweight</string>
+	<key>lazyColumn</key>
+	<string>asynchronousProtocol</string>
+	<key>positionvisitorname</key>
+	<string>sharedtimertint</string>
+	<key>shouldPauseImage</key>
+	<string>brushmethodbound</string>
+	<key>soundOffset</key>
+	<string>mobileScheduler</string>
+	<key>statefulofinterpreter</key>
+	<string>similarAsync</string>
+	<key>webNavigator</key>
+	<string>canInflateSymbol</string>
+</dict>
+</plist>

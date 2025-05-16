@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeButton</key>
+	<string>adaptiveplate</string>
+	<key>mergerKind</key>
+	<string>binaryBottom</string>
+	<key>publicMediaQuery</key>
+	<string>euclideanPlayback</string>
+	<key>requestmaterializer</key>
+	<string>channelDistance</string>
+	<key>resilienceInterval</key>
+	<string>overlayPlatform</string>
+	<key>shouldPresentSwift</key>
+	<string>ephemeralInkWell</string>
+	<key>subtleStore</key>
+	<string>inheritedRange</string>
+	<key>sustainableutil</key>
+	<string>shouldTransformMaster</string>
+</dict>
+</plist>

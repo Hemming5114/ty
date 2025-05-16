@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitStyle</key>
+	<string>staticShader</string>
+	<key>easyCompleter</key>
+	<string>canStreamEntropy</string>
+	<key>previewPosition</key>
+	<string>completedChallenge</string>
+	<key>resourcespacing</key>
+	<string>emitSizedBox</string>
+	<key>shouldMountedHeap</key>
+	<string>canValidateCell</string>
+	<key>typicalMovement</key>
+	<string>graphicVisible</string>
+	<key>webDelivery</key>
+	<string>annotateAlignment</string>
+</dict>
+</plist>

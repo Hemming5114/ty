@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRemediation</key>
+	<string>advancedObserver</string>
+	<key>descriptorTag</key>
+	<string>observerobject</string>
+	<key>heapcyclefeedback</key>
+	<string>defaultExponent</string>
+	<key>progressbaramongcomposite</key>
+	<string>observerimpact</string>
+	<key>substantialCurve</key>
+	<string>offsetvalidation</string>
+</dict>
+</plist>

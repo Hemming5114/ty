@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSubscription</key>
+	<string>sustainableSensor</string>
+	<key>disabledCheckbox</key>
+	<string>animatedFragment</string>
+	<key>relationalAlignment</key>
+	<string>respectiveMatrix</string>
+	<key>semanticProject</key>
+	<string>mediaquerywrapper</string>
+</dict>
+</plist>

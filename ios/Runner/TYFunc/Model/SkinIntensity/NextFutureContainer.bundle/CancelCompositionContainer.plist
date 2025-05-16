@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardShape</key>
+	<string>clippercontainshape</string>
+	<key>controllerperlevel</key>
+	<string>quitLoop</string>
+	<key>createtimer</key>
+	<string>deferredscenedelay</string>
+	<key>draggablepublisher</key>
+	<string>deferredmanager</string>
+	<key>dropdownbuttonduration</key>
+	<string>canCreateGem</string>
+	<key>paralleltransformer</key>
+	<string>canUnmountExpanded</string>
+	<key>shouldpublishrole</key>
+	<string>concurrentMatrix</string>
+	<key>signatureshape</key>
+	<string>routeCollection</string>
+	<key>strengthVisibility</key>
+	<string>shouldBindActivity</string>
+</dict>
+</plist>

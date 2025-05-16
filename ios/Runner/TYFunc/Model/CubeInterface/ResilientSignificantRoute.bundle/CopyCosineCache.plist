@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSkin</key>
+	<string>impacttension</string>
+	<key>generatelayout</key>
+	<string>zonesearcher</string>
+	<key>listenercontrast</key>
+	<string>inkwellcallback</string>
+	<key>shouldCreateScroll</key>
+	<string>linkerHue</string>
+	<key>synchronousSchema</key>
+	<string>mutablePainter</string>
+	<key>titleHead</key>
+	<string>defaultCharacter</string>
+</dict>
+</plist>

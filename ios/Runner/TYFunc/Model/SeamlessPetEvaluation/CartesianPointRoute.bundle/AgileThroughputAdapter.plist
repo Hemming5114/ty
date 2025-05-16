@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintagainststyle</key>
+	<string>unactivatedaudio</string>
+	<key>explicitConstraint</key>
+	<string>shouldUnbindRole</string>
+	<key>newestCompletion</key>
+	<string>shouldRestartChallenge</string>
+	<key>persistentShader</key>
+	<string>reducerTemple</string>
+	<key>radiusforce</key>
+	<string>slashCount</string>
+	<key>reusableRouter</key>
+	<string>objectappearance</string>
+	<key>streamfromlevel</key>
+	<string>canStreamTransition</string>
+	<key>strokeOrientation</key>
+	<string>draggableTraversal</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedVolume</key>
+	<string>lostAppBar</string>
+	<key>appbarBorder</key>
+	<string>tappablepolygon</string>
+	<key>disconnecttransition</key>
+	<string>directlyInjection</string>
+	<key>expandedTension</key>
+	<string>anchorTension</string>
+	<key>gatesubscriber</key>
+	<string>mainController</string>
+	<key>latencyBound</key>
+	<string>shouldFetchMonster</string>
+	<key>lazySorter</key>
+	<string>cupertinoGraph</string>
+	<key>protectedequipmentmomentum</key>
+	<string>decoupleBuilder</string>
+	<key>roleitem</key>
+	<string>holdConstraint</string>
+	<key>shouldObserveGesture</key>
+	<string>prevUsage</string>
+</dict>
+</plist>

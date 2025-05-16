@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredLoss</key>
+	<string>pauseDelegate</string>
+	<key>directlyGift</key>
+	<string>shouldEmitPriority</string>
+	<key>loaderStatus</key>
+	<string>radioTheme</string>
+	<key>shouldMountedNavigation</key>
+	<string>statelessSorter</string>
+	<key>singleTriangles</key>
+	<string>publicInstruction</string>
+	<key>tickerShade</key>
+	<string>restartCharacter</string>
+</dict>
+</plist>

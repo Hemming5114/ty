@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncpressure</key>
+	<string>asyncSize</string>
+	<key>contractionprocessborder</key>
+	<string>ignoredHistogram</string>
+	<key>discardedQuaternion</key>
+	<string>resizableGrid</string>
+	<key>giftHue</key>
+	<string>normalTransformer</string>
+	<key>immutableDimension</key>
+	<string>tweenVisibility</string>
+	<key>resilientmethodorigin</key>
+	<string>registerAnimation</string>
+	<key>slidertypedensity</key>
+	<string>characteristicTop</string>
+	<key>unmountedlayout</key>
+	<string>shouldPushPoint</string>
+</dict>
+</plist>

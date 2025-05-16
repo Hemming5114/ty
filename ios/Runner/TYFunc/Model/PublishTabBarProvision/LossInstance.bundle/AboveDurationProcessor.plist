@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityBrightness</key>
+	<string>tickerpressure</string>
+	<key>offsetprofile</key>
+	<string>canHandleBloc</string>
+	<key>reductionHue</key>
+	<string>receiveCoordinator</string>
+	<key>resilientScalability</key>
+	<string>filterSkewX</string>
+	<key>skipgate</key>
+	<string>graphScale</string>
+	<key>typicalInfo</key>
+	<string>easyTernary</string>
+	<key>unactivatedStack</key>
+	<string>mountedBehavior</string>
+</dict>
+</plist>

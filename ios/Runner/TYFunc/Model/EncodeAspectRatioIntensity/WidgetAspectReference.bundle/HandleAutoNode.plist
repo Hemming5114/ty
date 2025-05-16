@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveClipper</key>
+	<string>shouldObserveGradient</string>
+	<key>graphkind</key>
+	<string>canFetchStateless</string>
+	<key>semanticSpecifier</key>
+	<string>shouldEndClipper</string>
+	<key>shouldConnectTransition</key>
+	<string>spineForm</string>
+	<key>shouldnotifyarithmetic</key>
+	<string>bulletSkewX</string>
+	<key>similarTool</key>
+	<string>semanticheropadding</string>
+</dict>
+</plist>

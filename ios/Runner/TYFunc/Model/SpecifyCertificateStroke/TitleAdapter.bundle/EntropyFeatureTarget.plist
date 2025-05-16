@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateusecase</key>
+	<string>shouldTransitionInteger</string>
+	<key>batchAcceleration</key>
+	<string>timeCoord</string>
+	<key>bullettransparency</key>
+	<string>listenersaturation</string>
+	<key>cacheBrightness</key>
+	<string>shouldReplaceCell</string>
+	<key>disparatefeaturetag</key>
+	<string>observerFlags</string>
+	<key>efficiencyFlags</key>
+	<string>canStreamSign</string>
+	<key>shouldBuildBitrate</key>
+	<string>typicalFactory</string>
+	<key>sortedsteptension</key>
+	<string>offsetVector</string>
+	<key>statictolerance</key>
+	<string>stepfeedback</string>
+	<key>visibleIntegrity</key>
+	<string>unactivatedTween</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerConfidentiality</key>
+	<string>largeEvaluation</string>
+	<key>continuenode</key>
+	<string>subsequentAxis</string>
+	<key>methodSpeed</key>
+	<string>globalboxorientation</string>
+	<key>shouldNotifyProvider</key>
+	<string>imperativeConnector</string>
+	<key>trianglesTag</key>
+	<string>listenerVisible</string>
+	<key>tweenbottom</key>
+	<string>globalappbar</string>
+</dict>
+</plist>

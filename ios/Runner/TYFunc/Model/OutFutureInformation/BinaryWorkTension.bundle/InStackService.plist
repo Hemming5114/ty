@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoBatch</key>
+	<string>axisComposite</string>
+	<key>defaulticon</key>
+	<string>soundDistance</string>
+	<key>eagerDrawer</key>
+	<string>updateLabel</string>
+	<key>factorytint</key>
+	<string>nativeHistogram</string>
+	<key>pivotalClipper</key>
+	<string>canPersistScale</string>
+	<key>prevLoader</key>
+	<string>restarttask</string>
+	<key>throughputKind</key>
+	<string>shouldUnmountedSkirt</string>
+	<key>unmountresult</key>
+	<string>locateBuffer</string>
+</dict>
+</plist>

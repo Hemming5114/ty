@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteThreshold</key>
+	<string>createContraction</string>
+	<key>localMultiplication</key>
+	<string>measureEvent</string>
+	<key>shouldshowchannels</key>
+	<string>subscribeColumn</string>
+	<key>thresholdFeedback</key>
+	<string>persistEqualization</string>
+</dict>
+</plist>

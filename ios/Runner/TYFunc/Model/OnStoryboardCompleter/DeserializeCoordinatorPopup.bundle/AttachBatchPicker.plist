@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVisibility</key>
+	<string>assetbound</string>
+	<key>coordinatorrotation</key>
+	<string>interactortension</string>
+	<key>isolateamongprototype</key>
+	<string>shouldObserveObserver</string>
+	<key>shouldvalidateplayback</key>
+	<string>isslider</string>
+	<key>usecasesincetemple</key>
+	<string>usedtabletint</string>
+</dict>
+</plist>

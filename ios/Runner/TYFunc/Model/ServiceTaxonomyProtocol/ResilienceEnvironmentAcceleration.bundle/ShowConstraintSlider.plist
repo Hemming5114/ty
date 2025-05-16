@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentcontainerflags</key>
+	<string>tweakInteraction</string>
+	<key>materialTabBar</key>
+	<string>labelfromstage</string>
+	<key>overlayelasticity</key>
+	<string>protectedTable</string>
+	<key>remediationFrequency</key>
+	<string>canBindSample</string>
+	<key>seamlessCubit</key>
+	<string>mutableMultiplication</string>
+	<key>semanticQuaternion</key>
+	<string>completerIndex</string>
+	<key>sequentialBorder</key>
+	<string>staticFeature</string>
+	<key>shouldLoadOption</key>
+	<string>singleProvider</string>
+</dict>
+</plist>

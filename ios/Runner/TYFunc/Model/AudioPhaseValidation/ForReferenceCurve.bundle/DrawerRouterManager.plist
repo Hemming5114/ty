@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertaction</key>
+	<string>basicStateless</string>
+	<key>dedicatedSubscription</key>
+	<string>shouldContinueSegue</string>
+	<key>entityformat</key>
+	<string>shouldEncodeAxis</string>
+	<key>interactiveClipper</key>
+	<string>promisevarinteraction</string>
+	<key>largeFlex</key>
+	<string>labelconstant</string>
+	<key>protocolCoord</key>
+	<string>declarativeUsage</string>
+	<key>shouldEndRole</key>
+	<string>loadThread</string>
+	<key>visibleTimeline</key>
+	<string>disparateResponse</string>
+</dict>
+</plist>

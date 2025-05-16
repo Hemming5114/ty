@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardconverter</key>
+	<string>canCancelAspectRatio</string>
+	<key>concreteLoss</key>
+	<string>hardBitrate</string>
+	<key>easyBinder</key>
+	<string>onsampletap</string>
+	<key>histogramlistener</key>
+	<string>handlerSystem</string>
+	<key>holdfuture</key>
+	<string>pinchablespecifiermomentum</string>
+	<key>queuecombiner</key>
+	<string>canEndBinary</string>
+	<key>shouldDisconnectStep</key>
+	<string>slashPadding</string>
+	<key>shouldYieldNorm</key>
+	<string>shouldCacheBinary</string>
+</dict>
+</plist>

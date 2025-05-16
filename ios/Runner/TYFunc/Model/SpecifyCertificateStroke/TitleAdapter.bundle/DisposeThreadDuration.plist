@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateTimer</key>
+	<string>basicElement</string>
+	<key>inflatecompletion</key>
+	<string>skipAlpha</string>
+	<key>routeSpacing</key>
+	<string>parseInstruction</string>
+	<key>secondTicker</key>
+	<string>measureTransition</string>
+	<key>tangentAcceleration</key>
+	<string>symmetricmonsterbehavior</string>
+	<key>wrapwidget</key>
+	<string>cellShape</string>
+</dict>
+</plist>

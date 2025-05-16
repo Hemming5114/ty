@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffereffect</key>
+	<string>transformStateless</string>
+	<key>chartBottom</key>
+	<string>requiredMember</string>
+	<key>delegateconverter</key>
+	<string>activenavigator</string>
+	<key>invisibleProcessor</key>
+	<string>displayQueue</string>
+	<key>multisprite</key>
+	<string>registerParticle</string>
+	<key>newestNotification</key>
+	<string>clearScene</string>
+	<key>observerCenter</key>
+	<string>pinchableElement</string>
+	<key>shouldObserveHeap</key>
+	<string>marginPhase</string>
+	<key>tappableRemediation</key>
+	<string>bitrateResponse</string>
+</dict>
+</plist>

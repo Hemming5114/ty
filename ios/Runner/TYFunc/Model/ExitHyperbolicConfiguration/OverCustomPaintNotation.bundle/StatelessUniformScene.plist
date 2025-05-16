@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedpreview</key>
+	<string>captureAnimation</string>
+	<key>gridlocation</key>
+	<string>lockEntity</string>
+	<key>isNotifier</key>
+	<string>handleGroup</string>
+	<key>providerfromscope</key>
+	<string>sizeOperation</string>
+	<key>scopeTop</key>
+	<string>convolutionInteraction</string>
+	<key>shouldConnectSubpixel</key>
+	<string>comprehensiveTabView</string>
+	<key>shouldTransformPriority</key>
+	<string>scalabilityName</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalLogarithm</key>
+	<string>liteChannel</string>
+	<key>dropdownbuttonHue</key>
+	<string>capsulemargin</string>
+	<key>logarithmmargin</key>
+	<string>accessibleVertex</string>
+	<key>metadataopacity</key>
+	<string>disabledAlert</string>
+	<key>serviceAlignment</key>
+	<string>rowForm</string>
+	<key>shouldFinishInterpolation</key>
+	<string>canFormatAlpha</string>
+	<key>shouldPrepareNotification</key>
+	<string>spritePrototype</string>
+</dict>
+</plist>

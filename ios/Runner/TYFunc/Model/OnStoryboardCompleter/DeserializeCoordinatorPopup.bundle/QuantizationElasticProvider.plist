@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationshade</key>
+	<string>persistentUseCase</string>
+	<key>deferredtexture</key>
+	<string>gramVisitor</string>
+	<key>eagerDependency</key>
+	<string>smartTimeline</string>
+	<key>localremainder</key>
+	<string>sineOperation</string>
+	<key>matrixpressure</key>
+	<string>visibleTentative</string>
+	<key>nativesymbol</key>
+	<string>criticalBinary</string>
+	<key>requiredThread</key>
+	<string>dependencyTop</string>
+	<key>restorecompletion</key>
+	<string>shouldCancelTransition</string>
+	<key>scrollableSizedBox</key>
+	<string>widgetkinddelay</string>
+	<key>shouldBuildInteger</key>
+	<string>defaultGem</string>
+</dict>
+</plist>

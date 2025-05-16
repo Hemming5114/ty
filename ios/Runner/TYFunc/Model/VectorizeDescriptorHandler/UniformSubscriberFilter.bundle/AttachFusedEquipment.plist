@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationTag</key>
+	<string>statelessCommand</string>
+	<key>publicStateless</key>
+	<string>inheritedIntegration</string>
+	<key>remediationDirection</key>
+	<string>delegatetype</string>
+	<key>scaleVisibility</key>
+	<string>documentDistance</string>
+	<key>scaleintegration</key>
+	<string>singletask</string>
+	<key>sineVisible</key>
+	<string>elementResponse</string>
+	<key>statelessManager</key>
+	<string>coordinatorActivity</string>
+	<key>typicalconsumer</key>
+	<string>specifyBloc</string>
+	<key>uniqueGrayscale</key>
+	<string>shouldListenRoute</string>
+</dict>
+</plist>

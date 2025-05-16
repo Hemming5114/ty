@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalmissioninset</key>
+	<string>storeacceleration</string>
+	<key>matrixinterpreterspacing</key>
+	<string>originalIntegration</string>
+	<key>persistentObject</key>
+	<string>cupertinoConstant</string>
+	<key>shouldRouteEquipment</key>
+	<string>intensitySingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachlog</key>
+	<string>immutablecard</string>
+	<key>customcallback</key>
+	<string>scrollerInterval</string>
+	<key>desktopShape</key>
+	<string>shouldRenderObserver</string>
+	<key>explicitCoordinator</key>
+	<string>ignoredCanvas</string>
+	<key>hasanimation</key>
+	<string>skipDimension</string>
+	<key>lazyShader</key>
+	<string>tangentInterval</string>
+	<key>rapidSink</key>
+	<string>statusTransparency</string>
+	<key>unsortedBloc</key>
+	<string>sessionChain</string>
+</dict>
+</plist>

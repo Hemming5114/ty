@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventcolor</key>
+	<string>canSerializeMusic</string>
+	<key>fusedDelegate</key>
+	<string>embedTitle</string>
+	<key>hashsystemtheme</key>
+	<string>compositionalConnector</string>
+	<key>ignoredInterface</key>
+	<string>shouldEncodeEffect</string>
+	<key>rapidObject</key>
+	<string>autoScope</string>
+	<key>shouldDisposePrecision</key>
+	<string>timelineDelay</string>
+</dict>
+</plist>

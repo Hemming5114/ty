@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedBehavior</key>
+	<string>fetchMomentum</string>
+	<key>oldBehavior</key>
+	<string>gateContext</string>
+	<key>refreshmap</key>
+	<string>completedSignature</string>
+	<key>shouldLoadChallenge</key>
+	<string>pickerMargin</string>
+	<key>singleProvider</key>
+	<string>navigateGraphic</string>
+</dict>
+</plist>

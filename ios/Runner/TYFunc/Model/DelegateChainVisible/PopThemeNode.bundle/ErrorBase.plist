@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBottom</key>
+	<string>shouldKeepBinary</string>
+	<key>euclideanTimeline</key>
+	<string>retrieveSubscription</string>
+	<key>gesturedetectortentative</key>
+	<string>hierarchicalPreview</string>
+	<key>graphicFormat</key>
+	<string>lazyTask</string>
+	<key>sessionmementoedge</key>
+	<string>prismaticTouch</string>
+	<key>thresholdAppearance</key>
+	<string>canDecodeBehavior</string>
+</dict>
+</plist>

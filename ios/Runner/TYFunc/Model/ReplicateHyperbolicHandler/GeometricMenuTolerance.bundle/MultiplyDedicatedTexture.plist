@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentStyle</key>
+	<string>polygonRotation</string>
+	<key>eventcyclename</key>
+	<string>deserializeStream</string>
+	<key>instructionpolygon</key>
+	<string>easyHeap</string>
+	<key>projectionBottom</key>
+	<string>canAttachDropdownButton</string>
+	<key>providerRight</key>
+	<string>canTransitionRoute</string>
+	<key>smartSkirt</key>
+	<string>flexibleContainer</string>
+	<key>traversalTransparency</key>
+	<string>capturehash</string>
+	<key>usedTentative</key>
+	<string>basicConnector</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffertolerance</key>
+	<string>paintGram</string>
+	<key>limitchannel</key>
+	<string>pageviewPressure</string>
+	<key>mechanismCenter</key>
+	<string>diffableColor</string>
+	<key>priorinjection</key>
+	<string>emitTouch</string>
+	<key>screenName</key>
+	<string>canMountedFragment</string>
+	<key>texturedirection</key>
+	<string>desktopBuilder</string>
+	<key>tickerspacing</key>
+	<string>rotateRequest</string>
+</dict>
+</plist>

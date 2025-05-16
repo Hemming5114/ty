@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEntity</key>
+	<string>substantialUnary</string>
+	<key>advancedfragments</key>
+	<string>eagerGrid</string>
+	<key>labelKind</key>
+	<string>popMenu</string>
+	<key>opaqueConsumer</key>
+	<string>fetchBinary</string>
+	<key>sessionopacity</key>
+	<string>subpixelDecorator</string>
+	<key>specifycoordinatorspacing</key>
+	<string>scheduleTransition</string>
+	<key>streamMode</key>
+	<string>fixedReducer</string>
+</dict>
+</plist>

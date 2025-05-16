@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodesink</key>
+	<string>ephemeraltexture</string>
+	<key>eagerNib</key>
+	<string>canParseKernel</string>
+	<key>scrollplatformflags</key>
+	<string>chartdescription</string>
+	<key>storeborder</key>
+	<string>lifecycleLeft</string>
+</dict>
+</plist>

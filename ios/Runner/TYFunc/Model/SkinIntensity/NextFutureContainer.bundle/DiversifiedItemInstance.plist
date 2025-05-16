@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSign</key>
+	<string>permissiveDetail</string>
+	<key>crucialTopic</key>
+	<string>flexibleAwait</string>
+	<key>dispatcherEdge</key>
+	<string>oncheckboxtap</string>
+	<key>enabledPageView</key>
+	<string>nativeBinder</string>
+	<key>selectedPromise</key>
+	<string>directAnalogy</string>
+	<key>shouldPopPainter</key>
+	<string>interpolationActivity</string>
+	<key>syncfactory</key>
+	<string>canStopBrush</string>
+	<key>techniquefrequency</key>
+	<string>shouldDisconnectExponent</string>
+	<key>tensorEffect</key>
+	<string>displayLoop</string>
+</dict>
+</plist>

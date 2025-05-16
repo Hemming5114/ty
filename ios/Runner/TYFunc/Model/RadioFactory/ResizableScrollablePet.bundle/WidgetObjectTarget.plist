@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenttextfield</key>
+	<string>sanitizeSink</string>
+	<key>elasticanimationfeedback</key>
+	<string>meshBottom</string>
+	<key>gridTop</key>
+	<string>symmetricPainter</string>
+	<key>robustCupertino</key>
+	<string>requiredClipper</string>
+	<key>semanticView</key>
+	<string>continueTabView</string>
+	<key>symmetricManager</key>
+	<string>strengthstatus</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCharacter</key>
+	<string>currentHeap</string>
+	<key>beginnerFlex</key>
+	<string>storename</string>
+	<key>intermediateProvider</key>
+	<string>draggableResilience</string>
+	<key>itemDuration</key>
+	<string>canDecodeRow</string>
+	<key>memberdensity</key>
+	<string>configurationObserver</string>
+	<key>shouldRebuildWorkflow</key>
+	<string>scaletype</string>
+	<key>temporaryNotation</key>
+	<string>shouldFinishInterpolation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTheme</key>
+	<string>shouldFormatTransition</string>
+	<key>autoError</key>
+	<string>localSubscriber</string>
+	<key>constantPadding</key>
+	<string>subtlestateless</string>
+	<key>flexibleScheduler</key>
+	<string>interactorDistance</string>
+	<key>resizableSplitter</key>
+	<string>storeBridge</string>
+	<key>spinestrength</key>
+	<string>vectorizeInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedparticle</key>
+	<string>showSign</string>
+	<key>custompaintVelocity</key>
+	<string>shouldPersistCard</string>
+	<key>disabledTimer</key>
+	<string>commonAsync</string>
+	<key>protectedMobile</key>
+	<string>replicateRequest</string>
+	<key>sampleorientation</key>
+	<string>storetag</string>
+	<key>streamName</key>
+	<string>sophisticatedLayout</string>
+	<key>transitionscope</key>
+	<string>disclaimerAcceleration</string>
+</dict>
+</plist>

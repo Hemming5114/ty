@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachebrightness</key>
+	<string>framestatekind</string>
+	<key>combinerSpeed</key>
+	<string>canDecodeRole</string>
+	<key>dimensionmethod</key>
+	<string>composablesizedboxscale</string>
+	<key>easyMission</key>
+	<string>endBehavior</string>
+	<key>euclideanAnchor</key>
+	<string>shouldyieldplate</string>
+	<key>flexibleTraversal</key>
+	<string>subscriptionVar</string>
+	<key>shouldSerializeText</key>
+	<string>discardedDetector</string>
+	<key>switchbuilder</key>
+	<string>processProgressBar</string>
+	<key>textureAppearance</key>
+	<string>sequentialOption</string>
+</dict>
+</plist>

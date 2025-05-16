@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOverlay</key>
+	<string>canParseOptimizer</string>
+	<key>beginnerGraph</key>
+	<string>canProcessEquipment</string>
+	<key>buttonuntilprototype</key>
+	<string>requiredRole</string>
+	<key>layoutscalability</key>
+	<string>accordionLoader</string>
+	<key>tabbarthroughput</key>
+	<string>blocJob</string>
+	<key>tickerreliability</key>
+	<string>lostLoss</string>
+</dict>
+</plist>

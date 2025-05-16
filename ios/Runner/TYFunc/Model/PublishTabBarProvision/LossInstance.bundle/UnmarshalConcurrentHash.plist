@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorAppearance</key>
+	<string>consumeTransition</string>
+	<key>globalStatus</key>
+	<string>replacescale</string>
+	<key>grampresenter</key>
+	<string>largeInteraction</string>
+	<key>linkerRate</key>
+	<string>entityaroundsingleton</string>
+	<key>mutableModule</key>
+	<string>titleBridge</string>
+	<key>statelessLabel</key>
+	<string>displayableHandler</string>
+	<key>transitionresponse</key>
+	<string>scaleFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushhue</key>
+	<string>spinelifecycle</string>
+	<key>distinctionDelay</key>
+	<string>agileTouch</string>
+	<key>kernelSpeed</key>
+	<string>coordinatorSkewX</string>
+	<key>layoutSpacing</key>
+	<string>maintainButton</string>
+	<key>loopOrigin</key>
+	<string>autoService</string>
+	<key>visualizetransition</key>
+	<string>buttonBorder</string>
+</dict>
+</plist>

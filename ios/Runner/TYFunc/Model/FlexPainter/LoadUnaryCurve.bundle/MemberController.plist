@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerRate</key>
+	<string>connectOffset</string>
+	<key>inheritedIndicator</key>
+	<string>scrollBuffer</string>
+	<key>nativeBrush</key>
+	<string>backwardInstruction</string>
+	<key>shouldPaintContraction</key>
+	<string>measureoption</string>
+	<key>shouldpreparegrayscale</key>
+	<string>strokeSpeed</string>
+	<key>spineInset</key>
+	<string>layoutFlyweight</string>
+</dict>
+</plist>

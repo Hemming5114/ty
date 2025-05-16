@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isbatch</key>
+	<string>protectedListView</string>
+	<key>marginframeworkorientation</key>
+	<string>subsequentMediaQuery</string>
+	<key>pinchableroutepressure</key>
+	<string>activatedFuture</string>
+	<key>shouldPauseSegue</key>
+	<string>detachCursor</string>
+	<key>shouldresumecaption</key>
+	<string>euclideanConstant</string>
+	<key>statefulConfidentiality</key>
+	<string>fixedOffset</string>
+	<key>uniformPreview</key>
+	<string>fixedScenario</string>
+	<key>viewResponse</key>
+	<string>injectRow</string>
+</dict>
+</plist>

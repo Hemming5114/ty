@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionOrientation</key>
+	<string>grainAcceleration</string>
+	<key>customizedShader</key>
+	<string>uniqueVolume</string>
+	<key>fixedEntity</key>
+	<string>stringifyTitle</string>
+	<key>movementPosition</key>
+	<string>shouldPrepareBloc</string>
+	<key>opaqueSpot</key>
+	<string>benchmarkAllocator</string>
+	<key>shouldNavigateTable</key>
+	<string>referencebesidestate</string>
+	<key>shouldStreamBloc</key>
+	<string>comprehensiveParticle</string>
+	<key>trainbutton</key>
+	<string>parsescale</string>
+	<key>yieldtransition</key>
+	<string>shouldStreamBinary</string>
+</dict>
+</plist>

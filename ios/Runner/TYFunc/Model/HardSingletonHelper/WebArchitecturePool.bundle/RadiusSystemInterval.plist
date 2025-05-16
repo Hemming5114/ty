@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeShader</key>
+	<string>orchestrateGrain</string>
+	<key>functionalCombiner</key>
+	<string>priorityMethod</string>
+	<key>ignoredDescriptor</key>
+	<string>shouldDismissBuilder</string>
+	<key>linkerVisibility</key>
+	<string>oldNorm</string>
+	<key>logarithmInset</key>
+	<string>unmountedexponent</string>
+	<key>permutationtheme</key>
+	<string>decoupleCurve</string>
+	<key>relationalNavigation</key>
+	<string>shouldPaintNavigator</string>
+	<key>signatureDensity</key>
+	<string>shouldProcessMatrix</string>
+	<key>sortedassetbound</key>
+	<string>missionFrequency</string>
+</dict>
+</plist>

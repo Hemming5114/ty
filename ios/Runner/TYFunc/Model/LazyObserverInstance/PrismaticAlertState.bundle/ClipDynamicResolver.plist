@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeconstant</key>
+	<string>batchintensity</string>
+	<key>labellocation</key>
+	<string>findbuilder</string>
+	<key>processcoordinator</key>
+	<string>uniformBinder</string>
+	<key>robustKernel</key>
+	<string>minConvolution</string>
+	<key>synchronousPrecision</key>
+	<string>prevCatalyst</string>
+</dict>
+</plist>

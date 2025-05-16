@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTheme</key>
+	<string>elasticContrast</string>
+	<key>customObserver</key>
+	<string>concurrentPlate</string>
+	<key>intuitiveWorkflow</key>
+	<string>petpressure</string>
+	<key>margincontrast</key>
+	<string>infoSaturation</string>
+	<key>positionvisitorformat</key>
+	<string>painterwithmethod</string>
+	<key>shaderticker</key>
+	<string>canTrainLog</string>
+	<key>shouldmountexponent</key>
+	<string>canConnectSensor</string>
+	<key>smallFactory</key>
+	<string>resilientInjection</string>
+	<key>sustainableNotification</key>
+	<string>robustUsage</string>
+	<key>temporaryRole</key>
+	<string>shouldDismissBox</string>
+</dict>
+</plist>

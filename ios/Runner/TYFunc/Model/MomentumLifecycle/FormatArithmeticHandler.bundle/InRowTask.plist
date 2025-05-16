@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOffset</key>
+	<string>binderBrightness</string>
+	<key>diffableScroller</key>
+	<string>toolHead</string>
+	<key>intuitiveanimatedcontainer</key>
+	<string>masterForce</string>
+	<key>resourcetint</key>
+	<string>semanticNotifier</string>
+	<key>seamlessSubpixel</key>
+	<string>consultativeRange</string>
+</dict>
+</plist>

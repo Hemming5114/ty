@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activestream</key>
+	<string>visibleTextField</string>
+	<key>cupertinoScope</key>
+	<string>captionWork</string>
+	<key>globalTheme</key>
+	<string>missedEffect</string>
+	<key>occasionresponse</key>
+	<string>themeCenter</string>
+	<key>pivotalModule</key>
+	<string>factoryMargin</string>
+	<key>stampVisibility</key>
+	<string>readResponse</string>
+	<key>strengthKind</key>
+	<string>robustPet</string>
+	<key>variantContrast</key>
+	<string>detectorBottom</string>
+</dict>
+</plist>

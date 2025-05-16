@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConverter</key>
+	<string>canStopUnary</string>
+	<key>easySingleton</key>
+	<string>shouldUpdateChannels</string>
+	<key>emitterMargin</key>
+	<string>blocvisible</string>
+	<key>mobileaxis</key>
+	<string>keepmission</string>
+	<key>multiStream</key>
+	<string>displayableScroll</string>
+	<key>responsiveMend</key>
+	<string>shouldcontinueextension</string>
+	<key>robustRepository</key>
+	<string>shouldserializebuilder</string>
+	<key>sharedEntropy</key>
+	<string>permissiveMultiplication</string>
+	<key>visibleReduction</key>
+	<string>mediumInterface</string>
+</dict>
+</plist>

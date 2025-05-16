@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletFeedback</key>
+	<string>videoInteraction</string>
+	<key>buttonduringprocess</key>
+	<string>storeHue</string>
+	<key>configurationTag</key>
+	<string>lazyRepository</string>
+	<key>fixedProtocol</key>
+	<string>loadBaseline</string>
+	<key>formatPadding</key>
+	<string>prismaticDocument</string>
+	<key>grayscalevertex</key>
+	<string>shouldFetchAccessory</string>
+	<key>largetimeline</key>
+	<string>geometricSubscription</string>
+	<key>liteComposition</key>
+	<string>delicatePositioned</string>
+</dict>
+</plist>

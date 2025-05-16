@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveThreshold</key>
+	<string>transitionCustomPaint</string>
+	<key>batchCoord</key>
+	<string>grainCycle</string>
+	<key>decodeanchor</key>
+	<string>rectright</string>
+	<key>equalizationasmode</key>
+	<string>mutableBloc</string>
+	<key>lostDocument</key>
+	<string>liteAppBar</string>
+</dict>
+</plist>

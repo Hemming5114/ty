@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCombiner</key>
+	<string>mediocrepet</string>
+	<key>connectorMargin</key>
+	<string>errorAcceleration</string>
+	<key>defaultwidget</key>
+	<string>cacheGraphic</string>
+	<key>operationVisible</key>
+	<string>keepBuilder</string>
+	<key>secondInteger</key>
+	<string>skinShape</string>
+	<key>shouldDispatchCupertino</key>
+	<string>variantPadding</string>
+	<key>shouldPrepareScroll</key>
+	<string>shoulddecodecolumn</string>
+	<key>shouldcancelmodulus</key>
+	<string>canRouteSkin</string>
+</dict>
+</plist>

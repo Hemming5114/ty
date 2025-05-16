@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateProvider</key>
+	<string>dimensionSpacing</string>
+	<key>deployflex</key>
+	<string>usedBinary</string>
+	<key>routeraswork</key>
+	<string>infoDepth</string>
+	<key>symbolDepth</key>
+	<string>masterState</string>
+</dict>
+</plist>

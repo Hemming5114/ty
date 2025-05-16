@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintmediatorvisible</key>
+	<string>shouldHandleCaption</string>
+	<key>dependencyinterval</key>
+	<string>compositionalTernary</string>
+	<key>euclideanCallback</key>
+	<string>alphaTension</string>
+	<key>explicitAccessory</key>
+	<string>prevStream</string>
+	<key>momentumskewx</key>
+	<string>encodeChecklist</string>
+	<key>relationalcapsule</key>
+	<string>prevListener</string>
+</dict>
+</plist>

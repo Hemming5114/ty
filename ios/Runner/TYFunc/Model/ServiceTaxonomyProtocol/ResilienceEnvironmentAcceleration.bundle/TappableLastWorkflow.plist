@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeDependency</key>
+	<string>seamlessCosine</string>
+	<key>navigatoraboutcommand</key>
+	<string>canLoadBloc</string>
+	<key>similaroption</key>
+	<string>dedicatedDecoration</string>
+	<key>tickerSize</key>
+	<string>awaitsaturation</string>
+	<key>transformresource</key>
+	<string>webPoint</string>
+</dict>
+</plist>

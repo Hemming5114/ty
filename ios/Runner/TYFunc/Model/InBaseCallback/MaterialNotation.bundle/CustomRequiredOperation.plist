@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardIntegration</key>
+	<string>shouldDisposeBase</string>
+	<key>completionPosition</key>
+	<string>projectionStyle</string>
+	<key>concretepageviewdistance</key>
+	<string>delegateInset</string>
+	<key>contractionSaturation</key>
+	<string>canTransitionBinary</string>
+	<key>exponentName</key>
+	<string>shouldBuildBoxShadow</string>
+	<key>lastReplica</key>
+	<string>layoutAlpha</string>
+	<key>nativePopup</key>
+	<string>declarativeScheduler</string>
+	<key>rectopacity</key>
+	<string>startmodal</string>
+	<key>sharedCycle</key>
+	<string>shouldstoptextfield</string>
+	<key>shouldFetchLog</key>
+	<string>newestMobile</string>
+</dict>
+</plist>

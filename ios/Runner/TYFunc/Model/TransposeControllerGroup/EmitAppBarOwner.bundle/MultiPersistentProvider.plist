@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxStatus</key>
+	<string>detachEvent</string>
+	<key>deferredBitrate</key>
+	<string>geometricContrast</string>
+	<key>indicatortail</key>
+	<string>tensorScale</string>
+	<key>shouldFormatLabel</key>
+	<string>observeModel</string>
+</dict>
+</plist>

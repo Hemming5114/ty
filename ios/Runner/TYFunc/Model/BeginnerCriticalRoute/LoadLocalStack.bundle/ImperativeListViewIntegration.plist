@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionindex</key>
+	<string>listenRequest</string>
+	<key>euclideangrayscale</key>
+	<string>scaleCycle</string>
+	<key>localIntegrity</key>
+	<string>setstateComposition</string>
+	<key>memberBottom</key>
+	<string>drawerMargin</string>
+	<key>pivotalMaterializer</key>
+	<string>interactorObserver</string>
+	<key>shouldRebuildTheme</key>
+	<string>oldLinker</string>
+	<key>singlescheduler</key>
+	<string>discardedPermutation</string>
+	<key>utilforstyle</key>
+	<string>normSkewY</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapfrequency</key>
+	<string>customizedMobile</string>
+	<key>mechanismShape</key>
+	<string>markConstraint</string>
+	<key>nativeRestriction</key>
+	<string>persistprotocol</string>
+	<key>rapidSpecifier</key>
+	<string>clipSubscription</string>
+	<key>relationalSkin</key>
+	<string>gesturedetectorSize</string>
+	<key>robustasync</key>
+	<string>prismaticCell</string>
+	<key>shouldRenderThread</key>
+	<string>allocateRow</string>
+	<key>significantDetail</key>
+	<string>sensorStatus</string>
+	<key>tentativebound</key>
+	<string>rendererBehavior</string>
+	<key>textureVisible</key>
+	<string>curveskewx</string>
+</dict>
+</plist>

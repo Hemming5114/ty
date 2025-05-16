@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitSubscription</key>
+	<string>channelsSkewX</string>
+	<key>fusedScheduler</key>
+	<string>matrixvisibility</string>
+	<key>permanentMediaQuery</key>
+	<string>allocateCoordinator</string>
+	<key>significantAccessory</key>
+	<string>workflowAlignment</string>
+	<key>standalonePopup</key>
+	<string>parseHero</string>
+	<key>stringifyrect</key>
+	<string>logLayer</string>
+</dict>
+</plist>

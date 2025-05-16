@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateshader</key>
+	<string>gestureexceptbridge</string>
+	<key>computelayout</key>
+	<string>sophisticatedSpine</string>
+	<key>missedAccessory</key>
+	<string>semanticsOrientation</string>
+	<key>missedReference</key>
+	<string>singletonandfunction</string>
+	<key>setupcard</key>
+	<string>missedalignmentcenter</string>
+	<key>stateremediation</key>
+	<string>shaderpadding</string>
+</dict>
+</plist>

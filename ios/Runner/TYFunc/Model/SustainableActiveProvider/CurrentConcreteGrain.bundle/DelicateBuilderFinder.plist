@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyChooser</key>
+	<string>arithmeticStyle</string>
+	<key>shouldFetchHero</key>
+	<string>firstRichText</string>
+	<key>shouldstopmediaquery</key>
+	<string>shouldLayoutColumn</string>
+	<key>tableresponder</key>
+	<string>canDismissTable</string>
+	<key>timerbound</key>
+	<string>onfragmenttap</string>
+</dict>
+</plist>

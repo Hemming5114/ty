@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSegue</key>
+	<string>canRebuildTabBar</string>
+	<key>isCharacter</key>
+	<string>detectorTag</string>
+	<key>localizationBound</key>
+	<string>disabledMetadata</string>
+	<key>originalNotifier</key>
+	<string>pauseSizedBox</string>
+	<key>pickerTension</key>
+	<string>bufferparameterright</string>
+	<key>shouldAnimatePet</key>
+	<string>persistentAsset</string>
+	<key>shouldEndIndicator</key>
+	<string>compositionHead</string>
+	<key>singletonwithoutphase</key>
+	<string>arithmeticrequest</string>
+	<key>traversaltension</key>
+	<string>tensorAscent</string>
+</dict>
+</plist>

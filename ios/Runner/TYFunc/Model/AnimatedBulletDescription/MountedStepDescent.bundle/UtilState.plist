@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTaxonomy</key>
+	<string>canDisconnectActivity</string>
+	<key>easyLabel</key>
+	<string>standaloneWrapper</string>
+	<key>hierarchicalAccessory</key>
+	<string>sharedSprite</string>
+	<key>primaryContainer</key>
+	<string>mobileSlider</string>
+	<key>robustMusic</key>
+	<string>canDisconnectStep</string>
+	<key>scrollableRecursion</key>
+	<string>shouldNotifyGestureDetector</string>
+	<key>statelessLoop</key>
+	<string>stopContainer</string>
+	<key>toolMargin</key>
+	<string>shouldSetStateObserver</string>
+</dict>
+</plist>

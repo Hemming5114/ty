@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTraversal</key>
+	<string>notifyPreview</string>
+	<key>disabledOption</key>
+	<string>statelessTool</string>
+	<key>largeReference</key>
+	<string>vectorizeDuration</string>
+	<key>playbackscroller</key>
+	<string>ignoredNode</string>
+	<key>scrollableLog</key>
+	<string>responsiveClipper</string>
+	<key>seamlessMobile</key>
+	<string>listviewactionbrightness</string>
+	<key>tableKind</key>
+	<string>sortedObserver</string>
+	<key>unscheduleheap</key>
+	<string>techniqueRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerMode</key>
+	<string>gradientLocation</string>
+	<key>creategesturedetector</key>
+	<string>distinctionSpacing</string>
+	<key>cubeOrigin</key>
+	<string>cycleVisitor</string>
+	<key>decorationcontroller</key>
+	<string>permissiveColor</string>
+	<key>iconbeyondsystem</key>
+	<string>storeResource</string>
+	<key>lazySingleton</key>
+	<string>richtextStyle</string>
+	<key>onlogchanged</key>
+	<string>disabledCupertino</string>
+	<key>soundFlags</key>
+	<string>obtainGroup</string>
+	<key>usedTime</key>
+	<string>originalLifecycle</string>
+</dict>
+</plist>

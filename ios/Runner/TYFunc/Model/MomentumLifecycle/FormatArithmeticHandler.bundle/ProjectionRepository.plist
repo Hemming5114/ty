@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeStore</key>
+	<string>shouldConnectExpanded</string>
+	<key>petCenter</key>
+	<string>animationstructurespacing</string>
+	<key>publicLoop</key>
+	<string>mediumPet</string>
+	<key>resilientSymbol</key>
+	<string>durationStatus</string>
+	<key>roleforce</key>
+	<string>sustainablePromise</string>
+	<key>shouldSerializeModal</key>
+	<string>smartSpot</string>
+	<key>statusDirection</key>
+	<string>basicpointedge</string>
+	<key>ternaryInteraction</key>
+	<string>challengeenvironmentleft</string>
+	<key>tickerappearance</key>
+	<string>hashPosition</string>
+	<key>wrapoverlay</key>
+	<string>canPresentCurve</string>
+</dict>
+</plist>

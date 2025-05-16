@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativemetadatainteraction</key>
+	<string>channelMode</string>
+	<key>opaqueRemainder</key>
+	<string>uniformtabbarappearance</string>
+	<key>protectedEquivalent</key>
+	<string>diffablePolyfill</string>
+	<key>sortedResilience</key>
+	<string>tensorView</string>
+	<key>yieldresolver</key>
+	<string>attachSkin</string>
+</dict>
+</plist>

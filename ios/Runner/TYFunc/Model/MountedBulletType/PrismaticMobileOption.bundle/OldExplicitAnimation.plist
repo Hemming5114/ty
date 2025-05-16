@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInjection</key>
+	<string>desktopDelivery</string>
+	<key>cupertinoOptimizer</key>
+	<string>shouldFinishRole</string>
+	<key>disabledDescriptor</key>
+	<string>disparateOption</string>
+	<key>disparateDetector</key>
+	<string>showSegue</string>
+	<key>resizableCell</key>
+	<string>aspectratioelasticity</string>
+	<key>signatureHead</key>
+	<string>descentScale</string>
+	<key>unactivatedLayout</key>
+	<string>canDisposeCollection</string>
+</dict>
+</plist>

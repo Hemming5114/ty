@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleShape</key>
+	<string>unaryCenter</string>
+	<key>criticalSpecifier</key>
+	<string>inkwellStage</string>
+	<key>deserializedocument</key>
+	<string>opaqueObject</string>
+	<key>eagerTabView</key>
+	<string>menuVar</string>
+	<key>intermediateScaffold</key>
+	<string>reactiveSound</string>
+	<key>opaqueInterpolation</key>
+	<string>decorationShade</string>
+	<key>screenproxypadding</key>
+	<string>cancelProtocol</string>
+	<key>shouldNavigateCompletion</key>
+	<string>scrollerSize</string>
+	<key>topicbeyondcycle</key>
+	<string>eagergifttension</string>
+</dict>
+</plist>

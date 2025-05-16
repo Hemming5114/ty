@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedsemanticsopacity</key>
+	<string>popupworkfeedback</string>
+	<key>certificateAlignment</key>
+	<string>geometricMatrix</string>
+	<key>delegatemementoflags</key>
+	<string>groupSpacing</string>
+	<key>delicateSample</key>
+	<string>smallUsage</string>
+	<key>permanentCertificate</key>
+	<string>documentFlyweight</string>
+	<key>scrollerAlignment</key>
+	<string>providerPosition</string>
+	<key>shouldSetStateLog</key>
+	<string>cachecompleter</string>
+	<key>statelessincludeparameter</key>
+	<string>inkwellbeyondvalue</string>
+	<key>threadRight</key>
+	<string>interactiveScaffold</string>
+	<key>uniformProjection</key>
+	<string>lastPainter</string>
+</dict>
+</plist>

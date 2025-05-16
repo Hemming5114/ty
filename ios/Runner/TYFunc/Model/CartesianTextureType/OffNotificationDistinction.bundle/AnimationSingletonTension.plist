@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFormat</key>
+	<string>canDispatchModulus</string>
+	<key>pinchableAppBar</key>
+	<string>emitIndicator</string>
+	<key>pivotalGram</key>
+	<string>titleLocation</string>
+	<key>scenarioDuration</key>
+	<string>shouldCacheBrush</string>
+	<key>streamjobtag</key>
+	<string>shouldTransformObserver</string>
+</dict>
+</plist>

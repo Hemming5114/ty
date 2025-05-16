@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateFeature</key>
+	<string>shouldAnimateMatrix</string>
+	<key>globalTicker</key>
+	<string>elasticSpot</string>
+	<key>oldOperation</key>
+	<string>shouldMountedPromise</string>
+	<key>permissiveCustomPaint</key>
+	<string>mainrichtext</string>
+	<key>vertexSpeed</key>
+	<string>updateGridView</string>
+</dict>
+</plist>

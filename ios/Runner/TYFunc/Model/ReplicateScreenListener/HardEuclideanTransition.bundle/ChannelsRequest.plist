@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composabledrawerdistance</key>
+	<string>custompaintAppearance</string>
+	<key>ephemeralElement</key>
+	<string>dialogsSystem</string>
+	<key>granularHero</key>
+	<string>radiusinformation</string>
+	<key>greatEntity</key>
+	<string>metricsLeft</string>
+	<key>isolatesound</key>
+	<string>canEncodeDimension</string>
+	<key>mobileInkWell</key>
+	<string>permanentEquivalent</string>
+	<key>scrollableGestureDetector</key>
+	<string>consultativeskirt</string>
+	<key>semanticsDelay</key>
+	<string>symbolMomentum</string>
+	<key>shouldunbindcosine</key>
+	<string>canUnbindInkWell</string>
+</dict>
+</plist>

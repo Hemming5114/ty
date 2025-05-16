@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionPadding</key>
+	<string>equalizationPattern</string>
+	<key>intermediateChart</key>
+	<string>gridviewBorder</string>
+	<key>remainderType</key>
+	<string>iterativeMission</string>
+</dict>
+</plist>

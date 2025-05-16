@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBound</key>
+	<string>shouldPushHistogram</string>
+	<key>characteristicOrigin</key>
+	<string>storyboardType</string>
+	<key>loaderFormat</key>
+	<string>shouldKeepPainter</string>
+	<key>mendleft</key>
+	<string>canPauseProvider</string>
+	<key>pivotalGrid</key>
+	<string>staticBuilder</string>
+	<key>shouldCreatePainter</key>
+	<string>stepPadding</string>
+</dict>
+</plist>

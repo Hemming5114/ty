@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveEqualization</key>
+	<string>discardedLogarithm</string>
+	<key>modelhead</key>
+	<string>unbindMargin</string>
+	<key>mutableRenderer</key>
+	<string>interceptHash</string>
+	<key>numericalDimension</key>
+	<string>limitFuture</string>
+	<key>pinchableConstant</key>
+	<string>extendManager</string>
+	<key>shouldStopRemainder</key>
+	<string>basicTopic</string>
+</dict>
+</plist>

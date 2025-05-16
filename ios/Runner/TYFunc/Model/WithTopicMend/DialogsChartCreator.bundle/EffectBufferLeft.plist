@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorType</key>
+	<string>difficultImage</string>
+	<key>animationtriangles</key>
+	<string>crudeDelivery</string>
+	<key>displayabletickertop</key>
+	<string>musicBound</string>
+	<key>lastScenario</key>
+	<string>finishEffect</string>
+	<key>mutableShape</key>
+	<string>cacheAxis</string>
+	<key>persistintensity</key>
+	<string>canValidateLayout</string>
+	<key>scaffoldoutsideoperation</key>
+	<string>canStartCube</string>
+	<key>sizedboxslider</key>
+	<string>skirtnumberdirection</string>
+	<key>upgradegroup</key>
+	<string>shouldDecodeGraphic</string>
+</dict>
+</plist>

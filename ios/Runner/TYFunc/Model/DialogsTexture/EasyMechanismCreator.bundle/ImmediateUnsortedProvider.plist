@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildermethodstate</key>
+	<string>reactiveSegment</string>
+	<key>commonBinder</key>
+	<string>canNotifyMember</string>
+	<key>completerstructuretail</key>
+	<string>activeScope</string>
+	<key>hierarchicalShape</key>
+	<string>canPrepareInteger</string>
+	<key>shouldStartEffect</key>
+	<string>remainderLeft</string>
+	<key>tabviewappearance</key>
+	<string>adaptiveBaseline</string>
+</dict>
+</plist>

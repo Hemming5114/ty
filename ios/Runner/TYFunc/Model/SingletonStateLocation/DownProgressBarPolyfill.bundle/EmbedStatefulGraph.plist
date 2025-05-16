@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowmaterial</key>
+	<string>sophisticatedtextfield</string>
+	<key>cupertinoconstrainttype</key>
+	<string>sizeVelocity</string>
+	<key>gesturedetectorSpeed</key>
+	<string>canKeepSign</string>
+	<key>gesturetempledepth</key>
+	<string>richtexttweak</string>
+	<key>hashDuration</key>
+	<string>repositoryAction</string>
+	<key>nextButton</key>
+	<string>bindConstraint</string>
+	<key>scaffoldFlags</key>
+	<string>routerMediator</string>
+	<key>semanticCertificate</key>
+	<string>dropoutCubit</string>
+	<key>smallGrain</key>
+	<string>completerParameter</string>
+	<key>synchronoustextstatus</key>
+	<string>symmetricIntegrity</string>
+</dict>
+</plist>

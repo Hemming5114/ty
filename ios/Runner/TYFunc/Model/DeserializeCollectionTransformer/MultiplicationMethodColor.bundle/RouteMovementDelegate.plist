@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFlex</key>
+	<string>canDecodeCoordinator</string>
+	<key>deferredNib</key>
+	<string>localIndicator</string>
+	<key>hierarchicalLoop</key>
+	<string>disabledPageView</string>
+	<key>immutableBorder</key>
+	<string>greatBitrate</string>
+	<key>subscribetransformer</key>
+	<string>iconFlags</string>
+	<key>validatelocalization</key>
+	<string>canEncodeCustomPaint</string>
+</dict>
+</plist>

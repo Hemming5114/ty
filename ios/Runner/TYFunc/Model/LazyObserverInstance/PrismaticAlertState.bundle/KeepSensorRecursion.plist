@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureBrightness</key>
+	<string>canRenderPromise</string>
+	<key>elasticEntity</key>
+	<string>layershapesize</string>
+	<key>hasInterpolation</key>
+	<string>reconcileResult</string>
+	<key>reusableScene</key>
+	<string>discardedSplitter</string>
+	<key>sampleValidation</key>
+	<string>themeOffset</string>
+	<key>shouldDecodeBox</key>
+	<string>enumerateTexture</string>
+	<key>shouldStreamArithmetic</key>
+	<string>createRadius</string>
+	<key>taskinterval</key>
+	<string>rapidMatrix</string>
+</dict>
+</plist>

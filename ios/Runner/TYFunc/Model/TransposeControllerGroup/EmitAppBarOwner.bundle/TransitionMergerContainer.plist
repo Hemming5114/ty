@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleasyncedge</key>
+	<string>rapidgrainpadding</string>
+	<key>entropyStatus</key>
+	<string>canYieldMedia</string>
+	<key>screenreceiver</key>
+	<string>alphaDelay</string>
+	<key>shouldDecodeMobile</key>
+	<string>savePriority</string>
+	<key>shouldUnbindBox</key>
+	<string>nativeCustomPaint</string>
+</dict>
+</plist>

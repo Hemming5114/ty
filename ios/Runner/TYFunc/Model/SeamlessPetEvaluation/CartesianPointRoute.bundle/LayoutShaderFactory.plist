@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPositioned</key>
+	<string>visitPosition</string>
+	<key>displayablenorm</key>
+	<string>heroandcycle</string>
+	<key>elasticPlayback</key>
+	<string>mainMobile</string>
+	<key>firstRoute</key>
+	<string>presentmaterial</string>
+	<key>navigatorinteraction</key>
+	<string>shouldConnectText</string>
+	<key>parallelAsync</key>
+	<string>reusablePoint</string>
+	<key>provisionTension</key>
+	<string>publicPublisher</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertstatus</key>
+	<string>rectframeworkopacity</string>
+	<key>notifierLeft</key>
+	<string>smartChooser</string>
+	<key>sessionPadding</key>
+	<string>consultativeTimeline</string>
+	<key>sortedSpot</key>
+	<string>statelessLocation</string>
+	<key>traversalTheme</key>
+	<string>sceneState</string>
+	<key>uniformSprite</key>
+	<string>shouldObserveNotification</string>
+</dict>
+</plist>

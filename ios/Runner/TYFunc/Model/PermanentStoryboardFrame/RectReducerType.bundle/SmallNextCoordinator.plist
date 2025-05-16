@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleException</key>
+	<string>flexibleOccasion</string>
+	<key>criticalLog</key>
+	<string>fusedDispatcher</string>
+	<key>mediumBase</key>
+	<string>stopScale</string>
+	<key>reducerAppearance</key>
+	<string>arithmeticdropdownbutton</string>
+	<key>shouldBuildOperation</key>
+	<string>shouldReplaceScaffold</string>
+	<key>shouldMountTask</key>
+	<string>semanticConstant</string>
+	<key>shouldSubscribeTabBar</key>
+	<string>publicLifecycle</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiocallback</key>
+	<string>presenterbrightness</string>
+	<key>inactiveWidget</key>
+	<string>pushDrawer</string>
+	<key>nextSink</key>
+	<string>showButton</string>
+	<key>parallelMaster</key>
+	<string>movementShade</string>
+	<key>priorCharacter</key>
+	<string>canSkipConstraint</string>
+	<key>promiseState</key>
+	<string>shouldPushProfile</string>
+	<key>responsivewidget</key>
+	<string>accelerateError</string>
+	<key>shouldSaveRole</key>
+	<string>fragmentsFrequency</string>
+	<key>sorterBrightness</key>
+	<string>shouldAttachText</string>
+	<key>streamfromshape</key>
+	<string>canPaintSizedBox</string>
+</dict>
+</plist>

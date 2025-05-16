@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPriority</key>
+	<string>basicPlate</string>
+	<key>animatorDelay</key>
+	<string>analyzerBehavior</string>
+	<key>defaultcertificate</key>
+	<string>attachoverlay</string>
+	<key>responsiveMapper</key>
+	<string>locallayoutdensity</string>
+	<key>shouldDisconnectNotifier</key>
+	<string>futureVelocity</string>
+</dict>
+</plist>

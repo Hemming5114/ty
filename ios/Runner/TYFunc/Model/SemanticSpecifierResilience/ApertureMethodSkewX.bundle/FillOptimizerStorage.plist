@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedUseCase</key>
+	<string>cupertinoDecorator</string>
+	<key>gridviewValidation</key>
+	<string>cursorbottom</string>
+	<key>localsubpixelstyle</key>
+	<string>pinchablelocalization</string>
+	<key>promisebuffertype</key>
+	<string>layoutreducer</string>
+	<key>shaderoperationhead</key>
+	<string>permutationLeft</string>
+	<key>shouldRebuildPadding</key>
+	<string>customizedScheduler</string>
+</dict>
+</plist>

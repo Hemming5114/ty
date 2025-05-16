@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBrightness</key>
+	<string>primaryFragment</string>
+	<key>exceptionparametercolor</key>
+	<string>customizedSpecifier</string>
+	<key>movementDelay</key>
+	<string>destroyLayer</string>
+	<key>normaroundproxy</key>
+	<string>invisibleOptimizer</string>
+	<key>pinchableHandler</key>
+	<string>shouldReplaceCoordinator</string>
+	<key>scrollableClipper</key>
+	<string>dismissDelegate</string>
+	<key>singleText</key>
+	<string>findState</string>
+	<key>skirtinteractor</key>
+	<string>globalCoordinator</string>
+</dict>
+</plist>

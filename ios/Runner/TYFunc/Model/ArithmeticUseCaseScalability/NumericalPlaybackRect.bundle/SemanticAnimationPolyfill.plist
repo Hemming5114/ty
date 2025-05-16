@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinedelegate</key>
+	<string>topicFormat</string>
+	<key>disabledImage</key>
+	<string>singletonoutsidefacade</string>
+	<key>eventforpattern</key>
+	<string>flexibleAmortization</string>
+	<key>fusedFormat</key>
+	<string>subscriptionFlags</string>
+	<key>granularCheckbox</key>
+	<string>associatedCharacteristic</string>
+	<key>seamlessgate</key>
+	<string>mediumanimationcontrast</string>
+</dict>
+</plist>

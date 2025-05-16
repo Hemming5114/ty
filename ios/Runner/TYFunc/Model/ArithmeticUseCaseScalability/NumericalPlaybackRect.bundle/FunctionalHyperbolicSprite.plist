@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvevariablevelocity</key>
+	<string>mutableaction</string>
+	<key>dependencyLocation</key>
+	<string>shouldSetStateGate</string>
+	<key>discardedBandwidth</key>
+	<string>shouldShowTabBar</string>
+	<key>localUsage</key>
+	<string>methodtolerance</string>
+	<key>rapidSession</key>
+	<string>localizationwithoutform</string>
+	<key>shouldstreamcosine</key>
+	<string>prismaticthemeoffset</string>
+</dict>
+</plist>

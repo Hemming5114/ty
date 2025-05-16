@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTrajectory</key>
+	<string>custompaintWork</string>
+	<key>constraintincludemode</key>
+	<string>sortedScenario</string>
+	<key>crucialAllocator</key>
+	<string>secondCanvas</string>
+	<key>originalTentative</key>
+	<string>semanticNotifier</string>
+	<key>shouldFormatPlate</key>
+	<string>customSizedBox</string>
+	<key>statelessBorder</key>
+	<string>shouldNavigateMaster</string>
+</dict>
+</plist>

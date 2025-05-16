@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetindex</key>
+	<string>usecasekind</string>
+	<key>associatedRenderer</key>
+	<string>canLoadStream</string>
+	<key>crucialAxis</key>
+	<string>textDelay</string>
+	<key>cycleInterval</key>
+	<string>brushlayout</string>
+	<key>delegateDelay</key>
+	<string>painterrecursion</string>
+	<key>equalizationpainter</key>
+	<string>seamlessSegue</string>
+	<key>handlerOpacity</key>
+	<string>publicAnchor</string>
+	<key>prismaticMetadata</key>
+	<string>scrollableScroller</string>
+	<key>regulatewidget</key>
+	<string>canSetStateRemainder</string>
+</dict>
+</plist>

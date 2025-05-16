@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveStoryboard</key>
+	<string>continueAlert</string>
+	<key>keyThreshold</key>
+	<string>priorLifecycle</string>
+	<key>lossradius</key>
+	<string>timeCoord</string>
+	<key>painterprototypecount</key>
+	<string>symbolisolate</string>
+	<key>subsequentCertificate</key>
+	<string>shouldKeepRow</string>
+	<key>themeTag</key>
+	<string>priorConnector</string>
+</dict>
+</plist>

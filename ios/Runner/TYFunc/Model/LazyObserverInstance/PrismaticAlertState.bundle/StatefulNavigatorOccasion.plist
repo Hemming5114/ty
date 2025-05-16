@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionStyle</key>
+	<string>framebottom</string>
+	<key>listviewposition</key>
+	<string>otherVolume</string>
+	<key>listviewsingletonleft</key>
+	<string>gramFlags</string>
+	<key>localSlider</key>
+	<string>continueDelegate</string>
+	<key>protectedCompletion</key>
+	<string>drawerDirection</string>
+	<key>reactiveComposition</key>
+	<string>firstChapter</string>
+	<key>shouldParseCupertino</key>
+	<string>projectBuffer</string>
+	<key>shouldStartNotification</key>
+	<string>saveGem</string>
+	<key>swiftbrightness</key>
+	<string>evaluationDirection</string>
+</dict>
+</plist>

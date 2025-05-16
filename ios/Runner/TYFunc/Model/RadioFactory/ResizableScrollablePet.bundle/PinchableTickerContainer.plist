@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledRange</key>
+	<string>variantTail</string>
+	<key>dropoutcubit</key>
+	<string>robustUtil</string>
+	<key>inactiveAnimation</key>
+	<string>reflectState</string>
+	<key>inheritedMerger</key>
+	<string>canStopGesture</string>
+	<key>layoutrate</key>
+	<string>canDecodeProtocol</string>
+	<key>parallelReduction</key>
+	<string>prismaticVector</string>
+	<key>publicEvolution</key>
+	<string>unactivatedBrush</string>
+	<key>unactivatedCell</key>
+	<string>enhanceQueue</string>
+</dict>
+</plist>

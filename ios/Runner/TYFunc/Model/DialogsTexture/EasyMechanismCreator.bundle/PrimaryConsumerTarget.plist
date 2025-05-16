@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousListener</key>
+	<string>symbolposition</string>
+	<key>configurationaction</key>
+	<string>canResumeDimension</string>
+	<key>equivalentKind</key>
+	<string>secondPromise</string>
+	<key>interactoractionskewx</key>
+	<string>interactorspeed</string>
+	<key>paddingviaaction</key>
+	<string>immediateModule</string>
+	<key>pivotalPadding</key>
+	<string>normalPermutation</string>
+	<key>reactiveJoiner</key>
+	<string>persistconvolution</string>
+	<key>shouldTransformBinary</key>
+	<string>activateanimation</string>
+	<key>shouldUpdatePriority</key>
+	<string>titleflags</string>
+</dict>
+</plist>

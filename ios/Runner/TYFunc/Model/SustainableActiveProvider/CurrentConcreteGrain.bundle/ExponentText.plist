@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedNotifier</key>
+	<string>requiredRadio</string>
+	<key>rendererTheme</key>
+	<string>switchparamrotation</string>
+	<key>swiftBottom</key>
+	<string>endMaster</string>
+	<key>transitionactivitytheme</key>
+	<string>pooltexture</string>
+</dict>
+</plist>

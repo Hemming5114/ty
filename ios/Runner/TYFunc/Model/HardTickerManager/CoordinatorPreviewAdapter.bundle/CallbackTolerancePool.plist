@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubepicker</key>
+	<string>shouldFinishMedia</string>
+	<key>granularHistogram</key>
+	<string>timeBottom</string>
+	<key>savestream</key>
+	<string>maxOverlay</string>
+	<key>scaffoldAcceleration</key>
+	<string>priorException</string>
+	<key>streamkind</key>
+	<string>canHandleBuilder</string>
+	<key>switchBound</key>
+	<string>dispatchBuilder</string>
+</dict>
+</plist>

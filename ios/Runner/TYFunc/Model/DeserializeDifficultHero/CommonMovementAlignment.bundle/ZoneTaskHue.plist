@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerTag</key>
+	<string>shouldPauseBoxShadow</string>
+	<key>directlyItem</key>
+	<string>missedDisclaimer</string>
+	<key>efficiencyDirection</key>
+	<string>newestBloc</string>
+	<key>freestoryboard</key>
+	<string>denseBase</string>
+	<key>independentIndicator</key>
+	<string>transformIndicator</string>
+</dict>
+</plist>

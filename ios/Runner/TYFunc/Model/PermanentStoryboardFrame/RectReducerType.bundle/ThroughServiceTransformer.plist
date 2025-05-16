@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineCenter</key>
+	<string>alphaStage</string>
+	<key>builderContrast</key>
+	<string>shouldPushFragment</string>
+	<key>defaultprojection</key>
+	<string>canEncodeClipper</string>
+	<key>itemPosition</key>
+	<string>cellBrightness</string>
+	<key>shouldTransformCell</key>
+	<string>canMountedBaseline</string>
+	<key>transformsession</key>
+	<string>reflectCubit</string>
+</dict>
+</plist>

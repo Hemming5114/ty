@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellLocation</key>
+	<string>activatedIndicator</string>
+	<key>discardedHeap</key>
+	<string>commonAnimator</string>
+	<key>gridSpacing</key>
+	<string>uniformgradientinterval</string>
+	<key>resizableAccessory</key>
+	<string>interactivetouch</string>
+</dict>
+</plist>

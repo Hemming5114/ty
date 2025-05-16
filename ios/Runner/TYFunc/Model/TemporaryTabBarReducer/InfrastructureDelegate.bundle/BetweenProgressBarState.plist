@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnalogy</key>
+	<string>requestLevel</string>
+	<key>logarithmmapper</key>
+	<string>newestFragments</string>
+	<key>precisionTension</key>
+	<string>utilKind</string>
+	<key>preparegrain</key>
+	<string>intensitysize</string>
+	<key>resourcesincebuffer</key>
+	<string>animateddescriptioncount</string>
+	<key>shaderBehavior</key>
+	<string>polygonKind</string>
+	<key>shouldEndWidget</key>
+	<string>skipStoryboard</string>
+	<key>toolbound</key>
+	<string>lostChecklist</string>
+	<key>unactivatedCollection</key>
+	<string>animatedcontainerlistener</string>
+</dict>
+</plist>

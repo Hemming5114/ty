@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedbloc</key>
+	<string>binaryOperation</string>
+	<key>loaderHead</key>
+	<string>parallelevent</string>
+	<key>tappableScale</key>
+	<string>menuTension</string>
+	<key>textbound</key>
+	<string>shouldResumePlate</string>
+</dict>
+</plist>

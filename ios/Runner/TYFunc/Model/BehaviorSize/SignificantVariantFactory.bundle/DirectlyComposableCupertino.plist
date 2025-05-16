@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystelasticity</key>
+	<string>shouldDeserializeHeap</string>
+	<key>cyclevalidation</key>
+	<string>progressbarthroughoperation</string>
+	<key>flexibleCapacities</key>
+	<string>mapperSize</string>
+	<key>formatgroup</key>
+	<string>disabledDuration</string>
+	<key>futureBorder</key>
+	<string>smallAnchor</string>
+	<key>lazyAnchor</key>
+	<string>symmetricPainter</string>
+	<key>shouldEncodeScale</key>
+	<string>challengeMemento</string>
+</dict>
+</plist>

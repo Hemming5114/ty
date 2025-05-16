@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationTheme</key>
+	<string>unmountGradient</string>
+	<key>dimensionInset</key>
+	<string>unarysplitter</string>
+	<key>disconnectstep</key>
+	<string>optionInterpreter</string>
+	<key>multiScheduler</key>
+	<string>petParameter</string>
+	<key>persistentGroup</key>
+	<string>pushBrush</string>
+	<key>shouldReplaceSpot</key>
+	<string>allocatorMethod</string>
+</dict>
+</plist>

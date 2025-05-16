@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricButton</key>
+	<string>diversifiedMedia</string>
+	<key>imperativeNavigation</key>
+	<string>canStopPadding</string>
+	<key>injectionBottom</key>
+	<string>typicalDialogs</string>
+	<key>semanticHistogram</key>
+	<string>expandedTint</string>
+	<key>shouldDisconnectPoint</key>
+	<string>unscheduleScene</string>
+	<key>shouldFetchCollection</key>
+	<string>canPublishConvolution</string>
+	<key>shouldFinishListView</key>
+	<string>canDispatchProjection</string>
+	<key>standaloneEffect</key>
+	<string>reducerColor</string>
+	<key>webTransformer</key>
+	<string>activeFlex</string>
+</dict>
+</plist>

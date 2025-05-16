@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectcustompaint</key>
+	<string>fusedPainter</string>
+	<key>lossstore</key>
+	<string>batchChain</string>
+	<key>particlealignment</key>
+	<string>multiplicationoperationinterval</string>
+	<key>persistnavigator</key>
+	<string>addModel</string>
+	<key>sequentialCapacity</key>
+	<string>referenceDepth</string>
+</dict>
+</plist>

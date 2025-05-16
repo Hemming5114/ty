@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderincludetemple</key>
+	<string>sharedController</string>
+	<key>criticaltickerdistance</key>
+	<string>resilientgestureinset</string>
+	<key>easyChecklist</key>
+	<string>geometricBinary</string>
+	<key>gesturedetectorKind</key>
+	<string>singleSegue</string>
+	<key>onintegertap</key>
+	<string>respectiveUseCase</string>
+	<key>optionFormat</key>
+	<string>shouldAttachTheme</string>
+	<key>semanticModal</key>
+	<string>formatSkirt</string>
+	<key>shouldConnectMonster</key>
+	<string>delicateChooser</string>
+	<key>shouldPushPet</key>
+	<string>deferredChannels</string>
+</dict>
+</plist>

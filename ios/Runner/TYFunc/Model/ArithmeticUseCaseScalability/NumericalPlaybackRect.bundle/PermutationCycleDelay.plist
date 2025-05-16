@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyVelocity</key>
+	<string>layoutReference</string>
+	<key>enabledinformation</key>
+	<string>requestDirection</string>
+	<key>independentThroughput</key>
+	<string>behaviorAdapter</string>
+	<key>momentumcompositedirection</key>
+	<string>referenceSpeed</string>
+	<key>nativeFactory</key>
+	<string>canRebuildCaption</string>
+	<key>requiredanchorpressure</key>
+	<string>rowindecorator</string>
+	<key>textfieldoperation</key>
+	<string>standaloneflex</string>
+</dict>
+</plist>

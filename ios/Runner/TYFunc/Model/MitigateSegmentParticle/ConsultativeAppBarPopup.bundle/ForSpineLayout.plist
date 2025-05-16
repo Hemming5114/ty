@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerDensity</key>
+	<string>eagermethod</string>
+	<key>euclideanVideo</key>
+	<string>acceleratePopup</string>
+	<key>materialInjection</key>
+	<string>capacitiestransparency</string>
+	<key>otherDispatcher</key>
+	<string>localEvolution</string>
+	<key>shouldValidateGridView</key>
+	<string>canListenBaseline</string>
+	<key>spotBorder</key>
+	<string>subpixelDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configureanimation</key>
+	<string>profileStream</string>
+	<key>consultativeNavigator</key>
+	<string>shouldObserveAspect</string>
+	<key>eventState</key>
+	<string>canPresentPriority</string>
+	<key>geometricResource</key>
+	<string>shaderOrientation</string>
+	<key>impressionflags</key>
+	<string>showMaterial</string>
+	<key>mainZone</key>
+	<string>scenetaskinterval</string>
+	<key>usedObject</key>
+	<string>unbindModulus</string>
+</dict>
+</plist>

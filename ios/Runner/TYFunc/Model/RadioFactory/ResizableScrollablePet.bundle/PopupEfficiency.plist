@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveSlash</key>
+	<string>skipUnary</string>
+	<key>pivotalGroup</key>
+	<string>metricsColor</string>
+	<key>shouldDisposeRichText</key>
+	<string>shouldValidateCosine</string>
+	<key>shouldLayoutHero</key>
+	<string>alignmentPhase</string>
+	<key>shouldSkipEntropy</key>
+	<string>layoutGift</string>
+	<key>sizedboxAcceleration</key>
+	<string>processorOpacity</string>
+	<key>synchronousScroll</key>
+	<string>logBrightness</string>
+</dict>
+</plist>

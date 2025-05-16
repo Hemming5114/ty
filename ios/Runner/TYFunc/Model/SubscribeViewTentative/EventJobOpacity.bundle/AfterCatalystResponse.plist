@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexIndex</key>
+	<string>hierarchicalPositioned</string>
+	<key>mountedsignature</key>
+	<string>canYieldWorkflow</string>
+	<key>offsetOpacity</key>
+	<string>lastgrayscale</string>
+	<key>publicLayout</key>
+	<string>canKeepPageView</string>
+	<key>subscriptiontint</key>
+	<string>mobilerepositoryvalidation</string>
+	<key>tappableMember</key>
+	<string>localBaseline</string>
+</dict>
+</plist>

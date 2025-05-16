@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxthroughmethod</key>
+	<string>awaitSkewX</string>
+	<key>computedependency</key>
+	<string>specifyCustomPaint</string>
+	<key>converterresponse</key>
+	<string>materialFinder</string>
+	<key>hardsegue</key>
+	<string>minStateless</string>
+	<key>immutablePageView</key>
+	<string>emitvector</string>
+	<key>interactiveLinker</key>
+	<string>futureDistance</string>
+	<key>opaqueAsync</key>
+	<string>wrapNode</string>
+	<key>shouldbuildgram</key>
+	<string>sineTint</string>
+</dict>
+</plist>

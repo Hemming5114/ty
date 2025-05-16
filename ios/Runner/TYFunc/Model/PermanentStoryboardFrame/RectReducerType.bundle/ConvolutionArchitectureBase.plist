@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultmusic</key>
+	<string>liteMenu</string>
+	<key>functionalMargin</key>
+	<string>completedSession</string>
+	<key>largeRadio</key>
+	<string>enabledReducer</string>
+	<key>materialconsumer</key>
+	<string>tentativeRate</string>
+	<key>resizableBox</key>
+	<string>adaptiveBuffer</string>
+	<key>searchercenter</key>
+	<string>quantizerSprite</string>
+	<key>shouldLayoutOperation</key>
+	<string>intermediateEquivalent</string>
+	<key>shouldStreamProtocol</key>
+	<string>repositoryStrategy</string>
+</dict>
+</plist>

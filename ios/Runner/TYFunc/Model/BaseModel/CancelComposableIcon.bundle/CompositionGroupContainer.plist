@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentContrast</key>
+	<string>concreteFilter</string>
+	<key>concreteTrigger</key>
+	<string>detectorMargin</string>
+	<key>smallPreview</key>
+	<string>dropdownbuttonfilter</string>
+	<key>smallasset</key>
+	<string>errorDensity</string>
+</dict>
+</plist>

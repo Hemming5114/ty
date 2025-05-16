@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmenttempletop</key>
+	<string>progressbarDensity</string>
+	<key>framehead</key>
+	<string>mechanismscale</string>
+	<key>lastdropdownbutton</key>
+	<string>benchmarkResource</string>
+	<key>managerfromprocess</key>
+	<string>indicatordispatcher</string>
+	<key>movementsystemtail</key>
+	<string>observeRichText</string>
+	<key>otherroutercontrast</key>
+	<string>tableLayer</string>
+	<key>shouldRebuildChecklist</key>
+	<string>slashforenvironment</string>
+	<key>shouldrenderentropy</key>
+	<string>compositionalDelivery</string>
+</dict>
+</plist>

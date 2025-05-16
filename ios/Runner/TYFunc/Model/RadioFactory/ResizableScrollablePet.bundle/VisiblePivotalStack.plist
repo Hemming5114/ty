@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserPressure</key>
+	<string>observeNavigation</string>
+	<key>explicitQueue</key>
+	<string>desktopPreview</string>
+	<key>rolegraph</key>
+	<string>accelerateasync</string>
+	<key>shouldDetachNavigator</key>
+	<string>popDescriptor</string>
+	<key>themevisible</key>
+	<string>shouldPushCycle</string>
+	<key>usecasecolor</key>
+	<string>segmenttypetransparency</string>
+	<key>variantIndex</key>
+	<string>shouldListenSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionExtension</key>
+	<string>immediatePlayback</string>
+	<key>dialogscontextdelay</key>
+	<string>responderBorder</string>
+	<key>enabledGate</key>
+	<string>disabledIsolate</string>
+	<key>greatShape</key>
+	<string>interactionVelocity</string>
+	<key>logarithmVisible</key>
+	<string>servicePosition</string>
+	<key>tappablePosition</key>
+	<string>nextImpression</string>
+	<key>tensorSwift</key>
+	<string>partitionResult</string>
+	<key>tweenappearance</key>
+	<string>globalBoxShadow</string>
+	<key>uniquecubittension</key>
+	<string>similarDetail</string>
+</dict>
+</plist>

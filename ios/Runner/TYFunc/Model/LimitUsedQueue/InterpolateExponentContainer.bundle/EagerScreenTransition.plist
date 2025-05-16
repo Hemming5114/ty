@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentError</key>
+	<string>featureMode</string>
+	<key>draggableAsset</key>
+	<string>shouldCacheCell</string>
+	<key>requiredCapacity</key>
+	<string>trainbloc</string>
+	<key>resolvername</key>
+	<string>tentativeVisible</string>
+	<key>servicemerger</key>
+	<string>contractionIndex</string>
+	<key>shouldRoutePlayback</key>
+	<string>scrollableTicker</string>
+	<key>shouldTransformDocument</key>
+	<string>capacitieslayercoord</string>
+</dict>
+</plist>

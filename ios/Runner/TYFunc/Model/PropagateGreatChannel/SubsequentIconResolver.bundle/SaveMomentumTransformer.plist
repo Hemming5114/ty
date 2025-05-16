@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCompletion</key>
+	<string>cartesianTransition</string>
+	<key>bulletvisibility</key>
+	<string>shouldContinueInstruction</string>
+	<key>crudeGraphic</key>
+	<string>primaryScale</string>
+	<key>largeDescription</key>
+	<string>stepvisitorcount</string>
+	<key>musiccontainparam</key>
+	<string>shouldReplaceAlpha</string>
+	<key>radiusstatus</key>
+	<string>moveEntity</string>
+	<key>sceneduringproxy</key>
+	<string>replaceeffect</string>
+	<key>seamlessBinary</key>
+	<string>switchformat</string>
+	<key>tappableCatalyst</key>
+	<string>arithmeticForm</string>
+	<key>ternaryqueue</key>
+	<string>shouldObserveOperation</string>
+</dict>
+</plist>

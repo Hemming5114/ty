@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorSize</key>
+	<string>mobileSpeed</string>
+	<key>searcherPosition</key>
+	<string>memberresponse</string>
+	<key>shouldCacheSemantics</key>
+	<string>resilienceOrigin</string>
+	<key>shouldPersistStack</key>
+	<string>processorSaturation</string>
+	<key>skinHue</key>
+	<string>descriptorPadding</string>
+	<key>synchronousRichText</key>
+	<string>synchronousFuture</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOrigin</key>
+	<string>sortedIsolate</string>
+	<key>dedicatedImpact</key>
+	<string>heapstatepadding</string>
+	<key>deferredCompleter</key>
+	<string>autoTweak</string>
+	<key>explicitIsolate</key>
+	<string>heroBehavior</string>
+	<key>filterState</key>
+	<string>sinemomentum</string>
+	<key>labelBorder</key>
+	<string>standaloneLinker</string>
+	<key>pinchableSemantics</key>
+	<string>reusableTask</string>
+	<key>rapidbuttonforce</key>
+	<string>pendingGestureDetector</string>
+	<key>shoulddispatchmodal</key>
+	<string>graphicStatus</string>
+</dict>
+</plist>

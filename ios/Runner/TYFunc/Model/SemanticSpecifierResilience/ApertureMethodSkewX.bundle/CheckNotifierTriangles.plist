@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianChart</key>
+	<string>flexMargin</string>
+	<key>fusedPicker</key>
+	<string>shouldprocesslog</string>
+	<key>geometrictickerdelay</key>
+	<string>shouldPausePositioned</string>
+	<key>layoutResponse</key>
+	<string>poptext</string>
+	<key>pageviewcontroller</key>
+	<string>stackStyle</string>
+	<key>resizableCapacity</key>
+	<string>requestShape</string>
+	<key>robustArchitecture</key>
+	<string>moveBuffer</string>
+	<key>shouldFinishChallenge</key>
+	<string>painterFlyweight</string>
+</dict>
+</plist>

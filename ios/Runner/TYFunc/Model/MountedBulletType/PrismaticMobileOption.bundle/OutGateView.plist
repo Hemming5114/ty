@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impressionSize</key>
+	<string>interactorleft</string>
+	<key>interfaceBrightness</key>
+	<string>eagerFragments</string>
+	<key>moduluscontainer</key>
+	<string>showresponse</string>
+	<key>permanentRect</key>
+	<string>cupertinoMapper</string>
+	<key>publicArithmetic</key>
+	<string>ephemeralAppBar</string>
+	<key>shouldProcessSemantics</key>
+	<string>dismissloop</string>
+	<key>shouldTransformModal</key>
+	<string>shouldPopSlash</string>
+	<key>similarInteraction</key>
+	<string>resumeWorkflow</string>
+	<key>singleProjection</key>
+	<string>hardImpression</string>
+	<key>switchSize</key>
+	<string>canDisposeHero</string>
+</dict>
+</plist>

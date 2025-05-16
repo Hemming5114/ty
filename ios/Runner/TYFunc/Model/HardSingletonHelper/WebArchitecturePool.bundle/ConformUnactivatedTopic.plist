@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalService</key>
+	<string>delegateText</string>
+	<key>currentReceiver</key>
+	<string>shouldUnbindMonster</string>
+	<key>defaultplate</key>
+	<string>routerdispatcher</string>
+	<key>radiusTheme</key>
+	<string>shouldcreategesturedetector</string>
+	<key>regulatetimer</key>
+	<string>nextlabelspacing</string>
+	<key>rendertween</key>
+	<string>rectifyanimation</string>
+	<key>responsiveFlex</key>
+	<string>shouldAnimateNotifier</string>
+	<key>strokeBorder</key>
+	<string>parallelGraphic</string>
+</dict>
+</plist>

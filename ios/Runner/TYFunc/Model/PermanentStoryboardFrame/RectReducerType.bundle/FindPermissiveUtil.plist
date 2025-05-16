@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedslashinteraction</key>
+	<string>canCancelStream</string>
+	<key>buttonfromlayer</key>
+	<string>playbackTag</string>
+	<key>compositionalSegue</key>
+	<string>shouldObserveDropdownButton</string>
+	<key>inactiveRouter</key>
+	<string>segueFeedback</string>
+	<key>shouldNavigateSensor</key>
+	<string>globalGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentJoiner</key>
+	<string>renderRoute</string>
+	<key>constraintAlignment</key>
+	<string>workflowPrototype</string>
+	<key>grainuntilstage</key>
+	<string>convolutionFramework</string>
+	<key>materialMaster</key>
+	<string>disparateCatalyst</string>
+	<key>momentumvisible</key>
+	<string>compositionalDuration</string>
+	<key>precisiongraph</key>
+	<string>grayscaleSingleton</string>
+</dict>
+</plist>

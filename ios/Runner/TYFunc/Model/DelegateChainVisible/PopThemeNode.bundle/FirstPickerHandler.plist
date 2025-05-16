@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTop</key>
+	<string>permanentHandler</string>
+	<key>defaultTabView</key>
+	<string>overlayHead</string>
+	<key>directColumn</key>
+	<string>displayableContainer</string>
+	<key>directlyAmortization</key>
+	<string>smartProject</string>
+	<key>futurechart</key>
+	<string>commonGram</string>
+	<key>immediateSearcher</key>
+	<string>effectCenter</string>
+	<key>skinrotation</key>
+	<string>specifyNotification</string>
+</dict>
+</plist>

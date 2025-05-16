@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationSkewX</key>
+	<string>diffableUtil</string>
+	<key>frameInterval</key>
+	<string>canUnbindNotifier</string>
+	<key>missedTouch</key>
+	<string>associatedPicker</string>
+	<key>nativedescriptionorientation</key>
+	<string>unactivatedModel</string>
+	<key>normalPriority</key>
+	<string>shouldRouteBox</string>
+	<key>robustPosition</key>
+	<string>pinchableSpot</string>
+	<key>subsequentBullet</key>
+	<string>shouldSubscribeTangent</string>
+	<key>substantialbuilder</key>
+	<string>sampleduringwork</string>
+</dict>
+</plist>

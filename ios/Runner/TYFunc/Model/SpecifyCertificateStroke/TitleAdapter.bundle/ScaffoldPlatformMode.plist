@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationshade</key>
+	<string>buildtopic</string>
+	<key>basicInteractor</key>
+	<string>shouldskipfuture</string>
+	<key>concurrentMomentum</key>
+	<string>customizedGrid</string>
+	<key>imperativequaternion</key>
+	<string>skirtContrast</string>
+	<key>permanentLinker</key>
+	<string>signaturetask</string>
+	<key>shouldShowMember</key>
+	<string>canHandleUnary</string>
+</dict>
+</plist>

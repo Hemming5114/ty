@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerpopup</key>
+	<string>resetcoordinator</string>
+	<key>currentSound</key>
+	<string>paintExpanded</string>
+	<key>largebuilder</key>
+	<string>scrollableFactory</string>
+	<key>permutationLeft</key>
+	<string>smartUsage</string>
+	<key>screenColor</key>
+	<string>shouldStopPrecision</string>
+	<key>screenintegrity</key>
+	<string>touchCoordinator</string>
+	<key>shouldRenderPrecision</key>
+	<string>directlyDelivery</string>
+</dict>
+</plist>

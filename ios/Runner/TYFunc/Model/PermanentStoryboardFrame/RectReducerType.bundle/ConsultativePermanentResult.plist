@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityValidation</key>
+	<string>diffableinfrastructure</string>
+	<key>captioncontrast</key>
+	<string>contractionAcceleration</string>
+	<key>crudeNib</key>
+	<string>dispatcherDirection</string>
+	<key>disparateCluster</key>
+	<string>emitqueue</string>
+	<key>independentAudio</key>
+	<string>eagercontainerposition</string>
+	<key>materializerMargin</key>
+	<string>shouldHandleArithmetic</string>
+	<key>oldChart</key>
+	<string>canEncodeExpanded</string>
+	<key>responsiveDetector</key>
+	<string>robustLabel</string>
+	<key>sharedUnary</key>
+	<string>promiseTemple</string>
+	<key>writeduration</key>
+	<string>invisibleThread</string>
+</dict>
+</plist>

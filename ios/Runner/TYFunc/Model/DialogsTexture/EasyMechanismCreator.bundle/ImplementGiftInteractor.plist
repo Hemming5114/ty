@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicAppBar</key>
+	<string>canEmitMaster</string>
+	<key>greatGrain</key>
+	<string>animateAnchor</string>
+	<key>logStyle</key>
+	<string>pivotalPopup</string>
+	<key>permutationAcceleration</key>
+	<string>canPresentAnimatedContainer</string>
+	<key>shouldHandleResource</key>
+	<string>oldCertificate</string>
+	<key>timelineStatus</key>
+	<string>signFlyweight</string>
+	<key>volumeName</key>
+	<string>canTrainGem</string>
+	<key>wrapperedge</key>
+	<string>autoCycle</string>
+</dict>
+</plist>

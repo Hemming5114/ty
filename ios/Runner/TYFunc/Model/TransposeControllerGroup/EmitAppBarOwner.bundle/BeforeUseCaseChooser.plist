@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserFeedback</key>
+	<string>skiptween</string>
+	<key>inkwellShade</key>
+	<string>statelessTimeline</string>
+	<key>interpolateheap</key>
+	<string>validateSpot</string>
+	<key>parallelSemantics</key>
+	<string>canLayoutProjection</string>
+	<key>scrollablepromisename</key>
+	<string>dismissBox</string>
+	<key>signatureuntiljob</key>
+	<string>shouldPresentStateless</string>
+	<key>timerOpacity</key>
+	<string>seguePrototype</string>
+	<key>utildispatcher</key>
+	<string>canCancelTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCoordinator</key>
+	<string>commonReplica</string>
+	<key>cellimpression</key>
+	<string>enabledMaterial</string>
+	<key>challengeVisible</key>
+	<string>embedSingleton</string>
+	<key>compositionalInteger</key>
+	<string>crucialAnimatedContainer</string>
+	<key>gemDelay</key>
+	<string>streamRole</string>
+	<key>onobserverchanged</key>
+	<string>nodeScope</string>
+</dict>
+</plist>

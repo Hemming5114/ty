@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateddelegate</key>
+	<string>elasticityDepth</string>
+	<key>deferredBehavior</key>
+	<string>shaderSingleton</string>
+	<key>firstAction</key>
+	<string>popController</string>
+	<key>observerRotation</key>
+	<string>debugRequest</string>
+	<key>paintcell</key>
+	<string>skirtPosition</string>
+	<key>receiverName</key>
+	<string>smallAnimation</string>
+	<key>responsiveBitrate</key>
+	<string>accessibleContainer</string>
+	<key>singleobserverinset</key>
+	<string>gestureshape</string>
+	<key>videoTransparency</key>
+	<string>completerrotation</string>
+</dict>
+</plist>

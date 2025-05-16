@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completiontag</key>
+	<string>thresholdspacing</string>
+	<key>criticalAwait</key>
+	<string>mutableBullet</string>
+	<key>disclaimerDensity</key>
+	<string>finishSwitch</string>
+	<key>equalizationOpacity</key>
+	<string>difficultSingleton</string>
+	<key>isFuture</key>
+	<string>shouldStartSizedBox</string>
+	<key>protectedWrapper</key>
+	<string>shouldStreamTernary</string>
+	<key>shouldDisconnectMatrix</key>
+	<string>canDeserializeBase</string>
+</dict>
+</plist>

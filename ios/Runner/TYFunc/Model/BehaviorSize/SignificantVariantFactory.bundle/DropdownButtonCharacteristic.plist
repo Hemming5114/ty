@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterPadding</key>
+	<string>allocateEvent</string>
+	<key>flexHead</key>
+	<string>awaitForce</string>
+	<key>generatereducer</key>
+	<string>mapShape</string>
+	<key>localqueuevelocity</key>
+	<string>elasticButton</string>
+	<key>shouldAnimateTernary</key>
+	<string>keyArithmetic</string>
+	<key>shouldDetachPositioned</key>
+	<string>augmentStream</string>
+	<key>subtleconstraint</key>
+	<string>notifyCompletion</string>
+	<key>timerscheduler</key>
+	<string>relationalGrid</string>
+	<key>uniformClipper</key>
+	<string>blocState</string>
+</dict>
+</plist>

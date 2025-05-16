@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachetension</key>
+	<string>shouldEncodeTheme</string>
+	<key>cartesianThread</key>
+	<string>shouldCancelProfile</string>
+	<key>cupertinoAcceleration</key>
+	<string>canUnmountedScale</string>
+	<key>durationalongstage</key>
+	<string>optimizerPhase</string>
+	<key>globalProject</key>
+	<string>amortizationAppearance</string>
+	<key>popupSpeed</key>
+	<string>multiRole</string>
+	<key>selectedmission</key>
+	<string>mountedMovement</string>
+	<key>statefulForce</key>
+	<string>tensormetadataacceleration</string>
+</dict>
+</plist>

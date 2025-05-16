@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteRadius</key>
+	<string>defaulttabbar</string>
+	<key>elementBehavior</key>
+	<string>receivespecifier</string>
+	<key>hardviewpadding</key>
+	<string>restartClipper</string>
+	<key>navigatorstructurevisible</key>
+	<string>shouldcontinuestamp</string>
+	<key>sequentialPublisher</key>
+	<string>shouldEncodeCube</string>
+	<key>shouldMountSymbol</key>
+	<string>clipperRate</string>
+	<key>subtleNorm</key>
+	<string>shouldSaveFlex</string>
+	<key>tappableBaseline</key>
+	<string>usedSchema</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisLeft</key>
+	<string>meshCount</string>
+	<key>movementShape</key>
+	<string>canFormatPoint</string>
+	<key>painterShade</key>
+	<string>fragmentFunction</string>
+	<key>persistentDelegate</key>
+	<string>desktopGrid</string>
+	<key>radiusFrequency</key>
+	<string>unlockQueue</string>
+	<key>storeAlignment</key>
+	<string>interfacelikestyle</string>
+	<key>storeframeworksize</key>
+	<string>canPresentReduction</string>
+	<key>usedRepository</key>
+	<string>newestContraction</string>
+	<key>webItem</key>
+	<string>eventshape</string>
+</dict>
+</plist>

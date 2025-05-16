@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorAppearance</key>
+	<string>statelessBorder</string>
+	<key>enabledSlash</key>
+	<string>popAnimation</string>
+	<key>equalizationstorage</key>
+	<string>traversalPosition</string>
+	<key>exceptionHead</key>
+	<string>radiovalueshape</string>
+	<key>fusedUtil</key>
+	<string>collectionCycle</string>
+	<key>parallelSine</key>
+	<string>binaryphaselocation</string>
+	<key>publicDetector</key>
+	<string>storeObserver</string>
+	<key>sliderCount</key>
+	<string>continueStack</string>
+	<key>webData</key>
+	<string>deserializeModel</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchinsideaction</key>
+	<string>impactBottom</string>
+	<key>cubeForce</key>
+	<string>mainsegment</string>
+	<key>decorationScale</key>
+	<string>detailspeed</string>
+	<key>hardasyncdensity</key>
+	<string>inheritednotificationdepth</string>
+	<key>lazyScope</key>
+	<string>semanticTopic</string>
+</dict>
+</plist>

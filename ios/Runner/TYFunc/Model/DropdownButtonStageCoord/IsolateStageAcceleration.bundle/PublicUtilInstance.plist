@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseOffset</key>
+	<string>secondCallback</string>
+	<key>completionlinker</key>
+	<string>keepInstruction</string>
+	<key>contractionspacing</key>
+	<string>reliabilityBrightness</string>
+	<key>groupstate</key>
+	<string>previewCycle</string>
+	<key>injectionaspect</key>
+	<string>transformmediaquery</string>
+	<key>lazyTween</key>
+	<string>secondMerger</string>
+	<key>optimizercenter</key>
+	<string>startDropdownButton</string>
+	<key>shouldStopPet</key>
+	<string>presentertempleskewx</string>
+	<key>toolDensity</key>
+	<string>popupPlatform</string>
+</dict>
+</plist>

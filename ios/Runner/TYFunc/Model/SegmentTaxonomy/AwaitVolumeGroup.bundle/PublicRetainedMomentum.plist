@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystparametermode</key>
+	<string>parseSwitch</string>
+	<key>elasticCapacities</key>
+	<string>seamlesspermutation</string>
+	<key>equipmentgraph</key>
+	<string>floatTransformer</string>
+	<key>requiredcurvesize</key>
+	<string>mediaBound</string>
+	<key>sustainabletablestyle</key>
+	<string>analyzeMethod</string>
+</dict>
+</plist>

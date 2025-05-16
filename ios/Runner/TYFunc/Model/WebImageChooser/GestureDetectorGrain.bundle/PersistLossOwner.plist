@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralCard</key>
+	<string>spriteformat</string>
+	<key>frameperplatform</key>
+	<string>shouldNavigateMovement</string>
+	<key>largeContainer</key>
+	<string>introspectIsolate</string>
+	<key>promiseInteraction</key>
+	<string>layoutDecoration</string>
+	<key>robustCell</key>
+	<string>shouldYieldClipper</string>
+	<key>shouldupdateshader</key>
+	<string>difficultElasticity</string>
+</dict>
+</plist>

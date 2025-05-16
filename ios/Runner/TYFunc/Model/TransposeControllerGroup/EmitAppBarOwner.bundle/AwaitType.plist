@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectMomentum</key>
+	<string>singleSearcher</string>
+	<key>imperativeInkWell</key>
+	<string>spotMargin</string>
+	<key>keyRadio</key>
+	<string>shouldHandleTheme</string>
+	<key>newestPlayback</key>
+	<string>canTransitionTextField</string>
+	<key>shouldBuildConstraint</key>
+	<string>independentSegment</string>
+	<key>synchronousinterpolation</key>
+	<string>shouldLoadActivity</string>
+	<key>visibleImage</key>
+	<string>presenterMode</string>
+</dict>
+</plist>

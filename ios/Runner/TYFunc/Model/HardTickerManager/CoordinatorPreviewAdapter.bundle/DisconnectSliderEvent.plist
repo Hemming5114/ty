@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impressionKind</key>
+	<string>replaceCustomPaint</string>
+	<key>liteNavigator</key>
+	<string>customstoryboardinterval</string>
+	<key>offsetinjection</key>
+	<string>cellallocator</string>
+	<key>shouldHandleMaster</key>
+	<string>subtleAwait</string>
+	<key>shouldPersistScale</key>
+	<string>agileexceptionkind</string>
+	<key>staticEffect</key>
+	<string>functionalusecasehead</string>
+</dict>
+</plist>

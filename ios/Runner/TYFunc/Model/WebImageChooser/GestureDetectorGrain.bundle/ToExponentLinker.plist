@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableFrame</key>
+	<string>serializeSkin</string>
+	<key>ephemeralInkWell</key>
+	<string>dispatchmetadata</string>
+	<key>rebuildmap</key>
+	<string>crudePadding</string>
+	<key>shouldendbase</key>
+	<string>usedInteger</string>
+	<key>shouldpublishstream</key>
+	<string>mendContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMaster</key>
+	<string>immediateConfiguration</string>
+	<key>aspectratiofrequency</key>
+	<string>canContinueBehavior</string>
+	<key>asynchronousTitle</key>
+	<string>originalAllocator</string>
+	<key>intuitiveThreshold</key>
+	<string>weboptimizeredge</string>
+	<key>multitaskdirection</key>
+	<string>shouldSubscribeDelegate</string>
+	<key>shouldTrainPlate</key>
+	<string>logPrototype</string>
+</dict>
+</plist>

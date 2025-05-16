@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedcompletion</key>
+	<string>updateBinary</string>
+	<key>autoExtension</key>
+	<string>updateParticle</string>
+	<key>commonResponder</key>
+	<string>eventfunctionright</string>
+	<key>layerjoborientation</key>
+	<string>canReplaceEffect</string>
+	<key>popupDuration</key>
+	<string>canDisposeTheme</string>
+	<key>prismaticAsset</key>
+	<string>buildCapacities</string>
+	<key>touchsample</key>
+	<string>streampainter</string>
+</dict>
+</plist>

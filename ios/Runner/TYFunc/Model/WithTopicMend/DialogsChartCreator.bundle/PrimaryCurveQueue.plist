@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInset</key>
+	<string>wrapTween</string>
+	<key>elasticInterface</key>
+	<string>shouldTrainClipper</string>
+	<key>ignoreddisclaimer</key>
+	<string>canSetStateSpot</string>
+	<key>layerviaplatform</key>
+	<string>immediateRadio</string>
+	<key>oldExtension</key>
+	<string>shouldPersistMatrix</string>
+	<key>pivotalLabel</key>
+	<string>reusableBase</string>
+	<key>pivotalScroller</key>
+	<string>shouldDispatchTask</string>
+</dict>
+</plist>

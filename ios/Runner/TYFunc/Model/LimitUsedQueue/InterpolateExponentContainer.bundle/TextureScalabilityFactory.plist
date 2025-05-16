@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianaction</key>
+	<string>skipActivity</string>
+	<key>challengeOpacity</key>
+	<string>listenLog</string>
+	<key>deactivateintensity</key>
+	<string>resolveGrid</string>
+	<key>elasticityname</key>
+	<string>shouldSerializeConstraint</string>
+	<key>euclideanFuture</key>
+	<string>haspriority</string>
+	<key>numericalinterface</key>
+	<string>dismissintensity</string>
+	<key>sharedCard</key>
+	<string>smartManager</string>
+	<key>shouldAttachPadding</key>
+	<string>topicTransparency</string>
+	<key>shouldFormatEqualization</key>
+	<string>mergerMomentum</string>
+</dict>
+</plist>

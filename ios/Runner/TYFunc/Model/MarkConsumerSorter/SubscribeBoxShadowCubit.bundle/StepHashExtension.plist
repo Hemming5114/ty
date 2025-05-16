@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentVisibility</key>
+	<string>protocolAppearance</string>
+	<key>diversifiedEmitter</key>
+	<string>materialexceptstyle</string>
+	<key>factoryname</key>
+	<string>copyconfiguration</string>
+	<key>operationskewx</key>
+	<string>fillCallback</string>
+	<key>shouldPaintScreen</key>
+	<string>liteScroller</string>
+</dict>
+</plist>

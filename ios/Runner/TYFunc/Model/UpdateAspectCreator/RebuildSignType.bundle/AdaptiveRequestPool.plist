@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTransition</key>
+	<string>logcallback</string>
+	<key>curvetriangles</key>
+	<string>mediaBridge</string>
+	<key>elasticUtil</key>
+	<string>canEndStamp</string>
+	<key>fragmentskewx</key>
+	<string>refreshHandler</string>
+	<key>largeParticle</key>
+	<string>kernelBound</string>
+	<key>localMonster</key>
+	<string>equalizationDensity</string>
+	<key>mutabledecoration</key>
+	<string>channelLayer</string>
+	<key>prevSwitch</key>
+	<string>nativeParticle</string>
+	<key>shouldValidateMusic</key>
+	<string>transpileState</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerColor</key>
+	<string>registerResource</string>
+	<key>criticalMap</key>
+	<string>featurePressure</string>
+	<key>drawerdisclaimer</key>
+	<string>restartUsage</string>
+	<key>emitterBorder</key>
+	<string>responsecompositetail</string>
+	<key>ephemeralSwitch</key>
+	<string>elasticInterpolation</string>
+	<key>interactiveCapacities</key>
+	<string>sizedboxLevel</string>
+	<key>shaderStatus</key>
+	<string>canFinishPromise</string>
+	<key>shouldPopConsumer</key>
+	<string>denseTriangles</string>
+	<key>sliderofmemento</key>
+	<string>storeselector</string>
+</dict>
+</plist>

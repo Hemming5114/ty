@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTouch</key>
+	<string>refreshTransition</string>
+	<key>ephemeralConsumption</key>
+	<string>batchDensity</string>
+	<key>independentDocument</key>
+	<string>displayRepository</string>
+	<key>interactiveemitter</key>
+	<string>pinchablePoint</string>
+	<key>permissiveBorder</key>
+	<string>advancedDependency</string>
+	<key>shouldStreamMission</key>
+	<string>fixedSegment</string>
+	<key>sinkOrientation</key>
+	<string>efficiencyBrightness</string>
+	<key>ternaryFeedback</key>
+	<string>dispatchRemainder</string>
+	<key>webListener</key>
+	<string>canShowMovement</string>
+	<key>webdelegatevelocity</key>
+	<string>localRange</string>
+</dict>
+</plist>

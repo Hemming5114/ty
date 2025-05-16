@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTexture</key>
+	<string>geometrictransformer</string>
+	<key>enabledMedia</key>
+	<string>positionedSingleton</string>
+	<key>particlepressure</key>
+	<string>smallCapsule</string>
+	<key>sliderwithstage</key>
+	<string>statusSkewX</string>
+	<key>synchronousResult</key>
+	<string>monsterParam</string>
+</dict>
+</plist>

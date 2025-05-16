@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthOrientation</key>
+	<string>retainedBoxShadow</string>
+	<key>graphicincludetask</key>
+	<string>localExtension</string>
+	<key>grayscaleSaturation</key>
+	<string>shouldTransformChannels</string>
+	<key>intuitiveDrawer</key>
+	<string>emitGram</string>
+	<key>queueVisible</key>
+	<string>usedbrush</string>
+	<key>resizableActivity</key>
+	<string>themeposition</string>
+	<key>webSemantics</key>
+	<string>relationalHero</string>
+</dict>
+</plist>

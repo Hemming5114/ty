@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encodegrid</key>
+	<string>mainSwift</string>
+	<key>immediatecharttop</key>
+	<string>primaryButton</string>
+	<key>imperativedocumentbrightness</key>
+	<string>hashcontainprototype</string>
+	<key>inkwellShape</key>
+	<string>spriteFramework</string>
+	<key>presentsizedbox</key>
+	<string>canListenAspectRatio</string>
+	<key>sensorTheme</key>
+	<string>mediumDocument</string>
+	<key>shouldCreatePoint</key>
+	<string>asynchronousCallback</string>
+	<key>shouldSerializeMember</key>
+	<string>draggableSelector</string>
+</dict>
+</plist>

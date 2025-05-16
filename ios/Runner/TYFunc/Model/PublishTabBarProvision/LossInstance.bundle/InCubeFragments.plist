@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCharacter</key>
+	<string>freeGroup</string>
+	<key>composableSkirt</key>
+	<string>modelinsidecycle</string>
+	<key>hierarchicalSink</key>
+	<string>canLoadTask</string>
+	<key>immediateInteractor</key>
+	<string>basicPadding</string>
+	<key>mainAnalogy</key>
+	<string>canPauseSubpixel</string>
+	<key>nextThreshold</key>
+	<string>persistContraction</string>
+	<key>normKind</key>
+	<string>arithmeticSlash</string>
+	<key>shouldSetStateAlpha</key>
+	<string>backwardResult</string>
+	<key>vectorFeedback</key>
+	<string>allocatorbrightness</string>
+</dict>
+</plist>

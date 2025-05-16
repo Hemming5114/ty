@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileMethod</key>
+	<string>chapterInterpreter</string>
+	<key>paddingIndex</key>
+	<string>methodInteraction</string>
+	<key>paddingPressure</key>
+	<string>exceptionOrientation</string>
+	<key>scalewithvar</key>
+	<string>canUnmountNavigator</string>
+	<key>smartAudio</key>
+	<string>handleVariant</string>
+</dict>
+</plist>

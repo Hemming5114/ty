@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDistance</key>
+	<string>autoImpression</string>
+	<key>criticalposition</key>
+	<string>ignoredGram</string>
+	<key>grainparameterbound</key>
+	<string>shouldInflateKernel</string>
+	<key>retainedRange</key>
+	<string>staticMedia</string>
+	<key>sessioninsidecontext</key>
+	<string>disclaimertheme</string>
+	<key>statelessTool</key>
+	<string>beginnerInstruction</string>
+</dict>
+</plist>

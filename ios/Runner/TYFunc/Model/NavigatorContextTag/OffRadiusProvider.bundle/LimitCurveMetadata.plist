@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>datatransparency</key>
+	<string>handleAsync</string>
+	<key>replacepositioned</key>
+	<string>resourceconfiguration</string>
+	<key>resilientPosition</key>
+	<string>elasticPoint</string>
+	<key>sharedcharacter</key>
+	<string>builderSpeed</string>
+	<key>shouldDispatchShader</key>
+	<string>adaptiveDialogs</string>
+	<key>statelessRange</key>
+	<string>formatimage</string>
+</dict>
+</plist>

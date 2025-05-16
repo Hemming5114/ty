@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilescroller</key>
+	<string>pagerSkewY</string>
+	<key>hyperbolicTouch</key>
+	<string>canRebuildGram</string>
+	<key>multiBehavior</key>
+	<string>canCreateDescriptor</string>
+	<key>recursionInteraction</key>
+	<string>consumestep</string>
+	<key>shouldEmitMaterial</key>
+	<string>cachebound</string>
+	<key>transitionscoperight</key>
+	<string>shouldProcessBaseline</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAwait</key>
+	<string>chapterHue</string>
+	<key>disparateModule</key>
+	<string>diffableMethod</string>
+	<key>heroMomentum</key>
+	<string>navigatorFeedback</string>
+	<key>largePadding</key>
+	<string>keyScheduler</string>
+	<key>opaquestep</key>
+	<string>unactivatedStoryboard</string>
+	<key>responsiveActivity</key>
+	<string>groupFormat</string>
+	<key>shouldInflateCard</key>
+	<string>processPageView</string>
+	<key>smartConsumption</key>
+	<string>startThread</string>
+</dict>
+</plist>

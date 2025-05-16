@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRenderer</key>
+	<string>canAnimateDimension</string>
+	<key>customListView</key>
+	<string>profileinjection</string>
+	<key>distinctionForce</key>
+	<string>refactorAnimation</string>
+	<key>precisionSaturation</key>
+	<string>overrideTween</string>
+</dict>
+</plist>

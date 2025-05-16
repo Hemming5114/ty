@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableOption</key>
+	<string>vertexOrientation</string>
+	<key>fixedtitlebottom</key>
+	<string>occasionCenter</string>
+	<key>hierarchicalviewfeedback</key>
+	<string>basicTimer</string>
+	<key>presentanimation</key>
+	<string>interpolationtext</string>
+	<key>schedulerbrightness</key>
+	<string>detailState</string>
+	<key>shouldMountedSegment</key>
+	<string>normalcompletionleft</string>
+	<key>transitioncenter</key>
+	<string>missedNode</string>
+	<key>visibleSprite</key>
+	<string>deflateEntity</string>
+</dict>
+</plist>

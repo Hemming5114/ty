@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttoncontrast</key>
+	<string>operationDecorator</string>
+	<key>currentOperation</key>
+	<string>shouldDisposeImage</string>
+	<key>dynamicSession</key>
+	<string>polyfillStatus</string>
+	<key>enabledNavigator</key>
+	<string>displayablewidget</string>
+	<key>explicitroutecount</key>
+	<string>specifyRichText</string>
+	<key>graphOrigin</key>
+	<string>intuitiveResolver</string>
+	<key>heroShape</key>
+	<string>decorationPadding</string>
+	<key>pauseicon</key>
+	<string>transitionVariable</string>
+	<key>selectedCurve</key>
+	<string>connectCertificate</string>
+	<key>shouldfinishtangent</key>
+	<string>activeAsset</string>
+</dict>
+</plist>

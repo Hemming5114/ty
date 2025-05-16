@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMediaQuery</key>
+	<string>baseColor</string>
+	<key>constraintmargin</key>
+	<string>shouldAnimateCosine</string>
+	<key>cupertinocubitinterval</key>
+	<string>canPrepareBatch</string>
+	<key>discardedcolumn</key>
+	<string>consultativeEffect</string>
+	<key>gridviewerror</key>
+	<string>sorterEdge</string>
+	<key>listviewroute</key>
+	<string>enhanceDecoration</string>
+	<key>shouldAttachSlash</key>
+	<string>resultnearbridge</string>
+	<key>shouldPopLogarithm</key>
+	<string>firstConverter</string>
+	<key>shouldSetStateBaseline</key>
+	<string>stackMomentum</string>
+	<key>wrapsemantics</key>
+	<string>shouldEncodeBinary</string>
+</dict>
+</plist>

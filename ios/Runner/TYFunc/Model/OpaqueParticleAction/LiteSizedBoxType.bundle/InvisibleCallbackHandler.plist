@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartoperationstyle</key>
+	<string>canTrainStack</string>
+	<key>coordinatorpolygon</key>
+	<string>oldMetrics</string>
+	<key>crudepainter</key>
+	<string>shouldFormatController</string>
+	<key>restartreducer</key>
+	<string>lazyAlignment</string>
+	<key>spriteTint</key>
+	<string>usedgiftstatus</string>
+</dict>
+</plist>

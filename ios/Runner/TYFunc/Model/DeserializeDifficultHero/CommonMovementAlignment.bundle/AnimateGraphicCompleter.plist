@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prevInterface</key>
+	<string>listenManager</string>
+	<key>shouldCancelInterpolation</key>
+	<string>pagerRotation</string>
+	<key>shouldFetchCycle</key>
+	<string>fixedGrayscale</string>
+	<key>sophisticatedPrecision</key>
+	<string>commonMesh</string>
+	<key>storageCount</key>
+	<string>resilienceDirection</string>
+	<key>unactivatedmanagerformat</key>
+	<string>autoEmitter</string>
+</dict>
+</plist>

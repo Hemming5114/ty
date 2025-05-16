@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldRestartMargin</key>
+	<string>heapAcceleration</string>
+	<key>shouldStreamAnimatedContainer</key>
+	<string>particleStatus</string>
+	<key>staticHistogram</key>
+	<string>diversifiedSession</string>
+	<key>substantialPriority</key>
+	<string>cellMomentum</string>
+</dict>
+</plist>

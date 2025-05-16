@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directBoxShadow</key>
+	<string>materialVisible</string>
+	<key>precisionbuffer</key>
+	<string>transformerDecorator</string>
+	<key>shouldDecodeStream</key>
+	<string>resilientJoiner</string>
+	<key>shouldresumetangent</key>
+	<string>tabbarTail</string>
+	<key>symmetrictext</key>
+	<string>groupconsumer</string>
+	<key>topicBottom</key>
+	<string>resizeCompleter</string>
+	<key>usedAnchor</key>
+	<string>awaitFeedback</string>
+</dict>
+</plist>

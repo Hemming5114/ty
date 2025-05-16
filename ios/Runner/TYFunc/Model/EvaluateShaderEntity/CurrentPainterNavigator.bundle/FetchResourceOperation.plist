@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAperture</key>
+	<string>shouldNavigateEquipment</string>
+	<key>aperturePadding</key>
+	<string>topicappearance</string>
+	<key>assetinteraction</key>
+	<string>consultativeTimeline</string>
+	<key>basicUseCase</key>
+	<string>canPublishSensor</string>
+	<key>composableRoute</key>
+	<string>streamSkirt</string>
+	<key>firstpromise</key>
+	<string>pinchableTrajectory</string>
+	<key>firstvariant</key>
+	<string>memberType</string>
+	<key>particlescalability</key>
+	<string>listenerhead</string>
+	<key>semanticsthroughput</key>
+	<string>shouldDispatchCube</string>
+	<key>transformstate</key>
+	<string>shouldRebuildBorder</string>
+</dict>
+</plist>

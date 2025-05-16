@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturepicker</key>
+	<string>concurrentPager</string>
+	<key>custommobile</key>
+	<string>canSaveAspectRatio</string>
+	<key>detachloop</key>
+	<string>soundTag</string>
+	<key>freemodal</key>
+	<string>intensityRotation</string>
+	<key>granularStamp</key>
+	<string>emitLayer</string>
+	<key>respectiveAmortization</key>
+	<string>dialogsHead</string>
+	<key>scrollRight</key>
+	<string>selectedaccessory</string>
+	<key>shouldCreateScreen</key>
+	<string>shouldMountedCustomPaint</string>
+	<key>storageawayscope</key>
+	<string>shouldEmitNavigation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSingleton</key>
+	<string>normalContainer</string>
+	<key>interactiveScaffold</key>
+	<string>shearPosition</string>
+	<key>primaryChannel</key>
+	<string>shouldFinishSign</string>
+	<key>shouldCreateTernary</key>
+	<string>scrollableDecoration</string>
+	<key>shouldLoadSkin</key>
+	<string>concretenorm</string>
+	<key>shouldunbindtask</key>
+	<string>continueExpanded</string>
+	<key>tabviewFeedback</key>
+	<string>reflectDescription</string>
+</dict>
+</plist>

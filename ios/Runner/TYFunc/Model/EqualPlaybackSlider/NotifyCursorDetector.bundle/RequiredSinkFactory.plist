@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalDuration</key>
+	<string>overrideDecoration</string>
+	<key>eagerStamp</key>
+	<string>singletonfrequency</string>
+	<key>euclideanStamp</key>
+	<string>usecaseType</string>
+	<key>greatElasticity</key>
+	<string>shouldPopMovement</string>
+	<key>greatLatency</key>
+	<string>transformSpot</string>
+	<key>missedSizedBox</key>
+	<string>ignoredStateless</string>
+	<key>movementcoordinator</key>
+	<string>shouldAttachSkirt</string>
+	<key>opaquePoint</key>
+	<string>injectInteractor</string>
+	<key>touchvector</key>
+	<string>histogramState</string>
+</dict>
+</plist>

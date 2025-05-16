@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerStyle</key>
+	<string>sliderEnvironment</string>
+	<key>currentStroke</key>
+	<string>reflectEntity</string>
+	<key>immutableBrush</key>
+	<string>findcursor</string>
+	<key>loopShape</key>
+	<string>opaquetangent</string>
+	<key>pagerdirection</key>
+	<string>canPersistBuilder</string>
+	<key>rectSize</key>
+	<string>localMesh</string>
+	<key>rectangleOpacity</key>
+	<string>transformerDirection</string>
+	<key>webTechnique</key>
+	<string>shouldRebuildResource</string>
+</dict>
+</plist>

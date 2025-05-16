@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedProjection</key>
+	<string>transformequipment</string>
+	<key>custompaintInteraction</key>
+	<string>undertakeButton</string>
+	<key>directSensor</key>
+	<string>functionalBorder</string>
+	<key>frameTag</key>
+	<string>baselineLayer</string>
+	<key>multiChart</key>
+	<string>endStamp</string>
+	<key>numericalrichtext</key>
+	<string>continuemodal</string>
+	<key>specifyPicker</key>
+	<string>appendText</string>
+	<key>subsequenttriangles</key>
+	<string>listviewbrightness</string>
+</dict>
+</plist>

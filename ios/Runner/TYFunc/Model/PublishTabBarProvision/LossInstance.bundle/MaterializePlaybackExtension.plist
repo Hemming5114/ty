@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideandescent</key>
+	<string>currentDrawer</string>
+	<key>imperativeProvision</key>
+	<string>provisionScale</string>
+	<key>mainDescription</key>
+	<string>rectMemento</string>
+	<key>shouldPushScaffold</key>
+	<string>uniqueParticle</string>
+	<key>shouldinflatedelegate</key>
+	<string>shouldDecodeAlert</string>
+	<key>tappableBuffer</key>
+	<string>lastDetector</string>
+</dict>
+</plist>

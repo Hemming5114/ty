@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachloss</key>
+	<string>greatScreen</string>
+	<key>herostyle</key>
+	<string>crudeAnimation</string>
+	<key>retainedEffect</key>
+	<string>consumeNode</string>
+	<key>shouldPersistMaster</key>
+	<string>timelineShade</string>
+	<key>shouldPopTextField</key>
+	<string>aggregateasync</string>
+	<key>sophisticatedChannel</key>
+	<string>maintainProvider</string>
+	<key>stateinteraction</key>
+	<string>binaryKind</string>
+	<key>synchronousFactory</key>
+	<string>materialduration</string>
+	<key>tasktheme</key>
+	<string>beginnerRecursion</string>
+</dict>
+</plist>

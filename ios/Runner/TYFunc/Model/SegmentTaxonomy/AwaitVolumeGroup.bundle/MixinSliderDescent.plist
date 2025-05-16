@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDuration</key>
+	<string>reusablecompletion</string>
+	<key>aspectratioOrigin</key>
+	<string>progressbarComposite</string>
+	<key>exceptionshade</key>
+	<string>localsensor</string>
+	<key>injectionSkewX</key>
+	<string>materialPosition</string>
+	<key>interactiveBinder</key>
+	<string>shouldFormatOverlay</string>
+</dict>
+</plist>

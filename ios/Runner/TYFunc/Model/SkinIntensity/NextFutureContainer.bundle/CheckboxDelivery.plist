@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderflags</key>
+	<string>keyOperation</string>
+	<key>detachexpanded</key>
+	<string>popCache</string>
+	<key>inheritedThread</key>
+	<string>largebandwidth</string>
+	<key>mainMerger</key>
+	<string>factoryemitter</string>
+	<key>permanentAmortization</key>
+	<string>releasecapacities</string>
+	<key>usedUsage</key>
+	<string>crucialSession</string>
+</dict>
+</plist>

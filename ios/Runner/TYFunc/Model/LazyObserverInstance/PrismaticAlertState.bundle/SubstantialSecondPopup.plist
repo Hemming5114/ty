@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTweak</key>
+	<string>missedMobile</string>
+	<key>behaviorPosition</key>
+	<string>descriptionMargin</string>
+	<key>completerInteraction</key>
+	<string>shouldNotifyPainter</string>
+	<key>ignoredMatrix</key>
+	<string>cartesianPicker</string>
+	<key>localZone</key>
+	<string>notifierskewy</string>
+	<key>multiTolerance</key>
+	<string>restartCoordinator</string>
+	<key>reductioncontroller</key>
+	<string>canEmitMultiplication</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedColumn</key>
+	<string>mobilePainter</string>
+	<key>normContrast</key>
+	<string>easyLayer</string>
+	<key>oldCapacity</key>
+	<string>cloneConstraint</string>
+	<key>optimizerbridgeorientation</key>
+	<string>bindgraph</string>
+	<key>parallelSchema</key>
+	<string>scrollableCard</string>
+	<key>titleCenter</key>
+	<string>saveBatch</string>
+</dict>
+</plist>

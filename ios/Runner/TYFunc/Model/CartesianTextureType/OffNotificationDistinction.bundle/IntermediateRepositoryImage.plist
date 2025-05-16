@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTool</key>
+	<string>shouldPauseMaster</string>
+	<key>cupertinoAsset</key>
+	<string>blocmetadata</string>
+	<key>dynamicChart</key>
+	<string>shouldRebuildDescriptor</string>
+	<key>linkerPressure</key>
+	<string>shouldpushunary</string>
+	<key>mobilemovementdensity</key>
+	<string>canDisconnectFragment</string>
+	<key>pivotalAlpha</key>
+	<string>canPopAnimation</string>
+	<key>priorrange</key>
+	<string>desktopAmortization</string>
+	<key>retainedDescription</key>
+	<string>filterRotation</string>
+	<key>sustainableProject</key>
+	<string>reusableError</string>
+</dict>
+</plist>

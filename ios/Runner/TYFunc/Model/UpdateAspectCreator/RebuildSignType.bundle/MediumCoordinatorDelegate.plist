@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMesh</key>
+	<string>shouldKeepPoint</string>
+	<key>customProvider</key>
+	<string>optimizeTimer</string>
+	<key>elasticityOpacity</key>
+	<string>iterativeBase</string>
+	<key>keyLog</key>
+	<string>reduceResource</string>
+	<key>prevSubscription</key>
+	<string>canPublishAlpha</string>
+	<key>scrollableLayer</key>
+	<string>shouldBindComposition</string>
+	<key>shouldCancelStamp</key>
+	<string>transitionFlags</string>
+	<key>shouldPopSpot</key>
+	<string>shouldLoadShader</string>
+	<key>sophisticatedClipper</key>
+	<string>inheritedIsolate</string>
+	<key>stampandenvironment</key>
+	<string>entropyFeedback</string>
+</dict>
+</plist>

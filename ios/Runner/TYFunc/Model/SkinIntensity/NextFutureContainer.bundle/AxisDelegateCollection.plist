@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAlignment</key>
+	<string>canPersistSubpixel</string>
+	<key>bulletColor</key>
+	<string>arithmeticDepth</string>
+	<key>denseSample</key>
+	<string>pointShade</string>
+	<key>intuitiveWrapper</key>
+	<string>lazyImpression</string>
+	<key>serializeallocator</key>
+	<string>requestShape</string>
+	<key>shouldDisconnectClipper</key>
+	<string>shouldFetchProject</string>
+	<key>shouldYieldStack</key>
+	<string>canAttachCoordinator</string>
+	<key>uniformCard</key>
+	<string>consumerlocation</string>
+	<key>uniqueEquivalent</key>
+	<string>completerAlignment</string>
+</dict>
+</plist>

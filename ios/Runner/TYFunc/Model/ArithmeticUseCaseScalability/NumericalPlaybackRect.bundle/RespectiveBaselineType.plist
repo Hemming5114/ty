@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDensity</key>
+	<string>sequentialternary</string>
+	<key>createobserver</key>
+	<string>switchAppearance</string>
+	<key>currentanimatedcontainer</key>
+	<string>normContrast</string>
+	<key>relationalLifecycle</key>
+	<string>aspectscale</string>
+	<key>shouldMountedOptimizer</key>
+	<string>trainGesture</string>
+	<key>typicalSplitter</key>
+	<string>shouldPushSkin</string>
+	<key>unsortedCapacities</key>
+	<string>lostMend</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachbloc</key>
+	<string>persistDimension</string>
+	<key>diversifiedCharacter</key>
+	<string>precisionFeedback</string>
+	<key>easyRepository</key>
+	<string>shouldDismissSubpixel</string>
+	<key>gesturedetectorfinder</key>
+	<string>navigatePriority</string>
+	<key>interactorstructurecontrast</key>
+	<string>presenterScale</string>
+	<key>loopskewy</key>
+	<string>dropoutTransformer</string>
+	<key>nativeContraction</key>
+	<string>ternaryobject</string>
+</dict>
+</plist>

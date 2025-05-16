@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedappbar</key>
+	<string>specifieroractivity</string>
+	<key>enabledcycle</key>
+	<string>loopvertex</string>
+	<key>hardActivity</key>
+	<string>roleParam</string>
+	<key>hyperbolicSensor</key>
+	<string>switchOrigin</string>
+	<key>interactiveSubpixel</key>
+	<string>updateOverlay</string>
+	<key>lazySorter</key>
+	<string>pinchableMaterial</string>
+	<key>rowlistener</key>
+	<string>compositionalEqualization</string>
+	<key>shouldPrepareSession</key>
+	<string>subscriptionsize</string>
+</dict>
+</plist>

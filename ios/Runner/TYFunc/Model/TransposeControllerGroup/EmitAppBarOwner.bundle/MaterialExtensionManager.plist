@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableMobile</key>
+	<string>activateStorage</string>
+	<key>dropdownbuttonDistance</key>
+	<string>directlyQueue</string>
+	<key>easyoffset</key>
+	<string>momentumPhase</string>
+	<key>metricsDirection</key>
+	<string>revisitService</string>
+	<key>rapidComponent</key>
+	<string>temporaryRadius</string>
+	<key>shouldBuildButton</key>
+	<string>shouldDispatchTextField</string>
+	<key>shouldBuildSemantics</key>
+	<string>custompaintVelocity</string>
+	<key>shouldKeepPoint</key>
+	<string>layoutTable</string>
+	<key>unaryTension</key>
+	<string>significantChannel</string>
+</dict>
+</plist>

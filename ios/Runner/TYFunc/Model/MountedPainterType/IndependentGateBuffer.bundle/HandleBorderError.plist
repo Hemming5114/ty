@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBinder</key>
+	<string>remainderTask</string>
+	<key>capsuleposition</key>
+	<string>shouldFinishTask</string>
+	<key>draggableChallenge</key>
+	<string>segueinteraction</string>
+	<key>mutableUtil</key>
+	<string>shouldresumebuilder</string>
+	<key>otherMission</key>
+	<string>nextNavigator</string>
+	<key>protectedLabel</key>
+	<string>sustainableRestriction</string>
+	<key>responsiveStep</key>
+	<string>shouldRebuildBatch</string>
+	<key>smallSound</key>
+	<string>deprecateStream</string>
+	<key>tappableBehavior</key>
+	<string>shouldEncodeTheme</string>
+	<key>triggerVelocity</key>
+	<string>prevmusic</string>
+</dict>
+</plist>

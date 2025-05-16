@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCard</key>
+	<string>shouldDetachFuture</string>
+	<key>constantTop</key>
+	<string>memberProcess</string>
+	<key>injectionconsumption</key>
+	<string>eagerConverter</string>
+	<key>localizationFeedback</key>
+	<string>routePriority</string>
+	<key>lostmenudelay</key>
+	<string>canSerializePlayback</string>
+	<key>nativeReliability</key>
+	<string>shouldDisconnectHistogram</string>
+	<key>richtextbrightness</key>
+	<string>scrollableDescriptor</string>
+	<key>sequentialPriority</key>
+	<string>methodcontextvalidation</string>
+	<key>shouldDetachCell</key>
+	<string>modalexceptbridge</string>
+	<key>shouldRenderTask</key>
+	<string>shouldSkipBloc</string>
+</dict>
+</plist>

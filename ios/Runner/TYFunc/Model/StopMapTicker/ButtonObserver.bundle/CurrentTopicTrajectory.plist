@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFormat</key>
+	<string>canBuildChecklist</string>
+	<key>dependencyspacing</key>
+	<string>canAttachBox</string>
+	<key>geometricProvider</key>
+	<string>gridDecorator</string>
+	<key>primaryInfrastructure</key>
+	<string>allocatorvisible</string>
+	<key>uniformTime</key>
+	<string>skipasset</string>
+</dict>
+</plist>

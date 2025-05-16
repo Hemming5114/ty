@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateAppearance</key>
+	<string>tabviewcolor</string>
+	<key>eagerMesh</key>
+	<string>directlyMatrix</string>
+	<key>inheritedGesture</key>
+	<string>fusedTopic</string>
+	<key>prevMesh</key>
+	<string>paintSign</string>
+	<key>reusableKernel</key>
+	<string>replaceMediaQuery</string>
+	<key>singleTask</key>
+	<string>mobilerouter</string>
+</dict>
+</plist>

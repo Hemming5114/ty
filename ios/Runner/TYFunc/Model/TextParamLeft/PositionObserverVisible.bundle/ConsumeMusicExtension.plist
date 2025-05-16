@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeContainer</key>
+	<string>deferredMomentum</string>
+	<key>diffableNode</key>
+	<string>chartselector</string>
+	<key>iterativeSymbol</key>
+	<string>standaloneSine</string>
+	<key>mutableThroughput</key>
+	<string>rapidConverter</string>
+	<key>similarIsolate</key>
+	<string>symmetricAnimator</string>
+	<key>singleAlpha</key>
+	<string>observeBorder</string>
+</dict>
+</plist>

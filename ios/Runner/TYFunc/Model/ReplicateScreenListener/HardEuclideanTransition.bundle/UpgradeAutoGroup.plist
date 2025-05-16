@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedQueue</key>
+	<string>resizableSign</string>
+	<key>modulusPressure</key>
+	<string>singleCreator</string>
+	<key>notifierInset</key>
+	<string>conformview</string>
+	<key>olddocumenttheme</key>
+	<string>reactiveAwait</string>
+	<key>overlayShape</key>
+	<string>consultativePrecision</string>
+	<key>protectedPager</key>
+	<string>shouldAnimateRow</string>
+	<key>shouldStartWidget</key>
+	<string>densemapcoord</string>
+	<key>statefulSkin</key>
+	<string>popupquaternion</string>
+</dict>
+</plist>

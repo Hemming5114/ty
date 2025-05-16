@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorycommandstyle</key>
+	<string>priorEquipment</string>
+	<key>largeIntegration</key>
+	<string>trajectoryType</string>
+	<key>localArithmetic</key>
+	<string>layoutgraphic</string>
+	<key>materialResource</key>
+	<string>shouldSerializePromise</string>
+	<key>numericalcapacitiesrate</key>
+	<string>setstateListView</string>
+	<key>resourcecommandvelocity</key>
+	<string>composableSignature</string>
+	<key>shouldParseTextField</key>
+	<string>relationalStorage</string>
+	<key>shouldSetStateMaterial</key>
+	<string>observercontainvisitor</string>
+	<key>shouldTransitionEffect</key>
+	<string>retainedProject</string>
+</dict>
+</plist>

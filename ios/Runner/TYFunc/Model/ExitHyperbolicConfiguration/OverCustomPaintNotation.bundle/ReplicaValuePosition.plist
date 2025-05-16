@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticWrapper</key>
+	<string>discardedCollection</string>
+	<key>delicateUtil</key>
+	<string>shouldDisposeProfile</string>
+	<key>dispatchentropy</key>
+	<string>canPublishMusic</string>
+	<key>lostTask</key>
+	<string>performException</string>
+	<key>segmentcluster</key>
+	<string>beginnerReplica</string>
+</dict>
+</plist>

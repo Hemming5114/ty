@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroShape</key>
+	<string>colorMode</string>
+	<key>publicConstraint</key>
+	<string>histogramDuration</string>
+	<key>reductionbloc</key>
+	<string>boxshadowMethod</string>
+	<key>uniqueRestriction</key>
+	<string>canNotifyNib</string>
+</dict>
+</plist>

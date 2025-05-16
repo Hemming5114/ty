@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientTag</key>
+	<string>nativePopup</string>
+	<key>modalright</key>
+	<string>benchmarkWidget</string>
+	<key>numericalTimer</key>
+	<string>canPopCharacter</string>
+	<key>reusableSubscriber</key>
+	<string>listviewLayer</string>
+	<key>robustfuturerate</key>
+	<string>lossAdapter</string>
+	<key>spotBehavior</key>
+	<string>taskFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customLoss</key>
+	<string>dynamicProvision</string>
+	<key>geometricAllocator</key>
+	<string>robustnotificationhue</string>
+	<key>lastEqualization</key>
+	<string>dimensionbufferspacing</string>
+	<key>nativeresult</key>
+	<string>emitgate</string>
+	<key>prismaticchallenge</key>
+	<string>unmountedScreen</string>
+	<key>relationalShape</key>
+	<string>binaryCenter</string>
+	<key>shouldDispatchTask</key>
+	<string>timeHue</string>
+</dict>
+</plist>

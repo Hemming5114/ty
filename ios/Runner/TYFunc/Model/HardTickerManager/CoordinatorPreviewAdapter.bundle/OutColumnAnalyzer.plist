@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAlpha</key>
+	<string>gestureTint</string>
+	<key>labelinsideobserver</key>
+	<string>resumeDelegate</string>
+	<key>lastManager</key>
+	<string>extensionRight</string>
+	<key>mobileRecursion</key>
+	<string>currentTime</string>
+	<key>prevCell</key>
+	<string>unaryDensity</string>
+	<key>shouldAnimateGrayscale</key>
+	<string>accordionDimension</string>
+	<key>shouldPushRoute</key>
+	<string>scaleInterval</string>
+	<key>symmetricChannel</key>
+	<string>shouldUnmountedIndicator</string>
+	<key>triggerPadding</key>
+	<string>replicatepriority</string>
+</dict>
+</plist>

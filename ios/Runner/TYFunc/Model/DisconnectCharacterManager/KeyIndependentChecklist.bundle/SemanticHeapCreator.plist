@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelparticle</key>
+	<string>immutableCustomPaint</string>
+	<key>cartesianFeature</key>
+	<string>canObserveLog</string>
+	<key>exceptionSkewX</key>
+	<string>missedSine</string>
+	<key>iconInset</key>
+	<string>dismissInteger</string>
+	<key>onappbarchanged</key>
+	<string>rowTint</string>
+	<key>permissiveRange</key>
+	<string>behaviorDecorator</string>
+	<key>pivotalEvolution</key>
+	<string>kernelStatus</string>
+	<key>shouldAttachDecoration</key>
+	<string>elasticTicker</string>
+</dict>
+</plist>

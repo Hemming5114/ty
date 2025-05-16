@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentgesturedetector</key>
+	<string>animateCallback</string>
+	<key>controllerstrategybound</key>
+	<string>unsortedChannel</string>
+	<key>dedicatedCapsule</key>
+	<string>listviewVelocity</string>
+	<key>multiLabel</key>
+	<string>liteLabel</string>
+	<key>popupName</key>
+	<string>shouldCancelHistogram</string>
+	<key>unsortedPreview</key>
+	<string>canLoadPositioned</string>
+	<key>visibleDropdownButton</key>
+	<string>actionSpacing</string>
+</dict>
+</plist>

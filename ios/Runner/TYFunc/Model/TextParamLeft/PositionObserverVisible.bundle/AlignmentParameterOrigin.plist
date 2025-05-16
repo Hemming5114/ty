@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatChannels</key>
+	<string>binaryKind</string>
+	<key>greatReference</key>
+	<string>synchronousWrapper</string>
+	<key>interactorBorder</key>
+	<string>shouldCacheInkWell</string>
+	<key>permanentSymbol</key>
+	<string>shouldSetStateCanvas</string>
+</dict>
+</plist>

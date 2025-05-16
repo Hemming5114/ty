@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerHead</key>
+	<string>oldAnimator</string>
+	<key>originalThroughput</key>
+	<string>statelessdelegate</string>
+	<key>signaturesingleton</key>
+	<string>touchDelay</string>
+	<key>temporaryDecoration</key>
+	<string>diffableGestureDetector</string>
+</dict>
+</plist>

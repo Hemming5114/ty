@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthformat</key>
+	<string>canEndAnchor</string>
+	<key>basicStream</key>
+	<string>firstRadio</string>
+	<key>joinerFrequency</key>
+	<string>elasticPicker</string>
+	<key>multiplicationdensity</key>
+	<string>shouldResumeMomentum</string>
+	<key>nextCombiner</key>
+	<string>declarativeConstraint</string>
+	<key>observetouch</key>
+	<string>elasticActivity</string>
+	<key>onstackchanged</key>
+	<string>canSetStateCycle</string>
+	<key>respectiveTabBar</key>
+	<string>durationlikesingleton</string>
+	<key>unactivatedcustompaint</key>
+	<string>shouldLoadProtocol</string>
+	<key>useddependency</key>
+	<string>canTransformGesture</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeMetadata</key>
+	<string>signChain</string>
+	<key>disparateActivity</key>
+	<string>statelessutil</string>
+	<key>routerDensity</key>
+	<string>buttonPhase</string>
+	<key>semanticsType</key>
+	<string>popPosition</string>
+	<key>sequentialdrawerdelay</key>
+	<string>channelsRate</string>
+	<key>shouldStartPoint</key>
+	<string>responsiveTransition</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioTint</key>
+	<string>liteExponent</string>
+	<key>clipperLeft</key>
+	<string>flexshade</string>
+	<key>difficultReference</key>
+	<string>shouldRebuildBrush</string>
+	<key>durationspeed</key>
+	<string>shouldProcessCurve</string>
+	<key>geometricScreen</key>
+	<string>criticalEqualization</string>
+	<key>invisibleScope</key>
+	<string>intermediateExponent</string>
+	<key>originalFragments</key>
+	<string>cupertinoTentative</string>
+	<key>robustLifecycle</key>
+	<string>canMountedMomentum</string>
+	<key>shouldCacheNib</key>
+	<string>profileFlyweight</string>
+</dict>
+</plist>

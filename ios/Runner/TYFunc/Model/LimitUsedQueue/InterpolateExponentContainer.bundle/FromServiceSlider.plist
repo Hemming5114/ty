@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConvolution</key>
+	<string>shouldContinueLabel</string>
+	<key>comprehensiveselector</key>
+	<string>canEncodeSignature</string>
+	<key>nativelayout</key>
+	<string>scrollVelocity</string>
+	<key>sequentialRect</key>
+	<string>prepareCapacities</string>
+	<key>shouldStartChannels</key>
+	<string>denseProjection</string>
+</dict>
+</plist>

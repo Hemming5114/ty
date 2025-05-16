@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSpacing</key>
+	<string>missionFormat</string>
+	<key>globalEfficiency</key>
+	<string>currenttexthue</string>
+	<key>hardModel</key>
+	<string>mediocreActivity</string>
+	<key>localizationtemplefrequency</key>
+	<string>requestScale</string>
+	<key>standaloneProgressBar</key>
+	<string>encodechapter</string>
+</dict>
+</plist>

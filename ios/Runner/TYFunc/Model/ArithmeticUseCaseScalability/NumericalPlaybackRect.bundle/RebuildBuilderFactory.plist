@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticExponent</key>
+	<string>injectionbehavior</string>
+	<key>freecell</key>
+	<string>loaderSpeed</string>
+	<key>impressionSkewY</key>
+	<string>declarativeAwait</string>
+	<key>navigatorcount</key>
+	<string>canRenderBoxShadow</string>
+	<key>playbackSkewX</key>
+	<string>synchronousInteger</string>
+	<key>rapidresourcecount</key>
+	<string>clipperformat</string>
+	<key>shouldDisconnectSemantics</key>
+	<string>resilientTitle</string>
+	<key>smartInterpolation</key>
+	<string>canPopSegment</string>
+	<key>stepInset</key>
+	<string>componentOrigin</string>
+	<key>strengthMode</key>
+	<string>otherFuture</string>
+</dict>
+</plist>

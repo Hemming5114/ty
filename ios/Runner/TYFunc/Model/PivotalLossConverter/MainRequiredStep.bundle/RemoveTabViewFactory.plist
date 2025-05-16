@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isProfile</key>
+	<string>rectJob</string>
+	<key>lazyAppBar</key>
+	<string>euclideansearcher</string>
+	<key>observeusage</key>
+	<string>momentumFunction</string>
+	<key>referenceSpacing</key>
+	<string>composablePolygon</string>
+	<key>resizableallocatorresponse</key>
+	<string>canTransformCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialRichText</key>
+	<string>notifyDropdownButton</string>
+	<key>loadertail</key>
+	<string>canKeepCache</string>
+	<key>shouldListenInterpolation</key>
+	<string>convolutionDelay</string>
+	<key>usedProgressBar</key>
+	<string>permanentProgressBar</string>
+</dict>
+</plist>

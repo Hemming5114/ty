@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivePolyfill</key>
+	<string>calculateContainer</string>
+	<key>consultativeBrush</key>
+	<string>storageSpacing</string>
+	<key>criticalpageviewvisible</key>
+	<string>permanentDecoration</string>
+	<key>firstThread</key>
+	<string>canInflateFuture</string>
+	<key>hierarchicalPriority</key>
+	<string>canPushInkWell</string>
+	<key>modelForce</key>
+	<string>rotateScene</string>
+	<key>normalCreator</key>
+	<string>interactorphasemode</string>
+	<key>opaqueIsolate</key>
+	<string>touchLocation</string>
+	<key>subscriptionMomentum</key>
+	<string>handlerforce</string>
+</dict>
+</plist>

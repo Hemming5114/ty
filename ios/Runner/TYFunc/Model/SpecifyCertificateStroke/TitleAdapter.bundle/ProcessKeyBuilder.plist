@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeplayback</key>
+	<string>globalMerger</string>
+	<key>builderOrientation</key>
+	<string>accordionSplitter</string>
+	<key>delegateDuration</key>
+	<string>shouldMountRemainder</string>
+	<key>limitdelegate</key>
+	<string>provideResource</string>
+	<key>notificationValidation</key>
+	<string>iterativePrecision</string>
+</dict>
+</plist>

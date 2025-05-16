@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTrigger</key>
+	<string>isolateSingleton</string>
+	<key>alphaTransparency</key>
+	<string>shouldDecodePrecision</string>
+	<key>aspectratiodirection</key>
+	<string>buildSizedBox</string>
+	<key>concurrentAspect</key>
+	<string>disposeTransition</string>
+	<key>instructionKind</key>
+	<string>dropdownbuttonTask</string>
+	<key>intuitiveIntensity</key>
+	<string>shoulddecodecursor</string>
+	<key>largeAspectRatio</key>
+	<string>effectVisibility</string>
+	<key>musicscopecontrast</key>
+	<string>mediumPrecision</string>
+	<key>shouldDecodeCaption</key>
+	<string>builderenvironmentsaturation</string>
+</dict>
+</plist>

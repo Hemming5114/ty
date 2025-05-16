@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFormat</key>
+	<string>layoutCapsule</string>
+	<key>baselineFlags</key>
+	<string>managervisible</string>
+	<key>constructmenu</key>
+	<string>soundBrightness</string>
+	<key>multiHandler</key>
+	<string>integrityDensity</string>
+	<key>vertexName</key>
+	<string>deployHash</string>
+	<key>zonedirection</key>
+	<string>pushCubit</string>
+</dict>
+</plist>

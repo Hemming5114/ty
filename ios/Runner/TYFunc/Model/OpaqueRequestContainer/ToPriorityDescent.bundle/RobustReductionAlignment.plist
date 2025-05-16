@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePoint</key>
+	<string>statefulMode</string>
+	<key>futurebesidelayer</key>
+	<string>shouldPushRadio</string>
+	<key>isbuilder</key>
+	<string>canTransformMaster</string>
+	<key>mobileCombiner</key>
+	<string>functionalMaster</string>
+	<key>savesink</key>
+	<string>boxinterface</string>
+	<key>shouldDispatchGridView</key>
+	<string>decodecoordinator</string>
+	<key>shouldmountmember</key>
+	<string>concreteReduction</string>
+</dict>
+</plist>

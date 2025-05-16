@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionIntegration</key>
+	<string>modaltiershape</string>
+	<key>analogyscale</key>
+	<string>canRenderCurve</string>
+	<key>diversifiedMargin</key>
+	<string>multiplyResolver</string>
+	<key>listenershape</key>
+	<string>characteristicBound</string>
+	<key>multiDecoration</key>
+	<string>ephemeralSearcher</string>
+	<key>otherFormat</key>
+	<string>directDialogs</string>
+	<key>retainedCubit</key>
+	<string>efficiencydelay</string>
+	<key>shouldInflateDrawer</key>
+	<string>factoryTransparency</string>
+	<key>shouldTransitionProfile</key>
+	<string>combineconvolution</string>
+</dict>
+</plist>

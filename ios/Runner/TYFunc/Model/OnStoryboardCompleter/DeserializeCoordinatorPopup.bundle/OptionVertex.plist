@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderduringbridge</key>
+	<string>buildPoint</string>
+	<key>enumeratebitrate</key>
+	<string>interpolationOpacity</string>
+	<key>interactivemissiontop</key>
+	<string>inflatefactory</string>
+	<key>mapperOrigin</key>
+	<string>trainBrush</string>
+	<key>reusableprioritycenter</key>
+	<string>masterInterval</string>
+	<key>shouldValidateStateful</key>
+	<string>reusableextension</string>
+	<key>shouldunmountedicon</key>
+	<string>canLoadModulus</string>
+	<key>standaloneSlash</key>
+	<string>shouldParseCurve</string>
+	<key>timerstate</key>
+	<string>clipperPhase</string>
+</dict>
+</plist>

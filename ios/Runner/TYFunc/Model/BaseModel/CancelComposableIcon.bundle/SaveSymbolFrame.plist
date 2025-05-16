@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeaspectratioright</key>
+	<string>indicatorAcceleration</string>
+	<key>cupertinoScalability</key>
+	<string>shouldCacheCell</string>
+	<key>dedicatedReference</key>
+	<string>exitPreview</string>
+	<key>euclideanElement</key>
+	<string>rapidSlash</string>
+	<key>largeresource</key>
+	<string>sessionprototypetail</string>
+	<key>missioncoordinator</key>
+	<string>hardNotation</string>
+	<key>signdetector</key>
+	<string>containerBorder</string>
+</dict>
+</plist>

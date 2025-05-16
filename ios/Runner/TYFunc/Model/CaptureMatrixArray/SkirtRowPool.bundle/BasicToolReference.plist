@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedstatecoord</key>
+	<string>shouldparsetangent</string>
+	<key>composableScope</key>
+	<string>fetchGradient</string>
+	<key>difficultChapter</key>
+	<string>tableMethod</string>
+	<key>injectsink</key>
+	<string>stopCursor</string>
+	<key>nibStyle</key>
+	<string>smallResolver</string>
+	<key>opaqueActivity</key>
+	<string>iterativeLoop</string>
+	<key>paintertint</key>
+	<string>scrollableCanvas</string>
+	<key>shouldParseSizedBox</key>
+	<string>tweencenter</string>
+	<key>specifierFeedback</key>
+	<string>registerFeature</string>
+	<key>typicalLayout</key>
+	<string>providertop</string>
+</dict>
+</plist>

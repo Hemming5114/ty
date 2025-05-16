@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAperture</key>
+	<string>unactivatedFlex</string>
+	<key>asynchronousinteractorcolor</key>
+	<string>mainDetail</string>
+	<key>buttonHead</key>
+	<string>resultvalidation</string>
+	<key>isRichText</key>
+	<string>nextobserverposition</string>
+	<key>keeplayout</key>
+	<string>oldReducer</string>
+	<key>pinchableSelector</key>
+	<string>tweenobserverappearance</string>
+	<key>remainderMargin</key>
+	<string>immutableinteractorsize</string>
+	<key>retainedQuaternion</key>
+	<string>converterSkewY</string>
+</dict>
+</plist>

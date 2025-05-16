@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiestaxonomy</key>
+	<string>activatedSink</string>
+	<key>concreteTimeline</key>
+	<string>drawResult</string>
+	<key>momentumhash</key>
+	<string>videoOrigin</string>
+	<key>shouldSkipLabel</key>
+	<string>finishWorkflow</string>
+</dict>
+</plist>

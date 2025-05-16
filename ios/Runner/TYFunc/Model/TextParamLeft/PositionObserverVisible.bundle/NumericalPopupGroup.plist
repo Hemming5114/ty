@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatebinary</key>
+	<string>schemaTail</string>
+	<key>diffableGraphic</key>
+	<string>canNavigateSwitch</string>
+	<key>notificationofstrategy</key>
+	<string>pinchableConverter</string>
+	<key>profileSkewX</key>
+	<string>logarithmDecorator</string>
+	<key>reusablealignmentrotation</key>
+	<string>quantizationZone</string>
+	<key>seamlessBehavior</key>
+	<string>transpilepreview</string>
+	<key>shouldMountRoute</key>
+	<string>activeMetrics</string>
+	<key>shouldNotifyMargin</key>
+	<string>smallRectangle</string>
+	<key>usecaseDistance</key>
+	<string>inheritedHash</string>
+	<key>widgetcurve</key>
+	<string>invisibleHero</string>
+</dict>
+</plist>

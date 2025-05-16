@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerborder</key>
+	<string>deserializeCompletion</string>
+	<key>arithmeticRestriction</key>
+	<string>canStartSegment</string>
+	<key>arithmeticSkirt</key>
+	<string>shouldCreateVariant</string>
+	<key>basicCluster</key>
+	<string>errorlikephase</string>
+	<key>mediumconstant</key>
+	<string>standaloneTitle</string>
+	<key>queueResponse</key>
+	<string>featureOrigin</string>
+	<key>richtextHue</key>
+	<string>keyCatalyst</string>
+	<key>sessionSaturation</key>
+	<string>modulusoperationsaturation</string>
+</dict>
+</plist>

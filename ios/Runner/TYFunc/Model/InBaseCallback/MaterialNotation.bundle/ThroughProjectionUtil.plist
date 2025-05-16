@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeUtil</key>
+	<string>activatedIcon</string>
+	<key>asynchronousInteractor</key>
+	<string>canSerializeCard</string>
+	<key>batchState</key>
+	<string>currentDetector</string>
+	<key>customizedPlate</key>
+	<string>routeconfiguration</string>
+	<key>disabledAnimation</key>
+	<string>enabledSizedBox</string>
+	<key>priorContrast</key>
+	<string>standaloneResponder</string>
+	<key>profileTheme</key>
+	<string>menuType</string>
+	<key>providerFormat</key>
+	<string>tickertolerance</string>
+	<key>stampPadding</key>
+	<string>currentIcon</string>
+</dict>
+</plist>

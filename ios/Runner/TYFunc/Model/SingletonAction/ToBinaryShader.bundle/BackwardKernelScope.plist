@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitycallback</key>
+	<string>shouldPauseAlpha</string>
+	<key>brushflags</key>
+	<string>destroyHash</string>
+	<key>localInfo</key>
+	<string>informationBehavior</string>
+	<key>momentumawayprocess</key>
+	<string>displayablepolygon</string>
+	<key>receiverSaturation</key>
+	<string>canYieldSemantics</string>
+	<key>scenarioOffset</key>
+	<string>timerAdapter</string>
+	<key>shouldSerializeSkirt</key>
+	<string>provideCubit</string>
+</dict>
+</plist>

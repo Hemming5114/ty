@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateddrawer</key>
+	<string>textTail</string>
+	<key>currentnavigation</key>
+	<string>accessibleSensor</string>
+	<key>loaderSpacing</key>
+	<string>projectoutsidecommand</string>
+</dict>
+</plist>

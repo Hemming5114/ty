@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureContrast</key>
+	<string>animateGrain</string>
+	<key>liteWidget</key>
+	<string>methodastemple</string>
+	<key>projectionIndex</key>
+	<string>drawEvent</string>
+	<key>robusttexture</key>
+	<string>shouldPersistTheme</string>
+	<key>scaffoldnearplatform</key>
+	<string>canValidateNavigator</string>
+</dict>
+</plist>

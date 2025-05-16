@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletcoordinator</key>
+	<string>shapeTheme</string>
+	<key>entityacceleration</key>
+	<string>schedulerkind</string>
+	<key>modalvelocity</key>
+	<string>equalizationMethod</string>
+	<key>numericalDocument</key>
+	<string>unsortedPositioned</string>
+	<key>reducerdistance</key>
+	<string>pinchableDimension</string>
+	<key>shouldcontinuemomentum</key>
+	<string>shoulddispatchchallenge</string>
+	<key>subsequentTween</key>
+	<string>slashTemple</string>
+	<key>usageMomentum</key>
+	<string>greatAspect</string>
+</dict>
+</plist>

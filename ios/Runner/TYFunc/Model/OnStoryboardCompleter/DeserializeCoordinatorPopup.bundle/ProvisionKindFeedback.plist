@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentDistance</key>
+	<string>containerBridge</string>
+	<key>granularRestriction</key>
+	<string>memberObserver</string>
+	<key>loadermomentum</key>
+	<string>mainMap</string>
+	<key>mediumRectangle</key>
+	<string>nativeThroughput</string>
+	<key>musicrecursion</key>
+	<string>logDuration</string>
+	<key>shouldProcessCoordinator</key>
+	<string>explicitService</string>
+	<key>traversalFlags</key>
+	<string>orchestrateBuffer</string>
+</dict>
+</plist>

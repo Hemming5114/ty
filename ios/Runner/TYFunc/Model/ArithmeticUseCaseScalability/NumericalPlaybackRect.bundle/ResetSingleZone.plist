@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardDescent</key>
+	<string>shouldPaintComposition</string>
+	<key>missedresultvalidation</key>
+	<string>widgetcontainer</string>
+	<key>parallelManager</key>
+	<string>obtainObserver</string>
+	<key>reusableTweak</key>
+	<string>rapidPresenter</string>
+	<key>subpixelPressure</key>
+	<string>granularScheduler</string>
+	<key>synchronousEquivalent</key>
+	<string>repositorydecoratorbound</string>
+</dict>
+</plist>

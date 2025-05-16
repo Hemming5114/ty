@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIsolate</key>
+	<string>popupOrigin</string>
+	<key>directAnimation</key>
+	<string>unbindgrid</string>
+	<key>layerpainter</key>
+	<string>shouldEndChallenge</string>
+	<key>navigationAppearance</key>
+	<string>maxOverlay</string>
+	<key>occasionType</key>
+	<string>reactiveHeap</string>
+	<key>pinchableRow</key>
+	<string>immutablePromise</string>
+	<key>remainderchannel</key>
+	<string>interactorJob</string>
+	<key>shouldPaintChecklist</key>
+	<string>relationalAppBar</string>
+	<key>singleGram</key>
+	<string>triggerCoord</string>
+	<key>vertexDelay</key>
+	<string>desktopGesture</string>
+</dict>
+</plist>

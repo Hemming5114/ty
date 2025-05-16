@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordiontaxonomy</key>
+	<string>flexibleservice</string>
+	<key>asyncIndex</key>
+	<string>accordionModal</string>
+	<key>compositionstructureorigin</key>
+	<string>dependencyInset</string>
+	<key>decorationspeed</key>
+	<string>mechanismPosition</string>
+	<key>eagerInjection</key>
+	<string>factorySingleton</string>
+	<key>evaluatezone</key>
+	<string>listviewTop</string>
+	<key>framefortemple</key>
+	<string>replicaTail</string>
+	<key>seamlessInformation</key>
+	<string>interpolationKind</string>
+</dict>
+</plist>

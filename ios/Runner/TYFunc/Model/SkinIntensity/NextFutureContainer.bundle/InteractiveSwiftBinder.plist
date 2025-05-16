@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianBandwidth</key>
+	<string>customCluster</string>
+	<key>explicitStateless</key>
+	<string>canDetachSlider</string>
+	<key>injectionskewx</key>
+	<string>allocatorlayerdepth</string>
+	<key>localtextfield</key>
+	<string>capacityOrientation</string>
+	<key>sharedGestureDetector</key>
+	<string>storageoffset</string>
+	<key>skinLocation</key>
+	<string>cartesianSpine</string>
+	<key>sophisticatedTechnique</key>
+	<string>currentObserver</string>
+	<key>sortedScaffold</key>
+	<string>significantProvision</string>
+	<key>symmetricFrame</key>
+	<string>significantreducer</string>
+	<key>topicFlags</key>
+	<string>requiredmaster</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedlistenerrotation</key>
+	<string>shouldCreateTernary</string>
+	<key>custompaintBottom</key>
+	<string>rectbinder</string>
+	<key>freebuilder</key>
+	<string>chartBuffer</string>
+	<key>layoutlayout</key>
+	<string>sharedActivity</string>
+	<key>provisionSkewX</key>
+	<string>rectanglecount</string>
+	<key>resizableAlert</key>
+	<string>shouldFetchCaption</string>
+	<key>shouldReplaceAppBar</key>
+	<string>usedAnchor</string>
+</dict>
+</plist>

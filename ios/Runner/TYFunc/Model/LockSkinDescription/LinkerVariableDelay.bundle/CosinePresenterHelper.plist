@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeException</key>
+	<string>shouldEncodeScroll</string>
+	<key>asynchronousfactorystatus</key>
+	<string>sanitizeSize</string>
+	<key>layoutPadding</key>
+	<string>canEmitAspect</string>
+	<key>respectiveAxis</key>
+	<string>renderMap</string>
+	<key>responsecharacteristic</key>
+	<string>rendererbound</string>
+	<key>samplespeed</key>
+	<string>sophisticatedVolume</string>
+</dict>
+</plist>

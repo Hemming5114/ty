@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatevertex</key>
+	<string>screenIndex</string>
+	<key>otherInterpolation</key>
+	<string>reusableTentative</string>
+	<key>retainedInteractor</key>
+	<string>concurrentBuffer</string>
+	<key>shouldDispatchFuture</key>
+	<string>behaviorTask</string>
+	<key>shouldSubscribeDuration</key>
+	<string>mediocreMedia</string>
+	<key>statefulBottom</key>
+	<string>shouldLoadChecklist</string>
+	<key>widgetLeft</key>
+	<string>pivotalBinder</string>
+	<key>widgetobject</key>
+	<string>materializerAlignment</string>
+</dict>
+</plist>

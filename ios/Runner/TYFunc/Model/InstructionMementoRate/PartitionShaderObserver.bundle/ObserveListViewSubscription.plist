@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMenu</key>
+	<string>singleRadius</string>
+	<key>labelLeft</key>
+	<string>concurrentGestureDetector</string>
+	<key>positioncolor</key>
+	<string>cubitOrigin</string>
+	<key>publicTangent</key>
+	<string>firstStoryboard</string>
+	<key>shouldPaintLogarithm</key>
+	<string>smartSound</string>
+	<key>tappableStatus</key>
+	<string>shouldPersistPrecision</string>
+	<key>uniqueSubscription</key>
+	<string>removeStore</string>
+</dict>
+</plist>

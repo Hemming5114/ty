@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaInteraction</key>
+	<string>offsetReducer</string>
+	<key>consultativeLifecycle</key>
+	<string>canKeepExpanded</string>
+	<key>diffableCluster</key>
+	<string>shouldSetStateGate</string>
+	<key>futureTension</key>
+	<string>disconnectConvolution</string>
+	<key>modalDistance</key>
+	<string>canLayoutScaffold</string>
+	<key>multiInstruction</key>
+	<string>emitterDuration</string>
+	<key>oldModule</key>
+	<string>euclideanMap</string>
+	<key>shouldConnectSample</key>
+	<string>intensityHue</string>
+	<key>updategroup</key>
+	<string>benchmarkGroup</string>
+</dict>
+</plist>

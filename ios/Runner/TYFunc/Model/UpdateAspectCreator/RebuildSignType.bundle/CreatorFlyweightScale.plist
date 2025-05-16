@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFeedback</key>
+	<string>layoutstyle</string>
+	<key>compositionoperationflags</key>
+	<string>canUnmountMap</string>
+	<key>invisiblePageView</key>
+	<string>sliderspeed</string>
+	<key>selectedTextField</key>
+	<string>axismethoddepth</string>
+	<key>sliderpreview</key>
+	<string>regulatePosition</string>
+	<key>tappabletimer</key>
+	<string>mediumRoute</string>
+</dict>
+</plist>

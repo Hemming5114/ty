@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticHash</key>
+	<string>globalSubpixel</string>
+	<key>discardedProcessor</key>
+	<string>shouldPaintBox</string>
+	<key>ephemeralMultiplication</key>
+	<string>formatindex</string>
+	<key>iconLocation</key>
+	<string>activeTrigger</string>
+	<key>recursionType</key>
+	<string>exceptionAdapter</string>
+	<key>responsiveresource</key>
+	<string>shouldListenMaterial</string>
+	<key>shouldprepareskin</key>
+	<string>shouldProcessSkirt</string>
+</dict>
+</plist>

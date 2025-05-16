@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileResource</key>
+	<string>tableTier</string>
+	<key>bordertransparency</key>
+	<string>beginnerStep</string>
+	<key>durationtasktype</key>
+	<string>rectifyCompleter</string>
+	<key>hyperbolicMomentum</key>
+	<string>shouldLoadUnary</string>
+	<key>profileformat</key>
+	<string>delegateMode</string>
+	<key>shouldPublishCollection</key>
+	<string>updateTransition</string>
+	<key>shouldSetStateCanvas</key>
+	<string>publishTextField</string>
+	<key>shouldobservedescriptor</key>
+	<string>persistentPresenter</string>
+</dict>
+</plist>

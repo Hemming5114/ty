@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorInteraction</key>
+	<string>componentPressure</string>
+	<key>basicPolygon</key>
+	<string>crucialgrid</string>
+	<key>fixedConfiguration</key>
+	<string>canSkipExpanded</string>
+	<key>instructionCount</key>
+	<string>maintainGraph</string>
+	<key>opaqueConnector</key>
+	<string>checkSubscription</string>
+	<key>resizableCharacteristic</key>
+	<string>animatedRenderer</string>
+	<key>shouldRestartThread</key>
+	<string>largeoptimizerdensity</string>
+</dict>
+</plist>

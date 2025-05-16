@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticInformation</key>
+	<string>symmetricAppBar</string>
+	<key>mobileAxis</key>
+	<string>canDispatchCursor</string>
+	<key>shouldTransitionClipper</key>
+	<string>positionedMode</string>
+	<key>shouldValidateProject</key>
+	<string>pushCoordinator</string>
+	<key>usageLocation</key>
+	<string>spinException</string>
+	<key>wrapperbehavior</key>
+	<string>deserializetransition</string>
+</dict>
+</plist>

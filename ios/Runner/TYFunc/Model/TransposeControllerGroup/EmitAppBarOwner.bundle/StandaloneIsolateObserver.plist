@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBorder</key>
+	<string>yieldKernel</string>
+	<key>dispatchfeature</key>
+	<string>visibleReceiver</string>
+	<key>hardProfile</key>
+	<string>paddingproxyvisibility</string>
+	<key>hasAspect</key>
+	<string>createStoryboard</string>
+	<key>oldlocalization</key>
+	<string>topicStage</string>
+	<key>projectionincludebridge</key>
+	<string>temporaryConfiguration</string>
+	<key>sequentialTextField</key>
+	<string>transformMonster</string>
+	<key>shouldAttachConsumer</key>
+	<string>shouldTrainGrayscale</string>
+</dict>
+</plist>

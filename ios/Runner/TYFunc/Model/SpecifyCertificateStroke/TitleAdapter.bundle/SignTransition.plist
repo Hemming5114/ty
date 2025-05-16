@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTable</key>
+	<string>themegrain</string>
+	<key>handlerleveltransparency</key>
+	<string>canObserveGesture</string>
+	<key>lostBaseline</key>
+	<string>executedecoration</string>
+	<key>mediocrebase</key>
+	<string>canRenderNib</string>
+	<key>preparespot</key>
+	<string>gridviewEdge</string>
+	<key>resizableObserver</key>
+	<string>lazyMomentum</string>
+	<key>responsiveProject</key>
+	<string>swiftCycle</string>
+	<key>samplecommandacceleration</key>
+	<string>denseTransformer</string>
+	<key>smartHistogram</key>
+	<string>expandeddistance</string>
+</dict>
+</plist>

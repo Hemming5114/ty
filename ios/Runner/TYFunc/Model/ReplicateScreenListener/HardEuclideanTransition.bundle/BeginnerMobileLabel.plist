@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findprovider</key>
+	<string>firstCallback</string>
+	<key>inactiveslider</key>
+	<string>originalTextField</string>
+	<key>liteTopic</key>
+	<string>canHandleCustomPaint</string>
+	<key>synchronousTween</key>
+	<string>imperativeMesh</string>
+</dict>
+</plist>

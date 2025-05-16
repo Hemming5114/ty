@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAspect</key>
+	<string>overrideNode</string>
+	<key>basicTimer</key>
+	<string>sustainableConverter</string>
+	<key>euclideanStateless</key>
+	<string>standaloneNode</string>
+	<key>isolateBottom</key>
+	<string>canRestartTheme</string>
+	<key>painterSkewY</key>
+	<string>rectangleOrigin</string>
+	<key>subtletexturevisible</key>
+	<string>desktopInformation</string>
+</dict>
+</plist>

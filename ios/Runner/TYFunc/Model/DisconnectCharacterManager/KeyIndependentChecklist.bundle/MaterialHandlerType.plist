@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPositioned</key>
+	<string>canSaveCube</string>
+	<key>formatBound</key>
+	<string>hashSize</string>
+	<key>fragmentsDuration</key>
+	<string>canInflateMatrix</string>
+	<key>robustDocument</key>
+	<string>coordinatorBehavior</string>
+</dict>
+</plist>

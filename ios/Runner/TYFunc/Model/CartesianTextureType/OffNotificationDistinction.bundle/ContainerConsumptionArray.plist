@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSize</key>
+	<string>easyevaluation</string>
+	<key>concurrentScene</key>
+	<string>themeerror</string>
+	<key>fetchcontroller</key>
+	<string>shouldAttachLayout</string>
+	<key>restrictionBound</key>
+	<string>saveUsage</string>
+	<key>scrollCoord</key>
+	<string>unactivatedBinder</string>
+	<key>seamlessEquipment</key>
+	<string>unmountedOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitpatterntype</key>
+	<string>lostTouch</string>
+	<key>decouplepageview</key>
+	<string>currentSlider</string>
+	<key>dynamicdependencydensity</key>
+	<string>findersize</string>
+	<key>scrollableAlignment</key>
+	<string>autoManager</string>
+	<key>shouldParseCanvas</key>
+	<string>canLoadMargin</string>
+	<key>standaloneJoiner</key>
+	<string>setupduration</string>
+	<key>standalonePublisher</key>
+	<string>materialTween</string>
+	<key>subtleVariant</key>
+	<string>overridepoint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTexture</key>
+	<string>canDecodeTheme</string>
+	<key>cellname</key>
+	<string>canSubscribeBrush</string>
+	<key>currentBorder</key>
+	<string>spriteexceptfacade</string>
+	<key>displayableConsumption</key>
+	<string>canPauseMatrix</string>
+	<key>numericalTween</key>
+	<string>stackPattern</string>
+	<key>shouldContinueEqualization</key>
+	<string>requestwithcontext</string>
+	<key>shouldDisconnectTextField</key>
+	<string>rotateZone</string>
+	<key>shouldSaveConsumer</key>
+	<string>analogyIndex</string>
+	<key>usageTransparency</key>
+	<string>sharedWidget</string>
+</dict>
+</plist>

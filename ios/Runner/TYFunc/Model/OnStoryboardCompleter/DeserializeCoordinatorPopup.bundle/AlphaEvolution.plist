@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitystate</key>
+	<string>throughputInset</string>
+	<key>composableawaitresponse</key>
+	<string>channelStrategy</string>
+	<key>directTitle</key>
+	<string>scrollableStoryboard</string>
+	<key>invisibleState</key>
+	<string>shouldAnimateIcon</string>
+	<key>layoutVelocity</key>
+	<string>singleDimension</string>
+	<key>localaspect</key>
+	<string>normalShape</string>
+	<key>primaryTrajectory</key>
+	<string>finishpainter</string>
+	<key>textfieldvisible</key>
+	<string>activatedSign</string>
+</dict>
+</plist>

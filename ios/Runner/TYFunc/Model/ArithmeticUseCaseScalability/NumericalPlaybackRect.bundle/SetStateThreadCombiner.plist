@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAwait</key>
+	<string>savePlayback</string>
+	<key>bandwidthvisible</key>
+	<string>interpolateFuture</string>
+	<key>beginnerGraph</key>
+	<string>channelsdepth</string>
+	<key>beginnerstoryboard</key>
+	<string>tensorDecoration</string>
+	<key>cardAcceleration</key>
+	<string>concatenateSprite</string>
+	<key>characterPadding</key>
+	<string>missedMatrix</string>
+	<key>multiProcessor</key>
+	<string>connectAction</string>
+	<key>prismaticElement</key>
+	<string>meshtransparency</string>
+	<key>shouldKeepChecklist</key>
+	<string>resilientMomentum</string>
+</dict>
+</plist>

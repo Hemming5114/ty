@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeContraction</key>
+	<string>cloneInteractor</string>
+	<key>mobilesprite</key>
+	<string>cycleContext</string>
+	<key>permanentTheme</key>
+	<string>immediateFrame</string>
+	<key>permanentTitle</key>
+	<string>routeStyle</string>
+	<key>permanentdescriptor</key>
+	<string>shouldEndExtension</string>
+	<key>rapidContraction</key>
+	<string>seamlessNotifier</string>
+	<key>temporaryDetector</key>
+	<string>fetchContraction</string>
+	<key>temporaryMend</key>
+	<string>encodeStore</string>
+	<key>uniformDescription</key>
+	<string>shouldInflateTechnique</string>
+</dict>
+</plist>

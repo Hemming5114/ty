@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentBottom</key>
+	<string>callbackLocation</string>
+	<key>granularScenario</key>
+	<string>dissociateManager</string>
+	<key>missedMerger</key>
+	<string>ephemeralStore</string>
+	<key>retainedInfo</key>
+	<string>parseStateless</string>
+	<key>sequentialNavigator</key>
+	<string>canSetStateCache</string>
+	<key>shouldPopCatalyst</key>
+	<string>elasticTouch</string>
+	<key>subsequentView</key>
+	<string>desktopConvolution</string>
+	<key>timerBound</key>
+	<string>currentCanvas</string>
+</dict>
+</plist>

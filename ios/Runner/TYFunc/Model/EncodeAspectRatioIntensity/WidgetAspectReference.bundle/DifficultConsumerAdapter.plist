@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMatrix</key>
+	<string>canSaveHistogram</string>
+	<key>amortizationKind</key>
+	<string>canUnmountMultiplication</string>
+	<key>associatedInterpolation</key>
+	<string>fixedDescription</string>
+	<key>asyncVisibility</key>
+	<string>subscriberIndex</string>
+	<key>dedicatedAnchor</key>
+	<string>asynchronousplaybacktop</string>
+	<key>globalAsset</key>
+	<string>subsequentNavigator</string>
+	<key>haseffect</key>
+	<string>nativecontrollerdensity</string>
+	<key>musicCount</key>
+	<string>servicevariablepadding</string>
+	<key>shouldAnimateTheme</key>
+	<string>greatMatrix</string>
+	<key>shouldReplaceSpot</key>
+	<string>imperativeUnary</string>
+</dict>
+</plist>

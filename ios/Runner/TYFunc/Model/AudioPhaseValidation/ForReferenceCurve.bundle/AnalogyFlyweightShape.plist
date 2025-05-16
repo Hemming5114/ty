@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStyle</key>
+	<string>sharedSensor</string>
+	<key>aspectratioDirection</key>
+	<string>replaceCertificate</string>
+	<key>cancelintensity</key>
+	<string>blocwidget</string>
+	<key>directThread</key>
+	<string>sanitizeTween</string>
+	<key>efficiencySpeed</key>
+	<string>ascentVelocity</string>
+	<key>ephemeralevent</key>
+	<string>flexibleTrigger</string>
+	<key>sharedVolume</key>
+	<string>canStartInkWell</string>
+	<key>singleConsumption</key>
+	<string>transitioncallback</string>
+	<key>singleasset</key>
+	<string>fusedTool</string>
+</dict>
+</plist>

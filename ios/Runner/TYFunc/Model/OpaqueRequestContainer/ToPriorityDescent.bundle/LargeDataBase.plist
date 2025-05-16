@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintstate</key>
+	<string>sinkvisibility</string>
+	<key>directlyScene</key>
+	<string>logarithmOpacity</string>
+	<key>routertaskleft</key>
+	<string>sustainableProgressBar</string>
+	<key>staticTimer</key>
+	<string>geometricRadius</string>
+</dict>
+</plist>

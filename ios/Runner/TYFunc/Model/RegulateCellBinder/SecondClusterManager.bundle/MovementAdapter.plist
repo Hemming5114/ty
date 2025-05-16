@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiessystembrightness</key>
+	<string>shouldInflateSegment</string>
+	<key>drawerType</key>
+	<string>popupinframework</string>
+	<key>notificationIndex</key>
+	<string>priorTime</string>
+	<key>selectedRichText</key>
+	<string>transposeAction</string>
+	<key>tabviewpermutation</key>
+	<string>validateConsumer</string>
+	<key>textureInteraction</key>
+	<string>menuSkewY</string>
+</dict>
+</plist>

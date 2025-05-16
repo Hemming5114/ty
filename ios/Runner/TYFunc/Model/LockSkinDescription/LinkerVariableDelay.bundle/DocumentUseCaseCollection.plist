@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorsingleton</key>
+	<string>pagerOffset</string>
+	<key>commonMesh</key>
+	<string>shouldShowCapsule</string>
+	<key>constraintjobscale</key>
+	<string>concreteComponent</string>
+	<key>containertaxonomy</key>
+	<string>invisibleSkirt</string>
+	<key>profiledensity</key>
+	<string>oldAnimator</string>
+	<key>rapidFuture</key>
+	<string>immutableWrapper</string>
+	<key>rowaboutflyweight</key>
+	<string>convertFrame</string>
+	<key>shouldContinueFuture</key>
+	<string>enabledBatch</string>
+	<key>shouldEndBrush</key>
+	<string>associatedSlash</string>
+	<key>tensorAnalogy</key>
+	<string>mitigateReducer</string>
+</dict>
+</plist>

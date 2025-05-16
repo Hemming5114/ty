@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autopoint</key>
+	<string>canShowChecklist</string>
+	<key>buttondisclaimer</key>
+	<string>easyRenderer</string>
+	<key>catalystTint</key>
+	<string>connectPreview</string>
+	<key>custompaintVisibility</key>
+	<string>extendConstraint</string>
+	<key>dependencyaboutcontext</key>
+	<string>endRemainder</string>
+	<key>opaqueDelivery</key>
+	<string>dropdownbuttonBottom</string>
+	<key>temporaryFrame</key>
+	<string>nodeCycle</string>
+	<key>tickerDepth</key>
+	<string>setstateresource</string>
+	<key>tickerlocation</key>
+	<string>eagergridviewcoord</string>
+</dict>
+</plist>

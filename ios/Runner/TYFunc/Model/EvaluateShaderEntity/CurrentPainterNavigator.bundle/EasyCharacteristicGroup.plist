@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelposition</key>
+	<string>consultativeConstraint</string>
+	<key>optionTint</key>
+	<string>observerSaturation</string>
+	<key>projectionandvariable</key>
+	<string>displayableTolerance</string>
+	<key>resilientTouch</key>
+	<string>detachSize</string>
+	<key>scalabilityVisible</key>
+	<string>subscriptionSize</string>
+	<key>shouldInflateNorm</key>
+	<string>canFetchDocument</string>
+	<key>staticTernary</key>
+	<string>shouldPaintListView</string>
+	<key>strengthCenter</key>
+	<string>injectRoute</string>
+	<key>transpiledescription</key>
+	<string>canSetStateStoryboard</string>
+	<key>viewVisible</key>
+	<string>shouldDisposeSubpixel</string>
+</dict>
+</plist>

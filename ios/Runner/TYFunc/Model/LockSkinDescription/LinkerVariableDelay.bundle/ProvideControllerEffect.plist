@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowSkewX</key>
+	<string>uniqueColumn</string>
+	<key>limitmap</key>
+	<string>staticBinder</string>
+	<key>oldSymbol</key>
+	<string>mobileTimeline</string>
+	<key>originalstoreflags</key>
+	<string>listenerSpacing</string>
+	<key>resizableHash</key>
+	<string>denseBox</string>
+	<key>shouldPaintOption</key>
+	<string>touchRate</string>
+</dict>
+</plist>

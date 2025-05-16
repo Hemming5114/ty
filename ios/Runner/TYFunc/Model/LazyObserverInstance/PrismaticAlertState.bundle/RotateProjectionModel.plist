@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionItem</key>
+	<string>loadProvider</string>
+	<key>borderValidation</key>
+	<string>contractionParameter</string>
+	<key>diffableDisclaimer</key>
+	<string>receiveSize</string>
+	<key>parallelHeap</key>
+	<string>replicateIsolate</string>
+	<key>permanentFragment</key>
+	<string>analyzeobserver</string>
+	<key>schedulerHue</key>
+	<string>appendtransformer</string>
+</dict>
+</plist>

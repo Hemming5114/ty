@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveArchitecture</key>
+	<string>ignoredScroll</string>
+	<key>gramnearstructure</key>
+	<string>transformBorder</string>
+	<key>inactiveGradient</key>
+	<string>instructionInterval</string>
+	<key>rapidTolerance</key>
+	<string>completedSymbol</string>
+	<key>shouldPaintSpine</key>
+	<string>zonerotation</string>
+</dict>
+</plist>

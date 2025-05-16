@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCount</key>
+	<string>dataStyle</string>
+	<key>ignoredspineresponse</key>
+	<string>enabledEffect</string>
+	<key>imperativeShape</key>
+	<string>dispatchGridView</string>
+	<key>pivotalAllocator</key>
+	<string>assetevolution</string>
+	<key>tableInterval</key>
+	<string>resizableConsumer</string>
+	<key>wrapperBrightness</key>
+	<string>cupertinomodaltransparency</string>
+</dict>
+</plist>

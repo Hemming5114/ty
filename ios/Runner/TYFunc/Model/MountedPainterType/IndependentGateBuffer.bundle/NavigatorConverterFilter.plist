@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainalignment</key>
+	<string>attachRemainder</string>
+	<key>itemResponse</key>
+	<string>playRepository</string>
+	<key>normalController</key>
+	<string>detachstate</string>
+	<key>processticker</key>
+	<string>unmountClipper</string>
+	<key>shouldPresentSign</key>
+	<string>isoption</string>
+</dict>
+</plist>

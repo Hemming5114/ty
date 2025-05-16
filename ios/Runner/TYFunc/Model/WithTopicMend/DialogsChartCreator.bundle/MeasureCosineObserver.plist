@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorMargin</key>
+	<string>musicOrientation</string>
+	<key>channelappearance</key>
+	<string>customizedtrigger</string>
+	<key>graphicKind</key>
+	<string>handleQueue</string>
+	<key>popdocument</key>
+	<string>asynchronousChannels</string>
+	<key>priorArithmetic</key>
+	<string>canCancelMedia</string>
+	<key>sequentialstoragepressure</key>
+	<string>fetchSession</string>
+	<key>shouldDisposeEquipment</key>
+	<string>currentanimatedcontainer</string>
+	<key>shouldEndModulus</key>
+	<string>consultativeStatus</string>
+	<key>shouldStopWorkflow</key>
+	<string>canSaveImage</string>
+</dict>
+</plist>

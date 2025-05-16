@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionBorder</key>
+	<string>localizationScale</string>
+	<key>discardedFrame</key>
+	<string>synchronouscache</string>
+	<key>ephemeralOffset</key>
+	<string>logBorder</string>
+	<key>giftOrigin</key>
+	<string>semanticButton</string>
+	<key>mainItem</key>
+	<string>densecubitbottom</string>
+	<key>popupstagecontrast</key>
+	<string>largeTaxonomy</string>
+	<key>replicatestack</key>
+	<string>cacheTabBar</string>
+	<key>shouldEmitContraction</key>
+	<string>mediocreOption</string>
+	<key>startintensity</key>
+	<string>easySprite</string>
+	<key>tabviewatvariable</key>
+	<string>dispatcherTheme</string>
+</dict>
+</plist>

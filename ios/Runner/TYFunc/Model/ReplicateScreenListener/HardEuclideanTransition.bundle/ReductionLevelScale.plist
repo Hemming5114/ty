@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedContainer</key>
+	<string>displayableSubscriber</string>
+	<key>deferredConfiguration</key>
+	<string>secondVideo</string>
+	<key>pinchableElasticity</key>
+	<string>asyncDirection</string>
+	<key>secondDependency</key>
+	<string>keyUseCase</string>
+	<key>semanticVideo</key>
+	<string>loaderbehavior</string>
+	<key>shouldPublishMedia</key>
+	<string>taskTop</string>
+	<key>smallStore</key>
+	<string>entropyconstraint</string>
+</dict>
+</plist>

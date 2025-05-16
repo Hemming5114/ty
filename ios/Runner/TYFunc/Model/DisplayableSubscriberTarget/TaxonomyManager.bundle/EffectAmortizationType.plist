@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOrientation</key>
+	<string>schedulerInteraction</string>
+	<key>endcontraction</key>
+	<string>hasdelegate</string>
+	<key>orchestratetable</key>
+	<string>playbackJob</string>
+	<key>parsedocument</key>
+	<string>transformoffset</string>
+	<key>smallLayout</key>
+	<string>skipGrayscale</string>
+	<key>statelessSwift</key>
+	<string>granularBinder</string>
+</dict>
+</plist>

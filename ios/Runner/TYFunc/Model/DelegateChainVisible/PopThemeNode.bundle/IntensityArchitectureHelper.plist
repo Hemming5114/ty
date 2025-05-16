@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorFrequency</key>
+	<string>trainScale</string>
+	<key>defaultclipper</key>
+	<string>parsePosition</string>
+	<key>hyperbolicLabel</key>
+	<string>segueCount</string>
+	<key>mutableWidget</key>
+	<string>quantizationBuffer</string>
+	<key>stampawayform</key>
+	<string>eagerPicker</string>
+</dict>
+</plist>

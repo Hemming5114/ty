@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioFeedback</key>
+	<string>currentProject</string>
+	<key>geometricgrayscaleopacity</key>
+	<string>completerSize</string>
+	<key>materialbuilder</key>
+	<string>transitiongrid</string>
+	<key>opaqueManager</key>
+	<string>concreteColumn</string>
+	<key>pivotalModel</key>
+	<string>dialogsmomentum</string>
+	<key>reactiveRemainder</key>
+	<string>usedFragments</string>
+	<key>shouldlistenpainter</key>
+	<string>borderName</string>
+	<key>statefulVariant</key>
+	<string>overlayMomentum</string>
+	<key>thresholdVisibility</key>
+	<string>generateEntity</string>
+</dict>
+</plist>

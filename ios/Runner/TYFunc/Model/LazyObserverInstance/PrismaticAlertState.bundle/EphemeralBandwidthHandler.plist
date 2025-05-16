@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityparameterposition</key>
+	<string>combineError</string>
+	<key>animatedDocument</key>
+	<string>shouldrebuildworkflow</string>
+	<key>associatedScreen</key>
+	<string>prepareIcon</string>
+	<key>blocColor</key>
+	<string>lazyCube</string>
+	<key>desktopcomponent</key>
+	<string>mixinSlider</string>
+	<key>diffableTopic</key>
+	<string>shouldSubscribeBaseline</string>
+	<key>prismaticVolume</key>
+	<string>intermediateresultpadding</string>
+	<key>uniqueMusic</key>
+	<string>movementOpacity</string>
+</dict>
+</plist>

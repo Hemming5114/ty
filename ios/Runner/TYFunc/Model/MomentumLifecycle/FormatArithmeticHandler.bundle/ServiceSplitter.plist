@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSwift</key>
+	<string>canSkipGridView</string>
+	<key>gridsystembottom</key>
+	<string>canDismissCertificate</string>
+	<key>inflatechart</key>
+	<string>shouldReplaceInkWell</string>
+	<key>keyAppBar</key>
+	<string>resilientStoryboard</string>
+	<key>mobileHandler</key>
+	<string>shoulddispatchcapsule</string>
+	<key>resizableSorter</key>
+	<string>zonetransparency</string>
+	<key>seamlessHandler</key>
+	<string>dismissDialogs</string>
+	<key>textfieldTint</key>
+	<string>inheritedDropdownButton</string>
+</dict>
+</plist>

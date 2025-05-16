@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectalignment</key>
+	<string>liteExponent</string>
+	<key>parallelPlayback</key>
+	<string>responsiveAnimation</string>
+	<key>sensorlocation</key>
+	<string>shouldserializehistogram</string>
+	<key>shouldAnimateMaterial</key>
+	<string>subscriptionlevelcolor</string>
+	<key>shouldAnimateWorkflow</key>
+	<string>lostException</string>
+	<key>shouldPauseDelegate</key>
+	<string>canRestartBehavior</string>
+	<key>temporaryDelivery</key>
+	<string>shouldpresentcoordinator</string>
+	<key>transformercenter</key>
+	<string>modelduringcommand</string>
+	<key>usedCatalyst</key>
+	<string>reactiveBandwidth</string>
+</dict>
+</plist>

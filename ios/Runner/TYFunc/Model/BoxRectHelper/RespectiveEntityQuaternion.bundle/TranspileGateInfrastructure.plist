@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTolerance</key>
+	<string>shouldUnbindCupertino</string>
+	<key>beginnerPositioned</key>
+	<string>shouldSubscribeAspect</string>
+	<key>desktopDimension</key>
+	<string>movementNumber</string>
+	<key>draggableTextField</key>
+	<string>heroPlatform</string>
+	<key>entitymodel</key>
+	<string>shouldObserveDelegate</string>
+	<key>hardReceiver</key>
+	<string>handleChannel</string>
+	<key>menufrequency</key>
+	<string>injectHash</string>
+	<key>reductionTag</key>
+	<string>bordervariablesaturation</string>
+	<key>singleIsolate</key>
+	<string>canRestartOperation</string>
+	<key>specifyLatency</key>
+	<string>rangeRotation</string>
+</dict>
+</plist>

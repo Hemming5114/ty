@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTexture</key>
+	<string>viewOffset</string>
+	<key>interactivedelegatetint</key>
+	<string>storyboardpadding</string>
+	<key>normalLoader</key>
+	<string>grainOperation</string>
+	<key>protectedsinedepth</key>
+	<string>canDismissMatrix</string>
+	<key>reactivesizeopacity</key>
+	<string>permanentPoint</string>
+	<key>shouldUnbindSkirt</key>
+	<string>startSensor</string>
+	<key>significantCard</key>
+	<string>interceptHash</string>
+	<key>unactivatedPageView</key>
+	<string>smartequipment</string>
+	<key>vertexOrigin</key>
+	<string>globalWidget</string>
+</dict>
+</plist>

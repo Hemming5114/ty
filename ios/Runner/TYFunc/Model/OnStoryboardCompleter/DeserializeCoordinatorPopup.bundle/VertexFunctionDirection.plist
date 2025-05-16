@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatebuilder</key>
+	<string>imperativeQueue</string>
+	<key>asynchronouscontractionpressure</key>
+	<string>animationwithsingleton</string>
+	<key>entropyparamsaturation</key>
+	<string>originalchannel</string>
+	<key>fetchservice</key>
+	<string>commonexponentbrightness</string>
+	<key>functionalScalability</key>
+	<string>gesturedetectorLocation</string>
+	<key>ignoredEvent</key>
+	<string>cyclevisible</string>
+	<key>lossemitter</key>
+	<string>componentInteraction</string>
+	<key>lostTriangles</key>
+	<string>shouldEndGesture</string>
+	<key>shouldDisposeProject</key>
+	<string>hardSize</string>
+	<key>widgetprototypeskewx</key>
+	<string>resolverForm</string>
+</dict>
+</plist>

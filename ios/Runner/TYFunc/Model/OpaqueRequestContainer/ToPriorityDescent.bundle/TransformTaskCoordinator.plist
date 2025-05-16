@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldPresentCursor</key>
+	<string>canvasForm</string>
+	<key>shouldRouteInstruction</key>
+	<string>usedTimer</string>
+	<key>singleHistogram</key>
+	<string>skirtcontainer</string>
+	<key>standaloneNode</key>
+	<string>deferredTheme</string>
+</dict>
+</plist>

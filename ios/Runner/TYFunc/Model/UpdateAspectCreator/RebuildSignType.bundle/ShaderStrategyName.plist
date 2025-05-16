@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMend</key>
+	<string>fixedChannel</string>
+	<key>desktopReducer</key>
+	<string>activeOverlay</string>
+	<key>normallocalization</key>
+	<string>animationBuffer</string>
+	<key>notificationnavigator</key>
+	<string>durationamongsingleton</string>
+	<key>permanentTheme</key>
+	<string>createpoint</string>
+	<key>scaleerror</key>
+	<string>receiveButton</string>
+	<key>shouldDeserializeAnimation</key>
+	<string>documentdelay</string>
+	<key>temporaryObserver</key>
+	<string>constantTransparency</string>
+</dict>
+</plist>

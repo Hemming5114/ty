@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricSensor</key>
+	<string>delicateConstant</string>
+	<key>ignoredPriority</key>
+	<string>sinkcyclepressure</string>
+	<key>linkerTint</key>
+	<string>shouldshowwidget</string>
+	<key>resilientMap</key>
+	<string>loopSaturation</string>
+	<key>responsiveMedia</key>
+	<string>serializeTask</string>
+	<key>screenactivitydistance</key>
+	<string>canTransformColumn</string>
+	<key>searcherScale</key>
+	<string>connectSegue</string>
+	<key>storageDuration</key>
+	<string>canReplaceNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerShade</key>
+	<string>searcherLocation</string>
+	<key>currentOffset</key>
+	<string>cellDistance</string>
+	<key>currentlistview</key>
+	<string>checkCompleter</string>
+	<key>displayableObserver</key>
+	<string>entropyOffset</string>
+	<key>entropyIndex</key>
+	<string>renderContraction</string>
+	<key>graphContrast</key>
+	<string>shouldFinishMobile</string>
+	<key>nextBinary</key>
+	<string>criticalvector</string>
+	<key>nodesplitter</key>
+	<string>frameshade</string>
+	<key>pivotalScroll</key>
+	<string>smallBoxShadow</string>
+	<key>startsession</key>
+	<string>nativeGate</string>
+</dict>
+</plist>

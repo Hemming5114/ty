@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiodecoratordensity</key>
+	<string>challengeCount</string>
+	<key>bulletdispatcher</key>
+	<string>visualizeCubit</string>
+	<key>constantForce</key>
+	<string>statetension</string>
+	<key>consumptionHue</key>
+	<string>scrollerSpeed</string>
+	<key>desktopTrajectory</key>
+	<string>robustMetrics</string>
+	<key>difficultRequest</key>
+	<string>shouldStopCycle</string>
+	<key>dynamicaspect</key>
+	<string>iscertificate</string>
+	<key>eagerAxis</key>
+	<string>canEmitNavigation</string>
+	<key>sequentialIndicator</key>
+	<string>pendingComposition</string>
+	<key>zoneDirection</key>
+	<string>backwardRadius</string>
+</dict>
+</plist>

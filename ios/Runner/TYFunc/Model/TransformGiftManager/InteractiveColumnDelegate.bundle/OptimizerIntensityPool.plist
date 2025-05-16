@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateInterval</key>
+	<string>shouldlistendescriptor</string>
+	<key>greatBase</key>
+	<string>persistcurve</string>
+	<key>localizationornumber</key>
+	<string>consultativeText</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianNib</key>
+	<string>relationalScene</string>
+	<key>imagevisibility</key>
+	<string>offsetFormat</string>
+	<key>invisiblecellborder</key>
+	<string>disparatePreview</string>
+	<key>painttitle</key>
+	<string>reusableModule</string>
+	<key>symbolRate</key>
+	<string>plateagainststate</string>
+</dict>
+</plist>

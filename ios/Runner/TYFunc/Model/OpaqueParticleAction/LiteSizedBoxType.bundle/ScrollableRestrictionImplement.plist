@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticconstant</key>
+	<string>selectedScale</string>
+	<key>binarytop</key>
+	<string>projectDepth</string>
+	<key>gemcontainoperation</key>
+	<string>bindMember</string>
+	<key>newestGradient</key>
+	<string>usedremainder</string>
+	<key>numericalUseCase</key>
+	<string>shearManager</string>
+	<key>positionFormat</key>
+	<string>shouldrestartmobile</string>
+	<key>shouldPauseSwift</key>
+	<string>canSkipSpine</string>
+	<key>shouldProcessDecoration</key>
+	<string>dynamicChart</string>
+	<key>variantactionspacing</key>
+	<string>alignmenttraversal</string>
+</dict>
+</plist>

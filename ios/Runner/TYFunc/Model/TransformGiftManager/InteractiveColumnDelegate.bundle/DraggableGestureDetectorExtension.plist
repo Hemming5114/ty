@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderpopup</key>
+	<string>rapidImpression</string>
+	<key>builderpressure</key>
+	<string>readLocalization</string>
+	<key>displayablesubpixel</key>
+	<string>tangentSpeed</string>
+	<key>invisibleTweak</key>
+	<string>cleanButton</string>
+	<key>scenarioType</key>
+	<string>navigatoraroundstrategy</string>
+	<key>shouldPaintTabView</key>
+	<string>mutableSelector</string>
+	<key>smallSizedBox</key>
+	<string>intensityagainststructure</string>
+	<key>smartEvent</key>
+	<string>shouldObserveTernary</string>
+	<key>standaloneactionalignment</key>
+	<string>canProcessRadio</string>
+	<key>usedquaternion</key>
+	<string>movementDecorator</string>
+</dict>
+</plist>

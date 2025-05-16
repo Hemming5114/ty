@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVelocity</key>
+	<string>accordionEquipment</string>
+	<key>graphiclayer</key>
+	<string>frameTop</string>
+	<key>imperativeIntegration</key>
+	<string>cardInteraction</string>
+	<key>observershade</key>
+	<string>comprehensiveOverlay</string>
+	<key>otherCreator</key>
+	<string>canDisposePadding</string>
+	<key>shouldStreamListView</key>
+	<string>publishcontroller</string>
+	<key>usecasespacing</key>
+	<string>shouldCancelSkirt</string>
+</dict>
+</plist>

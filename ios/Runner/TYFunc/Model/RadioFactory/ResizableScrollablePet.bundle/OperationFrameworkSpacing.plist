@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedcycle</key>
+	<string>shouldTransformWorkflow</string>
+	<key>dropdownbuttonsingleton</key>
+	<string>mediocreFuture</string>
+	<key>euclideanChapter</key>
+	<string>priorTraversal</string>
+	<key>shouldPublishStoryboard</key>
+	<string>shouldSetStateModal</string>
+	<key>shouldResumeResource</key>
+	<string>beginnerService</string>
+	<key>smartresolver</key>
+	<string>shouldPersistExpanded</string>
+	<key>soundInteraction</key>
+	<string>pushRequest</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMethod</key>
+	<string>unactivatedCheckbox</string>
+	<key>errorfunctionoffset</key>
+	<string>shouldReplaceSizedBox</string>
+	<key>observehandler</key>
+	<string>intermediateEmitter</string>
+	<key>onaccessorychanged</key>
+	<string>desktopFragment</string>
+	<key>reductionCenter</key>
+	<string>customSubpixel</string>
+</dict>
+</plist>

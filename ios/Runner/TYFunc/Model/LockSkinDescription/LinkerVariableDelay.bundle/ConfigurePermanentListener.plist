@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loadcycle</key>
+	<string>statelessfragments</string>
+	<key>oldCallback</key>
+	<string>canEndStoryboard</string>
+	<key>providervariablesize</key>
+	<string>cleanAlignment</string>
+	<key>secondIntensity</key>
+	<string>canFinishTask</string>
+	<key>selectedslash</key>
+	<string>resourceequivalent</string>
+</dict>
+</plist>

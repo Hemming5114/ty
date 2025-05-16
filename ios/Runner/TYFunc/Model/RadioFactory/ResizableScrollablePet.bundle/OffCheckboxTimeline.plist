@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationrequest</key>
+	<string>profilevisible</string>
+	<key>defaultswift</key>
+	<string>normalFormat</string>
+	<key>descriptortheme</key>
+	<string>switchScale</string>
+	<key>inactivedelegate</key>
+	<string>tensorbehavior</string>
+	<key>multiItem</key>
+	<string>extendTopic</string>
+	<key>pushcallback</key>
+	<string>streamlineHandler</string>
+	<key>rectColor</key>
+	<string>streamDuration</string>
+	<key>shouldEndBitrate</key>
+	<string>canConnectSwitch</string>
+	<key>shouldEndLog</key>
+	<string>deserializelayer</string>
+</dict>
+</plist>

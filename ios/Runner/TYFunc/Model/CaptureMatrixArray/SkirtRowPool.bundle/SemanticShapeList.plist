@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedChart</key>
+	<string>canSerializeTheme</string>
+	<key>composableChart</key>
+	<string>fusedLatency</string>
+	<key>directrow</key>
+	<string>discardedTicker</string>
+	<key>gateBorder</key>
+	<string>inflateUseCase</string>
+	<key>liteController</key>
+	<string>canDispatchPlate</string>
+	<key>nextColor</key>
+	<string>impressionRotation</string>
+	<key>persistentSlash</key>
+	<string>loadNavigation</string>
+	<key>publicShader</key>
+	<string>oldResponse</string>
+	<key>responsiveFuture</key>
+	<string>specifyLabel</string>
+	<key>semanticsCoord</key>
+	<string>axisCount</string>
+</dict>
+</plist>

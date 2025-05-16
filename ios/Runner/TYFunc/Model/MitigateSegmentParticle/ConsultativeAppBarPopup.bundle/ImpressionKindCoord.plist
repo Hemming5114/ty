@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitjobdensity</key>
+	<string>canFormatAccessory</string>
+	<key>fusedchartkind</key>
+	<string>shouldAnimateBox</string>
+	<key>insteadanchor</key>
+	<string>seamlessBorder</string>
+	<key>largeChallenge</key>
+	<string>interactiveInfo</string>
+	<key>shouldDismissModulus</key>
+	<string>processTicker</string>
+	<key>streamAlignment</key>
+	<string>evolutionFrequency</string>
+	<key>tensorFeature</key>
+	<string>draggablenode</string>
+</dict>
+</plist>

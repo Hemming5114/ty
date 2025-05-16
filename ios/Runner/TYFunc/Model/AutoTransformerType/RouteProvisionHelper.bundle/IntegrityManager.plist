@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyInformation</key>
+	<string>annotateInjection</string>
+	<key>disabledHistogram</key>
+	<string>canEncodeSegment</string>
+	<key>lazyBorder</key>
+	<string>listenBox</string>
+	<key>modelwithflyweight</key>
+	<string>drawService</string>
+	<key>semanticwidgetskewy</key>
+	<string>multiplicationloop</string>
+	<key>uniformAspectRatio</key>
+	<string>baselikeparameter</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateMode</key>
+	<string>transitionStatus</string>
+	<key>matrixLocation</key>
+	<string>vectorizepriority</string>
+	<key>prevListener</key>
+	<string>accessibleStep</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocmerger</key>
+	<string>statelessPopup</string>
+	<key>dropoutanchor</key>
+	<string>annotateChart</string>
+	<key>grainFrequency</key>
+	<string>chartmargin</string>
+	<key>shouldSkipMusic</key>
+	<string>intensityrate</string>
+	<key>skirtdirection</key>
+	<string>channelshape</string>
+	<key>tweenpublisher</key>
+	<string>groupBound</string>
+	<key>unsortedPrecision</key>
+	<string>shouldUpdateConvolution</string>
+</dict>
+</plist>

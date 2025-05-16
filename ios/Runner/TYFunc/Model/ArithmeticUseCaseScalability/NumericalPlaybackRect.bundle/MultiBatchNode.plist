@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerMargin</key>
+	<string>cursorduringtype</string>
+	<key>resizableGraph</key>
+	<string>showListView</string>
+	<key>sorterTag</key>
+	<string>segmentAction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTransparency</key>
+	<string>prevRichText</string>
+	<key>filterstatus</key>
+	<string>shouldAttachSwitch</string>
+	<key>persistentMultiplication</key>
+	<string>shouldPersistKernel</string>
+	<key>respectivecoordinatorcontrast</key>
+	<string>consultativeDescent</string>
+	<key>shouldHandleNavigator</key>
+	<string>concatenateController</string>
+	<key>singlenavigatorkind</key>
+	<string>elasticMaterial</string>
+</dict>
+</plist>

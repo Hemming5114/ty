@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredsound</key>
+	<string>usecasedelay</string>
+	<key>entropylayer</key>
+	<string>concreteScreen</string>
+	<key>intuitivePlayback</key>
+	<string>rowPattern</string>
+	<key>subscriptionHead</key>
+	<string>resolverDuration</string>
+</dict>
+</plist>

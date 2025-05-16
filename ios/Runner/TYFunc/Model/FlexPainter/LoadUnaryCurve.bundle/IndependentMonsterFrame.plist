@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMerger</key>
+	<string>canSerializeCustomPaint</string>
+	<key>reliabilityDelay</key>
+	<string>publicHistogram</string>
+	<key>shouldNavigateColumn</key>
+	<string>shouldrouteequipment</string>
+	<key>shouldRestartFuture</key>
+	<string>mobileComponent</string>
+	<key>shouldTrainCapsule</key>
+	<string>preparedescription</string>
+	<key>usedTimeline</key>
+	<string>uniqueElasticity</string>
+	<key>webanimation</key>
+	<string>unactivatedcallbackfeedback</string>
+	<key>zoneTension</key>
+	<string>invisibleDescriptor</string>
+</dict>
+</plist>

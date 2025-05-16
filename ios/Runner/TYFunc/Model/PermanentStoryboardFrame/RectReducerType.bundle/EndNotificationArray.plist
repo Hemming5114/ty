@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInjection</key>
+	<string>taskStage</string>
+	<key>columnHue</key>
+	<string>canHandleMember</string>
+	<key>converterSaturation</key>
+	<string>catalystDistance</string>
+	<key>replacetransformer</key>
+	<string>hashOpacity</string>
+	<key>shouldSubscribeNotifier</key>
+	<string>methodorientation</string>
+	<key>skinStyle</key>
+	<string>providerphasecenter</string>
+	<key>synchronousConverter</key>
+	<string>shouldUnmountBrush</string>
+	<key>trainaction</key>
+	<string>smallScale</string>
+</dict>
+</plist>

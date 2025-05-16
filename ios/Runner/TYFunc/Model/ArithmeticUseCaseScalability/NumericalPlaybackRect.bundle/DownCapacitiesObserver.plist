@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorresource</key>
+	<string>concurrentHeap</string>
+	<key>eagerCharacteristic</key>
+	<string>routeParam</string>
+	<key>greatReduction</key>
+	<string>adaptivePriority</string>
+	<key>relationalTime</key>
+	<string>titleBound</string>
+	<key>richtextopacity</key>
+	<string>scheduleChart</string>
+	<key>slashkindskewx</key>
+	<string>buttonversusstrategy</string>
+</dict>
+</plist>

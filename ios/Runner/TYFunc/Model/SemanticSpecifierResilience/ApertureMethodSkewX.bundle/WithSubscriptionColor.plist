@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationcontextedge</key>
+	<string>elasticDescription</string>
+	<key>immediateMomentum</key>
+	<string>intermediateGrid</string>
+	<key>interactiveOption</key>
+	<string>directlyLabel</string>
+	<key>loadnavigator</key>
+	<string>introspectBuffer</string>
+	<key>modalstagesize</key>
+	<string>sliderbyoperation</string>
+	<key>protectedEfficiency</key>
+	<string>globalAperture</string>
+	<key>responsiveAction</key>
+	<string>throughputresponse</string>
+	<key>smartStrength</key>
+	<string>ignoredMaterializer</string>
+	<key>transitioncallback</key>
+	<string>lastShader</string>
+</dict>
+</plist>

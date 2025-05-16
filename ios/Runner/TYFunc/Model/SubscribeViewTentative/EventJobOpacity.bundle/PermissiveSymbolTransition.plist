@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchValidation</key>
+	<string>advancedDelegate</string>
+	<key>composableUtil</key>
+	<string>setstateWorkflow</string>
+	<key>concurrentModulus</key>
+	<string>activeFactory</string>
+	<key>controllerLeft</key>
+	<string>listenListener</string>
+	<key>discardedEfficiency</key>
+	<string>refreshFactory</string>
+	<key>executegridview</key>
+	<string>slideruntilvalue</string>
+	<key>menuleft</key>
+	<string>timercontainform</string>
+	<key>positionDistance</key>
+	<string>converterEdge</string>
+	<key>shouldPushPageView</key>
+	<string>crucialException</string>
+	<key>sinkcolor</key>
+	<string>associatedAlignment</string>
+</dict>
+</plist>

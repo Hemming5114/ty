@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVisible</key>
+	<string>restartLoss</string>
+	<key>currentrichtext</key>
+	<string>shouldConnectStateful</string>
+	<key>movementsorter</key>
+	<string>spriteLocation</string>
+	<key>rectInterval</key>
+	<string>canSetStateProject</string>
+</dict>
+</plist>

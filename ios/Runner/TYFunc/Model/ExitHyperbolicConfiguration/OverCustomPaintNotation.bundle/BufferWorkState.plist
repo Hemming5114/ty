@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiotag</key>
+	<string>subtlematrixbehavior</string>
+	<key>cleartouch</key>
+	<string>adaptiveTime</string>
+	<key>inactiveBuilder</key>
+	<string>sliderLevel</string>
+	<key>independentSymbol</key>
+	<string>descriptorFramework</string>
+	<key>keyFinder</key>
+	<string>concurrentTolerance</string>
+	<key>paddingResponse</key>
+	<string>directMenu</string>
+	<key>pointPosition</key>
+	<string>respectiveStroke</string>
+	<key>sceneforce</key>
+	<string>processMovement</string>
+	<key>significantAppBar</key>
+	<string>scenarioshape</string>
+	<key>unmountplate</key>
+	<string>disposeStep</string>
+</dict>
+</plist>

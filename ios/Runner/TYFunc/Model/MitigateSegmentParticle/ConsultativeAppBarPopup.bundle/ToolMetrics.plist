@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionbuffer</key>
+	<string>pointBorder</string>
+	<key>animatedAction</key>
+	<string>infoSkewX</string>
+	<key>animationorigin</key>
+	<string>immutableNotation</string>
+	<key>methodmechanism</key>
+	<string>listviewCoord</string>
+	<key>pushplayback</key>
+	<string>publicCheckbox</string>
+	<key>shouldMountEntropy</key>
+	<string>uniformItem</string>
+	<key>subsequentPoint</key>
+	<string>inkwellduringshape</string>
+	<key>throughputkind</key>
+	<string>notificationFeedback</string>
+	<key>unsortedDistinction</key>
+	<string>lossBehavior</string>
+</dict>
+</plist>

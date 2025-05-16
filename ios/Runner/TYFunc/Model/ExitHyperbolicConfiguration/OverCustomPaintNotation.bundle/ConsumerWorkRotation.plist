@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCoord</key>
+	<string>mediocreclipper</string>
+	<key>basicModel</key>
+	<string>elasticReducer</string>
+	<key>constrainttrajectory</key>
+	<string>canRebuildWorkflow</string>
+	<key>mobileMomentum</key>
+	<string>canLayoutEqualization</string>
+	<key>partitionappbar</key>
+	<string>nibcommandtag</string>
+	<key>permissiveEntity</key>
+	<string>dispatchModulus</string>
+	<key>retainedData</key>
+	<string>polygonShade</string>
+	<key>shouldPaintRole</key>
+	<string>extensionTemple</string>
+	<key>singleCosine</key>
+	<string>canPresentUsage</string>
+	<key>statefulfunctionsize</key>
+	<string>missedImpression</string>
+</dict>
+</plist>

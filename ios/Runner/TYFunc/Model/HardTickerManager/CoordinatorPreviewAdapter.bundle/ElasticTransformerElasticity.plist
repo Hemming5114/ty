@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTabBar</key>
+	<string>searchSubscription</string>
+	<key>fusedconnector</key>
+	<string>stopPositioned</string>
+	<key>granularkernel</key>
+	<string>relationalScroll</string>
+	<key>interactiveTextField</key>
+	<string>impactBehavior</string>
+	<key>receiverAppearance</key>
+	<string>disparateModule</string>
+	<key>requiredLatency</key>
+	<string>associatedNotification</string>
+	<key>scopeColor</key>
+	<string>overlayMemento</string>
+	<key>shouldCreateReference</key>
+	<string>matrixFlyweight</string>
+	<key>shouldResumePadding</key>
+	<string>discoverService</string>
+	<key>shouldcancelequipment</key>
+	<string>concreteAppBar</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyLocation</key>
+	<string>renderSample</string>
+	<key>autoNavigator</key>
+	<string>reactiveChapter</string>
+	<key>declarativeTitle</key>
+	<string>checkboxStyle</string>
+	<key>eagerTrigger</key>
+	<string>respectiveSelector</string>
+	<key>fixedMediaQuery</key>
+	<string>singleStateful</string>
+	<key>singletonframe</key>
+	<string>disposeStateless</string>
+	<key>statefulBrush</key>
+	<string>connectorEdge</string>
+	<key>symbolperobserver</key>
+	<string>intermediateProjection</string>
+	<key>uniformBuffer</key>
+	<string>cupertinoScale</string>
+	<key>visualizeinterpolation</key>
+	<string>dimensionstylecolor</string>
+</dict>
+</plist>

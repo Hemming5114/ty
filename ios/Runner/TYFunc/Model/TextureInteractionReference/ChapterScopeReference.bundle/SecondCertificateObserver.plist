@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedexponentdelay</key>
+	<string>finishSensor</string>
+	<key>discardedTouch</key>
+	<string>setstateCanvas</string>
+	<key>seamlessRectangle</key>
+	<string>tensorNorm</string>
+	<key>shouldResumeMovement</key>
+	<string>pendingDropdownButton</string>
+	<key>spottension</key>
+	<string>canAttachEqualization</string>
+	<key>synchronousBuffer</key>
+	<string>significantRenderer</string>
+</dict>
+</plist>

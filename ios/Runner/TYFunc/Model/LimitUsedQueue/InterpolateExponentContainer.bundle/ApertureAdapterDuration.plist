@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRectangle</key>
+	<string>sinkactioninset</string>
+	<key>boxincludeplatform</key>
+	<string>groupAdapter</string>
+	<key>explicitCell</key>
+	<string>isolatetasklocation</string>
+	<key>intermediateContraction</key>
+	<string>canDismissNib</string>
+	<key>protectedIcon</key>
+	<string>collectionacceleration</string>
+	<key>shaderindex</key>
+	<string>shouldContinueDimension</string>
+	<key>specifyScroll</key>
+	<string>fusedTrajectory</string>
+	<key>statefulmodel</key>
+	<string>subpixelbeyondkind</string>
+	<key>tickerhead</key>
+	<string>comparemodulus</string>
+</dict>
+</plist>

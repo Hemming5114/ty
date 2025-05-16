@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveInstruction</key>
+	<string>infrastructureLocation</string>
+	<key>disposecanvas</key>
+	<string>permanentMap</string>
+	<key>exitusage</key>
+	<string>canUnmountVariant</string>
+	<key>inactiveView</key>
+	<string>activatedTransformer</string>
+	<key>retainedAmortization</key>
+	<string>indicatorMethod</string>
+	<key>sharedConfiguration</key>
+	<string>bindAxis</string>
+</dict>
+</plist>

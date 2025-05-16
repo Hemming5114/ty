@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicCallback</key>
+	<string>subscribeCube</string>
+	<key>gateName</key>
+	<string>stepborder</string>
+	<key>iterativeChooser</key>
+	<string>canObserveProjection</string>
+	<key>missedTransformer</key>
+	<string>cosinecenter</string>
+	<key>requestexceptvalue</key>
+	<string>animateHero</string>
+	<key>similarAsset</key>
+	<string>shouldKeepSample</string>
+</dict>
+</plist>

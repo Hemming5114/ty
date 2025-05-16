@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferpatterncoord</key>
+	<string>shouldBindLayout</string>
+	<key>buttonMargin</key>
+	<string>multiplystate</string>
+	<key>dialogssystembrightness</key>
+	<string>analogyInset</string>
+	<key>diversifiedCharacteristic</key>
+	<string>shouldPersistOverlay</string>
+	<key>fusedMechanism</key>
+	<string>activatedChallenge</string>
+	<key>hassubpixel</key>
+	<string>shouldRebuildCapacities</string>
+	<key>independentSorter</key>
+	<string>spritefrequency</string>
+	<key>interactiveGram</key>
+	<string>reusableresponder</string>
+	<key>reducermapper</key>
+	<string>smallGroup</string>
+	<key>resourcedispatcher</key>
+	<string>visualizeAllocator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureSpeed</key>
+	<string>containerbottom</string>
+	<key>composableintensityvalidation</key>
+	<string>tooldepth</string>
+	<key>gridShape</key>
+	<string>detachContainer</string>
+	<key>newestReliability</key>
+	<string>aspectFrequency</string>
+	<key>progressbarRate</key>
+	<string>temporaryReceiver</string>
+	<key>requiredHero</key>
+	<string>playbackState</string>
+	<key>shouldShowCosine</key>
+	<string>layerContext</string>
+</dict>
+</plist>

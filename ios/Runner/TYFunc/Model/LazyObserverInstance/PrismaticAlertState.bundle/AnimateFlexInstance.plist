@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterContrast</key>
+	<string>opaquedecoration</string>
+	<key>nativeButton</key>
+	<string>equalizationinterval</string>
+	<key>protectedTimeline</key>
+	<string>gestureRotation</string>
+	<key>resizableQuaternion</key>
+	<string>hasAlert</string>
+	<key>reusableObserver</key>
+	<string>hasGrayscale</string>
+	<key>webCapacities</key>
+	<string>compositionBrightness</string>
+	<key>widgetColor</key>
+	<string>scenarioRate</string>
+	<key>widgetcolor</key>
+	<string>permanentConvolution</string>
+</dict>
+</plist>

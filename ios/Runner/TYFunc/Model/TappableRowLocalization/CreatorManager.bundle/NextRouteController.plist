@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediatePlayback</key>
+	<string>pinchablebuttonacceleration</string>
+	<key>independentExpanded</key>
+	<string>normedge</string>
+	<key>managerIndex</key>
+	<string>uniformCursor</string>
+	<key>retrievechannel</key>
+	<string>borderCommand</string>
+	<key>robustLatency</key>
+	<string>canDismissBuilder</string>
+</dict>
+</plist>

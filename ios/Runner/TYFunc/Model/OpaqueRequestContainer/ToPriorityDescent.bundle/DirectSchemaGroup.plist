@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyBandwidth</key>
+	<string>canPopGift</string>
+	<key>resourceorigin</key>
+	<string>similarInformation</string>
+	<key>shouldPersistOverlay</key>
+	<string>movementBorder</string>
+	<key>writescale</key>
+	<string>multiDelegate</string>
+</dict>
+</plist>

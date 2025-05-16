@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedLogarithm</key>
+	<string>informationScale</string>
+	<key>heroFrequency</key>
+	<string>canFinishScale</string>
+	<key>ignoredEvolution</key>
+	<string>shouldAnimateSkin</string>
+	<key>latencyColor</key>
+	<string>signatureColor</string>
+	<key>latencyDepth</key>
+	<string>shouldDecodeRoute</string>
+	<key>shouldStartWorkflow</key>
+	<string>shouldPopBinary</string>
+	<key>shouldTrainAnimation</key>
+	<string>smallLogarithm</string>
+	<key>smartRadius</key>
+	<string>originalanimator</string>
+</dict>
+</plist>

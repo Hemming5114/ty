@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureDensity</key>
+	<string>receiveDependency</string>
+	<key>diffableAllocator</key>
+	<string>dynamicConstraint</string>
+	<key>gradientIndex</key>
+	<string>triggerSpeed</string>
+	<key>instantiatecustompaint</key>
+	<string>equipmentPadding</string>
+	<key>labelStyle</key>
+	<string>radiuscompositerotation</string>
+	<key>restrictionvelocity</key>
+	<string>cubeTension</string>
+	<key>shouldAttachMusic</key>
+	<string>opaqueBox</string>
+	<key>shouldDeserializeConstraint</key>
+	<string>routeDimension</string>
+</dict>
+</plist>

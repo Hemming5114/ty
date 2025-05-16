@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataandtier</key>
+	<string>volumeOrigin</string>
+	<key>operationResponse</key>
+	<string>roleSaturation</string>
+	<key>scrollTheme</key>
+	<string>canConnectTouch</string>
+	<key>standaloneBox</key>
+	<string>normalItem</string>
+	<key>tweenShape</key>
+	<string>mapContrast</string>
+</dict>
+</plist>

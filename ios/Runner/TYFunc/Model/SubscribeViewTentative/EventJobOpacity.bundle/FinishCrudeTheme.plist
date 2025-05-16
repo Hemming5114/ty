@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledmend</key>
+	<string>lazyTable</string>
+	<key>encodefeature</key>
+	<string>emitCycle</string>
+	<key>entropycontainprocess</key>
+	<string>defaultArithmetic</string>
+	<key>requiredGradient</key>
+	<string>ephemeralTouch</string>
+	<key>robustPageView</key>
+	<string>visibleInjection</string>
+	<key>screenlocalization</key>
+	<string>tensorWrapper</string>
+	<key>seamlessTrajectory</key>
+	<string>canRestartPromise</string>
+	<key>videoTag</key>
+	<string>geometricRoute</string>
+	<key>widgetagainstbuffer</key>
+	<string>scaleResponse</string>
+</dict>
+</plist>

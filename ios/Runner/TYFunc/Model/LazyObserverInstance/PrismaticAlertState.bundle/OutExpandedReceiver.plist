@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSpine</key>
+	<string>nibStrategy</string>
+	<key>marginOrientation</key>
+	<string>canUpdateClipper</string>
+	<key>polyfillFormat</key>
+	<string>oninstructiontap</string>
+	<key>shouldDisconnectContraction</key>
+	<string>sorteddimension</string>
+</dict>
+</plist>

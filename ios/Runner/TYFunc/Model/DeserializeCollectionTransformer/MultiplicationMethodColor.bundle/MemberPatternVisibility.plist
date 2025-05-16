@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedrect</key>
+	<string>requiredBatch</string>
+	<key>customEntropy</key>
+	<string>providerHead</string>
+	<key>easyMethod</key>
+	<string>layoutDescriptor</string>
+	<key>explicitConverter</key>
+	<string>shouldUnbindAspect</string>
+	<key>iconDistance</key>
+	<string>threadTag</string>
+	<key>normalGraph</key>
+	<string>cubeforstate</string>
+	<key>petpadding</key>
+	<string>parallelLabel</string>
+	<key>threadright</key>
+	<string>inheritedGrayscale</string>
+	<key>zoneconnector</key>
+	<string>parseProject</string>
+</dict>
+</plist>

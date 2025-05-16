@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTechnique</key>
+	<string>deliverySaturation</string>
+	<key>constraintPadding</key>
+	<string>smallVertex</string>
+	<key>declarativeGrid</key>
+	<string>sinemetadata</string>
+	<key>lastKernel</key>
+	<string>canPauseGate</string>
+	<key>pickerContrast</key>
+	<string>shouldPopCustomPaint</string>
+	<key>pointformmode</key>
+	<string>characteristicScale</string>
+	<key>shouldRenderDocument</key>
+	<string>shouldFetchText</string>
+	<key>tentativekind</key>
+	<string>intuitiveTweak</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxFeedback</key>
+	<string>shouldDisposeChannels</string>
+	<key>connectorMode</key>
+	<string>webUseCase</string>
+	<key>defaultsign</key>
+	<string>iconviaphase</string>
+	<key>intermediateProject</key>
+	<string>vectorizeLocalization</string>
+	<key>shouldHandleMission</key>
+	<string>clusterName</string>
+	<key>shouldValidateProjection</key>
+	<string>canPushSpine</string>
+	<key>viewbehavior</key>
+	<string>globalbuilder</string>
+</dict>
+</plist>

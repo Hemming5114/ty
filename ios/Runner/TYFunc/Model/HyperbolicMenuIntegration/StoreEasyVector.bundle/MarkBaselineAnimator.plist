@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartstate</key>
+	<string>drawParticle</string>
+	<key>checklistKind</key>
+	<string>customCollection</string>
+	<key>composableArchitecture</key>
+	<string>adaptiveAnimator</string>
+	<key>memberDepth</key>
+	<string>touchuntilcycle</string>
+	<key>mutableConvolution</key>
+	<string>replaceInjection</string>
+	<key>spritemomentum</key>
+	<string>onbuildertap</string>
+</dict>
+</plist>

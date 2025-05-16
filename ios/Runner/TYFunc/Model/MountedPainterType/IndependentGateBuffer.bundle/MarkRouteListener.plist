@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionrotation</key>
+	<string>easyStream</string>
+	<key>deferredSemantics</key>
+	<string>decoupleisolate</string>
+	<key>geometricController</key>
+	<string>imageProcess</string>
+	<key>nextTime</key>
+	<string>deprecateProgressBar</string>
+	<key>priorException</key>
+	<string>compositionvisibility</string>
+	<key>relationalstate</key>
+	<string>singletonRight</string>
+	<key>smallQueue</key>
+	<string>pointStructure</string>
+	<key>stateMomentum</key>
+	<string>inactiveSubpixel</string>
+	<key>usedChecklist</key>
+	<string>finderInteraction</string>
+	<key>webStorage</key>
+	<string>resilientRenderer</string>
+</dict>
+</plist>

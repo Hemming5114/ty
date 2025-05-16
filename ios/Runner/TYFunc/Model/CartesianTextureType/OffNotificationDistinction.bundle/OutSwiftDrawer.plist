@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeFormat</key>
+	<string>euclideanPositioned</string>
+	<key>disabledskin</key>
+	<string>disparateAnalogy</string>
+	<key>mutableScreen</key>
+	<string>bindCard</string>
+	<key>respectiveState</key>
+	<string>dataDelay</string>
+	<key>rowcompositesaturation</key>
+	<string>displayableComposition</string>
+	<key>singleStack</key>
+	<string>oldStoryboard</string>
+	<key>toolPressure</key>
+	<string>shouldendcupertino</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorStyle</key>
+	<string>convertListener</string>
+	<key>explicitTolerance</key>
+	<string>invisibleInformation</string>
+	<key>groupTension</key>
+	<string>inheritedTrigger</string>
+	<key>isResource</key>
+	<string>desktopRow</string>
+	<key>reactiveLoader</key>
+	<string>equalizationParam</string>
+	<key>resizableThreshold</key>
+	<string>sampleSpacing</string>
+	<key>shouldTransitionStamp</key>
+	<string>shouldFormatAnimatedContainer</string>
+	<key>statefulTraversal</key>
+	<string>gridBorder</string>
+	<key>uniformGroup</key>
+	<string>shouldDisconnectHeap</string>
+</dict>
+</plist>

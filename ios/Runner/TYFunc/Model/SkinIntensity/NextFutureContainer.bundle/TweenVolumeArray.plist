@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedResolver</key>
+	<string>concurrentDropdownButton</string>
+	<key>inkwellDensity</key>
+	<string>onskirttap</string>
+	<key>lazyDialogs</key>
+	<string>shouldanimateimage</string>
+	<key>makedescription</key>
+	<string>specifycompletion</string>
+	<key>requestInset</key>
+	<string>shouldKeepCaption</string>
+	<key>shaderappearance</key>
+	<string>shouldAnimateMap</string>
+	<key>shouldUnmountedInterpolation</key>
+	<string>directlyObserver</string>
+	<key>shouldUnmountedPositioned</key>
+	<string>shouldKeepBuilder</string>
+	<key>substantialCubit</key>
+	<string>pageviewspeed</string>
+	<key>uniqueTaxonomy</key>
+	<string>allocatorInteraction</string>
+</dict>
+</plist>

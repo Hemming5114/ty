@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAxis</key>
+	<string>draggableCard</string>
+	<key>dispatcherHue</key>
+	<string>prevLatency</string>
+	<key>effectresponse</key>
+	<string>draggableThreshold</string>
+	<key>pagerPosition</key>
+	<string>computePreview</string>
+	<key>semanticreduction</key>
+	<string>movementStyle</string>
+	<key>specifiermechanism</key>
+	<string>layerskewy</string>
+	<key>unsortedTexture</key>
+	<string>routeResponse</string>
+</dict>
+</plist>

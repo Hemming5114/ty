@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackimpact</key>
+	<string>statelessforphase</string>
+	<key>callbacknumberspeed</key>
+	<string>logName</string>
+	<key>checklistrecursion</key>
+	<string>ephemeralprogressbarfeedback</string>
+	<key>mediocreSorter</key>
+	<string>canStopDialogs</string>
+	<key>priorHandler</key>
+	<string>invisibleLayout</string>
+	<key>resizabledocument</key>
+	<string>notificationTheme</string>
+	<key>uniformvector</key>
+	<string>layoutContraction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCenter</key>
+	<string>shouldReplaceEntropy</string>
+	<key>basicCapsule</key>
+	<string>attachSubpixel</string>
+	<key>dialogsPadding</key>
+	<string>validateCharacter</string>
+	<key>euclideanwidgetorientation</key>
+	<string>shouldSkipLogarithm</string>
+	<key>previewtierspeed</key>
+	<string>subscribeWidget</string>
+</dict>
+</plist>

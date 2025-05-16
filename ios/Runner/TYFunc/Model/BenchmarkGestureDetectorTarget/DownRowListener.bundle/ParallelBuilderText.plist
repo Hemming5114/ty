@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSkin</key>
+	<string>architectureVisible</string>
+	<key>awaitAlignment</key>
+	<string>tappableReliability</string>
+	<key>disconnectusage</key>
+	<string>shouldAnimateTabView</string>
+	<key>enabledCapacities</key>
+	<string>associatedTransition</string>
+	<key>greatCompletion</key>
+	<string>gradientStructure</string>
+	<key>platesize</key>
+	<string>timertag</string>
+	<key>threadType</key>
+	<string>swiftBrightness</string>
+	<key>vectorscale</key>
+	<string>stateoperation</string>
+</dict>
+</plist>

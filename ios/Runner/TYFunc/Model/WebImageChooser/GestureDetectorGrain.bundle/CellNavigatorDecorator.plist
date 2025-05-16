@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoProvision</key>
+	<string>recursionTop</string>
+	<key>cardStatus</key>
+	<string>toolAction</string>
+	<key>desktopNotification</key>
+	<string>canDismissMovement</string>
+	<key>greatBloc</key>
+	<string>revisitPosition</string>
+	<key>shoulddeserializearithmetic</key>
+	<string>shouldDispatchProjection</string>
+</dict>
+</plist>

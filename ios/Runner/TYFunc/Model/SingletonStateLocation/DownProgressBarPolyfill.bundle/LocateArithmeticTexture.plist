@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticitymomentum</key>
+	<string>bindColumn</string>
+	<key>graphicForce</key>
+	<string>activateCubit</string>
+	<key>mainStream</key>
+	<string>canFormatCard</string>
+	<key>mutableScale</key>
+	<string>canProcessText</string>
+	<key>primaryDocument</key>
+	<string>alphaBuffer</string>
+	<key>stringifyscale</key>
+	<string>coordinatorScope</string>
+</dict>
+</plist>

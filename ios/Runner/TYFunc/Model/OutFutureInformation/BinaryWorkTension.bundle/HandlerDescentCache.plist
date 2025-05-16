@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateNotification</key>
+	<string>transitionAppBar</string>
+	<key>displayableZone</key>
+	<string>significantLoss</string>
+	<key>polyfillvalidation</key>
+	<string>secondNotation</string>
+	<key>profileInteraction</key>
+	<string>canAttachAnimation</string>
+	<key>unsortedconvolutionfeedback</key>
+	<string>canEmitEffect</string>
+</dict>
+</plist>

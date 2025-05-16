@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTheme</key>
+	<string>dispatcherResponse</string>
+	<key>firstMedia</key>
+	<string>destroyZone</string>
+	<key>mediumPublisher</key>
+	<string>eagerPager</string>
+	<key>reactiveShape</key>
+	<string>setupbuilder</string>
+</dict>
+</plist>

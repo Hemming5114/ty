@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatecompleter</key>
+	<string>globalInterface</string>
+	<key>cartesianEffect</key>
+	<string>adaptiveTimeline</string>
+	<key>firstDescriptor</key>
+	<string>decorationsingleton</string>
+	<key>similarSegment</key>
+	<string>canNotifyScaffold</string>
+	<key>subtleClipper</key>
+	<string>paddingTheme</string>
+	<key>subtleIcon</key>
+	<string>tentativeBrightness</string>
+	<key>uniformTable</key>
+	<string>dynamicExpanded</string>
+</dict>
+</plist>

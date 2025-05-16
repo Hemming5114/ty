@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeEvent</key>
+	<string>sceneStage</string>
+	<key>errorType</key>
+	<string>rowBrightness</string>
+	<key>intuitiveBinary</key>
+	<string>filterBrightness</string>
+	<key>mountedprecision</key>
+	<string>sharedScene</string>
+	<key>normalPreview</key>
+	<string>reliabilityTag</string>
+	<key>reliabilityleft</key>
+	<string>grainshader</string>
+	<key>shouldYieldSession</key>
+	<string>encapsulateResolver</string>
+	<key>subscriberinterval</key>
+	<string>pauseSpine</string>
+</dict>
+</plist>

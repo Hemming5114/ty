@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publicElement</key>
+	<string>permissiveCompletion</string>
+	<key>retainedStore</key>
+	<string>sharedStatus</string>
+	<key>sceneselector</key>
+	<string>detachaspect</string>
+	<key>shouldCacheGestureDetector</key>
+	<string>crudeRestriction</string>
+	<key>shouldDisconnectPositioned</key>
+	<string>respectiveEquivalent</string>
+	<key>smartMember</key>
+	<string>mountFlex</string>
+</dict>
+</plist>

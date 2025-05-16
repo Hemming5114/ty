@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncvisitorborder</key>
+	<string>holdProgressBar</string>
+	<key>crucialgrid</key>
+	<string>shouldReplaceHistogram</string>
+	<key>fixedTweak</key>
+	<string>independentResilience</string>
+	<key>greatBrush</key>
+	<string>discoverRect</string>
+	<key>intermediateComponent</key>
+	<string>custompaintTier</string>
+	<key>mediocreelasticity</key>
+	<string>constraintnumbername</string>
+	<key>pinchableGram</key>
+	<string>staticGroup</string>
+	<key>shouldDeserializeIcon</key>
+	<string>tappableMission</string>
+	<key>shouldPrepareDecoration</key>
+	<string>mobileIntensity</string>
+</dict>
+</plist>

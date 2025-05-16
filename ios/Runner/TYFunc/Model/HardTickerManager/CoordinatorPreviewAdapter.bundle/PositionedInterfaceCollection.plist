@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resumeinterpolation</key>
+	<string>delegateDuration</string>
+	<key>sharedStoryboard</key>
+	<string>iterativeInteger</string>
+	<key>shouldRebuildAnimation</key>
+	<string>canNavigateSemantics</string>
+	<key>shouldUpdateCube</key>
+	<string>interfaceCount</string>
+	<key>shouldUpdateKernel</key>
+	<string>canProcessDialogs</string>
+	<key>unactivatedConstant</key>
+	<string>shouldreplacecharacter</string>
+</dict>
+</plist>

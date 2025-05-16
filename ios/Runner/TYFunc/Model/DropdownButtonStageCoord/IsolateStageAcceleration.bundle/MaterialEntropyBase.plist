@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSine</key>
+	<string>pendingLabel</string>
+	<key>frameforcomposite</key>
+	<string>declarativeAlignment</string>
+	<key>multiVariant</key>
+	<string>infoShape</string>
+	<key>protectedSpot</key>
+	<string>interactorSystem</string>
+	<key>stateloader</key>
+	<string>computeCompleter</string>
+	<key>textureMargin</key>
+	<string>semanticScroller</string>
+</dict>
+</plist>

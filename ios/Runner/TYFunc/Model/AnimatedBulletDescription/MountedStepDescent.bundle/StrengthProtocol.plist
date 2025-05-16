@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatetaxonomy</key>
+	<string>findParticle</string>
+	<key>hierarchicallatency</key>
+	<string>unmountisolate</string>
+	<key>ignoredNode</key>
+	<string>channelsrecursion</string>
+	<key>partitiongrid</key>
+	<string>renderMaster</string>
+	<key>profilemementotheme</key>
+	<string>aspectBorder</string>
+	<key>tweenSaturation</key>
+	<string>exponentaroundvalue</string>
+</dict>
+</plist>

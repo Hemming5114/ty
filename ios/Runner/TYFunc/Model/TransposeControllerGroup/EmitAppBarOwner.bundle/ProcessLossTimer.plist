@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTrajectory</key>
+	<string>linkerborder</string>
+	<key>invisibleChallenge</key>
+	<string>syncCoordinator</string>
+	<key>invisibleSubpixel</key>
+	<string>arithmeticGrid</string>
+	<key>metadataValidation</key>
+	<string>immediateEqualization</string>
+	<key>opaqueConfidentiality</key>
+	<string>decodeSink</string>
+	<key>prevIntegration</key>
+	<string>completedStateless</string>
+	<key>shouldDisposeAccessory</key>
+	<string>crudeScene</string>
+</dict>
+</plist>

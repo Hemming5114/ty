@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleModal</key>
+	<string>paintdelegate</string>
+	<key>deferredTouch</key>
+	<string>reliabilityDistance</string>
+	<key>fragmentsSkewY</key>
+	<string>canBindCell</string>
+	<key>futurePosition</key>
+	<string>shouldpublishtabview</string>
+	<key>gridorigin</key>
+	<string>remainderVisitor</string>
+	<key>labelHead</key>
+	<string>batchallocator</string>
+	<key>masterTop</key>
+	<string>evaluationSkewX</string>
+	<key>materializerTail</key>
+	<string>errorBuffer</string>
+	<key>opaqueAnchor</key>
+	<string>canUpdateProfile</string>
+	<key>shouldYieldStream</key>
+	<string>encapsulateVector</string>
+</dict>
+</plist>

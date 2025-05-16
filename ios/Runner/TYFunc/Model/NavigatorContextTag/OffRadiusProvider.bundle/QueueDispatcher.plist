@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcapacitiesstate</key>
+	<string>refreshRoute</string>
+	<key>loadawait</key>
+	<string>unsortedPrecision</string>
+	<key>missedRange</key>
+	<string>fragmentsDirection</string>
+	<key>prismaticScalability</key>
+	<string>baselineSystem</string>
+	<key>semanticposition</key>
+	<string>makeModel</string>
+	<key>shouldBindInteger</key>
+	<string>canStartBoxShadow</string>
+</dict>
+</plist>

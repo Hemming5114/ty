@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnHead</key>
+	<string>displayableCoordinator</string>
+	<key>elasticityInteraction</key>
+	<string>freeRequest</string>
+	<key>managerDistance</key>
+	<string>dynamicTween</string>
+	<key>resizableTask</key>
+	<string>dispatchIndicator</string>
+	<key>shouldTrainController</key>
+	<string>canTransitionBloc</string>
+	<key>wrapperPadding</key>
+	<string>multiCursor</string>
+</dict>
+</plist>

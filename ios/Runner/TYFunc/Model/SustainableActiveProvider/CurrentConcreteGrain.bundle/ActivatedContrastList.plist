@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeLoop</key>
+	<string>readProgressBar</string>
+	<key>dedicatedConsumer</key>
+	<string>unlockParticle</string>
+	<key>enabledTabView</key>
+	<string>emitDelegate</string>
+	<key>fixedGroup</key>
+	<string>materializerSkewY</string>
+	<key>nativeFilter</key>
+	<string>mergerAlignment</string>
+	<key>shouldNotifyGesture</key>
+	<string>mediaOpacity</string>
+	<key>zoneBound</key>
+	<string>finishcontraction</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarthreshold</key>
+	<string>sophisticatedAmortization</string>
+	<key>aspectEdge</key>
+	<string>consumerInteraction</string>
+	<key>canvasTint</key>
+	<string>reusableSegue</string>
+	<key>criticalInterface</key>
+	<string>expandedMode</string>
+	<key>mountremainder</key>
+	<string>shouldPublishSwitch</string>
+	<key>rapidCertificate</key>
+	<string>webQueue</string>
+	<key>remediationVisibility</key>
+	<string>dimensionShape</string>
+</dict>
+</plist>

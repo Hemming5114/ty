@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEquipment</key>
+	<string>shouldSetStateDescriptor</string>
+	<key>cardnearstate</key>
+	<string>enhanceinstruction</string>
+	<key>clusterAppearance</key>
+	<string>inflatePoint</string>
+	<key>eventVisibility</key>
+	<string>completermapper</string>
+	<key>finderShade</key>
+	<string>unactivatedMatrix</string>
+	<key>hardCapacities</key>
+	<string>typicalSize</string>
+	<key>lostCompleter</key>
+	<string>batchPressure</string>
+	<key>numericalCheckbox</key>
+	<string>staticAxis</string>
+	<key>shouldpopbloc</key>
+	<string>looptierskewx</string>
+</dict>
+</plist>

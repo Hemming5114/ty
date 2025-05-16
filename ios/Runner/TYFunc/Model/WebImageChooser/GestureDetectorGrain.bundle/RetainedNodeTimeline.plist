@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonFeature</key>
+	<string>shouldsavelog</string>
+	<key>customMaterial</key>
+	<string>mainBandwidth</string>
+	<key>customizedMember</key>
+	<string>axisscheduler</string>
+	<key>mainEvent</key>
+	<string>elasticityHead</string>
+	<key>numericalEqualization</key>
+	<string>repositorycontainchain</string>
+	<key>shouldLayoutSizedBox</key>
+	<string>documentframeworksize</string>
+	<key>unsortedInteger</key>
+	<string>decorationdecoratorforce</string>
+</dict>
+</plist>

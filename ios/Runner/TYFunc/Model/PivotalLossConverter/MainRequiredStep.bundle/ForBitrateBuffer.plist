@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationBound</key>
+	<string>techniquebrightness</string>
+	<key>integertriangles</key>
+	<string>hyperbolicLog</string>
+	<key>isroute</key>
+	<string>secondMesh</string>
+	<key>lazycurveinterval</key>
+	<string>currentBuffer</string>
+	<key>stepbehavior</key>
+	<string>rectangleSpacing</string>
+	<key>tangentDensity</key>
+	<string>strokeFrequency</string>
+</dict>
+</plist>

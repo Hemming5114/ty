@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxaboutmethod</key>
+	<string>canContinueCell</string>
+	<key>configurationfromcontext</key>
+	<string>oldComponent</string>
+	<key>durationcommandlocation</key>
+	<string>scenarioBehavior</string>
+	<key>easySubpixel</key>
+	<string>temporaryShader</string>
+	<key>graphstagefeedback</key>
+	<string>intensityrestriction</string>
+	<key>joinerSkewX</key>
+	<string>liteBox</string>
+	<key>mainDropdownButton</key>
+	<string>activeLoop</string>
+	<key>scenarioBound</key>
+	<string>asynchronousBorder</string>
+</dict>
+</plist>

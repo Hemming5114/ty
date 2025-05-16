@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPlayback</key>
+	<string>memberBrightness</string>
+	<key>deferredCatalyst</key>
+	<string>declarativeReduction</string>
+	<key>immutableData</key>
+	<string>expandedState</string>
+	<key>projectionForce</key>
+	<string>numericalQuaternion</string>
+	<key>shouldContinueDescriptor</key>
+	<string>axisfragments</string>
+	<key>shouldProcessPlate</key>
+	<string>iconMediator</string>
+</dict>
+</plist>

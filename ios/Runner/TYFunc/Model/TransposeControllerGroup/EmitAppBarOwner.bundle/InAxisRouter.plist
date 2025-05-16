@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicHash</key>
+	<string>captionFrequency</string>
+	<key>concurrentRemediation</key>
+	<string>canValidateVariant</string>
+	<key>mediocreBaseline</key>
+	<string>detailLocation</string>
+	<key>othermerger</key>
+	<string>shouldPauseCapacities</string>
+	<key>positionedflags</key>
+	<string>shouldUpdateNib</string>
+	<key>shouldFormatCursor</key>
+	<string>firstEvolution</string>
+	<key>updateskirt</key>
+	<string>shouldDismissIndicator</string>
+</dict>
+</plist>

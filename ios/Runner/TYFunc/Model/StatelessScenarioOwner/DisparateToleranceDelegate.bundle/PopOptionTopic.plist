@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatebrush</key>
+	<string>modelObserver</string>
+	<key>concurrentChapter</key>
+	<string>equalizationdepth</string>
+	<key>creatorAcceleration</key>
+	<string>singlePlayback</string>
+	<key>entropyHead</key>
+	<string>cursorAction</string>
+	<key>hierarchicalcurve</key>
+	<string>elementBottom</string>
+	<key>numericalEvent</key>
+	<string>shouldFinishHero</string>
+	<key>singleTween</key>
+	<string>isdropdownbutton</string>
+	<key>writebuffer</key>
+	<string>mediumFragment</string>
+</dict>
+</plist>

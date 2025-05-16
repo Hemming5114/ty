@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDispatcher</key>
+	<string>tolerancePadding</string>
+	<key>chapterorientation</key>
+	<string>immutableInteger</string>
+	<key>concreteGroup</key>
+	<string>continueawait</string>
+	<key>elasticityFrequency</key>
+	<string>denseCompletion</string>
+	<key>loadfactory</key>
+	<string>materializerInterval</string>
+	<key>onsinetap</key>
+	<string>canRenderMobile</string>
+	<key>serviceAlignment</key>
+	<string>equipmentWork</string>
+	<key>substantialCreator</key>
+	<string>providerinjection</string>
+</dict>
+</plist>

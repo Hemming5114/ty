@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicLinker</key>
+	<string>delicateCanvas</string>
+	<key>clipperconstant</key>
+	<string>immediateTrajectory</string>
+	<key>imageFormat</key>
+	<string>completerTheme</string>
+	<key>lostAnchor</key>
+	<string>animatedcontainerMediator</string>
+	<key>scrollerDirection</key>
+	<string>shouldDeserializeStoryboard</string>
+	<key>sortedcapacitiesformat</key>
+	<string>firstRoute</string>
+</dict>
+</plist>

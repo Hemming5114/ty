@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeResolver</key>
+	<string>semanticSingleton</string>
+	<key>asynchronousCache</key>
+	<string>independentTask</string>
+	<key>evaluationAlignment</key>
+	<string>shouldReplaceConvolution</string>
+	<key>futurefinder</key>
+	<string>canShowTernary</string>
+	<key>groupvariableforce</key>
+	<string>continueTabView</string>
+	<key>otheractionshade</key>
+	<string>binaryMargin</string>
+	<key>resilientconsumption</key>
+	<string>canListenNavigation</string>
+	<key>shouldAnimateVariant</key>
+	<string>reactiveOperation</string>
+	<key>significantDisclaimer</key>
+	<string>convolutionticker</string>
+	<key>usageprovider</key>
+	<string>shouldPrepareController</string>
+</dict>
+</plist>

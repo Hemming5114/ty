@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBound</key>
+	<string>webTaxonomy</string>
+	<key>axisutil</key>
+	<string>axisFacade</string>
+	<key>concurrentConnector</key>
+	<string>lazyLoop</string>
+	<key>histogramparameterduration</key>
+	<string>requestmethodcenter</string>
+	<key>missedPadding</key>
+	<string>nextEfficiency</string>
+	<key>navigatorlikeadapter</key>
+	<string>mutableHistogram</string>
+	<key>tangentStatus</key>
+	<string>enabledTraversal</string>
+</dict>
+</plist>

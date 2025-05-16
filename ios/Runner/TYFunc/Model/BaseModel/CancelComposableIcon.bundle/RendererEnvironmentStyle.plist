@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredRow</key>
+	<string>momentumobject</string>
+	<key>ismaterial</key>
+	<string>specifyNib</string>
+	<key>reductionreplica</key>
+	<string>radioSize</string>
+	<key>scrollableAscent</key>
+	<string>draggableHandler</string>
+	<key>staticMenu</key>
+	<string>canDismissButton</string>
+	<key>tappableGrid</key>
+	<string>tappableLocalization</string>
+	<key>tensorProtocol</key>
+	<string>callbackborder</string>
+	<key>titleimpact</key>
+	<string>unmountedmodal</string>
+	<key>widgetShape</key>
+	<string>storeSpeed</string>
+</dict>
+</plist>

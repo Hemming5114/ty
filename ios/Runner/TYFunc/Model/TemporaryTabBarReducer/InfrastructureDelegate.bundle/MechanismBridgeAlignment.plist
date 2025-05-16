@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVelocity</key>
+	<string>unmountedgradient</string>
+	<key>associatedSample</key>
+	<string>difficultStateless</string>
+	<key>eagerComponent</key>
+	<string>aspectFunction</string>
+	<key>publicMetadata</key>
+	<string>canPublishMaterial</string>
+	<key>shouldPaintMission</key>
+	<string>appendLayer</string>
+	<key>shouldRebuildCell</key>
+	<string>formatRight</string>
+</dict>
+</plist>

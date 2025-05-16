@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellSkewX</key>
+	<string>frameforce</string>
+	<key>eventdepth</key>
+	<string>routearoundphase</string>
+	<key>flexibleProcessor</key>
+	<string>newestOverlay</string>
+	<key>hierarchicalMusic</key>
+	<string>shouldReplaceGraphic</string>
+	<key>impressionInterval</key>
+	<string>shouldNavigateCurve</string>
+	<key>localBitrate</key>
+	<string>symmetricPageView</string>
+	<key>shouldSaveBase</key>
+	<string>basePosition</string>
+</dict>
+</plist>

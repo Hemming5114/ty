@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventduringvalue</key>
+	<string>canMountConstraint</string>
+	<key>lastMargin</key>
+	<string>discoverRadius</string>
+	<key>removebloc</key>
+	<string>resizableDescription</string>
+	<key>statefulTextField</key>
+	<string>spotdirection</string>
+	<key>uniformCoordinator</key>
+	<string>futureValidation</string>
+</dict>
+</plist>

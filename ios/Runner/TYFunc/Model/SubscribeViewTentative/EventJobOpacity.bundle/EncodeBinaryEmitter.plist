@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPlate</key>
+	<string>channelColor</string>
+	<key>backwardChannels</key>
+	<string>canTransformAnchor</string>
+	<key>immediateChannels</key>
+	<string>storyboardTask</string>
+	<key>nodeOrientation</key>
+	<string>efficiencyHead</string>
+	<key>onbullettap</key>
+	<string>notifierIndex</string>
+	<key>pagerDirection</key>
+	<string>invisibleSubpixel</string>
+	<key>responsesingletonname</key>
+	<string>animateprovider</string>
+	<key>shouldCreateMatrix</key>
+	<string>errorVariable</string>
+	<key>shouldFetchTask</key>
+	<string>resilientRadio</string>
+</dict>
+</plist>

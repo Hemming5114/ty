@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisrestriction</key>
+	<string>sortedHandler</string>
+	<key>eventcycleright</key>
+	<string>canSubscribeBoxShadow</string>
+	<key>explicitCertificate</key>
+	<string>denseTopic</string>
+	<key>factoryTag</key>
+	<string>gemBehavior</string>
+	<key>gestureSpeed</key>
+	<string>cloneSingleton</string>
+	<key>segmentmode</key>
+	<string>canPersistKernel</string>
+	<key>shouldStartStamp</key>
+	<string>accessiblePositioned</string>
+	<key>timermend</key>
+	<string>vertexspeed</string>
+</dict>
+</plist>

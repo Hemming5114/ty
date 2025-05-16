@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableScalability</key>
+	<string>bitrateStage</string>
+	<key>futureKind</key>
+	<string>enabledCreator</string>
+	<key>immutableSlash</key>
+	<string>strengthVisible</string>
+	<key>lastClipper</key>
+	<string>shouldDispatchTabBar</string>
+	<key>shouldPopGesture</key>
+	<string>assetOrientation</string>
+</dict>
+</plist>

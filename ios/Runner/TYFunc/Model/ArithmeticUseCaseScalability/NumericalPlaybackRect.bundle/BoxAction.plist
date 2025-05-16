@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalDialogs</key>
+	<string>autoSkirt</string>
+	<key>localizationAlignment</key>
+	<string>textureexcepttask</string>
+	<key>mediathroughmethod</key>
+	<string>invisibleReplica</string>
+	<key>paintconstraint</key>
+	<string>persistentCoordinator</string>
+	<key>responseelement</key>
+	<string>greatTaxonomy</string>
+	<key>shouldFinishBoxShadow</key>
+	<string>canLoadReduction</string>
+	<key>shouldListenSpecifier</key>
+	<string>touchResponse</string>
+	<key>shouldRebuildSensor</key>
+	<string>multiFuture</string>
+	<key>webConnector</key>
+	<string>publicScalability</string>
+</dict>
+</plist>

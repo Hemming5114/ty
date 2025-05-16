@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerAcceleration</key>
+	<string>overlayInset</string>
+	<key>animationShade</key>
+	<string>shouldCacheWorkflow</string>
+	<key>batchprototypealignment</key>
+	<string>shouldTransitionSlash</string>
+	<key>documentValidation</key>
+	<string>shouldDisconnectStep</string>
+	<key>explicitWidget</key>
+	<string>backwardTangent</string>
+	<key>functionalCache</key>
+	<string>shouldattachchallenge</string>
+	<key>keySwift</key>
+	<string>cachedescription</string>
+	<key>lastsubscription</key>
+	<string>isolatecontrast</string>
+	<key>subpixelTint</key>
+	<string>shouldUnbindStateful</string>
+	<key>thresholdTag</key>
+	<string>buildanchor</string>
+</dict>
+</plist>

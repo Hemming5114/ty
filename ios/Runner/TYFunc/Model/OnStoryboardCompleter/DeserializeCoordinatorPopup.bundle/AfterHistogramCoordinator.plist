@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionAlignment</key>
+	<string>escalatefactory</string>
+	<key>fusedThroughput</key>
+	<string>canInflateStamp</string>
+	<key>interactiondelay</key>
+	<string>textfieldDistance</string>
+	<key>intermediateGram</key>
+	<string>webColor</string>
+	<key>providerMode</key>
+	<string>euclideanShape</string>
+	<key>variantRotation</key>
+	<string>associatedThroughput</string>
+</dict>
+</plist>

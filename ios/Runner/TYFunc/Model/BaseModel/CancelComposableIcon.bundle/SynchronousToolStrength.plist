@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureBottom</key>
+	<string>layoutCube</string>
+	<key>geometricSink</key>
+	<string>easyRect</string>
+	<key>notificationIndex</key>
+	<string>yieldNotification</string>
+	<key>resilienceTail</key>
+	<string>annotateMetadata</string>
+	<key>sampleAppearance</key>
+	<string>accordionScope</string>
+	<key>transformerScale</key>
+	<string>decodescreen</string>
+	<key>viewwidget</key>
+	<string>routertaskvisible</string>
+	<key>zoneState</key>
+	<string>channelCount</string>
+</dict>
+</plist>

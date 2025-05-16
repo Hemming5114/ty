@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPrecision</key>
+	<string>formatScaffold</string>
+	<key>musicsincesystem</key>
+	<string>keepBehavior</string>
+	<key>parallelHistogram</key>
+	<string>shouldAttachDropdownButton</string>
+	<key>secondPlate</key>
+	<string>entropyLeft</string>
+	<key>sequentialLabel</key>
+	<string>publisherBound</string>
+	<key>shouldDetachAspect</key>
+	<string>canDismissDocument</string>
+	<key>shouldLayoutTask</key>
+	<string>composableAnalyzer</string>
+</dict>
+</plist>

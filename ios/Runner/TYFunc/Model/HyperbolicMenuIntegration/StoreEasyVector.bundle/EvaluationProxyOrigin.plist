@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVisible</key>
+	<string>revisitException</string>
+	<key>customException</key>
+	<string>appbarsprite</string>
+	<key>eagerDropdownButton</key>
+	<string>cloneDescription</string>
+	<key>newestConfiguration</key>
+	<string>directlyScroller</string>
+	<key>permanentState</key>
+	<string>optimizerPlatform</string>
+	<key>renameintensity</key>
+	<string>notifierduration</string>
+	<key>retainedOperation</key>
+	<string>diffableAction</string>
+	<key>shouldSubscribeKernel</key>
+	<string>uniqueAllocator</string>
+	<key>significantInfo</key>
+	<string>pointBuffer</string>
+</dict>
+</plist>

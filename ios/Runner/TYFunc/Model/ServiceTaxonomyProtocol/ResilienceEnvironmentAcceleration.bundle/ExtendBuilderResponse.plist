@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintandprototype</key>
+	<string>fixedExpanded</string>
+	<key>directTentative</key>
+	<string>liteIntegration</string>
+	<key>fetchprogressbar</key>
+	<string>clipperMediator</string>
+	<key>frameStyle</key>
+	<string>protectedbrushdirection</string>
+	<key>handlerrate</key>
+	<string>diffablemusicopacity</string>
+	<key>interactiveNavigator</key>
+	<string>canBuildEqualization</string>
+	<key>shouldHandleProvider</key>
+	<string>generateTransformer</string>
+	<key>sizeFlags</key>
+	<string>shouldBuildBoxShadow</string>
+	<key>viewpadding</key>
+	<string>accessibleResilience</string>
+</dict>
+</plist>

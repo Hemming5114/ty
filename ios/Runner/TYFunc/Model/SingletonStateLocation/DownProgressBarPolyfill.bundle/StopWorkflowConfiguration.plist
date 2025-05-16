@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorybridgedepth</key>
+	<string>resumeStamp</string>
+	<key>encodefuture</key>
+	<string>optimizeTimer</string>
+	<key>greatSorter</key>
+	<string>architectureSize</string>
+	<key>impactCenter</key>
+	<string>parseFrame</string>
+	<key>logarithmlevelskewx</key>
+	<string>persistentinterface</string>
+	<key>shouldInflateActivity</key>
+	<string>statelessFilter</string>
+	<key>shouldParseClipper</key>
+	<string>reduceAnimation</string>
+	<key>shouldRenderSign</key>
+	<string>diffableRouter</string>
+	<key>sorterCoord</key>
+	<string>secondTitle</string>
+</dict>
+</plist>

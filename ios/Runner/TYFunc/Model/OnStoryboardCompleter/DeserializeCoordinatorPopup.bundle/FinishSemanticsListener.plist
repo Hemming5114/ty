@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorTheme</key>
+	<string>activityShade</string>
+	<key>curvecount</key>
+	<string>modulusformat</string>
+	<key>dedicatedMend</key>
+	<string>paintRow</string>
+	<key>fetchcursor</key>
+	<string>commonEmitter</string>
+	<key>formatPosition</key>
+	<string>gesturePadding</string>
+	<key>intuitiveAspectRatio</key>
+	<string>rectalignment</string>
+	<key>specifierRate</key>
+	<string>detachMap</string>
+	<key>trajectoryLocation</key>
+	<string>checklistFlags</string>
+</dict>
+</plist>

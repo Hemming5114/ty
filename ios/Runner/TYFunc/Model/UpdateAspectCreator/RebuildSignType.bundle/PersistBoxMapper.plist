@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveLayout</key>
+	<string>crucialStore</string>
+	<key>mainSplitter</key>
+	<string>webFlex</string>
+	<key>notifydrawer</key>
+	<string>shouldUnmountedWidget</string>
+	<key>observerduringmediator</key>
+	<string>deprecateSlider</string>
+	<key>sensorLeft</key>
+	<string>convertAnimation</string>
+	<key>sustainableLoader</key>
+	<string>widgetplatformtag</string>
+	<key>unactivatedNotifier</key>
+	<string>quantizerRouter</string>
+</dict>
+</plist>

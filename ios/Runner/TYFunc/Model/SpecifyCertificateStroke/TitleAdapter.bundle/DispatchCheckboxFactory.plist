@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutablePromise</key>
+	<string>buildtabview</string>
+	<key>inkwellBehavior</key>
+	<string>shouldcreatedescriptor</string>
+	<key>reducerposition</key>
+	<string>lastReplica</string>
+	<key>requiredLocalization</key>
+	<string>localRequest</string>
+	<key>respectiveOperation</key>
+	<string>delicateTrigger</string>
+	<key>segueborder</key>
+	<string>resizeFactory</string>
+	<key>sharedScheduler</key>
+	<string>segmenthead</string>
+	<key>traversalType</key>
+	<string>canPublishTool</string>
+</dict>
+</plist>

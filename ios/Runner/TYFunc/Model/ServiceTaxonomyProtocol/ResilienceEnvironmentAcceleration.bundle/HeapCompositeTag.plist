@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReference</key>
+	<string>kernelrestriction</string>
+	<key>architectureColor</key>
+	<string>decorationEnvironment</string>
+	<key>customchartformat</key>
+	<string>monsterVisibility</string>
+	<key>lostcell</key>
+	<string>layerDepth</string>
+	<key>poplayer</key>
+	<string>normalInteger</string>
+	<key>shouldStreamBaseline</key>
+	<string>shouldEncodeEntropy</string>
+	<key>storyboardSkewY</key>
+	<string>temporaryinterface</string>
+</dict>
+</plist>

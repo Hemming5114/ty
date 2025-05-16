@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFrequency</key>
+	<string>diversifiedScheduler</string>
+	<key>eventmaterializer</key>
+	<string>baselineefficiency</string>
+	<key>formatFormat</key>
+	<string>featureContext</string>
+	<key>geometricHero</key>
+	<string>immediateAwait</string>
+	<key>groupdirection</key>
+	<string>eagerComposition</string>
+	<key>reusableVertex</key>
+	<string>canNavigateReference</string>
+</dict>
+</plist>

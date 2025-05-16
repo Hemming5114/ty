@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorname</key>
+	<string>retainedCoordinator</string>
+	<key>declarativeManager</key>
+	<string>providerProxy</string>
+	<key>easyAnimation</key>
+	<string>obtainSprite</string>
+	<key>hashTheme</key>
+	<string>elasticitydensity</string>
+	<key>histogramDistance</key>
+	<string>futureSkewX</string>
+	<key>interactorsplitter</key>
+	<string>positionfeedback</string>
+	<key>semanticTransformer</key>
+	<string>callbackSkewX</string>
+	<key>shouldNavigateSegue</key>
+	<string>descriptorinfo</string>
+	<key>uniquelogtint</key>
+	<string>usedContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvefunctiontransparency</key>
+	<string>backwardAnalogy</string>
+	<key>mechanismRate</key>
+	<string>nextHash</string>
+	<key>metadatacontaincycle</key>
+	<string>endPromise</string>
+	<key>shadernode</key>
+	<string>controllerAlignment</string>
+	<key>synchronousIsolate</key>
+	<string>canSerializeLabel</string>
+</dict>
+</plist>

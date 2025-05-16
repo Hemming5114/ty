@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveQuaternion</key>
+	<string>multiplyTween</string>
+	<key>easyInkWell</key>
+	<string>mobileModule</string>
+	<key>nodeName</key>
+	<string>switchMode</string>
+	<key>normalConverter</key>
+	<string>autoRenderer</string>
+	<key>numericalMaster</key>
+	<string>uniqueChallenge</string>
+	<key>replicaOrigin</key>
+	<string>cellContrast</string>
+	<key>shouldUpdateRemainder</key>
+	<string>lostTriangles</string>
+	<key>singleTween</key>
+	<string>clipperInterval</string>
+	<key>variantmetadata</key>
+	<string>logarithmschema</string>
+</dict>
+</plist>

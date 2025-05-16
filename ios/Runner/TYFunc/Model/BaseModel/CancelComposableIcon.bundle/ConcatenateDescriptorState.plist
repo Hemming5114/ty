@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedProvider</key>
+	<string>onentropytap</string>
+	<key>desktopResult</key>
+	<string>locatenavigator</string>
+	<key>entropyBottom</key>
+	<string>checklistscene</string>
+	<key>hardcompletionposition</key>
+	<string>textShape</string>
+	<key>progressbarprototypestate</key>
+	<string>playbackPadding</string>
+	<key>quaternionSpeed</key>
+	<string>canStopChannels</string>
+	<key>skiperror</key>
+	<string>canValidateLoss</string>
+	<key>subtlegridviewleft</key>
+	<string>graintint</string>
+	<key>sustainableTextField</key>
+	<string>inheritedTabBar</string>
+</dict>
+</plist>

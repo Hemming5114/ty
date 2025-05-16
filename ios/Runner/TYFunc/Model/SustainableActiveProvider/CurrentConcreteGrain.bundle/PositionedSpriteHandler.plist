@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResilience</key>
+	<string>exceptionStyle</string>
+	<key>autoTransformer</key>
+	<string>temporarytransformer</string>
+	<key>persistentArchitecture</key>
+	<string>canParseClipper</string>
+	<key>shouldPaintMovement</key>
+	<string>vectorizeController</string>
+	<key>shouldbindanimatedcontainer</key>
+	<string>directlyColumn</string>
+	<key>techniqueColor</key>
+	<string>oldSpine</string>
+</dict>
+</plist>

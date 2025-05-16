@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseRadius</key>
+	<string>newestInteraction</string>
+	<key>dispatchbinary</key>
+	<string>shouldConnectBuilder</string>
+	<key>mapvolume</key>
+	<string>coordinatorvelocity</string>
+	<key>resolveractivityindex</key>
+	<string>shouldskipactivity</string>
+	<key>shouldStartRadio</key>
+	<string>providerFramework</string>
+	<key>sliderShape</key>
+	<string>retainedLifecycle</string>
+	<key>unactivatedJoiner</key>
+	<string>secondThread</string>
+	<key>vectorOrientation</key>
+	<string>displayableSprite</string>
+</dict>
+</plist>

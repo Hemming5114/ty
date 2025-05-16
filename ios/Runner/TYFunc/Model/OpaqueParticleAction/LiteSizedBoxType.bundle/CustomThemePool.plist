@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveJoiner</key>
+	<string>canUnmountedStamp</string>
+	<key>beginnerpicker</key>
+	<string>grayscalebyform</string>
+	<key>functionalMenu</key>
+	<string>unactivatedDescription</string>
+	<key>invisibleAscent</key>
+	<string>shouldAttachRichText</string>
+	<key>parallelTransition</key>
+	<string>vectorscroller</string>
+</dict>
+</plist>

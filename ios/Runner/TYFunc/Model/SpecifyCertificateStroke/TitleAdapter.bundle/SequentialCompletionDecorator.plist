@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerSize</key>
+	<string>bundleInteractor</string>
+	<key>globalAnimatedContainer</key>
+	<string>hardTrajectory</string>
+	<key>gramName</key>
+	<string>restartHeap</string>
+	<key>shouldConnectExtension</key>
+	<string>findservice</string>
+	<key>shouldDismissStamp</key>
+	<string>replaceMultiplication</string>
+	<key>skiplocalization</key>
+	<string>axisMediator</string>
+	<key>streamrotation</key>
+	<string>hyperbolicAnalogy</string>
+	<key>unsortedOverlay</key>
+	<string>canContinueDialogs</string>
+	<key>usedGradient</key>
+	<string>navigatorEnvironment</string>
+</dict>
+</plist>

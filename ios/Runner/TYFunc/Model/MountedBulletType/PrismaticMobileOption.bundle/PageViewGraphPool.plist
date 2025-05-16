@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastAsset</key>
+	<string>seekCompleter</string>
+	<key>logVelocity</key>
+	<string>canRestartDropdownButton</string>
+	<key>primaryContrast</key>
+	<string>canCreateSkin</string>
+	<key>processortail</key>
+	<string>containervisible</string>
+	<key>shouldPublishMovement</key>
+	<string>videoBehavior</string>
+	<key>soundvelocity</key>
+	<string>canPersistCupertino</string>
+	<key>usedDistinction</key>
+	<string>shouldProcessChecklist</string>
+	<key>wrapperDuration</key>
+	<string>smartPolyfill</string>
+</dict>
+</plist>

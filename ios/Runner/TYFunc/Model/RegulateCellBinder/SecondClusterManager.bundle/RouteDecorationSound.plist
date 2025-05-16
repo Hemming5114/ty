@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncasstructure</key>
+	<string>ignoredLinker</string>
+	<key>equalpriority</key>
+	<string>canRestartNavigation</string>
+	<key>layoutInset</key>
+	<string>serializeGesture</string>
+	<key>mediumConfidentiality</key>
+	<string>brushspeed</string>
+	<key>spotinterpretervelocity</key>
+	<string>exponentTint</string>
+	<key>tappableReceiver</key>
+	<string>optionPhase</string>
+</dict>
+</plist>

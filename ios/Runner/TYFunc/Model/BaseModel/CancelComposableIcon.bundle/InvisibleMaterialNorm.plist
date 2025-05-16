@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartTheme</key>
+	<string>substantialEvolution</string>
+	<key>charttag</key>
+	<string>globalCollection</string>
+	<key>concurrentChecklist</key>
+	<string>comprehensiveBatch</string>
+	<key>imperativeTable</key>
+	<string>gesturevisible</string>
+	<key>interactortime</key>
+	<string>toolobserversaturation</string>
+	<key>missedSlider</key>
+	<string>loadStack</string>
+	<key>persistentModal</key>
+	<string>shouldAttachPlayback</string>
+	<key>textvariableindex</key>
+	<string>cartesianProvision</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderconstraint</key>
+	<string>shouldSetStateFuture</string>
+	<key>clusterSize</key>
+	<string>detachBullet</string>
+	<key>factoryLeft</key>
+	<string>unmarshalInterface</string>
+	<key>intermediateCharacteristic</key>
+	<string>permissiveMerger</string>
+	<key>nextResponse</key>
+	<string>canPushOperation</string>
+	<key>pinchableEvent</key>
+	<string>strengthSpeed</string>
+	<key>shouldHandleStateless</key>
+	<string>shouldShowSession</string>
+	<key>specifyProtocol</key>
+	<string>canFetchSubpixel</string>
+</dict>
+</plist>

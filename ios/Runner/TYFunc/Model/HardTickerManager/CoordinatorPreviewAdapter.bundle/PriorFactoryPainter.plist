@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeutil</key>
+	<string>canValidateBox</string>
+	<key>nibsink</key>
+	<string>intermediateSwitch</string>
+	<key>objectShape</key>
+	<string>sliderAction</string>
+	<key>shouldPushFuture</key>
+	<string>handleSlider</string>
+</dict>
+</plist>

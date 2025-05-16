@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterlikesingleton</key>
+	<string>awaitRotation</string>
+	<key>computepresenter</key>
+	<string>composableLoss</string>
+	<key>cyclecommandcoord</key>
+	<string>quantizationObserver</string>
+	<key>requiredAnalyzer</key>
+	<string>vectorizeMethod</string>
+	<key>shouldSetStateProfile</key>
+	<string>presentDecoration</string>
+	<key>specifyresourcevelocity</key>
+	<string>taskindex</string>
+</dict>
+</plist>

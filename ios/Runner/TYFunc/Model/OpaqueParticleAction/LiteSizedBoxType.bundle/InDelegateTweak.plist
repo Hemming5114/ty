@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartvisible</key>
+	<string>shouldShowSensor</string>
+	<key>consumptionTop</key>
+	<string>canEmitEffect</string>
+	<key>mediaMargin</key>
+	<string>canStreamExpanded</string>
+	<key>pointMargin</key>
+	<string>composableEvolution</string>
+	<key>tappableMediaQuery</key>
+	<string>directlycallbackshape</string>
+</dict>
+</plist>

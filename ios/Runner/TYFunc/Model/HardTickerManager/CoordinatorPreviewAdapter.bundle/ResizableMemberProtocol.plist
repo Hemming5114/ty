@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewFlags</key>
+	<string>independentVideo</string>
+	<key>litethroughput</key>
+	<string>restoreFuture</string>
+	<key>managerShape</key>
+	<string>sceneconstant</string>
+	<key>nativeevent</key>
+	<string>processBorder</string>
+	<key>requiredlifecycle</key>
+	<string>agileAsync</string>
+	<key>synchronousRichText</key>
+	<string>navigatorcenter</string>
+</dict>
+</plist>

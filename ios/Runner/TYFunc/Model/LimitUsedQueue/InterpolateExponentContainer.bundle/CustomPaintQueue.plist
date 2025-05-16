@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalEntity</key>
+	<string>tensorState</string>
+	<key>fusedAppBar</key>
+	<string>currentNib</string>
+	<key>onkerneltap</key>
+	<string>visibleCollection</string>
+	<key>opaqueBoxShadow</key>
+	<string>similarTool</string>
+	<key>statelessMapper</key>
+	<string>declarativeGrid</string>
+</dict>
+</plist>

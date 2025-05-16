@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMultiplication</key>
+	<string>notifierVariable</string>
+	<key>axiscontrast</key>
+	<string>progressbarFrequency</string>
+	<key>fragmentinterpretertail</key>
+	<string>textureValidation</string>
+	<key>shouldTransitionUsage</key>
+	<string>intermediateSegue</string>
+	<key>singlesliderpadding</key>
+	<string>rapidBehavior</string>
+	<key>tabbaroperationfrequency</key>
+	<string>documentStrategy</string>
+</dict>
+</plist>

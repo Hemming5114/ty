@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardPromise</key>
+	<string>visibleEvent</string>
+	<key>playbackphasebehavior</key>
+	<string>invokeSlider</string>
+	<key>shouldAttachSpine</key>
+	<string>mobileDescent</string>
+	<key>similarTool</key>
+	<string>detachTitle</string>
+	<key>specifyLatency</key>
+	<string>cartesianEffect</string>
+</dict>
+</plist>

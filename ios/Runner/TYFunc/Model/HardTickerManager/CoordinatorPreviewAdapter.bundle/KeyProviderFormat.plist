@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableStorage</key>
+	<string>invisibleGrid</string>
+	<key>listenfuture</key>
+	<string>seekResponse</string>
+	<key>parallelEfficiency</key>
+	<string>rotateMetadata</string>
+	<key>pivotalrowindex</key>
+	<string>sensordensity</string>
+	<key>signaturepressure</key>
+	<string>crucialConverter</string>
+</dict>
+</plist>

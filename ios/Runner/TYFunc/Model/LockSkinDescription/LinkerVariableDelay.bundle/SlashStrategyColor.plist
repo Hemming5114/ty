@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicSpacing</key>
+	<string>enhanceTransition</string>
+	<key>dissociatetheme</key>
+	<string>compositionalBrush</string>
+	<key>holdcharacter</key>
+	<string>similarcurvetransparency</string>
+	<key>modulusStyle</key>
+	<string>buttonforce</string>
+	<key>permanentEvolution</key>
+	<string>popActivity</string>
+	<key>shouldDeserializeSymbol</key>
+	<string>formatTouch</string>
+</dict>
+</plist>

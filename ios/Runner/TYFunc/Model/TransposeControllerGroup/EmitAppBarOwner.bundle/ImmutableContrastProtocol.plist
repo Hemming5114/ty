@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStateless</key>
+	<string>canPersistRadio</string>
+	<key>cacheviawork</key>
+	<string>trainSemantics</string>
+	<key>defaultFlex</key>
+	<string>tasklayerdensity</string>
+	<key>evaluationCoord</key>
+	<string>canResumeStateless</string>
+	<key>fusedPet</key>
+	<string>widgetTop</string>
+	<key>gradientFlags</key>
+	<string>eventDirection</string>
+	<key>gramforprototype</key>
+	<string>debugHash</string>
+	<key>mechanismValidation</key>
+	<string>shouldPushKernel</string>
+	<key>parallelUseCase</key>
+	<string>shouldFormatPageView</string>
+	<key>synchronousView</key>
+	<string>immutableChallenge</string>
+</dict>
+</plist>

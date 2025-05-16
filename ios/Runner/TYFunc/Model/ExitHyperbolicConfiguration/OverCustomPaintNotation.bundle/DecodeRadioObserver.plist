@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConverter</key>
+	<string>geometricCompleter</string>
+	<key>beginnerFragment</key>
+	<string>stopCapsule</string>
+	<key>converterSpacing</key>
+	<string>keepTernary</string>
+	<key>functionalStroke</key>
+	<string>activeIntegrity</string>
+	<key>iterativePainter</key>
+	<string>associateAsync</string>
+	<key>shouldDetachFragment</key>
+	<string>shouldEmitSign</string>
+	<key>shouldPrepareInstruction</key>
+	<string>hasFuture</string>
+	<key>shouldRestartConsumer</key>
+	<string>cartesianIsolate</string>
+</dict>
+</plist>

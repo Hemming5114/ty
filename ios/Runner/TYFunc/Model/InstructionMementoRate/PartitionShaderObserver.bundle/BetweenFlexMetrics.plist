@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetimer</key>
+	<string>canEndSine</string>
+	<key>characteristicFeedback</key>
+	<string>interceptOffset</string>
+	<key>descriptorBound</key>
+	<string>protocolBottom</string>
+	<key>fragmentobject</key>
+	<string>sineShape</string>
+	<key>largeSwitch</key>
+	<string>routerOperation</string>
+	<key>listenertail</key>
+	<string>shouldTransitionAppBar</string>
+	<key>permutationStatus</key>
+	<string>missionProcess</string>
+	<key>tweenBehavior</key>
+	<string>deprecateCompleter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanAction</key>
+	<string>eagerStoryboard</string>
+	<key>exponentFlags</key>
+	<string>greatCollection</string>
+	<key>firstSegue</key>
+	<string>granularCursor</string>
+	<key>greatGram</key>
+	<string>heapCenter</string>
+	<key>nextComponent</key>
+	<string>gramvarposition</string>
+	<key>shouldPaintListView</key>
+	<string>resolverBuffer</string>
+	<key>shouldvalidatenib</key>
+	<string>configurationScope</string>
+	<key>singletonsincesingleton</key>
+	<string>shouldSkipPlayback</string>
+</dict>
+</plist>

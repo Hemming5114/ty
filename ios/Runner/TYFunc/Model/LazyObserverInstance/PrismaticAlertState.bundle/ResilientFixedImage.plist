@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideaninteraction</key>
+	<string>requiredModule</string>
+	<key>grainOrigin</key>
+	<string>coordinatorawaykind</string>
+	<key>mobileFilter</key>
+	<string>strokeRate</string>
+	<key>shouldrestartfuture</key>
+	<string>reconcileZone</string>
+	<key>slashformat</key>
+	<string>shouldEncodeSensor</string>
+</dict>
+</plist>

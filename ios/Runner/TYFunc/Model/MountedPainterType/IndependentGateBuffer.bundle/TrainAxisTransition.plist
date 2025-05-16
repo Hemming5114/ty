@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertoutsidebuffer</key>
+	<string>injectAllocator</string>
+	<key>asynchronousanalyzer</key>
+	<string>canObserveText</string>
+	<key>basicPet</key>
+	<string>exitTicker</string>
+	<key>channelTint</key>
+	<string>shouldPaintOptimizer</string>
+	<key>hierarchicalEvolution</key>
+	<string>directlyTabBar</string>
+	<key>shouldRestartSemantics</key>
+	<string>accordionscroller</string>
+	<key>shouldsetstatemedia</key>
+	<string>gramRight</string>
+	<key>signvideo</key>
+	<string>mobileSkewY</string>
+	<key>synchronousExponent</key>
+	<string>fixedTabBar</string>
+	<key>temporaryCreator</key>
+	<string>allocatormementoposition</string>
+</dict>
+</plist>

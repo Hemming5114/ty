@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSensor</key>
+	<string>objectResponse</string>
+	<key>compositionalSingleton</key>
+	<string>lastChannels</string>
+	<key>customschema</key>
+	<string>sortedFinder</string>
+	<key>explicitPublisher</key>
+	<string>shouldDisconnectAccessory</string>
+	<key>fusedAspectRatio</key>
+	<string>shouldMountedGraphic</string>
+	<key>localizationdensity</key>
+	<string>effectVisitor</string>
+	<key>multicapacity</key>
+	<string>beginnerStoryboard</string>
+	<key>semanticdocumentflags</key>
+	<string>eagerCapacities</string>
+</dict>
+</plist>

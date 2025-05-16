@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorsystemforce</key>
+	<string>functionalMobile</string>
+	<key>dissociatereducer</key>
+	<string>equipmentVariable</string>
+	<key>greatStore</key>
+	<string>activeNode</string>
+	<key>mainNode</key>
+	<string>overlayObserver</string>
+	<key>persistentAnalogy</key>
+	<string>vectorMode</string>
+	<key>requiredTask</key>
+	<string>notifyStateless</string>
+	<key>tabbarDistance</key>
+	<string>ongramchanged</string>
+</dict>
+</plist>

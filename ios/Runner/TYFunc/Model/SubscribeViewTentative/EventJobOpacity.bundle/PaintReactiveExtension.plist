@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideaninterpolationrotation</key>
+	<string>numericalTimer</string>
+	<key>immediateBorder</key>
+	<string>euclideanGestureDetector</string>
+	<key>matrixForce</key>
+	<string>cartesianAnimator</string>
+	<key>persistentConstant</key>
+	<string>allocateRequest</string>
+	<key>shouldEndCube</key>
+	<string>canHandleChannels</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorresponse</key>
+	<string>difficultColumn</string>
+	<key>consumptionbehavior</key>
+	<string>basicAsync</string>
+	<key>currentTheme</key>
+	<string>cancelOptimizer</string>
+	<key>defaultConstraint</key>
+	<string>parallelnodeposition</string>
+	<key>gramVisible</key>
+	<string>consultativePromise</string>
+	<key>resolverRotation</key>
+	<string>profileDistance</string>
+	<key>shouldReplaceTangent</key>
+	<string>consumptionTension</string>
+	<key>storeOpacity</key>
+	<string>elasticGestureDetector</string>
+	<key>tablemementopressure</key>
+	<string>canEndDescriptor</string>
+</dict>
+</plist>

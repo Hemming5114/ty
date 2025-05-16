@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateKind</key>
+	<string>webConfidentiality</string>
+	<key>groupVelocity</key>
+	<string>bundleHash</string>
+	<key>materialLeft</key>
+	<string>shouldsetstatescreen</string>
+	<key>similarSignature</key>
+	<string>symbolScope</string>
+	<key>usedLoop</key>
+	<string>streamGift</string>
+</dict>
+</plist>

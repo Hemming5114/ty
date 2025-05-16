@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleancycle</key>
+	<string>showLocalization</string>
+	<key>denseInkWell</key>
+	<string>activateReducer</string>
+	<key>elasticSemantics</key>
+	<string>canMountedScroll</string>
+	<key>lostDependency</key>
+	<string>seamlessConsumer</string>
+	<key>originalInterface</key>
+	<string>multiplyContainer</string>
+	<key>originalVector</key>
+	<string>sizedboxadapteropacity</string>
+	<key>presentposition</key>
+	<string>lazysemantics</string>
+	<key>priorsegue</key>
+	<string>persistentAscent</string>
+</dict>
+</plist>

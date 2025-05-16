@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionTheme</key>
+	<string>prismaticSubscription</string>
+	<key>euclideanWidget</key>
+	<string>actionSkewX</string>
+	<key>shouldNotifyDocument</key>
+	<string>kernelScope</string>
+	<key>shouldcachenorm</key>
+	<string>visualizeBuffer</string>
+	<key>shouldsaveinterpolation</key>
+	<string>beginnergrayscalecolor</string>
+	<key>storageResponse</key>
+	<string>annotatechapter</string>
+	<key>textanimation</key>
+	<string>bindAnimation</string>
+	<key>textpermutation</key>
+	<string>shouldStopBitrate</string>
+</dict>
+</plist>

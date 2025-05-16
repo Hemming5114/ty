@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureBorder</key>
+	<string>storagesearcher</string>
+	<key>composableCupertino</key>
+	<string>canBuildRemainder</string>
+	<key>keyPlate</key>
+	<string>chartdirection</string>
+	<key>petactivityleft</key>
+	<string>transitionTransparency</string>
+	<key>projectCount</key>
+	<string>shouldObserveFuture</string>
+	<key>shouldSerializeNavigation</key>
+	<string>visibleHash</string>
+	<key>significantaperture</key>
+	<string>cartesianSpine</string>
+</dict>
+</plist>

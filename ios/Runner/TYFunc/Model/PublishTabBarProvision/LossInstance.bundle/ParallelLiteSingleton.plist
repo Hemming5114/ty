@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerincludememento</key>
+	<string>liteSprite</string>
+	<key>deferredformat</key>
+	<string>particleActivity</string>
+	<key>independentSign</key>
+	<string>customMesh</string>
+	<key>projectionTransparency</key>
+	<string>actionFormat</string>
+	<key>showskin</key>
+	<string>uniqueException</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileHeap</key>
+	<string>storyboardCycle</string>
+	<key>columnVisible</key>
+	<string>newestAsset</string>
+	<key>infoFeedback</key>
+	<string>mobilecanvasflags</string>
+	<key>resizableAccessory</key>
+	<string>exponentreducer</string>
+	<key>textfieldBound</key>
+	<string>columnBound</string>
+</dict>
+</plist>

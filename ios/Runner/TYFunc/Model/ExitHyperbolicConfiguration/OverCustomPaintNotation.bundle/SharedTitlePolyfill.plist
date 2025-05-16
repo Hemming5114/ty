@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalexpanded</key>
+	<string>canPauseCanvas</string>
+	<key>lastMargin</key>
+	<string>updateCycle</string>
+	<key>reductiontheme</key>
+	<string>canResumeDuration</string>
+	<key>sampledelay</key>
+	<string>boxshadowTail</string>
+	<key>shouldKeepCurve</key>
+	<string>vectorRight</string>
+	<key>shouldPublishAperture</key>
+	<string>decorationDelay</string>
+</dict>
+</plist>

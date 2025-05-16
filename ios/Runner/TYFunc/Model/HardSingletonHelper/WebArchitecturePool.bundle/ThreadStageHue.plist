@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonGradient</key>
+	<string>shearaspect</string>
+	<key>localMetrics</key>
+	<string>usedSubscriber</string>
+	<key>petVisible</key>
+	<string>persistSensor</string>
+	<key>respectiveArchitecture</key>
+	<string>defaultSensor</string>
+	<key>roleDensity</key>
+	<string>observeBase</string>
+	<key>shouldYieldHistogram</key>
+	<string>shouldValidateBuilder</string>
+	<key>yieldsize</key>
+	<string>disparateAllocator</string>
+</dict>
+</plist>

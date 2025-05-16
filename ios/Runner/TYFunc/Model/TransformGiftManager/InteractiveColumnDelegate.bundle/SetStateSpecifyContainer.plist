@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedAlignment</key>
+	<string>canFetchPainter</string>
+	<key>difficultNavigation</key>
+	<string>schedulerTint</string>
+	<key>featureDirection</key>
+	<string>canCancelAlert</string>
+	<key>inactiveCatalyst</key>
+	<string>interfaceStructure</string>
+	<key>observerFormat</key>
+	<string>desktopInjection</string>
+	<key>shouldObserveMap</key>
+	<string>multiSelector</string>
+</dict>
+</plist>

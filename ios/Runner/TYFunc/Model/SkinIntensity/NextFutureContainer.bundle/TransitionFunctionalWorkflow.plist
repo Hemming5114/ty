@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticappbar</key>
+	<string>presentMultiplication</string>
+	<key>awaithue</key>
+	<string>canUnmountCell</string>
+	<key>commonMapper</key>
+	<string>clipperDepth</string>
+	<key>instructionaudio</key>
+	<string>hashCenter</string>
+	<key>multiFlex</key>
+	<string>reactiveDispatcher</string>
+	<key>responseMode</key>
+	<string>concurrentScalability</string>
+	<key>selectedBase</key>
+	<string>canUnmountedCollection</string>
+	<key>statelessAnalogy</key>
+	<string>entropymanager</string>
+	<key>synchronousWidget</key>
+	<string>monstersize</string>
+	<key>tappableSwift</key>
+	<string>standalonePadding</string>
+</dict>
+</plist>

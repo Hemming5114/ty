@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorCenter</key>
+	<string>autoCompleter</string>
+	<key>modalDistance</key>
+	<string>limitDecoration</string>
+	<key>notifiervaluebehavior</key>
+	<string>deserializeGrain</string>
+	<key>opaqueButton</key>
+	<string>petType</string>
+	<key>publicNib</key>
+	<string>invisibleJoiner</string>
+	<key>respectiveEvaluation</key>
+	<string>delicateKernel</string>
+	<key>shouldStopPoint</key>
+	<string>shouldLoadGem</string>
+	<key>skinOpacity</key>
+	<string>reduceFuture</string>
+	<key>variantreducer</key>
+	<string>indicatordelivery</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioName</key>
+	<string>notifierRate</string>
+	<key>autoData</key>
+	<string>replaceDropdownButton</string>
+	<key>permanentBase</key>
+	<string>rebuildCursor</string>
+	<key>priortriangles</key>
+	<string>responderName</string>
+	<key>searchnavigation</key>
+	<string>canParseResource</string>
+	<key>shouldUnmountDescriptor</key>
+	<string>accessiblebinder</string>
+	<key>significantDecoration</key>
+	<string>appendFrame</string>
+	<key>tweakValidation</key>
+	<string>shouldUnmountedAnimation</string>
+</dict>
+</plist>

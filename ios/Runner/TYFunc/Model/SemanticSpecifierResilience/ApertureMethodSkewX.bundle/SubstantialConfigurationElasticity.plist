@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyfragments</key>
+	<string>normparametervelocity</string>
+	<key>disabledReceiver</key>
+	<string>declarativeSorter</string>
+	<key>granularCombiner</key>
+	<string>optimizeAlignment</string>
+	<key>logmomentum</key>
+	<string>providerFlyweight</string>
+	<key>missionloop</key>
+	<string>permanentBinary</string>
+	<key>priortickerorigin</key>
+	<string>accessorymodemargin</string>
+	<key>shouldRouteProvider</key>
+	<string>euclideanWidget</string>
+	<key>symmetricanimation</key>
+	<string>upgradeDelegate</string>
+	<key>workflowMode</key>
+	<string>augmentIsolate</string>
+</dict>
+</plist>

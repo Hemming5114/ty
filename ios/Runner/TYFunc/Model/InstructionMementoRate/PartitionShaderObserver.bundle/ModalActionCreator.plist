@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPainter</key>
+	<string>shouldAttachEffect</string>
+	<key>ascentInteraction</key>
+	<string>notifierComposite</string>
+	<key>awaitState</key>
+	<string>onresourcechanged</string>
+	<key>comprehensivecontrast</key>
+	<string>kernelawaycommand</string>
+	<key>diffablevolume</key>
+	<string>thresholdVisibility</string>
+	<key>promisepressure</key>
+	<string>histogrambrightness</string>
+</dict>
+</plist>

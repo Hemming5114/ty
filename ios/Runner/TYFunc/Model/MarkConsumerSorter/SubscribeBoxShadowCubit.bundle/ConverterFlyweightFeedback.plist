@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatesymbol</key>
+	<string>fetchCustomPaint</string>
+	<key>binarybottom</key>
+	<string>permissiveGesture</string>
+	<key>binderFeedback</key>
+	<string>firstReliability</string>
+	<key>constraintcompleter</key>
+	<string>accordionAction</string>
+	<key>inheritedanalogy</key>
+	<string>skinusecase</string>
+	<key>nextGroup</key>
+	<string>smartDecoration</string>
+	<key>shouldnotifycanvas</key>
+	<string>respondhero</string>
+	<key>synchronousStrength</key>
+	<string>featureTint</string>
+</dict>
+</plist>

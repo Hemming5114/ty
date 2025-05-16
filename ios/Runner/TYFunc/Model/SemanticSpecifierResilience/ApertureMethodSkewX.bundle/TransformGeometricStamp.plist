@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticstore</key>
+	<string>normalFragment</string>
+	<key>basicConfidentiality</key>
+	<string>implementTween</string>
+	<key>responderInterval</key>
+	<string>concurrentGroup</string>
+	<key>sortedRange</key>
+	<string>shouldSubscribeCard</string>
+</dict>
+</plist>

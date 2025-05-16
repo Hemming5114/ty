@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>onmaterialchanged</key>
+	<string>shouldStartModal</string>
+	<key>primaryEqualization</key>
+	<string>euclideanusecasekind</string>
+	<key>shouldstopaspect</key>
+	<string>destroyPresenter</string>
+	<key>temporaryremaindermargin</key>
+	<string>skipRichText</string>
+</dict>
+</plist>

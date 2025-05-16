@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarview</key>
+	<string>mobileStrength</string>
+	<key>canvasInterval</key>
+	<string>shouldFinishGate</string>
+	<key>clusterBottom</key>
+	<string>intensityEdge</string>
+	<key>createbuilder</key>
+	<string>visibleView</string>
+	<key>cupertinoLoss</key>
+	<string>roleHue</string>
+	<key>shouldParseTangent</key>
+	<string>builderevent</string>
+	<key>shouldinflatechecklist</key>
+	<string>canCacheAspectRatio</string>
+	<key>streamindicator</key>
+	<string>instantiateProvider</string>
+	<key>unactivatedFragment</key>
+	<string>advancedStore</string>
+</dict>
+</plist>

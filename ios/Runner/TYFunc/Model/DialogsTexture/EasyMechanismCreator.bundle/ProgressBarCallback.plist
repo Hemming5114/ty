@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pausespecifier</key>
+	<string>impressionRate</string>
+	<key>permutationMargin</key>
+	<string>integrationRate</string>
+	<key>primaryreceiver</key>
+	<string>dialogsBuffer</string>
+	<key>shouldPopSine</key>
+	<string>respectiveSound</string>
+	<key>subtleMaterializer</key>
+	<string>sustainablePager</string>
+</dict>
+</plist>

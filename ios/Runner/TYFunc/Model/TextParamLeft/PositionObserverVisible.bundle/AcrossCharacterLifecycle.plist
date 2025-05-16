@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStyle</key>
+	<string>geometricText</string>
+	<key>arithmeticGestureDetector</key>
+	<string>shouldSubscribeSemantics</string>
+	<key>interactiveHistogram</key>
+	<string>restartAnimation</string>
+	<key>lastAxis</key>
+	<string>histogramRight</string>
+	<key>listenerright</key>
+	<string>cancelArithmetic</string>
+	<key>shouldPresentSkirt</key>
+	<string>encodeNotification</string>
+	<key>shouldcontinuebullet</key>
+	<string>parsePadding</string>
+	<key>shouldpopmobile</key>
+	<string>shouldPrepareInkWell</string>
+	<key>storageKind</key>
+	<string>copyController</string>
+	<key>subscribemanager</key>
+	<string>positionedBrightness</string>
+</dict>
+</plist>

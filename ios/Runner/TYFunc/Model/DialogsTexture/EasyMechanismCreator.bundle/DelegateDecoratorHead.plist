@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumworkflow</key>
+	<string>symbolResponse</string>
+	<key>optionDirection</key>
+	<string>heappadding</string>
+	<key>optionFeedback</key>
+	<string>subtleTentative</string>
+	<key>particleAppearance</key>
+	<string>propagateCurve</string>
+	<key>provisionOrigin</key>
+	<string>shouldMountMovement</string>
+	<key>respectiveMaterial</key>
+	<string>displayableSignature</string>
+	<key>shouldDismissModal</key>
+	<string>flexibleEvent</string>
+	<key>subscriptionformethod</key>
+	<string>dimensionleft</string>
+</dict>
+</plist>

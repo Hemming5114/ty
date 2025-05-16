@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldCreateHistogram</key>
+	<string>normalScheduler</string>
+	<key>shouldNotifyDelegate</key>
+	<string>shouldPrepareDropdownButton</string>
+	<key>tappableImage</key>
+	<string>differentiateAction</string>
+</dict>
+</plist>

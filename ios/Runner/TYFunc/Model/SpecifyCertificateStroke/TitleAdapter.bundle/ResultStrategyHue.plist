@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConvolution</key>
+	<string>bundleAsset</string>
+	<key>composableSchema</key>
+	<string>mainCatalyst</string>
+	<key>concreteEntity</key>
+	<string>workflowJob</string>
+	<key>hashcontrast</key>
+	<string>inheritedAccessory</string>
+	<key>receivertail</key>
+	<string>referenceFunction</string>
+	<key>techniqueTail</key>
+	<string>loopBottom</string>
+</dict>
+</plist>

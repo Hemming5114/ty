@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAction</key>
+	<string>throughputPressure</string>
+	<key>canvasAlignment</key>
+	<string>tasksubscription</string>
+	<key>cursorSize</key>
+	<string>scrollableLoop</string>
+	<key>expandedthroughput</key>
+	<string>shouldAnimateTernary</string>
+	<key>labelCount</key>
+	<string>basicMatrix</string>
+	<key>routevalidation</key>
+	<string>listensubscription</string>
+	<key>sharedTouch</key>
+	<string>otherActivity</string>
+	<key>shouldRestartRichText</key>
+	<string>paintNotification</string>
+</dict>
+</plist>

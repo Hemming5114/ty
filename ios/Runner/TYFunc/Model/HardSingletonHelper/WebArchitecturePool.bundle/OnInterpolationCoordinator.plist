@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCapacity</key>
+	<string>descriptionwithoutoperation</string>
+	<key>concreteScreen</key>
+	<string>mediumInteraction</string>
+	<key>concurrentExpanded</key>
+	<string>kernelTag</string>
+	<key>draggableStamp</key>
+	<string>presenterCount</string>
+	<key>histogramBottom</key>
+	<string>lossEdge</string>
+	<key>labelsystemmode</key>
+	<string>showScene</string>
+	<key>pagerLocation</key>
+	<string>analyzeZone</string>
+	<key>unsortedMaterializer</key>
+	<string>managerCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkmaterial</key>
+	<string>attachVector</string>
+	<key>cartesianhash</key>
+	<string>coordinatorstate</string>
+	<key>difficultmediaquery</key>
+	<string>spineDuration</string>
+	<key>dynamichashlocation</key>
+	<string>canvasslider</string>
+	<key>invokeshader</key>
+	<string>canUnmountOperation</string>
+	<key>routeContrast</key>
+	<string>canStreamCanvas</string>
+	<key>shouldPaintBehavior</key>
+	<string>agileTouch</string>
+	<key>shouldUnmountedObserver</key>
+	<string>largeblocmomentum</string>
+	<key>specifierresilience</key>
+	<string>painterDirection</string>
+	<key>vertexDelay</key>
+	<string>shouldCancelEqualization</string>
+</dict>
+</plist>

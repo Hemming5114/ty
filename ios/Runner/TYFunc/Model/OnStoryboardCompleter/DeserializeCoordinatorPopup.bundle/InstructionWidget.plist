@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentstatus</key>
+	<string>undertakeGrain</string>
+	<key>arithmeticAlignment</key>
+	<string>gridBehavior</string>
+	<key>autoAxis</key>
+	<string>visibleisolatecontrast</string>
+	<key>entropyShape</key>
+	<string>hashOffset</string>
+	<key>providerType</key>
+	<string>subtleDependency</string>
+	<key>shouldPaintPriority</key>
+	<string>temporarySubscriber</string>
+	<key>shouldnotifycontraction</key>
+	<string>projectionProxy</string>
+</dict>
+</plist>

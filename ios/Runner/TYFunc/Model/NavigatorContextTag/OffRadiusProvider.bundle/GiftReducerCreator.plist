@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyProcessor</key>
+	<string>gridLayer</string>
+	<key>requestLocation</key>
+	<string>containerStyle</string>
+	<key>shouldStreamOptimizer</key>
+	<string>normalInfrastructure</string>
+	<key>standaloneMechanism</key>
+	<string>transformerKind</string>
+	<key>timercount</key>
+	<string>addConstraint</string>
+	<key>usedprofile</key>
+	<string>transformerpainter</string>
+</dict>
+</plist>

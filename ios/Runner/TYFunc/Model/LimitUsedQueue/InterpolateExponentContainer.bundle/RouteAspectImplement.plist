@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPositioned</key>
+	<string>converterInteraction</string>
+	<key>eagerNorm</key>
+	<string>modalStage</string>
+	<key>handletool</key>
+	<string>cardSystem</string>
+	<key>makecell</key>
+	<string>consumeHandler</string>
+	<key>shouldRestartTernary</key>
+	<string>textEnvironment</string>
+</dict>
+</plist>

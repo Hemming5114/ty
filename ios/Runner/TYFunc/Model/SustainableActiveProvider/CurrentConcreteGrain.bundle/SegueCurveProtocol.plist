@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAperture</key>
+	<string>audioright</string>
+	<key>asynchronouseventstatus</key>
+	<string>signChain</string>
+	<key>deliveryforce</key>
+	<string>extensionChain</string>
+	<key>markwidget</key>
+	<string>setstateSine</string>
+	<key>shaderlocation</key>
+	<string>sineBuffer</string>
+	<key>sharedExpanded</key>
+	<string>initializenavigation</string>
+	<key>similarExpanded</key>
+	<string>quaternionvisibility</string>
+	<key>stopbloc</key>
+	<string>otherScroller</string>
+</dict>
+</plist>

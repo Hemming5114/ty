@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDispatcher</key>
+	<string>ignoredChooser</string>
+	<key>endmetadata</key>
+	<string>parsenavigator</string>
+	<key>geometricAspectRatio</key>
+	<string>ignoredmusic</string>
+	<key>handleappbar</key>
+	<string>textFacade</string>
+	<key>intermediateAnimator</key>
+	<string>radioProcess</string>
+	<key>optionplatformleft</key>
+	<string>materialBound</string>
+	<key>pinchableAperture</key>
+	<string>sophisticatedDocument</string>
+	<key>requiredOverlay</key>
+	<string>canInflateRadio</string>
+	<key>responsiveDrawer</key>
+	<string>serializecompleter</string>
+	<key>storageinterpretercontrast</key>
+	<string>shouldUpdateCell</string>
+</dict>
+</plist>

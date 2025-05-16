@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitinfo</key>
+	<string>defaultMember</string>
+	<key>basicButton</key>
+	<string>mountedInkWell</string>
+	<key>buffersize</key>
+	<string>quitfragment</string>
+	<key>offsetForce</key>
+	<string>generateTransformer</string>
+	<key>permissivetriangles</key>
+	<string>impactScale</string>
+	<key>shouldStopSkin</key>
+	<string>persistentStream</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredwidget</key>
+	<string>denseFragments</string>
+	<key>entityselector</key>
+	<string>rectMethod</string>
+	<key>prevstoryboard</key>
+	<string>smartBuffer</string>
+	<key>primaryNorm</key>
+	<string>ephemeralCallback</string>
+	<key>resizableRemediation</key>
+	<string>threadmetadata</string>
+	<key>shouldBuildGate</key>
+	<string>textAction</string>
+	<key>significantNavigator</key>
+	<string>notifierobservertop</string>
+</dict>
+</plist>

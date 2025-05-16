@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentgesture</key>
+	<string>shouldUnbindContraction</string>
+	<key>dynamicLoss</key>
+	<string>priorProfile</string>
+	<key>notifyresolver</key>
+	<string>tableNumber</string>
+	<key>pivotalScalability</key>
+	<string>completionvarvisibility</string>
+	<key>scaffoldAlignment</key>
+	<string>propagateDelegate</string>
+	<key>shouldKeepCosine</key>
+	<string>substantialconfigurationcontrast</string>
+	<key>shouldSetStateConstraint</key>
+	<string>provideAsset</string>
+	<key>singletonShade</key>
+	<string>shaderAlignment</string>
+	<key>standalonecolumn</key>
+	<string>shouldMountTabBar</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTint</key>
+	<string>canInflatePlayback</string>
+	<key>framecontrast</key>
+	<string>modelTransparency</string>
+	<key>iterativeProjection</key>
+	<string>persistNorm</string>
+	<key>onsegmentchanged</key>
+	<string>exitSize</string>
+	<key>radiusascontext</key>
+	<string>filterVisibility</string>
+	<key>reducerconnector</key>
+	<string>playVector</string>
+	<key>savesink</key>
+	<string>unsortedRepository</string>
+</dict>
+</plist>

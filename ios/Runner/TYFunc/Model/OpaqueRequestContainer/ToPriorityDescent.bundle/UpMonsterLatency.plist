@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBound</key>
+	<string>bundleStream</string>
+	<key>matrixTransparency</key>
+	<string>deprecateGrid</string>
+	<key>shouldPublishAperture</key>
+	<string>controllertiershade</string>
+	<key>shouldSerializeGridView</key>
+	<string>tickerscoperight</string>
+	<key>shouldStopButton</key>
+	<string>cubitState</string>
+	<key>splitterCount</key>
+	<string>reusableVariant</string>
+	<key>thememementomode</key>
+	<string>canStopDialogs</string>
+</dict>
+</plist>

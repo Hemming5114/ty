@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeBrush</key>
+	<string>semanticTabView</string>
+	<key>iterativeSwift</key>
+	<string>unactivatedJoiner</string>
+	<key>persistcollection</key>
+	<string>dismissCompletion</string>
+	<key>serviceparamtag</key>
+	<string>imperativeNotation</string>
+	<key>shouldAttachFuture</key>
+	<string>factoryPosition</string>
+	<key>shouldTrainSensor</key>
+	<string>elasticResponse</string>
+</dict>
+</plist>

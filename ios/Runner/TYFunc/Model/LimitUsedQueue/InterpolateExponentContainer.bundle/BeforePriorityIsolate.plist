@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionright</key>
+	<string>prioritySkewY</string>
+	<key>captiontieroffset</key>
+	<string>dropdownbuttonDensity</string>
+	<key>clipperfromshape</key>
+	<string>infoDelay</string>
+	<key>equipmentOffset</key>
+	<string>cursorVar</string>
+	<key>routernearfacade</key>
+	<string>specifyGrain</string>
+	<key>sharednotation</key>
+	<string>temporaryInkWell</string>
+	<key>shouldDeserializeCell</key>
+	<string>graphicAction</string>
+	<key>unsortedConfiguration</key>
+	<string>blocpolyfill</string>
+	<key>usagecycleinset</key>
+	<string>substantialElasticity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>implementroute</key>
+	<string>zonebehavior</string>
+	<key>listenermementobrightness</key>
+	<string>framelevelcenter</string>
+	<key>nextMission</key>
+	<string>shouldListenPainter</string>
+	<key>retainedIsolate</key>
+	<string>canParseOptimizer</string>
+	<key>semanticService</key>
+	<string>integrityStatus</string>
+	<key>shouldSerializeButton</key>
+	<string>hierarchicalDisclaimer</string>
+	<key>usedAction</key>
+	<string>shouldPrepareSizedBox</string>
+</dict>
+</plist>

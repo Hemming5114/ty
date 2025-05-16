@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>membertask</key>
+	<string>smartfinder</string>
+	<key>reactiveSize</key>
+	<string>mainEqualization</string>
+	<key>scrollershape</key>
+	<string>adjustrequest</string>
+</dict>
+</plist>

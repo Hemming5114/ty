@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilecardorientation</key>
+	<string>dependencyTail</string>
+	<key>callbackanimation</key>
+	<string>canPopGate</string>
+	<key>directBitrate</key>
+	<string>parseBorder</string>
+	<key>inheritedBase</key>
+	<string>mapperTheme</string>
+	<key>oninkwelltap</key>
+	<string>exceptionVelocity</string>
+	<key>scaffoldContrast</key>
+	<string>checkRoute</string>
+</dict>
+</plist>

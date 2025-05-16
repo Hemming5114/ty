@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteEquivalent</key>
+	<string>typicalBuilder</string>
+	<key>deferredCharacteristic</key>
+	<string>canLayoutGate</string>
+	<key>extendstoryboard</key>
+	<string>stopSlash</string>
+	<key>tabviewStyle</key>
+	<string>statefulScenario</string>
+</dict>
+</plist>

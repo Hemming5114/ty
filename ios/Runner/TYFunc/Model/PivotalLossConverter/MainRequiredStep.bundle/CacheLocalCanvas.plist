@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarysplitter</key>
+	<string>canBindSubpixel</string>
+	<key>currentMechanism</key>
+	<string>shouldRestartModal</string>
+	<key>durationInteraction</key>
+	<string>mediumQuaternion</string>
+	<key>infrastructureTag</key>
+	<string>shouldinflatestateless</string>
+	<key>playbackDuration</key>
+	<string>adaptiveTransition</string>
+	<key>restrictionOffset</key>
+	<string>canReplaceSegue</string>
+	<key>shouldProcessReduction</key>
+	<string>hierarchicalLifecycle</string>
+</dict>
+</plist>

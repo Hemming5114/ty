@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstConstant</key>
+	<string>localMaterializer</string>
+	<key>pickerState</key>
+	<string>resizableCompletion</string>
+	<key>shouldUpdateGrayscale</key>
+	<string>sortedexpanded</string>
+	<key>texturerotation</key>
+	<string>asynchronouslayout</string>
+	<key>transformerstructureposition</key>
+	<string>graphicbeyondadapter</string>
+</dict>
+</plist>

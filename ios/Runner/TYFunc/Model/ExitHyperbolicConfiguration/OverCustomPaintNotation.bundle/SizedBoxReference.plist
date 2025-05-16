@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMenu</key>
+	<string>canAttachBase</string>
+	<key>columnStyle</key>
+	<string>challengemode</string>
+	<key>deserializemaster</key>
+	<string>endContainer</string>
+	<key>resourceCenter</key>
+	<string>immediateReplica</string>
+	<key>skiptransition</key>
+	<string>instructionHue</string>
+	<key>smartScope</key>
+	<string>shouldDetachUsage</string>
+	<key>temporaryAwait</key>
+	<string>shouldEmitDuration</string>
+</dict>
+</plist>

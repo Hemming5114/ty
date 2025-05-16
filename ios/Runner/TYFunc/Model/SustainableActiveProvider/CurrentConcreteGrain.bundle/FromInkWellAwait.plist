@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterContrast</key>
+	<string>semanticLayer</string>
+	<key>lazySchema</key>
+	<string>hierarchicalconverter</string>
+	<key>oldchecklist</key>
+	<string>gradientSystem</string>
+	<key>profilePressure</key>
+	<string>unsortedInterpolation</string>
+	<key>scrollableGridView</key>
+	<string>interactionColor</string>
+	<key>spineShade</key>
+	<string>cacheSegment</string>
+	<key>statefulprocessshade</key>
+	<string>calculateUtil</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDetector</key>
+	<string>logarithmIndex</string>
+	<key>completerframeworkinteraction</key>
+	<string>bindGrayscale</string>
+	<key>consumerRotation</key>
+	<string>secondTangent</string>
+	<key>creatorDuration</key>
+	<string>robustSprite</string>
+	<key>robustSound</key>
+	<string>sliderfinder</string>
+	<key>shouldSetStateInkWell</key>
+	<string>unactivatedsize</string>
+	<key>signatureBrightness</key>
+	<string>adaptivePadding</string>
+	<key>stampTop</key>
+	<string>themeVar</string>
+</dict>
+</plist>

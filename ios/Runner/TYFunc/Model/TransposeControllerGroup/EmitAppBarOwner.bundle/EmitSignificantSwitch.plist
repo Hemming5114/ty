@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedObserver</key>
+	<string>normalMenu</string>
+	<key>activatedSingleton</key>
+	<string>processresource</string>
+	<key>benchmarktool</key>
+	<string>parseTask</string>
+	<key>concurrentCombiner</key>
+	<string>serviceborder</string>
+	<key>decorationSkewY</key>
+	<string>durationperprototype</string>
+	<key>euclideanNotifier</key>
+	<string>activityFormat</string>
+	<key>keyModel</key>
+	<string>onaspectratiochanged</string>
+	<key>mobileResponder</key>
+	<string>tappableTimeline</string>
+	<key>prevCupertino</key>
+	<string>validateDuration</string>
+	<key>shouldDispatchGift</key>
+	<string>diffableProfile</string>
+</dict>
+</plist>

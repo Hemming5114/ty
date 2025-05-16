@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoversprite</key>
+	<string>extensionPattern</string>
+	<key>firstlocalization</key>
+	<string>observeProgressBar</string>
+	<key>greatresource</key>
+	<string>eagerScroll</string>
+	<key>iconSkewX</key>
+	<string>canPopBuilder</string>
+	<key>informationName</key>
+	<string>equipmentStyle</string>
+	<key>requiredRemainder</key>
+	<string>timerName</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorpressure</key>
+	<string>labelparamdensity</string>
+	<key>animatedResource</key>
+	<string>shouldrebuildmobile</string>
+	<key>detectorEdge</key>
+	<string>shouldConnectCompletion</string>
+	<key>gestureState</key>
+	<string>methodCoord</string>
+	<key>handlerascent</key>
+	<string>significantTransformer</string>
+	<key>navigatorBound</key>
+	<string>animatedTransition</string>
+	<key>permanentCustomPaint</key>
+	<string>canContinueDuration</string>
+	<key>tabviewnearcomposite</key>
+	<string>bundleTween</string>
+</dict>
+</plist>

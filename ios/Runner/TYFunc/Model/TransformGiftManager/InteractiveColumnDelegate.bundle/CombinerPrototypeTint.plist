@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterTag</key>
+	<string>materialRow</string>
+	<key>criticalScreen</key>
+	<string>appendWidget</string>
+	<key>cursorType</key>
+	<string>stringifyAsync</string>
+	<key>ephemeralAudio</key>
+	<string>spriteFunction</string>
+	<key>explicitLatency</key>
+	<string>routeTextField</string>
+	<key>shouldPersistGate</key>
+	<string>greatMaster</string>
+</dict>
+</plist>

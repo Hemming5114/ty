@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultBinder</key>
+	<string>canConnectMonster</string>
+	<key>elasticContraction</key>
+	<string>drawerright</string>
+	<key>providertrigger</key>
+	<string>shouldEmitChecklist</string>
+	<key>shouldEndTangent</key>
+	<string>implementcache</string>
+</dict>
+</plist>

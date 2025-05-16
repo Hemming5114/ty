@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralGradient</key>
+	<string>unactivatedgroup</string>
+	<key>featureactionformat</key>
+	<string>advancedConsumer</string>
+	<key>fixedPrecision</key>
+	<string>canHandleEffect</string>
+	<key>newestModule</key>
+	<string>diffablePromise</string>
+	<key>permanentwidgetdelay</key>
+	<string>aspectinterval</string>
+	<key>responsiveReduction</key>
+	<string>shapeSpeed</string>
+	<key>semanticrolespacing</key>
+	<string>observeEntropy</string>
+	<key>shouldValidateEntropy</key>
+	<string>popupBehavior</string>
+	<key>significantPlayback</key>
+	<string>cubitDepth</string>
+	<key>startthread</key>
+	<string>euclideanradiusmode</string>
+</dict>
+</plist>

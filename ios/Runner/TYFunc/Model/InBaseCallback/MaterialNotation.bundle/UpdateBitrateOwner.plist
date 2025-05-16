@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeFrequency</key>
+	<string>geometricClipper</string>
+	<key>desktopStack</key>
+	<string>yieldCoordinator</string>
+	<key>isolateresponder</key>
+	<string>decouplelayout</string>
+	<key>materialorigin</key>
+	<string>emitSymbol</string>
+	<key>shouldDisposeModulus</key>
+	<string>hashOrigin</string>
+	<key>shouldInflateArithmetic</key>
+	<string>unregisterLabel</string>
+	<key>viewsingletonspeed</key>
+	<string>shouldRestartExpanded</string>
+</dict>
+</plist>

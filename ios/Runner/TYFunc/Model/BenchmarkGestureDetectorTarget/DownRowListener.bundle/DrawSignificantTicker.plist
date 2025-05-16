@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAlpha</key>
+	<string>unsortedEntity</string>
+	<key>buttonType</key>
+	<string>computeGraph</string>
+	<key>chooserRate</key>
+	<string>textVelocity</string>
+	<key>imperativeException</key>
+	<string>formatRadio</string>
+	<key>shouldAttachInterpolation</key>
+	<string>reducertag</string>
+	<key>shouldFetchResource</key>
+	<string>sophisticatedFlex</string>
+	<key>shouldTransitionStep</key>
+	<string>specifyShape</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionappearance</key>
+	<string>layerWork</string>
+	<key>exceptionobserverflags</key>
+	<string>streamreducer</string>
+	<key>lazyStateful</key>
+	<string>associateCurve</string>
+	<key>pagerCoord</key>
+	<string>unsortedBase</string>
+	<key>semanticRow</key>
+	<string>defaultcard</string>
+</dict>
+</plist>

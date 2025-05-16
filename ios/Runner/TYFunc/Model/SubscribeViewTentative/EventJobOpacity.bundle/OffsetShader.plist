@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseSelector</key>
+	<string>animateInstruction</string>
+	<key>drawerDepth</key>
+	<string>permissivefuturetransparency</string>
+	<key>integrationShade</key>
+	<string>associatedImage</string>
+	<key>lazyRequest</key>
+	<string>shouldSetStateAspect</string>
+	<key>reactivegraphicspacing</key>
+	<string>decodeBehavior</string>
+	<key>shouldDispatchClipper</key>
+	<string>prismaticGram</string>
+	<key>shouldlistengrayscale</key>
+	<string>pinchablePlayback</string>
+</dict>
+</plist>

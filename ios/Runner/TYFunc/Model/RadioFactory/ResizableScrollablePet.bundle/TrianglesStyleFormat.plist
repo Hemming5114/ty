@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeinsidelayer</key>
+	<string>appendController</string>
+	<key>dispatchhash</key>
+	<string>deferredWrapper</string>
+	<key>normaldependency</key>
+	<string>touchController</string>
+	<key>optiontail</key>
+	<string>bulletIndex</string>
+	<key>primarygifttension</key>
+	<string>independentCharacteristic</string>
+	<key>resourcesingleton</key>
+	<string>customizedconfiguration</string>
+	<key>shouldDispatchIcon</key>
+	<string>activeStrength</string>
+	<key>shouldlayoutalpha</key>
+	<string>dismisssizedbox</string>
+	<key>substantialPet</key>
+	<string>immutableLinker</string>
+</dict>
+</plist>

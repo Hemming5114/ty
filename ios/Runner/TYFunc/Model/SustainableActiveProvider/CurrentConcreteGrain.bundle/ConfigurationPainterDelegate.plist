@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>islogarithm</key>
+	<string>entityTop</string>
+	<key>semanticsstorage</key>
+	<string>unactivatedModule</string>
+	<key>shouldContinueSegment</key>
+	<string>canSaveSemantics</string>
+	<key>shouldFinishDocument</key>
+	<string>animationhead</string>
+	<key>substantialStateless</key>
+	<string>statelessScalability</string>
+	<key>tableMode</key>
+	<string>curveFlags</string>
+	<key>tappableCharacter</key>
+	<string>directlyMobile</string>
+	<key>timelineinteraction</key>
+	<string>signParameter</string>
+</dict>
+</plist>

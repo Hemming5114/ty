@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRemainder</key>
+	<string>bindBase</string>
+	<key>combinerdepth</key>
+	<string>popvector</string>
+	<key>draggablemechanism</key>
+	<string>sortedinteractorborder</string>
+	<key>lostMedia</key>
+	<string>interactorStage</string>
+	<key>notifierCenter</key>
+	<string>unbindhandler</string>
+	<key>originalBoxShadow</key>
+	<string>immutableTask</string>
+	<key>staticBullet</key>
+	<string>declarativesingleton</string>
+	<key>viewnumbertension</key>
+	<string>frameStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalImpact</key>
+	<string>destroyGrain</string>
+	<key>modelCount</key>
+	<string>permanentchannel</string>
+	<key>singleInformation</key>
+	<string>dedicatedChannel</string>
+	<key>textfieldtheme</key>
+	<string>statusCount</string>
+</dict>
+</plist>

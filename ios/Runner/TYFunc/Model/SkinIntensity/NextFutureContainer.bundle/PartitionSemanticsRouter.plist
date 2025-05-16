@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionmodel</key>
+	<string>tickerScale</string>
+	<key>ephemeralcardformat</key>
+	<string>statelesshashforce</string>
+	<key>explicitFilter</key>
+	<string>mountScroll</string>
+	<key>profilezone</key>
+	<string>chapterContext</string>
+	<key>reusableinteractor</key>
+	<string>allocatorBehavior</string>
+	<key>shouldStartIcon</key>
+	<string>timelinePosition</string>
+	<key>synchronousMultiplication</key>
+	<string>maxTextField</string>
+	<key>temporarychannel</key>
+	<string>listenCoordinator</string>
+	<key>traversalVisible</key>
+	<string>retainedTraversal</string>
+	<key>workflowSize</key>
+	<string>upgradestep</string>
+</dict>
+</plist>

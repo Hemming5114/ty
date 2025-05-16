@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionOffset</key>
+	<string>plateFacade</string>
+	<key>consumptionColor</key>
+	<string>disparatevector</string>
+	<key>contractionDuration</key>
+	<string>provisionDelay</string>
+	<key>featurepager</key>
+	<string>easyPriority</string>
+	<key>sceneCoord</key>
+	<string>discardedActivity</string>
+	<key>shouldPopNotifier</key>
+	<string>ismonster</string>
+</dict>
+</plist>

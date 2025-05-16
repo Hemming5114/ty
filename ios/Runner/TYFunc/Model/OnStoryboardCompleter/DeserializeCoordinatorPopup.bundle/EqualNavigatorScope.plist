@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAscent</key>
+	<string>retainedThreshold</string>
+	<key>playbackinset</key>
+	<string>fetchSegue</string>
+	<key>receiveparticle</key>
+	<string>cycleOpacity</string>
+	<key>sensorStatus</key>
+	<string>resumeThread</string>
+	<key>standaloneArchitecture</key>
+	<string>trajectoryCenter</string>
+	<key>statefulMetrics</key>
+	<string>canDetachSemantics</string>
+</dict>
+</plist>

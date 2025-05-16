@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPopup</key>
+	<string>shouldUnmountedReduction</string>
+	<key>graphicSpeed</key>
+	<string>lastMediaQuery</string>
+	<key>immutableImage</key>
+	<string>profileStream</string>
+	<key>parallelInterface</key>
+	<string>cyclespacing</string>
+	<key>scaletweak</key>
+	<string>localRadius</string>
+	<key>synchronousInfrastructure</key>
+	<string>shouldSkipText</string>
+	<key>uniformPreview</key>
+	<string>canPresentRoute</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalCharacteristic</key>
+	<string>shouldFetchRemainder</string>
+	<key>pivotalAscent</key>
+	<string>materialLayer</string>
+	<key>prismaticLatency</key>
+	<string>listviewSkewX</string>
+	<key>reusablewidgetcount</key>
+	<string>declarativeScroller</string>
+	<key>shouldResumeTabBar</key>
+	<string>shouldRebuildBorder</string>
+	<key>shouldStopBuilder</key>
+	<string>diffablePublisher</string>
+</dict>
+</plist>

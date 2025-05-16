@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoconfigurationdirection</key>
+	<string>interpolateInjection</string>
+	<key>efficiencyborder</key>
+	<string>canStopSine</string>
+	<key>geometricbrush</key>
+	<string>priorityInterval</string>
+	<key>hardMediaQuery</key>
+	<string>efficiencyShape</string>
+	<key>nativeAwait</key>
+	<string>responsivealignmentresponse</string>
+	<key>segueposition</key>
+	<string>shouldCreateScreen</string>
+</dict>
+</plist>

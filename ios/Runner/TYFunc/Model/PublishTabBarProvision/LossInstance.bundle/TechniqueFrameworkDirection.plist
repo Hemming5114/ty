@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStyle</key>
+	<string>textfieldRight</string>
+	<key>infrastructureInset</key>
+	<string>layoutJob</string>
+	<key>oldcapsule</key>
+	<string>canMountCompletion</string>
+	<key>sampleStyle</key>
+	<string>shouldtrainconvolution</string>
+	<key>shouldDispatchGraphic</key>
+	<string>sequentialCubit</string>
+	<key>symmetricScheduler</key>
+	<string>validateCache</string>
+	<key>texturebandwidth</key>
+	<string>dimensionDuration</string>
+</dict>
+</plist>

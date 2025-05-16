@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumCell</key>
+	<string>effectthreshold</string>
+	<key>multiCollection</key>
+	<string>particleOperation</string>
+	<key>nodeAcceleration</key>
+	<string>intermediateSemantics</string>
+	<key>skipdecoration</key>
+	<string>menuwithoutchain</string>
+</dict>
+</plist>

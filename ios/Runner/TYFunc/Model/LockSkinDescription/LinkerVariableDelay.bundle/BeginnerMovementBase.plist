@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleBottom</key>
+	<string>shouldTransitionShader</string>
+	<key>confidentialityBehavior</key>
+	<string>lazyProject</string>
+	<key>easyVolume</key>
+	<string>canSetStateEntropy</string>
+	<key>occasionStatus</key>
+	<string>firstService</string>
+	<key>retrieveswift</key>
+	<string>tensorElement</string>
+	<key>shouldObserveBoxShadow</key>
+	<string>disparateDisclaimer</string>
+	<key>shouldcreateprofile</key>
+	<string>constraintbrightness</string>
+	<key>uniformLatency</key>
+	<string>persistentProgressBar</string>
+</dict>
+</plist>

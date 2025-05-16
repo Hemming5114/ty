@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartspeed</key>
+	<string>timeFrequency</string>
+	<key>configurationproxyindex</key>
+	<string>elasticRequest</string>
+	<key>defaultStep</key>
+	<string>temporaryAlignment</string>
+	<key>easyReference</key>
+	<string>filterOpacity</string>
+	<key>robustListView</key>
+	<string>unmountedexception</string>
+	<key>shouldKeepTable</key>
+	<string>channelandfacade</string>
+	<key>staticindicatortail</key>
+	<string>canBindReference</string>
+	<key>symmetricThread</key>
+	<string>diffableCompleter</string>
+	<key>textureIndex</key>
+	<string>animatedunaryvelocity</string>
+	<key>vectormomentum</key>
+	<string>contractionSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAspectRatio</key>
+	<string>arithmeticBox</string>
+	<key>modulusrotation</key>
+	<string>eagerHash</string>
+	<key>prevticker</key>
+	<string>quaternionSpeed</string>
+	<key>shouldFormatRole</key>
+	<string>blocofplatform</string>
+	<key>shouldobservetransition</key>
+	<string>gradientoffset</string>
+	<key>thresholdDepth</key>
+	<string>reactiveFormat</string>
+	<key>wrapalpha</key>
+	<string>shouldDisconnectCell</string>
+</dict>
+</plist>

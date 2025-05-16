@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedUtil</key>
+	<string>spotDepth</string>
+	<key>commoneventfrequency</key>
+	<string>activatedReplica</string>
+	<key>creatorFeedback</key>
+	<string>respondChapter</string>
+	<key>dedicatedinjectionbound</key>
+	<string>significantProfile</string>
+	<key>ephemeralRenderer</key>
+	<string>characterObserver</string>
+	<key>pausecompleter</key>
+	<string>respectiveSizedBox</string>
+	<key>shouldInflateNotifier</key>
+	<string>asynchronousWidget</string>
+	<key>shouldKeepNib</key>
+	<string>cancelInterpolation</string>
+	<key>shouldParseTable</key>
+	<string>errortype</string>
+	<key>shouldSetStateGestureDetector</key>
+	<string>standaloneawaitdirection</string>
+</dict>
+</plist>

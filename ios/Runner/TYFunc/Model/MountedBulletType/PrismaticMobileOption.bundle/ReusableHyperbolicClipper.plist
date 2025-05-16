@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentMenu</key>
+	<string>loadNotifier</string>
+	<key>deferredGift</key>
+	<string>singletonVisitor</string>
+	<key>fixedSegue</key>
+	<string>unsortedEntity</string>
+	<key>giftMomentum</key>
+	<string>descriptortopic</string>
+	<key>loopColor</key>
+	<string>canSetStateBorder</string>
+	<key>otherRecursion</key>
+	<string>explicitController</string>
+</dict>
+</plist>

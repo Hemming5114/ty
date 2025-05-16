@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticstrength</key>
+	<string>shouldListenStateful</string>
+	<key>delicateAnimation</key>
+	<string>dividePosition</string>
+	<key>eagerVariant</key>
+	<string>contrasttransparency</string>
+	<key>graphicstyle</key>
+	<string>priorAsset</string>
+	<key>lifecycleAppearance</key>
+	<string>makeAwait</string>
+	<key>priorgate</key>
+	<string>canContinueActivity</string>
+	<key>propagateallocator</key>
+	<string>zoneRight</string>
+	<key>shouldLoadComposition</key>
+	<string>yieldWidget</string>
+	<key>shoulddeserializeswift</key>
+	<string>axisIndex</string>
+</dict>
+</plist>

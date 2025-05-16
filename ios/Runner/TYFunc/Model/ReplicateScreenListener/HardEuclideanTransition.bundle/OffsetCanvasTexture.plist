@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCaption</key>
+	<string>prepareBullet</string>
+	<key>contrastfrequency</key>
+	<string>cartesianaxistheme</string>
+	<key>declarativeBinder</key>
+	<string>pendingStream</string>
+	<key>explicitSink</key>
+	<string>immutableNotation</string>
+	<key>invisibleManager</key>
+	<string>handlersplitter</string>
+	<key>numericalInteger</key>
+	<string>autoScroller</string>
+	<key>optimizerShade</key>
+	<string>canCachePromise</string>
+	<key>reactiveException</key>
+	<string>flexMomentum</string>
+	<key>relationalGram</key>
+	<string>invokeRoute</string>
+</dict>
+</plist>

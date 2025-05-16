@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratestateful</key>
+	<string>usageSingleton</string>
+	<key>autochallenge</key>
+	<string>skipgrayscale</string>
+	<key>canceltouch</key>
+	<string>usecaseShade</string>
+	<key>converterFrequency</key>
+	<string>crucialfeaturedensity</string>
+	<key>nodemechanism</key>
+	<string>reconciletouch</string>
+	<key>optimizewidget</key>
+	<string>tickerPosition</string>
+	<key>parallelCell</key>
+	<string>originalReceiver</string>
+	<key>rotatesegue</key>
+	<string>canLoadMedia</string>
+	<key>stepvarstyle</key>
+	<string>directController</string>
+</dict>
+</plist>

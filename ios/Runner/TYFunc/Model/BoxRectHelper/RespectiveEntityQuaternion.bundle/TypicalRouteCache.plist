@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachtimer</key>
+	<string>maintainText</string>
+	<key>difficultSample</key>
+	<string>desktopTitle</string>
+	<key>ignoredpopupforce</key>
+	<string>restartAnimatedContainer</string>
+	<key>lastFragment</key>
+	<string>mobilemaster</string>
+	<key>lastallocatortype</key>
+	<string>shouldMountMovement</string>
+	<key>shouldConnectSymbol</key>
+	<string>commonactionmargin</string>
+	<key>smallSignature</key>
+	<string>coordinatorName</string>
+</dict>
+</plist>

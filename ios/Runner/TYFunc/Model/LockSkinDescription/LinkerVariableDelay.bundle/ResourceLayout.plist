@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticResponse</key>
+	<string>notationDuration</string>
+	<key>commonRenderer</key>
+	<string>embedLayer</string>
+	<key>cubeFeedback</key>
+	<string>gemMemento</string>
+	<key>protectedStatus</key>
+	<string>mediumBrush</string>
+	<key>rapidConfiguration</key>
+	<string>synchronousDescent</string>
+	<key>scaleForce</key>
+	<string>equalNavigator</string>
+	<key>tablefacaderotation</key>
+	<string>canPrepareInkWell</string>
+	<key>typicalBandwidth</key>
+	<string>formatsink</string>
+</dict>
+</plist>

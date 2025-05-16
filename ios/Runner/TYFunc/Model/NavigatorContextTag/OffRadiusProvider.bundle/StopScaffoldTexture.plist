@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileScroller</key>
+	<string>mapTop</string>
+	<key>alignmentconstant</key>
+	<string>widgetincludecontext</string>
+	<key>basicUnary</key>
+	<string>concatenateChapter</string>
+	<key>immediateConfiguration</key>
+	<string>shouldvalidatespecifier</string>
+	<key>methodasmemento</key>
+	<string>staticlistener</string>
+	<key>prevscenario</key>
+	<string>canCreateNotifier</string>
+	<key>shouldEndMonster</key>
+	<string>schedulerAcceleration</string>
+</dict>
+</plist>

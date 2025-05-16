@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autotable</key>
+	<string>roleoftask</string>
+	<key>desktopAlert</key>
+	<string>standaloneMusic</string>
+	<key>pinchableQueue</key>
+	<string>deferredRequest</string>
+	<key>sharedPet</key>
+	<string>formatFrequency</string>
+	<key>shouldCancelComposition</key>
+	<string>mutableMethod</string>
+	<key>shouldLoadNotifier</key>
+	<string>tensorPositioned</string>
+	<key>tabviewawait</key>
+	<string>boxposition</string>
+</dict>
+</plist>

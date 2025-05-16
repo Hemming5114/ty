@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveinteraction</key>
+	<string>elasticRole</string>
+	<key>catalystscene</key>
+	<string>shouldEmitCupertino</string>
+	<key>clipperDuration</key>
+	<string>apertureState</string>
+	<key>composableFuture</key>
+	<string>interactorhead</string>
+	<key>diffableInfo</key>
+	<string>evaluationOrigin</string>
+	<key>exceptionlikestate</key>
+	<string>makeListener</string>
+	<key>iterativeThreshold</key>
+	<string>deactivateSize</string>
+	<key>searchcustompaint</key>
+	<string>factoryAlignment</string>
+</dict>
+</plist>

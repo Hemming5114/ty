@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTask</key>
+	<string>optimizeLabel</string>
+	<key>embracepopup</key>
+	<string>connectPet</string>
+	<key>shouldDeserializeCompletion</key>
+	<string>publicStoryboard</string>
+	<key>shouldListenProject</key>
+	<string>routesizedbox</string>
+	<key>shouldShowNavigator</key>
+	<string>webOperation</string>
+	<key>shouldmounttext</key>
+	<string>defaultPositioned</string>
+	<key>unsortedPlayback</key>
+	<string>restoreDelegate</string>
+</dict>
+</plist>

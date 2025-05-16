@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentlinker</key>
+	<string>checkexponent</string>
+	<key>customizedTextField</key>
+	<string>smartSizedBox</string>
+	<key>intuitiveActivity</key>
+	<string>assetbyprototype</string>
+	<key>mediocreDropdownButton</key>
+	<string>advancedHeap</string>
+	<key>pageviewHue</key>
+	<string>granularOption</string>
+	<key>prismaticTopic</key>
+	<string>frameForce</string>
+	<key>provisionFormat</key>
+	<string>mainReplica</string>
+	<key>smallWrapper</key>
+	<string>canTrainView</string>
+	<key>taskfeedback</key>
+	<string>enhanceBloc</string>
+</dict>
+</plist>

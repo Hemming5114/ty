@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineVisibility</key>
+	<string>robustRectangle</string>
+	<key>createradio</key>
+	<string>hasRoute</string>
+	<key>functionalProgressBar</key>
+	<string>lockAwait</string>
+	<key>shouldDeserializeInstruction</key>
+	<string>shaderduration</string>
+	<key>sizeStyle</key>
+	<string>completershade</string>
+</dict>
+</plist>

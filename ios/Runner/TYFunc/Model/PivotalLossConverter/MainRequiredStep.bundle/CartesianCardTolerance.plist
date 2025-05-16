@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerLoss</key>
+	<string>rowVisible</string>
+	<key>pinchableProject</key>
+	<string>tabbarName</string>
+	<key>prismaticError</key>
+	<string>stampFrequency</string>
+	<key>scrollableTaxonomy</key>
+	<string>subtleroute</string>
+	<key>semanticDocument</key>
+	<string>completedFuture</string>
+	<key>shouldPaintFlex</key>
+	<string>cacheMovement</string>
+	<key>textureslider</key>
+	<string>richtextTail</string>
+	<key>triggerOffset</key>
+	<string>canEndWidget</string>
+</dict>
+</plist>

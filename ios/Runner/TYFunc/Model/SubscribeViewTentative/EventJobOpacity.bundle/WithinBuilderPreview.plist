@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMode</key>
+	<string>modalState</string>
+	<key>desktopSign</key>
+	<string>lazySine</string>
+	<key>dimensionresponse</key>
+	<string>clusterfrequency</string>
+	<key>firstpositioned</key>
+	<string>canCancelMaterial</string>
+	<key>groupdrawer</key>
+	<string>subsequentVariant</string>
+	<key>shouldrestartmission</key>
+	<string>euclideandata</string>
+	<key>slashLeft</key>
+	<string>providermethodorientation</string>
+</dict>
+</plist>

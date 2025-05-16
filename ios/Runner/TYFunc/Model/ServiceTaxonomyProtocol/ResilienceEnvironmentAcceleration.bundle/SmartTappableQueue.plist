@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableReference</key>
+	<string>displayableSkirt</string>
+	<key>eagerbrushsize</key>
+	<string>mountedloop</string>
+	<key>hashdecoratorbrightness</key>
+	<string>contractionLocation</string>
+	<key>independentInterpolation</key>
+	<string>streamPainter</string>
+	<key>keyFrame</key>
+	<string>layoutDropdownButton</string>
+	<key>keyListener</key>
+	<string>documentAdapter</string>
+	<key>shouldfetchaspectratio</key>
+	<string>fusedAlignment</string>
+	<key>shouldsubscribealert</key>
+	<string>streamstrategyedge</string>
+	<key>trainstoryboard</key>
+	<string>statelesssink</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentcontextdelay</key>
+	<string>modelhead</string>
+	<key>denseIndicator</key>
+	<string>canRenderDecoration</string>
+	<key>dynamicAmortization</key>
+	<string>pendingLoss</string>
+	<key>immediatenode</key>
+	<string>seekResponse</string>
+	<key>navigatororparam</key>
+	<string>multiplicationBridge</string>
+	<key>selectedbinary</key>
+	<string>offsetStructure</string>
+	<key>subscribeisolate</key>
+	<string>canTrainMatrix</string>
+</dict>
+</plist>

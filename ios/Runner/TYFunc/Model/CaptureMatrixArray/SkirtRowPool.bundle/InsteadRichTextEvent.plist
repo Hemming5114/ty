@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentmodel</key>
+	<string>retainedGroup</string>
+	<key>dismissreducer</key>
+	<string>mastertaskalignment</string>
+	<key>diversifiedDecoration</key>
+	<string>routerHue</string>
+	<key>liteDescriptor</key>
+	<string>canBindAnchor</string>
+	<key>multiTouch</key>
+	<string>rectifystoryboard</string>
+	<key>shouldSubscribeLayout</key>
+	<string>canConnectSegue</string>
+	<key>viewrouter</key>
+	<string>freeMethod</string>
+</dict>
+</plist>

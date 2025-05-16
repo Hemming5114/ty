@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permanenttaskresponse</key>
+	<string>decodespine</string>
+	<key>shouldAnimateSegue</key>
+	<string>encapsulateCurve</string>
+	<key>shouldContinueScale</key>
+	<string>tangentStructure</string>
+	<key>smallcompleter</key>
+	<string>adaptiveTheme</string>
+</dict>
+</plist>

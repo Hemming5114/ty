@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasthanaction</key>
+	<string>pickerBehavior</string>
+	<key>composableProgressBar</key>
+	<string>nextBinary</string>
+	<key>fusedSearcher</key>
+	<string>prismaticsignstyle</string>
+	<key>particleconsumption</key>
+	<string>missedSubpixel</string>
+	<key>profiletransformer</key>
+	<string>shouldRebuildSign</string>
+	<key>reusableSink</key>
+	<string>rapidInfo</string>
+	<key>semanticthreshold</key>
+	<string>menuBound</string>
+	<key>shouldPersistMatrix</key>
+	<string>petRotation</string>
+</dict>
+</plist>

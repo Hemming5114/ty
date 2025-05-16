@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEquipment</key>
+	<string>intermediateInfo</string>
+	<key>activeSkirt</key>
+	<string>routeDimension</string>
+	<key>hardInformation</key>
+	<string>reusablenotation</string>
+	<key>localAsync</key>
+	<string>crucialGraph</string>
+	<key>localContraction</key>
+	<string>keymechanism</string>
+	<key>replacechapter</key>
+	<string>canFetchView</string>
+	<key>sharedzonestyle</key>
+	<string>widgetscale</string>
+	<key>shouldtransitionsegue</key>
+	<string>displayableStack</string>
+	<key>storedescent</key>
+	<string>canSubscribeHero</string>
+	<key>tensorTimer</key>
+	<string>publicSegment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialLatency</key>
+	<string>rowCoord</string>
+	<key>diffableImpression</key>
+	<string>linkerName</string>
+	<key>liteTitle</key>
+	<string>sessionCommand</string>
+	<key>otherAscent</key>
+	<string>mediavisible</string>
+	<key>permanentInteger</key>
+	<string>invisibleTaxonomy</string>
+	<key>pinchableMusic</key>
+	<string>makeFuture</string>
+	<key>poolradius</key>
+	<string>shouldUnbindResource</string>
+	<key>publicRole</key>
+	<string>arithmeticRole</string>
+</dict>
+</plist>

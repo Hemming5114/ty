@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInterface</key>
+	<string>normalColumn</string>
+	<key>localsubscriptiontail</key>
+	<string>shouldReplaceStoryboard</string>
+	<key>preparechallenge</key>
+	<string>equipmentTier</string>
+	<key>protectedSlider</key>
+	<string>shouldRestartNavigator</string>
+	<key>rowincludeadapter</key>
+	<string>optimizeOffset</string>
+	<key>shouldReplaceOverlay</key>
+	<string>hierarchicalFactory</string>
+	<key>showparticle</key>
+	<string>mutableLinker</string>
+</dict>
+</plist>

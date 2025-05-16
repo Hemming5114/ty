@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionlistener</key>
+	<string>updatesegment</string>
+	<key>animatedtexture</key>
+	<string>timersubscriber</string>
+	<key>durationSaturation</key>
+	<string>usageVariable</string>
+	<key>optionchapter</key>
+	<string>fetchObserver</string>
+	<key>shouldObserveExponent</key>
+	<string>skirtinterface</string>
+	<key>shouldValidateMaterial</key>
+	<string>deferredButton</string>
+	<key>streamlinealert</key>
+	<string>rowAcceleration</string>
+	<key>unschedulestorage</key>
+	<string>fusedanimationkind</string>
+	<key>usecaselikestructure</key>
+	<string>shouldCancelCursor</string>
+</dict>
+</plist>

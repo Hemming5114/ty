@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableRepository</key>
+	<string>webInformation</string>
+	<key>onprioritychanged</key>
+	<string>shouldUnbindScale</string>
+	<key>priorityoutsideform</key>
+	<string>similarTopic</string>
+	<key>sharedMonster</key>
+	<string>delicateStroke</string>
+	<key>shouldParseStateless</key>
+	<string>restrictionPadding</string>
+	<key>shouldinflatecell</key>
+	<string>responsiveSubscriber</string>
+</dict>
+</plist>

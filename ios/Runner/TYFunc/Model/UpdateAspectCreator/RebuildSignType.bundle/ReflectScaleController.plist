@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customReducer</key>
+	<string>repositoryRight</string>
+	<key>inactiveTouch</key>
+	<string>haswidget</string>
+	<key>modelAcceleration</key>
+	<string>canTransformScreen</string>
+	<key>previewcount</key>
+	<string>popupContrast</string>
+	<key>shouldfinishoptimizer</key>
+	<string>resolvePresenter</string>
+</dict>
+</plist>

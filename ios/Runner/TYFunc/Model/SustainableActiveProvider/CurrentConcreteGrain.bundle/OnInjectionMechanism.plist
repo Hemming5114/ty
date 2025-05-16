@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateType</key>
+	<string>fetchView</string>
+	<key>channelstatetension</key>
+	<string>similarCache</string>
+	<key>ephemeralCompletion</key>
+	<string>shouldBindAlert</string>
+	<key>greatExpanded</key>
+	<string>bundleLayout</string>
+	<key>liteAnimation</key>
+	<string>integritycolor</string>
+	<key>offsetstatus</key>
+	<string>storyboardStatus</string>
+	<key>shouldObserveFragment</key>
+	<string>positionappearance</string>
+	<key>vectorScale</key>
+	<string>channeloutsidecontext</string>
+</dict>
+</plist>

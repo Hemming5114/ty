@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushstroke</key>
+	<string>emitGradient</string>
+	<key>cellSpacing</key>
+	<string>sinkBridge</string>
+	<key>currentcache</key>
+	<string>measureAction</string>
+	<key>durationfrequency</key>
+	<string>granularSize</string>
+	<key>shoulddisconnectsample</key>
+	<string>storyboardName</string>
+	<key>statusMode</key>
+	<string>canTransformNorm</string>
+	<key>uniformLayer</key>
+	<string>specifierInteraction</string>
+</dict>
+</plist>

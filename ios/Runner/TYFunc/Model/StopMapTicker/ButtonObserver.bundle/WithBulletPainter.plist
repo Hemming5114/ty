@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSwitch</key>
+	<string>canTrainMultiplication</string>
+	<key>commonStorage</key>
+	<string>updateMonster</string>
+	<key>deactivateasync</key>
+	<string>bindWorkflow</string>
+	<key>parallelSymbol</key>
+	<string>concurrentReplica</string>
+	<key>playbackexception</key>
+	<string>showzone</string>
+	<key>shouldHandleDuration</key>
+	<string>subtleAllocator</string>
+	<key>subscribeusecase</key>
+	<string>shouldSkipPoint</string>
+	<key>uniqueData</key>
+	<string>canReplaceRemainder</string>
+</dict>
+</plist>

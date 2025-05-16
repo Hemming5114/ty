@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBinary</key>
+	<string>shouldNavigateBehavior</string>
+	<key>directlyDelivery</key>
+	<string>measureStorage</string>
+	<key>documentorientation</key>
+	<string>extendarithmetic</string>
+	<key>fusedDialogs</key>
+	<string>intuitiveScroller</string>
+	<key>immutablePublisher</key>
+	<string>symmetricPresenter</string>
+	<key>notifierDensity</key>
+	<string>repositoryTension</string>
+	<key>smallView</key>
+	<string>displaylabel</string>
+</dict>
+</plist>

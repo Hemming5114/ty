@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalVolume</key>
+	<string>canResumeBloc</string>
+	<key>integrationTag</key>
+	<string>observeNotification</string>
+	<key>prevFragment</key>
+	<string>canSetStateSkirt</string>
+	<key>retainscaffold</key>
+	<string>batchPressure</string>
+	<key>seamlessDuration</key>
+	<string>metricsacceleration</string>
+	<key>shaderagainstvisitor</key>
+	<string>canResumePet</string>
+	<key>shouldLoadSession</key>
+	<string>trainDrawer</string>
+	<key>subsequentWorkflow</key>
+	<string>obtainReducer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isThread</key>
+	<string>missedAnimatedContainer</string>
+	<key>shouldDetachEntropy</key>
+	<string>gridObserver</string>
+	<key>shouldProcessStateful</key>
+	<string>specifyGift</string>
+	<key>shouldStreamCollection</key>
+	<string>largeIntegrity</string>
+	<key>singleInteractor</key>
+	<string>chartType</string>
+	<key>standalonePlayback</key>
+	<string>cancelEffect</string>
+</dict>
+</plist>

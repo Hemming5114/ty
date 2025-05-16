@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPromise</key>
+	<string>resultEnvironment</string>
+	<key>cupertinoScenario</key>
+	<string>temporaryDrawer</string>
+	<key>defaultmovement</key>
+	<string>textexceptmediator</string>
+	<key>diversifiedStoryboard</key>
+	<string>activeNode</string>
+	<key>explicitStoryboard</key>
+	<string>denseAscent</string>
+	<key>sizeOffset</key>
+	<string>canDispatchStream</string>
+	<key>sophisticatedEvent</key>
+	<string>sensorOffset</string>
+</dict>
+</plist>

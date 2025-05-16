@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluateerror</key>
+	<string>sustainableRange</string>
+	<key>liteTentative</key>
+	<string>descriptionWork</string>
+	<key>mainsegue</key>
+	<string>canPersistCheckbox</string>
+	<key>scopeVisible</key>
+	<string>mediaawayobserver</string>
+	<key>setupbitrate</key>
+	<string>sustainableScheduler</string>
+	<key>shouldmountedpoint</key>
+	<string>shouldInflateChecklist</string>
+	<key>streamtiertag</key>
+	<string>splitterDuration</string>
+</dict>
+</plist>

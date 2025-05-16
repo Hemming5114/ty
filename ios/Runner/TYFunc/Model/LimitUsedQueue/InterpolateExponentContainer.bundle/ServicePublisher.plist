@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalvertex</key>
+	<string>liteTechnique</string>
+	<key>mapperBound</key>
+	<string>brushvarleft</string>
+	<key>shouldtransformalpha</key>
+	<string>sceneAlignment</string>
+	<key>temporaryAudio</key>
+	<string>resumesubscription</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTheme</key>
+	<string>featuresplitter</string>
+	<key>inactiveAnalyzer</key>
+	<string>multiSubscription</string>
+	<key>metricsoffset</key>
+	<string>discardedNode</string>
+	<key>missedVolume</key>
+	<string>movementVisibility</string>
+	<key>originalResponse</key>
+	<string>pendingResource</string>
+	<key>positionsound</key>
+	<string>multidelegatemargin</string>
+	<key>publishershade</key>
+	<string>canLayoutGate</string>
+</dict>
+</plist>

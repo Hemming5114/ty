@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticdistance</key>
+	<string>consultativeAxis</string>
+	<key>catalystMode</key>
+	<string>staticDescription</string>
+	<key>descentdensity</key>
+	<string>greatSplitter</string>
+	<key>dynamicnotation</key>
+	<string>futureFunction</string>
+	<key>globalMetrics</key>
+	<string>permutationLocation</string>
+	<key>offsetsaturation</key>
+	<string>iterativeCycle</string>
+	<key>requestdirection</key>
+	<string>equipmentSystem</string>
+	<key>shouldRebuildChallenge</key>
+	<string>statusAcceleration</string>
+	<key>streamworksize</key>
+	<string>notificationPhase</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushSize</key>
+	<string>rectLeft</string>
+	<key>equalizationAppearance</key>
+	<string>imperativePopup</string>
+	<key>groupstyle</key>
+	<string>responsiveMusic</string>
+	<key>interactoragainstparameter</key>
+	<string>reducerState</string>
+	<key>isolateforcycle</key>
+	<string>accessibleTable</string>
+	<key>maingraph</key>
+	<string>concatenateFrame</string>
+</dict>
+</plist>

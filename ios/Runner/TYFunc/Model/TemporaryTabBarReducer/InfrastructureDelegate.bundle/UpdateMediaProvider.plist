@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationmodule</key>
+	<string>webInformation</string>
+	<key>diversifiedTweak</key>
+	<string>oldDispatcher</string>
+	<key>finderStatus</key>
+	<string>disconnectBoxShadow</string>
+	<key>shouldBindTernary</key>
+	<string>animatedcontainerSpeed</string>
+	<key>specifyStroke</key>
+	<string>adjustCoordinator</string>
+	<key>temporaryLabel</key>
+	<string>desktopProvider</string>
+</dict>
+</plist>

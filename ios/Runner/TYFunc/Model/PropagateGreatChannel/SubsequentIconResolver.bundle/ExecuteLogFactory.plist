@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedListView</key>
+	<string>newestDistinction</string>
+	<key>dedicatedgrayscaleshape</key>
+	<string>canNavigateDropdownButton</string>
+	<key>enabledTolerance</key>
+	<string>standaloneSizedBox</string>
+	<key>seamlessBullet</key>
+	<string>largeInformation</string>
+	<key>storelocation</key>
+	<string>bindCaption</string>
+	<key>touchprocesscount</key>
+	<string>transformShader</string>
+</dict>
+</plist>

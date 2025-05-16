@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationquaternion</key>
+	<string>pointCoord</string>
+	<key>customPageView</key>
+	<string>diversifiedAllocator</string>
+	<key>groupconfidentiality</key>
+	<string>customizedBorder</string>
+	<key>imperativeTechnique</key>
+	<string>firstrowalignment</string>
+	<key>independentTimer</key>
+	<string>disconnectManager</string>
+	<key>objectresponse</key>
+	<string>shouldShowBehavior</string>
+	<key>relationalElasticity</key>
+	<string>shouldBindThread</string>
+	<key>reusableroute</key>
+	<string>operationbymode</string>
+	<key>rolebound</key>
+	<string>respectiveEquivalent</string>
+</dict>
+</plist>

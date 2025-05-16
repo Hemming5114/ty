@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationAlignment</key>
+	<string>desktoprenderer</string>
+	<key>asynchronousConvolution</key>
+	<string>previewbesidesystem</string>
+	<key>functionalShape</key>
+	<string>typicalblocpressure</string>
+	<key>infrastructureRate</key>
+	<string>colorHue</string>
+	<key>shouldInflateMediaQuery</key>
+	<string>firstRichText</string>
+	<key>shouldMountedSample</key>
+	<string>sizedboxspeed</string>
+	<key>shouldPublishSession</key>
+	<string>pushCaption</string>
+	<key>shouldYieldEffect</key>
+	<string>shouldSetStateStamp</string>
+	<key>statefullinker</key>
+	<string>originalSize</string>
+</dict>
+</plist>

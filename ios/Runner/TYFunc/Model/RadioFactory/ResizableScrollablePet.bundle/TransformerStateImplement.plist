@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedExpanded</key>
+	<string>prevBehavior</string>
+	<key>requiredisolateskewy</key>
+	<string>provisionsize</string>
+	<key>seamlessTask</key>
+	<string>analogyrotation</string>
+	<key>shouldInflateWidget</key>
+	<string>canMountedScroll</string>
+</dict>
+</plist>

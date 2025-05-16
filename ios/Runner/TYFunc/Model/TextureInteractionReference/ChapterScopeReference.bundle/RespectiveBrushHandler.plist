@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marshalgradient</key>
+	<string>statefulformat</string>
+	<key>memberInterval</key>
+	<string>shouldPaintStateful</string>
+	<key>meshState</key>
+	<string>directsubscriber</string>
+	<key>nodesincetier</key>
+	<string>storagevalidation</string>
+	<key>protectedModule</key>
+	<string>uniqueMaterializer</string>
+	<key>shouldPushGrayscale</key>
+	<string>documentintype</string>
+</dict>
+</plist>

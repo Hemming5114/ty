@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionframeworkpadding</key>
+	<string>promiseFeedback</string>
+	<key>animationTop</key>
+	<string>declarativeResponder</string>
+	<key>inkwellCoord</key>
+	<string>unmountedNavigator</string>
+	<key>mutableTabView</key>
+	<string>shouldDismissProjection</string>
+	<key>shouldFormatTable</key>
+	<string>implementconstraint</string>
+</dict>
+</plist>

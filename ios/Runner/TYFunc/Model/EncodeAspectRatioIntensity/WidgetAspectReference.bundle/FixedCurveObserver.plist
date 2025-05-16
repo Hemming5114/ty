@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationincludeprocess</key>
+	<string>disconnectProtocol</string>
+	<key>arithmeticPrecision</key>
+	<string>fragmentdependency</string>
+	<key>eagerSink</key>
+	<string>shouldRenderExponent</string>
+	<key>granularStateful</key>
+	<string>radiusatvar</string>
+	<key>inheritedTechnique</key>
+	<string>persistentRadius</string>
+	<key>mediocreState</key>
+	<string>canStreamCube</string>
+	<key>shouldTrainExpanded</key>
+	<string>continuespecifier</string>
+	<key>transitionmodal</key>
+	<string>gridposition</string>
+</dict>
+</plist>

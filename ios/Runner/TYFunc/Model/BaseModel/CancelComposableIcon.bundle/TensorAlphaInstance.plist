@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTension</key>
+	<string>materialFragments</string>
+	<key>disabledReplica</key>
+	<string>similarAsset</string>
+	<key>globalbullet</key>
+	<string>independentgesturevisible</string>
+	<key>greatBox</key>
+	<string>canSaveScale</string>
+	<key>interactiveSpot</key>
+	<string>textResponse</string>
+	<key>prevLocalization</key>
+	<string>audioSpacing</string>
+	<key>resiliencePadding</key>
+	<string>tensorStep</string>
+	<key>resultTheme</key>
+	<string>toolBound</string>
+	<key>statelessskewx</key>
+	<string>gridviewOrigin</string>
+</dict>
+</plist>

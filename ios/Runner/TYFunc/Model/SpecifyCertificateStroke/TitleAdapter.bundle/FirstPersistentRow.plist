@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directscroll</key>
+	<string>mediumpreviewscale</string>
+	<key>disabledImage</key>
+	<string>radiusBorder</string>
+	<key>prismaticView</key>
+	<string>transformerActivity</string>
+	<key>quantizationsine</key>
+	<string>independentHistogram</string>
+	<key>resilientTaxonomy</key>
+	<string>comprehensivegroup</string>
+	<key>sinkTransparency</key>
+	<string>canFinishMonster</string>
+	<key>swiftcompositeorientation</key>
+	<string>selectedmaster</string>
+	<key>uniqueResponder</key>
+	<string>reduceIsolate</string>
+</dict>
+</plist>

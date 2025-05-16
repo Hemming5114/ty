@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCoordinator</key>
+	<string>thresholdInteraction</string>
+	<key>gridviewBehavior</key>
+	<string>typicalTime</string>
+	<key>layerName</key>
+	<string>previewDensity</string>
+	<key>localSlider</key>
+	<string>canDispatchHistogram</string>
+	<key>routeranimator</key>
+	<string>intermediateConverter</string>
+	<key>shouldObserveArithmetic</key>
+	<string>synchronousDelegate</string>
+	<key>symbolBehavior</key>
+	<string>semanticsActivity</string>
+</dict>
+</plist>

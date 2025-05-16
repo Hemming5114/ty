@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionDepth</key>
+	<string>screentrajectory</string>
+	<key>currentNib</key>
+	<string>disposeTernary</string>
+	<key>multiIcon</key>
+	<string>materialScale</string>
+	<key>prevCompleter</key>
+	<string>shouldDetachSwift</string>
+	<key>resilientImpact</key>
+	<string>escalatenode</string>
+	<key>shouldReplaceSizedBox</key>
+	<string>activeOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameduration</key>
+	<string>shouldNavigateCosine</string>
+	<key>keyCreator</key>
+	<string>emitPlayback</string>
+	<key>onconsumerchanged</key>
+	<string>resumeTouch</string>
+	<key>providerprototypeappearance</key>
+	<string>canSubscribeMediaQuery</string>
+	<key>scrollableAction</key>
+	<string>pinchableDependency</string>
+</dict>
+</plist>

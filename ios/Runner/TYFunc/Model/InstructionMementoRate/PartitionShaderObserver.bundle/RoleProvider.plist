@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformservice</key>
+	<string>cartesianTaxonomy</string>
+	<key>graphiccontrast</key>
+	<string>encodeEvent</string>
+	<key>hardStatus</key>
+	<string>scenarioLocation</string>
+	<key>shouldDetachGestureDetector</key>
+	<string>shouldMountedObserver</string>
+	<key>streamhue</key>
+	<string>paintPainter</string>
+	<key>switchTransparency</key>
+	<string>positionedProcess</string>
+	<key>toolmode</key>
+	<string>inactiveElement</string>
+</dict>
+</plist>

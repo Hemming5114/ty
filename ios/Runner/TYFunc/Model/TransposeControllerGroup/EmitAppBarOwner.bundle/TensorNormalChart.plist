@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoheap</key>
+	<string>associatedBitrate</string>
+	<key>elasticQueue</key>
+	<string>newestOffset</string>
+	<key>elasticTaxonomy</key>
+	<string>shouldContinueInstruction</string>
+	<key>materialService</key>
+	<string>pivotalSound</string>
+</dict>
+</plist>

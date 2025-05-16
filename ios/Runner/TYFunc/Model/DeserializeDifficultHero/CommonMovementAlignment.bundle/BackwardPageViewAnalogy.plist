@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushTint</key>
+	<string>resilientActivity</string>
+	<key>entityFormat</key>
+	<string>parseMember</string>
+	<key>euclideanGraphic</key>
+	<string>shouldDismissClipper</string>
+	<key>fetchicon</key>
+	<string>declarativeStack</string>
+	<key>iterativeCharacteristic</key>
+	<string>dedicatedKernel</string>
+	<key>loopSize</key>
+	<string>formatTechnique</string>
+	<key>rapidAlert</key>
+	<string>liteArithmetic</string>
+	<key>relationalchallenge</key>
+	<string>appendChapter</string>
+	<key>resulttypecenter</key>
+	<string>chartFormat</string>
+</dict>
+</plist>

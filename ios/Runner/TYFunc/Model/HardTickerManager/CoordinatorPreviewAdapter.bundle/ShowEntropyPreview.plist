@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentvarright</key>
+	<string>currenttrajectory</string>
+	<key>axisType</key>
+	<string>detailRight</string>
+	<key>confidentialityShade</key>
+	<string>layerOperation</string>
+	<key>controllerformhead</key>
+	<string>containerMemento</string>
+	<key>discardedcycle</key>
+	<string>customThread</string>
+	<key>ephemeralPriority</key>
+	<string>nativeLabel</string>
+	<key>heapBound</key>
+	<string>multiplyMetadata</string>
+	<key>labelHead</key>
+	<string>fixedPreview</string>
+	<key>otherGift</key>
+	<string>layoutcoordinator</string>
+	<key>relationalGrayscale</key>
+	<string>gesturedetectorOffset</string>
+</dict>
+</plist>

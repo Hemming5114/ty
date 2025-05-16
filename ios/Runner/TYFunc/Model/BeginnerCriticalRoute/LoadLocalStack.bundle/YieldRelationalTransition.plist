@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredManager</key>
+	<string>specifierchannel</string>
+	<key>litePadding</key>
+	<string>canNavigateMember</string>
+	<key>responderMode</key>
+	<string>labelsink</string>
+	<key>seamlessmedia</key>
+	<string>customTime</string>
+	<key>shouldDisposeDescriptor</key>
+	<string>uniqueasset</string>
+</dict>
+</plist>

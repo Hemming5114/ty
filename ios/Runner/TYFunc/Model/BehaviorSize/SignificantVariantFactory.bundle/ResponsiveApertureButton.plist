@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializewidget</key>
+	<string>mountTable</string>
+	<key>gesturephaseright</key>
+	<string>entropygraph</string>
+	<key>intuitiveEmitter</key>
+	<string>shouldDecodeText</string>
+	<key>statelessArchitecture</key>
+	<string>boxshadowJob</string>
+	<key>streamFormat</key>
+	<string>concurrentFragment</string>
+</dict>
+</plist>

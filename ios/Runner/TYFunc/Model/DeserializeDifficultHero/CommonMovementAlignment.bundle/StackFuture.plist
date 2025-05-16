@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adddescription</key>
+	<string>commonAnimation</string>
+	<key>cartesianresulttransparency</key>
+	<string>reusableTime</string>
+	<key>expandedHead</key>
+	<string>arithmeticCurve</string>
+	<key>kernelCount</key>
+	<string>globalPresenter</string>
+	<key>volumeEdge</key>
+	<string>canDeserializeSegment</string>
+</dict>
+</plist>

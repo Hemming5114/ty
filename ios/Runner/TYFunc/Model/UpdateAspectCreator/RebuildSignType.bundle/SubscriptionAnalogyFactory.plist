@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparaterowvisibility</key>
+	<string>cartesianRect</string>
+	<key>ephemeralSegment</key>
+	<string>singletonOperation</string>
+	<key>hyperbolicBullet</key>
+	<string>touchNavigator</string>
+	<key>permissiveRoute</key>
+	<string>canProcessSample</string>
+	<key>resilientEfficiency</key>
+	<string>canInflateInkWell</string>
+	<key>shouldlayoutbuilder</key>
+	<string>regulateResource</string>
+	<key>subscribertension</key>
+	<string>gesturedetectorskewy</string>
+	<key>subtleEntity</key>
+	<string>enabledEvolution</string>
+	<key>tappableCallback</key>
+	<string>canDisposeActivity</string>
+	<key>touchforprocess</key>
+	<string>sizeMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasStyle</key>
+	<string>characteristicBorder</string>
+	<key>consultativeAnimatedContainer</key>
+	<string>observerMode</string>
+	<key>currentGrain</key>
+	<string>masterVisible</string>
+	<key>distinctionPressure</key>
+	<string>requiredSingleton</string>
+	<key>shouldPaintAnimatedContainer</key>
+	<string>sustainableTransformer</string>
+	<key>shouldprepareaperture</key>
+	<string>toolDensity</string>
+</dict>
+</plist>

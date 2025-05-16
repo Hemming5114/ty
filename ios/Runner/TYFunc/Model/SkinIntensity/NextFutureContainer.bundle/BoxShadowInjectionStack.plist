@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationStyle</key>
+	<string>secondEntity</string>
+	<key>integrationShade</key>
+	<string>canPaintPriority</string>
+	<key>interactorPadding</key>
+	<string>allocatorpercomposite</string>
+	<key>liteanimation</key>
+	<string>defaultlog</string>
+	<key>newestStateless</key>
+	<string>searchSprite</string>
+	<key>preparedecoration</key>
+	<string>desktopGram</string>
+	<key>schemaAlignment</key>
+	<string>constantPressure</string>
+	<key>sizeColor</key>
+	<string>resizableAllocator</string>
+	<key>unlockhash</key>
+	<string>agilegramstate</string>
+</dict>
+</plist>

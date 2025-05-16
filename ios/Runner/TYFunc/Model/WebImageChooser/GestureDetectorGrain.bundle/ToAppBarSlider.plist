@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthContrast</key>
+	<string>textfieldalongkind</string>
+	<key>granularcontainer</key>
+	<string>shouldstopgrayscale</string>
+	<key>immutableResponder</key>
+	<string>canNotifyTernary</string>
+	<key>lazyconsumer</key>
+	<string>canStreamLayout</string>
+	<key>shouldRebuildCoordinator</key>
+	<string>performAwait</string>
+	<key>shouldunmountgridview</key>
+	<string>descriptorPosition</string>
+</dict>
+</plist>

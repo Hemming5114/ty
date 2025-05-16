@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellshape</key>
+	<string>desktopconstant</string>
+	<key>deferredTrigger</key>
+	<string>substantialLifecycle</string>
+	<key>functionalPet</key>
+	<string>channelsStatus</string>
+	<key>onradiochanged</key>
+	<string>sharedSplitter</string>
+	<key>pinchableBloc</key>
+	<string>cupertinoStrategy</string>
+	<key>routeFrequency</key>
+	<string>completedConstraint</string>
+	<key>shouldNavigateController</key>
+	<string>aggregateController</string>
+	<key>singletontag</key>
+	<string>standaloneCaption</string>
+	<key>temporaryrect</key>
+	<string>saveAppBar</string>
+</dict>
+</plist>

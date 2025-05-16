@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachbehavior</key>
+	<string>observerHead</string>
+	<key>basicprovider</key>
+	<string>arithmeticPermutation</string>
+	<key>cacheSpeed</key>
+	<string>canRestartDocument</string>
+	<key>constraintuntilstrategy</key>
+	<string>detailFormat</string>
+	<key>shouldFetchChallenge</key>
+	<string>finishBehavior</string>
+	<key>shouldLayoutProjection</key>
+	<string>spriteTemple</string>
+</dict>
+</plist>

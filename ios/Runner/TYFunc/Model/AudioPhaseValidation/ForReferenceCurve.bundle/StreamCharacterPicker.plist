@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionkindborder</key>
+	<string>projectBottom</string>
+	<key>displayableReliability</key>
+	<string>handlerpressure</string>
+	<key>emitlocalization</key>
+	<string>arithmeticCenter</string>
+	<key>inactiveSign</key>
+	<string>smallTimer</string>
+	<key>listviewinteractor</key>
+	<string>managerLocation</string>
+	<key>shouldValidateLog</key>
+	<string>localWorkflow</string>
+	<key>statefulkernel</key>
+	<string>opaqueSprite</string>
+	<key>tickerSize</key>
+	<string>inheritedgridcoord</string>
+	<key>uniqueChannels</key>
+	<string>persistenttabview</string>
+</dict>
+</plist>

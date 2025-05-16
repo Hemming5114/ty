@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyEquipment</key>
+	<string>unlockProvider</string>
+	<key>hierarchicalTool</key>
+	<string>independentanchorskewy</string>
+	<key>instructionIndex</key>
+	<string>eagerManager</string>
+	<key>pivotalalignmentbehavior</key>
+	<string>subscribeNavigation</string>
+	<key>shouldEncodeNorm</key>
+	<string>searchPosition</string>
+	<key>subscriberdepth</key>
+	<string>decorationdepth</string>
+	<key>toolmenu</key>
+	<string>sophisticatedIcon</string>
+</dict>
+</plist>

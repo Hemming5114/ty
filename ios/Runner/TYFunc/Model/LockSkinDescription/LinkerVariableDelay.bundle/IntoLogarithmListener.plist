@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonScaffold</key>
+	<string>masterValidation</string>
+	<key>greatCurve</key>
+	<string>callbackMomentum</string>
+	<key>navigatecontainer</key>
+	<string>basicRequest</string>
+	<key>parallelTolerance</key>
+	<string>clipperName</string>
+	<key>resizableScalability</key>
+	<string>graphicAcceleration</string>
+	<key>shouldPaintStamp</key>
+	<string>statefullabel</string>
+	<key>statefulQueue</key>
+	<string>activeRow</string>
+	<key>uniqueAnalyzer</key>
+	<string>compositionalHistogram</string>
+</dict>
+</plist>

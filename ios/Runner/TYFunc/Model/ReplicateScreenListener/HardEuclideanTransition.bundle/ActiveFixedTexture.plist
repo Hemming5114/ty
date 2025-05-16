@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledInteraction</key>
+	<string>robustTween</string>
+	<key>explicitImage</key>
+	<string>sessionCycle</string>
+	<key>shouldLayoutDocument</key>
+	<string>routerVariable</string>
+</dict>
+</plist>

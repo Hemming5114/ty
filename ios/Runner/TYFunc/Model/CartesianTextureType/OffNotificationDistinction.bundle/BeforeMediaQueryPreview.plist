@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralLogarithm</key>
+	<string>canFormatMedia</string>
+	<key>fixedVolume</key>
+	<string>detachcompleter</string>
+	<key>operationVelocity</key>
+	<string>shouldUpdateLog</string>
+	<key>receiverFeedback</key>
+	<string>threadMode</string>
+	<key>rolecyclecontrast</key>
+	<string>chapterEdge</string>
+</dict>
+</plist>

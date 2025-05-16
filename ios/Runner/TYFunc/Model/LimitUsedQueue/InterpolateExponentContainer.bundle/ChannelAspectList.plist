@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorspeed</key>
+	<string>currentCharacter</string>
+	<key>resilientCache</key>
+	<string>replaceEvent</string>
+	<key>shouldPersistBitrate</key>
+	<string>layerappearance</string>
+	<key>staticRect</key>
+	<string>secondScene</string>
+	<key>subsequentStamp</key>
+	<string>reusableStack</string>
+	<key>trajectoryCount</key>
+	<string>shouldHandleReduction</string>
+	<key>visibleSubscriber</key>
+	<string>initializeSink</string>
+</dict>
+</plist>

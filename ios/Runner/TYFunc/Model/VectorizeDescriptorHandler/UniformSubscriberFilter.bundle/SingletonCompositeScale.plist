@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMission</key>
+	<string>sliderintegration</string>
+	<key>awaitversusshape</key>
+	<string>routerFacade</string>
+	<key>easyPolygon</key>
+	<string>transitionsession</string>
+	<key>logarithmsorter</key>
+	<string>globalRoute</string>
+	<key>menureceiver</key>
+	<string>texturestageright</string>
+	<key>permissiveTransition</key>
+	<string>shouldStreamTable</string>
+	<key>plateLocation</key>
+	<string>subtleVideo</string>
+	<key>roleBound</key>
+	<string>canDeserializeSignature</string>
+	<key>webInjection</key>
+	<string>shouldEmitController</string>
+</dict>
+</plist>

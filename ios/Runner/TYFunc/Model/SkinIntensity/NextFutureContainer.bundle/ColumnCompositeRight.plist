@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedlabel</key>
+	<string>oncosinechanged</string>
+	<key>constraintentity</key>
+	<string>canPaintColumn</string>
+	<key>profilestate</key>
+	<string>shouldPrepareScroll</string>
+	<key>shouldDisposeConvolution</key>
+	<string>touchForce</string>
+	<key>tensorNib</key>
+	<string>secondGate</string>
+</dict>
+</plist>

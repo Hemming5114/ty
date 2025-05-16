@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncType</key>
+	<string>eagerIntegration</string>
+	<key>audioBound</key>
+	<string>retainedPlayback</string>
+	<key>compositionalElement</key>
+	<string>otherKernel</string>
+	<key>flexibleChart</key>
+	<string>notificationFacade</string>
+	<key>formatmode</key>
+	<string>declarativeRadius</string>
+	<key>generatemediaquery</key>
+	<string>fixedMapper</string>
+	<key>reactiveThreshold</key>
+	<string>combinestorage</string>
+	<key>seamlessFeature</key>
+	<string>lazygesturedetectorskewx</string>
+	<key>shouldNavigateEqualization</key>
+	<string>swiftMargin</string>
+	<key>unschedulespecifier</key>
+	<string>momentumState</string>
+</dict>
+</plist>

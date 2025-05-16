@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindmethod</key>
+	<string>specifySine</string>
+	<key>bufferLeft</key>
+	<string>delegateabouttier</string>
+	<key>localizationfrequency</key>
+	<string>precisionAdapter</string>
+	<key>permissiveMaterial</key>
+	<string>shouldValidateBoxShadow</string>
+	<key>rangeDelay</key>
+	<string>activatedcontroller</string>
+	<key>scrollableTernary</key>
+	<string>unsortedCursor</string>
+	<key>shouldTransitionTheme</key>
+	<string>shouldCacheSegue</string>
+	<key>similarCharacter</key>
+	<string>accordionText</string>
+</dict>
+</plist>

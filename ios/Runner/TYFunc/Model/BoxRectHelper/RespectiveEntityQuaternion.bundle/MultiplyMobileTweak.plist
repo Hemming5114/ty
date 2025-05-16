@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePresenter</key>
+	<string>shouldStopMediaQuery</string>
+	<key>compositionStyle</key>
+	<string>canUnmountedBrush</string>
+	<key>detectorcontrast</key>
+	<string>streamConsumer</string>
+	<key>intermediatecontroller</key>
+	<string>nodeVisible</string>
+	<key>invisibleSubscription</key>
+	<string>interactiveNotation</string>
+	<key>shouldDetachSkirt</key>
+	<string>viewmode</string>
+	<key>shouldShowColumn</key>
+	<string>deliveryPosition</string>
+	<key>substantialInteraction</key>
+	<string>rotateNavigator</string>
+</dict>
+</plist>

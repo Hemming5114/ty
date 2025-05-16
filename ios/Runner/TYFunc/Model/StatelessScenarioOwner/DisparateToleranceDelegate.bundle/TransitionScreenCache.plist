@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationscroller</key>
+	<string>canRouteContraction</string>
+	<key>eagerRichText</key>
+	<string>frameValue</string>
+	<key>localFeature</key>
+	<string>syncstore</string>
+	<key>lossLeft</key>
+	<string>shouldProcessNotification</string>
+	<key>losticonmode</key>
+	<string>commonTouch</string>
+	<key>newestTimeline</key>
+	<string>originalIcon</string>
+	<key>staticmobilecenter</key>
+	<string>mediumDispatcher</string>
+	<key>temporaryStroke</key>
+	<string>canTrainBuilder</string>
+</dict>
+</plist>

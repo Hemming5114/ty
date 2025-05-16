@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityamongstage</key>
+	<string>dialogsChain</string>
+	<key>associatedGrayscale</key>
+	<string>sensorComposite</string>
+	<key>cartesianError</key>
+	<string>descriptionBottom</string>
+	<key>configurationDelay</key>
+	<string>schemaTint</string>
+	<key>keyEvent</key>
+	<string>permanentGram</string>
+	<key>opaquecosine</key>
+	<string>shouldPersistTabView</string>
+	<key>polygonDelay</key>
+	<string>skiprect</string>
+	<key>routeprocessposition</key>
+	<string>selectedEquipment</string>
+	<key>transitionResponse</key>
+	<string>receiverFlags</string>
+</dict>
+</plist>

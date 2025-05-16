@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCubit</key>
+	<string>activateBuilder</string>
+	<key>crudeRestriction</key>
+	<string>dependencyStatus</string>
+	<key>custompaintbehavior</key>
+	<string>skipGate</string>
+	<key>functionalTransition</key>
+	<string>unmountPlayback</string>
+	<key>inactiveDetail</key>
+	<string>canNotifyComposition</string>
+	<key>receiverHead</key>
+	<string>retainDecoration</string>
+	<key>specifierchainshape</key>
+	<string>particleorigin</string>
+	<key>webPreview</key>
+	<string>exceptionstate</string>
+</dict>
+</plist>

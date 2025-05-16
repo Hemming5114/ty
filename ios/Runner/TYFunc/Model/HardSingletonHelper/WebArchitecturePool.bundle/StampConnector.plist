@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedElasticity</key>
+	<string>onsignaturechanged</string>
+	<key>attachbuilder</key>
+	<string>iterativeHero</string>
+	<key>dependencyIndex</key>
+	<string>adaptiveShader</string>
+	<key>firstParticle</key>
+	<string>sequentialFactory</string>
+	<key>globalMechanism</key>
+	<string>directPresenter</string>
+	<key>hardEvent</key>
+	<string>consultativeIndicator</string>
+	<key>matrixduration</key>
+	<string>reduceOffset</string>
+	<key>multiplicationinterpreterrotation</key>
+	<string>canSubscribeOption</string>
+	<key>shouldCreateProfile</key>
+	<string>notifyMaterial</string>
+	<key>shouldNotifyMedia</key>
+	<string>agilePet</string>
+</dict>
+</plist>

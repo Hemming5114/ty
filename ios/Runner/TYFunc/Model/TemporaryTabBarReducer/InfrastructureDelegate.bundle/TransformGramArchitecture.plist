@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalstream</key>
+	<string>ephemeralVertex</string>
+	<key>extendmanager</key>
+	<string>canSubscribeEquipment</string>
+	<key>hardButton</key>
+	<string>grainindex</string>
+	<key>timeedge</key>
+	<string>ternaryFormat</string>
+	<key>uniformconstant</key>
+	<string>polygonopacity</string>
+</dict>
+</plist>

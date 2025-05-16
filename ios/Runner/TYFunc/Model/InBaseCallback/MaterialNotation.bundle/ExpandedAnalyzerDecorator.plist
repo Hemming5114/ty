@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTexture</key>
+	<string>greatTransformer</string>
+	<key>displayreducer</key>
+	<string>shouldFormatTabBar</string>
+	<key>drawerror</key>
+	<string>pushSession</string>
+	<key>easyAlignment</key>
+	<string>roleOffset</string>
+	<key>hardBuilder</key>
+	<string>alphaCommand</string>
+</dict>
+</plist>

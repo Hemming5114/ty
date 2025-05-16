@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAllocator</key>
+	<string>canSkipSignature</string>
+	<key>constraintinteraction</key>
+	<string>tabbarContext</string>
+	<key>dedicatedCubit</key>
+	<string>routeSkewX</string>
+	<key>eventskewx</key>
+	<string>transformResult</string>
+	<key>framefilter</key>
+	<string>canDetachNavigator</string>
+	<key>inactiveStroke</key>
+	<string>taxonomyDistance</string>
+	<key>reactiveSemantics</key>
+	<string>canFormatStateful</string>
+	<key>similarStorage</key>
+	<string>specifySelector</string>
+	<key>storagelocation</key>
+	<string>custompaintspacing</string>
+</dict>
+</plist>

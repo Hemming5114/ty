@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionVisibility</key>
+	<string>multiplyBloc</string>
+	<key>drawutil</key>
+	<string>calculateWidget</string>
+	<key>shouldContinueUnary</key>
+	<string>columnMomentum</string>
+	<key>shouldTransformSpine</key>
+	<string>canPrepareSession</string>
+	<key>significantAnchor</key>
+	<string>scrollablechooser</string>
+	<key>statefulHue</key>
+	<string>deferredProcessor</string>
+	<key>webworkflow</key>
+	<string>titleType</string>
+</dict>
+</plist>

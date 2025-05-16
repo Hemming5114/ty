@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customimagevisibility</key>
+	<string>activeEquivalent</string>
+	<key>disclaimerSpeed</key>
+	<string>isolatePhase</string>
+	<key>latencyStyle</key>
+	<string>offsetObserver</string>
+	<key>mediumprovidercontrast</key>
+	<string>shouldContinueStream</string>
+	<key>resourceshape</key>
+	<string>showEntity</string>
+	<key>shouldDetachTask</key>
+	<string>canEndIndicator</string>
+	<key>shouldPaintClipper</key>
+	<string>pushConvolution</string>
+	<key>sinkaudio</key>
+	<string>geometricConstraint</string>
+	<key>spritealongbridge</key>
+	<string>tabledespitemediator</string>
+	<key>streambehavior</key>
+	<string>globalsprite</string>
+</dict>
+</plist>

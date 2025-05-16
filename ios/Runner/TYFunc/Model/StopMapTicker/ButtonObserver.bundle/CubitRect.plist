@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAlpha</key>
+	<string>shouldCacheSizedBox</string>
+	<key>destroyconstraint</key>
+	<string>seekController</string>
+	<key>dynamicOverlay</key>
+	<string>promiseawayobserver</string>
+	<key>scheduleconsumer</key>
+	<string>canMountCanvas</string>
+	<key>shouldMountDuration</key>
+	<string>factoryObserver</string>
+</dict>
+</plist>

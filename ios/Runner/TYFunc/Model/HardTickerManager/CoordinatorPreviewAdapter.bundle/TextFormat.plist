@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPolyfill</key>
+	<string>dynamicprojection</string>
+	<key>boxshadowrestriction</key>
+	<string>permanentchooser</string>
+	<key>cellIndex</key>
+	<string>containerType</string>
+	<key>gramSaturation</key>
+	<string>shouldAnimateFragment</string>
+	<key>painterinfrastructure</key>
+	<string>disabledAlpha</string>
+	<key>shouldNotifyGate</key>
+	<string>ternaryfeedback</string>
+	<key>shouldTransitionSwift</key>
+	<string>textureProxy</string>
+	<key>statelessAspectRatio</key>
+	<string>decoupleVector</string>
+	<key>unscheduleview</key>
+	<string>particleDensity</string>
+</dict>
+</plist>

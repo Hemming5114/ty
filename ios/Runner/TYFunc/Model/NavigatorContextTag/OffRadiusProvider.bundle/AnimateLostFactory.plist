@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFrequency</key>
+	<string>previewColor</string>
+	<key>ephemeralTaxonomy</key>
+	<string>imperativeTaxonomy</string>
+	<key>filterIndex</key>
+	<string>blocValue</string>
+	<key>nibtext</key>
+	<string>tappableReceiver</string>
+	<key>reducerDistance</key>
+	<string>canFormatScreen</string>
+	<key>reducercontainprototype</key>
+	<string>canPopSample</string>
+	<key>subtleVertex</key>
+	<string>consultativeoperation</string>
+	<key>symbolDirection</key>
+	<string>cleanCoordinator</string>
+</dict>
+</plist>

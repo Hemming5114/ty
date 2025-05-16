@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchexceptstage</key>
+	<string>skipSlider</string>
+	<key>buttonbuilder</key>
+	<string>isolateIndex</string>
+	<key>priorwidgetformat</key>
+	<string>scenarioBorder</string>
+	<key>reactiveArithmetic</key>
+	<string>unsortedStateless</string>
+	<key>resilientMusic</key>
+	<string>persistentSkin</string>
+	<key>resilientcolor</key>
+	<string>functionalImage</string>
+	<key>respectiveShader</key>
+	<string>shouldKeepStep</string>
+	<key>sequentialSorter</key>
+	<string>basechannel</string>
+	<key>shouldAttachTask</key>
+	<string>showListener</string>
+	<key>shouldendradio</key>
+	<string>activeScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalConfidentiality</key>
+	<string>concreteIntegrity</string>
+	<key>hashevaluation</key>
+	<string>cycleinteraction</string>
+	<key>missedShader</key>
+	<string>popupInterval</string>
+	<key>multiCursor</key>
+	<string>spotVelocity</string>
+	<key>oncaptionchanged</key>
+	<string>overlayDecorator</string>
+	<key>rowdecoratorposition</key>
+	<string>accessoryCount</string>
+	<key>rowtrigger</key>
+	<string>geometricFuture</string>
+	<key>shouldUnmountAlert</key>
+	<string>shouldMountMember</string>
+	<key>statefulContainer</key>
+	<string>pauseCursor</string>
+	<key>unactivatedlocalization</key>
+	<string>joinerbehavior</string>
+</dict>
+</plist>

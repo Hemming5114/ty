@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengevelocity</key>
+	<string>uniqueAlignment</string>
+	<key>denseView</key>
+	<string>canDisconnectSign</string>
+	<key>euclideanConfiguration</key>
+	<string>diffableRectangle</string>
+	<key>shouldSetStateOptimizer</key>
+	<string>shouldPrepareAnimatedContainer</string>
+	<key>shoulddecodepainter</key>
+	<string>streamProvider</string>
+	<key>shouldunmountedspine</key>
+	<string>presentBase</string>
+</dict>
+</plist>

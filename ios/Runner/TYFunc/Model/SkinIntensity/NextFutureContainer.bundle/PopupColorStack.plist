@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelintegration</key>
+	<string>normalCharacter</string>
+	<key>introspectfuture</key>
+	<string>shouldUnmountDescriptor</string>
+	<key>managercluster</key>
+	<string>equivalentCenter</string>
+	<key>shouldFormatChannels</key>
+	<string>draggableGram</string>
+	<key>shouldMountedAlpha</key>
+	<string>storageasstage</string>
+	<key>shouldRebuildCapsule</key>
+	<string>priorScene</string>
+</dict>
+</plist>

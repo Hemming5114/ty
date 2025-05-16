@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLoss</key>
+	<string>missionPhase</string>
+	<key>associatedTask</key>
+	<string>concreteReducer</string>
+	<key>brushBottom</key>
+	<string>flexibleTrigger</string>
+	<key>currentswitch</key>
+	<string>playbackbutton</string>
+	<key>gesturewithstyle</key>
+	<string>permanentCluster</string>
+	<key>intermediatehashdirection</key>
+	<string>diversifiedMobile</string>
+	<key>priorityPressure</key>
+	<string>shouldEmitRadio</string>
+	<key>projectionScale</key>
+	<string>shouldAnimateAspectRatio</string>
+</dict>
+</plist>

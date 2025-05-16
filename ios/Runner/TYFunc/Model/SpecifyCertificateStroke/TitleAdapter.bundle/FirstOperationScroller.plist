@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerState</key>
+	<string>losssaturation</string>
+	<key>inactiveAnchor</key>
+	<string>invisibleTabBar</string>
+	<key>protectedTransformer</key>
+	<string>instructionTheme</string>
+	<key>shouldListenResource</key>
+	<string>autoCheckbox</string>
+	<key>shouldUnmountedOption</key>
+	<string>createExtension</string>
+	<key>showdecoration</key>
+	<string>replicateOffset</string>
+	<key>synchronousUtil</key>
+	<string>workflowCount</string>
+</dict>
+</plist>

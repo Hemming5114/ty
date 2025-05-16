@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentBehavior</key>
+	<string>shouldTrainPainter</string>
+	<key>kernelindex</key>
+	<string>shouldAnimateArithmetic</string>
+	<key>monsterAppearance</key>
+	<string>canPublishCell</string>
+	<key>receiverRight</key>
+	<string>ephemeralBitrate</string>
+</dict>
+</plist>

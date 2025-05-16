@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateorigin</key>
+	<string>reductionkinddistance</string>
+	<key>createcompleter</key>
+	<string>variantbysystem</string>
+	<key>hasFlex</key>
+	<string>desktopSwift</string>
+	<key>onpromisetap</key>
+	<string>currentAction</string>
+	<key>varianthead</key>
+	<string>converterDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInterval</key>
+	<string>coordinatoraction</string>
+	<key>brushobserversize</key>
+	<string>buildSkirt</string>
+	<key>elasticGradient</key>
+	<string>canShowCaption</string>
+	<key>largePet</key>
+	<string>enabledAccessory</string>
+	<key>momentumtransformer</key>
+	<string>scalabilityMomentum</string>
+	<key>textsingletonright</key>
+	<string>shouldDispatchTransition</string>
+	<key>timerLocation</key>
+	<string>spriteinterval</string>
+</dict>
+</plist>

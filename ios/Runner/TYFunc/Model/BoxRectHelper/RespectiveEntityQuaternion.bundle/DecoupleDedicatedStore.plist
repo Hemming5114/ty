@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAcceleration</key>
+	<string>roleBottom</string>
+	<key>checkboxasactivity</key>
+	<string>canRestartArithmetic</string>
+	<key>draggableSprite</key>
+	<string>playUseCase</string>
+	<key>greatRouter</key>
+	<string>immediateMerger</string>
+	<key>immutableTopic</key>
+	<string>canProcessProject</string>
+	<key>providerlikefacade</key>
+	<string>usedArchitecture</string>
+	<key>shouldpersistmaterial</key>
+	<string>delegateparamcount</string>
+	<key>skirtscenario</key>
+	<string>granularTexture</string>
+</dict>
+</plist>

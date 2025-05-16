@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushoperationflags</key>
+	<string>usedcursorright</string>
+	<key>disabledConnector</key>
+	<string>canTransformLayout</string>
+	<key>infrastructureinteraction</key>
+	<string>visualizeModel</string>
+	<key>oldNotation</key>
+	<string>inactiveFactory</string>
+	<key>selectedRole</key>
+	<string>setstateSegue</string>
+	<key>shouldPaintAspect</key>
+	<string>layoutSubpixel</string>
+	<key>smartRouter</key>
+	<string>webCurve</string>
+	<key>timeRight</key>
+	<string>textfieldFlyweight</string>
+</dict>
+</plist>

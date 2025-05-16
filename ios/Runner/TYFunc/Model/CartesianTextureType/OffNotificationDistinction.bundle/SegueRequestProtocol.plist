@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderatmode</key>
+	<string>shouldBindPlayback</string>
+	<key>cardcontrast</key>
+	<string>shouldSetStateChecklist</string>
+	<key>cartesianEvolution</key>
+	<string>tensorSign</string>
+	<key>easyRemediation</key>
+	<string>brushResponse</string>
+	<key>momentumname</key>
+	<string>canYieldGrayscale</string>
+	<key>painttask</key>
+	<string>retainedScenario</string>
+	<key>promisefeedback</key>
+	<string>intermediatenavigator</string>
+	<key>smallStrength</key>
+	<string>optimizeReducer</string>
+	<key>techniqueVisibility</key>
+	<string>custompaintCommand</string>
+</dict>
+</plist>

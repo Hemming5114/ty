@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperStatus</key>
+	<string>matrixShape</string>
+	<key>handlerStyle</key>
+	<string>replicateFrame</string>
+	<key>hardConvolution</key>
+	<string>shouldUnmountGate</string>
+	<key>lastConverter</key>
+	<string>temporaryPositioned</string>
+	<key>nativeBloc</key>
+	<string>signatureRotation</string>
+	<key>retainedProject</key>
+	<string>specifyReduction</string>
+	<key>tweenDirection</key>
+	<string>dropoutSingleton</string>
+</dict>
+</plist>

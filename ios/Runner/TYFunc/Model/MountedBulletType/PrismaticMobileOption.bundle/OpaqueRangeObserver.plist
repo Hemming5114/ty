@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationarchitecture</key>
+	<string>zoneTemple</string>
+	<key>geometricSensor</key>
+	<string>finishNavigation</string>
+	<key>presenterdepth</key>
+	<string>joinerHead</string>
+	<key>resizableScreen</key>
+	<string>contractionState</string>
+	<key>respectiveError</key>
+	<string>reactiveNorm</string>
+	<key>shouldtransformexponent</key>
+	<string>delegateSkewY</string>
+	<key>shouldtransitioncollection</key>
+	<string>canProcessCube</string>
+</dict>
+</plist>

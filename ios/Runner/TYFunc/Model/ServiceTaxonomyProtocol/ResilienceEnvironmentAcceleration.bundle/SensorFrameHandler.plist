@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedpresentersaturation</key>
+	<string>sizedboxStyle</string>
+	<key>ephemeralfeature</key>
+	<string>canUpdateCollection</string>
+	<key>immediateLocalization</key>
+	<string>handleUseCase</string>
+	<key>keepcapsule</key>
+	<string>nodeStage</string>
+	<key>liteAxis</key>
+	<string>vectorizeTransition</string>
+	<key>shouldBuildUnary</key>
+	<string>parseGesture</string>
+	<key>storeFrequency</key>
+	<string>shouldBindScale</string>
+</dict>
+</plist>

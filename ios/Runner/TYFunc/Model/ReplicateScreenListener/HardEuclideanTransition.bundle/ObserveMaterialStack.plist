@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedElement</key>
+	<string>eagerAnimation</string>
+	<key>priorconnector</key>
+	<string>robustScroll</string>
+	<key>publisherDistance</key>
+	<string>navigatorborder</string>
+	<key>secondScroll</key>
+	<string>currentbrush</string>
+	<key>shouldCreateCache</key>
+	<string>nexttangentedge</string>
+	<key>shouldformattechnique</key>
+	<string>shouldPushCoordinator</string>
+	<key>specifysensor</key>
+	<string>canParseInterpolation</string>
+</dict>
+</plist>

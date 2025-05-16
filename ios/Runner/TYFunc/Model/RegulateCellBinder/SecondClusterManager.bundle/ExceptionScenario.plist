@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTween</key>
+	<string>greatCursor</string>
+	<key>directlyDuration</key>
+	<string>optimizeRoute</string>
+	<key>gridviewVisible</key>
+	<string>asyncShape</string>
+	<key>layeroutsideproxy</key>
+	<string>popRect</string>
+	<key>missionTail</key>
+	<string>prevLoss</string>
+	<key>projectionrenderer</key>
+	<string>shouldNavigateBatch</string>
+	<key>shouldAnimateArithmetic</key>
+	<string>canProcessDropdownButton</string>
+	<key>significantTabView</key>
+	<string>backwardEmitter</string>
+	<key>statefulListener</key>
+	<string>invisibleDecoration</string>
+</dict>
+</plist>

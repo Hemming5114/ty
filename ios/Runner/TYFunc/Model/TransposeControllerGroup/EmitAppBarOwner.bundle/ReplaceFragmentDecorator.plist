@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateTop</key>
+	<string>mutableinteractorcount</string>
+	<key>gemOrigin</key>
+	<string>decodeQueue</string>
+	<key>instructionresponse</key>
+	<string>immediateMargin</string>
+	<key>sequentialThroughput</key>
+	<string>rowobserverappearance</string>
+	<key>shouldStopColumn</key>
+	<string>sharedCheckbox</string>
+</dict>
+</plist>

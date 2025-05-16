@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalDimension</key>
+	<string>stateMediator</string>
+	<key>crucialdelegatetint</key>
+	<string>extendLayout</string>
+	<key>denseResolver</key>
+	<string>singleRecursion</string>
+	<key>diffableTransformer</key>
+	<string>criticalEqualization</string>
+	<key>inkwellpressure</key>
+	<string>equivalentRate</string>
+	<key>multiTabView</key>
+	<string>canPresentIndicator</string>
+	<key>richtextfrequency</key>
+	<string>musicPressure</string>
+	<key>shouldYieldAnchor</key>
+	<string>fusedAmortization</string>
+	<key>similarCharacter</key>
+	<string>reusabledescription</string>
+	<key>statefulData</key>
+	<string>renameTask</string>
+</dict>
+</plist>

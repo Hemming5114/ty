@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLocation</key>
+	<string>euclideanSpine</string>
+	<key>cacheatoperation</key>
+	<string>hashfromshape</string>
+	<key>fusedRouter</key>
+	<string>prismaticMatrix</string>
+	<key>marginEdge</key>
+	<string>progressbarFlags</string>
+	<key>shouldStopCanvas</key>
+	<string>dropoutTransformer</string>
+	<key>visibleAsset</key>
+	<string>disabledSkirt</string>
+</dict>
+</plist>

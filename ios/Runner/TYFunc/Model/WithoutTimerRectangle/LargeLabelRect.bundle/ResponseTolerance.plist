@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCharacteristic</key>
+	<string>onusagetap</string>
+	<key>bulletindex</key>
+	<string>specifyCaption</string>
+	<key>challengepadding</key>
+	<string>scrollableFinder</string>
+	<key>customIcon</key>
+	<string>adaptiveCertificate</string>
+	<key>functionalReliability</key>
+	<string>positionanimator</string>
+	<key>relationalProfile</key>
+	<string>swiftOpacity</string>
+	<key>resizablemodule</key>
+	<string>hyperbolicTransition</string>
+	<key>reusableDialogs</key>
+	<string>mountedcallback</string>
+	<key>semanticReceiver</key>
+	<string>batchHead</string>
+	<key>shouldSerializeIcon</key>
+	<string>fragmentParam</string>
+</dict>
+</plist>

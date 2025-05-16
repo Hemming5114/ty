@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxLeft</key>
+	<string>staticPosition</string>
+	<key>boxshadowRotation</key>
+	<string>cupertinoformsize</string>
+	<key>draggableRouter</key>
+	<string>emitTextField</string>
+	<key>intensityBehavior</key>
+	<string>activeLabel</string>
+	<key>mainReceiver</key>
+	<string>sliderForce</string>
+	<key>permissiveModal</key>
+	<string>shouldSaveDimension</string>
+	<key>stepAcceleration</key>
+	<string>canTrainHeap</string>
+	<key>tickerinterval</key>
+	<string>notifierprovider</string>
+</dict>
+</plist>

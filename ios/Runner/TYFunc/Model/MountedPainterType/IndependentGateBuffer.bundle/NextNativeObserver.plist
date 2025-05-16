@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorRate</key>
+	<string>canSubscribeCheckbox</string>
+	<key>baseimage</key>
+	<string>quantizationWidget</string>
+	<key>binderHead</key>
+	<string>stamputil</string>
+	<key>disparateFragment</key>
+	<string>precisionForce</string>
+	<key>greatStatus</key>
+	<string>functionalElasticity</string>
+	<key>hyperboliccheckbox</key>
+	<string>deactivateNode</string>
+	<key>inactiveCustomPaint</key>
+	<string>characterBorder</string>
+	<key>shouldpopview</key>
+	<string>advancedBehavior</string>
+</dict>
+</plist>

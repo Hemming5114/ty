@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterAppearance</key>
+	<string>unsortedCaption</string>
+	<key>cupertinoBinder</key>
+	<string>convertstorage</string>
+	<key>inheritedSlider</key>
+	<string>persistentPlayback</string>
+	<key>originalGroup</key>
+	<string>zoneHue</string>
+	<key>permanentIntegrity</key>
+	<string>unsortedComponent</string>
+	<key>sharedAspectRatio</key>
+	<string>reconcileStream</string>
+	<key>shouldCacheNotifier</key>
+	<string>mainEvolution</string>
+	<key>shouldstoppadding</key>
+	<string>associatedComponent</string>
+	<key>standaloneoperation</key>
+	<string>shouldUnbindBorder</string>
+</dict>
+</plist>

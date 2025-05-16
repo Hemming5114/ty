@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axissize</key>
+	<string>enabledEntity</string>
+	<key>heroticker</key>
+	<string>radiusName</string>
+	<key>nodeTint</key>
+	<string>tweenEnvironment</string>
+	<key>offsetLocation</key>
+	<string>seamlessContainer</string>
+	<key>permanentMesh</key>
+	<string>floatHandler</string>
+	<key>receiverorientation</key>
+	<string>graphRight</string>
+	<key>smartBoxShadow</key>
+	<string>loadplayback</string>
+	<key>sustainableStorage</key>
+	<string>synchronousBrush</string>
+</dict>
+</plist>

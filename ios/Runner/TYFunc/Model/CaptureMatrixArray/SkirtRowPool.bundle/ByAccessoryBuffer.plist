@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableChallenge</key>
+	<string>canRoutePainter</string>
+	<key>criticalTimer</key>
+	<string>canAttachInstruction</string>
+	<key>fixedScene</key>
+	<string>retrieveModel</string>
+	<key>hastext</key>
+	<string>currentRenderer</string>
+	<key>pauseresponse</key>
+	<string>assetcommandcolor</string>
+	<key>scaffoldfinder</key>
+	<string>aperturelevelsaturation</string>
+	<key>smartAnalogy</key>
+	<string>imperativeTopic</string>
+	<key>themeBehavior</key>
+	<string>widgetCycle</string>
+	<key>typicalMenu</key>
+	<string>replacelistener</string>
+</dict>
+</plist>

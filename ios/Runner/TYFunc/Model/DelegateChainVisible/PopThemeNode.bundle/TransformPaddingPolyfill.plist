@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorBrightness</key>
+	<string>stopWidget</string>
+	<key>criticalFeature</key>
+	<string>operationMemento</string>
+	<key>imagetop</key>
+	<string>requiredChapter</string>
+	<key>mendIndex</key>
+	<string>navigateStoryboard</string>
+	<key>meshDirection</key>
+	<string>shouldFinishAspect</string>
+	<key>newestConnector</key>
+	<string>quantizationHash</string>
+	<key>oncachetap</key>
+	<string>eagerAnchor</string>
+	<key>optimizerRate</key>
+	<string>setstateAspect</string>
+	<key>shouldNavigateCapsule</key>
+	<string>secondMerger</string>
+	<key>shouldRestartConstraint</key>
+	<string>priorityNumber</string>
+</dict>
+</plist>

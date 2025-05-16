@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultmargin</key>
+	<string>resultstatus</string>
+	<key>delegatecontrast</key>
+	<string>canSaveScreen</string>
+	<key>enabledRoute</key>
+	<string>equipmentPattern</string>
+	<key>finishhash</key>
+	<string>oldOffset</string>
+	<key>gridduringcontext</key>
+	<string>continuePromise</string>
+	<key>nodeHead</key>
+	<string>immutablecoordinatorvelocity</string>
+	<key>permutationtail</key>
+	<string>orchestrateNode</string>
+	<key>transformeralignment</key>
+	<string>handleConstraint</string>
+	<key>tweenorientation</key>
+	<string>moduleCount</string>
+</dict>
+</plist>

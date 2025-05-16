@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableSkin</key>
+	<string>hasstep</string>
+	<key>navigatorshape</key>
+	<string>stepTail</string>
+	<key>sharedTrajectory</key>
+	<string>shouldContinueMultiplication</string>
+	<key>shouldContinueConsumer</key>
+	<string>shouldValidateClipper</string>
+	<key>smartGram</key>
+	<string>canPersistPlayback</string>
+</dict>
+</plist>

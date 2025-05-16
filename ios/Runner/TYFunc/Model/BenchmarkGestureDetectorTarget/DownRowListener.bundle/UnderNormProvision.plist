@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeVelocity</key>
+	<string>mediaTail</string>
+	<key>clustertail</key>
+	<string>sineInterpreter</string>
+	<key>contrastvisibility</key>
+	<string>splitterTheme</string>
+	<key>enabledresult</key>
+	<string>markAlignment</string>
+	<key>hasMaterial</key>
+	<string>commonTime</string>
+	<key>lazyUsage</key>
+	<string>streamInterpreter</string>
+	<key>rowstrategytype</key>
+	<string>timeContrast</string>
+	<key>shouldPresentNavigation</key>
+	<string>checkRect</string>
+	<key>techniqueMomentum</key>
+	<string>eagerCheckbox</string>
+	<key>unschedulepadding</key>
+	<string>mutableAnimator</string>
+</dict>
+</plist>

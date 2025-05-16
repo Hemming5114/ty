@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFuture</key>
+	<string>wrapgift</string>
+	<key>commonPager</key>
+	<string>restoreNode</string>
+	<key>eventbound</key>
+	<string>inkwellAcceleration</string>
+	<key>mobileservice</key>
+	<string>renameResponse</string>
+	<key>retainedUseCase</key>
+	<string>calculateSlider</string>
+	<key>significantInkWell</key>
+	<string>permissiveGestureDetector</string>
+</dict>
+</plist>

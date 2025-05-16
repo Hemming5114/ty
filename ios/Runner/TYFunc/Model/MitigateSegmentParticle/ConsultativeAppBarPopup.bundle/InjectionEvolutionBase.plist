@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitconsumer</key>
+	<string>responsiveDelegate</string>
+	<key>mediocreCapacity</key>
+	<string>canTrainFragment</string>
+	<key>slashaboutobserver</key>
+	<string>exitInteractor</string>
+	<key>unactivatedspot</key>
+	<string>nodeTheme</string>
+	<key>webPromise</key>
+	<string>deferredresolver</string>
+</dict>
+</plist>

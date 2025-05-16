@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeObject</key>
+	<string>offsetSlider</string>
+	<key>concreteDescriptor</key>
+	<string>shouldProcessProjection</string>
+	<key>localDescription</key>
+	<string>copyService</string>
+	<key>managertop</key>
+	<string>pageviewpadding</string>
+	<key>plateexceptlayer</key>
+	<string>immutableMesh</string>
+	<key>positionLeft</key>
+	<string>shaderTail</string>
+	<key>responsiveAlert</key>
+	<string>restartStateful</string>
+	<key>sustainablenavigationappearance</key>
+	<string>draggableGrayscale</string>
+</dict>
+</plist>

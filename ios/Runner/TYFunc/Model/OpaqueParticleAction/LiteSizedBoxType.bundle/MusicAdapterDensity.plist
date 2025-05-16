@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>choosertension</key>
+	<string>hardLayout</string>
+	<key>dependencyvisitordelay</key>
+	<string>offsetSkewX</string>
+	<key>shouldCreateMusic</key>
+	<string>eagerRemediation</string>
+	<key>volumeVisibility</key>
+	<string>binaryPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framestrategyformat</key>
+	<string>discardedScreen</string>
+	<key>fusedLatency</key>
+	<string>captionStage</string>
+	<key>immediateSingleton</key>
+	<string>responderInset</string>
+	<key>lastEvent</key>
+	<string>interactorValidation</string>
+	<key>persistentStack</key>
+	<string>statelessrow</string>
+	<key>petisolate</key>
+	<string>spriteFlyweight</string>
+	<key>projectionTransparency</key>
+	<string>stampMethod</string>
+	<key>publicShape</key>
+	<string>reductionVelocity</string>
+	<key>shouldRenderSpecifier</key>
+	<string>routeScale</string>
+	<key>switchDepth</key>
+	<string>boxshadowVariable</string>
+</dict>
+</plist>

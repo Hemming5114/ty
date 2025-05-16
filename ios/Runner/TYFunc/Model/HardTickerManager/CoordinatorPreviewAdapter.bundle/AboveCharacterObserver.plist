@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerpressure</key>
+	<string>subpixelwrapper</string>
+	<key>beginnerScope</key>
+	<string>granularAnimatedContainer</string>
+	<key>checkliststatecolor</key>
+	<string>currentConfidentiality</string>
+	<key>diffableSearcher</key>
+	<string>exceptionFramework</string>
+	<key>nativegradient</key>
+	<string>diffableAction</string>
+	<key>signOrientation</key>
+	<string>basicNavigation</string>
+	<key>tolerancevisibility</key>
+	<string>chapterorigin</string>
+</dict>
+</plist>

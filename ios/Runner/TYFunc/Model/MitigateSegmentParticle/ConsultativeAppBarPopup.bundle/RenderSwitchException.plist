@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryinteraction</key>
+	<string>otherFormat</string>
+	<key>draggableComposition</key>
+	<string>defaultContainer</string>
+	<key>firstConfidentiality</key>
+	<string>shouldPaintProjection</string>
+	<key>geometricLoop</key>
+	<string>associatedelegate</string>
+	<key>lostReducer</key>
+	<string>handlerSkewY</string>
+	<key>respondgroup</key>
+	<string>mixinAnimation</string>
+	<key>shouldPresentSizedBox</key>
+	<string>escalateListener</string>
+	<key>shouldSetStateEntropy</key>
+	<string>advancedTechnique</string>
+</dict>
+</plist>

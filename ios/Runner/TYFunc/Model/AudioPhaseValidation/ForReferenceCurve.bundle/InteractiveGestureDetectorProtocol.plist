@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterfrequency</key>
+	<string>multiMusic</string>
+	<key>menuTension</key>
+	<string>setstateStateful</string>
+	<key>operationMargin</key>
+	<string>keyZone</string>
+	<key>protectedStateless</key>
+	<string>remaindermaterializer</string>
+	<key>sophisticatedDisclaimer</key>
+	<string>colorFeedback</string>
+	<key>sortedSlider</key>
+	<string>yieldProvider</string>
+	<key>visiblemetrics</key>
+	<string>loglocation</string>
+</dict>
+</plist>

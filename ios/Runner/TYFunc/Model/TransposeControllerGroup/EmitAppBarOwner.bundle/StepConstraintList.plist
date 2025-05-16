@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepremainder</key>
+	<string>canMountLoss</string>
+	<key>shouldObserveSlider</key>
+	<string>modelActivity</string>
+	<key>shouldSaveAnchor</key>
+	<string>maxMatrix</string>
+	<key>sineBottom</key>
+	<string>columnTop</string>
+	<key>singleBehavior</key>
+	<string>coordinatorstream</string>
+	<key>strokestyle</key>
+	<string>interactortype</string>
+</dict>
+</plist>

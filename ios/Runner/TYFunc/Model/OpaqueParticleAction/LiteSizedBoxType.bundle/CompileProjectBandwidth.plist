@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardInkWell</key>
+	<string>startBox</string>
+	<key>hardThread</key>
+	<string>intuitivePromise</string>
+	<key>iterativeCapacities</key>
+	<string>advancedReduction</string>
+	<key>selectorBound</key>
+	<string>robustBaseline</string>
+	<key>shouldPresentGem</key>
+	<string>visualizeState</string>
+	<key>utilparamshape</key>
+	<string>shouldTrainOperation</string>
+</dict>
+</plist>

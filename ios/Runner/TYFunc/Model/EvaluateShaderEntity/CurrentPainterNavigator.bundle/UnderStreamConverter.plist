@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblestoryboard</key>
+	<string>alphaTag</string>
+	<key>independentModel</key>
+	<string>vectorizeTween</string>
+	<key>iterativeReference</key>
+	<string>directRectangle</string>
+	<key>nibBrightness</key>
+	<string>histogramMediator</string>
+	<key>routerwithframework</key>
+	<string>robustTheme</string>
+	<key>shouldEmitDimension</key>
+	<string>initializeDescription</string>
+	<key>streamwidget</key>
+	<string>dispatchTouch</string>
+</dict>
+</plist>

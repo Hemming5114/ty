@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticitySkewY</key>
+	<string>densefeaturevisible</string>
+	<key>exponentInterval</key>
+	<string>canEndHeap</string>
+	<key>listenerlifecycle</key>
+	<string>tappableStroke</string>
+	<key>scenejoiner</key>
+	<string>criticalStack</string>
+	<key>transitionVisibility</key>
+	<string>obtainHash</string>
+</dict>
+</plist>

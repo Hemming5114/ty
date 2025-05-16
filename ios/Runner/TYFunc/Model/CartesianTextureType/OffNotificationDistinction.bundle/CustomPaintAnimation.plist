@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseMission</key>
+	<string>mobileSensor</string>
+	<key>invisibleCapsule</key>
+	<string>showchecklist</string>
+	<key>materializerTop</key>
+	<string>grainContrast</string>
+	<key>mediumCharacteristic</key>
+	<string>actiontweak</string>
+	<key>parseusage</key>
+	<string>matrixInteraction</string>
+	<key>progressbarexceptpattern</key>
+	<string>euclideanMedia</string>
+	<key>shouldtransformbatch</key>
+	<string>overlayInterval</string>
+	<key>signLocation</key>
+	<string>elasticColor</string>
+	<key>tensorStateful</key>
+	<string>monsterinstate</string>
+	<key>topicDirection</key>
+	<string>paddingpatternvisible</string>
+</dict>
+</plist>

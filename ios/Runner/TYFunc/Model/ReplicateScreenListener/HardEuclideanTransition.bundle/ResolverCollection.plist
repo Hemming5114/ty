@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeBandwidth</key>
+	<string>shouldRenderHeap</string>
+	<key>memberStatus</key>
+	<string>responsiveTitle</string>
+	<key>observerouter</key>
+	<string>canTrainBatch</string>
+	<key>pointTop</key>
+	<string>webTransition</string>
+	<key>singleConfiguration</key>
+	<string>clipMethod</string>
+</dict>
+</plist>

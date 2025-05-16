@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializenode</key>
+	<string>endpresenter</string>
+	<key>injectioninterpretertag</key>
+	<string>canPresentPlayback</string>
+	<key>interactionMomentum</key>
+	<string>consultativedimensionhue</string>
+	<key>offsetbehavior</key>
+	<string>reconcileScene</string>
+	<key>painterBound</key>
+	<string>decoupleaction</string>
+	<key>requiredSprite</key>
+	<string>transitionDuration</string>
+	<key>sharedAsset</key>
+	<string>shouldSubscribeMovement</string>
+</dict>
+</plist>

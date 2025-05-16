@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousScope</key>
+	<string>mediumRepository</string>
+	<key>iterativebatchtag</key>
+	<string>resilientpolygon</string>
+	<key>mediumAccessory</key>
+	<string>prevTentative</string>
+	<key>oncanvastap</key>
+	<string>canHandleCoordinator</string>
+	<key>shouldDeserializePadding</key>
+	<string>iterativeReducer</string>
+	<key>singleConsumer</key>
+	<string>streamParam</string>
+	<key>transitionoutsidekind</key>
+	<string>reductionequivalent</string>
+</dict>
+</plist>

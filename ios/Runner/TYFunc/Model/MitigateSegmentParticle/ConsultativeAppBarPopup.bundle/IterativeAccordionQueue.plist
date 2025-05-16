@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySize</key>
+	<string>endListView</string>
+	<key>anchoralignment</key>
+	<string>normalPopup</string>
+	<key>axisinterpretermode</key>
+	<string>granularInterpolation</string>
+	<key>hierarchicalModal</key>
+	<string>remediationShape</string>
+	<key>mapAlignment</key>
+	<string>shouldTransitionDelegate</string>
+	<key>similarAllocator</key>
+	<string>canMountObserver</string>
+	<key>timerHead</key>
+	<string>projectVar</string>
+	<key>unactivatedTolerance</key>
+	<string>uniqueDescent</string>
+</dict>
+</plist>

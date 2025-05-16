@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>operationshade</key>
+	<string>visualizeTopic</string>
+	<key>permissiveRoute</key>
+	<string>canPresentHistogram</string>
+	<key>shouldcancelprojection</key>
+	<string>heroBrightness</string>
+</dict>
+</plist>

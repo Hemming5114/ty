@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlespecifier</key>
+	<string>canDisconnectSpine</string>
+	<key>columninsideshape</key>
+	<string>descriptorVar</string>
+	<key>lostDetail</key>
+	<string>clipChapter</string>
+	<key>losttext</key>
+	<string>currentmultiplication</string>
+	<key>originalIndicator</key>
+	<string>shouldInflateEqualization</string>
+	<key>shouldStopGradient</key>
+	<string>formatMember</string>
+</dict>
+</plist>

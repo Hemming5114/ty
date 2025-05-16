@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedPoint</key>
+	<string>dedicatedtransition</string>
+	<key>geometricRemainder</key>
+	<string>canFinishBaseline</string>
+	<key>grayscaleMargin</key>
+	<string>tappableFeature</string>
+	<key>hascatalyst</key>
+	<string>shouldSerializeAppBar</string>
+	<key>instantiatesine</key>
+	<string>inactiveMatrix</string>
+	<key>maphandler</key>
+	<string>listviewKind</string>
+	<key>subscriberPressure</key>
+	<string>mitigateView</string>
+</dict>
+</plist>

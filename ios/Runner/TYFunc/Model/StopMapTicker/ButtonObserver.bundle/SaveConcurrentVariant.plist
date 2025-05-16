@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderoutsidestyle</key>
+	<string>uniformPolygon</string>
+	<key>ignoredLocalization</key>
+	<string>layerEdge</string>
+	<key>positionedAppearance</key>
+	<string>currentAnimator</string>
+	<key>sceneDuration</key>
+	<string>yieldShader</string>
+	<key>schemaCount</key>
+	<string>integrityPosition</string>
+	<key>shouldAnimateNotifier</key>
+	<string>hyperbolicComposition</string>
+	<key>shouldInflateOverlay</key>
+	<string>protectedInterface</string>
+	<key>shouldsubscribefragment</key>
+	<string>axisCoord</string>
+	<key>uniqueRadio</key>
+	<string>statelessRestriction</string>
+</dict>
+</plist>

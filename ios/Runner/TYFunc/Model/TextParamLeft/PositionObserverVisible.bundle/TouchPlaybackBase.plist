@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeDuration</key>
+	<string>invisibleThreshold</string>
+	<key>difficultLinker</key>
+	<string>dialogsMemento</string>
+	<key>exceptionplatformopacity</key>
+	<string>shouldHandleConsumer</string>
+	<key>interactorstatetransparency</key>
+	<string>pausespine</string>
+	<key>localizationLocation</key>
+	<string>marginStage</string>
+	<key>paddinggrid</key>
+	<string>requestText</string>
+	<key>rowlayervisibility</key>
+	<string>shouldPrepareShader</string>
+	<key>shouldDispatchScroll</key>
+	<string>shouldUnbindGift</string>
+	<key>smartTopic</key>
+	<string>alignmentBridge</string>
+</dict>
+</plist>

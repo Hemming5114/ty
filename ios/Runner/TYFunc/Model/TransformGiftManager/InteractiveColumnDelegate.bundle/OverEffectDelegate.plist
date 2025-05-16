@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurefrequency</key>
+	<string>singletonMemento</string>
+	<key>mutablecustompaint</key>
+	<string>sinkBorder</string>
+	<key>robustPriority</key>
+	<string>symmetricEntropy</string>
+	<key>shouldAnimateAnimatedContainer</key>
+	<string>dynamicSelector</string>
+	<key>shoulddismisscache</key>
+	<string>canObserveAxis</string>
+	<key>sizematrix</key>
+	<string>draggableBehavior</string>
+	<key>subtleCoordinator</key>
+	<string>tappableEquivalent</string>
+	<key>widgetTail</key>
+	<string>immutableZone</string>
+</dict>
+</plist>

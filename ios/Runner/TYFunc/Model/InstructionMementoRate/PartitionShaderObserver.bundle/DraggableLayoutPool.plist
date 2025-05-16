@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRouter</key>
+	<string>efficiencyVisibility</string>
+	<key>decorationprocessinteraction</key>
+	<string>tickerWork</string>
+	<key>difficultdetector</key>
+	<string>routertype</string>
+	<key>hierarchicalCard</key>
+	<string>gesturedetectorProxy</string>
+	<key>islayout</key>
+	<string>savedecoration</string>
+	<key>iterativeAsset</key>
+	<string>liteComposition</string>
+	<key>shouldStreamCertificate</key>
+	<string>parallelAwait</string>
+	<key>staticStateless</key>
+	<string>challengeMediator</string>
+	<key>unsortedController</key>
+	<string>materialallocatortension</string>
+</dict>
+</plist>

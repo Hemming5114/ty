@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMusic</key>
+	<string>visibleLayout</string>
+	<key>chooserRight</key>
+	<string>nativeGridView</string>
+	<key>geometricCursor</key>
+	<string>canDisposeDuration</string>
+	<key>relationalDescriptor</key>
+	<string>tabviewBehavior</string>
+	<key>remediationvisibility</key>
+	<string>sophisticatedBuffer</string>
+	<key>rowFrequency</key>
+	<string>tweenstagespeed</string>
+	<key>shouldrouteprotocol</key>
+	<string>histogramVariable</string>
+	<key>standaloneEvent</key>
+	<string>stepScale</string>
+</dict>
+</plist>

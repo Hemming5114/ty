@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnState</key>
+	<string>addRow</string>
+	<key>createawait</key>
+	<string>denseQuaternion</string>
+	<key>observecomposition</key>
+	<string>shouldPushSpot</string>
+	<key>publisherbrightness</key>
+	<string>shouldUnmountedRoute</string>
+	<key>slideroutsidestage</key>
+	<string>showSegment</string>
+</dict>
+</plist>

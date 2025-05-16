@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBottom</key>
+	<string>optimizertype</string>
+	<key>chartTop</key>
+	<string>constructGrain</string>
+	<key>deferredTicker</key>
+	<string>defaultcharacter</string>
+	<key>eagerAmortization</key>
+	<string>dependencyfeedback</string>
+	<key>fixedmaterial</key>
+	<string>setupStream</string>
+	<key>functionalComposition</key>
+	<string>gradienttaxonomy</string>
+	<key>notationFrequency</key>
+	<string>paddingsinceprototype</string>
+	<key>polyfillSaturation</key>
+	<string>canDismissCube</string>
+	<key>publicConvolution</key>
+	<string>tableEdge</string>
+	<key>shouldParseSession</key>
+	<string>functionalpopup</string>
+</dict>
+</plist>

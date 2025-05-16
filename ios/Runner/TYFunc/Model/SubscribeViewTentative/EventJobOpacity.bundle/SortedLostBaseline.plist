@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsStyle</key>
+	<string>catalysttransparency</string>
+	<key>invisiblePreview</key>
+	<string>shouldMountController</string>
+	<key>localConvolution</key>
+	<string>deserializePromise</string>
+	<key>logarithmcubit</key>
+	<string>usageSystem</string>
+	<key>nativeGridView</key>
+	<string>controllerforstage</string>
+	<key>shouldBindGridView</key>
+	<string>finishProjection</string>
+	<key>shouldTransformShader</key>
+	<string>nextBrush</string>
+</dict>
+</plist>

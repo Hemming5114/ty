@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalChart</key>
+	<string>canKeepBorder</string>
+	<key>difficultConstraint</key>
+	<string>mobilecurve</string>
+	<key>geometrictimertype</key>
+	<string>desktoppriority</string>
+	<key>inheritedRoute</key>
+	<string>protectedCombiner</string>
+	<key>intermediateMaterializer</key>
+	<string>webSplitter</string>
+	<key>shouldResumeGridView</key>
+	<string>remainderEdge</string>
+	<key>shouldTrainScale</key>
+	<string>declarativecertificate</string>
+</dict>
+</plist>

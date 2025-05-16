@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTitle</key>
+	<string>descentDensity</string>
+	<key>deserializeevent</key>
+	<string>stringifyWidget</string>
+	<key>expandedVelocity</key>
+	<string>normalMatrix</string>
+	<key>pinchableCollection</key>
+	<string>inactivePolyfill</string>
+	<key>priorhash</key>
+	<string>shoulddisposechecklist</string>
+	<key>profileColor</key>
+	<string>relationalTimer</string>
+	<key>sampleStyle</key>
+	<string>mainTime</string>
+	<key>shouldCancelTransition</key>
+	<string>listenerRight</string>
+</dict>
+</plist>

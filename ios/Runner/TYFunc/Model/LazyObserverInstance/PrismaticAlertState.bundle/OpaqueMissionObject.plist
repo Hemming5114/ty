@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatesession</key>
+	<string>shouldRebuildGridView</string>
+	<key>arithmeticparticle</key>
+	<string>shouldRenderStream</string>
+	<key>beginnerFlex</key>
+	<string>shouldContinueSwift</string>
+	<key>diffableAmortization</key>
+	<string>shouldPushAspectRatio</string>
+	<key>oldlistview</key>
+	<string>behaviorDepth</string>
+	<key>radiusspacing</key>
+	<string>divideObserver</string>
+	<key>shouldSetStateProtocol</key>
+	<string>primaryVertex</string>
+</dict>
+</plist>

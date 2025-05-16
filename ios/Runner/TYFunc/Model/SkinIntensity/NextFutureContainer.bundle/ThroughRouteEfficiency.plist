@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStateless</key>
+	<string>integermargin</string>
+	<key>labelState</key>
+	<string>sophisticatedTweak</string>
+	<key>mediumHistogram</key>
+	<string>cacheNavigator</string>
+	<key>shouldDetachCursor</key>
+	<string>spotslider</string>
+	<key>timerEdge</key>
+	<string>composableview</string>
+</dict>
+</plist>

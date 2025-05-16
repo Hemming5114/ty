@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturemethodinset</key>
+	<string>eraseSingleton</string>
+	<key>autosegue</key>
+	<string>channelMode</string>
+	<key>channelsshade</key>
+	<string>loopBridge</string>
+	<key>declarativeResponder</key>
+	<string>standaloneController</string>
+	<key>lastrect</key>
+	<string>petconnector</string>
+	<key>richtextLeft</key>
+	<string>layerStyle</string>
+	<key>shouldReplacePageView</key>
+	<string>intermediateCell</string>
+	<key>statelessmusicvisible</key>
+	<string>missedStream</string>
+</dict>
+</plist>

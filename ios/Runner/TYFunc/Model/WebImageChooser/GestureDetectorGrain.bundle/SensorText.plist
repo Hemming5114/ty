@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorEdge</key>
+	<string>eventaroundmode</string>
+	<key>cubeconsumer</key>
+	<string>canContinueFuture</string>
+	<key>dedicatedMonster</key>
+	<string>shouldKeepCosine</string>
+	<key>disabledContrast</key>
+	<string>singleConsumption</string>
+	<key>localRemediation</key>
+	<string>responsiveBox</string>
+	<key>pivotalResponse</key>
+	<string>shouldDismissInkWell</string>
+	<key>shouldBuildGift</key>
+	<string>popupalignment</string>
+</dict>
+</plist>

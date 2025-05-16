@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionbuilder</key>
+	<string>deserializeStoryboard</string>
+	<key>ephemeralLayout</key>
+	<string>symmetricContainer</string>
+	<key>integrityFormat</key>
+	<string>cleanQueue</string>
+	<key>multiPosition</key>
+	<string>scrollableCheckbox</string>
+	<key>responsiveSlider</key>
+	<string>zoneParameter</string>
+	<key>serviceenvironmentspeed</key>
+	<string>robustBehavior</string>
+	<key>shouldRebuildSegment</key>
+	<string>requiredStatus</string>
+	<key>variantnotation</key>
+	<string>handleResult</string>
+</dict>
+</plist>

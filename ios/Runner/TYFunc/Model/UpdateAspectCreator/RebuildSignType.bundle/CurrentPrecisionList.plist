@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorfeedback</key>
+	<string>resultoffset</string>
+	<key>consumenavigation</key>
+	<string>mainStorage</string>
+	<key>enabledsensor</key>
+	<string>inkwellAdapter</string>
+	<key>largeEntity</key>
+	<string>cursorTail</string>
+	<key>normalReducer</key>
+	<string>animatedTriangles</string>
+	<key>resultbridgeflags</key>
+	<string>cartesianChallenge</string>
+	<key>scaffoldContrast</key>
+	<string>sequentialNavigator</string>
+	<key>sliderSpeed</key>
+	<string>buildChecklist</string>
+	<key>storageDuration</key>
+	<string>dropdownbuttonPhase</string>
+	<key>webTimeline</key>
+	<string>sharedcanvas</string>
+</dict>
+</plist>

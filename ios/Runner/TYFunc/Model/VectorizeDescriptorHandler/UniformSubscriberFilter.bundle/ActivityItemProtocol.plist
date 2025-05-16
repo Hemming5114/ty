@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBox</key>
+	<string>sceneFunction</string>
+	<key>capacitiessaturation</key>
+	<string>largeBinder</string>
+	<key>lifecycleHead</key>
+	<string>continuePromise</string>
+	<key>localGraph</key>
+	<string>cachetolerance</string>
+	<key>receiverInterval</key>
+	<string>canValidateAnimatedContainer</string>
+	<key>selectorDistance</key>
+	<string>blocStatus</string>
+	<key>shouldReplaceUsage</key>
+	<string>multiScope</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPlayback</key>
+	<string>encodeController</string>
+	<key>completionversusfacade</key>
+	<string>stopChecklist</string>
+	<key>crucialHash</key>
+	<string>gesturedetectoroutsidesingleton</string>
+	<key>intermediateBloc</key>
+	<string>canTransitionCosine</string>
+	<key>mainstampright</key>
+	<string>primaryEqualization</string>
+	<key>prevGestureDetector</key>
+	<string>canParseMap</string>
+	<key>profilecard</key>
+	<string>shouldFormatScreen</string>
+	<key>shouldProcessBullet</key>
+	<string>shouldBindNavigator</string>
+</dict>
+</plist>

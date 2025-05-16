@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustcheckbox</key>
+	<string>touchInterface</string>
+	<key>cartesianBitrate</key>
+	<string>fillVector</string>
+	<key>shapefrequency</key>
+	<string>mediocrefragment</string>
+	<key>shouldformatslider</key>
+	<string>canLayoutDescriptor</string>
+</dict>
+</plist>

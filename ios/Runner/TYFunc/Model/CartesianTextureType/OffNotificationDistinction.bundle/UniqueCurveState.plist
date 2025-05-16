@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorDuration</key>
+	<string>shouldBuildDelegate</string>
+	<key>mainPolygon</key>
+	<string>vectorforinterpreter</string>
+	<key>sceneinmemento</key>
+	<string>oldSegue</string>
+	<key>texturetraversal</key>
+	<string>shouldUnbindText</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletagainstsingleton</key>
+	<string>kernelContrast</string>
+	<key>constraintstructureflags</key>
+	<string>connectGrayscale</string>
+	<key>notifyclipper</key>
+	<string>resumeSizedBox</string>
+	<key>resilientconsumercontrast</key>
+	<string>fusedStack</string>
+	<key>resizableMap</key>
+	<string>collectionMediator</string>
+</dict>
+</plist>

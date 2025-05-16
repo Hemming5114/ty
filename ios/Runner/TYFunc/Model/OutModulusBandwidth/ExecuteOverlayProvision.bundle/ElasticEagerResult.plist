@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryTail</key>
+	<string>resumeexpanded</string>
+	<key>elasticGraph</key>
+	<string>petResponse</string>
+	<key>fragmentprocessvisible</key>
+	<string>inactiveDropdownButton</string>
+	<key>hyperbolicWorkflow</key>
+	<string>transformerFrequency</string>
+	<key>mobileEvent</key>
+	<string>logarithmrotation</string>
+	<key>nextcallbackborder</key>
+	<string>missedCube</string>
+	<key>reusableAllocator</key>
+	<string>canUnmountedBaseline</string>
+	<key>schemaAcceleration</key>
+	<string>imperativeTimeline</string>
+</dict>
+</plist>

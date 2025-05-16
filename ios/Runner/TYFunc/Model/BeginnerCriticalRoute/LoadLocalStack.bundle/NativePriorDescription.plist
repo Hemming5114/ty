@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticallayouttheme</key>
+	<string>responsecount</string>
+	<key>deflatereduction</key>
+	<string>fragmentVisitor</string>
+	<key>fusedBox</key>
+	<string>subscriptionTheme</string>
+	<key>graphVelocity</key>
+	<string>canResumeAlert</string>
+	<key>grayscaleBrightness</key>
+	<string>canDisconnectGift</string>
+	<key>moduleType</key>
+	<string>semanticsDuration</string>
+	<key>nativeState</key>
+	<string>dimensionadapterinterval</string>
+	<key>specifystoragepadding</key>
+	<string>reactiveposition</string>
+</dict>
+</plist>

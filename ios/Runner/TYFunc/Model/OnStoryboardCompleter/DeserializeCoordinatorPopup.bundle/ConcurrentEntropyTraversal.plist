@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachrouter</key>
+	<string>autoAsync</string>
+	<key>bitratebyprototype</key>
+	<string>measurevariant</string>
+	<key>flexibleSkirt</key>
+	<string>shouldUnbindVariant</string>
+	<key>inheritedTaxonomy</key>
+	<string>canPresentOptimizer</string>
+	<key>radiusfunctionbottom</key>
+	<string>lossDirection</string>
+</dict>
+</plist>

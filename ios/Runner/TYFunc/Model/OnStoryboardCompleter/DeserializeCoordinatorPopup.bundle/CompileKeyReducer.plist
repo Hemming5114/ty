@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialRadius</key>
+	<string>impressionLocation</string>
+	<key>defaultNib</key>
+	<string>canCreateBullet</string>
+	<key>disposecontainer</key>
+	<string>webTolerance</string>
+	<key>extensionDelay</key>
+	<string>fetchSkirt</string>
+	<key>interactorpadding</key>
+	<string>statusPadding</string>
+	<key>playbackedge</key>
+	<string>seamlessExponent</string>
+	<key>symmetricCallback</key>
+	<string>binaryobject</string>
+	<key>tappableWorkflow</key>
+	<string>alertContext</string>
+	<key>unsortedrequest</key>
+	<string>shouldFinishStack</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoName</key>
+	<string>sharedcompletion</string>
+	<key>immutableView</key>
+	<string>asynchronousNorm</string>
+	<key>imperativePolyfill</key>
+	<string>popManager</string>
+	<key>mobileGesture</key>
+	<string>activeSkin</string>
+	<key>musicchart</key>
+	<string>bundleParticle</string>
+	<key>prismaticNib</key>
+	<string>denseMember</string>
+	<key>shouldRenderConsumer</key>
+	<string>interactiveEmitter</string>
+</dict>
+</plist>

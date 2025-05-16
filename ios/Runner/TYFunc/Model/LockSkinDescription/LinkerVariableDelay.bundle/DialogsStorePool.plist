@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentdata</key>
+	<string>canReplaceMaster</string>
+	<key>dedicatedPublisher</key>
+	<string>labelstroke</string>
+	<key>dimensionequivalent</key>
+	<string>cancelTabBar</string>
+	<key>independentAscent</key>
+	<string>uniformRecursion</string>
+	<key>lazyContrast</key>
+	<string>dispatcherState</string>
+	<key>prismaticNib</key>
+	<string>inflatedocument</string>
+	<key>shaderexception</key>
+	<string>liteVideo</string>
+	<key>sharedController</key>
+	<string>batchVisibility</string>
+	<key>shouldAnimatePageView</key>
+	<string>unscheduleTopic</string>
+	<key>vectortempletheme</key>
+	<string>undertakeTimer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainrate</key>
+	<string>adaptiveIsolate</string>
+	<key>inheritedDelegate</key>
+	<string>routeparametervalidation</string>
+	<key>lifecycleTail</key>
+	<string>directlyPreview</string>
+	<key>permanentCard</key>
+	<string>mountedTransition</string>
+	<key>persistentCoordinator</key>
+	<string>layoutMusic</string>
+	<key>rowmediatordirection</key>
+	<string>provisionCount</string>
+	<key>scrollableProvision</key>
+	<string>tickerconverter</string>
+	<key>stateBorder</key>
+	<string>radiosize</string>
+</dict>
+</plist>

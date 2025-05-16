@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIndicator</key>
+	<string>streamframe</string>
+	<key>lazyCubit</key>
+	<string>gridviewContext</string>
+	<key>resourceOrientation</key>
+	<string>localizationJob</string>
+	<key>shouldSetStateClipper</key>
+	<string>marginMediator</string>
+	<key>signexception</key>
+	<string>persistView</string>
+	<key>substantialcheckboxindex</key>
+	<string>pauseDropdownButton</string>
+	<key>titlePosition</key>
+	<string>integerEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCanvas</key>
+	<string>euclideanScene</string>
+	<key>beginnerGraphic</key>
+	<string>statefulContrast</string>
+	<key>configurationDuration</key>
+	<string>oldTolerance</string>
+	<key>greatSpot</key>
+	<string>overrideInjection</string>
+	<key>linkerOrigin</key>
+	<string>canDetachSubpixel</string>
+	<key>materialBloc</key>
+	<string>animateAlpha</string>
+	<key>shouldNotifyShader</key>
+	<string>symmetricFormat</string>
+	<key>shouldmounteddialogs</key>
+	<string>transpileUtil</string>
+</dict>
+</plist>

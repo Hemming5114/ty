@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFragment</key>
+	<string>syncCallback</string>
+	<key>cursorAppearance</key>
+	<string>canDeserializeRow</string>
+	<key>groupmomentum</key>
+	<string>hierarchicalAnchor</string>
+	<key>interactionTheme</key>
+	<string>precisionmomentum</string>
+	<key>shouldPaintCompletion</key>
+	<string>replaceLayout</string>
+	<key>subsequentElement</key>
+	<string>replicateChart</string>
+	<key>tappableFactory</key>
+	<string>missedsizeacceleration</string>
+	<key>typicalTaxonomy</key>
+	<string>canPaintSizedBox</string>
+</dict>
+</plist>

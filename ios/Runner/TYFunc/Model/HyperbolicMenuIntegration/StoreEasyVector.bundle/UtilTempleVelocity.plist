@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCustomPaint</key>
+	<string>easyConnector</string>
+	<key>otherInteractor</key>
+	<string>canPaintListView</string>
+	<key>priorOverlay</key>
+	<string>canReplaceStep</string>
+	<key>throughputmomentum</key>
+	<string>cubitbeyondmode</string>
+	<key>transitionOrientation</key>
+	<string>canPushDialogs</string>
+</dict>
+</plist>

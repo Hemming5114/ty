@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronoustexture</key>
+	<string>accordionMethod</string>
+	<key>dissociatealignment</key>
+	<string>canDismissDropdownButton</string>
+	<key>missedBrush</key>
+	<string>disparateColumn</string>
+	<key>screenMode</key>
+	<string>metadatataxonomy</string>
+	<key>shouldAttachMission</key>
+	<string>shouldSerializeMatrix</string>
+</dict>
+</plist>

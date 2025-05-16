@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeLocalization</key>
+	<string>shouldProcessCollection</string>
+	<key>easyScheduler</key>
+	<string>allocateWidget</string>
+	<key>eventstate</key>
+	<string>processAsync</string>
+	<key>notationstate</key>
+	<string>polyfillOrientation</string>
+	<key>secondConverter</key>
+	<string>notifyEquipment</string>
+	<key>sharedlayoutinset</key>
+	<string>listviewPrototype</string>
+</dict>
+</plist>

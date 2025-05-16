@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderBound</key>
+	<string>fusedalignment</string>
+	<key>convolutionValidation</key>
+	<string>effectComposite</string>
+	<key>eventshade</key>
+	<string>playbackProcess</string>
+	<key>gateacceleration</key>
+	<string>uniformReceiver</string>
+	<key>intermediateDelivery</key>
+	<string>serializeBoxShadow</string>
+	<key>observermethodopacity</key>
+	<string>variantRotation</string>
+	<key>prevSine</key>
+	<string>semanticqueueskewx</string>
+	<key>smallService</key>
+	<string>unsortedreference</string>
+	<key>strokeTension</key>
+	<string>dataTension</string>
+	<key>tensorProject</key>
+	<string>exponentbesidecomposite</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAppearance</key>
+	<string>canLoadController</string>
+	<key>difficultcursorskewx</key>
+	<string>shouldRestartSensor</string>
+	<key>discardedUsage</key>
+	<string>yieldskirt</string>
+	<key>flexibleProvider</key>
+	<string>compileplate</string>
+	<key>shouldPaintDocument</key>
+	<string>strengthhue</string>
+	<key>shouldPublishBloc</key>
+	<string>canDeserializeNavigator</string>
+</dict>
+</plist>

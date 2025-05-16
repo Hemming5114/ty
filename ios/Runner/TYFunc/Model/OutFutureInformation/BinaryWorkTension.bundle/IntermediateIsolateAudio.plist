@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledObserver</key>
+	<string>smallScenario</string>
+	<key>filterleft</key>
+	<string>canProcessBinary</string>
+	<key>nativeSubpixel</key>
+	<string>sharedTweak</string>
+	<key>ongramtap</key>
+	<string>gradientFeedback</string>
+	<key>rectCount</key>
+	<string>publicImpact</string>
+	<key>shouldEndInkWell</key>
+	<string>canDisconnectCheckbox</string>
+	<key>shouldPrepareMovement</key>
+	<string>difficultUsage</string>
+	<key>smartMonster</key>
+	<string>canStartGem</string>
+	<key>specifyDelivery</key>
+	<string>geometricRow</string>
+	<key>unactivatedThreshold</key>
+	<string>discardedBitrate</string>
+</dict>
+</plist>

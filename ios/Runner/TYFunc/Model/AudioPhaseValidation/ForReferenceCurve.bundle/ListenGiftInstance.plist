@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContainer</key>
+	<string>offsetLocalization</string>
+	<key>geometricchannels</key>
+	<string>inactiveOperation</string>
+	<key>itemTag</key>
+	<string>symmetricDependency</string>
+	<key>mountbehavior</key>
+	<string>contractionVariable</string>
+	<key>requiredInstruction</key>
+	<string>paintNotification</string>
+	<key>scrollerShape</key>
+	<string>logobserver</string>
+	<key>shouldUnmountGraphic</key>
+	<string>canNotifyKernel</string>
+	<key>standaloneGesture</key>
+	<string>canParseCache</string>
+	<key>toolRotation</key>
+	<string>keyStorage</string>
+</dict>
+</plist>

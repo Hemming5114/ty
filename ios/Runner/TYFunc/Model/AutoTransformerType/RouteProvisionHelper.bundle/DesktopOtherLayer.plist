@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectinterval</key>
+	<string>eageraspectratio</string>
+	<key>compositionSize</key>
+	<string>smartGrid</string>
+	<key>contrastStyle</key>
+	<string>elasticityDelay</string>
+	<key>destroymethod</key>
+	<string>mountedGrayscale</string>
+	<key>inheritedPicker</key>
+	<string>richtextOrigin</string>
+	<key>layercolor</key>
+	<string>menuPhase</string>
+	<key>mobileAudio</key>
+	<string>sophisticatedMediaQuery</string>
+	<key>shouldPushHero</key>
+	<string>enabledIntegration</string>
+	<key>usageactiontype</key>
+	<string>canPresentAppBar</string>
+</dict>
+</plist>

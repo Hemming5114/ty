@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTransformer</key>
+	<string>mobileRepository</string>
+	<key>brushorigin</key>
+	<string>canAnimateCaption</string>
+	<key>compositionalCoordinator</key>
+	<string>responsiveSelector</string>
+	<key>gesturedetectormode</key>
+	<string>shouldobservecatalyst</string>
+	<key>lostPriority</key>
+	<string>concreteSingleton</string>
+	<key>shouldPushLoss</key>
+	<string>protocolResponse</string>
+	<key>shouldValidateBuilder</key>
+	<string>textureRight</string>
+</dict>
+</plist>

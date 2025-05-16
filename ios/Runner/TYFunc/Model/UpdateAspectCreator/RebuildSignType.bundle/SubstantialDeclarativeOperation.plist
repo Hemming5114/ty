@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameShade</key>
+	<string>canKeepRichText</string>
+	<key>lazyScroller</key>
+	<string>paddinghue</string>
+	<key>originalnode</key>
+	<string>activatedTimeline</string>
+	<key>shouldBindProfile</key>
+	<string>richtextcompositebound</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFeature</key>
+	<string>annotateCurve</string>
+	<key>extensiontriangles</key>
+	<string>mainDescent</string>
+	<key>gridviewsink</key>
+	<string>executeRoute</string>
+	<key>inflatecollection</key>
+	<string>shouldUnbindListView</string>
+	<key>roleshader</key>
+	<string>assetTop</string>
+	<key>utilCenter</key>
+	<string>embedbutton</string>
+</dict>
+</plist>

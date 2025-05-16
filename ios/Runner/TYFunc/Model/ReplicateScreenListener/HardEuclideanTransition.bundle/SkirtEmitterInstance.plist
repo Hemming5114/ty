@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasBehavior</key>
+	<string>directmomentum</string>
+	<key>defaultworkflow</key>
+	<string>hierarchicalBuffer</string>
+	<key>durationbottom</key>
+	<string>aspectColor</string>
+	<key>interactorlikeaction</key>
+	<string>agileComposition</string>
+	<key>previewInterval</key>
+	<string>listenRequest</string>
+	<key>rangeAlignment</key>
+	<string>pivotalContrast</string>
+	<key>significantactioninset</key>
+	<string>overlayagainstframework</string>
+	<key>unsortedSegue</key>
+	<string>themeInterval</string>
+</dict>
+</plist>

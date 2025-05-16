@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentRotation</key>
+	<string>currentDrawer</string>
+	<key>convolutionDelay</key>
+	<string>criticalTicker</string>
+	<key>inkwellinsidebuffer</key>
+	<string>custompaintpadding</string>
+	<key>sharedStateless</key>
+	<string>granularBandwidth</string>
+	<key>shouldshowgraphic</key>
+	<string>relationalFilter</string>
+	<key>synchronousFactory</key>
+	<string>handlerForce</string>
+</dict>
+</plist>

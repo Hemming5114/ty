@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatepadding</key>
+	<string>deployEvent</string>
+	<key>basicCurve</key>
+	<string>canUpdateScreen</string>
+	<key>delicateSwift</key>
+	<string>shouldDeserializeTransition</string>
+	<key>entityTop</key>
+	<string>permanentCharacter</string>
+	<key>futuredrawer</key>
+	<string>tabviewType</string>
+	<key>hardscrollcontrast</key>
+	<string>missedIndicator</string>
+	<key>iterativeTool</key>
+	<string>canEndBorder</string>
+	<key>transitionValidation</key>
+	<string>logComposite</string>
+</dict>
+</plist>

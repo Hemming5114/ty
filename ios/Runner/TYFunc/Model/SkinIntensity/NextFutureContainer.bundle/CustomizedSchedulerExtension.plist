@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custombinary</key>
+	<string>integerLevel</string>
+	<key>hardRange</key>
+	<string>callbackScope</string>
+	<key>switchcontrast</key>
+	<string>touchpreview</string>
+</dict>
+</plist>

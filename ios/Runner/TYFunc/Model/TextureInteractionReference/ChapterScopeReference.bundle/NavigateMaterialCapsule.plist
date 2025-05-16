@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchvideo</key>
+	<string>providerForm</string>
+	<key>channelValidation</key>
+	<string>compareText</string>
+	<key>displayableCheckbox</key>
+	<string>startNotifier</string>
+	<key>semanticTask</key>
+	<string>unregisterRadius</string>
+	<key>uniqueSkin</key>
+	<string>lastRect</string>
+	<key>unmountentity</key>
+	<string>keyWrapper</string>
+</dict>
+</plist>

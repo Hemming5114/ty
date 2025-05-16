@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directtraversal</key>
+	<string>matrixKind</string>
+	<key>easyradius</key>
+	<string>canParseTouch</string>
+	<key>metadatavisibility</key>
+	<string>semanticsFunction</string>
+	<key>permissivecluster</key>
+	<string>lastMerger</string>
+	<key>shouldAnimateInkWell</key>
+	<string>canUnmountRichText</string>
+	<key>tappabletool</key>
+	<string>aspectratioDistance</string>
+</dict>
+</plist>

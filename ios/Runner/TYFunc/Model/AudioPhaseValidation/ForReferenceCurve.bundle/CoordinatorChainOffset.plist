@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcoordinator</key>
+	<string>cosineOffset</string>
+	<key>configurationSpeed</key>
+	<string>replaceButton</string>
+	<key>enabledCell</key>
+	<string>canTransformStack</string>
+	<key>interactivechooser</key>
+	<string>unactivatedPoint</string>
+	<key>oncubetap</key>
+	<string>featureStyle</string>
+	<key>publicAwait</key>
+	<string>canHandleTabView</string>
+	<key>significantCapacities</key>
+	<string>scrollableData</string>
+	<key>singleDetector</key>
+	<string>dynamicDisclaimer</string>
+	<key>uniqueSingleton</key>
+	<string>divideController</string>
+</dict>
+</plist>

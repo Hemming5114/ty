@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBase</key>
+	<string>shouldFormatLog</string>
+	<key>detachhero</key>
+	<string>scaffoldProxy</string>
+	<key>resumespecifier</key>
+	<string>disconnectpoint</string>
+	<key>reusableNavigator</key>
+	<string>combineEntity</string>
+	<key>shouldDecodeMember</key>
+	<string>concurrentStoryboard</string>
+	<key>shouldPersistAspectRatio</key>
+	<string>bufferAdapter</string>
+	<key>subsequentFrame</key>
+	<string>enhanceButton</string>
+</dict>
+</plist>

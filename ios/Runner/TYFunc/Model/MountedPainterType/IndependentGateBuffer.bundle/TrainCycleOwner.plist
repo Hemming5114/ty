@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalWidget</key>
+	<string>latencyScale</string>
+	<key>labelTension</key>
+	<string>canTransitionCell</string>
+	<key>lostEntropy</key>
+	<string>canSaveTernary</string>
+	<key>modalDirection</key>
+	<string>customAmortization</string>
+	<key>reactiveChannels</key>
+	<string>unbindFlex</string>
+	<key>shouldSubscribeExponent</key>
+	<string>combineLayer</string>
+	<key>spineTint</key>
+	<string>locateTicker</string>
+	<key>staticReference</key>
+	<string>compositionalMenu</string>
+</dict>
+</plist>

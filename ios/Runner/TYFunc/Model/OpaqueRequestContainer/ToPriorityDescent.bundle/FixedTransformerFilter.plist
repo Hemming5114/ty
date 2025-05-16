@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorBehavior</key>
+	<string>movementWork</string>
+	<key>modelHue</key>
+	<string>boxKind</string>
+	<key>musicprogressbar</key>
+	<string>embedResolver</string>
+	<key>onswitchchanged</key>
+	<string>momentumEdge</string>
+	<key>parallelMobile</key>
+	<string>singleOffset</string>
+	<key>pinchableRadio</key>
+	<string>fixedCycle</string>
+	<key>selectorPosition</key>
+	<string>dedicatedSpine</string>
+	<key>shouldFinishScreen</key>
+	<string>pauseNotifier</string>
+	<key>tabbarbinder</key>
+	<string>textcompositevisibility</string>
+	<key>thresholdDuration</key>
+	<string>textureChain</string>
+</dict>
+</plist>

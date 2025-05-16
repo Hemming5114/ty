@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivemenu</key>
+	<string>subscriberResponse</string>
+	<key>desktopsink</key>
+	<string>customDescription</string>
+	<key>dropdownbuttonDuration</key>
+	<string>subpixelFacade</string>
+	<key>interactiveCell</key>
+	<string>restoreduration</string>
+	<key>shouldEndNotification</key>
+	<string>shouldParseCard</string>
+	<key>shouldNavigateExponent</key>
+	<string>frameProcess</string>
+	<key>timerType</key>
+	<string>storeIsolate</string>
+</dict>
+</plist>

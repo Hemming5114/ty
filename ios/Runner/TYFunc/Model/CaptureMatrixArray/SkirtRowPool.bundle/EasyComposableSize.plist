@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarykind</key>
+	<string>displayableBaseline</string>
+	<key>customBase</key>
+	<string>durationstate</string>
+	<key>dismisscard</key>
+	<string>eraseUtil</string>
+	<key>disparateVertex</key>
+	<string>collectionSize</string>
+	<key>elasticDuration</key>
+	<string>checkAllocator</string>
+	<key>fixedHash</key>
+	<string>layerAction</string>
+	<key>invisibleCompleter</key>
+	<string>texturebound</string>
+	<key>mediumSymbol</key>
+	<string>shouldDeserializeCompletion</string>
+	<key>observerRotation</key>
+	<string>shouldObserveCatalyst</string>
+	<key>robustarchitecture</key>
+	<string>giftthroughprototype</string>
+</dict>
+</plist>

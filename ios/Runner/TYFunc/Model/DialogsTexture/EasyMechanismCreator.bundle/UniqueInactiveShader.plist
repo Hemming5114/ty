@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardNode</key>
+	<string>canSkipAlert</string>
+	<key>symmetricIntensity</key>
+	<string>euclideanEntropy</string>
+	<key>vectorvisitortransparency</key>
+	<string>canLoadIndicator</string>
+</dict>
+</plist>

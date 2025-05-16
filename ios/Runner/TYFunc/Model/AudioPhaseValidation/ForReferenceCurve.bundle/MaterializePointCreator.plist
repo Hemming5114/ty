@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProvider</key>
+	<string>bulletBottom</string>
+	<key>chapterbeyondproxy</key>
+	<string>spotOperation</string>
+	<key>currentchannels</key>
+	<string>inactiveDependency</string>
+	<key>granularlistenertype</key>
+	<string>bitrateoffset</string>
+	<key>integrationDensity</key>
+	<string>canAttachBinary</string>
+	<key>retainedSubscription</key>
+	<string>maxPriority</string>
+	<key>startpresenter</key>
+	<string>buildLogarithm</string>
+</dict>
+</plist>

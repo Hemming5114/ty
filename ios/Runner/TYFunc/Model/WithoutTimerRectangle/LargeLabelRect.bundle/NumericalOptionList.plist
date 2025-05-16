@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblestoragecolor</key>
+	<string>dynamicHandler</string>
+	<key>borderevaluation</key>
+	<string>decodeScale</string>
+	<key>euclideanTouch</key>
+	<string>builderBound</string>
+	<key>gemCenter</key>
+	<string>plateInset</string>
+	<key>gesturedetectormapper</key>
+	<string>distinctionFlags</string>
+	<key>metadataDirection</key>
+	<string>ephemeralscale</string>
+	<key>methodshapepadding</key>
+	<string>materialGridView</string>
+	<key>oldAnimator</key>
+	<string>boxshadowhandler</string>
+	<key>specifybullet</key>
+	<string>respectiveEvolution</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptertraversal</key>
+	<string>rebuildasset</string>
+	<key>constraintcompositeacceleration</key>
+	<string>frameForce</string>
+	<key>handlermomentum</key>
+	<string>canDisconnectScreen</string>
+	<key>interfacelatency</key>
+	<string>handlerResponse</string>
+	<key>metricsValidation</key>
+	<string>canPreparePainter</string>
+	<key>previewOrigin</key>
+	<string>overlayfacadedensity</string>
+	<key>shouldListenSign</key>
+	<string>tweenwithoutcomposite</string>
+</dict>
+</plist>

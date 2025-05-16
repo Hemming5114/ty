@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTask</key>
+	<string>granularBorder</string>
+	<key>arithmeticparametercontrast</key>
+	<string>explicitEvolution</string>
+	<key>capacitiespopup</key>
+	<string>lazyGesture</string>
+	<key>controllerpublisher</key>
+	<string>inheritedCreator</string>
+	<key>permissiveDrawer</key>
+	<string>shouldBindGrayscale</string>
+	<key>permissiveTabBar</key>
+	<string>canPaintSlider</string>
+	<key>subtlePosition</key>
+	<string>accessoryindex</string>
+	<key>wrapbinary</key>
+	<string>effectrouter</string>
+</dict>
+</plist>

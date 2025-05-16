@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureRate</key>
+	<string>statelessChooser</string>
+	<key>desktopRepository</key>
+	<string>polyfillDensity</string>
+	<key>enabledIcon</key>
+	<string>iterativeProvider</string>
+	<key>independentColumn</key>
+	<string>toolInterpreter</string>
+	<key>prevMovement</key>
+	<string>navigationTag</string>
+	<key>shouldBindMonster</key>
+	<string>streamlineChart</string>
+	<key>shouldDismissGradient</key>
+	<string>scaleCoord</string>
+	<key>transitionloader</key>
+	<string>dedicatedMomentum</string>
+</dict>
+</plist>

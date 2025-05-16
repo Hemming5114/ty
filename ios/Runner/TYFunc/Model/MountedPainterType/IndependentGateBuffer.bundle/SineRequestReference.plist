@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderphasesize</key>
+	<string>captureCompleter</string>
+	<key>generatecosine</key>
+	<string>exponentHue</string>
+	<key>inkwellOrientation</key>
+	<string>geometricGridView</string>
+	<key>projectionScale</key>
+	<string>subscriptionSystem</string>
+	<key>skinMode</key>
+	<string>disabledTraversal</string>
+</dict>
+</plist>

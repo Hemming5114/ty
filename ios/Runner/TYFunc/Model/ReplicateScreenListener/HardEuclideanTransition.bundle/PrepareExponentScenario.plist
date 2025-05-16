@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInset</key>
+	<string>rectifyMethod</string>
+	<key>disabledradio</key>
+	<string>removeConstraint</string>
+	<key>exceptiondelivery</key>
+	<string>decodeGridView</string>
+	<key>mainOperation</key>
+	<string>compositionalInkWell</string>
+	<key>modalfacadelocation</key>
+	<string>unmountEffect</string>
+	<key>respectiveDialogs</key>
+	<string>statefulImage</string>
+	<key>robustCurve</key>
+	<string>listenerRate</string>
+	<key>shouldPauseAlert</key>
+	<string>shaderDistance</string>
+	<key>shouldPopEqualization</key>
+	<string>prismaticHash</string>
+</dict>
+</plist>

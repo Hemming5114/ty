@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addconfiguration</key>
+	<string>tappableequalization</string>
+	<key>disconnectconstraint</key>
+	<string>layoutDialogs</string>
+	<key>explicitUsage</key>
+	<string>embraceTopic</string>
+	<key>hasNavigator</key>
+	<string>notifychallenge</string>
+	<key>iterativeChapter</key>
+	<string>pinchableVolume</string>
+	<key>uniqueMerger</key>
+	<string>sessionOrientation</string>
+	<key>volumeBorder</key>
+	<string>lifecycleBottom</string>
+</dict>
+</plist>

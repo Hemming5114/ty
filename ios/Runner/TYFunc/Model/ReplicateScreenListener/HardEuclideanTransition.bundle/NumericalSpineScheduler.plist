@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePainter</key>
+	<string>detachsegment</string>
+	<key>animatedChannels</key>
+	<string>eventSkewY</string>
+	<key>checkboxprocesstype</key>
+	<string>globalWidget</string>
+	<key>difficultProcessor</key>
+	<string>effectRight</string>
+	<key>inheritedScreen</key>
+	<string>musicStyle</string>
+	<key>publicScaffold</key>
+	<string>visualizefactory</string>
+	<key>sharedAspect</key>
+	<string>hasGram</string>
+</dict>
+</plist>

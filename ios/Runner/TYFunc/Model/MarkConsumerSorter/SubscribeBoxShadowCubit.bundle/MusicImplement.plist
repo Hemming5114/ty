@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousOccasion</key>
+	<string>crudePromise</string>
+	<key>controllercommandtype</key>
+	<string>validateheap</string>
+	<key>deserializetabview</key>
+	<string>savePoint</string>
+	<key>disparateGradient</key>
+	<string>challengeSpeed</string>
+	<key>respectivePositioned</key>
+	<string>flexthancycle</string>
+	<key>reusablemerger</key>
+	<string>paintSpot</string>
+	<key>shouldParseBitrate</key>
+	<string>texturedepth</string>
+	<key>smartGradient</key>
+	<string>shouldBuildMaterial</string>
+	<key>substantialSensor</key>
+	<string>shouldCreateContainer</string>
+	<key>uniqueLatency</key>
+	<string>activeSlider</string>
+</dict>
+</plist>

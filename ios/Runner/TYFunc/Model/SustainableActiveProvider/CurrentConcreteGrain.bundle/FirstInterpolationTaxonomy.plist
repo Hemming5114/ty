@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMetadata</key>
+	<string>cartesianReducer</string>
+	<key>enabledObject</key>
+	<string>tappablePolygon</string>
+	<key>ephemeralCursor</key>
+	<string>resolverEdge</string>
+	<key>logarithmstateright</key>
+	<string>canReplaceChecklist</string>
+	<key>shouldEmitAppBar</key>
+	<string>vertexDirection</string>
+	<key>shouldRenderPageView</key>
+	<string>subtleListener</string>
+</dict>
+</plist>

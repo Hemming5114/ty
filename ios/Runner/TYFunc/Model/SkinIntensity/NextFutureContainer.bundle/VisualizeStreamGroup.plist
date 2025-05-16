@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commondurationbrightness</key>
+	<string>shouldLayoutBloc</string>
+	<key>oldTween</key>
+	<string>saveBinary</string>
+	<key>optimizerInteraction</key>
+	<string>touchofactivity</string>
+	<key>paddingstyle</key>
+	<string>localstoryboardvalidation</string>
+	<key>ternaryvisible</key>
+	<string>canUnbindAxis</string>
+</dict>
+</plist>

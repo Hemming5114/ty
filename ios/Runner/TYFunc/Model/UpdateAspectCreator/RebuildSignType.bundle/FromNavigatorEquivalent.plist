@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentinsidesystem</key>
+	<string>canCacheImage</string>
+	<key>desktoptween</key>
+	<string>notifierscene</string>
+	<key>independentDimension</key>
+	<string>notationFlags</string>
+	<key>managerPressure</key>
+	<string>builderPadding</string>
+	<key>shouldResumeCanvas</key>
+	<string>upgradeHandler</string>
+	<key>shouldSaveNotification</key>
+	<string>scrollValidation</string>
+	<key>transitionfuture</key>
+	<string>segmentScale</string>
+</dict>
+</plist>

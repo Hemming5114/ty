@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBehavior</key>
+	<string>declarativeTraversal</string>
+	<key>comprehensiveManager</key>
+	<string>desktopScroller</string>
+	<key>decodegraph</key>
+	<string>clipperMemento</string>
+	<key>memberSpeed</key>
+	<string>mobileThreshold</string>
+	<key>pageviewIndex</key>
+	<string>shouldUnmountedProtocol</string>
+	<key>rangeCount</key>
+	<string>specifierarounddecorator</string>
+	<key>shouldAttachComposition</key>
+	<string>shouldpushbutton</string>
+</dict>
+</plist>

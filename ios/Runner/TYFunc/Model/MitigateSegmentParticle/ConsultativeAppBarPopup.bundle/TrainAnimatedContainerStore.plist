@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateprecision</key>
+	<string>imageAction</string>
+	<key>intermediateTicker</key>
+	<string>appendState</string>
+	<key>iterativeFilter</key>
+	<string>cartesianscroll</string>
+	<key>iterativeMedia</key>
+	<string>recttentative</string>
+	<key>transitionversusmode</key>
+	<string>respectiveDescent</string>
+</dict>
+</plist>

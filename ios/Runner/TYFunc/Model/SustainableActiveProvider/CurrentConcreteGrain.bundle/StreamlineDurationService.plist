@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMetrics</key>
+	<string>optionLeft</string>
+	<key>dedicatedCompleter</key>
+	<string>reusableHistogram</string>
+	<key>desktopTechnique</key>
+	<string>immutableScroller</string>
+	<key>draggablecycle</key>
+	<string>activateCurve</string>
+	<key>giftHead</key>
+	<string>shouldYieldAnimatedContainer</string>
+	<key>globalthreadtension</key>
+	<string>hierarchicalGradient</string>
+	<key>listviewinterface</key>
+	<string>referenceTheme</string>
+	<key>similarSize</key>
+	<string>expandedSingleton</string>
+	<key>stampFrequency</key>
+	<string>accessibleDetail</string>
+	<key>toolbottom</key>
+	<string>pageviewStage</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalBinder</key>
+	<string>largeSensor</string>
+	<key>currentMesh</key>
+	<string>mapperBorder</string>
+	<key>dedicatedSound</key>
+	<string>statelessFunction</string>
+	<key>descriptorsensor</key>
+	<string>currentView</string>
+	<key>granularDimension</key>
+	<string>elasticVertex</string>
+	<key>intermediateMetadata</key>
+	<string>compositionType</string>
+	<key>isolateRate</key>
+	<string>cubitColor</string>
+	<key>modulusparticle</key>
+	<string>unsortedconvolutionrate</string>
+	<key>oldPermutation</key>
+	<string>associatedRoute</string>
+	<key>transposeaspect</key>
+	<string>beginnerDisclaimer</string>
+</dict>
+</plist>

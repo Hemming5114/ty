@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSpacing</key>
+	<string>shouldDeserializeIndicator</string>
+	<key>intuitiveMaster</key>
+	<string>lostScheduler</string>
+	<key>iterativeSegment</key>
+	<string>unmountOverlay</string>
+	<key>metricsFlags</key>
+	<string>appbarRotation</string>
+	<key>modalshape</key>
+	<string>provideRepository</string>
+	<key>prevNode</key>
+	<string>generateText</string>
+	<key>reusableDropdownButton</key>
+	<string>significantFinder</string>
+	<key>viewOpacity</key>
+	<string>decouplestream</string>
+</dict>
+</plist>

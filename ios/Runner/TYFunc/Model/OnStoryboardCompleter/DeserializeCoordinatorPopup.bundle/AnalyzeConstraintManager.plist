@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSlider</key>
+	<string>boxshadowTask</string>
+	<key>cubittransformer</key>
+	<string>actionInterpreter</string>
+	<key>inheritedTopic</key>
+	<string>metadataTheme</string>
+	<key>pinchableBrush</key>
+	<string>beginnerEvent</string>
+	<key>pointFormat</key>
+	<string>subsequentProcessor</string>
+	<key>resizableInkWell</key>
+	<string>mediocreEffect</string>
+	<key>stepcoord</key>
+	<string>persistAnchor</string>
+</dict>
+</plist>

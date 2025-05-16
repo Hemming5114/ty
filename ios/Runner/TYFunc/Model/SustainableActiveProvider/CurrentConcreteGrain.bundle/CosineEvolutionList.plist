@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityIndex</key>
+	<string>arithmeticGestureDetector</string>
+	<key>clipperresolver</key>
+	<string>unbindmanager</string>
+	<key>concreteParticle</key>
+	<string>persistentManager</string>
+	<key>cubitadaptertype</key>
+	<string>viewinsidefunction</string>
+	<key>independentExpanded</key>
+	<string>currentConstraint</string>
+	<key>staticEntity</key>
+	<string>positionContext</string>
+</dict>
+</plist>

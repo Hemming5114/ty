@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReliability</key>
+	<string>canUnmountSpot</string>
+	<key>customframetag</key>
+	<string>shouldpausedelegate</string>
+	<key>heapFeedback</key>
+	<string>singleSink</string>
+	<key>mainAnimation</key>
+	<string>revisitResolver</string>
+	<key>primaryItem</key>
+	<string>shouldEndChallenge</string>
+</dict>
+</plist>

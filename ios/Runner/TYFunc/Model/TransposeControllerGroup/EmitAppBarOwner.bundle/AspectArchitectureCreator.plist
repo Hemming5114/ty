@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mechanismDensity</key>
+	<string>featuredispatcher</string>
+	<key>persistentIcon</key>
+	<string>ephemeralSymbol</string>
+	<key>scopeTransparency</key>
+	<string>delicateActivity</string>
+	<key>variantwithvisitor</key>
+	<string>presentAlert</string>
+</dict>
+</plist>

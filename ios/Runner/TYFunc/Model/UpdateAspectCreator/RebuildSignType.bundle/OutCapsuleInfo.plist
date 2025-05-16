@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentFrequency</key>
+	<string>typicalBoxShadow</string>
+	<key>fusedTolerance</key>
+	<string>viewLocation</string>
+	<key>interactiveRenderer</key>
+	<string>previewinterval</string>
+	<key>largeCell</key>
+	<string>capacitiesresponse</string>
+	<key>shouldPauseCustomPaint</key>
+	<string>creatorSkewY</string>
+</dict>
+</plist>

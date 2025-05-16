@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOrigin</key>
+	<string>shouldAnimateTool</string>
+	<key>declarativeStoryboard</key>
+	<string>alphaAppearance</string>
+	<key>grainchooser</key>
+	<string>usedfeatureskewy</string>
+	<key>greatOffset</key>
+	<string>setstateCharacter</string>
+	<key>lazyAnimatedContainer</key>
+	<string>expandedValue</string>
+	<key>shouldDispatchMultiplication</key>
+	<string>canFormatMultiplication</string>
+	<key>shouldMountGate</key>
+	<string>responsivefragmentflags</string>
+	<key>shouldTrainHero</key>
+	<string>canUpdateRemainder</string>
+</dict>
+</plist>

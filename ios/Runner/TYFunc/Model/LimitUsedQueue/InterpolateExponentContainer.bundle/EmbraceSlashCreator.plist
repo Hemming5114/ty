@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartbehavior</key>
+	<string>similarAnalyzer</string>
+	<key>custompaintBrightness</key>
+	<string>similarInkWell</string>
+	<key>dimensionColor</key>
+	<string>directFragments</string>
+	<key>elasticityShape</key>
+	<string>reactiveMechanism</string>
+	<key>firstGram</key>
+	<string>prevEffect</string>
+	<key>logarithmVelocity</key>
+	<string>semanticMission</string>
+	<key>shapeMomentum</key>
+	<string>decorationcount</string>
+	<key>shapeShade</key>
+	<string>discardedQuaternion</string>
+	<key>shouldRouteBinary</key>
+	<string>canRebuildCheckbox</string>
+	<key>subsequentScaffold</key>
+	<string>iconInset</string>
+</dict>
+</plist>

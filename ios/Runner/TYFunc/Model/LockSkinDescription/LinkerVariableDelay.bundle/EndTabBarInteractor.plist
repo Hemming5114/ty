@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorShape</key>
+	<string>canDisposePainter</string>
+	<key>blocFeedback</key>
+	<string>typicalPresenter</string>
+	<key>cursorSaturation</key>
+	<string>actionComposite</string>
+	<key>emitterduration</key>
+	<string>factoryFunction</string>
+	<key>fragmentsShape</key>
+	<string>transformConsumer</string>
+	<key>layoutdescription</key>
+	<string>mediumCoordinator</string>
+	<key>lostchapter</key>
+	<string>routerProcess</string>
+	<key>polygonType</key>
+	<string>substantialGradient</string>
+	<key>standaloneCoordinator</key>
+	<string>persiststoryboard</string>
+</dict>
+</plist>

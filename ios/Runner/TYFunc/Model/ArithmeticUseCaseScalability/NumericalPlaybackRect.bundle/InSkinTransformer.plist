@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columndirection</key>
+	<string>offsetVelocity</string>
+	<key>haspriority</key>
+	<string>interfaceVelocity</string>
+	<key>listenerhue</key>
+	<string>unactivatedtitleposition</string>
+	<key>oldEqualization</key>
+	<string>reactiveComponent</string>
+	<key>shouldResumeEquipment</key>
+	<string>pinchabledurationtag</string>
+	<key>sliderTransparency</key>
+	<string>impactRotation</string>
+	<key>smartCurve</key>
+	<string>stepWork</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendlocalization</key>
+	<string>skinposition</string>
+	<key>immediategroup</key>
+	<string>canDeserializeTernary</string>
+	<key>notificationmodel</key>
+	<string>shouldPopMargin</string>
+	<key>paintdrawer</key>
+	<string>statefulRecursion</string>
+	<key>slashoffset</key>
+	<string>permissiveScope</string>
+</dict>
+</plist>

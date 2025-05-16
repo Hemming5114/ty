@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customNorm</key>
+	<string>localResilience</string>
+	<key>custompaintPadding</key>
+	<string>connectDropdownButton</string>
+	<key>factoryaboutlayer</key>
+	<string>viewTheme</string>
+	<key>mechanismInteraction</key>
+	<string>imperativeScenario</string>
+	<key>multiradiusmode</key>
+	<string>navigateOption</string>
+	<key>pivotalReliability</key>
+	<string>processorFeedback</string>
+	<key>priorResource</key>
+	<string>streamkindformat</string>
+	<key>tappableMechanism</key>
+	<string>multiSizedBox</string>
+</dict>
+</plist>

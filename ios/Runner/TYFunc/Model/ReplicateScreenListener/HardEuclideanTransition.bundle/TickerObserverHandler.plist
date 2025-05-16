@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedGrid</key>
+	<string>seekFeature</string>
+	<key>heapinprototype</key>
+	<string>detailBrightness</string>
+	<key>polygonScale</key>
+	<string>topicTint</string>
+	<key>rendererEdge</key>
+	<string>strengthcount</string>
+	<key>reusableGridView</key>
+	<string>shouldBindSkin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePosition</key>
+	<string>viewTop</string>
+	<key>encapsulatenode</key>
+	<string>fixedutil</string>
+	<key>gridRate</key>
+	<string>observeBuffer</string>
+	<key>notifieractivityvalidation</key>
+	<string>unbindTable</string>
+	<key>sequentialChart</key>
+	<string>nibtop</string>
+	<key>shouldencodenib</key>
+	<string>dependencyinsidelevel</string>
+</dict>
+</plist>

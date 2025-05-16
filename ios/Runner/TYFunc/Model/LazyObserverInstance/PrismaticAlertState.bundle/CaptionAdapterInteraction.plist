@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyFlags</key>
+	<string>ondecorationchanged</string>
+	<key>descentCenter</key>
+	<string>sequentialIntegrity</string>
+	<key>imperativeRestriction</key>
+	<string>easyFrame</string>
+	<key>impressionDuration</key>
+	<string>shaderChain</string>
+	<key>materialView</key>
+	<string>eagerSkirt</string>
+	<key>shouldSetStatePrecision</key>
+	<string>tensorGradient</string>
+	<key>shoulddisconnectbaseline</key>
+	<string>hierarchicalReliability</string>
+	<key>sortedzone</key>
+	<string>directprovideropacity</string>
+	<key>unsortedOffset</key>
+	<string>associatedAperture</string>
+</dict>
+</plist>

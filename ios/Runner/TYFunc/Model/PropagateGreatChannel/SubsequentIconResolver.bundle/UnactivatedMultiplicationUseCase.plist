@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enumerateinjection</key>
+	<string>concurrentInteractor</string>
+	<key>heroview</key>
+	<string>reusableDetail</string>
+	<key>joinerBorder</key>
+	<string>ternaryTop</string>
+	<key>keyEvent</key>
+	<string>dissociateDelegate</string>
+	<key>popinteger</key>
+	<string>robustelement</string>
+	<key>requestwithwork</key>
+	<string>effectmomentum</string>
+	<key>secondScenario</key>
+	<string>commonbuttonvelocity</string>
+	<key>subpixelStyle</key>
+	<string>shouldDetachAppBar</string>
+</dict>
+</plist>

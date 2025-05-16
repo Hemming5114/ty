@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCallback</key>
+	<string>disconnectError</string>
+	<key>animatortransparency</key>
+	<string>canFormatInstruction</string>
+	<key>audioScale</key>
+	<string>cellKind</string>
+	<key>disabledTable</key>
+	<string>converterBehavior</string>
+	<key>mediocreBorder</key>
+	<string>streamwithjob</string>
+	<key>sharedTimer</key>
+	<string>signDirection</string>
+	<key>shouldSubscribeMovement</key>
+	<string>dismissEntropy</string>
+	<key>subtleQueue</key>
+	<string>renderSkirt</string>
+</dict>
+</plist>

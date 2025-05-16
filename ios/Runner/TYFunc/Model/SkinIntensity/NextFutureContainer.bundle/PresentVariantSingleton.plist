@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocoffset</key>
+	<string>streamContainer</string>
+	<key>buttonalongtype</key>
+	<string>callbackreducer</string>
+	<key>dedicatedSizedBox</key>
+	<string>isolatestagetop</string>
+	<key>deferredasset</key>
+	<string>visibleInteractor</string>
+	<key>factoryspeed</key>
+	<string>canSerializeCube</string>
+	<key>lostDuration</key>
+	<string>stroketype</string>
+	<key>petusecase</key>
+	<string>smartScheduler</string>
+	<key>scopeFlags</key>
+	<string>discardedPadding</string>
+	<key>scrollableBinary</key>
+	<string>requiredSubscriber</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardStroke</key>
+	<string>protocolCycle</string>
+	<key>draggablecoordinator</key>
+	<string>displayableScheduler</string>
+	<key>dropdownbuttonTheme</key>
+	<string>checkController</string>
+	<key>eagerSingleton</key>
+	<string>canCacheHistogram</string>
+	<key>flexproxyshade</key>
+	<string>pauseController</string>
+	<key>futureTension</key>
+	<string>shouldUnbindGraphic</string>
+	<key>inkwellFrequency</key>
+	<string>columnPressure</string>
+	<key>relationalprotocol</key>
+	<string>eagermodel</string>
+	<key>sequentialInfo</key>
+	<string>navigatorbound</string>
+	<key>sessionsystemcoord</key>
+	<string>buttonviastrategy</string>
+</dict>
+</plist>

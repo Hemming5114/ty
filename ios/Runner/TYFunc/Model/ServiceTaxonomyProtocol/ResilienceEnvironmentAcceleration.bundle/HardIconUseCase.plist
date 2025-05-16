@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeEquipment</key>
+	<string>accessibleMaster</string>
+	<key>ephemeralListView</key>
+	<string>consultativeState</string>
+	<key>oncertificatechanged</key>
+	<string>widgetActivity</string>
+	<key>presenterSpeed</key>
+	<string>otherInjection</string>
+	<key>processorDirection</key>
+	<string>encodeStoryboard</string>
+	<key>sharedFrame</key>
+	<string>elasticThread</string>
+</dict>
+</plist>

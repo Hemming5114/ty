@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basesinceform</key>
+	<string>resumeBase</string>
+	<key>composablePager</key>
+	<string>shouldCancelScale</string>
+	<key>diffableGroup</key>
+	<string>roleMargin</string>
+	<key>geometriclistenerstyle</key>
+	<string>localstampindex</string>
+	<key>independentDescriptor</key>
+	<string>reducerMediator</string>
+	<key>mergerflags</key>
+	<string>scrollerIndex</string>
+	<key>shouldUnbindThread</key>
+	<string>resizableFeature</string>
+	<key>smallHeap</key>
+	<string>functionalCatalyst</string>
+</dict>
+</plist>

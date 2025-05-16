@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterDirection</key>
+	<string>delegateColor</string>
+	<key>shouldStopAlpha</key>
+	<string>brushPadding</string>
+	<key>shouldYieldEntropy</key>
+	<string>commonBorder</string>
+</dict>
+</plist>

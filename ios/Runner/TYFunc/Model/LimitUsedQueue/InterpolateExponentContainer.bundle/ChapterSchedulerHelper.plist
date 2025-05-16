@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audiomargin</key>
+	<string>paddingnotation</string>
+	<key>autoSignature</key>
+	<string>webGestureDetector</string>
+	<key>logarithmAcceleration</key>
+	<string>canListenNorm</string>
+	<key>newestasync</key>
+	<string>heapRate</string>
+	<key>numericaltolerance</key>
+	<string>curveProcess</string>
+	<key>requiredelement</key>
+	<string>functionalColumn</string>
+	<key>shouldValidatePlate</key>
+	<string>shouldStartVariant</string>
+</dict>
+</plist>

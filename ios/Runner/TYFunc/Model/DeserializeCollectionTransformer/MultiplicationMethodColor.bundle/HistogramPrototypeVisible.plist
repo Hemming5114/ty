@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedprovider</key>
+	<string>upgradePreview</string>
+	<key>framesingletoncount</key>
+	<string>alphawithmode</string>
+	<key>integerRight</key>
+	<string>canUpdateLabel</string>
+	<key>labelDelay</key>
+	<string>configurationPadding</string>
+	<key>metadataTop</key>
+	<string>sinkSaturation</string>
+	<key>pointOrigin</key>
+	<string>factorymatrix</string>
+	<key>shouldNavigateNavigator</key>
+	<string>arithmeticBuffer</string>
+	<key>shouldPopCycle</key>
+	<string>canPresentProvider</string>
+	<key>shouldUnmountPet</key>
+	<string>accordionConverter</string>
+	<key>symmetricpainter</key>
+	<string>drawProvider</string>
+</dict>
+</plist>

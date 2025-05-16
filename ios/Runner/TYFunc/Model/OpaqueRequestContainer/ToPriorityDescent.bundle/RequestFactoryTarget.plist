@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterLeft</key>
+	<string>canEndComposition</string>
+	<key>dataDirection</key>
+	<string>freeModel</string>
+	<key>fixedheap</key>
+	<string>checkboxForce</string>
+	<key>holdfuture</key>
+	<string>storeMetadata</string>
+	<key>inactiveContrast</key>
+	<string>lastawaitdirection</string>
+	<key>layoutscale</key>
+	<string>alphamargin</string>
+	<key>listenrect</key>
+	<string>layoutindex</string>
+	<key>shouldUnbindProvider</key>
+	<string>petInterpreter</string>
+</dict>
+</plist>

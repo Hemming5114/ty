@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformparticle</key>
+	<string>listviewInterval</string>
+	<key>constraintDirection</key>
+	<string>basetop</string>
+	<key>cupertinoEquivalent</key>
+	<string>semanticsentity</string>
+	<key>globalStroke</key>
+	<string>resizeParticle</string>
+	<key>initializerect</key>
+	<string>sequentialTransition</string>
+	<key>largeSensor</key>
+	<string>normalTexture</string>
+	<key>menutension</key>
+	<string>shouldReplaceBoxShadow</string>
+	<key>scalabilityInset</key>
+	<string>serializeRichText</string>
+	<key>temporaryAwait</key>
+	<string>accessibleEfficiency</string>
+	<key>visiblePopup</key>
+	<string>handlertypebrightness</string>
+</dict>
+</plist>

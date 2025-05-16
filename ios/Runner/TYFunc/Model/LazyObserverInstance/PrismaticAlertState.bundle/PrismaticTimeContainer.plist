@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousIntensity</key>
+	<string>spinBuffer</string>
+	<key>cartesianSensor</key>
+	<string>iterativeUseCase</string>
+	<key>easyVertex</key>
+	<string>priorResolver</string>
+	<key>lastrequest</key>
+	<string>rangeVisible</string>
+	<key>mediumGram</key>
+	<string>iscache</string>
+	<key>otherProtocol</key>
+	<string>canFetchCollection</string>
+	<key>persistentAppBar</key>
+	<string>typicalgraphspeed</string>
+	<key>shouldCreateSubpixel</key>
+	<string>shouldEndSubpixel</string>
+	<key>sortedBitrate</key>
+	<string>retainedlistener</string>
+</dict>
+</plist>

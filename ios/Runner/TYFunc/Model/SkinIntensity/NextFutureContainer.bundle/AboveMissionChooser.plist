@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEntity</key>
+	<string>canUnmountedPoint</string>
+	<key>asynchronousSlash</key>
+	<string>responsiveTitle</string>
+	<key>axisindex</key>
+	<string>parseChallenge</string>
+	<key>crudeData</key>
+	<string>materialmethod</string>
+	<key>customizedDropdownButton</key>
+	<string>interactivepresenter</string>
+	<key>gemFrequency</key>
+	<string>nativeQueue</string>
+	<key>shouldconnectsession</key>
+	<string>iscontroller</string>
+</dict>
+</plist>

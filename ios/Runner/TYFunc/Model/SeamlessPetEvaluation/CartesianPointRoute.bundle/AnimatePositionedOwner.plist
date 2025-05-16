@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatereducer</key>
+	<string>disconnectChecklist</string>
+	<key>contractionimpression</key>
+	<string>canCreateSegment</string>
+	<key>cupertinobutton</key>
+	<string>pinchableObject</string>
+	<key>impressionStyle</key>
+	<string>canResumeGesture</string>
+	<key>mechanismAcceleration</key>
+	<string>partitionResponse</string>
+	<key>offsetdirection</key>
+	<string>intuitiveSkirt</string>
+	<key>shouldDisconnectAppBar</key>
+	<string>canUnmountedProject</string>
+	<key>shouldPauseGraphic</key>
+	<string>canNavigateTheme</string>
+	<key>sustainableImage</key>
+	<string>consultativesliderscale</string>
+</dict>
+</plist>

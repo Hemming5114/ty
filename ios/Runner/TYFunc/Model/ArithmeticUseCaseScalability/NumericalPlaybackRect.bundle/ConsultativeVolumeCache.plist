@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRectangle</key>
+	<string>shouldUnbindTabBar</string>
+	<key>cupertinoConnector</key>
+	<string>shouldbuildsign</string>
+	<key>dispatchoffset</key>
+	<string>sequentialMap</string>
+	<key>entityInset</key>
+	<string>errormaterial</string>
+	<key>layerHue</key>
+	<string>rendererMode</string>
+	<key>multiPlayback</key>
+	<string>skirtsystemorientation</string>
+	<key>multirecursion</key>
+	<string>deferredInteractor</string>
+	<key>routerOrientation</key>
+	<string>relationalProvision</string>
+	<key>specifyModulus</key>
+	<string>variantContrast</string>
+</dict>
+</plist>

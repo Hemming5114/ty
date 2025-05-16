@@ -1,0 +1,6 @@
+framework module STBeauty {
+  umbrella header "STBeauty-umbrella.h"
+
+  export *
+  module * { export * }
+}

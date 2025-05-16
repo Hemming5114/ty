@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultreduction</key>
+	<string>typicalcolumninset</string>
+	<key>masteranimation</key>
+	<string>propagateEntity</string>
+	<key>painterrotation</key>
+	<string>animatedcontainerPhase</string>
+	<key>shouldEndMaster</key>
+	<string>timerSingleton</string>
+	<key>shouldPopTouch</key>
+	<string>rectifyGrain</string>
+	<key>shoulddisposeconstraint</key>
+	<string>displayableException</string>
+	<key>sliderprocessforce</key>
+	<string>missiontheme</string>
+	<key>touchanalyzer</key>
+	<string>secondCheckbox</string>
+</dict>
+</plist>

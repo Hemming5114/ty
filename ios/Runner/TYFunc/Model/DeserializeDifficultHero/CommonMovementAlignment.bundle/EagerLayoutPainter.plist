@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintKind</key>
+	<string>diffableArithmetic</string>
+	<key>difficultElement</key>
+	<string>taskimage</string>
+	<key>hierarchicalTimer</key>
+	<string>shouldBuildMission</string>
+	<key>nativeLayout</key>
+	<string>largeCompleter</string>
+	<key>shouldContinueNotifier</key>
+	<string>canNotifyMatrix</string>
+	<key>transitiondecoration</key>
+	<string>canReplaceCheckbox</string>
+</dict>
+</plist>

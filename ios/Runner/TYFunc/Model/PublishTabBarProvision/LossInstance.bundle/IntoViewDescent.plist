@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertorvar</key>
+	<string>iconSpacing</string>
+	<key>checklistamongform</key>
+	<string>completerContrast</string>
+	<key>disparatemodelshape</key>
+	<string>similarChooser</string>
+	<key>immutableShader</key>
+	<string>seamlessStatus</string>
+	<key>liteFlex</key>
+	<string>cancellabel</string>
+	<key>logarithmName</key>
+	<string>accordionAwait</string>
+	<key>persistentCustomPaint</key>
+	<string>providerPhase</string>
+	<key>subsequentKernel</key>
+	<string>resumeMobile</string>
+</dict>
+</plist>

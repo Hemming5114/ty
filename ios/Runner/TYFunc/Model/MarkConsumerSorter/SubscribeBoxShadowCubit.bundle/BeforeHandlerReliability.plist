@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveContrast</key>
+	<string>createParticle</string>
+	<key>adaptiveFinder</key>
+	<string>lossCoord</string>
+	<key>animatedlabel</key>
+	<string>shouldPersistPainter</string>
+	<key>buttoncoord</key>
+	<string>vectorForce</string>
+	<key>pointShade</key>
+	<string>captureReducer</string>
+	<key>timeState</key>
+	<string>canInflateWorkflow</string>
+</dict>
+</plist>

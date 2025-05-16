@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSplitter</key>
+	<string>significantCapsule</string>
+	<key>crudeConstant</key>
+	<string>dropoutaspectratio</string>
+	<key>dedicatedCharacter</key>
+	<string>measureDelegate</string>
+	<key>overlayForce</key>
+	<string>startPainter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencyDuration</key>
+	<string>mutablepreview</string>
+	<key>euclideanInformation</key>
+	<string>canCancelCell</string>
+	<key>inactiveTaxonomy</key>
+	<string>smartAsset</string>
+	<key>onviewtap</key>
+	<string>primaryAudio</string>
+	<key>shouldFetchComposition</key>
+	<string>canPublishAnimatedContainer</string>
+	<key>wraptitle</key>
+	<string>multiplicationLevel</string>
+</dict>
+</plist>

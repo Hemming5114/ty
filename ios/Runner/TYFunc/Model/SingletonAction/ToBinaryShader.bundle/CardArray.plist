@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateCenter</key>
+	<string>commondelegate</string>
+	<key>hardMargin</key>
+	<string>insteadwidget</string>
+	<key>optionbufferhead</key>
+	<string>sharedparticletail</string>
+	<key>responsiveManager</key>
+	<string>canSubscribeAnimatedContainer</string>
+	<key>retainedGem</key>
+	<string>explicitMesh</string>
+	<key>shouldserializekernel</key>
+	<string>pendingUnary</string>
+	<key>soundDelay</key>
+	<string>chooserTheme</string>
+	<key>validatedimension</key>
+	<string>elasticityPosition</string>
+</dict>
+</plist>

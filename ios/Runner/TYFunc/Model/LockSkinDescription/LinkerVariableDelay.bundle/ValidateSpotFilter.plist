@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleDelay</key>
+	<string>shouldNotifyBehavior</string>
+	<key>displayableRadius</key>
+	<string>secondObject</string>
+	<key>flexibleDescent</key>
+	<string>materialVar</string>
+	<key>hasTernary</key>
+	<string>priorityPosition</string>
+	<key>mixincupertino</key>
+	<string>polyfillCoord</string>
+	<key>priorSemantics</key>
+	<string>geometricInteger</string>
+	<key>symbolbesidedecorator</key>
+	<string>retainedUseCase</string>
+	<key>tappableDistinction</key>
+	<string>desktopDialogs</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatetransition</key>
+	<string>alphaprototypeskewx</string>
+	<key>enabledNavigator</key>
+	<string>animatedcontainerDelay</string>
+	<key>flexibleslider</key>
+	<string>radioFlyweight</string>
+	<key>statelessLinker</key>
+	<string>captionMode</string>
+	<key>tangentdelay</key>
+	<string>firstEntity</string>
+	<key>textfieldInteraction</key>
+	<string>shouldRebuildHistogram</string>
+</dict>
+</plist>

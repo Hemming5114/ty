@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicOption</key>
+	<string>canRebuildGradient</string>
+	<key>ongesturetap</key>
+	<string>hierarchicalObject</string>
+	<key>reconcileborder</key>
+	<string>standaloneResource</string>
+	<key>resizableMargin</key>
+	<string>unregisterState</string>
+	<key>shouldCreateSymbol</key>
+	<string>shouldPushEffect</string>
+	<key>shouldFormatSubpixel</key>
+	<string>localTransformer</string>
+	<key>shouldLayoutPoint</key>
+	<string>unmountStateless</string>
+	<key>volumeLocation</key>
+	<string>normalEquivalent</string>
+</dict>
+</plist>

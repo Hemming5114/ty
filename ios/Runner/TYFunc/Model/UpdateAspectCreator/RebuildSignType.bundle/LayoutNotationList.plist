@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFormat</key>
+	<string>accordionRestriction</string>
+	<key>baseRate</key>
+	<string>comprehensiveTween</string>
+	<key>iconHead</key>
+	<string>timelineFrequency</string>
+	<key>intensitystrategypadding</key>
+	<string>disabledinteger</string>
+	<key>logarithmLeft</key>
+	<string>clipCurve</string>
+	<key>mutableBitrate</key>
+	<string>shaderdelay</string>
+</dict>
+</plist>

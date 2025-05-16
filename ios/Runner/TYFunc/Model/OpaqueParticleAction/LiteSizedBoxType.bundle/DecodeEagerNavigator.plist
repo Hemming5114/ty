@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autotouch</key>
+	<string>immutableSubpixel</string>
+	<key>descriptorCenter</key>
+	<string>shouldRenderMaster</string>
+	<key>euclideanLinker</key>
+	<string>sortedTaxonomy</string>
+	<key>filterAppearance</key>
+	<string>equivalentLocation</string>
+	<key>itemTheme</key>
+	<string>widgetShade</string>
+	<key>layoutconstraint</key>
+	<string>dedicatedkernelkind</string>
+	<key>respectiveGate</key>
+	<string>reduceGroup</string>
+	<key>shouldCacheDialogs</key>
+	<string>largeHandler</string>
+	<key>symmetricResponse</key>
+	<string>validateNavigation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultinstruction</key>
+	<string>priorityHead</string>
+	<key>offsetperparam</key>
+	<string>statefulPicker</string>
+	<key>resizableBitrate</key>
+	<string>independentScreen</string>
+	<key>shouldHandlePriority</key>
+	<string>tappableDelegate</string>
+	<key>unsortedPreview</key>
+	<string>desktopElement</string>
+</dict>
+</plist>

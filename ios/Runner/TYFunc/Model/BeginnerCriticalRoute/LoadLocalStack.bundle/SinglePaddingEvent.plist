@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMetadata</key>
+	<string>desktopCallback</string>
+	<key>activityadapterinteraction</key>
+	<string>showGrain</string>
+	<key>featureorientation</key>
+	<string>wrapError</string>
+	<key>hierarchicalSign</key>
+	<string>attachflex</string>
+	<key>processtabbar</key>
+	<string>mediocreSign</string>
+	<key>requiredCheckbox</key>
+	<string>flexibleCaption</string>
+	<key>shouldCacheSpine</key>
+	<string>secondPet</string>
+	<key>shouldPaintFlex</key>
+	<string>activityTension</string>
+</dict>
+</plist>

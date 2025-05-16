@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitmaster</key>
+	<string>deserializeRadio</string>
+	<key>enabledFuture</key>
+	<string>rapidrect</string>
+	<key>mainCursor</key>
+	<string>retainedTweak</string>
+	<key>nativeLayout</key>
+	<string>accordionHistogram</string>
+	<key>nodecommandshade</key>
+	<string>persistentRange</string>
+	<key>normalTouch</key>
+	<string>intermediatePublisher</string>
+	<key>onoptimizerchanged</key>
+	<string>quantizationCubit</string>
+	<key>publicGem</key>
+	<string>hierarchicalThroughput</string>
+	<key>shouldtransitionroute</key>
+	<string>persistentScroller</string>
+	<key>sineName</key>
+	<string>canResumeTextField</string>
+</dict>
+</plist>

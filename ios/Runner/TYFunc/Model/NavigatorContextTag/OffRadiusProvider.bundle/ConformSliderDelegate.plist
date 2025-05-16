@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherInteraction</key>
+	<string>cupertinoallocatortag</string>
+	<key>displayableMovement</key>
+	<string>embedResult</string>
+	<key>quantizationtextfield</key>
+	<string>toolpopup</string>
+	<key>visibleRemainder</key>
+	<string>shouldBuildKernel</string>
+</dict>
+</plist>

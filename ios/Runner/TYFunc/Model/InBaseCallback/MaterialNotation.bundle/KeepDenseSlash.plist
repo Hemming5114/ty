@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalUseCase</key>
+	<string>listenerScale</string>
+	<key>concreteLatency</key>
+	<string>delegateFacade</string>
+	<key>nativeComponent</key>
+	<string>significantTask</string>
+	<key>schedulechallenge</key>
+	<string>multiplicationContext</string>
+	<key>shouldDisconnectMovement</key>
+	<string>animatedcontainerparametervalidation</string>
+	<key>shouldvalidatedescriptor</key>
+	<string>shouldobservestack</string>
+	<key>streambridgecount</key>
+	<string>animateBrush</string>
+</dict>
+</plist>

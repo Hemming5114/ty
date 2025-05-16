@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxcontainstyle</key>
+	<string>revisitObserver</string>
+	<key>priorReceiver</key>
+	<string>canRenderGift</string>
+	<key>restrictionsize</key>
+	<string>itemScale</string>
+	<key>scrollableRouter</key>
+	<string>isMaterial</string>
+	<key>shouldDispatchRow</key>
+	<string>shouldNotifyObserver</string>
+</dict>
+</plist>

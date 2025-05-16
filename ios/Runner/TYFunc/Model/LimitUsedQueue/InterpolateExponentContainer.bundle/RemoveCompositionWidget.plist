@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>carddespitecontext</key>
+	<string>liteOverlay</string>
+	<key>localZone</key>
+	<string>canPauseMatrix</string>
+	<key>modelcontainproxy</key>
+	<string>pagerBottom</string>
+	<key>sampleValidation</key>
+	<string>moveVector</string>
+	<key>shouldCacheUnary</key>
+	<string>attachOperation</string>
+	<key>similarDropdownButton</key>
+	<string>alertVisible</string>
+	<key>sustainableAlignment</key>
+	<string>permanentNib</string>
+</dict>
+</plist>

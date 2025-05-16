@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionMargin</key>
+	<string>sizeleft</string>
+	<key>mainRect</key>
+	<string>componentHue</string>
+	<key>processstoryboard</key>
+	<string>associatedbaselinecenter</string>
+	<key>sizedboxpressure</key>
+	<string>canEndView</string>
+	<key>sizedboxskewx</key>
+	<string>sequentialBaseline</string>
+</dict>
+</plist>

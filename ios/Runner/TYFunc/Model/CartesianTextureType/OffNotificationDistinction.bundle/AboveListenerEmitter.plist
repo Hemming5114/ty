@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentInterface</key>
+	<string>mainCoordinator</string>
+	<key>diffableCapacities</key>
+	<string>eagerDocument</string>
+	<key>fusedLayout</key>
+	<string>shoulddecodedialogs</string>
+	<key>positionfeedback</key>
+	<string>updatePageView</string>
+	<key>reductionplatformcolor</key>
+	<string>shouldSetStateNavigator</string>
+	<key>shouldAttachBorder</key>
+	<string>dynamiclogmomentum</string>
+	<key>shouldCacheCube</key>
+	<string>specifyCluster</string>
+	<key>shouldStopSubpixel</key>
+	<string>graphicTier</string>
+	<key>shouldrebuildrole</key>
+	<string>readeffect</string>
+	<key>transitionsingletonsize</key>
+	<string>consultativeInteractor</string>
+</dict>
+</plist>

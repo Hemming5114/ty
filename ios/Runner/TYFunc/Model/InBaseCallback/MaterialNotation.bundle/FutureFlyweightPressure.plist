@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesleft</key>
+	<string>largeSkirt</string>
+	<key>exceptionType</key>
+	<string>responderRight</string>
+	<key>liteInterface</key>
+	<string>dynamicInterface</string>
+	<key>playbackInterval</key>
+	<string>equipmentborder</string>
+	<key>semanticRow</key>
+	<string>labelinjob</string>
+	<key>shouldEmitDimension</key>
+	<string>apertureLayer</string>
+	<key>shouldPopKernel</key>
+	<string>canvasBridge</string>
+</dict>
+</plist>

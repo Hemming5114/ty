@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGestureDetector</key>
+	<string>grayscaleRate</string>
+	<key>elasticDelegate</key>
+	<string>canReplaceNavigator</string>
+	<key>globalGroup</key>
+	<string>shouldDisposeShader</string>
+	<key>hasalpha</key>
+	<string>priorCosine</string>
+	<key>marginfactory</key>
+	<string>significantEntropy</string>
+	<key>mediumprogressbartag</key>
+	<string>lockLayer</string>
+	<key>prismaticFinder</key>
+	<string>enumerateEvent</string>
+	<key>shaderSize</key>
+	<string>opaqueIcon</string>
+	<key>shouldResumeMargin</key>
+	<string>associatedPublisher</string>
+	<key>smartCollection</key>
+	<string>densestate</string>
+</dict>
+</plist>

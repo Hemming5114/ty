@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedrectangle</key>
+	<string>shouldRouteProfile</string>
+	<key>imageviaenvironment</key>
+	<string>backwardMethod</string>
+	<key>injectionbymode</key>
+	<string>canKeepComposition</string>
+	<key>interpolationFormat</key>
+	<string>completionVariable</string>
+	<key>nativeMap</key>
+	<string>playbackVisible</string>
+	<key>statelessPreview</key>
+	<string>easyFragments</string>
+	<key>statelessStack</key>
+	<string>symmetricInteractor</string>
+</dict>
+</plist>

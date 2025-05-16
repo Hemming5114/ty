@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableOffset</key>
+	<string>dataTension</string>
+	<key>gradientStyle</key>
+	<string>shouldObserveImage</string>
+	<key>metricsBehavior</key>
+	<string>latencyScale</string>
+	<key>resumeduration</key>
+	<string>temporaryAnchor</string>
+	<key>singleShape</key>
+	<string>hyperbolicGestureDetector</string>
+	<key>storeType</key>
+	<string>geometricSize</string>
+	<key>tensorPreview</key>
+	<string>comprehensiveDescent</string>
+	<key>utilcolor</key>
+	<string>canObserveListView</string>
+</dict>
+</plist>

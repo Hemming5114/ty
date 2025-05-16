@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowCenter</key>
+	<string>unscheduleskin</string>
+	<key>deserializeentity</key>
+	<string>imageTier</string>
+	<key>interactiveScroller</key>
+	<string>unregisterButton</string>
+	<key>missedTriangles</key>
+	<string>spotPosition</string>
+	<key>secondBaseline</key>
+	<string>shouldConnectShader</string>
+</dict>
+</plist>

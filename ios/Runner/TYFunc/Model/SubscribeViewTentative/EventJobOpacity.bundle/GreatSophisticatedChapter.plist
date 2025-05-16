@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorType</key>
+	<string>enumeratesine</string>
+	<key>coordinatorRight</key>
+	<string>asynchronousPromise</string>
+	<key>defaulttable</key>
+	<string>shouldShowCell</string>
+	<key>fragmentenvironmentname</key>
+	<string>shouldInflateProjection</string>
+	<key>instructionmediatortint</key>
+	<string>canValidateAnimation</string>
+	<key>metadatamode</key>
+	<string>selectedexponent</string>
+	<key>sampleoffset</key>
+	<string>videoBorder</string>
+	<key>sizedboxHue</key>
+	<string>significantPreview</string>
+	<key>toleranceCount</key>
+	<string>shouldTransitionBuilder</string>
+</dict>
+</plist>

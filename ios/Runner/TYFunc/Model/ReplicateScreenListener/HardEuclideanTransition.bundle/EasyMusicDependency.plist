@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationcontrast</key>
+	<string>freeInjection</string>
+	<key>draggableScreen</key>
+	<string>gestureOperation</string>
+	<key>geometricDescription</key>
+	<string>isolatepatternoffset</string>
+	<key>hierarchicalloader</key>
+	<string>behaviorForce</string>
+	<key>lostgift</key>
+	<string>subtleCupertino</string>
+	<key>menumatrix</key>
+	<string>allocatorPrototype</string>
+	<key>navigationKind</key>
+	<string>compositionalProcessor</string>
+	<key>selectedtask</key>
+	<string>gateleft</string>
+	<key>shouldLoadNavigator</key>
+	<string>handleVariant</string>
+	<key>unmountscroll</key>
+	<string>projectMediator</string>
+</dict>
+</plist>

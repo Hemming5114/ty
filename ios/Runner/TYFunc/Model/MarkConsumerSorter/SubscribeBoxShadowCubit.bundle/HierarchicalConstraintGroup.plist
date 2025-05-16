@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledModule</key>
+	<string>seekMethod</string>
+	<key>firstfilter</key>
+	<string>defaultStoryboard</string>
+	<key>functionalSpot</key>
+	<string>secondSpot</string>
+	<key>invisibleShader</key>
+	<string>canLayoutSpine</string>
+	<key>offsetVisible</key>
+	<string>timerstyle</string>
+	<key>shouldCacheSample</key>
+	<string>startSwitch</string>
+	<key>significantposition</key>
+	<string>indicatorinjection</string>
+	<key>temporaryLoss</key>
+	<string>popwidget</string>
+</dict>
+</plist>

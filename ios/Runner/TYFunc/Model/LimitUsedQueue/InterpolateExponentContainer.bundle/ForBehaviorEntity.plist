@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResponder</key>
+	<string>assetCoord</string>
+	<key>consumerborder</key>
+	<string>canShowWidget</string>
+	<key>creatorTint</key>
+	<string>canPublishTextField</string>
+	<key>cursorColor</key>
+	<string>shouldFinishObserver</string>
+	<key>decorationnearproxy</key>
+	<string>performTexture</string>
+	<key>locateconstraint</key>
+	<string>sliderdescent</string>
+	<key>lossstylecoord</key>
+	<string>entityborder</string>
+	<key>publicScroll</key>
+	<string>invisibleBuilder</string>
+	<key>signaturedensity</key>
+	<string>sharedthreshold</string>
+</dict>
+</plist>

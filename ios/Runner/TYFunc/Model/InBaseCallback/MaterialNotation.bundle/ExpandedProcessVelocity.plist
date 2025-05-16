@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalReliability</key>
+	<string>radiusObserver</string>
+	<key>constantVisibility</key>
+	<string>thresholdRotation</string>
+	<key>fragmentHue</key>
+	<string>activityAlignment</string>
+	<key>graphOffset</key>
+	<string>invisiblestack</string>
+	<key>lostnibcoord</key>
+	<string>disabledSemantics</string>
+	<key>mainCharacter</key>
+	<string>shouldAnimateHero</string>
+	<key>methodTint</key>
+	<string>toolContrast</string>
+	<key>responsivetasktension</key>
+	<string>uniformMapper</string>
+	<key>usecaseHue</key>
+	<string>statuscoord</string>
+</dict>
+</plist>

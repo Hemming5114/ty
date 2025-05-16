@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderdistance</key>
+	<string>sizedboxSystem</string>
+	<key>optionShape</key>
+	<string>scaffoldCycle</string>
+	<key>persistentParticle</key>
+	<string>embedAction</string>
+	<key>protectedcardinterval</key>
+	<string>requiredlinker</string>
+	<key>referenceSpeed</key>
+	<string>subsequentFlex</string>
+	<key>singletonparametername</key>
+	<string>directlyframe</string>
+	<key>specifierdelay</key>
+	<string>fixedMultiplication</string>
+	<key>spriteColor</key>
+	<string>robustbrushacceleration</string>
+	<key>tableTheme</key>
+	<string>semanticCapacity</string>
+</dict>
+</plist>

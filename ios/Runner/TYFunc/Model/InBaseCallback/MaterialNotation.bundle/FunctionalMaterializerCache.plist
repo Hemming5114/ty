@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionpopup</key>
+	<string>normalUnary</string>
+	<key>concurrentLifecycle</key>
+	<string>shouldPresentController</string>
+	<key>decorationuntilscope</key>
+	<string>canCancelCard</string>
+	<key>eagerPositioned</key>
+	<string>convolutionCoord</string>
+	<key>primaryPermutation</key>
+	<string>charactergrain</string>
+	<key>reactiveTimer</key>
+	<string>canLoadGridView</string>
+	<key>traindocument</key>
+	<string>fixedHeap</string>
+	<key>uniformmediaquery</key>
+	<string>grainTier</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateexceptobserver</key>
+	<string>dedicatedMission</string>
+	<key>integrityMode</key>
+	<string>detachNorm</string>
+	<key>litecollection</key>
+	<string>webmenucenter</string>
+	<key>oldLoop</key>
+	<string>rendererSpeed</string>
+	<key>polygonScale</key>
+	<string>interactiveAudio</string>
+	<key>shouldLayoutTextField</key>
+	<string>capsuleInterpreter</string>
+	<key>tappablepolyfill</key>
+	<string>easycertificatetop</string>
+	<key>timermementoorigin</key>
+	<string>canUnmountedBaseline</string>
+	<key>uniformnotation</key>
+	<string>sessionSpeed</string>
+</dict>
+</plist>

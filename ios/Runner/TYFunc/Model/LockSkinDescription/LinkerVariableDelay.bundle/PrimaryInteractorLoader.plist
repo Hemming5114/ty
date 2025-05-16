@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTitle</key>
+	<string>observeSpot</string>
+	<key>emitterForce</key>
+	<string>shouldDisposeProject</string>
+	<key>globalResource</key>
+	<string>sequentialCell</string>
+	<key>immediateWorkflow</key>
+	<string>alignmentInterval</string>
+	<key>loopfunctionstate</key>
+	<string>shouldPresentResource</string>
+	<key>shaderMode</key>
+	<string>otherInkWell</string>
+	<key>texturedelay</key>
+	<string>stringifystream</string>
+	<key>zoneAppearance</key>
+	<string>enabledTrajectory</string>
+</dict>
+</plist>

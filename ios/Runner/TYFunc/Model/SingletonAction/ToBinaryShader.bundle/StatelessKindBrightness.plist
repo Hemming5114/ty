@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardchartvalidation</key>
+	<string>difficultMatrix</string>
+	<key>dedicatedMusic</key>
+	<string>shouldcontinueskin</string>
+	<key>detailtint</key>
+	<string>shouldObserveMaterial</string>
+	<key>enabledlistview</key>
+	<string>modelslider</string>
+	<key>marginstrategyinteraction</key>
+	<string>richtextWork</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindhandler</key>
+	<string>continueText</string>
+	<key>dropdownbuttonDensity</key>
+	<string>retainmanager</string>
+	<key>secondlistenerskewy</key>
+	<string>canSkipScaffold</string>
+	<key>shouldBindInstruction</key>
+	<string>precisionLeft</string>
+	<key>shouldpausedropdownbutton</key>
+	<string>cupertinoScroller</string>
+</dict>
+</plist>

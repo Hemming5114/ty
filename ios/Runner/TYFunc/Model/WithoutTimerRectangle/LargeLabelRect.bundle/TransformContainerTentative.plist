@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePositioned</key>
+	<string>impactFrequency</string>
+	<key>cupertinoStack</key>
+	<string>inkwellLeft</string>
+	<key>directTexture</key>
+	<string>losttweenmode</string>
+	<key>hasCube</key>
+	<string>positionVisitor</string>
+	<key>pivotalmenu</key>
+	<string>animationStyle</string>
+	<key>shouldUnmountedBloc</key>
+	<string>immediateSound</string>
+</dict>
+</plist>

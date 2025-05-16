@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCapsule</key>
+	<string>canAttachAlpha</string>
+	<key>drawerdirection</key>
+	<string>shouldStopConstraint</string>
+	<key>fusedTouch</key>
+	<string>progressbarInterval</string>
+	<key>handlertransparency</key>
+	<string>reliabilityFrequency</string>
+	<key>meshContrast</key>
+	<string>resourcemode</string>
+	<key>modulusRight</key>
+	<string>revisitBuilder</string>
+	<key>prismaticElasticity</key>
+	<string>setstateText</string>
+	<key>radiochainvalidation</key>
+	<string>disposeRichText</string>
+	<key>shearcoordinator</key>
+	<string>prepareBloc</string>
+	<key>shouldPaintTool</key>
+	<string>responsiveSensor</string>
+</dict>
+</plist>

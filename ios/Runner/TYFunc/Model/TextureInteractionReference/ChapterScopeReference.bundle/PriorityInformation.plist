@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGroup</key>
+	<string>resolvercluster</string>
+	<key>aspectofproxy</key>
+	<string>popHeap</string>
+	<key>directManager</key>
+	<string>deferredPager</string>
+	<key>mountmusic</key>
+	<string>gemIndex</string>
+	<key>pinchableImpression</key>
+	<string>writeResolver</string>
+	<key>prismaticRadio</key>
+	<string>decodeCell</string>
+	<key>requiredState</key>
+	<string>columnslider</string>
+</dict>
+</plist>

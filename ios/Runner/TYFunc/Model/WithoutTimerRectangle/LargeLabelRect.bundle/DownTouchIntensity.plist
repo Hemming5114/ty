@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleQueue</key>
+	<string>mendSpacing</string>
+	<key>animatedHero</key>
+	<string>histogramSpacing</string>
+	<key>canvasResponse</key>
+	<string>columnStatus</string>
+	<key>componentBehavior</key>
+	<string>giftType</string>
+	<key>handleboxshadow</key>
+	<string>statefulzone</string>
+	<key>persistentScope</key>
+	<string>materialNumber</string>
+	<key>shouldPopTransition</key>
+	<string>mediumDistinction</string>
+	<key>unsortedScene</key>
+	<string>concurrentContraction</string>
+</dict>
+</plist>

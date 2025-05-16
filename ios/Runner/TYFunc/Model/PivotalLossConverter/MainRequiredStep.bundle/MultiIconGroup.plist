@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisstable</key>
+	<string>customSound</string>
+	<key>evaluationSaturation</key>
+	<string>streamDelay</string>
+	<key>maintainsubscription</key>
+	<string>linkerEdge</string>
+	<key>mediocreAsync</key>
+	<string>arithmeticSizedBox</string>
+	<key>resourcemodule</key>
+	<string>equalizationLevel</string>
+	<key>stackHue</key>
+	<string>normalFilter</string>
+	<key>typicalTweak</key>
+	<string>customSwitch</string>
+</dict>
+</plist>

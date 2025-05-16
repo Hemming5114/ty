@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compilegraph</key>
+	<string>bitrateVisibility</string>
+	<key>localSign</key>
+	<string>canConnectMaster</string>
+	<key>opaqueMethod</key>
+	<string>temporaryPosition</string>
+	<key>sequentialgem</key>
+	<string>receiveRepository</string>
+	<key>shouldUnbindKernel</key>
+	<string>canDispatchCurve</string>
+	<key>streamamongcomposite</key>
+	<string>shouldPersistCosine</string>
+</dict>
+</plist>

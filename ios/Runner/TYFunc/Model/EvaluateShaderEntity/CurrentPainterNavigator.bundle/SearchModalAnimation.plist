@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerepository</key>
+	<string>streamCenter</string>
+	<key>cubitcontrast</key>
+	<string>handleview</string>
+	<key>previewValidation</key>
+	<string>trainController</string>
+	<key>reusableresource</key>
+	<string>spotBound</string>
+	<key>robustfuture</key>
+	<string>iterativeCell</string>
+	<key>shouldHandleDescriptor</key>
+	<string>mechanismDelay</string>
+	<key>shouldRestartRemainder</key>
+	<string>managerAppearance</string>
+	<key>shouldpushbutton</key>
+	<string>hasTask</string>
+	<key>standaloneGraphic</key>
+	<string>provisionBound</string>
+</dict>
+</plist>

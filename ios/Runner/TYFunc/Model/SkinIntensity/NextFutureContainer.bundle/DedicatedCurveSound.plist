@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousstate</key>
+	<string>eagerSearcher</string>
+	<key>binaryanimation</key>
+	<string>reactiveTopic</string>
+	<key>cartesianReceiver</key>
+	<string>enumerateMetadata</string>
+	<key>robustThroughput</key>
+	<string>publishchannel</string>
+	<key>shouldFinishClipper</key>
+	<string>arithmeticMetadata</string>
+	<key>splitterStyle</key>
+	<string>persistCanvas</string>
+	<key>stepactioninset</key>
+	<string>diversifiedWidget</string>
+	<key>viewlistener</key>
+	<string>reactiveSemantics</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelcharacter</key>
+	<string>referenceLocation</string>
+	<key>creatorColor</key>
+	<string>robustFilter</string>
+	<key>hardReliability</key>
+	<string>buttonPhase</string>
+	<key>layoutcompleter</key>
+	<string>prismaticProgressBar</string>
+	<key>newestMaterializer</key>
+	<string>metadatastylespeed</string>
+	<key>resumechannel</key>
+	<string>smartStore</string>
+	<key>scrollableScroller</key>
+	<string>tappableVertex</string>
+	<key>shouldAttachCaption</key>
+	<string>saveNorm</string>
+	<key>timelineIndex</key>
+	<string>capacityTransparency</string>
+	<key>trajectoryInteraction</key>
+	<string>provisionSkewX</string>
+</dict>
+</plist>

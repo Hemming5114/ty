@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetpicker</key>
+	<string>baseOrigin</string>
+	<key>controllerMargin</key>
+	<string>canEmitSemantics</string>
+	<key>converterMargin</key>
+	<string>normalImage</string>
+	<key>lastEfficiency</key>
+	<string>insteadWidget</string>
+	<key>shouldPauseProtocol</key>
+	<string>staticDrawer</string>
+	<key>synchronousPopup</key>
+	<string>alignmentType</string>
+	<key>temporaryWidget</key>
+	<string>largeKernel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBinder</key>
+	<string>permissiveBinary</string>
+	<key>animatedSample</key>
+	<string>buildtexture</string>
+	<key>axisresponder</key>
+	<string>sampleBorder</string>
+	<key>clearrouter</key>
+	<string>shouldRenderHero</string>
+	<key>dedicatedAnalogy</key>
+	<string>shouldNavigateSlider</string>
+	<key>multiScroll</key>
+	<string>crudeconstraint</string>
+	<key>normalTabView</key>
+	<string>lazychannelkind</string>
+	<key>substantialTime</key>
+	<string>lostAlert</string>
+</dict>
+</plist>

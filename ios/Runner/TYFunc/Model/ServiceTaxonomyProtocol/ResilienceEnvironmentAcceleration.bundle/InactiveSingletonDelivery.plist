@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRange</key>
+	<string>denseBuilder</string>
+	<key>scrollinterval</key>
+	<string>cosineStyle</string>
+	<key>shouldDispatchCursor</key>
+	<string>debugResolver</string>
+	<key>shouldRouteHistogram</key>
+	<string>hyperbolicNotification</string>
+	<key>sophisticatedanimation</key>
+	<string>shoulddetachcoordinator</string>
+	<key>subtleStore</key>
+	<string>actionInset</string>
+</dict>
+</plist>

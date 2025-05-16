@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRole</key>
+	<string>shouldRouteAspectRatio</string>
+	<key>boxstore</key>
+	<string>typicalTabView</string>
+	<key>entityformspeed</key>
+	<string>exitSingleton</string>
+	<key>gramFlags</key>
+	<string>missiontrigger</string>
+	<key>iterativeEvent</key>
+	<string>parallelGrain</string>
+	<key>labelvariableduration</key>
+	<string>greatVertex</string>
+	<key>mapRotation</key>
+	<string>largeLatency</string>
+	<key>shouldDecodeGradient</key>
+	<string>shouldDisposeScale</string>
+	<key>shouldEncodeProtocol</key>
+	<string>shouldYieldTabView</string>
+	<key>unsortedTransition</key>
+	<string>loaderforce</string>
+</dict>
+</plist>

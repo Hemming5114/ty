@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOccasion</key>
+	<string>shouldparsemodulus</string>
+	<key>crudelistenerspacing</key>
+	<string>movementSize</string>
+	<key>meshRate</key>
+	<string>granularSubpixel</string>
+	<key>missedElement</key>
+	<string>diffableMapper</string>
+	<key>multiSorter</key>
+	<string>invisibleGrayscale</string>
+	<key>retainedresolvertop</key>
+	<string>protocolLeft</string>
+	<key>selectedspot</key>
+	<string>validategem</string>
+	<key>shouldDismissGradient</key>
+	<string>builderInteraction</string>
+	<key>shouldSerializeDocument</key>
+	<string>extendSize</string>
+	<key>stateforce</key>
+	<string>draggableRemediation</string>
+</dict>
+</plist>

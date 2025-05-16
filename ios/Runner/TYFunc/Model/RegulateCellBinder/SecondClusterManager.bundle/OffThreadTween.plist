@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisscallback</key>
+	<string>gesturedetectorInteraction</string>
+	<key>entropySkewX</key>
+	<string>spineofprocess</string>
+	<key>immutableFragments</key>
+	<string>respectiveZone</string>
+	<key>imperativeReducer</key>
+	<string>requestStage</string>
+	<key>mainTransformer</key>
+	<string>customizedGestureDetector</string>
+	<key>mediaquerySpacing</key>
+	<string>capacitiesOperation</string>
+	<key>opaqueResolver</key>
+	<string>imageFeedback</string>
+	<key>polygonFlags</key>
+	<string>processIndicator</string>
+	<key>shouldStartScroll</key>
+	<string>emitGridView</string>
+	<key>subtleChecklist</key>
+	<string>shouldRenderOperation</string>
+</dict>
+</plist>

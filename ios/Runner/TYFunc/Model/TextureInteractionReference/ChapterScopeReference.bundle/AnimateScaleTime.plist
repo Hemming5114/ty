@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axiskindinteraction</key>
+	<string>otherEffect</string>
+	<key>binderVelocity</key>
+	<string>shouldDisconnectController</string>
+	<key>cartesianTabBar</key>
+	<string>exitTransition</string>
+	<key>hasaperture</key>
+	<string>missedscrollalignment</string>
+	<key>lazyCaption</key>
+	<string>canDecodeShader</string>
+	<key>oldDescent</key>
+	<string>taskInterpreter</string>
+	<key>prismaticSound</key>
+	<string>shouldCacheView</string>
+	<key>protocolawait</key>
+	<string>invisibleBuffer</string>
+	<key>shouldListenMobile</key>
+	<string>baselinebottom</string>
+	<key>tappableDrawer</key>
+	<string>eagerStack</string>
+</dict>
+</plist>

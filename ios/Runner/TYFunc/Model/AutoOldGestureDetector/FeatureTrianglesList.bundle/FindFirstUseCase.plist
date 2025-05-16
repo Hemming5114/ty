@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryleft</key>
+	<string>occasionpressure</string>
+	<key>basicChannel</key>
+	<string>notifyaspectratio</string>
+	<key>commonFrame</key>
+	<string>interactiveCycle</string>
+	<key>delegateBorder</key>
+	<string>shouldDetachCompletion</string>
+	<key>equalizationmesh</key>
+	<string>semanticRepository</string>
+	<key>localMap</key>
+	<string>permissiveAudio</string>
+	<key>scrollableTernary</key>
+	<string>pushFeature</string>
+</dict>
+</plist>

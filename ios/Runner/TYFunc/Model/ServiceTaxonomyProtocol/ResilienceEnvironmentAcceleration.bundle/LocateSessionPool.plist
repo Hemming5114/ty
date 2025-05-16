@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistBehavior</key>
+	<string>disabledBuffer</string>
+	<key>deliveryPosition</key>
+	<string>shouldFinishTabBar</string>
+	<key>inactiveOverlay</key>
+	<string>symmetricImpression</string>
+	<key>interpolationInset</key>
+	<string>canMountedStateless</string>
+	<key>shouldDismissTabView</key>
+	<string>mainsign</string>
+	<key>shouldtransformprecision</key>
+	<string>standaloneWidget</string>
+	<key>touchresource</key>
+	<string>durationshape</string>
+</dict>
+</plist>

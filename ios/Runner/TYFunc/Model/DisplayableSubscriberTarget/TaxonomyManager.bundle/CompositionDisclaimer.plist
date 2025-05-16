@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateindex</key>
+	<string>visibleHandler</string>
+	<key>discardedanimationbrightness</key>
+	<string>fetchTouch</string>
+	<key>prismaticZone</key>
+	<string>poolBuilder</string>
+	<key>shouldCreateGradient</key>
+	<string>pinchableBitrate</string>
+	<key>textureborder</key>
+	<string>immediateSample</string>
+</dict>
+</plist>

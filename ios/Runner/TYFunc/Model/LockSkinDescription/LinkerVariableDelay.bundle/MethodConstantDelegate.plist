@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConvolution</key>
+	<string>subtleactionfrequency</string>
+	<key>directVideo</key>
+	<string>shouldunbindwidget</string>
+	<key>responsiveVariant</key>
+	<string>shouldYieldModulus</string>
+	<key>switchFlags</key>
+	<string>concurrentWidget</string>
+</dict>
+</plist>

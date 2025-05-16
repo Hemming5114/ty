@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindmenu</key>
+	<string>nativeSearcher</string>
+	<key>modeldelivery</key>
+	<string>canRenderDuration</string>
+	<key>shouldDisposeMedia</key>
+	<string>accessibleReduction</string>
+	<key>shouldyieldsensor</key>
+	<string>scaffoldVisitor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPresenter</key>
+	<string>generateState</string>
+	<key>customizedAxis</key>
+	<string>dedicatedContrast</string>
+	<key>diversifiedResponder</key>
+	<string>updateService</string>
+	<key>elasticIntegrity</key>
+	<string>localizationTint</string>
+	<key>groupsearcher</key>
+	<string>conformInteractor</string>
+	<key>lockmethod</key>
+	<string>validateModulus</string>
+	<key>mendDirection</key>
+	<string>inflateEffect</string>
+	<key>movementAppearance</key>
+	<string>presenterskewy</string>
+	<key>smartcharacter</key>
+	<string>previewVelocity</string>
+</dict>
+</plist>

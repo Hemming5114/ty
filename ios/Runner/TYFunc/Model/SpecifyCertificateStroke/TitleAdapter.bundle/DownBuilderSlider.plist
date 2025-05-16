@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideancapacity</key>
+	<string>adaptiveChooser</string>
+	<key>reusablethroughput</key>
+	<string>independentCoordinator</string>
+	<key>shouldPaintSign</key>
+	<string>normalrepositoryduration</string>
+	<key>unactivatedSpecifier</key>
+	<string>emitCustomPaint</string>
+	<key>widgetcolor</key>
+	<string>utilbehavior</string>
+</dict>
+</plist>

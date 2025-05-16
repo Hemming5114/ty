@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveScenario</key>
+	<string>inactiveAspect</string>
+	<key>assetprocessfeedback</key>
+	<string>commonElasticity</string>
+	<key>chartStyle</key>
+	<string>intuitiveCombiner</string>
+	<key>deserializemaster</key>
+	<string>shouldDetachDimension</string>
+	<key>flexibleAspect</key>
+	<string>assetForce</string>
+	<key>liteMediaQuery</key>
+	<string>iterativeintensity</string>
+	<key>relationalButton</key>
+	<string>shouldYieldSlider</string>
+	<key>rowdensity</key>
+	<string>visibleTweak</string>
+	<key>searcherDensity</key>
+	<string>routerParameter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperType</key>
+	<string>attachWorkflow</string>
+	<key>ephemeralStorage</key>
+	<string>notifySprite</string>
+	<key>hyperbolicUtil</key>
+	<string>painterRotation</string>
+	<key>interactorPressure</key>
+	<string>canContinueSwitch</string>
+	<key>lazySwitch</key>
+	<string>hierarchicalAspectRatio</string>
+	<key>locateequipment</key>
+	<string>channelsatoperation</string>
+	<key>shouldPresentPrecision</key>
+	<string>fillButton</string>
+	<key>similarSingleton</key>
+	<string>lazyCurve</string>
+	<key>temporarySegue</key>
+	<string>draggableScreen</string>
+</dict>
+</plist>

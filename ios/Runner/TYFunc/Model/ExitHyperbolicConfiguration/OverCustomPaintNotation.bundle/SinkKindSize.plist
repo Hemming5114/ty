@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncstatus</key>
+	<string>dedicatedPolygon</string>
+	<key>hardProvision</key>
+	<string>persistentswitch</string>
+	<key>imperativeEffect</key>
+	<string>pushservice</string>
+	<key>intermediateDropdownButton</key>
+	<string>augmentAnimation</string>
+	<key>restrictionDepth</key>
+	<string>shouldSkipSegue</string>
+	<key>shouldDisconnectCube</key>
+	<string>shouldPushAlpha</string>
+	<key>shouldpopsemantics</key>
+	<string>dispatchPainter</string>
+	<key>tappableBloc</key>
+	<string>profileNumber</string>
+</dict>
+</plist>

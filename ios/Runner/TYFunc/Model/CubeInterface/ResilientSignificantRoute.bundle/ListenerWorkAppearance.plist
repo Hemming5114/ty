@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMenu</key>
+	<string>firstSpot</string>
+	<key>displayableChart</key>
+	<string>shapePressure</string>
+	<key>independentSingleton</key>
+	<string>specifierBehavior</string>
+	<key>pinchablestoragehue</key>
+	<string>decoupleRow</string>
+	<key>prismaticStatus</key>
+	<string>priorMobile</string>
+	<key>shouldHandleCaption</key>
+	<string>alignmentcount</string>
+	<key>shouldUnbindMargin</key>
+	<string>shouldCreateSegue</string>
+	<key>timelineDirection</key>
+	<string>singleTimeline</string>
+	<key>viewDelay</key>
+	<string>deferredDependency</string>
+</dict>
+</plist>

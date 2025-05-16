@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationDistance</key>
+	<string>restartPoint</string>
+	<key>firstRectangle</key>
+	<string>defaultBaseline</string>
+	<key>futureOrientation</key>
+	<string>difficultModule</string>
+	<key>shouldPopPageView</key>
+	<string>interfaceadapterleft</string>
+	<key>synchronousReduction</key>
+	<string>adaptiveSound</string>
+	<key>uniqueframe</key>
+	<string>mobileError</string>
+</dict>
+</plist>

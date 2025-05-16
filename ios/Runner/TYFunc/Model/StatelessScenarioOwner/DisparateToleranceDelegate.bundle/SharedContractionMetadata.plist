@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkzone</key>
+	<string>canNavigateCompletion</string>
+	<key>bufferMode</key>
+	<string>canRestartTask</string>
+	<key>convertbutton</key>
+	<string>shouldskiprow</string>
+	<key>crucialAnimation</key>
+	<string>canSaveObserver</string>
+	<key>masterTint</key>
+	<string>canPopTable</string>
+	<key>mobileGroup</key>
+	<string>shouldTrainClipper</string>
+	<key>modelPadding</key>
+	<string>dismissCompleter</string>
+	<key>mutablepager</key>
+	<string>elasticSkirt</string>
+	<key>pivotalInterface</key>
+	<string>associatedFormat</string>
+	<key>shouldRoutePlate</key>
+	<string>fusedOption</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelstate</key>
+	<string>draggableLatency</string>
+	<key>characteristicRotation</key>
+	<string>providerCycle</string>
+	<key>nativeAnalyzer</key>
+	<string>shouldDisposePositioned</string>
+	<key>previewvariabletransparency</key>
+	<string>textfieldenvironmentalignment</string>
+	<key>zoneoutsideadapter</key>
+	<string>shouldBuildNotifier</string>
+</dict>
+</plist>

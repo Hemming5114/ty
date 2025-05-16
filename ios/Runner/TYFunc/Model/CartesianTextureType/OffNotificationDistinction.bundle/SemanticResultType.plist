@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCompletion</key>
+	<string>respondLocalization</string>
+	<key>keygraincolor</key>
+	<string>shouldLoadCharacter</string>
+	<key>lazyAspectRatio</key>
+	<string>featuretransparency</string>
+	<key>shouldHandleCanvas</key>
+	<string>canSkipBorder</string>
+	<key>shouldPopBorder</key>
+	<string>deferredSelector</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeBorder</key>
+	<string>invisibleCollection</string>
+	<key>materialVariant</key>
+	<string>coordinatorType</string>
+	<key>metadatacharacteristic</key>
+	<string>startGraphic</string>
+	<key>numericalCache</key>
+	<string>scaleCenter</string>
+	<key>viewcyclehue</key>
+	<string>inheritedactionscale</string>
+</dict>
+</plist>

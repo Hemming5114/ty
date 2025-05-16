@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerExtension</key>
+	<string>denseMetrics</string>
+	<key>invisibleTopic</key>
+	<string>advancedchannelindex</string>
+	<key>mechanismforce</key>
+	<string>aspectmargin</string>
+	<key>reusableTexture</key>
+	<string>ephemeralSplitter</string>
+	<key>shouldCacheTransition</key>
+	<string>managerMemento</string>
+	<key>shouldEmitScroll</key>
+	<string>ismediaquery</string>
+	<key>shouldPushTool</key>
+	<string>canAttachFuture</string>
+	<key>singleAnimation</key>
+	<string>heapContrast</string>
+</dict>
+</plist>

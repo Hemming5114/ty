@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeDescent</key>
+	<string>dialogsColor</string>
+	<key>hardCube</key>
+	<string>enabledVolume</string>
+	<key>mapfacadesize</key>
+	<string>keepSlider</string>
+	<key>opaquenibresponse</key>
+	<string>canPaintShader</string>
+	<key>shouldListenComposition</key>
+	<string>writePresenter</string>
+	<key>shouldObserveCosine</key>
+	<string>completionsearcher</string>
+	<key>tappableAnimatedContainer</key>
+	<string>petName</string>
+</dict>
+</plist>

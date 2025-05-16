@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emittimer</key>
+	<string>factoryprototypelocation</string>
+	<key>fixedSize</key>
+	<string>emitmonster</string>
+	<key>indicatorPressure</key>
+	<string>plateSize</string>
+	<key>instantiatesprite</key>
+	<string>restartAspectRatio</string>
+	<key>shouldunmountcollection</key>
+	<string>extendDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeSwift</key>
+	<string>buildersound</string>
+	<key>normalSemantics</key>
+	<string>shouldEncodeCoordinator</string>
+	<key>priorityCount</key>
+	<string>listviewbufferindex</string>
+	<key>respectiveviewscale</key>
+	<string>shouldCreateMovement</string>
+	<key>temporaryColumn</key>
+	<string>notifyGrain</string>
+</dict>
+</plist>

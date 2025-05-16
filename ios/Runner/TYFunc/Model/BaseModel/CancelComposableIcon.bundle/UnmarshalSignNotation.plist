@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderorigin</key>
+	<string>sustainableresult</string>
+	<key>disposerouter</key>
+	<string>equipmentSpeed</string>
+	<key>normalcontractionposition</key>
+	<string>validateFuture</string>
+	<key>resizableAspectRatio</key>
+	<string>shouldInflateUsage</string>
+	<key>sequentialIntegration</key>
+	<string>inheritedGrayscale</string>
+	<key>zoneRight</key>
+	<string>inflateRouter</string>
+	<key>zoneTint</key>
+	<string>permanentConstant</string>
+</dict>
+</plist>

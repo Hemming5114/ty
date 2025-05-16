@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonListener</key>
+	<string>greatFragment</string>
+	<key>customizedService</key>
+	<string>loopTint</string>
+	<key>layoutawayshape</key>
+	<string>equalIsolate</string>
+	<key>providerPadding</key>
+	<string>geometrictime</string>
+</dict>
+</plist>

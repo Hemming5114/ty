@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentShader</key>
+	<string>mobileConnector</string>
+	<key>shouldRouteMaterial</key>
+	<string>usedEvaluation</string>
+	<key>smallScope</key>
+	<string>parseAperture</string>
+	<key>sustainableBandwidth</key>
+	<string>touchActivity</string>
+</dict>
+</plist>

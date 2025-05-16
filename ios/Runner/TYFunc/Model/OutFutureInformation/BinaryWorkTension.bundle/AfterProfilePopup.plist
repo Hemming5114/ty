@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBuffer</key>
+	<string>heapLeft</string>
+	<key>audioMomentum</key>
+	<string>prepareHeap</string>
+	<key>blocbound</key>
+	<string>soundEdge</string>
+	<key>lockspecifier</key>
+	<string>shouldDismissMovement</string>
+	<key>similarcompositionshape</key>
+	<string>geometricUsage</string>
+	<key>usecasefacadespeed</key>
+	<string>constantName</string>
+</dict>
+</plist>

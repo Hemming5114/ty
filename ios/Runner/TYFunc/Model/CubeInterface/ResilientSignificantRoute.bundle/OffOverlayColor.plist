@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedLog</key>
+	<string>characteristicHue</string>
+	<key>observerformat</key>
+	<string>converterHue</string>
+	<key>primaryRect</key>
+	<string>canFinishWidget</string>
+	<key>shouldDismissCharacter</key>
+	<string>showScaffold</string>
+	<key>shouldDismissSkirt</key>
+	<string>shouldpushexpanded</string>
+	<key>themeinterpretercontrast</key>
+	<string>animationProcess</string>
+</dict>
+</plist>

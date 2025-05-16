@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlySignature</key>
+	<string>persistlocalization</string>
+	<key>displayableScheduler</key>
+	<string>shouldRebuildAccessory</string>
+	<key>ignoredRole</key>
+	<string>processInteger</string>
+	<key>interactiveBorder</key>
+	<string>indicatorRate</string>
+	<key>respectiveMission</key>
+	<string>clearcanvas</string>
+	<key>respectiveScenario</key>
+	<string>rectCoord</string>
+	<key>segueLeft</key>
+	<string>desktopMediaQuery</string>
+	<key>singleView</key>
+	<string>elasticDescription</string>
+</dict>
+</plist>

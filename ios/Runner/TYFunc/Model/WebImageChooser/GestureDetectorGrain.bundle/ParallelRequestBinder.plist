@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultsizesaturation</key>
+	<string>defaultalert</string>
+	<key>gramDirection</key>
+	<string>insteadSize</string>
+	<key>independentText</key>
+	<string>lastGram</string>
+	<key>persistentEffect</key>
+	<string>annotateAsync</string>
+	<key>retainedModal</key>
+	<string>canMountedMobile</string>
+	<key>sharedAnchor</key>
+	<string>streamRate</string>
+	<key>shouldBuildTable</key>
+	<string>upgradestack</string>
+	<key>shouldDecodeCard</key>
+	<string>tableMomentum</string>
+</dict>
+</plist>

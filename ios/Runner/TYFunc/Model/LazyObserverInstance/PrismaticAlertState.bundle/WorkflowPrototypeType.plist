@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customscenario</key>
+	<string>textureIndex</string>
+	<key>keyAlpha</key>
+	<string>keepSkirt</string>
+	<key>threadType</key>
+	<string>stopReference</string>
+	<key>uniquePicker</key>
+	<string>factoryatstrategy</string>
+	<key>uniqueProjection</key>
+	<string>shouldResumeMobile</string>
+</dict>
+</plist>

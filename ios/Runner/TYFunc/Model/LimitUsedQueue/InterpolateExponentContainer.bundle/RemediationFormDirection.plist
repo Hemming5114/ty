@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarlayer</key>
+	<string>denseAudio</string>
+	<key>euclideanFactory</key>
+	<string>playBuilder</string>
+	<key>globalStream</key>
+	<string>composableMember</string>
+	<key>imageIndex</key>
+	<string>requestoperationinset</string>
+	<key>integerShape</key>
+	<string>impactshape</string>
+	<key>isolatetension</key>
+	<string>dynamicTitle</string>
+	<key>publicTrigger</key>
+	<string>sizedboxinteraction</string>
+	<key>responsiveQueue</key>
+	<string>continueOption</string>
+	<key>stampcompleter</key>
+	<string>delegatedisclaimer</string>
+	<key>zoneContrast</key>
+	<string>significantImpact</string>
+</dict>
+</plist>

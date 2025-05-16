@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionticker</key>
+	<string>keyLabel</string>
+	<key>cupertinoPositioned</key>
+	<string>composableStore</string>
+	<key>customState</key>
+	<string>rowBound</string>
+	<key>geometricComponent</key>
+	<string>formatFrequency</string>
+	<key>independentReference</key>
+	<string>canPopContraction</string>
+	<key>infrastructureBorder</key>
+	<string>detachSwift</string>
+	<key>pivotalError</key>
+	<string>replaceInkWell</string>
+	<key>shouldDeserializeOption</key>
+	<string>semanticmechanism</string>
+	<key>tappableBorder</key>
+	<string>readAllocator</string>
+	<key>textfieldtransparency</key>
+	<string>shouldAttachDropdownButton</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorResponse</key>
+	<string>assetsaturation</string>
+	<key>ignoredInteraction</key>
+	<string>shouldbuildsemantics</string>
+	<key>intensityandtask</key>
+	<string>relationalTime</string>
+	<key>subtleLoop</key>
+	<string>respectiveGesture</string>
+	<key>symmetricStoryboard</key>
+	<string>pushstateless</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySpacing</key>
+	<string>providerFeedback</string>
+	<key>dataAppearance</key>
+	<string>ignoredCycle</string>
+	<key>greatWorkflow</key>
+	<string>builderPosition</string>
+	<key>inactiveGrid</key>
+	<string>synchronizeResolver</string>
+	<key>notifierBehavior</key>
+	<string>transitionColumn</string>
+	<key>shouldReplaceSign</key>
+	<string>shouldResumeEntropy</string>
+	<key>subpixelOpacity</key>
+	<string>canNotifyGestureDetector</string>
+</dict>
+</plist>

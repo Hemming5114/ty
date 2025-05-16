@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveanimation</key>
+	<string>numericalsegue</string>
+	<key>gramCenter</key>
+	<string>notificationBehavior</string>
+	<key>graphPosition</key>
+	<string>restoreState</string>
+	<key>hashstyle</key>
+	<string>elasticBox</string>
+	<key>imageinsidesingleton</key>
+	<string>canEmitRemainder</string>
+	<key>mobileAudio</key>
+	<string>channelLocation</string>
+	<key>monsteralongproxy</key>
+	<string>alignmentvisibility</string>
+	<key>specifyCombiner</key>
+	<string>hyperbolicSymbol</string>
+	<key>symmetricAction</key>
+	<string>requestFunction</string>
+</dict>
+</plist>

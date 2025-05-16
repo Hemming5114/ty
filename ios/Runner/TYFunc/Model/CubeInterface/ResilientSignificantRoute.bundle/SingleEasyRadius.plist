@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureResponse</key>
+	<string>inflateintensity</string>
+	<key>localmenu</key>
+	<string>mobilekind</string>
+	<key>protocolMode</key>
+	<string>cartesianAspect</string>
+	<key>reactiveCubit</key>
+	<string>shoulddispatchsubpixel</string>
+	<key>shouldDisposeRole</key>
+	<string>fixedEvent</string>
+</dict>
+</plist>

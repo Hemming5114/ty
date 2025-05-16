@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationobject</key>
+	<string>formatView</string>
+	<key>gateHue</key>
+	<string>tabbarLevel</string>
+	<key>hardBaseline</key>
+	<string>canKeepBorder</string>
+	<key>lastBatch</key>
+	<string>associatedVariant</string>
+	<key>quithistogram</key>
+	<string>permissiveInteractor</string>
+	<key>scenarioType</key>
+	<string>calculateGraph</string>
+	<key>webexceptioninset</key>
+	<string>intuitiveNode</string>
+</dict>
+</plist>

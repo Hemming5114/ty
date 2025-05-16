@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDuration</key>
+	<string>clipRouter</string>
+	<key>cursorIndex</key>
+	<string>callbackcoord</string>
+	<key>offsetsorter</key>
+	<string>skirtAction</string>
+	<key>shouldCancelEquipment</key>
+	<string>serviceLeft</string>
+	<key>shouldFinishInkWell</key>
+	<string>similarLatency</string>
+	<key>taxonomyDepth</key>
+	<string>subscribetitle</string>
+</dict>
+</plist>

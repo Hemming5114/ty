@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedDrawer</key>
+	<string>errorVisibility</string>
+	<key>fragmentincludelevel</key>
+	<string>cycleedge</string>
+	<key>gradientLocation</key>
+	<string>consultativeBandwidth</string>
+	<key>interactiveentropyacceleration</key>
+	<string>notifyAlert</string>
+	<key>liteGrain</key>
+	<string>firstSwitch</string>
+	<key>noderotation</key>
+	<string>explicitWrapper</string>
+	<key>selectorFrequency</key>
+	<string>clipSink</string>
+</dict>
+</plist>

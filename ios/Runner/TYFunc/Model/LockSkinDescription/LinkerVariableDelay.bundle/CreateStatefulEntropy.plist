@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fetchfragment</key>
+	<string>viewPattern</string>
+	<key>frameSkewX</key>
+	<string>topicProxy</string>
+	<key>resilientChannel</key>
+	<string>entityflyweightspeed</string>
+	<key>shouldTransformPoint</key>
+	<string>aspectVisibility</string>
+	<key>shouldyieldtangent</key>
+	<string>analyzerSaturation</string>
+	<key>similarIndicator</key>
+	<string>shouldSerializeConvolution</string>
+	<key>temporarystate</key>
+	<string>stateDirection</string>
+</dict>
+</plist>

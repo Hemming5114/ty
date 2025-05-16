@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterappearance</key>
+	<string>texturepadding</string>
+	<key>gradientMargin</key>
+	<string>seamlessRange</string>
+	<key>histograminteraction</key>
+	<string>connectCell</string>
+	<key>multilocalizationbehavior</key>
+	<string>canKeepMission</string>
+	<key>routeOrigin</key>
+	<string>shouldPushSwift</string>
+	<key>shouldlayoutaxis</key>
+	<string>labelFlags</string>
+	<key>stackAcceleration</key>
+	<string>ternaryValue</string>
+	<key>themeSpeed</key>
+	<string>navigatePopup</string>
+	<key>videoDensity</key>
+	<string>renameBuffer</string>
+</dict>
+</plist>

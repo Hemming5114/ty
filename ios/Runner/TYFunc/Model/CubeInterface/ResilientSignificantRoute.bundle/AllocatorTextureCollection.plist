@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncResponse</key>
+	<string>buttonTask</string>
+	<key>basecolor</key>
+	<string>deferredSlash</string>
+	<key>basicMaterializer</key>
+	<string>provisioncolor</string>
+	<key>defaultExponent</key>
+	<string>canPresentTool</string>
+	<key>grainactionshape</key>
+	<string>signName</string>
+	<key>localizationvisible</key>
+	<string>themeRate</string>
+	<key>primarySign</key>
+	<string>shouldBindArithmetic</string>
+	<key>rectincludeprocess</key>
+	<string>generateAwait</string>
+</dict>
+</plist>

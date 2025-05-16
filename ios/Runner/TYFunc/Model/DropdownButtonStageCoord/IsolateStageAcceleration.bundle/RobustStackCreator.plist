@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customOffset</key>
+	<string>uniqueColor</string>
+	<key>ephemeralusageinset</key>
+	<string>frameskewx</string>
+	<key>fixedAnimatedContainer</key>
+	<string>functionalObserver</string>
+	<key>lockutil</key>
+	<string>reactiveStorage</string>
+	<key>menuInset</key>
+	<string>slidermodetheme</string>
+	<key>rectifyduration</key>
+	<string>subscribecaption</string>
+	<key>robustExpanded</key>
+	<string>largeMend</string>
+	<key>shouldShowOptimizer</key>
+	<string>configurationInterval</string>
+	<key>symmetricRole</key>
+	<string>spriteSystem</string>
+</dict>
+</plist>

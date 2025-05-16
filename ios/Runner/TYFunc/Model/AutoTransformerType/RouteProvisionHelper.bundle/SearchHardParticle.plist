@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphoffset</key>
+	<string>canUnbindPageView</string>
+	<key>shouldPushLayout</key>
+	<string>composableFormat</string>
+	<key>shouldsubscribepageview</key>
+	<string>unmarshalScene</string>
+	<key>shouldtransformtheme</key>
+	<string>buildChallenge</string>
+</dict>
+</plist>

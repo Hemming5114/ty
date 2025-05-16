@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDelay</key>
+	<string>unsortedDescriptor</string>
+	<key>canvasandvisitor</key>
+	<string>prismaticserviceappearance</string>
+	<key>eagerConstant</key>
+	<string>loadcontroller</string>
+	<key>originalChart</key>
+	<string>synchronousSwitch</string>
+	<key>relationalMultiplication</key>
+	<string>shouldLayoutStateful</string>
+	<key>screenoffset</key>
+	<string>accessibleBandwidth</string>
+	<key>serviceaudio</key>
+	<string>canDispatchCompletion</string>
+	<key>specifierIndex</key>
+	<string>kernelEdge</string>
+	<key>usedTouch</key>
+	<string>gesturedetectorphasecoord</string>
+</dict>
+</plist>

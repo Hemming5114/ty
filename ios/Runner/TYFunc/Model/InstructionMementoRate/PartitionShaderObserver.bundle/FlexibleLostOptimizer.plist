@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSubscription</key>
+	<string>canDeserializeChallenge</string>
+	<key>buttonhead</key>
+	<string>mountedcycle</string>
+	<key>coordinatorFormat</key>
+	<string>stopScreen</string>
+	<key>evaluationdirection</key>
+	<string>immediatefuture</string>
+	<key>scrollableBandwidth</key>
+	<string>primaryFilter</string>
+	<key>seekexponent</key>
+	<string>operationInterpreter</string>
+	<key>similarCompletion</key>
+	<string>catalystMethod</string>
+	<key>uniformAscent</key>
+	<string>shouldDeserializeActivity</string>
+</dict>
+</plist>

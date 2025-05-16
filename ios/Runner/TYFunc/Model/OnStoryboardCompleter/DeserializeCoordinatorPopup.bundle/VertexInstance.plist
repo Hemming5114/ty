@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteLayout</key>
+	<string>similarUsage</string>
+	<key>filterForce</key>
+	<string>imperativeskinspeed</string>
+	<key>numericaldisclaimer</key>
+	<string>canHandleModal</string>
+	<key>promiseFeedback</key>
+	<string>pendingGraphic</string>
+	<key>resilientModule</key>
+	<string>decodeController</string>
+	<key>shouldMountRow</key>
+	<string>autoFlex</string>
+	<key>shouldReplaceFragment</key>
+	<string>explicitInterpolation</string>
+	<key>subsequentTimer</key>
+	<string>reactiveRecursion</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblelabelrotation</key>
+	<string>stampFunction</string>
+	<key>alertdelivery</key>
+	<string>cursorStage</string>
+	<key>concreteFrame</key>
+	<string>shouldMountCanvas</string>
+	<key>curvescene</key>
+	<string>screenproxyvelocity</string>
+	<key>navigatormode</key>
+	<string>liteProjection</string>
+	<key>shouldPrepareGift</key>
+	<string>canPublishGem</string>
+	<key>shouldPushMusic</key>
+	<string>canUnmountedNavigator</string>
+	<key>shouldUnmountedStep</key>
+	<string>relationalMatrix</string>
+	<key>transformerfromparameter</key>
+	<string>updateCertificate</string>
+	<key>usecasepressure</key>
+	<string>similarLayout</string>
+</dict>
+</plist>

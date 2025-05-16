@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedAxis</key>
+	<string>greatIndicator</string>
+	<key>histogramobserver</key>
+	<string>associatedTechnique</string>
+	<key>localrouterskewx</key>
+	<string>uniformTrajectory</string>
+	<key>notationinteraction</key>
+	<string>decorationcompositetype</string>
+	<key>oldFlex</key>
+	<string>skipCheckbox</string>
+	<key>shouldFinishMusic</key>
+	<string>inactiveOffset</string>
+	<key>soundContrast</key>
+	<string>invisibleStream</string>
+	<key>usagechannel</key>
+	<string>layoutAlignment</string>
+</dict>
+</plist>

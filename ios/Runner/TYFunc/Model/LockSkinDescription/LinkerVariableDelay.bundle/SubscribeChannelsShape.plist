@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerlevelrate</key>
+	<string>prepareWorkflow</string>
+	<key>criticalGift</key>
+	<string>sequentialTrajectory</string>
+	<key>hyperbolicChannels</key>
+	<string>sceneInset</string>
+	<key>mediaqueryimage</key>
+	<string>observeImage</string>
+	<key>navigatorKind</key>
+	<string>resolvercreator</string>
+	<key>previewalignment</key>
+	<string>sanitizeScene</string>
+	<key>shouldRenderGridView</key>
+	<string>spinoffset</string>
+	<key>sizeMomentum</key>
+	<string>diffableSensor</string>
+	<key>unregistercontainer</key>
+	<string>sanitizeText</string>
+</dict>
+</plist>

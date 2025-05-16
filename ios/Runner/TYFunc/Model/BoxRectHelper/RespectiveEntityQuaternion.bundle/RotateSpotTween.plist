@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneresult</key>
+	<string>lazyResult</string>
+	<key>declarativeroutebehavior</key>
+	<string>immutableFinder</string>
+	<key>deliveryTop</key>
+	<string>singleReceiver</string>
+	<key>keyjoiner</key>
+	<string>entityParam</string>
+	<key>largeRestriction</key>
+	<string>groupLevel</string>
+	<key>navigationcyclesaturation</key>
+	<string>easyText</string>
+	<key>shouldYieldSkin</key>
+	<string>mobileGift</string>
+	<key>variantPadding</key>
+	<string>lastBase</string>
+</dict>
+</plist>

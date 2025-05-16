@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentBottom</key>
+	<string>restartWidget</string>
+	<key>permissivepreviewright</key>
+	<string>prevTimeline</string>
+	<key>reliabilityOffset</key>
+	<string>arithmeticSwitch</string>
+	<key>shouldAttachMobile</key>
+	<string>shouldRestartTangent</string>
+	<key>specifyTaxonomy</key>
+	<string>declarativeOccasion</string>
+	<key>statelessFragments</key>
+	<string>persistentMesh</string>
+	<key>tappableLog</key>
+	<string>channelRight</string>
+</dict>
+</plist>

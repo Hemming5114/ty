@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityType</key>
+	<string>detectorKind</string>
+	<key>delegateAppearance</key>
+	<string>mediaquerystroke</string>
+	<key>histogramForce</key>
+	<string>permissiveRange</string>
+	<key>mapperinterval</key>
+	<string>hyperbolicRow</string>
+	<key>pagerFlags</key>
+	<string>semanticbuilder</string>
+	<key>reductionMomentum</key>
+	<string>connectStack</string>
+	<key>resizableformat</key>
+	<string>batchActivity</string>
+	<key>tappableFormat</key>
+	<string>roleVar</string>
+	<key>uniformLocalization</key>
+	<string>cosineAdapter</string>
+</dict>
+</plist>

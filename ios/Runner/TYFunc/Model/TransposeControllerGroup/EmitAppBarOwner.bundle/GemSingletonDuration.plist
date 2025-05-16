@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorCount</key>
+	<string>displayableSpecifier</string>
+	<key>nibphaseorientation</key>
+	<string>connectpopup</string>
+	<key>pinchableSlider</key>
+	<string>accessoryEnvironment</string>
+	<key>semanticoptimizerinterval</key>
+	<string>newestRemainder</string>
+	<key>shouldNotifyPageView</key>
+	<string>streamBound</string>
+</dict>
+</plist>

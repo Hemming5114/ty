@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisfeedback</key>
+	<string>setstaterouter</string>
+	<key>composableDispatcher</key>
+	<string>unmountEquipment</string>
+	<key>defaultequipment</key>
+	<string>sophisticatedCard</string>
+	<key>elasticMatrix</key>
+	<string>uniqueInteraction</string>
+	<key>firstloader</key>
+	<string>rectifyTitle</string>
+	<key>pinchableSkirt</key>
+	<string>sessionNumber</string>
+	<key>primaryRectangle</key>
+	<string>textureTag</string>
+	<key>significantListener</key>
+	<string>canStartLogarithm</string>
+</dict>
+</plist>

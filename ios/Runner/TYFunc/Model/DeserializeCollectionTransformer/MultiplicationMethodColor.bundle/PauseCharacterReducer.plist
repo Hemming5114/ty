@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBottom</key>
+	<string>seekRoute</string>
+	<key>cyclevisible</key>
+	<string>transitionRight</string>
+	<key>independentThroughput</key>
+	<string>storeedge</string>
+	<key>numericalDispatcher</key>
+	<string>exponentScale</string>
+	<key>relationalWorkflow</key>
+	<string>unmountComposition</string>
+	<key>resolvegraph</key>
+	<string>unactivatedImpression</string>
+	<key>staticState</key>
+	<string>canStartOperation</string>
+	<key>titleatcommand</key>
+	<string>canPushTool</string>
+	<key>unactivatedParticle</key>
+	<string>updateLoop</string>
+</dict>
+</plist>

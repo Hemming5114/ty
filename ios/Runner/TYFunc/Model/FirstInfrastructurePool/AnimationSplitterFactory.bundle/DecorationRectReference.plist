@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanDisclaimer</key>
+	<string>effectscale</string>
+	<key>indicatorposition</key>
+	<string>listenerSkewX</string>
+	<key>profilebloc</key>
+	<string>lastAnchor</string>
+	<key>shouldDecodeAnimatedContainer</key>
+	<string>channelTransparency</string>
+	<key>stepcontextdelay</key>
+	<string>accessibleDispatcher</string>
+	<key>tappableInkWell</key>
+	<string>crucialstoryboard</string>
+</dict>
+</plist>

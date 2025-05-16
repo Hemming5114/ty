@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticpoint</key>
+	<string>mapBehavior</string>
+	<key>lossValidation</key>
+	<string>revisitRect</string>
+	<key>navigatealert</key>
+	<string>menuInset</string>
+	<key>observeralignment</key>
+	<string>hyperbolicAspectRatio</string>
+</dict>
+</plist>

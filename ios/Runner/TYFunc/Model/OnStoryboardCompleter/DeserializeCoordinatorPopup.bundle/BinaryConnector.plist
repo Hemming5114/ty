@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationresilience</key>
+	<string>displayController</string>
+	<key>controllercontrast</key>
+	<string>searchLoop</string>
+	<key>liteinstructionopacity</key>
+	<string>sinkbesidedecorator</string>
+	<key>restrictionInset</key>
+	<string>animatedocument</string>
+	<key>shouldkeepchallenge</key>
+	<string>equipmentMomentum</string>
+	<key>singletonlayerfeedback</key>
+	<string>lazyIntensity</string>
+	<key>sophisticatedOperation</key>
+	<string>scopeKind</string>
+	<key>taxonomyStyle</key>
+	<string>shouldParseSegue</string>
+</dict>
+</plist>

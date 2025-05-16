@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMethod</key>
+	<string>stepcontrast</string>
+	<key>basicClipper</key>
+	<string>canConnectMobile</string>
+	<key>composableRectangle</key>
+	<string>providerTier</string>
+	<key>consultativeObserver</key>
+	<string>publishPlayback</string>
+	<key>currentContainer</key>
+	<string>canPaintAnimatedContainer</string>
+	<key>shouldRenderBoxShadow</key>
+	<string>nibvariableopacity</string>
+	<key>singletonInteraction</key>
+	<string>drawlabel</string>
+	<key>usagetension</key>
+	<string>difficultColumn</string>
+</dict>
+</plist>

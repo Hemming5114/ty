@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePressure</key>
+	<string>accessibleIndicator</string>
+	<key>creatorBorder</key>
+	<string>standaloneAccessory</string>
+	<key>delegateLocation</key>
+	<string>signatureMargin</string>
+	<key>dimensionState</key>
+	<string>particleduringtemple</string>
+	<key>scrollableEffect</key>
+	<string>renderTabBar</string>
+	<key>synchronousCapsule</key>
+	<string>usageStructure</string>
+	<key>viewOffset</key>
+	<string>locateDecoration</string>
+</dict>
+</plist>

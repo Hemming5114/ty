@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsTheme</key>
+	<string>navigatoracceleration</string>
+	<key>shouldUpdateScreen</key>
+	<string>tabviewParam</string>
+	<key>sorterMargin</key>
+	<string>displayableAnimation</string>
+</dict>
+</plist>

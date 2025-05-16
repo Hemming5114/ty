@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationactivityformat</key>
+	<string>directFragments</string>
+	<key>firstEquivalent</key>
+	<string>refreshManager</string>
+	<key>semanticTangent</key>
+	<string>listenerspacing</string>
+	<key>singleModule</key>
+	<string>modulusTension</string>
+	<key>skipprovider</key>
+	<string>cosineDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatelistener</key>
+	<string>concreteLocalization</string>
+	<key>attachcomposition</key>
+	<string>publishspine</string>
+	<key>compositionalanimationedge</key>
+	<string>slashOrientation</string>
+	<key>integerPosition</key>
+	<string>canContinueHero</string>
+	<key>originalOption</key>
+	<string>shouldStreamMobile</string>
+	<key>reusableEvolution</key>
+	<string>crudeGraph</string>
+	<key>semanticElement</key>
+	<string>restoreSize</string>
+	<key>shouldUnmountedCheckbox</key>
+	<string>tableHead</string>
+	<key>spotEdge</key>
+	<string>usecasedepth</string>
+	<key>ternarySize</key>
+	<string>errorvariablestatus</string>
+</dict>
+</plist>

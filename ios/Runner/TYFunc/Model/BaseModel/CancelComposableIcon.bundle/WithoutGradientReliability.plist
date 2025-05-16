@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedRange</key>
+	<string>gramFlyweight</string>
+	<key>keyPainter</key>
+	<string>otherAccessory</string>
+	<key>radiojobstatus</key>
+	<string>localDetector</string>
+	<key>requiredDependency</key>
+	<string>giftAlignment</string>
+	<key>respectiveNode</key>
+	<string>cursorColor</string>
+	<key>stackasaction</key>
+	<string>concatenateSink</string>
+</dict>
+</plist>

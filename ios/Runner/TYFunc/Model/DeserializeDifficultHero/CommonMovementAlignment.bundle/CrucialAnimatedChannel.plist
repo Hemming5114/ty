@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorstatus</key>
+	<string>localNavigator</string>
+	<key>interceptcycle</key>
+	<string>apertureCycle</string>
+	<key>prevTool</key>
+	<string>playbackrepository</string>
+	<key>shouldSetStateLabel</key>
+	<string>significantButton</string>
+	<key>sophisticatedpopup</key>
+	<string>durationFeedback</string>
+	<key>synchronoustool</key>
+	<string>observeGraph</string>
+	<key>titleTension</key>
+	<string>reusableResult</string>
+</dict>
+</plist>

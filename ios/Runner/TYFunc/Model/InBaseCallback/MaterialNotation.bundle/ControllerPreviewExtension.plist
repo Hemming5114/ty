@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianLoader</key>
+	<string>mobileMetrics</string>
+	<key>disparateAperture</key>
+	<string>discardedLifecycle</string>
+	<key>entityForce</key>
+	<string>capacitiesMargin</string>
+	<key>immediateCatalyst</key>
+	<string>staticRenderer</string>
+	<key>mobileSlash</key>
+	<string>maintainStore</string>
+	<key>shouldEncodeDimension</key>
+	<string>deferredPicker</string>
+	<key>vertexVisibility</key>
+	<string>presentBullet</string>
+</dict>
+</plist>

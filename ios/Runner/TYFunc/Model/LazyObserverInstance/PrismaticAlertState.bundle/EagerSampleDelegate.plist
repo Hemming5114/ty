@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStorage</key>
+	<string>screenEnvironment</string>
+	<key>celloffset</key>
+	<string>intuitiveTangent</string>
+	<key>cubitbuffertheme</key>
+	<string>analyzeText</string>
+	<key>displayableLayout</key>
+	<string>bitrateInterval</string>
+	<key>initializetext</key>
+	<string>persistLogarithm</string>
+	<key>observeritem</key>
+	<string>commonProject</string>
+	<key>otherBehavior</key>
+	<string>deactivateflex</string>
+	<key>unmountedspot</key>
+	<string>disposeMovement</string>
+</dict>
+</plist>

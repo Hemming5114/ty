@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialItem</key>
+	<string>updateSlider</string>
+	<key>crudeStateless</key>
+	<string>consumptionTransparency</string>
+	<key>declarativeBoxShadow</key>
+	<string>disparateUseCase</string>
+	<key>hashofmemento</key>
+	<string>touchOperation</string>
+	<key>observemethod</key>
+	<string>canShowScreen</string>
+	<key>parallelService</key>
+	<string>scrollableUseCase</string>
+	<key>shouldLoadDrawer</key>
+	<string>tickerProxy</string>
+	<key>statefulSemantics</key>
+	<string>canParseText</string>
+</dict>
+</plist>

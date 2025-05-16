@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartposition</key>
+	<string>expandedOrientation</string>
+	<key>drawtransformer</key>
+	<string>graphperstate</string>
+	<key>hierarchicalGate</key>
+	<string>compareLabel</string>
+	<key>largeDrawer</key>
+	<string>drawerSpacing</string>
+	<key>persistentError</key>
+	<string>viewfragments</string>
+	<key>shouldRenderMonster</key>
+	<string>skipDrawer</string>
+	<key>shouldrenderproject</key>
+	<string>poolCurve</string>
+	<key>textvalidation</key>
+	<string>basicVideo</string>
+</dict>
+</plist>

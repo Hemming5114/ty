@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatPresenter</key>
+	<string>paddingValue</string>
+	<key>labelpressure</key>
+	<string>lossResponse</string>
+	<key>sequentialRichText</key>
+	<string>directGrayscale</string>
+	<key>shouldbindcontroller</key>
+	<string>polyfillColor</string>
+</dict>
+</plist>

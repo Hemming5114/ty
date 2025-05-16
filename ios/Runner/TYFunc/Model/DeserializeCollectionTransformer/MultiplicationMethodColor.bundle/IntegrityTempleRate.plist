@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAxis</key>
+	<string>agileComposition</string>
+	<key>animationinsidebridge</key>
+	<string>canRenderMember</string>
+	<key>interactiveRadius</key>
+	<string>singletonVar</string>
+	<key>segueOffset</key>
+	<string>shouldBindAppBar</string>
+	<key>shouldUnmountedReference</key>
+	<string>swiftDecorator</string>
+	<key>tappableImage</key>
+	<string>disparateExponent</string>
+</dict>
+</plist>

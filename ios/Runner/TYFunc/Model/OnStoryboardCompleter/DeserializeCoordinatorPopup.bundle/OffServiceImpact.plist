@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregategram</key>
+	<string>lazyDelivery</string>
+	<key>associatedSpot</key>
+	<string>fragmentParam</string>
+	<key>completerShade</key>
+	<string>responsiveGraphic</string>
+	<key>greatEvaluation</key>
+	<string>notifierevaluation</string>
+	<key>onpositionedtap</key>
+	<string>positionedParam</string>
+	<key>permissiveTabView</key>
+	<string>accordionBorder</string>
+	<key>requesttype</key>
+	<string>shouldPersistTool</string>
+	<key>seamlessNavigation</key>
+	<string>channelFeedback</string>
+	<key>swiftBehavior</key>
+	<string>mainAlert</string>
+</dict>
+</plist>

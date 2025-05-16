@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCaption</key>
+	<string>dynamicvolume</string>
+	<key>documentobserver</key>
+	<string>animationbehavior</string>
+	<key>hasTextField</key>
+	<string>shouldShowAlert</string>
+	<key>iterativeTraversal</key>
+	<string>rowstrategyorientation</string>
+	<key>normuntilvar</key>
+	<string>similarActivity</string>
+	<key>plateTint</key>
+	<string>priorLoader</string>
+	<key>relationalSlash</key>
+	<string>lastNavigator</string>
+	<key>traversalTail</key>
+	<string>painterContrast</string>
+</dict>
+</plist>

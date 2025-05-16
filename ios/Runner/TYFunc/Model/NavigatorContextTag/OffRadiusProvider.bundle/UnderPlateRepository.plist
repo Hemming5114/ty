@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipswitch</key>
+	<string>celltweak</string>
+	<key>directAnalogy</key>
+	<string>wrapperFrequency</string>
+	<key>globalAscent</key>
+	<string>inheritedPet</string>
+	<key>notationfrequency</key>
+	<string>pivotalEquipment</string>
+	<key>scaffoldaudio</key>
+	<string>canCreateMomentum</string>
+</dict>
+</plist>

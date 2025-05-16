@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationOffset</key>
+	<string>crudeUseCase</string>
+	<key>connectgraph</key>
+	<string>prevTexture</string>
+	<key>fixedgroupmode</key>
+	<string>shearcache</string>
+	<key>keepresponse</key>
+	<string>consumeProvider</string>
+	<key>robustBloc</key>
+	<string>canFetchNavigator</string>
+	<key>shouldDetachPositioned</key>
+	<string>prevDelivery</string>
+	<key>texttriangles</key>
+	<string>routerBehavior</string>
+</dict>
+</plist>

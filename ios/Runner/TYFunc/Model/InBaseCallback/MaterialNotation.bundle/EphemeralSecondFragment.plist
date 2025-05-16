@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentstorage</key>
+	<string>sessionBrightness</string>
+	<key>factoryTint</key>
+	<string>combinerDepth</string>
+	<key>masterRotation</key>
+	<string>mendkind</string>
+	<key>shouldDeserializeButton</key>
+	<string>vectorizeZone</string>
+	<key>storagelocation</key>
+	<string>sceneTag</string>
+	<key>toleranceSpacing</key>
+	<string>factoryvisitorborder</string>
+	<key>webFragment</key>
+	<string>publicBox</string>
+</dict>
+</plist>

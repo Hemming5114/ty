@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeltieredge</key>
+	<string>buttonstateinteraction</string>
+	<key>desktopCache</key>
+	<string>descriptorVariable</string>
+	<key>iterativeThroughput</key>
+	<string>activityPattern</string>
+	<key>spritelayertag</key>
+	<string>requiredScale</string>
+	<key>subpixelTint</key>
+	<string>shouldNotifyAppBar</string>
+	<key>topicpolygon</key>
+	<string>similarbuilder</string>
+</dict>
+</plist>

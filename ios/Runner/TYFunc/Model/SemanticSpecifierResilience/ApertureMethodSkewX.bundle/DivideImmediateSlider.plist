@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationedge</key>
+	<string>loaderStyle</string>
+	<key>crucialgestureopacity</key>
+	<string>autoOffset</string>
+	<key>mountedscene</key>
+	<string>globalCoordinator</string>
+	<key>transformerResponse</key>
+	<string>dispatchconstraint</string>
+</dict>
+</plist>

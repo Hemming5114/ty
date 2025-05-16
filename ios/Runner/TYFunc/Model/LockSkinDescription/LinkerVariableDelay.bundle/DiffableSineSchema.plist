@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedTime</key>
+	<string>canMountedSwitch</string>
+	<key>gridviewVisible</key>
+	<string>tweakContrast</string>
+	<key>mediocreTool</key>
+	<string>multiBuilder</string>
+	<key>newestCheckbox</key>
+	<string>uniformTaxonomy</string>
+	<key>platescope</key>
+	<string>configurationcycledelay</string>
+	<key>shouldSubscribeLoss</key>
+	<string>rowinsideparameter</string>
+	<key>workflowpager</key>
+	<string>observerTransparency</string>
+</dict>
+</plist>

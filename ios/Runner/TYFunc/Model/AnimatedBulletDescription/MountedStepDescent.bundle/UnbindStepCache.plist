@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncpatternpadding</key>
+	<string>hierarchicalAction</string>
+	<key>chooserDensity</key>
+	<string>bindFragment</string>
+	<key>comprehensiveImage</key>
+	<string>unscheduleDescription</string>
+	<key>concreteChannel</key>
+	<string>hardsampleduration</string>
+	<key>difficultCollection</key>
+	<string>tweenVisible</string>
+	<key>lastLoop</key>
+	<string>canPublishSegue</string>
+	<key>routerdensity</key>
+	<string>shouldStartConsumer</string>
+	<key>seamlessState</key>
+	<string>interactorfromdecorator</string>
+	<key>viewLeft</key>
+	<string>attachAsync</string>
+</dict>
+</plist>

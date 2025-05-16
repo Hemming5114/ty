@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateentity</key>
+	<string>clipResource</string>
+	<key>autoResponse</key>
+	<string>respectiveObserver</string>
+	<key>compositionalinteractor</key>
+	<string>canLayoutConsumer</string>
+	<key>materialMargin</key>
+	<string>animatedcurvevisible</string>
+	<key>shouldDecodeDescriptor</key>
+	<string>shouldYieldClipper</string>
+</dict>
+</plist>

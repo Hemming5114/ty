@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalobserverdensity</key>
+	<string>discardedRecursion</string>
+	<key>integerIndex</key>
+	<string>normmenu</string>
+	<key>listenslash</key>
+	<string>singleGraphic</string>
+	<key>makelog</key>
+	<string>interactiveOption</string>
+	<key>opaquestrength</key>
+	<string>subscribeDelegate</string>
+	<key>profileCoord</key>
+	<string>materialSingleton</string>
+	<key>reactiveShader</key>
+	<string>shouldHandleCursor</string>
+	<key>retainedTimeline</key>
+	<string>smallmodulusscale</string>
+	<key>unsortedComposition</key>
+	<string>aggregatereducer</string>
+</dict>
+</plist>

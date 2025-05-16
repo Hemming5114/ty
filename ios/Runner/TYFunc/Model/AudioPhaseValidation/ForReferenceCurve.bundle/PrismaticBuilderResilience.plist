@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultHeap</key>
+	<string>draggableWidget</string>
+	<key>materialNotifier</key>
+	<string>touchInjection</string>
+	<key>notifierTension</key>
+	<string>tabviewVisitor</string>
+	<key>provisionDuration</key>
+	<string>cupertinoComposite</string>
+	<key>selectedinterpolation</key>
+	<string>originalInterface</string>
+	<key>setstateroute</key>
+	<string>mediumSearcher</string>
+	<key>shouldAttachStack</key>
+	<string>invokeLayer</string>
+	<key>trajectoryPressure</key>
+	<string>greatRoute</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorBorder</key>
+	<string>contractionKind</string>
+	<key>itemName</key>
+	<string>indicatorwithvalue</string>
+	<key>newestdelegate</key>
+	<string>sequentialImpact</string>
+	<key>petresult</key>
+	<string>checkboxevent</string>
+	<key>tensorClipper</key>
+	<string>dismissOptimizer</string>
+	<key>volumeContrast</key>
+	<string>augmentDelegate</string>
+	<key>webTopic</key>
+	<string>permanentTheme</string>
+</dict>
+</plist>

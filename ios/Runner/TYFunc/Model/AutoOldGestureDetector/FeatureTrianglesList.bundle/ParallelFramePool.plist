@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementInterval</key>
+	<string>typicalResource</string>
+	<key>lostUsage</key>
+	<string>spinerotation</string>
+	<key>multiEntity</key>
+	<string>mediaqueryResponse</string>
+	<key>polyfillTail</key>
+	<string>gatelikevisitor</string>
+	<key>priorityIndex</key>
+	<string>animatedHeap</string>
+	<key>reusableModel</key>
+	<string>primaryInfo</string>
+	<key>semanticsBorder</key>
+	<string>eagerInteractor</string>
+	<key>tabviewDensity</key>
+	<string>canYieldVariant</string>
+</dict>
+</plist>

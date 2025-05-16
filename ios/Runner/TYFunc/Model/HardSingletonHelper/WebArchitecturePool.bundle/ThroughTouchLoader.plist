@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultReduction</key>
+	<string>setupCurve</string>
+	<key>disparateScreen</key>
+	<string>renamesprite</string>
+	<key>independentAnimator</key>
+	<string>nodeorigin</string>
+	<key>normalJoiner</key>
+	<string>compositionEnvironment</string>
+	<key>pivotalDelegate</key>
+	<string>cancelBatch</string>
+	<key>scalabilityVisible</key>
+	<string>unaryAction</string>
+	<key>shouldBindNavigation</key>
+	<string>transitionTask</string>
+	<key>shouldNavigatePriority</key>
+	<string>removeSlider</string>
+	<key>synchronousCluster</key>
+	<string>webScaffold</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentcompletion</key>
+	<string>canFormatProject</string>
+	<key>presenterpatternoffset</key>
+	<string>rowthroughstage</string>
+	<key>publicBase</key>
+	<string>maintainisolate</string>
+	<key>shouldConnectUsage</key>
+	<string>graphicorigin</string>
+	<key>specifyPolygon</key>
+	<string>autoImpression</string>
+</dict>
+</plist>

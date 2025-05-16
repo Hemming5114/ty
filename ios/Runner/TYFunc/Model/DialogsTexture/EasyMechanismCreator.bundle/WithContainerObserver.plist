@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedNotifier</key>
+	<string>materialtype</string>
+	<key>boxforce</key>
+	<string>canSetStateScreen</string>
+	<key>mutableFragments</key>
+	<string>trainStoryboard</string>
+	<key>nativeBloc</key>
+	<string>operationVisitor</string>
+</dict>
+</plist>

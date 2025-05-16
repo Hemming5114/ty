@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHash</key>
+	<string>replicateRepository</string>
+	<key>capacitiesHead</key>
+	<string>charactervaropacity</string>
+	<key>dispatcherSkewY</key>
+	<string>animateAwait</string>
+	<key>dynamicLabel</key>
+	<string>protectedFlex</string>
+	<key>hardlocalizationcenter</key>
+	<string>immediateStrength</string>
+	<key>managerDistance</key>
+	<string>smartCaption</string>
+	<key>remainderForce</key>
+	<string>semanticSizedBox</string>
+	<key>subtleCanvas</key>
+	<string>sanitizeLayout</string>
+	<key>textColor</key>
+	<string>singletonDistance</string>
+</dict>
+</plist>

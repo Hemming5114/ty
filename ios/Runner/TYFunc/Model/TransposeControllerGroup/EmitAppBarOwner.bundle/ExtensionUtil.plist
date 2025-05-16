@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricCube</key>
+	<string>canConnectRadio</string>
+	<key>originalcell</key>
+	<string>restrictionInset</string>
+	<key>pivotalcontroller</key>
+	<string>temporaryCapsule</string>
+	<key>shouldTransitionSkin</key>
+	<string>canSerializeDecoration</string>
+	<key>wrapperCenter</key>
+	<string>interactiveChapter</string>
+</dict>
+</plist>

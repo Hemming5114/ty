@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTension</key>
+	<string>painterNumber</string>
+	<key>constraintstroke</key>
+	<string>decorationformrate</string>
+	<key>directlyheapedge</key>
+	<string>shouldPushAspect</string>
+	<key>eagerNotification</key>
+	<string>canPaintRemainder</string>
+	<key>injectanimation</key>
+	<string>reusableAspect</string>
+	<key>shouldRenderSignature</key>
+	<string>chaptercontainprocess</string>
+</dict>
+</plist>

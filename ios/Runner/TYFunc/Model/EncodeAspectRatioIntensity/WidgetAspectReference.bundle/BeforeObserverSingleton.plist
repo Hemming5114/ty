@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOffset</key>
+	<string>respectiveTransition</string>
+	<key>compilecursor</key>
+	<string>operationCoord</string>
+	<key>ongradienttap</key>
+	<string>endSensor</string>
+	<key>persistentDelivery</key>
+	<string>typicalPrecision</string>
+	<key>resetrect</key>
+	<string>semanticComposition</string>
+	<key>resilientEvaluation</key>
+	<string>shouldEmitCollection</string>
+	<key>shouldpresentoptimizer</key>
+	<string>retrieveSubscription</string>
+	<key>subpixelVelocity</key>
+	<string>canSubscribeLoss</string>
+	<key>tensorCatalyst</key>
+	<string>exponentTemple</string>
+	<key>unbindview</key>
+	<string>shouldKeepTernary</string>
+</dict>
+</plist>

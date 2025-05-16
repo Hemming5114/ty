@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionstyleappearance</key>
+	<string>intensitynotation</string>
+	<key>consultativestateful</key>
+	<string>handleTouch</string>
+	<key>finishrow</key>
+	<string>sharedIntegration</string>
+	<key>methodbinder</key>
+	<string>yieldContraction</string>
+	<key>resizableGrid</key>
+	<string>shouldFormatAspectRatio</string>
+	<key>shouldAttachGem</key>
+	<string>materializeChart</string>
+	<key>similarTool</key>
+	<string>resultDecorator</string>
+	<key>slashorigin</key>
+	<string>cursorInteraction</string>
+	<key>synchronousBatch</key>
+	<string>resizableCell</string>
+</dict>
+</plist>

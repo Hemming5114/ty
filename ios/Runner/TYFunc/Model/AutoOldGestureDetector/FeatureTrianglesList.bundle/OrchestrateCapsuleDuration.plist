@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedtransitionposition</key>
+	<string>detachRole</string>
+	<key>grayscaleState</key>
+	<string>unregisterPosition</string>
+	<key>nativeNib</key>
+	<string>gradientMemento</string>
+	<key>scrollablecoordinator</key>
+	<string>accordionSubpixel</string>
+	<key>shouldPrepareAlpha</key>
+	<string>scaffoldTask</string>
+	<key>standaloneImage</key>
+	<string>discardedTextField</string>
+	<key>stepinteraction</key>
+	<string>currentGesture</string>
+	<key>transitionandparam</key>
+	<string>shouldEncodeDescriptor</string>
+</dict>
+</plist>

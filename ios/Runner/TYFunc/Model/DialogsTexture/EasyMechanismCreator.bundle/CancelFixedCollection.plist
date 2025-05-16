@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredAspectRatio</key>
+	<string>priorityRight</string>
+	<key>kernelhue</key>
+	<string>canShowUsage</string>
+	<key>mobileVariant</key>
+	<string>shouldrenderaspect</string>
+	<key>rectInteraction</key>
+	<string>integerTension</string>
+	<key>reducerInterval</key>
+	<string>certificateDuration</string>
+	<key>shouldReplaceMap</key>
+	<string>desktopMultiplication</string>
+	<key>significantEntity</key>
+	<string>sophisticatedDrawer</string>
+	<key>singleCurve</key>
+	<string>maintainState</string>
+	<key>tabbardepth</key>
+	<string>customizedGrayscale</string>
+</dict>
+</plist>

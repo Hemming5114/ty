@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDistinction</key>
+	<string>fixedNotification</string>
+	<key>animatedNavigator</key>
+	<string>bindImage</string>
+	<key>aperturetype</key>
+	<string>draggableTweak</string>
+	<key>divideawait</key>
+	<string>shouldProcessNavigation</string>
+	<key>strokePressure</key>
+	<string>dispatchAnimation</string>
+	<key>techniquePosition</key>
+	<string>emitActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMovement</key>
+	<string>permanentchannelsfrequency</string>
+	<key>autoDropdownButton</key>
+	<string>efficiencyLocation</string>
+	<key>missedVertex</key>
+	<string>globalMatrix</string>
+	<key>similarTrajectory</key>
+	<string>composableHistogram</string>
+	<key>staticSingleton</key>
+	<string>canDismissText</string>
+</dict>
+</plist>

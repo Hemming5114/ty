@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackDistance</key>
+	<string>completerhue</string>
+	<key>connectextension</key>
+	<string>injectsample</string>
+	<key>currentSprite</key>
+	<string>bitrateInteraction</string>
+	<key>diversifiedInteractor</key>
+	<string>touchForce</string>
+	<key>diversifiedexponent</key>
+	<string>tappableIntegration</string>
+	<key>exitgrain</key>
+	<string>tappableUtil</string>
+	<key>localCurve</key>
+	<string>providershapeopacity</string>
+	<key>shouldDismissStack</key>
+	<string>keyScalability</string>
+	<key>substantialLoss</key>
+	<string>publishRoute</string>
+	<key>textinterface</key>
+	<string>sustainableInfo</string>
+</dict>
+</plist>

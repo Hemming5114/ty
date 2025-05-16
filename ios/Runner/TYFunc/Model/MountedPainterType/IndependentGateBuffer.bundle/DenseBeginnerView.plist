@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledComposition</key>
+	<string>responsiveCosine</string>
+	<key>formatTail</key>
+	<string>copyPosition</string>
+	<key>gramBorder</key>
+	<string>reducelabel</string>
+	<key>routeforce</key>
+	<string>annotateProgressBar</string>
+	<key>semanticoperation</key>
+	<string>textureprocessor</string>
+	<key>shouldSaveBullet</key>
+	<string>inactiveTimeline</string>
+</dict>
+</plist>

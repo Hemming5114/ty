@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerstructurevisibility</key>
+	<string>ephemeralGestureDetector</string>
+	<key>gramOpacity</key>
+	<string>shouldObserveCosine</string>
+	<key>mechanismTop</key>
+	<string>sustainableAlignment</string>
+	<key>renderrichtext</key>
+	<string>assetTemple</string>
+	<key>shouldDecodeLabel</key>
+	<string>traversalSpeed</string>
+	<key>shouldpublishborder</key>
+	<string>kernelSkewX</string>
+	<key>synchronousDelegate</key>
+	<string>smallLifecycle</string>
+</dict>
+</plist>

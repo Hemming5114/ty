@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePainter</key>
+	<string>repositoryvisibility</string>
+	<key>blocactiondensity</key>
+	<string>dialogsFlags</string>
+	<key>concurrentExponent</key>
+	<string>layoutscopeduration</string>
+	<key>geometricLabel</key>
+	<string>measureTransition</string>
+	<key>requestValidation</key>
+	<string>beginnerData</string>
+	<key>shouldPublishEffect</key>
+	<string>prevInkWell</string>
+	<key>significantDelivery</key>
+	<string>shouldSaveCheckbox</string>
+</dict>
+</plist>

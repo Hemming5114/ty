@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveactionbound</key>
+	<string>mobileName</string>
+	<key>disabledTimer</key>
+	<string>listenerVisibility</string>
+	<key>grampopup</key>
+	<string>tensorReducer</string>
+	<key>refactorcallback</key>
+	<string>standaloneMomentum</string>
+</dict>
+</plist>

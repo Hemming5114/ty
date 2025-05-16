@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTentative</key>
+	<string>replicaColor</string>
+	<key>intuitiveConstant</key>
+	<string>interactivePoint</string>
+	<key>keydescent</key>
+	<string>webNavigator</string>
+	<key>polyfillBorder</key>
+	<string>loaderScale</string>
+	<key>shouldPersistGradient</key>
+	<string>canShowSegment</string>
+</dict>
+</plist>

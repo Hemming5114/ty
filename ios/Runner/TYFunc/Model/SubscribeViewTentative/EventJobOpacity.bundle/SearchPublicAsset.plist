@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardChapter</key>
+	<string>textureMode</string>
+	<key>concurrentmusic</key>
+	<string>scaffoldShade</string>
+	<key>injectionfeedback</key>
+	<string>selectedmonster</string>
+	<key>momentumSkewY</key>
+	<string>canFormatTabBar</string>
+	<key>shouldPauseSlash</key>
+	<string>menustatus</string>
+	<key>sortedPriority</key>
+	<string>threadCycle</string>
+	<key>symmetricWorkflow</key>
+	<string>presentInteger</string>
+	<key>textcontainkind</key>
+	<string>concurrentGrayscale</string>
+	<key>wrapperFlags</key>
+	<string>annotateAllocator</string>
+</dict>
+</plist>

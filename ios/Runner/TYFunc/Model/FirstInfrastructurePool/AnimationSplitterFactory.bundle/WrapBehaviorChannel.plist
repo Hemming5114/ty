@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResolver</key>
+	<string>immediateRoute</string>
+	<key>blocstate</key>
+	<string>canReplaceExtension</string>
+	<key>desktopMultiplication</key>
+	<string>customizedActivity</string>
+	<key>directDetector</key>
+	<string>canTrainPlayback</string>
+	<key>enumerateasset</key>
+	<string>entityCoord</string>
+	<key>eraseprofile</key>
+	<string>activateCoordinator</string>
+	<key>providerformindex</key>
+	<string>dynamicAspectRatio</string>
+	<key>publicBuffer</key>
+	<string>sinkSpeed</string>
+	<key>semanticprogressbarmode</key>
+	<string>normMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateorigin</key>
+	<string>animateCupertino</string>
+	<key>checklistForce</key>
+	<string>requestTransition</string>
+	<key>containerpressure</key>
+	<string>disabledSwift</string>
+	<key>liteinteraction</key>
+	<string>referencescale</string>
+	<key>shouldShowGift</key>
+	<string>buildSignature</string>
+	<key>tableFrequency</key>
+	<string>shouldPopArithmetic</string>
+	<key>usecasearchitecture</key>
+	<string>specifytechnique</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateAspectRatio</key>
+	<string>priorTabView</string>
+	<key>disposesegue</key>
+	<string>canStopOverlay</string>
+	<key>draggableBloc</key>
+	<string>canPersistProject</string>
+	<key>fetchlayer</key>
+	<string>serializeloop</string>
+	<key>shouldParseAperture</key>
+	<string>displayableCard</string>
+	<key>similarIntegration</key>
+	<string>writeUtil</string>
+</dict>
+</plist>

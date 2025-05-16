@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblepriority</key>
+	<string>imperativeEvaluation</string>
+	<key>contractionFeedback</key>
+	<string>instructionParameter</string>
+	<key>cursorVisibility</key>
+	<string>presentercyclecount</string>
+	<key>displayableternarypressure</key>
+	<string>heapForce</string>
+	<key>labelSkewX</key>
+	<string>cachecallback</string>
+	<key>mediumThreshold</key>
+	<string>tensorEquipment</string>
+	<key>retainedStack</key>
+	<string>createBloc</string>
+</dict>
+</plist>

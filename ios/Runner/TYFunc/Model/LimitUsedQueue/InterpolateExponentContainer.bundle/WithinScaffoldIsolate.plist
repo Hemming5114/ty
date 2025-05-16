@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiobywork</key>
+	<string>kernelcontroller</string>
+	<key>firstPermutation</key>
+	<string>streamlineTransformer</string>
+	<key>operationloader</key>
+	<string>directlyScenario</string>
+	<key>prismaticAppBar</key>
+	<string>smallGroup</string>
+	<key>replicaOffset</key>
+	<string>histogramHead</string>
+	<key>shouldDecodeMedia</key>
+	<string>smallMethod</string>
+</dict>
+</plist>

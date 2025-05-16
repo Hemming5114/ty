@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integrationTension</key>
+	<string>canSetStateMonster</string>
+	<key>mediaCount</key>
+	<string>islayout</string>
+	<key>shouldDismissStoryboard</key>
+	<string>notificationComposite</string>
+	<key>shouldPresentAnimation</key>
+	<string>otherFilter</string>
+	<key>shouldPublishRemainder</key>
+	<string>accessibleMend</string>
+	<key>tabviewduringproxy</key>
+	<string>responderacceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveviastage</key>
+	<string>descentSize</string>
+	<key>factoryTransparency</key>
+	<string>missedOperation</string>
+	<key>intermediateasync</key>
+	<string>shouldFetchCertificate</string>
+	<key>materialFrame</key>
+	<string>temporaryMaterializer</string>
+	<key>materialgraphskewx</key>
+	<string>usageDelay</string>
+	<key>spriteSpacing</key>
+	<string>drawGraph</string>
+	<key>statelessButton</key>
+	<string>shouldStreamSpot</string>
+	<key>unbindconstraint</key>
+	<string>subpixelPlatform</string>
+</dict>
+</plist>

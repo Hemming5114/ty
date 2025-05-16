@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGraph</key>
+	<string>canDeserializeDecoration</string>
+	<key>adaptiveGraphic</key>
+	<string>alertStage</string>
+	<key>hardTexture</key>
+	<string>standalonePublisher</string>
+	<key>richtextDirection</key>
+	<string>directlySpot</string>
+	<key>shouldDetachCycle</key>
+	<string>canAttachStream</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelfeature</key>
+	<string>shouldStreamHero</string>
+	<key>cycleBorder</key>
+	<string>displayableCatalyst</string>
+	<key>interactorprovider</key>
+	<string>shouldLoadGraphic</string>
+	<key>mediaPadding</key>
+	<string>unmarshalStream</string>
+	<key>robustProtocol</key>
+	<string>responsiveScope</string>
+	<key>shouldResumeGradient</key>
+	<string>sessionShape</string>
+	<key>subpixelvector</key>
+	<string>slashSpacing</string>
+</dict>
+</plist>

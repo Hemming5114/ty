@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialScheduler</key>
+	<string>canUnmountRichText</string>
+	<key>elasticSink</key>
+	<string>strokeScale</string>
+	<key>interactiveLocalization</key>
+	<string>constantMode</string>
+	<key>primaryPublisher</key>
+	<string>clearaction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedMapper</key>
+	<string>disparateAxis</string>
+	<key>mainSubscriber</key>
+	<string>shouldShowConvolution</string>
+	<key>robustScroll</key>
+	<string>baselineOpacity</string>
+	<key>rowtentative</key>
+	<string>replaceReference</string>
+	<key>stackbesidekind</key>
+	<string>functionalJoiner</string>
+	<key>subsequentInterpolation</key>
+	<string>configureConfiguration</string>
+</dict>
+</plist>

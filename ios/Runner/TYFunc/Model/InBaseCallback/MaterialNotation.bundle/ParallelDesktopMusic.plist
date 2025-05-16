@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelShade</key>
+	<string>labelProxy</string>
+	<key>disclaimerSkewY</key>
+	<string>setstateFragment</string>
+	<key>lastCustomPaint</key>
+	<string>listenCustomPaint</string>
+	<key>lostLog</key>
+	<string>shouldPushSegment</string>
+	<key>masterskewy</key>
+	<string>subscriptionTemple</string>
+	<key>shouldObserveDocument</key>
+	<string>rowmetadata</string>
+	<key>shouldSetStateUsage</key>
+	<string>canCancelRow</string>
+	<key>unactivatedcatalystalignment</key>
+	<string>shouldpresentdecoration</string>
+	<key>vectorizetouch</key>
+	<string>decorationFlags</string>
+</dict>
+</plist>

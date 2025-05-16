@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMember</key>
+	<string>accessibleObject</string>
+	<key>autoRecursion</key>
+	<string>bundleVector</string>
+	<key>draggableController</key>
+	<string>documentSystem</string>
+	<key>mediumEfficiency</key>
+	<string>techniqueTint</string>
+	<key>singleInterpolation</key>
+	<string>canUpdateCompletion</string>
+	<key>streamprocesslocation</key>
+	<string>touchMargin</string>
+</dict>
+</plist>

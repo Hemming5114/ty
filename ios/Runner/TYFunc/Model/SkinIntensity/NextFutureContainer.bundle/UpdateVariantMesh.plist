@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentvideo</key>
+	<string>canvasState</string>
+	<key>builderawayshape</key>
+	<string>equipmentbesidestructure</string>
+	<key>delicateCharacter</key>
+	<string>shouldprepareequipment</string>
+	<key>ignoredPublisher</key>
+	<string>robustMission</string>
+	<key>materialDispatcher</key>
+	<string>canShowChecklist</string>
+	<key>shouldUnmountKernel</key>
+	<string>frameinset</string>
+</dict>
+</plist>

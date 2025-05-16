@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicAperture</key>
+	<string>deactivateindicator</string>
+	<key>hyperbolicSkin</key>
+	<string>rowSpeed</string>
+	<key>mechanismBound</key>
+	<string>deferredDescriptor</string>
+	<key>mediaqueryShade</key>
+	<string>rapidSlash</string>
+	<key>sharedLabel</key>
+	<string>shouldPersistWorkflow</string>
+	<key>shouldDetachFlex</key>
+	<string>animationSkewY</string>
+	<key>soundcenter</key>
+	<string>accessibleProvision</string>
+	<key>subtleResolver</key>
+	<string>hierarchicalRole</string>
+	<key>unactivatedEfficiency</key>
+	<string>liteListener</string>
+</dict>
+</plist>

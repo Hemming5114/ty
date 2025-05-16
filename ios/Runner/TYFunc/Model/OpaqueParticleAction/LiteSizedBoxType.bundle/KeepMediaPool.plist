@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleInjection</key>
+	<string>disconnectroute</string>
+	<key>lostProject</key>
+	<string>bulletcenter</string>
+	<key>mobileTweak</key>
+	<string>shouldPresentHero</string>
+	<key>routeloader</key>
+	<string>robustCosine</string>
+	<key>shouldConnectMediaQuery</key>
+	<string>canLoadProtocol</string>
+	<key>synccaption</key>
+	<string>cartesianmediaquery</string>
+</dict>
+</plist>

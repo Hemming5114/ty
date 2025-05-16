@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchisolate</key>
+	<string>publishChannels</string>
+	<key>criticalColor</key>
+	<string>bulletParam</string>
+	<key>firstTitle</key>
+	<string>musicorientation</string>
+	<key>immediateController</key>
+	<string>elasticTask</string>
+	<key>layoutascent</key>
+	<string>graphicValue</string>
+	<key>newestCharacteristic</key>
+	<string>euclideandelegate</string>
+	<key>prismaticPoint</key>
+	<string>unmountedinteractor</string>
+	<key>retainedMedia</key>
+	<string>combinerduration</string>
+	<key>shouldNotifyBatch</key>
+	<string>shouldYieldSpine</string>
+</dict>
+</plist>

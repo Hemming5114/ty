@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilestateless</key>
+	<string>reflectResolver</string>
+	<key>amortizationOrientation</key>
+	<string>trainPlate</string>
+	<key>cartesianBrush</key>
+	<string>touchSystem</string>
+	<key>collectionactionsize</key>
+	<string>partitionanimation</string>
+	<key>consultativemethodindex</key>
+	<string>arithmeticHash</string>
+	<key>equipmentStatus</key>
+	<string>labelTheme</string>
+	<key>grainHue</key>
+	<string>serviceVariable</string>
+	<key>shouldDisposeMonster</key>
+	<string>nodeTail</string>
+	<key>shouldFinishGem</key>
+	<string>canvasMode</string>
+	<key>tensoranimation</key>
+	<string>shouldDecodeText</string>
+</dict>
+</plist>

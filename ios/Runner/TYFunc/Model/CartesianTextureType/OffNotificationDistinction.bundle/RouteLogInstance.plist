@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticSemantics</key>
+	<string>shouldBuildAlpha</string>
+	<key>emitterDensity</key>
+	<string>prevCache</string>
+	<key>iconinprocess</key>
+	<string>canUnmountGate</string>
+	<key>imperativeExpanded</key>
+	<string>customizedfutureshade</string>
+	<key>mainDispatcher</key>
+	<string>tickeralongobserver</string>
+	<key>mainVertex</key>
+	<string>setstateScaffold</string>
+	<key>quaternionLocation</key>
+	<string>canPauseStoryboard</string>
+	<key>storyboardOpacity</key>
+	<string>synchronizeNavigator</string>
+	<key>sustainableMetrics</key>
+	<string>autoCatalyst</string>
+</dict>
+</plist>

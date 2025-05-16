@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureOpacity</key>
+	<string>instructionBridge</string>
+	<key>explicitScroller</key>
+	<string>alignmentSpeed</string>
+	<key>intermediateTentative</key>
+	<string>cleanSize</string>
+	<key>lostPresenter</key>
+	<string>enhanceParticle</string>
+	<key>nativeAnchor</key>
+	<string>measureListener</string>
+	<key>navigatormementovisible</key>
+	<string>rectPhase</string>
+	<key>routerbridgescale</key>
+	<string>webManager</string>
+	<key>shouldRestartBuilder</key>
+	<string>stackrotation</string>
+</dict>
+</plist>

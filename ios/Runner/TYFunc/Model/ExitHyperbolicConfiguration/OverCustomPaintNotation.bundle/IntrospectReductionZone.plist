@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorVelocity</key>
+	<string>streamtag</string>
+	<key>denseSegue</key>
+	<string>defaultCosine</string>
+	<key>ephemeralmarginstyle</key>
+	<string>subscriberTheme</string>
+	<key>isolatevariableleft</key>
+	<string>priorView</string>
+	<key>lossSpeed</key>
+	<string>protectedUsage</string>
+	<key>nativeSplitter</key>
+	<string>radioLeft</string>
+	<key>shouldSubscribeActivity</key>
+	<string>shouldStreamBorder</string>
+	<key>sortedBandwidth</key>
+	<string>canDisconnectSymbol</string>
+</dict>
+</plist>

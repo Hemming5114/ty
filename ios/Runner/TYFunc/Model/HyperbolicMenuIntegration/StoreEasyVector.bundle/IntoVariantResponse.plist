@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTheme</key>
+	<string>propagateChannel</string>
+	<key>consumerInset</key>
+	<string>tabviewPlatform</string>
+	<key>graphicMode</key>
+	<string>channelsNumber</string>
+	<key>localizationLeft</key>
+	<string>uniformCycle</string>
+	<key>normSkewY</key>
+	<string>initializetransition</string>
+	<key>prevTaxonomy</key>
+	<string>hasprofile</string>
+	<key>radiojobindex</key>
+	<string>prevCallback</string>
+	<key>similarTimeline</key>
+	<string>propagateroute</string>
+	<key>symmetricRepository</key>
+	<string>custompaintOpacity</string>
+</dict>
+</plist>

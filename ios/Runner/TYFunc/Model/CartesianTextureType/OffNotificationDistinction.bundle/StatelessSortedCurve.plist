@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activelabelkind</key>
+	<string>transitionskewx</string>
+	<key>interfaceResponse</key>
+	<string>localDelivery</string>
+	<key>labelDirection</key>
+	<string>dynamictext</string>
+	<key>numericalStream</key>
+	<string>canSubscribeEqualization</string>
+	<key>originalRange</key>
+	<string>initializeSize</string>
+	<key>priorGram</key>
+	<string>rebuildDialogs</string>
+	<key>screenversusjob</key>
+	<string>sizedboxSpacing</string>
+	<key>seamlessText</key>
+	<string>equalizationFunction</string>
+	<key>sorterType</key>
+	<string>canConnectScale</string>
+	<key>toleranceAlignment</key>
+	<string>deserializeCertificate</string>
+</dict>
+</plist>

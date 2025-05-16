@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAlert</key>
+	<string>expandedDepth</string>
+	<key>analyzerBorder</key>
+	<string>shouldTransitionMediaQuery</string>
+	<key>cubitcallback</key>
+	<string>deferredEvent</string>
+	<key>enabledlayoutshape</key>
+	<string>animateCanvas</string>
+	<key>lostHash</key>
+	<string>directlyConstant</string>
+	<key>renderscene</key>
+	<string>compositionalQueue</string>
+	<key>shouldstartnavigation</key>
+	<string>otherspinetension</string>
+</dict>
+</plist>

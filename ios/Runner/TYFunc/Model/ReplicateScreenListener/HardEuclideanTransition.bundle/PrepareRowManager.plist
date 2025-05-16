@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMission</key>
+	<string>emitterPosition</string>
+	<key>bitratetitle</key>
+	<string>specifyStamp</string>
+	<key>multiplytabbar</key>
+	<string>canRouteAnimatedContainer</string>
+	<key>sequentialCallback</key>
+	<string>usedInteractor</string>
+	<key>statefulCertificate</key>
+	<string>intuitiveGroup</string>
+</dict>
+</plist>

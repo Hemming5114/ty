@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationMode</key>
+	<string>deferredTabBar</string>
+	<key>axisnode</key>
+	<string>accessibleVolume</string>
+	<key>compositionalTime</key>
+	<string>precisionrotation</string>
+	<key>constraintSaturation</key>
+	<string>binaryprogressbar</string>
+	<key>effecttitle</key>
+	<string>mediaSystem</string>
+	<key>liteStream</key>
+	<string>clusterCoord</string>
+	<key>permanentProfile</key>
+	<string>momentumPosition</string>
+	<key>shouldparsecontraction</key>
+	<string>positionScale</string>
+	<key>textIndex</key>
+	<string>assetFlags</string>
+	<key>thresholdbottom</key>
+	<string>animateSensor</string>
+</dict>
+</plist>

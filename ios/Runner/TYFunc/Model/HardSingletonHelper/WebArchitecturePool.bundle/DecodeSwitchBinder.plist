@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activesamplespacing</key>
+	<string>canAttachBehavior</string>
+	<key>autoPlate</key>
+	<string>delicateKernel</string>
+	<key>basicimpact</key>
+	<string>touchcallback</string>
+	<key>compositionalmanager</key>
+	<string>interfaceAlignment</string>
+	<key>directCombiner</key>
+	<string>multiLinker</string>
+	<key>restartstep</key>
+	<string>skipTechnique</string>
+	<key>shouldCreateModal</key>
+	<string>independentBinder</string>
+	<key>sustainablereducer</key>
+	<string>mobilePublisher</string>
+</dict>
+</plist>

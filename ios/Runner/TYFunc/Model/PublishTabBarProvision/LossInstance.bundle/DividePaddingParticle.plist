@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDescriptor</key>
+	<string>storagelistener</string>
+	<key>curvetransparency</key>
+	<string>canObserveTernary</string>
+	<key>disabledProgressBar</key>
+	<string>callbackcontextinterval</string>
+	<key>exceptiontype</key>
+	<string>asynchronousWorkflow</string>
+	<key>rectvarskewx</key>
+	<string>dimensionVelocity</string>
+	<key>seamlessReceiver</key>
+	<string>paintermatrix</string>
+	<key>transpilespecifier</key>
+	<string>objectVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterVisibility</key>
+	<string>statelessCursor</string>
+	<key>exceptionFormat</key>
+	<string>mobileHandler</string>
+	<key>materializerShade</key>
+	<string>singleSize</string>
+	<key>numericalLoop</key>
+	<string>channelcontexttop</string>
+	<key>shouldAttachBuilder</key>
+	<string>mixinlog</string>
+	<key>shouldCacheCapsule</key>
+	<string>statelessSine</string>
+	<key>unsortedAsset</key>
+	<string>pickerMode</string>
+</dict>
+</plist>

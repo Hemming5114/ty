@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchconstraint</key>
+	<string>encodeRequest</string>
+	<key>displayableDisclaimer</key>
+	<string>keepOperation</string>
+	<key>fixeddelegate</key>
+	<string>mediocreDialogs</string>
+	<key>ignoredPicker</key>
+	<string>similarButton</string>
+	<key>pageviewDistance</key>
+	<string>pickerSaturation</string>
+	<key>resilienterrortension</key>
+	<string>draggableLoss</string>
+	<key>retainedMedia</key>
+	<string>lazyMethod</string>
+	<key>storePressure</key>
+	<string>interactorPattern</string>
+</dict>
+</plist>

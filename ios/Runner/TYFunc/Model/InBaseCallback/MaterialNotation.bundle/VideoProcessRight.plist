@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScheduler</key>
+	<string>fusedResource</string>
+	<key>compositionalFormat</key>
+	<string>optimizermend</string>
+	<key>protocolPadding</key>
+	<string>routeDescriptor</string>
+	<key>requiredListener</key>
+	<string>interactiveCreator</string>
+	<key>resizableMediaQuery</key>
+	<string>listenerSize</string>
+	<key>respectiveReliability</key>
+	<string>pivotalCapacity</string>
+	<key>shaderTail</key>
+	<string>activeRenderer</string>
+	<key>shouldpersistbatch</key>
+	<string>touchStyle</string>
+	<key>sinklayerresponse</key>
+	<string>webLoss</string>
+</dict>
+</plist>

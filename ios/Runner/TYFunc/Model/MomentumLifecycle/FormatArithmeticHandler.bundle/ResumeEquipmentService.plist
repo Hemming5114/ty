@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystStatus</key>
+	<string>specifyRadio</string>
+	<key>firstController</key>
+	<string>switchCommand</string>
+	<key>gestureOpacity</key>
+	<string>entityNumber</string>
+	<key>interfaceVelocity</key>
+	<string>curveAcceleration</string>
+	<key>keyTool</key>
+	<string>meshMode</string>
+	<key>logInset</key>
+	<string>canDetachPlate</string>
+	<key>methodpager</key>
+	<string>upgradeHash</string>
+	<key>timelinedistance</key>
+	<string>backwardmodal</string>
+</dict>
+</plist>

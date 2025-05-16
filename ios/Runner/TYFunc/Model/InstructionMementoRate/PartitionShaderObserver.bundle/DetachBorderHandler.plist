@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowCount</key>
+	<string>alphaFramework</string>
+	<key>lifecycleMargin</key>
+	<string>associatedChannels</string>
+	<key>observerIndex</key>
+	<string>canSkipChecklist</string>
+	<key>pickerDuration</key>
+	<string>sharedSensor</string>
+	<key>shouldDetachCharacter</key>
+	<string>localModal</string>
+	<key>shouldEmitSegment</key>
+	<string>composableTrigger</string>
+	<key>textoperationorientation</key>
+	<string>usedFragments</string>
+	<key>wrapperVelocity</key>
+	<string>unschedulenavigator</string>
+</dict>
+</plist>

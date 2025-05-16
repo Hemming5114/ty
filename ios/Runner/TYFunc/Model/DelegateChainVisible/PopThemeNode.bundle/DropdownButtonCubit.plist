@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailrate</key>
+	<string>mediumSearcher</string>
+	<key>dynamicDetector</key>
+	<string>baselinestate</string>
+	<key>timerSkewX</key>
+	<string>greatTool</string>
+</dict>
+</plist>

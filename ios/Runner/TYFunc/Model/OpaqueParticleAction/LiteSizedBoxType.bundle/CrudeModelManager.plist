@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evolutionState</key>
+	<string>cartesianLog</string>
+	<key>hardZone</key>
+	<string>borderoffset</string>
+	<key>keyMission</key>
+	<string>framenearbuffer</string>
+	<key>shouldTransitionEffect</key>
+	<string>descriptionedge</string>
+	<key>streamandaction</key>
+	<string>shouldSkipSkin</string>
+	<key>tablebesidework</key>
+	<string>hardparticle</string>
+</dict>
+</plist>

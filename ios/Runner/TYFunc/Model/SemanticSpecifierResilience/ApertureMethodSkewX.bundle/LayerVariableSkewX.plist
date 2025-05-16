@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalnavigator</key>
+	<string>debugMenu</string>
+	<key>contrastOrigin</key>
+	<string>resizableDisclaimer</string>
+	<key>directfuturevelocity</key>
+	<string>subscriberAppearance</string>
+	<key>limitbloc</key>
+	<string>decorationStyle</string>
+	<key>respectiveLoader</key>
+	<string>canPersistEquipment</string>
+	<key>stackFlags</key>
+	<string>dismissSpine</string>
+	<key>statelessAspectRatio</key>
+	<string>canListenProject</string>
+	<key>usecasebuilder</key>
+	<string>cupertinoDispatcher</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartloader</key>
+	<string>semanticChart</string>
+	<key>convolutionOpacity</key>
+	<string>animatedMediaQuery</string>
+	<key>dedicatedDetector</key>
+	<string>refactorStore</string>
+	<key>inheritedPermutation</key>
+	<string>prevMetadata</string>
+	<key>notificationvertex</key>
+	<string>formatOption</string>
+	<key>shouldContinueChannels</key>
+	<string>serializeOffset</string>
+	<key>shouldParseModulus</key>
+	<string>tappableDelivery</string>
+	<key>shouldResumePromise</key>
+	<string>canValidateSwift</string>
+	<key>wrapperInteraction</key>
+	<string>modalbottom</string>
+</dict>
+</plist>

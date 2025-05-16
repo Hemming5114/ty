@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedButton</key>
+	<string>textfieldaction</string>
+	<key>diffableAspectRatio</key>
+	<string>flexwithouttype</string>
+	<key>eagerImpression</key>
+	<string>canStartSubpixel</string>
+	<key>iterativeScalability</key>
+	<string>shouldKeepSwift</string>
+	<key>scrollableCheckbox</key>
+	<string>normPattern</string>
+	<key>seamlessCharacter</key>
+	<string>canDisposeSkirt</string>
+	<key>shouldListenConstraint</key>
+	<string>shouldStreamStateful</string>
+	<key>sortedAnalogy</key>
+	<string>timerWork</string>
+</dict>
+</plist>

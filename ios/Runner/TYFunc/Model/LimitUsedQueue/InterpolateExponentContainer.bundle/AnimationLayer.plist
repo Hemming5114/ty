@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorScale</key>
+	<string>tangentForm</string>
+	<key>interactorBehavior</key>
+	<string>completionValidation</string>
+	<key>invisibleRectangle</key>
+	<string>mediocreLatency</string>
+	<key>nibSpacing</key>
+	<string>inflateSwift</string>
+	<key>polyfillTint</key>
+	<string>elementBottom</string>
+	<key>sliderviatier</key>
+	<string>nativeStore</string>
+	<key>streamlinemovement</key>
+	<string>heroJob</string>
+</dict>
+</plist>

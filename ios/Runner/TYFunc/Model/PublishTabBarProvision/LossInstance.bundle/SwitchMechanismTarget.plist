@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateProject</key>
+	<string>materialEvolution</string>
+	<key>enabledroute</key>
+	<string>fusedScroller</string>
+	<key>iterativeSound</key>
+	<string>mappershade</string>
+	<key>modelKind</key>
+	<string>permutationOpacity</string>
+	<key>nodelayerresponse</key>
+	<string>notificationLevel</string>
+	<key>normagainstparam</key>
+	<string>globalSpot</string>
+	<key>protectedMap</key>
+	<string>inflateFactory</string>
+	<key>schemaTop</key>
+	<string>toolAppearance</string>
+	<key>unmountedwidget</key>
+	<string>shouldTransitionAspectRatio</string>
+</dict>
+</plist>

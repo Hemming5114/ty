@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzecontroller</key>
+	<string>limitCurve</string>
+	<key>arithmeticInterface</key>
+	<string>projectJob</string>
+	<key>chapterDirection</key>
+	<string>fixedStorage</string>
+	<key>checklistLeft</key>
+	<string>baselinevisible</string>
+	<key>evaluationCount</key>
+	<string>setstateBitrate</string>
+	<key>shouldListenGate</key>
+	<string>tweenappearance</string>
+	<key>shouldMountedTable</key>
+	<string>unsortedmovementtint</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeAnalogy</key>
+	<string>heapAlignment</string>
+	<key>descriptionassystem</key>
+	<string>taskBottom</string>
+	<key>optimizerRotation</key>
+	<string>captureGrain</string>
+	<key>resilientThroughput</key>
+	<string>desktopEquivalent</string>
+	<key>shouldContinueEntropy</key>
+	<string>dedicatedBorder</string>
+</dict>
+</plist>

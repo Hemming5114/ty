@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCursor</key>
+	<string>initializeConstraint</string>
+	<key>effectDepth</key>
+	<string>batchTail</string>
+	<key>elasticCube</key>
+	<string>chartType</string>
+	<key>expandedframeworkdepth</key>
+	<string>elasticMenu</string>
+	<key>impressionTension</key>
+	<string>activateView</string>
+	<key>independentOptimizer</key>
+	<string>canAnimateObserver</string>
+	<key>occasionFormat</key>
+	<string>interfaceCommand</string>
+	<key>subscribenib</key>
+	<string>writeEvent</string>
+	<key>subtleprovider</key>
+	<string>temporaryLoop</string>
+	<key>tappableActivity</key>
+	<string>shouldDispatchLoss</string>
+</dict>
+</plist>

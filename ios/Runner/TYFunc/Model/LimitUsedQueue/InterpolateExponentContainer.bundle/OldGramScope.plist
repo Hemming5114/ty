@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCatalyst</key>
+	<string>basicChallenge</string>
+	<key>intuitiveElasticity</key>
+	<string>shouldProcessPainter</string>
+	<key>restrictionPadding</key>
+	<string>canNotifyShader</string>
+	<key>shouldStartSymbol</key>
+	<string>compositionalTopic</string>
+	<key>shouldrestartheap</key>
+	<string>poprepository</string>
+	<key>staticawait</key>
+	<string>hierarchicalLinker</string>
+</dict>
+</plist>

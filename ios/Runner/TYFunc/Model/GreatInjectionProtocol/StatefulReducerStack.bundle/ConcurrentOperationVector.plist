@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCell</key>
+	<string>semanticPrecision</string>
+	<key>constantKind</key>
+	<string>notifystore</string>
+	<key>diversifiedCubit</key>
+	<string>shouldPopRow</string>
+	<key>immediateService</key>
+	<string>sequentialPopup</string>
+	<key>inactiveUsage</key>
+	<string>queueFrequency</string>
+	<key>nativeProgressBar</key>
+	<string>canTrainPositioned</string>
+	<key>sharedDrawer</key>
+	<string>lossShape</string>
+	<key>shouldValidateMaterial</key>
+	<string>fusedTransformer</string>
+	<key>sustainableBinder</key>
+	<string>persistInstruction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPicker</key>
+	<string>optimizeprotocol</string>
+	<key>eagerInformation</key>
+	<string>annotateSize</string>
+	<key>missedthroughput</key>
+	<string>missedtask</string>
+	<key>paintborder</key>
+	<string>invokeSize</string>
+	<key>pinchableDispatcher</key>
+	<string>synchronousMerger</string>
+	<key>shouldUnbindOption</key>
+	<string>streamRemainder</string>
+	<key>sliderprovider</key>
+	<string>restartCycle</string>
+	<key>spriteSaturation</key>
+	<string>subtleDelegate</string>
+	<key>subtleReference</key>
+	<string>asynchronousBaseline</string>
+</dict>
+</plist>

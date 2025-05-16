@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferShade</key>
+	<string>signatureOrientation</string>
+	<key>denseMesh</key>
+	<string>characterMediator</string>
+	<key>directlyStroke</key>
+	<string>looplocation</string>
+	<key>monsterspeed</key>
+	<string>loopHead</string>
+	<key>shouldFinishIndicator</key>
+	<string>isinterpolation</string>
+	<key>unactivatedCallback</key>
+	<string>canPublishAnimation</string>
+	<key>uniformHistogram</key>
+	<string>shouldDismissShader</string>
+	<key>uniqueMend</key>
+	<string>popupdespitenumber</string>
+	<key>unsortedLog</key>
+	<string>uniformData</string>
+</dict>
+</plist>

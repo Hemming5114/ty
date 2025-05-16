@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGraph</key>
+	<string>canRouteTabView</string>
+	<key>concurrentReduction</key>
+	<string>statelessPlayback</string>
+	<key>disclaimerScale</key>
+	<string>unsortedResult</string>
+	<key>loaderAcceleration</key>
+	<string>synchronizeBloc</string>
+	<key>navigatorSize</key>
+	<string>modelStage</string>
+	<key>stateagainstoperation</key>
+	<string>canPauseMomentum</string>
+</dict>
+</plist>

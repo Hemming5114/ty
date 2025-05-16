@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioSpacing</key>
+	<string>canUpdateCurve</string>
+	<key>borderPressure</key>
+	<string>checklistObserver</string>
+	<key>gradientview</key>
+	<string>debugNavigator</string>
+	<key>integrityTheme</key>
+	<string>brushPadding</string>
+	<key>liteBatch</key>
+	<string>canDismissClipper</string>
+	<key>normalmodel</key>
+	<string>embedSprite</string>
+	<key>oncheckboxchanged</key>
+	<string>easyInkWell</string>
+	<key>unsortedtechnique</key>
+	<string>shouldDisposePlayback</string>
+</dict>
+</plist>

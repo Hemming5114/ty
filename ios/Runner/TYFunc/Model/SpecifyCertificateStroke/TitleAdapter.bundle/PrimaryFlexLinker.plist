@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedmenu</key>
+	<string>shouldNotifySkirt</string>
+	<key>keyMaterializer</key>
+	<string>shouldPauseCanvas</string>
+	<key>polygonEdge</key>
+	<string>shouldcancelactivity</string>
+	<key>reactiveGestureDetector</key>
+	<string>defaulttask</string>
+	<key>requiredlistenertype</key>
+	<string>fixedProcessor</string>
+</dict>
+</plist>

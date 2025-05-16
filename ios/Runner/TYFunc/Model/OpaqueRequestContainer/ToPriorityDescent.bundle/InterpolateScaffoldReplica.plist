@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerColor</key>
+	<string>analyzeDuration</string>
+	<key>cupertinocount</key>
+	<string>stopRadio</string>
+	<key>elasticScope</key>
+	<string>vectorizeLabel</string>
+	<key>immutableRouter</key>
+	<string>lostStore</string>
+	<key>imperativeScaffold</key>
+	<string>loadSwitch</string>
+	<key>progressbarresilience</key>
+	<string>positionEdge</string>
+	<key>requestobserver</key>
+	<string>shouldProcessUsage</string>
+	<key>shouldContinuePoint</key>
+	<string>cruderequest</string>
+	<key>swiftBrightness</key>
+	<string>shouldYieldSizedBox</string>
+	<key>utiltail</key>
+	<string>restartAccessory</string>
+</dict>
+</plist>

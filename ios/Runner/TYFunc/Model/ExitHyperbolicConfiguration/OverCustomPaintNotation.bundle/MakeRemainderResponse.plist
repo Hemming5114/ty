@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationmodel</key>
+	<string>deactivatePopup</string>
+	<key>chartDepth</key>
+	<string>initializeException</string>
+	<key>completionLeft</key>
+	<string>boxshadowFrequency</string>
+	<key>pinchableMonster</key>
+	<string>liteCustomPaint</string>
+	<key>referenceasync</key>
+	<string>displayableMechanism</string>
+	<key>tabviewobservertransparency</key>
+	<string>prepareTouch</string>
+	<key>tweencyclecontrast</key>
+	<string>titleinteraction</string>
+</dict>
+</plist>

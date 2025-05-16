@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentHue</key>
+	<string>canLayoutActivity</string>
+	<key>captioninterval</key>
+	<string>invisibleListView</string>
+	<key>futurecubit</key>
+	<string>setstateAnimatedContainer</string>
+	<key>giftRotation</key>
+	<string>localThread</string>
+	<key>nexthandler</key>
+	<string>checklistOrigin</string>
+	<key>stepslider</key>
+	<string>shouldEndDuration</string>
+	<key>timelineBehavior</key>
+	<string>permissiveCosine</string>
+</dict>
+</plist>

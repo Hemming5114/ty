@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledReducer</key>
+	<string>globalReceiver</string>
+	<key>globalPolyfill</key>
+	<string>mixincosine</string>
+	<key>keyAccessory</key>
+	<string>composableZone</string>
+	<key>pageviewLocation</key>
+	<string>mediaLocation</string>
+	<key>shouldLoadFuture</key>
+	<string>mediumLinker</string>
+	<key>shouldPushBitrate</key>
+	<string>shouldAttachCard</string>
+	<key>smartDimension</key>
+	<string>apertureActivity</string>
+	<key>sustainableStrength</key>
+	<string>fixedDecoration</string>
+	<key>tentativeVisibility</key>
+	<string>resilientTransition</string>
+</dict>
+</plist>

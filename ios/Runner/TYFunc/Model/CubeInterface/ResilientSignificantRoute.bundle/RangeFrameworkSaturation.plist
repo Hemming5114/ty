@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushOffset</key>
+	<string>workflowDuration</string>
+	<key>nativeMaterial</key>
+	<string>primaryUtil</string>
+	<key>resolverHead</key>
+	<string>canPresentStack</string>
+	<key>roleFlags</key>
+	<string>canPresentUsage</string>
+</dict>
+</plist>

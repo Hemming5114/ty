@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstScenario</key>
+	<string>routeTemple</string>
+	<key>formatEdge</key>
+	<string>listenerProcess</string>
+	<key>mediumBox</key>
+	<string>zoneTheme</string>
+	<key>monsterofsingleton</key>
+	<string>shouldListenMonster</string>
+	<key>multiAnimator</key>
+	<string>immediateEvaluation</string>
+	<key>substantialLayout</key>
+	<string>traversalEdge</string>
+</dict>
+</plist>

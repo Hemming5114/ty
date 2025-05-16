@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedObject</key>
+	<string>shouldTrainChallenge</string>
+	<key>granularmechanism</key>
+	<string>taskefficiency</string>
+	<key>immediateScroller</key>
+	<string>actionpager</string>
+	<key>isolateDensity</key>
+	<string>newestconsumption</string>
+	<key>labelBound</key>
+	<string>sophisticatedMenu</string>
+	<key>permutationvelocity</key>
+	<string>addTimer</string>
+	<key>tappableShader</key>
+	<string>delegatetime</string>
+	<key>tickerphaseposition</key>
+	<string>reusabledrawer</string>
+</dict>
+</plist>

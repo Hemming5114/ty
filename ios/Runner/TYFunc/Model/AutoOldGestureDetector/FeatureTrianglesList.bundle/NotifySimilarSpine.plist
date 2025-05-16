@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGraph</key>
+	<string>bandwidthFrequency</string>
+	<key>largeOverlay</key>
+	<string>receiveRepository</string>
+	<key>lostOption</key>
+	<string>compileObserver</string>
+	<key>mutableMapper</key>
+	<string>logarithmtheme</string>
+</dict>
+</plist>

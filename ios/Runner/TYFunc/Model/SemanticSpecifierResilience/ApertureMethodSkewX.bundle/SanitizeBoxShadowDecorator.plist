@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintinteraction</key>
+	<string>techniqueSize</string>
+	<key>desktopSensor</key>
+	<string>threadParam</string>
+	<key>invisibleTimer</key>
+	<string>baselineSystem</string>
+	<key>pinchableRouter</key>
+	<string>seamlessSegue</string>
+	<key>requiredController</key>
+	<string>nativePreview</string>
+	<key>scrollableGrid</key>
+	<string>interactiveAlpha</string>
+	<key>shouldInflateAppBar</key>
+	<string>lostStateful</string>
+	<key>shouldsubscribeprovider</key>
+	<string>baseOffset</string>
+</dict>
+</plist>

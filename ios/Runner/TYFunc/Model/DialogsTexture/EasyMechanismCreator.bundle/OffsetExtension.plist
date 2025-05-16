@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvebehavior</key>
+	<string>persistentTimeline</string>
+	<key>liteRemediation</key>
+	<string>otherCompleter</string>
+	<key>mediumVertex</key>
+	<string>hascache</string>
+	<key>nativeRepository</key>
+	<string>canStopPoint</string>
+	<key>reductionalignment</key>
+	<string>smartAccessory</string>
+	<key>rendererbrightness</key>
+	<string>mediadespitebuffer</string>
+	<key>shouldContinueRole</key>
+	<string>standaloneAnalyzer</string>
+	<key>shouldSkipSymbol</key>
+	<string>invisibleButton</string>
+	<key>sustainableWorkflow</key>
+	<string>canProcessPageView</string>
+</dict>
+</plist>

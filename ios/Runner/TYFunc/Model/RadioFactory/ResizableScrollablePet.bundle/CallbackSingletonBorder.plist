@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconFrequency</key>
+	<string>checklistMemento</string>
+	<key>pickerrotation</key>
+	<string>defaultcupertino</string>
+	<key>respectiveTextField</key>
+	<string>scaleAdapter</string>
+	<key>shouldRebuildBox</key>
+	<string>matrixForce</string>
+	<key>unactivatedPlayback</key>
+	<string>matrixprocesstop</string>
+</dict>
+</plist>

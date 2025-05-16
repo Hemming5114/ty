@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBase</key>
+	<string>oldremainder</string>
+	<key>dismisssprite</key>
+	<string>setupBuilder</string>
+	<key>hashfeedback</key>
+	<string>shouldPaintLayout</string>
+	<key>nativeNavigation</key>
+	<string>gemSpacing</string>
+	<key>popupcomponent</key>
+	<string>sequentialcapacity</string>
+	<key>shouldYieldScaffold</key>
+	<string>interfaceEnvironment</string>
+	<key>standaloneEquivalent</key>
+	<string>methodVisible</string>
+</dict>
+</plist>

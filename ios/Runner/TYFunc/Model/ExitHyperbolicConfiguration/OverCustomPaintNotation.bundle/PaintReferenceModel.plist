@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitBuilder</key>
+	<string>singletonFacade</string>
+	<key>nativeasset</key>
+	<string>prismaticListView</string>
+	<key>numericalAnimation</key>
+	<string>resilientCheckbox</string>
+	<key>oldascent</key>
+	<string>shoulddetachtabbar</string>
+	<key>petleveldirection</key>
+	<string>dedicatedConstant</string>
+	<key>pivotalCoordinator</key>
+	<string>multiconsumer</string>
+</dict>
+</plist>

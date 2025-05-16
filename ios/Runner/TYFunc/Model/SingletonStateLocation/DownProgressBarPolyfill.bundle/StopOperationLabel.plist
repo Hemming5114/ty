@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistpressure</key>
+	<string>contractionoutsideactivity</string>
+	<key>granularSpot</key>
+	<string>shouldStopSlash</string>
+	<key>pinchableTween</key>
+	<string>asynchronousCosine</string>
+	<key>rapidThroughput</key>
+	<string>elasticCupertino</string>
+	<key>shouldattachtouch</key>
+	<string>globalSwift</string>
+	<key>tappableDetail</key>
+	<string>shouldUnbindMaster</string>
+	<key>titlepicker</key>
+	<string>parallelVertex</string>
+</dict>
+</plist>

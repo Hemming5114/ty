@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatefeature</key>
+	<string>iterativeContraction</string>
+	<key>crucialMetrics</key>
+	<string>materialOffset</string>
+	<key>difficultDecoration</key>
+	<string>positionobject</string>
+	<key>disabledRequest</key>
+	<string>finderTransparency</string>
+	<key>eagerGradient</key>
+	<string>ignoredRect</string>
+	<key>prevlistenerstatus</key>
+	<string>disconnectCycle</string>
+	<key>synchronousutilpadding</key>
+	<string>shouldNotifySpot</string>
+	<key>usageTension</key>
+	<string>mergerInteraction</string>
+</dict>
+</plist>

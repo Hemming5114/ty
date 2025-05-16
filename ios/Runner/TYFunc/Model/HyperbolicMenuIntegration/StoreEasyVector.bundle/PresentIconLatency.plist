@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPet</key>
+	<string>sequentialrepository</string>
+	<key>cancelnavigation</key>
+	<string>permanentMember</string>
+	<key>containermatrix</key>
+	<string>iterativeProvider</string>
+	<key>detachevent</key>
+	<string>defaultTextField</string>
+	<key>hasstateless</key>
+	<string>shouldKeepMaterial</string>
+	<key>statelessforbuffer</key>
+	<string>trainWidget</string>
+	<key>tensorChooser</key>
+	<string>moveError</string>
+</dict>
+</plist>

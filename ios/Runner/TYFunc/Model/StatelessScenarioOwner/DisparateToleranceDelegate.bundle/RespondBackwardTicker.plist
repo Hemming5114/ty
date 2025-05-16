@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileNavigator</key>
+	<string>ephemeralTabBar</string>
+	<key>associatedTitle</key>
+	<string>navigationTask</string>
+	<key>constantPosition</key>
+	<string>cellVelocity</string>
+	<key>directMaterial</key>
+	<string>collectionLocation</string>
+	<key>discardedData</key>
+	<string>formatLeft</string>
+	<key>intermediateHeap</key>
+	<string>gridMediator</string>
+	<key>logMode</key>
+	<string>canMountedCycle</string>
+	<key>selectedlistview</key>
+	<string>unactivatedCertificate</string>
+	<key>sortedRepository</key>
+	<string>decorationHue</string>
+</dict>
+</plist>

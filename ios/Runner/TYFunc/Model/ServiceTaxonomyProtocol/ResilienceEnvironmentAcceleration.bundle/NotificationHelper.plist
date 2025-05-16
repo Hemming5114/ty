@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardListView</key>
+	<string>signMemento</string>
+	<key>clippermend</key>
+	<string>smartManager</string>
+	<key>grainappearance</key>
+	<string>appendResolver</string>
+	<key>intuitiveSearcher</key>
+	<string>immediateCheckbox</string>
+	<key>mendFrequency</key>
+	<string>intermediateVertex</string>
+	<key>pinchableTime</key>
+	<string>canShowCustomPaint</string>
+	<key>shouldBuildExponent</key>
+	<string>scrollableConsumption</string>
+	<key>shouldPaintDialogs</key>
+	<string>shouldHandleBloc</string>
+	<key>startresource</key>
+	<string>scalelikevar</string>
+</dict>
+</plist>

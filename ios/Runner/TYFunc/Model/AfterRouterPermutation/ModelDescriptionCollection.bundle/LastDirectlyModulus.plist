@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterortask</key>
+	<string>materialFormat</string>
+	<key>displayableappbarposition</key>
+	<string>commonSkirt</string>
+	<key>managerCenter</key>
+	<string>compositionVisitor</string>
+	<key>shouldConnectDelegate</key>
+	<string>pinchableButton</string>
+	<key>tappableefficiency</key>
+	<string>secondSink</string>
+	<key>traversalDepth</key>
+	<string>granularRenderer</string>
+</dict>
+</plist>

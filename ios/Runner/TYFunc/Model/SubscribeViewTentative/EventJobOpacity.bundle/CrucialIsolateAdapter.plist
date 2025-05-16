@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnercell</key>
+	<string>canConnectDropdownButton</string>
+	<key>functionalComponent</key>
+	<string>decorationstyleshade</string>
+	<key>mobileStore</key>
+	<string>adaptiveStrength</string>
+	<key>resilientIntegration</key>
+	<string>collectionDensity</string>
+	<key>sorterOpacity</key>
+	<string>singleCubit</string>
+	<key>soundPosition</key>
+	<string>encodePromise</string>
+	<key>tensorPosition</key>
+	<string>tensorBehavior</string>
+	<key>unlockactivity</key>
+	<string>momentumHead</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedUnary</key>
+	<string>themeOrientation</string>
+	<key>mutableExtension</key>
+	<string>cyclePlatform</string>
+	<key>smartTransition</key>
+	<string>menuPlatform</string>
+	<key>videoFrequency</key>
+	<string>hierarchicalinterpolation</string>
+	<key>widgetposition</key>
+	<string>scalabilityScale</string>
+</dict>
+</plist>

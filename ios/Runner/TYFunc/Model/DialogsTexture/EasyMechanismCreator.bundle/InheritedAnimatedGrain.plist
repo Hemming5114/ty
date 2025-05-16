@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveStore</key>
+	<string>resizableDescription</string>
+	<key>resourceBrightness</key>
+	<string>isRadio</string>
+	<key>shouldPersistGesture</key>
+	<string>intermediateNotification</string>
+	<key>shouldattachsizedbox</key>
+	<string>customComposition</string>
+	<key>smartChallenge</key>
+	<string>shouldRebuildAxis</string>
+	<key>statefulSegue</key>
+	<string>beginnerSymbol</string>
+	<key>staticText</key>
+	<string>extensionCycle</string>
+	<key>swiftPressure</key>
+	<string>lastAspect</string>
+</dict>
+</plist>

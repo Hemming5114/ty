@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitamongobserver</key>
+	<string>polygonStatus</string>
+	<key>declarativeSwift</key>
+	<string>slidervalidation</string>
+	<key>primaryNotification</key>
+	<string>functionalSubscriber</string>
+	<key>secondMetadata</key>
+	<string>hyperbolicTopic</string>
+	<key>spriteBrightness</key>
+	<string>reactiveBuilder</string>
+	<key>workflowdistance</key>
+	<string>notifyConsumer</string>
+</dict>
+</plist>

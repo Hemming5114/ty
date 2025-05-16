@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerTheme</key>
+	<string>liteoffsetmomentum</string>
+	<key>coordinatormaterial</key>
+	<string>flexSystem</string>
+	<key>cursorlinker</key>
+	<string>assetsubscriber</string>
+	<key>normInteraction</key>
+	<string>missionJob</string>
+	<key>singleChooser</key>
+	<string>crucialSorter</string>
+	<key>uniqueUnary</key>
+	<string>modalStructure</string>
+</dict>
+</plist>

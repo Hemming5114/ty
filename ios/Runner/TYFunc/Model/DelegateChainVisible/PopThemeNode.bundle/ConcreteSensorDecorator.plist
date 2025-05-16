@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSprite</key>
+	<string>canResumeCompletion</string>
+	<key>checklistcallback</key>
+	<string>remediationHue</string>
+	<key>imperativeController</key>
+	<string>showCatalyst</string>
+	<key>synchronousListener</key>
+	<string>searchFeature</string>
+	<key>typicalBase</key>
+	<string>sinkForm</string>
+</dict>
+</plist>

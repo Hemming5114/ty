@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorwrapper</key>
+	<string>shouldcancelappbar</string>
+	<key>commonInteraction</key>
+	<string>mobileContainer</string>
+	<key>eagerIsolate</key>
+	<string>binaryFormat</string>
+	<key>invisiblemodelskewy</key>
+	<string>canFinishSemantics</string>
+	<key>iterativeChart</key>
+	<string>searchReducer</string>
+	<key>nativeResource</key>
+	<string>endInterpolation</string>
+	<key>othertopic</key>
+	<string>discardedAnimatedContainer</string>
+	<key>segueTransparency</key>
+	<string>entityinterpreterleft</string>
+	<key>selectedicon</key>
+	<string>shouldBindStateful</string>
+	<key>typicalRow</key>
+	<string>easyChart</string>
+</dict>
+</plist>

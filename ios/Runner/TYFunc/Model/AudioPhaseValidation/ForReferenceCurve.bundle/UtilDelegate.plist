@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directGraph</key>
+	<string>accordionCell</string>
+	<key>findcosine</key>
+	<string>commonBuffer</string>
+	<key>prevFuture</key>
+	<string>sortedspot</string>
+	<key>shouldHandleTangent</key>
+	<string>equalizationscalability</string>
+	<key>shouldSkipSensor</key>
+	<string>canBindNavigation</string>
+	<key>streamamongparameter</key>
+	<string>routesaturation</string>
+</dict>
+</plist>

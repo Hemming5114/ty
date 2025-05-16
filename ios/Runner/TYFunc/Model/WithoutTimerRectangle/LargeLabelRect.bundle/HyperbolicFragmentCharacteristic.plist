@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnTheme</key>
+	<string>repositoryInteraction</string>
+	<key>functionalScreen</key>
+	<string>hyperbolicSample</string>
+	<key>radiusDirection</key>
+	<string>graphicComposite</string>
+	<key>referenceState</key>
+	<string>cubitscale</string>
+	<key>relationalAsset</key>
+	<string>routercomponent</string>
+	<key>reusableOffset</key>
+	<string>priortransitioncoord</string>
+	<key>similarGridView</key>
+	<string>limitDelegate</string>
+	<key>sineOffset</key>
+	<string>soundOrigin</string>
+</dict>
+</plist>

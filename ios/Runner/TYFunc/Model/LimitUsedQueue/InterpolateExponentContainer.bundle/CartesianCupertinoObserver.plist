@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeGroup</key>
+	<string>textureContrast</string>
+	<key>crudeLocalization</key>
+	<string>fragmentStage</string>
+	<key>diversifiedResolver</key>
+	<string>clipRouter</string>
+	<key>fetchinkwell</key>
+	<string>cubitAlignment</string>
+	<key>granularLinker</key>
+	<string>eagerNotation</string>
+	<key>missedLatency</key>
+	<string>tabbartheme</string>
+	<key>oldAspect</key>
+	<string>substantialObject</string>
+	<key>priorityformat</key>
+	<string>appbarInterval</string>
+	<key>relationalStateful</key>
+	<string>alertTheme</string>
+	<key>restartgroup</key>
+	<string>unsortedSizedBox</string>
+</dict>
+</plist>

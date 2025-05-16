@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtransparency</key>
+	<string>dynamicText</string>
+	<key>fusedRow</key>
+	<string>decodeLogarithm</string>
+	<key>hardStorage</key>
+	<string>reusableImage</string>
+	<key>permissiveAnimatedContainer</key>
+	<string>webVolume</string>
+	<key>singleaction</key>
+	<string>criticalStream</string>
+	<key>transformeroperationbrightness</key>
+	<string>materializerAlignment</string>
+	<key>uniquecallback</key>
+	<string>statefulText</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectTail</key>
+	<string>kernelFrequency</string>
+	<key>capsuleRotation</key>
+	<string>mobileMatrix</string>
+	<key>containerFlags</key>
+	<string>similarpolygon</string>
+	<key>heapMomentum</key>
+	<string>yieldinjection</string>
+	<key>loopdispatcher</key>
+	<string>geometricLatency</string>
+	<key>materialHistogram</key>
+	<string>indicatorHead</string>
+	<key>originalCompleter</key>
+	<string>shouldInflateDimension</string>
+	<key>routerbesidephase</key>
+	<string>canReplaceController</string>
+</dict>
+</plist>

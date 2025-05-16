@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentConfiguration</key>
+	<string>processNavigation</string>
+	<key>primaryHeap</key>
+	<string>finishOption</string>
+	<key>shouldDispatchTheme</key>
+	<string>eagerElement</string>
+	<key>shouldSerializeCupertino</key>
+	<string>stepVisibility</string>
+	<key>shouldstarticon</key>
+	<string>statelessThreshold</string>
+	<key>unbindinterface</key>
+	<string>storagereliability</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedkernel</key>
+	<string>scrollablemap</string>
+	<key>searchimage</key>
+	<string>featureintegration</string>
+	<key>shouldAttachPoint</key>
+	<string>crudeGem</string>
+	<key>shouldHandleSubpixel</key>
+	<string>mediocreCharacteristic</string>
+	<key>shouldYieldCoordinator</key>
+	<string>combineStream</string>
+	<key>staticSign</key>
+	<string>imperativeCapacities</string>
+</dict>
+</plist>

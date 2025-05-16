@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableShader</key>
+	<string>loadGestureDetector</string>
+	<key>declarativeCube</key>
+	<string>mendvisibility</string>
+	<key>shouldListenCanvas</key>
+	<string>inkwellpressure</string>
+	<key>significantBuffer</key>
+	<string>tensorSubpixel</string>
+</dict>
+</plist>

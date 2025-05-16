@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystacceleration</key>
+	<string>shouldStreamTask</string>
+	<key>explicitprojectionfeedback</key>
+	<string>shouldDismissBatch</string>
+	<key>independentNode</key>
+	<string>associatedNavigator</string>
+	<key>resultchaintint</key>
+	<string>updateAllocator</string>
+	<key>schedulerDensity</key>
+	<string>localcontrollerinset</string>
+	<key>shouldPrepareBuilder</key>
+	<string>prevReceiver</string>
+	<key>shouldPushEquipment</key>
+	<string>replaceMomentum</string>
+	<key>standaloneFeature</key>
+	<string>granularDrawer</string>
+</dict>
+</plist>

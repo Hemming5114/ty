@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelInterval</key>
+	<string>canBuildRole</string>
+	<key>dropdownbuttonstyle</key>
+	<string>directlyStep</string>
+	<key>flexibleConfiguration</key>
+	<string>frameHue</string>
+	<key>shouldPopTask</key>
+	<string>shouldParseNorm</string>
+	<key>stateeffect</key>
+	<string>compositionalInterface</string>
+</dict>
+</plist>

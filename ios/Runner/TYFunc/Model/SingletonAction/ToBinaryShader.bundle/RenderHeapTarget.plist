@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializetransition</key>
+	<string>shouldDisposeMomentum</string>
+	<key>intermediateTable</key>
+	<string>draggablemovement</string>
+	<key>navigatepainter</key>
+	<string>dispatchchapter</string>
+	<key>rapidCaption</key>
+	<string>gatePressure</string>
+	<key>smallImpression</key>
+	<string>shouldFinishTabView</string>
+	<key>usedSelector</key>
+	<string>clusterDistance</string>
+</dict>
+</plist>

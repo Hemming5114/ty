@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleconfiguration</key>
+	<string>symbolpressure</string>
+	<key>eagerequalization</key>
+	<string>specifyscrollposition</string>
+	<key>inactiveOptimizer</key>
+	<string>materializerrate</string>
+	<key>shouldAnimateSymbol</key>
+	<string>tweenStage</string>
+	<key>shouldparsesegment</key>
+	<string>parallelGem</string>
+	<key>sizeMomentum</key>
+	<string>shouldfinishdimension</string>
+	<key>updateoption</key>
+	<string>canFetchSwitch</string>
+</dict>
+</plist>

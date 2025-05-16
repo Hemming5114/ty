@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assettaxonomy</key>
+	<string>temporarySwift</string>
+	<key>consultativemodulus</key>
+	<string>unbindPadding</string>
+	<key>disparatefactorybehavior</key>
+	<string>animatedcontainerInset</string>
+	<key>fragmentOrientation</key>
+	<string>listvieworkind</string>
+	<key>requesttaskedge</key>
+	<string>spriteFeedback</string>
+	<key>shouldFinishDecoration</key>
+	<string>showButton</string>
+	<key>statefulCustomPaint</key>
+	<string>requestparamflags</string>
+	<key>subsequentInteractor</key>
+	<string>reductionTheme</string>
+</dict>
+</plist>

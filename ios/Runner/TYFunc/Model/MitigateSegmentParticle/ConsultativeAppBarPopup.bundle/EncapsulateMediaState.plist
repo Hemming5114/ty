@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatescale</key>
+	<string>pageviewMargin</string>
+	<key>equalizationOrientation</key>
+	<string>curvestyle</string>
+	<key>fixedTicker</key>
+	<string>augmentSingleton</string>
+	<key>resizablebulletsize</key>
+	<string>defaultimage</string>
+	<key>scrollRate</key>
+	<string>blocstore</string>
+	<key>shouldShowWidget</key>
+	<string>canPauseSymbol</string>
+	<key>statelessdelegate</key>
+	<string>originalGem</string>
+	<key>themeMargin</key>
+	<string>mountaperture</string>
+</dict>
+</plist>

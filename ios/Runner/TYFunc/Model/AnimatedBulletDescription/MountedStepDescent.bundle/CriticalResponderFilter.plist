@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAnimation</key>
+	<string>permissiveDecoration</string>
+	<key>iterativeTransition</key>
+	<string>touchTransformer</string>
+	<key>largethread</key>
+	<string>consultativeStroke</string>
+	<key>persistentGate</key>
+	<string>consumerSingleton</string>
+	<key>scrollablePreview</key>
+	<string>animatedDescription</string>
+	<key>shouldEmitAlert</key>
+	<string>immediateUtil</string>
+	<key>standaloneManager</key>
+	<string>capacitiesValue</string>
+	<key>themePosition</key>
+	<string>deferredRemainder</string>
+</dict>
+</plist>

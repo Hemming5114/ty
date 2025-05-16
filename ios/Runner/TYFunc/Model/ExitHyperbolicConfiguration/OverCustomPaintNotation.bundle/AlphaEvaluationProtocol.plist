@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTouch</key>
+	<string>singleReduction</string>
+	<key>draggablefuturevelocity</key>
+	<string>clipperLocation</string>
+	<key>plateCount</key>
+	<string>mainExponent</string>
+	<key>provideraspattern</key>
+	<string>evaluatechannel</string>
+	<key>semanticinformation</key>
+	<string>disableddescent</string>
+	<key>tickerjoblocation</key>
+	<string>requiredAllocator</string>
+	<key>unaryShape</key>
+	<string>completionFacade</string>
+</dict>
+</plist>

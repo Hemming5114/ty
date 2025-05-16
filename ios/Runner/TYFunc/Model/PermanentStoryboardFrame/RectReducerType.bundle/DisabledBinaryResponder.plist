@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationbottom</key>
+	<string>eagerMetrics</string>
+	<key>descentMomentum</key>
+	<string>canCacheAlert</string>
+	<key>granularSplitter</key>
+	<string>aggregateButton</string>
+	<key>groupCount</key>
+	<string>resourceActivity</string>
+	<key>originalDispatcher</key>
+	<string>deferredChecklist</string>
+	<key>originalMapper</key>
+	<string>markCubit</string>
+	<key>viewMargin</key>
+	<string>canPopAnimatedContainer</string>
+</dict>
+</plist>

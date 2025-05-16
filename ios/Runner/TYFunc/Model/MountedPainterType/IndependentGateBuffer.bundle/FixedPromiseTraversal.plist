@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyShader</key>
+	<string>notifyTabBar</string>
+	<key>shouldRebuildAspectRatio</key>
+	<string>shouldDecodeCycle</string>
+	<key>sizecolor</key>
+	<string>segmentOpacity</string>
+	<key>sustainableSprite</key>
+	<string>cartesianHash</string>
+	<key>usedcubit</key>
+	<string>shouldYieldTextField</string>
+</dict>
+</plist>

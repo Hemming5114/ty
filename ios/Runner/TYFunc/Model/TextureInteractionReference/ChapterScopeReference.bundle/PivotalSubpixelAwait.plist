@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customcoordinator</key>
+	<string>reusablePadding</string>
+	<key>desktopchecklist</key>
+	<string>aspectVisitor</string>
+	<key>directCard</key>
+	<string>finderDistance</string>
+	<key>effectparamfeedback</key>
+	<string>injectionTag</string>
+	<key>processoverlay</key>
+	<string>synchronousroleappearance</string>
+	<key>roworstructure</key>
+	<string>shouldDisposeBatch</string>
+	<key>shouldCancelTechnique</key>
+	<string>beginnerworkflowshade</string>
+	<key>tensorPolygon</key>
+	<string>directParticle</string>
+	<key>unactivatedTitle</key>
+	<string>enabledContraction</string>
+	<key>vectorShape</key>
+	<string>hashInteraction</string>
+</dict>
+</plist>

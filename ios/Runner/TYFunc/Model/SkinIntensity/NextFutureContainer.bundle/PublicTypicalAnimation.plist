@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorLeft</key>
+	<string>shouldPauseCurve</string>
+	<key>animatedprovider</key>
+	<string>concreteequipment</string>
+	<key>inactivePadding</key>
+	<string>mobileAnchor</string>
+	<key>independenttopic</key>
+	<string>interactorwithoutwork</string>
+	<key>localDialogs</key>
+	<string>shouldConnectRow</string>
+	<key>missedOccasion</key>
+	<string>sequentialInfo</string>
+	<key>modelSkewX</key>
+	<string>enhanceText</string>
+	<key>shaderformat</key>
+	<string>easyVertex</string>
+	<key>shouldCacheGesture</key>
+	<string>scrollersize</string>
+	<key>transitiontop</key>
+	<string>bitrateBorder</string>
+</dict>
+</plist>

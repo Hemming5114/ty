@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintformforce</key>
+	<string>cursorFlags</string>
+	<key>declarativeInformation</key>
+	<string>intermediateDescent</string>
+	<key>handlerSize</key>
+	<string>playRow</string>
+	<key>routerResponse</key>
+	<string>resourceEdge</string>
+	<key>standaloneTriangles</key>
+	<string>significantasync</string>
+</dict>
+</plist>

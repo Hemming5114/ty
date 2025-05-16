@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectType</key>
+	<string>wrapperSaturation</string>
+	<key>desktoplooptension</key>
+	<string>frameBrightness</string>
+	<key>iconalongproxy</key>
+	<string>tensorCard</string>
+	<key>independentClipper</key>
+	<string>inheritedmenu</string>
+	<key>metricstype</key>
+	<string>shouldStopIcon</string>
+	<key>occasioncolor</key>
+	<string>pointBorder</string>
+	<key>persistentInjection</key>
+	<string>borderBuffer</string>
+	<key>shouldReplaceDuration</key>
+	<string>restartTernary</string>
+</dict>
+</plist>

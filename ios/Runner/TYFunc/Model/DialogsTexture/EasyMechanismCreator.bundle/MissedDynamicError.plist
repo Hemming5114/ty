@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyMesh</key>
+	<string>invokeLayout</string>
+	<key>maintext</key>
+	<string>similarLinker</string>
+	<key>pivotalternary</key>
+	<string>segmentSize</string>
+	<key>publicfuturespacing</key>
+	<string>rectchainrotation</string>
+	<key>rebuildcell</key>
+	<string>cycleCommand</string>
+	<key>requiredBandwidth</key>
+	<string>animateAsync</string>
+	<key>shouldCacheInterpolation</key>
+	<string>creatorDepth</string>
+	<key>shouldRouteTransition</key>
+	<string>servicebeyondkind</string>
+	<key>shouldStopCertificate</key>
+	<string>flexibleProvider</string>
+	<key>shouldUpdateDrawer</key>
+	<string>animatedcontaineralongoperation</string>
+</dict>
+</plist>

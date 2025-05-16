@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectinteraction</key>
+	<string>cleanChannel</string>
+	<key>capacityTransparency</key>
+	<string>inkwellinset</string>
+	<key>immutableTweak</key>
+	<string>draggableinjectionskewx</string>
+	<key>onstreamchanged</key>
+	<string>createfeature</string>
+	<key>richtextstatedensity</key>
+	<string>interactionOrigin</string>
+	<key>sequentialcontrollercenter</key>
+	<string>dependencyLocation</string>
+	<key>shouldPersistAccessory</key>
+	<string>listenercontrast</string>
+	<key>sustainableLabel</key>
+	<string>diffableArithmetic</string>
+</dict>
+</plist>

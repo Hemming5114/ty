@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableeffect</key>
+	<string>opaqueContrast</string>
+	<key>metadataedge</key>
+	<string>disconnectContraction</string>
+	<key>mobileDecoration</key>
+	<string>scrollableScheduler</string>
+	<key>monstertint</key>
+	<string>repositoryBorder</string>
+	<key>mountedhandler</key>
+	<string>independentrow</string>
+	<key>otherTimer</key>
+	<string>screenOrientation</string>
+	<key>pauseinterpolation</key>
+	<string>cupertinoscaffold</string>
+	<key>reactiveListener</key>
+	<string>deserializeDependency</string>
+	<key>rectangleDensity</key>
+	<string>sizeBuffer</string>
+	<key>storageoutsideprototype</key>
+	<string>gradientOrientation</string>
+</dict>
+</plist>

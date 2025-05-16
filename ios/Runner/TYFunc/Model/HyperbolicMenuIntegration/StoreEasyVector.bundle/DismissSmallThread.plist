@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterkinddistance</key>
+	<string>refactorNavigator</string>
+	<key>descriptionphasestyle</key>
+	<string>managerSingleton</string>
+	<key>draggableShader</key>
+	<string>asynchronousBuffer</string>
+	<key>layoutRotation</key>
+	<string>measureBuilder</string>
+	<key>musicHue</key>
+	<string>backwardText</string>
+	<key>numericalTitle</key>
+	<string>layerInset</string>
+	<key>specifyLogarithm</key>
+	<string>shouldLayoutGridView</string>
+	<key>subscriptionreplica</key>
+	<string>formatStamp</string>
+	<key>sustainableMetadata</key>
+	<string>concurrentColumn</string>
+	<key>ternaryDistance</key>
+	<string>semanticBitrate</string>
+</dict>
+</plist>

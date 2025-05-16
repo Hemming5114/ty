@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicStoryboard</key>
+	<string>parallelCanvas</string>
+	<key>cleancallback</key>
+	<string>symmetricFragment</string>
+	<key>concurrentRouter</key>
+	<string>navigationfuture</string>
+	<key>informationAlignment</key>
+	<string>backwardGrayscale</string>
+	<key>missedJoiner</key>
+	<string>localtabbar</string>
+	<key>toolSkewY</key>
+	<string>shouldReplaceSpot</string>
+</dict>
+</plist>

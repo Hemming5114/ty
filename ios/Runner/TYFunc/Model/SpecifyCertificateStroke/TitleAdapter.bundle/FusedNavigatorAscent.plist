@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransition</key>
+	<string>channelsDepth</string>
+	<key>concurrentAction</key>
+	<string>equipmentLevel</string>
+	<key>draggablePageView</key>
+	<string>unlockNode</string>
+	<key>protectedCustomPaint</key>
+	<string>dropdownbuttonviabridge</string>
+	<key>semanticsStyle</key>
+	<string>utilDepth</string>
+	<key>shouldBuildCharacter</key>
+	<string>liteNavigator</string>
+	<key>themelistener</key>
+	<string>fetchdescription</string>
+</dict>
+</plist>

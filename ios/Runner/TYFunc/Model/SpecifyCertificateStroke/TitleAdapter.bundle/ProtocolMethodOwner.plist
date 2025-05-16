@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletValidation</key>
+	<string>matrixstatus</string>
+	<key>descriptortolerance</key>
+	<string>specifybinder</string>
+	<key>independentContrast</key>
+	<string>standaloneWrapper</string>
+	<key>rowTop</key>
+	<string>greatanimator</string>
+	<key>selectedAnimation</key>
+	<string>autoMedia</string>
+	<key>sharedTask</key>
+	<string>canInflateAnchor</string>
+	<key>shouldDismissCycle</key>
+	<string>canAttachContainer</string>
+	<key>tappableGraphic</key>
+	<string>radiusDensity</string>
+</dict>
+</plist>

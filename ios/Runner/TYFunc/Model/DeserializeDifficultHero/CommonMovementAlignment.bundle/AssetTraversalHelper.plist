@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartColor</key>
+	<string>storyboardTransparency</string>
+	<key>concreteComposition</key>
+	<string>gestureMode</string>
+	<key>mapperShade</key>
+	<string>canAttachProvider</string>
+	<key>numericalLatency</key>
+	<string>vectortolerance</string>
+	<key>pivotalConnector</key>
+	<string>geometricoptionvisibility</string>
+	<key>protectedOperation</key>
+	<string>shouldEncodeBehavior</string>
+	<key>shouldDismissAnchor</key>
+	<string>shouldUnmountedGridView</string>
+</dict>
+</plist>

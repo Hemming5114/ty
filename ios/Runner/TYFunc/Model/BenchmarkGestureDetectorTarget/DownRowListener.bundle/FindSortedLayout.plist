@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCapsule</key>
+	<string>shouldFinishBullet</string>
+	<key>behaviorTension</key>
+	<string>tabbarVar</string>
+	<key>declarativepolyfill</key>
+	<string>seekRequest</string>
+	<key>nativeTechnique</key>
+	<string>eagerworkflowdepth</string>
+	<key>nextTimer</key>
+	<string>keyResolver</string>
+	<key>subsequentState</key>
+	<string>popBullet</string>
+	<key>synchronousBorder</key>
+	<string>entropyResponse</string>
+	<key>unactivatedAnalyzer</key>
+	<string>cosinewithstrategy</string>
+	<key>uniqueGroup</key>
+	<string>canShowOperation</string>
+</dict>
+</plist>

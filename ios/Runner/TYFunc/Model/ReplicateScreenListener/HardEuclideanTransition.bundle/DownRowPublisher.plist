@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmState</key>
+	<string>binarysingleton</string>
+	<key>missedInfrastructure</key>
+	<string>shouldDismissGestureDetector</string>
+	<key>objectDensity</key>
+	<string>shouldAnimateDocument</string>
+	<key>optionEdge</key>
+	<string>inkwellOrientation</string>
+	<key>shouldSerializeStream</key>
+	<string>markStream</string>
+	<key>shouldStopOperation</key>
+	<string>positionMediator</string>
+	<key>vectorizeanchor</key>
+	<string>skipSwift</string>
+</dict>
+</plist>

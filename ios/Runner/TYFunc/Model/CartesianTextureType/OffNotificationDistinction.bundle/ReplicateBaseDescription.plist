@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenteffect</key>
+	<string>adjustListener</string>
+	<key>customRemainder</key>
+	<string>respectiveSegue</string>
+	<key>flexibleEffect</key>
+	<string>delicateOverlay</string>
+	<key>instructionbehavior</key>
+	<string>skinForm</string>
+	<key>navigatortype</key>
+	<string>subtleOverlay</string>
+	<key>renderextension</key>
+	<string>compositionalMission</string>
+	<key>singlePager</key>
+	<string>nextTrajectory</string>
+	<key>tablespeed</key>
+	<string>secondReliability</string>
+	<key>usecasejobedge</key>
+	<string>saveCosine</string>
+</dict>
+</plist>

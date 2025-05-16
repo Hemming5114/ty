@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianData</key>
+	<string>shouldInflateSizedBox</string>
+	<key>otherChapter</key>
+	<string>animationdetector</string>
+	<key>retaintabview</key>
+	<string>trianglesStatus</string>
+	<key>typicalMargin</key>
+	<string>shouldRouteTouch</string>
+</dict>
+</plist>

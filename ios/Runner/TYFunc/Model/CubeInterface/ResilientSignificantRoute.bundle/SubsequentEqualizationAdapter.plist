@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionOrientation</key>
+	<string>formatCatalyst</string>
+	<key>compositionalLocalization</key>
+	<string>usedBuilder</string>
+	<key>containerLeft</key>
+	<string>grainColor</string>
+	<key>otherDispatcher</key>
+	<string>inflateChecklist</string>
+</dict>
+</plist>

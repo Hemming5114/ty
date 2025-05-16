@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitbutton</key>
+	<string>sophisticatedTimeline</string>
+	<key>firstclipperorientation</key>
+	<string>concurrentSink</string>
+	<key>nibdependency</key>
+	<string>appendSize</string>
+	<key>nodeTail</key>
+	<string>displayableLayer</string>
+	<key>pickerOffset</key>
+	<string>projectionIndex</string>
+	<key>shouldRestartReduction</key>
+	<string>inactiveKernel</string>
+	<key>singlearchitecture</key>
+	<string>memberversusshape</string>
+	<key>symmetricNorm</key>
+	<string>liteLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardactivity</key>
+	<string>tangentShape</string>
+	<key>immediateMethod</key>
+	<string>deliveryRight</string>
+	<key>itemvisible</key>
+	<string>relationalUsage</string>
+	<key>nextUseCase</key>
+	<string>extendManager</string>
+	<key>prevRestriction</key>
+	<string>reducerVelocity</string>
+	<key>prismaticIsolate</key>
+	<string>dismissTitle</string>
+	<key>subtleComposition</key>
+	<string>diffableSpine</string>
+	<key>unsortedStream</key>
+	<string>intermediateLifecycle</string>
+</dict>
+</plist>

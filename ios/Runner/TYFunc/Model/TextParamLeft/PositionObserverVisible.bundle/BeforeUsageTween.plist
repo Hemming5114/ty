@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deploytopic</key>
+	<string>serviceduration</string>
+	<key>draggableMusic</key>
+	<string>backwardGrid</string>
+	<key>enabledDescriptor</key>
+	<string>uniqueCapacity</string>
+	<key>greatManager</key>
+	<string>decorationbound</string>
+	<key>lazyText</key>
+	<string>marginInterpreter</string>
+	<key>shouldParsePromise</key>
+	<string>canPrepareModulus</string>
+	<key>statecolor</key>
+	<string>unmountedzone</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisasvisitor</key>
+	<string>otherUsage</string>
+	<key>defaultPageView</key>
+	<string>navigatorLocation</string>
+	<key>gridviewBottom</key>
+	<string>visiblebuilderskewy</string>
+	<key>handlelayout</key>
+	<string>bindGate</string>
+	<key>independentPageView</key>
+	<string>inflateTheme</string>
+	<key>mutablereliability</key>
+	<string>sharedCupertino</string>
+	<key>primaryGem</key>
+	<string>granularDispatcher</string>
+	<key>semanticrowbrightness</key>
+	<string>directHandler</string>
+	<key>synchronousBorder</key>
+	<string>encapsulatePresenter</string>
+	<key>synchronousgatetension</key>
+	<string>canUnbindAccessory</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSaturation</key>
+	<string>processorTint</string>
+	<key>associatedCapacities</key>
+	<string>equalStore</string>
+	<key>declarativeModule</key>
+	<string>capacitiesSpeed</string>
+	<key>deserializeconstraint</key>
+	<string>decorationFlyweight</string>
+	<key>oldTransformer</key>
+	<string>crudeClipper</string>
+	<key>sizedboxtriangles</key>
+	<string>protectedInkWell</string>
+</dict>
+</plist>

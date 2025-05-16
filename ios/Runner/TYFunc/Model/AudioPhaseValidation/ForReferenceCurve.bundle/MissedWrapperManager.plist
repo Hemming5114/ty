@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblesign</key>
+	<string>intuitiveGrid</string>
+	<key>liteConfidentiality</key>
+	<string>significantChannel</string>
+	<key>modelmode</key>
+	<string>instantiateMethod</string>
+	<key>smartTraversal</key>
+	<string>consumertop</string>
+	<key>standaloneFilter</key>
+	<string>findResult</string>
+	<key>uniqueCatalyst</key>
+	<string>keyPromise</string>
+	<key>workflowtint</key>
+	<string>tappableGem</string>
+</dict>
+</plist>

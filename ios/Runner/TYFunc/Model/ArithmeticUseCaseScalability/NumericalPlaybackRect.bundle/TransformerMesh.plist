@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialTabView</key>
+	<string>symmetricdescriptionvisible</string>
+	<key>navigatortop</key>
+	<string>brushOrigin</string>
+	<key>smartaperture</key>
+	<string>loaderVisible</string>
+	<key>spinevariableedge</key>
+	<string>monsterChain</string>
+	<key>stampFormat</key>
+	<string>euclideanSplitter</string>
+	<key>textRight</key>
+	<string>elasticMenu</string>
+</dict>
+</plist>

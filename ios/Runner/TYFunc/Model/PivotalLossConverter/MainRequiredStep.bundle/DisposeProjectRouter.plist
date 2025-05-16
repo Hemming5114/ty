@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackdelay</key>
+	<string>allocatorscale</string>
+	<key>customNotification</key>
+	<string>currentBaseline</string>
+	<key>otherBinder</key>
+	<string>restartReduction</string>
+	<key>removelistener</key>
+	<string>shouldPrepareImage</string>
+	<key>responderTag</key>
+	<string>previewMomentum</string>
+	<key>shouldRebuildCoordinator</key>
+	<string>createMaterial</string>
+	<key>switchelasticity</key>
+	<string>asynchronousMission</string>
+	<key>tabviewValidation</key>
+	<string>subsequentCheckbox</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncvariablestate</key>
+	<string>canCacheCheckbox</string>
+	<key>gesturedetectorcommandposition</key>
+	<string>touchBorder</string>
+	<key>lostDescriptor</key>
+	<string>optionChain</string>
+	<key>reducervarbrightness</key>
+	<string>lossRate</string>
+	<key>requiredWorkflow</key>
+	<string>nativeNotifier</string>
+	<key>respectivesemanticsresponse</key>
+	<string>synchronousModal</string>
+	<key>resultcolor</key>
+	<string>discardedMargin</string>
+	<key>shouldPaintAnimation</key>
+	<string>subscriberColor</string>
+	<key>shouldUpdateCaption</key>
+	<string>gesturerate</string>
+	<key>subpixelBound</key>
+	<string>iconBound</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableRequest</key>
+	<string>shouldPauseWidget</string>
+	<key>evolutiontransparency</key>
+	<string>diversifiedProfile</string>
+	<key>greatBaseline</key>
+	<string>singleError</string>
+	<key>shouldConnectOverlay</key>
+	<string>opaqueNotification</string>
+</dict>
+</plist>

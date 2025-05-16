@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstThread</key>
+	<string>shouldHandleNavigation</string>
+	<key>mapperCenter</key>
+	<string>protocolObserver</string>
+	<key>relationallatency</key>
+	<string>completedTool</string>
+	<key>requiredfinder</key>
+	<string>navigatorTier</string>
+	<key>syncbatch</key>
+	<string>scrollDepth</string>
+	<key>timerSaturation</key>
+	<string>storagescale</string>
+</dict>
+</plist>

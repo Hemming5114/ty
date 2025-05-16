@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionScale</key>
+	<string>ignoredClipper</string>
+	<key>eagerModel</key>
+	<string>reusableInteger</string>
+	<key>euclideanLoss</key>
+	<string>materialgradient</string>
+	<key>exponentoccasion</key>
+	<string>themezone</string>
+	<key>multithreshold</key>
+	<string>shouldTransitionConsumer</string>
+	<key>persistentScroller</key>
+	<string>shouldTransitionBuilder</string>
+	<key>shouldContinueSwitch</key>
+	<string>collectionWork</string>
+	<key>shouldReplaceDelegate</key>
+	<string>granularSorter</string>
+	<key>vectorAppearance</key>
+	<string>typicalCompletion</string>
+</dict>
+</plist>

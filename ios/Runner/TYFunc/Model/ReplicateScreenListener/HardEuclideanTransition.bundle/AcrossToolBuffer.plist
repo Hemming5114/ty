@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRemainder</key>
+	<string>euclideanAccessory</string>
+	<key>monstermerger</key>
+	<string>channelsCycle</string>
+	<key>numericalConfiguration</key>
+	<string>streamtrigger</string>
+	<key>pinchableComponent</key>
+	<string>pinchableRequest</string>
+	<key>prismaticLinker</key>
+	<string>inkwellLocation</string>
+	<key>scrollablerect</key>
+	<string>characterrect</string>
+	<key>segueStyle</key>
+	<string>canProcessDuration</string>
+	<key>shouldparsecheckbox</key>
+	<string>scrollVisible</string>
+	<key>traversalPressure</key>
+	<string>strokeOffset</string>
+</dict>
+</plist>

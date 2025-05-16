@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedThread</key>
+	<string>createDocument</string>
+	<key>comprehensiveListener</key>
+	<string>lostSearcher</string>
+	<key>currentTransition</key>
+	<string>nativeSession</string>
+	<key>emitterforce</key>
+	<string>canRenderHistogram</string>
+	<key>nextStore</key>
+	<string>uniformtextureduration</string>
+	<key>rapidradiuscount</key>
+	<string>richtextVelocity</string>
+	<key>rectangleIndex</key>
+	<string>displayFuture</string>
+	<key>sophisticatedBuilder</key>
+	<string>equalizationmerger</string>
+	<key>uniformSensor</key>
+	<string>navigationInterval</string>
+</dict>
+</plist>

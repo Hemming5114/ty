@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCard</key>
+	<string>difficultIcon</string>
+	<key>erasetransition</key>
+	<string>multiTween</string>
+	<key>fusedSchema</key>
+	<string>smallEntity</string>
+	<key>integrationPosition</key>
+	<string>associatedTrigger</string>
+	<key>oncursortap</key>
+	<string>minMovement</string>
+	<key>shouldPopSlider</key>
+	<string>grainFeedback</string>
+</dict>
+</plist>

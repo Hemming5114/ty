@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendbrush</key>
+	<string>unscheduleHash</string>
+	<key>disabledImage</key>
+	<string>modalResponse</string>
+	<key>dismissoperation</key>
+	<string>persistentSwitch</string>
+	<key>globalcharacter</key>
+	<string>dispatcherFormat</string>
+	<key>stringifygroup</key>
+	<string>resizeInteractor</string>
+	<key>textfieldvisibility</key>
+	<string>futuresincenumber</string>
+</dict>
+</plist>

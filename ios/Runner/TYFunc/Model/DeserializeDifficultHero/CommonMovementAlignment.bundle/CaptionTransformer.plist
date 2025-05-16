@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveMargin</key>
+	<string>shouldUpdateProject</string>
+	<key>injectiondispatcher</key>
+	<string>meshContrast</string>
+	<key>logarithmDirection</key>
+	<string>fixedColumn</string>
+	<key>precisionskewy</key>
+	<string>soundSkewX</string>
+	<key>responsiveLoader</key>
+	<string>diffableTicker</string>
+	<key>richtextandstate</key>
+	<string>emitTitle</string>
+	<key>texttype</key>
+	<string>isPlate</string>
+</dict>
+</plist>

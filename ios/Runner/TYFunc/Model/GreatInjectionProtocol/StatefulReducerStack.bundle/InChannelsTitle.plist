@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNib</key>
+	<string>canProcessGraphic</string>
+	<key>discardedGram</key>
+	<string>criticalcompletiontheme</string>
+	<key>evolutionHead</key>
+	<string>prevGrid</string>
+	<key>intermediateBuffer</key>
+	<string>robustPosition</string>
+	<key>lostWrapper</key>
+	<string>builderProxy</string>
+	<key>resizableCache</key>
+	<string>shouldConnectNavigation</string>
+	<key>shouldPresentTabView</key>
+	<string>canLayoutAnchor</string>
+	<key>sustainableQueue</key>
+	<string>throughputPosition</string>
+	<key>unactivatedLoader</key>
+	<string>crudeModel</string>
+</dict>
+</plist>

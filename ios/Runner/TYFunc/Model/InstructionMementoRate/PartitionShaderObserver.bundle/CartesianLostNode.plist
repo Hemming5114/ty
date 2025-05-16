@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredChapter</key>
+	<string>customStatus</string>
+	<key>replacerect</key>
+	<string>backwardSpecifier</string>
+	<key>shouldDecodeTabBar</key>
+	<string>normalTransformer</string>
+	<key>shouldEncodeHero</key>
+	<string>materializeTask</string>
+	<key>touchDelay</key>
+	<string>completiondescription</string>
+</dict>
+</plist>

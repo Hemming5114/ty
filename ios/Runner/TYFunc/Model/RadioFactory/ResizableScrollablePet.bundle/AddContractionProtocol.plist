@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSplitter</key>
+	<string>nodeMargin</string>
+	<key>explicitArchitecture</key>
+	<string>uniformBrush</string>
+	<key>inactiveInterpolation</key>
+	<string>shouldDecodeCaption</string>
+	<key>keyText</key>
+	<string>canObserveSensor</string>
+	<key>mainState</key>
+	<string>canMountSwift</string>
+	<key>observerStyle</key>
+	<string>directModule</string>
+	<key>resultactionformat</key>
+	<string>shouldDisposeMonster</string>
+	<key>rowaboutpattern</key>
+	<string>inheritedChooser</string>
+	<key>semanticmodel</key>
+	<string>shouldInflateActivity</string>
+	<key>touchLeft</key>
+	<string>shouldResumePlayback</string>
+</dict>
+</plist>

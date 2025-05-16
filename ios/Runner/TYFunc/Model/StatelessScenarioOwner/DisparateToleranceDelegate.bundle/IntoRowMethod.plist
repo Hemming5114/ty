@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperSize</key>
+	<string>spineLevel</string>
+	<key>criticalFormat</key>
+	<string>draggableCell</string>
+	<key>easyPageView</key>
+	<string>converterState</string>
+	<key>entityAlignment</key>
+	<string>onroletap</string>
+	<key>imageAppearance</key>
+	<string>detachChallenge</string>
+	<key>presenterMomentum</key>
+	<string>borderduration</string>
+	<key>sampleDistance</key>
+	<string>canNotifyKernel</string>
+	<key>smartCharacter</key>
+	<string>unsortedRemainder</string>
+	<key>specifyCharacter</key>
+	<string>mobileGesture</string>
+	<key>zonecontrast</key>
+	<string>disparateIntensity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationScale</key>
+	<string>shouldPublishButton</string>
+	<key>detachgroup</key>
+	<string>displayableChecklist</string>
+	<key>fusedTransition</key>
+	<string>dispatchqueue</string>
+	<key>nativeLog</key>
+	<string>progressbarValidation</string>
+	<key>resourceState</key>
+	<string>gridviewShape</string>
+	<key>retainedOperation</key>
+	<string>transitionbesideparam</string>
+	<key>setstatescene</key>
+	<string>animateconvolution</string>
+	<key>streamdescent</key>
+	<string>statefulAwait</string>
+</dict>
+</plist>

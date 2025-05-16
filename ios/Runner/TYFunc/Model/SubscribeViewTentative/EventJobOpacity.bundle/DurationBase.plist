@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblerectangle</key>
+	<string>unsortedDelivery</string>
+	<key>amortizationVelocity</key>
+	<string>unaryNumber</string>
+	<key>awaitlocation</key>
+	<string>sizedboxVar</string>
+	<key>inheritedHistogram</key>
+	<string>modulusInterpreter</string>
+	<key>operationMode</key>
+	<string>eagerTextField</string>
+	<key>protectedFragment</key>
+	<string>shouldCreateSensor</string>
+	<key>robustPosition</key>
+	<string>activatedAscent</string>
+	<key>shouldSaveSwift</key>
+	<string>inactiveStore</string>
+	<key>streamlayerstate</key>
+	<string>statefulConfidentiality</string>
+	<key>unsortedLifecycle</key>
+	<string>providerstatus</string>
+</dict>
+</plist>

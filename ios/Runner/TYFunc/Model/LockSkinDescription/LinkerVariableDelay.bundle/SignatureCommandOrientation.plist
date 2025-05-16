@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindtabbar</key>
+	<string>canDispatchHero</string>
+	<key>desktopNavigation</key>
+	<string>elasticInfrastructure</string>
+	<key>easyresultforce</key>
+	<string>canFetchRoute</string>
+	<key>equipmentthroughput</key>
+	<string>invisibleResponder</string>
+	<key>modalBehavior</key>
+	<string>geometricDescent</string>
+	<key>observescene</key>
+	<string>canPaintMedia</string>
+	<key>requiredcaptionskewx</key>
+	<string>explicitVector</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedBandwidth</key>
+	<string>queuereceiver</string>
+	<key>hasExponent</key>
+	<string>sharedShader</string>
+	<key>inheritedData</key>
+	<string>clipStorage</string>
+	<key>persistentNotation</key>
+	<string>scrollStatus</string>
+	<key>seguefragments</key>
+	<string>grainstate</string>
+	<key>serviceAppearance</key>
+	<string>reconcileStore</string>
+	<key>shouldCachePageView</key>
+	<string>aggregateNavigator</string>
+	<key>toolasflyweight</key>
+	<string>shouldUnmountSubpixel</string>
+	<key>triggerIndex</key>
+	<string>desktopPolyfill</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerStateless</key>
+	<string>customMaterializer</string>
+	<key>formatresponse</key>
+	<string>imageAdapter</string>
+	<key>hashScale</key>
+	<string>beginnerdelegate</string>
+	<key>indicatorname</key>
+	<string>shouldFetchChallenge</string>
+	<key>pivotalMonster</key>
+	<string>typicalPicker</string>
+	<key>polygonBorder</key>
+	<string>findoverlay</string>
+	<key>positionedForce</key>
+	<string>cacheBrush</string>
+	<key>subscribescene</key>
+	<string>modulusflags</string>
+	<key>unregisterproject</key>
+	<string>shouldDismissNotification</string>
+</dict>
+</plist>

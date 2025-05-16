@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordervisible</key>
+	<string>accessibleCluster</string>
+	<key>converterRotation</key>
+	<string>oldTexture</string>
+	<key>popsink</key>
+	<string>permutationSpeed</string>
+	<key>resilientInfrastructure</key>
+	<string>compositionalSorter</string>
+	<key>shouldMountedExtension</key>
+	<string>uniformStep</string>
+</dict>
+</plist>

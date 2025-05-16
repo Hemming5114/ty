@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationCenter</key>
+	<string>contrastLocation</string>
+	<key>arithmeticconverter</key>
+	<string>reductionDensity</string>
+	<key>disposeduration</key>
+	<string>shouldCacheProfile</string>
+	<key>flexibleChallenge</key>
+	<string>euclideanImage</string>
+	<key>nativePrecision</key>
+	<string>normalLayout</string>
+	<key>sequentialResilience</key>
+	<string>addDecoration</string>
+</dict>
+</plist>

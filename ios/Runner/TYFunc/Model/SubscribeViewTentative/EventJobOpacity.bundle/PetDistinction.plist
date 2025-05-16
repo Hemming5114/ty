@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferTop</key>
+	<string>mainNotifier</string>
+	<key>concreteTimer</key>
+	<string>elastictexttype</string>
+	<key>isolatecomponent</key>
+	<string>canDecodeScreen</string>
+	<key>iterativeEntropy</key>
+	<string>shouldconnecttool</string>
+	<key>mainLoader</key>
+	<string>mediocreSubscription</string>
+	<key>opaqueDependency</key>
+	<string>resizeTicker</string>
+	<key>streamLocation</key>
+	<string>diffableDelegate</string>
+</dict>
+</plist>

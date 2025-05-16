@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousQueue</key>
+	<string>brushprovider</string>
+	<key>dynamicComponent</key>
+	<string>keyKernel</string>
+	<key>keyDescent</key>
+	<string>singleRequest</string>
+	<key>opaqueskirt</key>
+	<string>polyfillskewy</string>
+	<key>topicflyweightvelocity</key>
+	<string>comprehensiveMapper</string>
+</dict>
+</plist>

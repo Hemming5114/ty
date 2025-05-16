@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTitle</key>
+	<string>materializetext</string>
+	<key>eagerTouch</key>
+	<string>shouldSkipPositioned</string>
+	<key>equipmentIndex</key>
+	<string>titlePhase</string>
+	<key>matrixborder</key>
+	<string>persistentChooser</string>
+	<key>originalAsync</key>
+	<string>sampleRotation</string>
+	<key>parseanimatedcontainer</key>
+	<string>navigateCell</string>
+	<key>prevThreshold</key>
+	<string>mapperFlags</string>
+</dict>
+</plist>

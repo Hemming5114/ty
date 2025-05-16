@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBase</key>
+	<string>refreshTask</string>
+	<key>cupertinoOrientation</key>
+	<string>associatedHistogram</string>
+	<key>parsecheckbox</key>
+	<string>canParseOverlay</string>
+	<key>prevLayout</key>
+	<string>graphicBuffer</string>
+	<key>scaffoldTint</key>
+	<string>overlayStyle</string>
+	<key>selectedRichText</key>
+	<string>shouldCreateDescriptor</string>
+	<key>shouldStartMonster</key>
+	<string>secondAmortization</string>
+	<key>symmetricActivity</key>
+	<string>customizedoperationname</string>
+	<key>usagefromshape</key>
+	<string>decodeBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchmode</key>
+	<string>largeIntensity</string>
+	<key>computebehavior</key>
+	<string>assetValidation</string>
+	<key>embraceloop</key>
+	<string>canUnmountedClipper</string>
+	<key>ephemeralThroughput</key>
+	<string>accessibleDetector</string>
+	<key>finishrow</key>
+	<string>parallelNib</string>
+	<key>keyManager</key>
+	<string>exitTicker</string>
+	<key>metadataInterval</key>
+	<string>particleChain</string>
+	<key>screenbutton</key>
+	<string>scrollSaturation</string>
+	<key>sequentialRecursion</key>
+	<string>hierarchicalcomponent</string>
+</dict>
+</plist>

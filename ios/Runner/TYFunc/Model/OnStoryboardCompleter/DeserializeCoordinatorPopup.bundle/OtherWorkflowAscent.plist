@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleanimation</key>
+	<string>flexibleUseCase</string>
+	<key>bufferlayermargin</key>
+	<string>expandedMode</string>
+	<key>eagerCell</key>
+	<string>monsterMomentum</string>
+	<key>fixedRenderer</key>
+	<string>signatureIndex</string>
+	<key>lostconstraintforce</key>
+	<string>notifyDescriptor</string>
+	<key>roleaboutchain</key>
+	<string>permissiveMerger</string>
+	<key>shouldDispatchResource</key>
+	<string>refreshBloc</string>
+	<key>shouldRebuildCube</key>
+	<string>nativeRoute</string>
+	<key>shouldSetStateScroll</key>
+	<string>completedSlash</string>
+</dict>
+</plist>

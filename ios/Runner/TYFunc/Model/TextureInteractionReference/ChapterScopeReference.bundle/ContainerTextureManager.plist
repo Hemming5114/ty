@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateoperation</key>
+	<string>smartPager</string>
+	<key>difficultSubscription</key>
+	<string>prepareconstraint</string>
+	<key>inactiveLayer</key>
+	<string>oldTween</string>
+	<key>wrapperspacing</key>
+	<string>chartDuration</string>
+</dict>
+</plist>

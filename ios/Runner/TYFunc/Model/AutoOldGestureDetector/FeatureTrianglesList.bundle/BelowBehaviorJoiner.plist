@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableJoiner</key>
+	<string>invokeResponse</string>
+	<key>extensioncompositemargin</key>
+	<string>resourceresponse</string>
+	<key>hardReliability</key>
+	<string>customPolyfill</string>
+	<key>hasController</key>
+	<string>implementTween</string>
+	<key>opaquePublisher</key>
+	<string>expandedHue</string>
+	<key>permanentSelector</key>
+	<string>keyStore</string>
+	<key>shouldEncodeSkirt</key>
+	<string>semanticProfile</string>
+	<key>sizereplica</key>
+	<string>subpixelVisible</string>
+	<key>statetierspeed</key>
+	<string>canRenderBrush</string>
+	<key>transformerorigin</key>
+	<string>canCreateBloc</string>
+</dict>
+</plist>

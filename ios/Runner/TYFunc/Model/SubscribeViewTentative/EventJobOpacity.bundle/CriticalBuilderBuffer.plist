@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveAsync</key>
+	<string>lazyBuffer</string>
+	<key>pinchableActivity</key>
+	<string>optioncontainer</string>
+	<key>preparenotification</key>
+	<string>granularCursor</string>
+	<key>shouldEmitPlate</key>
+	<string>marshalCoordinator</string>
+	<key>shouldencodesubpixel</key>
+	<string>widgetbeyondoperation</string>
+	<key>webUnary</key>
+	<string>mediocreCharacter</string>
+</dict>
+</plist>

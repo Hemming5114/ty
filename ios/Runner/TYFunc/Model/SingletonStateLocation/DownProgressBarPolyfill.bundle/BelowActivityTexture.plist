@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyFormat</key>
+	<string>retainedPager</string>
+	<key>flexibleTangent</key>
+	<string>connectBuffer</string>
+	<key>hierarchicalGradient</key>
+	<string>shouldDismissScale</string>
+	<key>lostStateful</key>
+	<string>canYieldAlert</string>
+	<key>managerVisibility</key>
+	<string>usageValidation</string>
+	<key>positionAppearance</key>
+	<string>routerforminteraction</string>
+	<key>publicFactory</key>
+	<string>activeAlignment</string>
+	<key>seamlessaction</key>
+	<string>multiLoop</string>
+</dict>
+</plist>

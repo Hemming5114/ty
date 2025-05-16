@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultmultiplication</key>
+	<string>quitResponse</string>
+	<key>deferredMaterializer</key>
+	<string>hierarchicalGestureDetector</string>
+	<key>implementdocument</key>
+	<string>layoutMediaQuery</string>
+	<key>instructionsprite</key>
+	<string>clipProvider</string>
+	<key>progressbarName</key>
+	<string>remediationvelocity</string>
+	<key>shouldSubscribeSemantics</key>
+	<string>canPushActivity</string>
+	<key>uniquefeatureopacity</key>
+	<string>blocCount</string>
+</dict>
+</plist>

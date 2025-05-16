@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedSink</key>
+	<string>canObserveAperture</string>
+	<key>intuitiveCompleter</key>
+	<string>statefulpressure</string>
+	<key>kernelFlags</key>
+	<string>shouldDispatchGram</string>
+	<key>playbackflyweightstate</key>
+	<string>specifyTicker</string>
+	<key>scaledepth</key>
+	<string>defaultSegment</string>
+	<key>shouldResumeTable</key>
+	<string>buttonMargin</string>
+	<key>sinkInterval</key>
+	<string>performcollection</string>
+	<key>statefulCell</key>
+	<string>symbolconfiguration</string>
+</dict>
+</plist>

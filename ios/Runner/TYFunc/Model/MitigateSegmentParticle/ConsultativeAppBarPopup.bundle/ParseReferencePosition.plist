@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableWorkflow</key>
+	<string>nativeawait</string>
+	<key>descriptionliketier</key>
+	<string>offsetGrid</string>
+	<key>maindropdownbutton</key>
+	<string>transitiondistance</string>
+	<key>multiRequest</key>
+	<string>denseModel</string>
+	<key>permanentChapter</key>
+	<string>euclideanStream</string>
+	<key>permanentconstraint</key>
+	<string>timelineAppearance</string>
+	<key>shouldCacheSample</key>
+	<string>respectiveGrid</string>
+	<key>similarManager</key>
+	<string>ignoredCollection</string>
+	<key>specifyProvision</key>
+	<string>unsortedCursor</string>
+</dict>
+</plist>

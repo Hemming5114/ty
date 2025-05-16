@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStream</key>
+	<string>directlyCompleter</string>
+	<key>adaptiveGradient</key>
+	<string>pinchableAwait</string>
+	<key>directlyActivity</key>
+	<string>dismissSlash</string>
+	<key>iterativeShape</key>
+	<string>renderTouch</string>
+	<key>shouldDetachSign</key>
+	<string>shouldTransitionSkirt</string>
+</dict>
+</plist>

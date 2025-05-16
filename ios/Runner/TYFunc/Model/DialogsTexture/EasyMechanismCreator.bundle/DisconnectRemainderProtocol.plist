@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTheme</key>
+	<string>prismaticPager</string>
+	<key>defaultprecision</key>
+	<string>shouldPopController</string>
+	<key>detachsubscription</key>
+	<string>ongemchanged</string>
+	<key>discardedTopic</key>
+	<string>onmovementtap</string>
+	<key>displayablealphasaturation</key>
+	<string>agileChannel</string>
+	<key>elasticMethod</key>
+	<string>fusedpolyfill</string>
+	<key>lazyRectangle</key>
+	<string>documentStatus</string>
+	<key>shouldEndVariant</key>
+	<string>canEncodeExtension</string>
+</dict>
+</plist>

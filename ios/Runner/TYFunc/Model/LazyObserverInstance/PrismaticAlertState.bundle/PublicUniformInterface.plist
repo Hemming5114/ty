@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentFrame</key>
+	<string>composableroworigin</string>
+	<key>occasionScale</key>
+	<string>gestureresponse</string>
+	<key>permissiveExtension</key>
+	<string>subsequentBatch</string>
+	<key>requiredsorter</key>
+	<string>gestureValue</string>
+	<key>subtlebuilder</key>
+	<string>annotateView</string>
+	<key>volumeInteraction</key>
+	<string>publicAnalyzer</string>
+</dict>
+</plist>

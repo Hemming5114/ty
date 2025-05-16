@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectSkewY</key>
+	<string>shouldConnectTabBar</string>
+	<key>declarativeStateful</key>
+	<string>activeKernel</string>
+	<key>keyintegrity</key>
+	<string>slashFormat</string>
+	<key>normalItem</key>
+	<string>resizeusage</string>
+	<key>projectionForce</key>
+	<string>mountedVariant</string>
+</dict>
+</plist>

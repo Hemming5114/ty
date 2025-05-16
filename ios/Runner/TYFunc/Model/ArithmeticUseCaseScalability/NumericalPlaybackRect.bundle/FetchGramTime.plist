@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianGem</key>
+	<string>tickerInterval</string>
+	<key>matrixForce</key>
+	<string>canFinishFuture</string>
+	<key>overlayCoord</key>
+	<string>resilientAlignment</string>
+	<key>seamlessCell</key>
+	<string>requestGraph</string>
+	<key>shouldStartAperture</key>
+	<string>rowRight</string>
+</dict>
+</plist>

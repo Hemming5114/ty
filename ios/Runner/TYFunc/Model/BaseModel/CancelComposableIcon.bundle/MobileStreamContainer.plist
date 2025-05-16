@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileChannel</key>
+	<string>shouldRestartHistogram</string>
+	<key>animatedbloclocation</key>
+	<string>displayableElasticity</string>
+	<key>assetexceptscope</key>
+	<string>canObserveTabBar</string>
+	<key>coordinatormargin</key>
+	<string>shouldReplaceListView</string>
+	<key>emitresource</key>
+	<string>iscell</string>
+	<key>interactorcompositevisibility</key>
+	<string>canDecodeSession</string>
+	<key>normalNorm</key>
+	<string>canHandleAperture</string>
+	<key>shouldSetStateStateless</key>
+	<string>newestIntegrity</string>
+	<key>shouldStopNib</key>
+	<string>popupMomentum</string>
+</dict>
+</plist>

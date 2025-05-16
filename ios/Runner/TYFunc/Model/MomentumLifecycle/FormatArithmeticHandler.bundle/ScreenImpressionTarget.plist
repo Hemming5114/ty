@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredMomentum</key>
+	<string>channeldirection</string>
+	<key>equalizationskewx</key>
+	<string>draggableLifecycle</string>
+	<key>immutableArchitecture</key>
+	<string>configurationVar</string>
+	<key>notifierInteraction</key>
+	<string>originalDependency</string>
+	<key>screentype</key>
+	<string>animatedstep</string>
+	<key>shouldTransitionProject</key>
+	<string>canStartStateless</string>
+	<key>shouldYieldSwift</key>
+	<string>enabledMatrix</string>
+</dict>
+</plist>

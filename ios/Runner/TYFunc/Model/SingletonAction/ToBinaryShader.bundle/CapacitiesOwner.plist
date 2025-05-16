@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTaxonomy</key>
+	<string>partitionLayout</string>
+	<key>ignoredPublisher</key>
+	<string>associatedInfo</string>
+	<key>isolatePressure</key>
+	<string>sorterskewy</string>
+	<key>mobileSubpixel</key>
+	<string>processskirt</string>
+	<key>parallelTabBar</key>
+	<string>storageinteraction</string>
+	<key>pivotalCharacter</key>
+	<string>operationinjection</string>
+</dict>
+</plist>

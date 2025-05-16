@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorSaturation</key>
+	<string>integerdepth</string>
+	<key>intensityoutsidepattern</key>
+	<string>canPaintPainter</string>
+	<key>platejobvelocity</key>
+	<string>dismissHeap</string>
+	<key>subtleinterfaceshape</key>
+	<string>elasticitylocation</string>
+</dict>
+</plist>

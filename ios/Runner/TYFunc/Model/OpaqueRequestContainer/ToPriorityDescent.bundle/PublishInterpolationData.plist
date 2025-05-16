@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonstroke</key>
+	<string>invisibleModule</string>
+	<key>concreteProcessor</key>
+	<string>sizedboxofprototype</string>
+	<key>cupertinoInterpolation</key>
+	<string>tangentScale</string>
+	<key>discardedspritevisibility</key>
+	<string>canDispatchAxis</string>
+	<key>findtext</key>
+	<string>canReplacePet</string>
+	<key>gesturedetectormodule</key>
+	<string>methodmediatortop</string>
+	<key>immutableResolver</key>
+	<string>canCreateBloc</string>
+	<key>mutableBehavior</key>
+	<string>mountedMonster</string>
+	<key>rapidInformation</key>
+	<string>agileUnary</string>
+	<key>shouldCancelTool</key>
+	<string>selectedContraction</string>
+</dict>
+</plist>

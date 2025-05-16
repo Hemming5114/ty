@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBase</key>
+	<string>columnRotation</string>
+	<key>convertcontainer</key>
+	<string>symmetricWrapper</string>
+	<key>independentSegue</key>
+	<string>comprehensiveConsumer</string>
+	<key>lossvalidation</key>
+	<string>grayscaleFramework</string>
+	<key>playframe</key>
+	<string>selectedLayout</string>
+	<key>protocolTint</key>
+	<string>materializerInset</string>
+	<key>reusableGrid</key>
+	<string>localizationascent</string>
+	<key>webNavigator</key>
+	<string>opaquecallback</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAppearance</key>
+	<string>consultativeGraph</string>
+	<key>composableMatrix</key>
+	<string>copysubpixel</string>
+	<key>concurrentLayout</key>
+	<string>computeAnimation</string>
+	<key>difficultContainer</key>
+	<string>subtleCallback</string>
+	<key>handlemanager</key>
+	<string>pivotaldetail</string>
+	<key>momentumtension</key>
+	<string>shouldNavigateAnimation</string>
+	<key>retainedrowfrequency</key>
+	<string>histograminformation</string>
+	<key>tensorOffset</key>
+	<string>shouldTransformColumn</string>
+	<key>unsortedAsync</key>
+	<string>explicitBrush</string>
+</dict>
+</plist>

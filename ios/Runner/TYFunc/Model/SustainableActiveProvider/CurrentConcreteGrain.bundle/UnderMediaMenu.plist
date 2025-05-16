@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRequest</key>
+	<string>independentstatelessvisible</string>
+	<key>keyScalability</key>
+	<string>hierarchicalQueue</string>
+	<key>progressbarprocessor</key>
+	<string>documenttop</string>
+	<key>responsiveProfile</key>
+	<string>liteFrame</string>
+	<key>sortedSession</key>
+	<string>draggableIntensity</string>
+	<key>swiftValidation</key>
+	<string>synchronousRadius</string>
+	<key>uniqueBatch</key>
+	<string>primaryPublisher</string>
+</dict>
+</plist>

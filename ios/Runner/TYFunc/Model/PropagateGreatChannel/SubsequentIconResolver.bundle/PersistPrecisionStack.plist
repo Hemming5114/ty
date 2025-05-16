@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyEvent</key>
+	<string>renderCustomPaint</string>
+	<key>graphicSkewX</key>
+	<string>crucialInkWell</string>
+	<key>independentstoragefeedback</key>
+	<string>hyperboliclogarithmskewx</string>
+	<key>opaqueConstraint</key>
+	<string>symbolProxy</string>
+	<key>prismaticsubscription</key>
+	<string>primaryGrid</string>
+	<key>semanticsTransparency</key>
+	<string>hasSample</string>
+	<key>shouldLayoutObserver</key>
+	<string>canUnmountedChannels</string>
+	<key>shouldPaintPadding</key>
+	<string>challengeAppearance</string>
+</dict>
+</plist>

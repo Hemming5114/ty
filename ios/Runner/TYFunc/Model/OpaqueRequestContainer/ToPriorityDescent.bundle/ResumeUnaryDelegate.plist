@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnVisibility</key>
+	<string>dedicatedUnary</string>
+	<key>resizableRestriction</key>
+	<string>normalexception</string>
+	<key>shouldPushStamp</key>
+	<string>singleView</string>
+	<key>shouldValidateTransition</key>
+	<string>looptierhue</string>
+	<key>vectorpatterncontrast</key>
+	<string>anchorTheme</string>
+</dict>
+</plist>

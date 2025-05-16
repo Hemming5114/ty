@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseTag</key>
+	<string>directMapper</string>
+	<key>comprehensiveReducer</key>
+	<string>annotateEvent</string>
+	<key>interpolationCenter</key>
+	<string>customMember</string>
+	<key>originalStream</key>
+	<string>canRebuildBrush</string>
+	<key>queueName</key>
+	<string>eagerRemediation</string>
+	<key>shouldResumePadding</key>
+	<string>heroCycle</string>
+	<key>shouldSerializeCursor</key>
+	<string>deserializeBorder</string>
+	<key>shouldStartAspectRatio</key>
+	<string>matrixContrast</string>
+	<key>singleZone</key>
+	<string>builderKind</string>
+	<key>themepermutation</key>
+	<string>optimizerState</string>
+</dict>
+</plist>

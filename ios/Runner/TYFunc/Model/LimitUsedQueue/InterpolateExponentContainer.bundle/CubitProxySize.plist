@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableInfo</key>
+	<string>fusedFragments</string>
+	<key>euclideanstatelessvalidation</key>
+	<string>encapsulatetransition</string>
+	<key>granularFeature</key>
+	<string>publicQueue</string>
+	<key>integrityOffset</key>
+	<string>semanticCupertino</string>
+	<key>invisibleNib</key>
+	<string>createPrecision</string>
+	<key>mutableStateless</key>
+	<string>vectorreliability</string>
+	<key>smartBehavior</key>
+	<string>canPaintBatch</string>
+	<key>spriteStatus</key>
+	<string>logvalidation</string>
+</dict>
+</plist>

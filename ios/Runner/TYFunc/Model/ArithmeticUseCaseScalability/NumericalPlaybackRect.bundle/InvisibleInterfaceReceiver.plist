@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integrityCenter</key>
+	<string>alignmentParameter</string>
+	<key>precisionContrast</key>
+	<string>semanticJoiner</string>
+	<key>scrollableConstant</key>
+	<string>shouldContinueCursor</string>
+	<key>statefulCoordinator</key>
+	<string>liteColumn</string>
+	<key>tensormodule</key>
+	<string>missionContext</string>
+	<key>unactivatedMomentum</key>
+	<string>scaffoldInterval</string>
+</dict>
+</plist>

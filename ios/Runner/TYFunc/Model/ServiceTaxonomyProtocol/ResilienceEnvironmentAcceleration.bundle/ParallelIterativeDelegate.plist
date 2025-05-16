@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousException</key>
+	<string>uniqueSchema</string>
+	<key>coordinatorforoperation</key>
+	<string>geometricOperation</string>
+	<key>descentAlignment</key>
+	<string>enabledLatency</string>
+	<key>layerPadding</key>
+	<string>normrate</string>
+	<key>shouldSetStateMediaQuery</key>
+	<string>arithmeticpresenter</string>
+	<key>sizereceiver</key>
+	<string>painterMode</string>
+	<key>streamname</key>
+	<string>notifyTernary</string>
+	<key>typicalCapacities</key>
+	<string>imagePattern</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSensor</key>
+	<string>axisOrigin</string>
+	<key>gradientTag</key>
+	<string>hasprecision</string>
+	<key>lazyInterface</key>
+	<string>unmountedSwitch</string>
+	<key>pointVisible</key>
+	<string>canUnmountOptimizer</string>
+	<key>shouldCacheOverlay</key>
+	<string>shouldValidateDocument</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionmargin</key>
+	<string>canValidateImage</string>
+	<key>associatedHeap</key>
+	<string>fixedRemediation</string>
+	<key>basicreducer</key>
+	<string>shouldPresentSensor</string>
+	<key>converterkind</key>
+	<string>storeMargin</string>
+	<key>declarativeAlert</key>
+	<string>missedPlate</string>
+	<key>eventBehavior</key>
+	<string>persistentConnector</string>
+	<key>mobileScheduler</key>
+	<string>visualizedocument</string>
+	<key>shaperight</key>
+	<string>respectiveAnimation</string>
+	<key>shouldResumeReduction</key>
+	<string>currentInfrastructure</string>
+</dict>
+</plist>

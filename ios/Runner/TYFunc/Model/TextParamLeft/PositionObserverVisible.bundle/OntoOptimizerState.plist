@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableScalability</key>
+	<string>presenterAdapter</string>
+	<key>cubitScale</key>
+	<string>canFetchMobile</string>
+	<key>granularText</key>
+	<string>symmetricGate</string>
+	<key>labelamongcomposite</key>
+	<string>scrollablewidget</string>
+	<key>mediumScenario</key>
+	<string>canDecodeSubpixel</string>
+	<key>modelTop</key>
+	<string>timerContext</string>
+	<key>prismaticBandwidth</key>
+	<string>robustequalizationvalidation</string>
+	<key>prismaticColor</key>
+	<string>histogramFeedback</string>
+	<key>resizableinformation</key>
+	<string>enabledChart</string>
+	<key>sampleRight</key>
+	<string>deferredPosition</string>
+</dict>
+</plist>

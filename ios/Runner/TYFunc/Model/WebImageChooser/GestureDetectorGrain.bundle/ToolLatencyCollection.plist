@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonbridgeflags</key>
+	<string>canProcessCupertino</string>
+	<key>defaultdropdownbutton</key>
+	<string>completionVisitor</string>
+	<key>observerDelay</key>
+	<string>shouldUnmountedAperture</string>
+	<key>painterwithoutfunction</key>
+	<string>directlyEffect</string>
+	<key>resizableDescription</key>
+	<string>canBuildPlayback</string>
+	<key>shouldKeepShader</key>
+	<string>reconcileMethod</string>
+	<key>subtleSubpixel</key>
+	<string>pageviewsinceoperation</string>
+</dict>
+</plist>

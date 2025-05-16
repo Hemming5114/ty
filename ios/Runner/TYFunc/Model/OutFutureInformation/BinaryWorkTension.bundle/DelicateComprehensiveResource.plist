@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customScroll</key>
+	<string>equipmentFlyweight</string>
+	<key>dropdownbuttonEdge</key>
+	<string>decodeSpine</string>
+	<key>exceptionAlignment</key>
+	<string>setstateProvider</string>
+	<key>maintainprojection</key>
+	<string>shouldStartSpot</string>
+	<key>segmentoperationtop</key>
+	<string>handlerOffset</string>
+	<key>shouldDecodeBehavior</key>
+	<string>storageLayer</string>
+	<key>tweenValidation</key>
+	<string>typicalConstraint</string>
+</dict>
+</plist>

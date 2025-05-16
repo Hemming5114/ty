@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicScroller</key>
+	<string>concurrentRenderer</string>
+	<key>challengeValidation</key>
+	<string>shouldreplacerow</string>
+	<key>configurationinterpreterinterval</key>
+	<string>unsortedInkWell</string>
+	<key>dedicatedOption</key>
+	<string>hyperbolickernelacceleration</string>
+	<key>objectFeedback</key>
+	<string>disparateCharacter</string>
+	<key>parallelBox</key>
+	<string>visibleReplica</string>
+	<key>responseBehavior</key>
+	<string>renderStack</string>
+	<key>secondCanvas</key>
+	<string>observerfactory</string>
+	<key>shouldNavigateBehavior</key>
+	<string>shouldReplaceTextField</string>
+</dict>
+</plist>

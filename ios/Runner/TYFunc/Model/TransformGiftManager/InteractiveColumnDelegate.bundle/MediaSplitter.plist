@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerlatency</key>
+	<string>signatureTag</string>
+	<key>desktopRectangle</key>
+	<string>symbolShade</string>
+	<key>fragmentCoord</key>
+	<string>handlertag</string>
+	<key>priorBuilder</key>
+	<string>serializeUtil</string>
+	<key>shouldPauseMovement</key>
+	<string>serializeSizedBox</string>
+	<key>tableTheme</key>
+	<string>refactorFrame</string>
+</dict>
+</plist>

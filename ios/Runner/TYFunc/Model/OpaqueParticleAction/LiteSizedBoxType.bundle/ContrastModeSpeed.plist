@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFlags</key>
+	<string>flexthroughput</string>
+	<key>clipperbesideshape</key>
+	<string>subsequentBrush</string>
+	<key>componentOpacity</key>
+	<string>statefulDelay</string>
+	<key>pickerSaturation</key>
+	<string>temporaryModel</string>
+	<key>shouldNavigateCard</key>
+	<string>subscribeButton</string>
+</dict>
+</plist>

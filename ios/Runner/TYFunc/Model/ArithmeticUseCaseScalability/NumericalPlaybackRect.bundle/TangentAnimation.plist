@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ishero</key>
+	<string>hasstamp</string>
+	<key>layoutdispatcher</key>
+	<string>publishLayout</string>
+	<key>metadataofmethod</key>
+	<string>promiseAcceleration</string>
+	<key>prevTweak</key>
+	<string>prepareMission</string>
+	<key>transformerenvironmentborder</key>
+	<string>shouldSubscribeEquipment</string>
+</dict>
+</plist>

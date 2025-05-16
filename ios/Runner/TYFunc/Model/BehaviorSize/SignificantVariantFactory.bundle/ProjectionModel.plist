@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOccasion</key>
+	<string>formatresponse</string>
+	<key>immutableSample</key>
+	<string>ternarySpeed</string>
+	<key>intuitiveStorage</key>
+	<string>promiseVisibility</string>
+	<key>iterativeStack</key>
+	<string>indicatorcallback</string>
+	<key>normalBase</key>
+	<string>offsetJob</string>
+	<key>pivotalTolerance</key>
+	<string>inflateException</string>
+	<key>shouldProcessDocument</key>
+	<string>shouldMountSkin</string>
+</dict>
+</plist>

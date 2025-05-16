@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderDirection</key>
+	<string>tangentscope</string>
+	<key>compositionalFactory</key>
+	<string>sharedTimeline</string>
+	<key>consultativeResult</key>
+	<string>canSaveExponent</string>
+	<key>liteCube</key>
+	<string>readDependency</string>
+	<key>localizationSpeed</key>
+	<string>primaryDimension</string>
+	<key>swiftDuration</key>
+	<string>shouldPauseLabel</string>
+	<key>temporarySingleton</key>
+	<string>immutableRouter</string>
+	<key>traversalFrequency</key>
+	<string>sineValidation</string>
+</dict>
+</plist>

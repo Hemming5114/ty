@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianparticlestyle</key>
+	<string>checklistTheme</string>
+	<key>composableFactory</key>
+	<string>unsortedAsset</string>
+	<key>convolutionOffset</key>
+	<string>shouldAnimateArithmetic</string>
+	<key>easyTimeline</key>
+	<string>trajectoryfrequency</string>
+	<key>materializerKind</key>
+	<string>lazyMap</string>
+	<key>shouldPaintCard</key>
+	<string>firstStrength</string>
+	<key>sophisticatedOccasion</key>
+	<string>onmasterchanged</string>
+</dict>
+</plist>

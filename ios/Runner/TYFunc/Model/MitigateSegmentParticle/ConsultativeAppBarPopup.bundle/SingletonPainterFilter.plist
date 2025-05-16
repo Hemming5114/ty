@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicResolver</key>
+	<string>normbesidemediator</string>
+	<key>concreteOccasion</key>
+	<string>insteadText</string>
+	<key>ignoredBloc</key>
+	<string>processInjection</string>
+	<key>localUnary</key>
+	<string>normOrientation</string>
+	<key>movementlikejob</key>
+	<string>renameTransition</string>
+	<key>permissiveProvider</key>
+	<string>shouldUpdateGrayscale</string>
+	<key>propagatesymbol</key>
+	<string>shouldLayoutAlpha</string>
+	<key>radioStatus</key>
+	<string>canDeserializeTransition</string>
+	<key>shouldAttachHeap</key>
+	<string>singleAccessory</string>
+	<key>startaction</key>
+	<string>newestConsumer</string>
+</dict>
+</plist>

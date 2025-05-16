@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alerthead</key>
+	<string>nodeKind</string>
+	<key>checkmomentum</key>
+	<string>shouldAnimateExponent</string>
+	<key>enabledRange</key>
+	<string>hasmediaquery</string>
+	<key>playnotification</key>
+	<string>defaultpromise</string>
+	<key>resolveroutsidestyle</key>
+	<string>bulletlevelspacing</string>
+	<key>sceneSpeed</key>
+	<string>progressbaradaptermode</string>
+	<key>subtletransformer</key>
+	<string>shouldFinishCharacter</string>
+</dict>
+</plist>

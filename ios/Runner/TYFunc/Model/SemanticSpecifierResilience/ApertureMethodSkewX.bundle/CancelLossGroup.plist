@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endflex</key>
+	<string>shouldstopanchor</string>
+	<key>largeMechanism</key>
+	<string>localCapsule</string>
+	<key>maperror</key>
+	<string>liteScaffold</string>
+	<key>materialSkewX</key>
+	<string>visibleResolver</string>
+	<key>responsiveProjection</key>
+	<string>sessionCycle</string>
+	<key>retainedOptimizer</key>
+	<string>zonetheme</string>
+</dict>
+</plist>

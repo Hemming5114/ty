@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachspecifier</key>
+	<string>respectiveRoute</string>
+	<key>chooserStatus</key>
+	<string>delegateVisibility</string>
+	<key>custompaintuntilplatform</key>
+	<string>interpolationPosition</string>
+	<key>diffableIndicator</key>
+	<string>advancedLog</string>
+	<key>difficultSink</key>
+	<string>canMountedIndicator</string>
+	<key>primaryMapper</key>
+	<string>accessibleTween</string>
+	<key>shouldRouteCaption</key>
+	<string>discardedjoiner</string>
+	<key>uniqueNavigator</key>
+	<string>descriptorVisitor</string>
+</dict>
+</plist>

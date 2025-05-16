@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcharacteristic</key>
+	<string>fixedDescent</string>
+	<key>compositionalConfidentiality</key>
+	<string>parallelrecursion</string>
+	<key>customcoordinatorshape</key>
+	<string>reliabilityShade</string>
+	<key>graphleft</key>
+	<string>lazyLoss</string>
+	<key>prevContainer</key>
+	<string>decodeVariant</string>
+	<key>robustBoxShadow</key>
+	<string>provideFuture</string>
+	<key>shouldBindTextField</key>
+	<string>shouldUpdateAlert</string>
+	<key>shouldListenTangent</key>
+	<string>compositionStyle</string>
+	<key>shouldMountCatalyst</key>
+	<string>audioHead</string>
+	<key>synchronousSegment</key>
+	<string>positionpressure</string>
+</dict>
+</plist>

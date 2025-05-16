@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleorientation</key>
+	<string>shouldpublishusage</string>
+	<key>liteModel</key>
+	<string>notationCount</string>
+	<key>providecontroller</key>
+	<string>canCreateFuture</string>
+	<key>shouldRenderContainer</key>
+	<string>gesturedetectorEdge</string>
+	<key>singletondirection</key>
+	<string>semanticFragment</string>
+</dict>
+</plist>

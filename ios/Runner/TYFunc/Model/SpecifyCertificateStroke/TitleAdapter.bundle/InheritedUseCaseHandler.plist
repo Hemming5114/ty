@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartcycleforce</key>
+	<string>spineValue</string>
+	<key>consultativeDispatcher</key>
+	<string>cacherouter</string>
+	<key>desktopDispatcher</key>
+	<string>techniqueTransparency</string>
+	<key>directlyMetrics</key>
+	<string>tangentMediator</string>
+	<key>lostaction</key>
+	<string>shouldfinishgesture</string>
+	<key>observerallocator</key>
+	<string>reflectCallback</string>
+	<key>petBrightness</key>
+	<string>canEmitAnimation</string>
+	<key>rebuildtext</key>
+	<string>imperativeStack</string>
+	<key>scenarioAcceleration</key>
+	<string>shouldsubscribepriority</string>
+</dict>
+</plist>

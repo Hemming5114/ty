@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonNotification</key>
+	<string>persistentCharacteristic</string>
+	<key>descriptionResponse</key>
+	<string>toleranceShade</string>
+	<key>descriptionspeed</key>
+	<string>mainIntegrity</string>
+	<key>gemsubscription</key>
+	<string>extendcheckbox</string>
+	<key>gesturedetectorEdge</key>
+	<string>canValidateCanvas</string>
+	<key>materializerorientation</key>
+	<string>flexTag</string>
+	<key>mutableAsset</key>
+	<string>routervisibility</string>
+	<key>singlecoordinator</key>
+	<string>canPresentAnimatedContainer</string>
+	<key>typicalPromise</key>
+	<string>stateshade</string>
+</dict>
+</plist>

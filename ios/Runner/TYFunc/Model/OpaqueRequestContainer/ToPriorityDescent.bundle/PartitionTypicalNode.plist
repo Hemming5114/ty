@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFrequency</key>
+	<string>materialVisitor</string>
+	<key>completerdecoratororientation</key>
+	<string>dropdownbuttonwithstage</string>
+	<key>priorResource</key>
+	<string>capacitiesEdge</string>
+	<key>robustGrid</key>
+	<string>presenterNumber</string>
+</dict>
+</plist>

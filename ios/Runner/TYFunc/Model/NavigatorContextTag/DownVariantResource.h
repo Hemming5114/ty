@@ -1,0 +1,18 @@
+#import "TensorGrayscaleExtension.h"
+#import "NormImplement.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface DownVariantResource : NSObject
+
+
+- (void) unscheduleLostSegue;
+
+- (void) overSizedBoxFeature;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

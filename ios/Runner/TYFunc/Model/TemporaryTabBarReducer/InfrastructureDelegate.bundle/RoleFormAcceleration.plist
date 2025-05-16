@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearconsumer</key>
+	<string>modelbehavior</string>
+	<key>meshInterval</key>
+	<string>labelintegrity</string>
+	<key>seamlessInfo</key>
+	<string>shouldAnimateCompletion</string>
+	<key>tappableComposition</key>
+	<string>allocateInjection</string>
+</dict>
+</plist>

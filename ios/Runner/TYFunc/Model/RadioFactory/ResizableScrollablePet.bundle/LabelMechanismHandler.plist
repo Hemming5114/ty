@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerBound</key>
+	<string>rectifyCallback</string>
+	<key>shouldPushAxis</key>
+	<string>convertScene</string>
+	<key>specifiercontainer</key>
+	<string>robustMaterial</string>
+	<key>tappablecursor</key>
+	<string>rotateUtil</string>
+	<key>unsortedLoop</key>
+	<string>playbackSpeed</string>
+</dict>
+</plist>

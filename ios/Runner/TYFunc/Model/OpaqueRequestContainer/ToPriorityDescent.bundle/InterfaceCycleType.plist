@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basictabview</key>
+	<string>shouldEndNavigation</string>
+	<key>customizedMedia</key>
+	<string>storageMargin</string>
+	<key>decorationinoperation</key>
+	<string>unmountedTouch</string>
+	<key>hasloss</key>
+	<string>otherResource</string>
+	<key>unaryForce</key>
+	<string>spineFacade</string>
+</dict>
+</plist>

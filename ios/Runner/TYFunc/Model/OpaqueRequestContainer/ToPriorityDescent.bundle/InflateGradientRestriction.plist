@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsexcepttype</key>
+	<string>rapidDuration</string>
+	<key>chapterTag</key>
+	<string>notificationTier</string>
+	<key>fusedRequest</key>
+	<string>iterativeStamp</string>
+	<key>imperativeBuilder</key>
+	<string>serviceParam</string>
+	<key>shouldLayoutSlider</key>
+	<string>loadMonster</string>
+	<key>shouldListenGram</key>
+	<string>finishFuture</string>
+	<key>shouldSaveObserver</key>
+	<string>selectedCharacter</string>
+	<key>shouldUpdateNib</key>
+	<string>profileColor</string>
+	<key>shouldpushplayback</key>
+	<string>shearSize</string>
+	<key>subtlestep</key>
+	<string>hardSchema</string>
+</dict>
+</plist>

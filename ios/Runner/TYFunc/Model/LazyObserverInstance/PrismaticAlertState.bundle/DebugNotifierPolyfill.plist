@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAlignment</key>
+	<string>usecaseSingleton</string>
+	<key>asynchronousCallback</key>
+	<string>pushResolver</string>
+	<key>dropdownbuttoninfunction</key>
+	<string>prevInfo</string>
+	<key>independentCard</key>
+	<string>elasticLoader</string>
+	<key>primarysliderhead</key>
+	<string>oldOverlay</string>
+	<key>publishtopic</key>
+	<string>publicCreator</string>
+	<key>rectorientation</key>
+	<string>hierarchicalRemainder</string>
+	<key>statefulTrigger</key>
+	<string>momentumOrigin</string>
+	<key>typicalBinary</key>
+	<string>coordinatorvariablelocation</string>
+</dict>
+</plist>

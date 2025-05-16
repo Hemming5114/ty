@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicTail</key>
+	<string>canNotifyRichText</string>
+	<key>consumptionMode</key>
+	<string>shouldNavigateSkin</string>
+	<key>encodegram</key>
+	<string>visibleStorage</string>
+	<key>pageviewstatus</key>
+	<string>ignoredMovement</string>
+	<key>scrollerFlags</key>
+	<string>shouldPushCube</string>
+</dict>
+</plist>

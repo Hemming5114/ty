@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackconsumer</key>
+	<string>emitBorder</string>
+	<key>chapterScale</key>
+	<string>shouldDisconnectContainer</string>
+	<key>customSegue</key>
+	<string>sophisticatedPresenter</string>
+	<key>greatStep</key>
+	<string>floatchart</string>
+	<key>materializerTransparency</key>
+	<string>utilOpacity</string>
+	<key>positiontheme</key>
+	<string>notationTheme</string>
+	<key>resourceinproxy</key>
+	<string>cycleRate</string>
+	<key>synchronousData</key>
+	<string>visibleThreshold</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowdistance</key>
+	<string>overlayJob</string>
+	<key>collectioncoordinator</key>
+	<string>columnForm</string>
+	<key>currentpoint</key>
+	<string>canDispatchCycle</string>
+	<key>ephemeralGrayscale</key>
+	<string>hasDescriptor</string>
+	<key>inkwellMargin</key>
+	<string>axisStyle</string>
+	<key>localChannel</key>
+	<string>shouldFetchResource</string>
+	<key>providerLeft</key>
+	<string>limitProgressBar</string>
+	<key>responsecreator</key>
+	<string>cupertinoModel</string>
+	<key>triggerBehavior</key>
+	<string>upgradeGraph</string>
+</dict>
+</plist>

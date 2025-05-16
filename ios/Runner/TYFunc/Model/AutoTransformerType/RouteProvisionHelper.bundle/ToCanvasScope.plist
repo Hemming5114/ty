@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustmaster</key>
+	<string>lastQuaternion</string>
+	<key>customizedOccasion</key>
+	<string>shouldTransitionInkWell</string>
+	<key>displayableVector</key>
+	<string>sharedCupertino</string>
+	<key>ignoredSegment</key>
+	<string>declarativeCubit</string>
+	<key>interactivePlayback</key>
+	<string>remainderTint</string>
+	<key>otherCoordinator</key>
+	<string>asyncparamtheme</string>
+	<key>responderTheme</key>
+	<string>criticalConstraint</string>
+	<key>shouldpersistpoint</key>
+	<string>injectiondepth</string>
+</dict>
+</plist>

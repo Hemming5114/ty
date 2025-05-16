@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableStore</key>
+	<string>permissiveAllocator</string>
+	<key>insteadthread</key>
+	<string>aggregateDescription</string>
+	<key>lostBrush</key>
+	<string>capacitiesAction</string>
+	<key>methodscale</key>
+	<string>hierarchicalShader</string>
+	<key>mobileTween</key>
+	<string>canCreateNavigator</string>
+	<key>mutableBox</key>
+	<string>lostNotifier</string>
+	<key>shouldEndPadding</key>
+	<string>iterativeHeap</string>
+	<key>shouldUpdateButton</key>
+	<string>emitOperation</string>
+	<key>textureIndex</key>
+	<string>extendResult</string>
+	<key>tickerDistance</key>
+	<string>smallProtocol</string>
+</dict>
+</plist>

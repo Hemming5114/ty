@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUseCase</key>
+	<string>canPersistKernel</string>
+	<key>connectorAcceleration</key>
+	<string>drawertype</string>
+	<key>customawaitresponse</key>
+	<string>directlySelector</string>
+	<key>diversifiedProvision</key>
+	<string>finderName</string>
+	<key>localListener</key>
+	<string>delicatestroke</string>
+	<key>pinchableIcon</key>
+	<string>parsedocument</string>
+	<key>remainderType</key>
+	<string>documentSize</string>
+	<key>singleNotifier</key>
+	<string>modulusasmemento</string>
+	<key>trajectoryContrast</key>
+	<string>bulletimpact</string>
+</dict>
+</plist>

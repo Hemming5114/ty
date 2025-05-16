@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationContrast</key>
+	<string>priorswitch</string>
+	<key>controlleroccasion</key>
+	<string>containersorter</string>
+	<key>customizedGroup</key>
+	<string>checkDecoration</string>
+	<key>defaultCell</key>
+	<string>resumelabel</string>
+	<key>greatEntity</key>
+	<string>capsuleInset</string>
+	<key>prismaticSegue</key>
+	<string>shouldRouteAlpha</string>
+	<key>relationalEvent</key>
+	<string>permissivecellcolor</string>
+</dict>
+</plist>

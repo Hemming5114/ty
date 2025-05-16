@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOccasion</key>
+	<string>loaderSkewY</string>
+	<key>completercycleorientation</key>
+	<string>videoDuration</string>
+	<key>declarativeLinker</key>
+	<string>immutableConvolution</string>
+	<key>dynamicState</key>
+	<string>ignoredCharacter</string>
+	<key>injectionInteraction</key>
+	<string>sequentialThroughput</string>
+	<key>listviewBehavior</key>
+	<string>localEvaluation</string>
+	<key>projectioncoord</key>
+	<string>defaultProject</string>
+	<key>standaloneNotification</key>
+	<string>reactiveContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerinteractorvisible</key>
+	<string>shouldBuildModal</string>
+	<key>currentusageinterval</key>
+	<string>persistentTable</string>
+	<key>dataResponse</key>
+	<string>mediumTabBar</string>
+	<key>progressbarthanvalue</key>
+	<string>isolateContext</string>
+	<key>publicConsumer</key>
+	<string>canSubscribeDocument</string>
+	<key>reusablegembrightness</key>
+	<string>layoutlabel</string>
+</dict>
+</plist>

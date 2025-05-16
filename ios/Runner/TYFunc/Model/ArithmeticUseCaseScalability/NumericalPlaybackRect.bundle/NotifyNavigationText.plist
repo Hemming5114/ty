@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowDuration</key>
+	<string>newestStroke</string>
+	<key>disparateTrajectory</key>
+	<string>inheritedcontraction</string>
+	<key>resourcestructurespeed</key>
+	<string>rendercontainer</string>
+	<key>shouldProcessScale</key>
+	<string>unsortedGestureDetector</string>
+</dict>
+</plist>

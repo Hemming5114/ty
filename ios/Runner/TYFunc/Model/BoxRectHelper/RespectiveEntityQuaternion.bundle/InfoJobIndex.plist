@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localContraction</key>
+	<string>resetTween</string>
+	<key>localGrid</key>
+	<string>resilientResponse</string>
+	<key>normalWrapper</key>
+	<string>shouldHandleNavigation</string>
+	<key>resourceposition</key>
+	<string>parallelConstraint</string>
+	<key>transformrepository</key>
+	<string>respectivequeuespacing</string>
+	<key>visiblepainter</key>
+	<string>originaltexthue</string>
+</dict>
+</plist>

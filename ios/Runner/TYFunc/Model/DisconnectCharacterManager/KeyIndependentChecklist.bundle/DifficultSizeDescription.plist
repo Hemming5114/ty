@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedOverlay</key>
+	<string>uniformNorm</string>
+	<key>notifyconstraint</key>
+	<string>secondWorkflow</string>
+	<key>singleBloc</key>
+	<string>unbindInterpolation</string>
+	<key>singletonscale</key>
+	<string>shouldDismissRadio</string>
+</dict>
+</plist>

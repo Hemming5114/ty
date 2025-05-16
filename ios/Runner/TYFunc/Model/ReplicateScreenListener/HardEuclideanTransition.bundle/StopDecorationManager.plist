@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAcceleration</key>
+	<string>permanentfactoryvisibility</string>
+	<key>draggablePet</key>
+	<string>framecolor</string>
+	<key>gesturedetectorwithoutdecorator</key>
+	<string>unmarshalTransformer</string>
+	<key>lazyMovement</key>
+	<string>statetint</string>
+	<key>oldPopup</key>
+	<string>unmountNib</string>
+	<key>provisionFeedback</key>
+	<string>profileChart</string>
+	<key>remediationShape</key>
+	<string>eagerGesture</string>
+	<key>roleCenter</key>
+	<string>enabledprofile</string>
+	<key>shouldValidateOption</key>
+	<string>canAttachDecoration</string>
+	<key>visibleBaseline</key>
+	<string>robustTabView</string>
+</dict>
+</plist>

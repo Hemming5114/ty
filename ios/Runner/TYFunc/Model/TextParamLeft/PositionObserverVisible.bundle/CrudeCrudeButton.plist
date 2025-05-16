@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricRect</key>
+	<string>nodePadding</string>
+	<key>shapeorientation</key>
+	<string>detectorEdge</string>
+	<key>shouldCreateOptimizer</key>
+	<string>unbindMonster</string>
+	<key>symmetricicon</key>
+	<string>symmetricLayer</string>
+	<key>typicalParticle</key>
+	<string>presenterFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultdescriptor</key>
+	<string>splitterColor</string>
+	<key>fixedHash</key>
+	<string>giftSingleton</string>
+	<key>resilientExpanded</key>
+	<string>tangentForce</string>
+	<key>statefulRoute</key>
+	<string>shouldDeserializeGift</string>
+	<key>storageBrightness</key>
+	<string>canFetchBrush</string>
+	<key>throughputPadding</key>
+	<string>mitigateAction</string>
+</dict>
+</plist>

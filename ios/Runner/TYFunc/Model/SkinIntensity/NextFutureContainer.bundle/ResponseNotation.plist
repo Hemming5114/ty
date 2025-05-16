@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstRouter</key>
+	<string>canCreateCompletion</string>
+	<key>immediateInjection</key>
+	<string>modalInset</string>
+	<key>localModel</key>
+	<string>easyCompletion</string>
+	<key>nextplatepadding</key>
+	<string>trianglesVisible</string>
+	<key>observerimage</key>
+	<string>unactivatedshader</string>
+	<key>pushinstruction</key>
+	<string>canStreamNorm</string>
+	<key>retainedInterpolation</key>
+	<string>radiusCoord</string>
+	<key>sequentialMatrix</key>
+	<string>selectedmatrix</string>
+	<key>shouldTrainLayout</key>
+	<string>pushdecoration</string>
+	<key>symmetricfuture</key>
+	<string>deferredMobile</string>
+</dict>
+</plist>

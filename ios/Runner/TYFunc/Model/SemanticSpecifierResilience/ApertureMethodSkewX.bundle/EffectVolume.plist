@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedIntensity</key>
+	<string>reducerrate</string>
+	<key>aperturerow</key>
+	<string>agileusecase</string>
+	<key>combinerHue</key>
+	<string>mixinMetadata</string>
+	<key>eagerBuilder</key>
+	<string>pageviewBrightness</string>
+	<key>momentumState</key>
+	<string>channelBehavior</string>
+	<key>permanentAlert</key>
+	<string>cartesianAspect</string>
+	<key>semanticHash</key>
+	<string>canNotifyBaseline</string>
+	<key>shouldPopMultiplication</key>
+	<string>hasCycle</string>
+	<key>usageorigin</key>
+	<string>inactiveNotification</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicState</key>
+	<string>disposeDuration</string>
+	<key>cupertinoOperation</key>
+	<string>vectorspeed</string>
+	<key>decorationdirection</key>
+	<string>pivotalSingleton</string>
+	<key>ephemeralReplica</key>
+	<string>dependencyShade</string>
+	<key>immediateRequest</key>
+	<string>shouldFormatView</string>
+	<key>lazyController</key>
+	<string>refreshTimer</string>
+	<key>nextExponent</key>
+	<string>cacheCollection</string>
+	<key>permissiveLinker</key>
+	<string>pushAlert</string>
+	<key>reactiveGate</key>
+	<string>functionalpointmargin</string>
+	<key>scrollableCosine</key>
+	<string>completerMomentum</string>
+</dict>
+</plist>

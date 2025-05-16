@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerSkewY</key>
+	<string>accordionCompletion</string>
+	<key>dissociatestack</key>
+	<string>mainController</string>
+	<key>pinchablesymbolinteraction</key>
+	<string>cacheChannels</string>
+	<key>shouldAttachBrush</key>
+	<string>inflateAllocator</string>
+	<key>slashresponse</key>
+	<string>listenmanager</string>
+	<key>statefulRenderer</key>
+	<string>gridviewDensity</string>
+	<key>usedCoordinator</key>
+	<string>consumptionTransparency</string>
+</dict>
+</plist>

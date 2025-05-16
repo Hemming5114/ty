@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureSkewY</key>
+	<string>shouldAnimateController</string>
+	<key>eagerArithmetic</key>
+	<string>navigatordependency</string>
+	<key>entityfacadefrequency</key>
+	<string>serviceSingleton</string>
+	<key>factoryshape</key>
+	<string>allocatorAppearance</string>
+	<key>layouttheme</key>
+	<string>shouldAttachBloc</string>
+	<key>localNotification</key>
+	<string>undertakereduction</string>
+	<key>nativeReplica</key>
+	<string>otherOperation</string>
+	<key>protectedStateful</key>
+	<string>shouldUpdateMediaQuery</string>
+	<key>scrollableStamp</key>
+	<string>canBuildInteger</string>
+	<key>shouldAnimateHeap</key>
+	<string>chapterfrequency</string>
+</dict>
+</plist>

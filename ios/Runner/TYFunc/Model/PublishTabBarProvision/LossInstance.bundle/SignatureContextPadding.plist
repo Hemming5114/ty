@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerusage</key>
+	<string>routefilter</string>
+	<key>captionbyphase</key>
+	<string>binaryHead</string>
+	<key>independentGestureDetector</key>
+	<string>disparateStatus</string>
+	<key>invisibleTweak</key>
+	<string>canDispatchHero</string>
+	<key>pageviewpolyfill</key>
+	<string>errorTail</string>
+	<key>persistentGraph</key>
+	<string>stackJob</string>
+	<key>pivotalStateless</key>
+	<string>firstFrame</string>
+	<key>selectedmap</key>
+	<string>strokeTint</string>
+	<key>shouldUpdateFlex</key>
+	<string>subsequentAnimator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawstateful</key>
+	<string>mainaspect</string>
+	<key>intuitiveDuration</key>
+	<string>usageForce</string>
+	<key>priorInjection</key>
+	<string>observeUsage</string>
+	<key>provisionTint</key>
+	<string>immediateNotification</string>
+</dict>
+</plist>

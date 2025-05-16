@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autolifecycle</key>
+	<string>canStopGradient</string>
+	<key>composableRect</key>
+	<string>mountedAlert</string>
+	<key>criticalCurve</key>
+	<string>storyboardFlags</string>
+	<key>discardedmetadataskewy</key>
+	<string>unbindMonster</string>
+	<key>frametempledelay</key>
+	<string>canPrepareCurve</string>
+	<key>intuitiveZone</key>
+	<string>shouldRebuildPromise</string>
+	<key>skirtAcceleration</key>
+	<string>publicArithmetic</string>
+	<key>stackLocation</key>
+	<string>directlyGrid</string>
+	<key>substantialThreshold</key>
+	<string>zoneCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinePadding</key>
+	<string>dispatchConvolution</string>
+	<key>dedicatedMaterializer</key>
+	<string>priortablebound</string>
+	<key>dynamicCurve</key>
+	<string>featureVariable</string>
+	<key>dynamicrestriction</key>
+	<string>cellshader</string>
+	<key>movementDirection</key>
+	<string>newestProject</string>
+	<key>pointquaternion</key>
+	<string>reflectScene</string>
+	<key>sophisticatedObserver</key>
+	<string>deserializeGrayscale</string>
+</dict>
+</plist>

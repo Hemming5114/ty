@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFilter</key>
+	<string>appendoptimizer</string>
+	<key>concurrentLocalization</key>
+	<string>transformertaskposition</string>
+	<key>independentrichtextinset</key>
+	<string>canInflateGestureDetector</string>
+	<key>mainMap</key>
+	<string>granularBuffer</string>
+	<key>requiredArithmetic</key>
+	<string>datatheme</string>
+	<key>searcherRotation</key>
+	<string>widgetscale</string>
+	<key>significantUtil</key>
+	<string>locateLocalization</string>
+	<key>statefulAsync</key>
+	<string>activePositioned</string>
+	<key>storefinder</key>
+	<string>painterMediator</string>
+</dict>
+</plist>

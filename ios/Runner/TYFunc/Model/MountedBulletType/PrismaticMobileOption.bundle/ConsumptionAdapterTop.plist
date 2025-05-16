@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesscale</key>
+	<string>bandwidthorientation</string>
+	<key>elasticObserver</key>
+	<string>dependencystatus</string>
+	<key>explicitVertex</key>
+	<string>bitrateDuration</string>
+	<key>publicPlate</key>
+	<string>completerState</string>
+	<key>singletoncyclestatus</key>
+	<string>dropdownbuttonscale</string>
+</dict>
+</plist>

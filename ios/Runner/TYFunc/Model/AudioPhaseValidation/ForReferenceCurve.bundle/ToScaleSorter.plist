@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderCoord</key>
+	<string>mapDistance</string>
+	<key>cartesianScroller</key>
+	<string>oldpopup</string>
+	<key>cupertinoChannels</key>
+	<string>roleVisible</string>
+	<key>effectspeed</key>
+	<string>uniformDescription</string>
+	<key>inactiveCheckbox</key>
+	<string>shouldPushMultiplication</string>
+	<key>normalCustomPaint</key>
+	<string>responsesensor</string>
+	<key>primaryStore</key>
+	<string>informationdepth</string>
+	<key>webResponse</key>
+	<string>interfaceDelay</string>
+</dict>
+</plist>

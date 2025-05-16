@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioStatus</key>
+	<string>canRouteMultiplication</string>
+	<key>intensityinset</key>
+	<string>responsiveUnary</string>
+	<key>mediaquerycolor</key>
+	<string>measureWidget</string>
+	<key>primaryAnimatedContainer</key>
+	<string>activatedSizedBox</string>
+	<key>shouldReplacePlayback</key>
+	<string>initializePresenter</string>
+	<key>statelessCupertino</key>
+	<string>similarComponent</string>
+	<key>subtlelayout</key>
+	<string>sortedDescent</string>
+	<key>tappableProfile</key>
+	<string>asyncopacity</string>
+	<key>timerbufferorigin</key>
+	<string>dialogsLevel</string>
+</dict>
+</plist>

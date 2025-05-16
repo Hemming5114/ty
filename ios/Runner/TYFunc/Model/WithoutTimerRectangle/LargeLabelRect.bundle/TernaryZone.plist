@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryValidation</key>
+	<string>shoulddismisssign</string>
+	<key>responderTail</key>
+	<string>keyLoader</string>
+	<key>subscriptionVisibility</key>
+	<string>difficultSplitter</string>
+	<key>unsortedDetector</key>
+	<string>techniqueAdapter</string>
+	<key>webStamp</key>
+	<string>clusterSkewY</string>
+</dict>
+</plist>

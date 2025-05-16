@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyAlignment</key>
+	<string>localCursor</string>
+	<key>iterativeroledensity</key>
+	<string>notifierefficiency</string>
+	<key>shouldConnectBehavior</key>
+	<string>globalSprite</string>
+	<key>tappablematrixspeed</key>
+	<string>delicateMargin</string>
+	<key>textpicker</key>
+	<string>statehandler</string>
+	<key>volumeMargin</key>
+	<string>composableTentative</string>
+</dict>
+</plist>

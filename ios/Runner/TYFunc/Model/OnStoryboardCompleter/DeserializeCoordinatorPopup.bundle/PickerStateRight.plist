@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDistance</key>
+	<string>firstBinder</string>
+	<key>heroFlags</key>
+	<string>smartElasticity</string>
+	<key>numericalStore</key>
+	<string>unactivatedEntropy</string>
+	<key>reactiveMetadata</key>
+	<string>reconcileLoop</string>
+	<key>resilientChannels</key>
+	<string>shouldDisconnectIcon</string>
+	<key>shouldEncodeEquipment</key>
+	<string>compositionalCosine</string>
+	<key>shouldValidateRichText</key>
+	<string>lostdecorationname</string>
+	<key>tangentandcomposite</key>
+	<string>observeStore</string>
+	<key>unactivatedScenario</key>
+	<string>directException</string>
+</dict>
+</plist>

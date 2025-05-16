@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAlignment</key>
+	<string>desktopMomentum</string>
+	<key>largeflex</key>
+	<string>captureLocalization</string>
+	<key>materialPadding</key>
+	<string>explicitDropdownButton</string>
+	<key>prepareanimation</key>
+	<string>attachBuilder</string>
+	<key>shouldBuildMargin</key>
+	<string>curveacceleration</string>
+	<key>shouldCreateCustomPaint</key>
+	<string>rapidStream</string>
+	<key>subscriptionasflyweight</key>
+	<string>dropdownbuttonversusmode</string>
+	<key>volumemomentum</key>
+	<string>replicaFrequency</string>
+</dict>
+</plist>

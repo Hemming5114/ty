@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateAnimator</key>
+	<string>shouldrebuildaspectratio</string>
+	<key>impressionvisible</key>
+	<string>unlockSink</string>
+	<key>litePosition</key>
+	<string>canShowCard</string>
+	<key>metadatasensor</key>
+	<string>rebuildAlert</string>
+	<key>robustimagevisibility</key>
+	<string>backwardOptimizer</string>
+	<key>transformermend</key>
+	<string>detachStore</string>
+	<key>videoStatus</key>
+	<string>layerPhase</string>
+</dict>
+</plist>

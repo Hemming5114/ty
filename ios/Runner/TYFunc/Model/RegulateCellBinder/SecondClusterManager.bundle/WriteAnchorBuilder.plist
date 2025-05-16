@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEmitter</key>
+	<string>controllertag</string>
+	<key>bindmetadata</key>
+	<string>symmetricInteractor</string>
+	<key>buildmusic</key>
+	<string>effectnearfacade</string>
+	<key>cartesianInterface</key>
+	<string>hierarchicalAlpha</string>
+	<key>draggableFactory</key>
+	<string>newestSpecifier</string>
+	<key>hyperbolicSign</key>
+	<string>consumerTask</string>
+	<key>immediateTimeline</key>
+	<string>shouldFormatTabView</string>
+	<key>requiredChecklist</key>
+	<string>evaluationCenter</string>
+	<key>shouldDispatchAppBar</key>
+	<string>movementtiercount</string>
+</dict>
+</plist>

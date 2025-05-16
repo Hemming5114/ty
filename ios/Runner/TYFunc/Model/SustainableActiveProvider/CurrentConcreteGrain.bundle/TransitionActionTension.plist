@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityColor</key>
+	<string>columnBound</string>
+	<key>concreteCompleter</key>
+	<string>associatedWorkflow</string>
+	<key>concurrentChallenge</key>
+	<string>callbackFeedback</string>
+	<key>consultativeConfiguration</key>
+	<string>materialPattern</string>
+	<key>currentsine</key>
+	<string>canShowPromise</string>
+	<key>dataHead</key>
+	<string>unactivatedReceiver</string>
+	<key>decouplebloc</key>
+	<string>createGrid</string>
+	<key>directRestriction</key>
+	<string>canStartRow</string>
+	<key>statelessMomentum</key>
+	<string>sorterBorder</string>
+	<key>usageascent</key>
+	<string>ignoredSize</string>
+</dict>
+</plist>

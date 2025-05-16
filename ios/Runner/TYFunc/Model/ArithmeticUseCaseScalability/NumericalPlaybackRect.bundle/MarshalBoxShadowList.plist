@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>implementlayout</key>
+	<string>shouldNavigateProtocol</string>
+	<key>modulusEdge</key>
+	<string>discardedlayer</string>
+	<key>remediationSize</key>
+	<string>lazyScope</string>
+	<key>staticCompleter</key>
+	<string>draggableNode</string>
+</dict>
+</plist>

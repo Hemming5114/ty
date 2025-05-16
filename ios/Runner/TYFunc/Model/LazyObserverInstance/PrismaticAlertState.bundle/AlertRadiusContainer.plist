@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeDescriptor</key>
+	<string>inheritedModule</string>
+	<key>declarativeClipper</key>
+	<string>canDecodeInkWell</string>
+	<key>delegateBorder</key>
+	<string>layoutForce</string>
+	<key>dependencyCenter</key>
+	<string>fusedTween</string>
+	<key>mediumTabBar</key>
+	<string>semanticsplatformstate</string>
+	<key>retainedResilience</key>
+	<string>streamKernel</string>
+	<key>shouldResumeLayout</key>
+	<string>typicalGate</string>
+	<key>subsequentAnalyzer</key>
+	<string>shouldContinueBorder</string>
+</dict>
+</plist>

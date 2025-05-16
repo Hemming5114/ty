@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationrotation</key>
+	<string>subscribertag</string>
+	<key>dynamicaspectorigin</key>
+	<string>heroState</string>
+	<key>eagerGesture</key>
+	<string>disconnectPopup</string>
+	<key>elasticContrast</key>
+	<string>shouldShowInteger</string>
+	<key>paddingtentative</key>
+	<string>canBuildTabBar</string>
+	<key>particlestructurecoord</key>
+	<string>canInflateContainer</string>
+	<key>smallMechanism</key>
+	<string>minUnary</string>
+	<key>synchronousElement</key>
+	<string>servicesound</string>
+</dict>
+</plist>

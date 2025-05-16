@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousIntegrity</key>
+	<string>robustLoader</string>
+	<key>gradientcompleter</key>
+	<string>canRouteMember</string>
+	<key>nextCollection</key>
+	<string>aspectcubit</string>
+	<key>painttransition</key>
+	<string>continueGradient</string>
+	<key>requestchannel</key>
+	<string>synchronousAxis</string>
+	<key>shouldPushLabel</key>
+	<string>findcatalyst</string>
+	<key>tickerCount</key>
+	<string>chartDecorator</string>
+	<key>topicdensity</key>
+	<string>playbackindex</string>
+	<key>uniformNotification</key>
+	<string>shouldobserveternary</string>
+	<key>unsortedMaster</key>
+	<string>shouldnavigatecupertino</string>
+</dict>
+</plist>

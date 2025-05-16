@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheaspect</key>
+	<string>logkind</string>
+	<key>captionusecase</key>
+	<string>debugSingleton</string>
+	<key>histogramSkewX</key>
+	<string>fillConstraint</string>
+	<key>mapperDirection</key>
+	<string>independentMobile</string>
+	<key>multiMaster</key>
+	<string>resizableManager</string>
+	<key>nodeinset</key>
+	<string>tabviewoffacade</string>
+	<key>rapidBuffer</key>
+	<string>disparateEntity</string>
+	<key>selectorBorder</key>
+	<string>enabledcoordinator</string>
+	<key>unactivatedconvolutioninset</key>
+	<string>sustainablecubevalidation</string>
+</dict>
+</plist>

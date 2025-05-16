@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPolyfill</key>
+	<string>copyFactory</string>
+	<key>granularresilience</key>
+	<string>currentprojection</string>
+	<key>histogramFlags</key>
+	<string>selectorCount</string>
+	<key>interpolationTransparency</key>
+	<string>keepCapacities</string>
+	<key>mountedicon</key>
+	<string>smallCompletion</string>
+	<key>resilientRadius</key>
+	<string>resourceVisible</string>
+	<key>sustainablesizebound</key>
+	<string>cartesianModulus</string>
+	<key>unaryevolution</key>
+	<string>geometricSelector</string>
+	<key>variantposition</key>
+	<string>materializeresult</string>
+</dict>
+</plist>

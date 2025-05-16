@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentcontextright</key>
+	<string>dismissaxis</string>
+	<key>asynchronoussize</key>
+	<string>pauseCosine</string>
+	<key>customizedCube</key>
+	<string>converterType</string>
+	<key>persistentChecklist</key>
+	<string>typicalresulttension</string>
+	<key>replicaStyle</key>
+	<string>canEmitTabBar</string>
+	<key>shouldPrepareSkin</key>
+	<string>deprecateResult</string>
+	<key>shouldYieldAccessory</key>
+	<string>integerSpeed</string>
+	<key>staticChapter</key>
+	<string>optimizerLevel</string>
+</dict>
+</plist>

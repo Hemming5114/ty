@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderedge</key>
+	<string>hardTriangles</string>
+	<key>cellmanager</key>
+	<string>saveTabBar</string>
+	<key>granularprogressbar</key>
+	<string>dedicatedListView</string>
+	<key>marginmargin</key>
+	<string>greatSignature</string>
+	<key>timeFlags</key>
+	<string>shaderJob</string>
+</dict>
+</plist>

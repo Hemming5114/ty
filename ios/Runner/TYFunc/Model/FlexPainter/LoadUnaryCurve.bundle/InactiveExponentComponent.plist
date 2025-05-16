@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushdescription</key>
+	<string>canDeserializeResource</string>
+	<key>catalystSize</key>
+	<string>declarativeController</string>
+	<key>entitySkewX</key>
+	<string>gridContrast</string>
+	<key>logformat</key>
+	<string>taxonomyformat</string>
+	<key>newestLoop</key>
+	<string>signatureMethod</string>
+	<key>normCount</key>
+	<string>specifierAcceleration</string>
+	<key>sequentialgradientrotation</key>
+	<string>inkwellScale</string>
+</dict>
+</plist>

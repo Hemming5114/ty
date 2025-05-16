@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoQueue</key>
+	<string>publishController</string>
+	<key>cupertinoTabView</key>
+	<string>singletonJob</string>
+	<key>curvedetector</key>
+	<string>shouldDecodePositioned</string>
+	<key>relationalQuaternion</key>
+	<string>cursorTheme</string>
+	<key>resourcetype</key>
+	<string>groupContext</string>
+	<key>responderSpacing</key>
+	<string>cupertinoVisitor</string>
+	<key>semanticThreshold</key>
+	<string>refreshAction</string>
+	<key>shadereffect</key>
+	<string>fragmentTask</string>
+	<key>shouldSkipSpot</key>
+	<string>audiodirection</string>
+</dict>
+</plist>

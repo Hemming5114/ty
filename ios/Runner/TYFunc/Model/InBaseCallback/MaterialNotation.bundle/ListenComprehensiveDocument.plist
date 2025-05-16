@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVisibility</key>
+	<string>secondThreshold</string>
+	<key>cartesianAnimator</key>
+	<string>popuplocation</string>
+	<key>customizedAppBar</key>
+	<string>mutableTriangles</string>
+	<key>lifecycleRight</key>
+	<string>shaderDistance</string>
+	<key>mobileGrain</key>
+	<string>shouldRenderBox</string>
+	<key>newestComposition</key>
+	<string>transposeCallback</string>
+	<key>normShape</key>
+	<string>numericalShader</string>
+	<key>shouldListenOption</key>
+	<string>quantizationResource</string>
+	<key>shouldfinishplayback</key>
+	<string>criticalRect</string>
+	<key>subtleAperture</key>
+	<string>permutationLeft</string>
+</dict>
+</plist>

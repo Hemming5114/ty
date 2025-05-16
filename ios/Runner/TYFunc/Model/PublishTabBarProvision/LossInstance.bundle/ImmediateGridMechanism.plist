@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>remediationTag</key>
+	<string>shouldObserveText</string>
+	<key>seamlessSymbol</key>
+	<string>shouldPushInstruction</string>
+	<key>sequentialGrid</key>
+	<string>eraseBuilder</string>
+	<key>stackSkewY</key>
+	<string>durationVisitor</string>
+</dict>
+</plist>

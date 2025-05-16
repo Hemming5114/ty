@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleWrapper</key>
+	<string>pivotalSelector</string>
+	<key>agileResilience</key>
+	<string>persistentError</string>
+	<key>baseTag</key>
+	<string>canDispatchLoss</string>
+	<key>cursorproxytail</key>
+	<string>greatTangent</string>
+	<key>priorCompletion</key>
+	<string>constantBrightness</string>
+	<key>shouldPrepareProjection</key>
+	<string>custompaintrow</string>
+	<key>shouldTransitionCell</key>
+	<string>loaderValidation</string>
+</dict>
+</plist>

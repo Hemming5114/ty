@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellloader</key>
+	<string>disconnectReducer</string>
+	<key>cupertinoEffect</key>
+	<string>paintStamp</string>
+	<key>observerOffset</key>
+	<string>canRouteProjection</string>
+	<key>resumebatch</key>
+	<string>sortedAlert</string>
+	<key>shouldSetStateModal</key>
+	<string>subpixelFacade</string>
+	<key>shouldUnmountedStoryboard</key>
+	<string>cubitIndex</string>
+	<key>unactivatedIntegrity</key>
+	<string>fusedHandler</string>
+</dict>
+</plist>

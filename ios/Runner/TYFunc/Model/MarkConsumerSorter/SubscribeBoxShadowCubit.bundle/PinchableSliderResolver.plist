@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorPressure</key>
+	<string>observeUsage</string>
+	<key>giftTheme</key>
+	<string>priorcertificatespeed</string>
+	<key>greatpresenter</key>
+	<string>permanentStamp</string>
+	<key>shouldBindGesture</key>
+	<string>relationalpublisher</string>
+	<key>shouldShowLogarithm</key>
+	<string>showExpanded</string>
+	<key>subpixelchainfeedback</key>
+	<string>equalizationStyle</string>
+	<key>tappableStatus</key>
+	<string>spinResource</string>
+	<key>temporaryLatency</key>
+	<string>dedicatedManager</string>
+	<key>textureskewy</key>
+	<string>scrollerForce</string>
+</dict>
+</plist>

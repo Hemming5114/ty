@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyAllocator</key>
+	<string>parallelrowhue</string>
+	<key>materialTolerance</key>
+	<string>shouldConnectCube</string>
+	<key>publicIndicator</key>
+	<string>animateInkWell</string>
+	<key>seamlessnibshape</key>
+	<string>shouldTransformHero</string>
+	<key>shouldrestartcontainer</key>
+	<string>projectionTransparency</string>
+</dict>
+</plist>

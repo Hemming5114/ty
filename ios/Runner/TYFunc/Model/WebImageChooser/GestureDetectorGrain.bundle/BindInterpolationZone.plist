@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalScroller</key>
+	<string>singleScheduler</string>
+	<key>liteUtil</key>
+	<string>currentSubpixel</string>
+	<key>materialSelector</key>
+	<string>capsulearoundmediator</string>
+	<key>pinchableMaster</key>
+	<string>rapidElement</string>
+	<key>quantizercontroller</key>
+	<string>keyCache</string>
+	<key>sizedboxInset</key>
+	<string>pinchableImpression</string>
+	<key>taskdrawer</key>
+	<string>canRenderIcon</string>
+	<key>timeDirection</key>
+	<string>mutableHandler</string>
+	<key>touchOffset</key>
+	<string>canSubscribeCustomPaint</string>
+	<key>visibleTriangles</key>
+	<string>standaloneEqualization</string>
+</dict>
+</plist>

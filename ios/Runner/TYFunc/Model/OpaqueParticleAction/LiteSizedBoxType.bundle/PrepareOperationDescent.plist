@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationobservermargin</key>
+	<string>distinctionStyle</string>
+	<key>immediateAnimatedContainer</key>
+	<string>durationEdge</string>
+	<key>shouldBindEffect</key>
+	<string>stepthroughvisitor</string>
+	<key>shouldEndInstruction</key>
+	<string>hyperbolicMapper</string>
+	<key>shouldSerializeConstraint</key>
+	<string>shoulddisconnectcaption</string>
+	<key>shouldUnmountLogarithm</key>
+	<string>updateTheme</string>
+	<key>significantConstraint</key>
+	<string>canParseCursor</string>
+</dict>
+</plist>

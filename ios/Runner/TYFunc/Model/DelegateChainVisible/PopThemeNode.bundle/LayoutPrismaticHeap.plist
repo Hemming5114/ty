@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTint</key>
+	<string>tensorCursor</string>
+	<key>layerexceptmethod</key>
+	<string>canStopBinary</string>
+	<key>pageviewShape</key>
+	<string>replaceInterpolation</string>
+	<key>responseleft</key>
+	<string>standaloneSession</string>
+	<key>shouldpublishcompletion</key>
+	<string>delicateClipper</string>
+	<key>slashthreshold</key>
+	<string>mediocreentitystyle</string>
+	<key>titleBottom</key>
+	<string>layerscopeinterval</string>
+	<key>unaryselector</key>
+	<string>chartIndex</string>
+</dict>
+</plist>

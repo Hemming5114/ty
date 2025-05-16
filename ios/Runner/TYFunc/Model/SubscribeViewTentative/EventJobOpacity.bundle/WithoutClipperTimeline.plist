@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzecube</key>
+	<string>shouldNavigateText</string>
+	<key>configurationassingleton</key>
+	<string>spotAction</string>
+	<key>dynamicpreview</key>
+	<string>evaluateStorage</string>
+	<key>gridSize</key>
+	<string>drawReducer</string>
+	<key>intermediateCube</key>
+	<string>mountedAspectRatio</string>
+	<key>polyfillpressure</key>
+	<string>sessionspeed</string>
+	<key>richtextCoord</key>
+	<string>layoutOperation</string>
+	<key>shouldPresentRemainder</key>
+	<string>imageProxy</string>
+</dict>
+</plist>

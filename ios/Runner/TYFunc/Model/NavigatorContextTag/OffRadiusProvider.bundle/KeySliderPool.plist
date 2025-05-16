@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDuration</key>
+	<string>uniformStateless</string>
+	<key>contractionMode</key>
+	<string>visibleAnalogy</string>
+	<key>currentNotifier</key>
+	<string>temporaryLoop</string>
+	<key>fixedSpot</key>
+	<string>navigatorformat</string>
+	<key>intermediateCaption</key>
+	<string>adjustChapter</string>
+	<key>mainTaxonomy</key>
+	<string>sustainableFinder</string>
+	<key>managertransparency</key>
+	<string>rebuildresponse</string>
+	<key>resolvemusic</key>
+	<string>provideUseCase</string>
+	<key>shouldEndInkWell</key>
+	<string>sessionInterval</string>
+</dict>
+</plist>

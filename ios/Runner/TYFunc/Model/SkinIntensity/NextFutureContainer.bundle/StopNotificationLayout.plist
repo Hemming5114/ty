@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveinkwell</key>
+	<string>cellFeedback</string>
+	<key>checkboxexceptlayer</key>
+	<string>cursorAppearance</string>
+	<key>functionalGate</key>
+	<string>criticalDescent</string>
+	<key>materialvelocity</key>
+	<string>scenePhase</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchordisclaimer</key>
+	<string>aggregateUtil</string>
+	<key>difficultDependency</key>
+	<string>sanitizeNavigator</string>
+	<key>intermediateThread</key>
+	<string>denseSubscription</string>
+	<key>preparetextfield</key>
+	<string>materializermargin</string>
+	<key>prismaticBuffer</key>
+	<string>uniformStore</string>
+	<key>shouldEncodeSemantics</key>
+	<string>canValidateSwift</string>
+	<key>unsortedTimeline</key>
+	<string>secondTangent</string>
+</dict>
+</plist>

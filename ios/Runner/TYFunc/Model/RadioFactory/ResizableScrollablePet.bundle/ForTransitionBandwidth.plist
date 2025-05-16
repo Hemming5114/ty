@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorPadding</key>
+	<string>controllerpolygon</string>
+	<key>criticalFeature</key>
+	<string>inflateQueue</string>
+	<key>inkwellKind</key>
+	<string>readListener</string>
+	<key>keyRichText</key>
+	<string>monsterDelay</string>
+	<key>mediaquerycluster</key>
+	<string>singleRemainder</string>
+	<key>modeluntilcommand</key>
+	<string>integerOffset</string>
+	<key>oldTrigger</key>
+	<string>multiBatch</string>
+	<key>responsetop</key>
+	<string>robustGram</string>
+	<key>shouldYieldExpanded</key>
+	<string>shouldLayoutBrush</string>
+</dict>
+</plist>

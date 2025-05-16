@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFeature</key>
+	<string>cycleMargin</string>
+	<key>checkboxMomentum</key>
+	<string>collectionLocation</string>
+	<key>diffableTransition</key>
+	<string>pinchableBase</string>
+	<key>disabledGrayscale</key>
+	<string>canEmitAnimatedContainer</string>
+	<key>resultorigin</key>
+	<string>precisionbrightness</string>
+</dict>
+</plist>

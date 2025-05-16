@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateAnalyzer</key>
+	<string>mobilePriority</string>
+	<key>keyspecifier</key>
+	<string>minSegment</string>
+	<key>originalConstant</key>
+	<string>clipStore</string>
+	<key>reactiveColumn</key>
+	<string>typicaleventduration</string>
+	<key>shouldUnbindSegue</key>
+	<string>declarativefragmentbrightness</string>
+</dict>
+</plist>

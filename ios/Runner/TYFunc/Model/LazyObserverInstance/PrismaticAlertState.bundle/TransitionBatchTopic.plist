@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentInteraction</key>
+	<string>semanticsmementostyle</string>
+	<key>dropdownbuttonDepth</key>
+	<string>canObserveHistogram</string>
+	<key>presenterInteraction</key>
+	<string>shouldRestartStoryboard</string>
+	<key>shouldFetchProfile</key>
+	<string>stopDecoration</string>
+	<key>shouldPresentRoute</key>
+	<string>interpolationuntilform</string>
+	<key>statefulframe</key>
+	<string>metadatabesideparam</string>
+	<key>subsequentSubscription</key>
+	<string>canMountedConsumer</string>
+	<key>uniformChannel</key>
+	<string>borderMemento</string>
+</dict>
+</plist>

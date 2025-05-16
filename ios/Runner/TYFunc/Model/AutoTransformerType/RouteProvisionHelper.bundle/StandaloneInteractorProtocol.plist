@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCaption</key>
+	<string>finishButton</string>
+	<key>advancedTolerance</key>
+	<string>overrideNavigator</string>
+	<key>cursorBrightness</key>
+	<string>loopPrototype</string>
+	<key>preparebutton</key>
+	<string>firstgram</string>
+	<key>primaryconstraint</key>
+	<string>independentLabel</string>
+	<key>temporaryPlayback</key>
+	<string>inheritedIsolate</string>
+	<key>volumePadding</key>
+	<string>pushWorkflow</string>
+</dict>
+</plist>

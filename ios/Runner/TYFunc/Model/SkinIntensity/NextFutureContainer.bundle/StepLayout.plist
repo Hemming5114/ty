@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticPicker</key>
+	<string>boxTag</string>
+	<key>featureTop</key>
+	<string>canListenSensor</string>
+	<key>grainBrightness</key>
+	<string>materialTier</string>
+	<key>numericalLoop</key>
+	<string>shouldContinueBorder</string>
+	<key>transformerLeft</key>
+	<string>curveMode</string>
+</dict>
+</plist>

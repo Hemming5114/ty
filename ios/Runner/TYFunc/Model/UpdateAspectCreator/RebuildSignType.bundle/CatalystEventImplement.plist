@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicVelocity</key>
+	<string>mediumSubscription</string>
+	<key>disabledStack</key>
+	<string>shouldProcessSine</string>
+	<key>elasticKernel</key>
+	<string>missedTweak</string>
+	<key>interpolationCoord</key>
+	<string>resumebuffer</string>
+	<key>litePopup</key>
+	<string>dispatchInstruction</string>
+	<key>optimizerpadding</key>
+	<string>sharedAccessory</string>
+	<key>permissiveresolver</key>
+	<string>canNotifyAspect</string>
+	<key>steplocation</key>
+	<string>receiverPosition</string>
+	<key>synchronousObject</key>
+	<string>latencyDistance</string>
+	<key>utilBehavior</key>
+	<string>concatenategrid</string>
+</dict>
+</plist>

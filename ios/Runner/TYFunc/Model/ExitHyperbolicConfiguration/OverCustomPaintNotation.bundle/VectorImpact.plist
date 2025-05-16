@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStatus</key>
+	<string>subtleslider</string>
+	<key>grayscaleSaturation</key>
+	<string>shouldRebuildCosine</string>
+	<key>originalLayer</key>
+	<string>asynchronousPresenter</string>
+	<key>taskOffset</key>
+	<string>canEncodeSymbol</string>
+	<key>taskmapper</key>
+	<string>statelessStrategy</string>
+	<key>tensorMechanism</key>
+	<string>widgetsincecycle</string>
+</dict>
+</plist>

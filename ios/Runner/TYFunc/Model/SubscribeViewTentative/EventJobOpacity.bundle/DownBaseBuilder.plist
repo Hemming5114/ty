@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoparticleinset</key>
+	<string>inheritedConverter</string>
+	<key>converterSpacing</key>
+	<string>declarativeCube</string>
+	<key>formatOffset</key>
+	<string>keepPadding</string>
+	<key>largeArchitecture</key>
+	<string>shouldParseTable</string>
+	<key>mediocreConsumer</key>
+	<string>groupRotation</string>
+	<key>shouldPersistButton</key>
+	<string>maxCache</string>
+	<key>unactivateddrawerleft</key>
+	<string>shouldValidateStoryboard</string>
+</dict>
+</plist>

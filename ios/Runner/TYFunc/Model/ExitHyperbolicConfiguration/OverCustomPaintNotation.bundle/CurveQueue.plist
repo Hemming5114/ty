@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDepth</key>
+	<string>revisitTexture</string>
+	<key>certificateagainststrategy</key>
+	<string>handleNorm</string>
+	<key>crudeMerger</key>
+	<string>draggableTextField</string>
+	<key>gridskewx</key>
+	<string>canDetachModal</string>
+	<key>inheritedAnimator</key>
+	<string>shouldMountText</string>
+	<key>linkerpressure</key>
+	<string>adaptiveManager</string>
+	<key>significantMenu</key>
+	<string>triggerBehavior</string>
+	<key>tweaktail</key>
+	<string>defaultmember</string>
+	<key>uniformResource</key>
+	<string>tappableLoop</string>
+</dict>
+</plist>

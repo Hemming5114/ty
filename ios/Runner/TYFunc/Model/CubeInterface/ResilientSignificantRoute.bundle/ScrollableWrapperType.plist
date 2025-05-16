@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSlider</key>
+	<string>retrieveTask</string>
+	<key>errorTransparency</key>
+	<string>permanenttextfeedback</string>
+	<key>propagateradio</key>
+	<string>respectiveThroughput</string>
+	<key>relationalFragment</key>
+	<string>playbackShade</string>
+	<key>routeShape</key>
+	<string>endAspect</string>
+	<key>scaleSaturation</key>
+	<string>subtleMenu</string>
+	<key>shouldLoadProfile</key>
+	<string>smartPageView</string>
+	<key>visibleBuilder</key>
+	<string>checkboxormode</string>
+</dict>
+</plist>

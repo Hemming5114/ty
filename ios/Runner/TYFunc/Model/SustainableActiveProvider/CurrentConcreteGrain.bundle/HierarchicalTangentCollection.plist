@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protocolalongsystem</key>
+	<string>drawerCoord</string>
+	<key>respectiveInfrastructure</key>
+	<string>explicitScenario</string>
+	<key>routeskewx</key>
+	<string>shouldShowMatrix</string>
+	<key>singleUtil</key>
+	<string>shouldcreatesizedbox</string>
+	<key>usageSpeed</key>
+	<string>directlyZone</string>
+</dict>
+</plist>

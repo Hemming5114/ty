@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionSaturation</key>
+	<string>lossProxy</string>
+	<key>localpolyfill</key>
+	<string>taskinsideenvironment</string>
+	<key>providerinsidecommand</key>
+	<string>materialMenu</string>
+	<key>referenceTransparency</key>
+	<string>shouldStopCurve</string>
+	<key>significantDecoration</key>
+	<string>defaultdocument</string>
+	<key>standaloneVolume</key>
+	<string>paintTask</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityRight</key>
+	<string>shouldYieldNib</string>
+	<key>amortizationSpacing</key>
+	<string>shouldMountedSensor</string>
+	<key>animationrect</key>
+	<string>batchDensity</string>
+	<key>delicateSprite</key>
+	<string>activateNode</string>
+	<key>featurealongform</key>
+	<string>layerBuffer</string>
+	<key>roletail</key>
+	<string>interactorworkkind</string>
+	<key>shouldAttachAppBar</key>
+	<string>liteInfo</string>
+	<key>shouldSetStateWidget</key>
+	<string>desktopAudio</string>
+	<key>sustainableCapacity</key>
+	<string>playbackinmediator</string>
+	<key>webmodule</key>
+	<string>decodelayout</string>
+</dict>
+</plist>

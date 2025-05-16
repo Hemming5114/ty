@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentstatepressure</key>
+	<string>canUnmountExtension</string>
+	<key>geometricButton</key>
+	<string>shouldUnbindBehavior</string>
+	<key>prevsigntheme</key>
+	<string>subsequentMediaQuery</string>
+	<key>resourceappearance</key>
+	<string>borderStyle</string>
+	<key>shouldLayoutMatrix</key>
+	<string>upgradeEntity</string>
+	<key>smallmobilelocation</key>
+	<string>actioncoord</string>
+</dict>
+</plist>

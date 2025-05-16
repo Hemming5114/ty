@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoobservertension</key>
+	<string>diversifiedTolerance</string>
+	<key>customizedtask</key>
+	<string>sizedboxLeft</string>
+	<key>elasticNode</key>
+	<string>shaderPosition</string>
+	<key>generateresult</key>
+	<string>statefulInformation</string>
+	<key>routeIndex</key>
+	<string>drawRect</string>
+	<key>sophisticatedLabel</key>
+	<string>configurationJob</string>
+	<key>visibleStore</key>
+	<string>discardeddescriptor</string>
+</dict>
+</plist>

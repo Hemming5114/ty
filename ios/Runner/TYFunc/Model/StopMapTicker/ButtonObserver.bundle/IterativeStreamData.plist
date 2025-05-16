@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStep</key>
+	<string>shouldrestartmodal</string>
+	<key>comprehensiveGrayscale</key>
+	<string>loadIcon</string>
+	<key>consultativeScene</key>
+	<string>canValidateDescriptor</string>
+	<key>enabledTrigger</key>
+	<string>canBuildSemantics</string>
+	<key>formatlabel</key>
+	<string>reusableHistogram</string>
+	<key>kernelCenter</key>
+	<string>cloneResource</string>
+	<key>lazyPoint</key>
+	<string>permanentAnalyzer</string>
+	<key>shouldEmitFragment</key>
+	<string>denseThread</string>
+	<key>transitiongridview</key>
+	<string>canInflatePlayback</string>
+	<key>tweakRotation</key>
+	<string>directSizedBox</string>
+</dict>
+</plist>

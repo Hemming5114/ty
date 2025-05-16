@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintDistance</key>
+	<string>resetFrame</string>
+	<key>iterativetransformer</key>
+	<string>ignoredsink</string>
+	<key>prismaticresource</key>
+	<string>requiredSubpixel</string>
+	<key>resilientPreview</key>
+	<string>tappableAnimatedContainer</string>
+	<key>shouldStartTask</key>
+	<string>intuitivePicker</string>
+	<key>symbolSkewY</key>
+	<string>logTemple</string>
+	<key>ternaryShape</key>
+	<string>restrictionVisibility</string>
+</dict>
+</plist>

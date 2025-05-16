@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticequivalent</key>
+	<string>loaderLeft</string>
+	<key>secondVertex</key>
+	<string>popRect</string>
+	<key>shouldEndTransition</key>
+	<string>copySink</string>
+	<key>stepborder</key>
+	<string>memberPlatform</string>
+</dict>
+</plist>

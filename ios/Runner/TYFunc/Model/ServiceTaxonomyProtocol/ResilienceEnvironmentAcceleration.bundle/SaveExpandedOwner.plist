@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerstructurerate</key>
+	<string>texturetheme</string>
+	<key>eagerPresenter</key>
+	<string>mountlistener</string>
+	<key>hierarchicalRect</key>
+	<string>optimizeanchor</string>
+	<key>polyfillInterval</key>
+	<string>bufferstatus</string>
+	<key>prismaticReceiver</key>
+	<string>deferredLabel</string>
+	<key>responsiveComposition</key>
+	<string>isolateValidation</string>
+	<key>scrollableElasticity</key>
+	<string>vertexTag</string>
+	<key>shouldUnbindCell</key>
+	<string>undertakePresenter</string>
+	<key>staticModulus</key>
+	<string>mitigateState</string>
+</dict>
+</plist>

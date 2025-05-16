@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDepth</key>
+	<string>canDetachDropdownButton</string>
+	<key>clipperTop</key>
+	<string>interactivecallback</string>
+	<key>dissociateclipper</key>
+	<string>compositionaldescent</string>
+	<key>eagerElement</key>
+	<string>statefulskewy</string>
+	<key>futureAppearance</key>
+	<string>immutableconverter</string>
+	<key>publicListView</key>
+	<string>retainedConverter</string>
+	<key>rowconfiguration</key>
+	<string>canPauseEqualization</string>
+	<key>streammode</key>
+	<string>showMenu</string>
+</dict>
+</plist>

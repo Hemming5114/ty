@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureState</key>
+	<string>onpositionedtap</string>
+	<key>baselinetransparency</key>
+	<string>responsiveInkWell</string>
+	<key>fetchallocator</key>
+	<string>embedInteractor</string>
+	<key>functionalDependency</key>
+	<string>advancedResilience</string>
+	<key>rebuildanimation</key>
+	<string>enabledPadding</string>
+	<key>symbolmend</key>
+	<string>drawEvent</string>
+</dict>
+</plist>

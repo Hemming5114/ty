@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMapper</key>
+	<string>shouldshowgridview</string>
+	<key>bufferRight</key>
+	<string>hashChain</string>
+	<key>fusedevent</key>
+	<string>elementFrequency</string>
+	<key>mobileScaffold</key>
+	<string>mapperColor</string>
+	<key>moduleBottom</key>
+	<string>tabbarBridge</string>
+	<key>shouldNavigateRadio</key>
+	<string>cancelProfile</string>
+	<key>standaloneComposition</key>
+	<string>controllerPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAlpha</key>
+	<string>semanticpopup</string>
+	<key>curvematrix</key>
+	<string>shouldProcessAppBar</string>
+	<key>priortransition</key>
+	<string>protectedContraction</string>
+	<key>reductionTransparency</key>
+	<string>behaviorSingleton</string>
+	<key>shouldPersistModulus</key>
+	<string>euclideanPainter</string>
+	<key>shouldPresentBase</key>
+	<string>currentAudio</string>
+	<key>shouldStartRoute</key>
+	<string>semanticslikeinterpreter</string>
+	<key>specifyMatrix</key>
+	<string>awaitdepth</string>
+	<key>subscriptionkindkind</key>
+	<string>smarttransformershade</string>
+	<key>texturesorter</key>
+	<string>hashdescription</string>
+</dict>
+</plist>

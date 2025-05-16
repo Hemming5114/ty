@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerColor</key>
+	<string>serializebaseline</string>
+	<key>cursorVisible</key>
+	<string>tickerRight</string>
+	<key>draggableFormat</key>
+	<string>draggableAsync</string>
+	<key>masteratadapter</key>
+	<string>statefulFeedback</string>
+	<key>offsetfromphase</key>
+	<string>exceptionComposite</string>
+	<key>viewOffset</key>
+	<string>dispatchBoxShadow</string>
+</dict>
+</plist>

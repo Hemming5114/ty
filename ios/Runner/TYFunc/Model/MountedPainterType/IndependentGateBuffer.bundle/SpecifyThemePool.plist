@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>poptween</key>
+	<string>resourceAction</string>
+	<key>semanticstierbrightness</key>
+	<string>deserializeDialogs</string>
+	<key>serviceenvironmentinset</key>
+	<string>materializeAwait</string>
+	<key>shouldValidateOption</key>
+	<string>transformtexture</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorformat</key>
+	<string>eagerreductionsaturation</string>
+	<key>elasticityflags</key>
+	<string>beginnerGraph</string>
+	<key>equalizationBehavior</key>
+	<string>listenStream</string>
+	<key>nativeCupertino</key>
+	<string>statefulLoader</string>
+	<key>permanentDecoration</key>
+	<string>provisionShape</string>
+	<key>synchronousmodel</key>
+	<string>concatenateStorage</string>
+	<key>transformslash</key>
+	<string>permissiveSkirt</string>
+</dict>
+</plist>

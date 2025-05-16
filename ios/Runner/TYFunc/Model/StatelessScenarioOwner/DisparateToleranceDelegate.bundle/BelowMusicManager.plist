@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudemenu</key>
+	<string>architectureSpacing</string>
+	<key>discardedtopic</key>
+	<string>canReplaceTextField</string>
+	<key>gestureForce</key>
+	<string>accessoryFrequency</string>
+	<key>newestLocalization</key>
+	<string>actionortier</string>
+	<key>normalCheckbox</key>
+	<string>enabledStep</string>
+	<key>otherProvision</key>
+	<string>shaderParam</string>
+	<key>spritecompositeflags</key>
+	<string>scalemediatortype</string>
+	<key>uniformChart</key>
+	<string>basicCompleter</string>
+</dict>
+</plist>

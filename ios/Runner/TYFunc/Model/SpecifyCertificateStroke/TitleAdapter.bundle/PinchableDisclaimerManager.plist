@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGroup</key>
+	<string>usedsliderleft</string>
+	<key>dimensionforce</key>
+	<string>accessorynumbershape</string>
+	<key>gridwithouttask</key>
+	<string>lazyResolver</string>
+	<key>largeSemantics</key>
+	<string>directlyConsumption</string>
+	<key>mediocretransformer</key>
+	<string>giftalignment</string>
+	<key>shouldBindChecklist</key>
+	<string>sensorSkewX</string>
+	<key>shouldReplaceScroll</key>
+	<string>normalservice</string>
+</dict>
+</plist>

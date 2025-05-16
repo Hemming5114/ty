@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachsession</key>
+	<string>pivotalProjection</string>
+	<key>concretetimer</key>
+	<string>canRestartMission</string>
+	<key>debugheap</key>
+	<string>shouldPauseDropdownButton</string>
+	<key>errorAppearance</key>
+	<string>canConnectMember</string>
+	<key>infoPadding</key>
+	<string>persistentRepository</string>
+	<key>operationLeft</key>
+	<string>shouldTransitionBatch</string>
+	<key>priorityHead</key>
+	<string>loaderBehavior</string>
+	<key>sinevisitorbehavior</key>
+	<string>combinerBorder</string>
+	<key>videoState</key>
+	<string>permissiveTransition</string>
+</dict>
+</plist>

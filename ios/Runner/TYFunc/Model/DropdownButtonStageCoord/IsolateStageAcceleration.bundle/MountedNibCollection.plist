@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureOffset</key>
+	<string>shouldNotifySkirt</string>
+	<key>asynchronousScreen</key>
+	<string>canYieldLayout</string>
+	<key>conformsubscription</key>
+	<string>challengeBound</string>
+	<key>ephemeralBox</key>
+	<string>resumeGift</string>
+	<key>localview</key>
+	<string>crucialInfrastructure</string>
+	<key>methodStatus</key>
+	<string>overlayContrast</string>
+	<key>oldGate</key>
+	<string>receiveDependency</string>
+	<key>oldIsolate</key>
+	<string>labelRight</string>
+	<key>restorepoint</key>
+	<string>intuitiveMethod</string>
+	<key>spotMargin</key>
+	<string>moveStore</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCoord</key>
+	<string>canRestartSpot</string>
+	<key>decorationSkewY</key>
+	<string>mobileBuffer</string>
+	<key>immutableNorm</key>
+	<string>publishHero</string>
+	<key>navigationthroughcommand</key>
+	<string>canTransitionProjection</string>
+	<key>operationBottom</key>
+	<string>interpolationTop</string>
+	<key>previewhue</key>
+	<string>canRebuildGesture</string>
+	<key>sceneForce</key>
+	<string>smalltweak</string>
+	<key>shaderbehavior</key>
+	<string>compositionposition</string>
+	<key>smartInformation</key>
+	<string>canSetStateDialogs</string>
+</dict>
+</plist>

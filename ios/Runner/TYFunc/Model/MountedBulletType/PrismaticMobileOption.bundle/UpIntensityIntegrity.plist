@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedModule</key>
+	<string>graphAppearance</string>
+	<key>alertTheme</key>
+	<string>reactiveoperation</string>
+	<key>cubitStatus</key>
+	<string>compositionalRange</string>
+	<key>currentActivity</key>
+	<string>canTransformNib</string>
+	<key>factoryPosition</key>
+	<string>titleComposite</string>
+	<key>opaqueBinder</key>
+	<string>composableConsumer</string>
+	<key>schemaCount</key>
+	<string>transpileInteractor</string>
+	<key>secondMember</key>
+	<string>presentRow</string>
+	<key>signaturespacing</key>
+	<string>notifyTernary</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicDrawer</key>
+	<string>primaryText</string>
+	<key>formatvisible</key>
+	<string>replaceReference</string>
+	<key>lastPolyfill</key>
+	<string>diffableBinary</string>
+	<key>navigatebitrate</key>
+	<string>skinDistance</string>
+	<key>projectionusecase</key>
+	<string>lastQuaternion</string>
+	<key>reactiveShader</key>
+	<string>signinterpreteropacity</string>
+	<key>requiredComposition</key>
+	<string>resourcethanchain</string>
+	<key>shouldProcessPadding</key>
+	<string>materialBullet</string>
+</dict>
+</plist>

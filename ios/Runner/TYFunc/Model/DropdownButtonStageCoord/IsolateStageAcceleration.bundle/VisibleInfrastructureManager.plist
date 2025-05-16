@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeMovement</key>
+	<string>shouldhandleworkflow</string>
+	<key>parallelTask</key>
+	<string>keyView</string>
+	<key>sharedmetadata</key>
+	<string>consumershapetag</string>
+	<key>shouldPopFuture</key>
+	<string>nextCell</string>
+</dict>
+</plist>

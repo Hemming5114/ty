@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCache</key>
+	<string>canRebuildStateful</string>
+	<key>selectedDialogs</key>
+	<string>declarativeClipper</string>
+	<key>sophisticatedNavigator</key>
+	<string>grainChain</string>
+</dict>
+</plist>

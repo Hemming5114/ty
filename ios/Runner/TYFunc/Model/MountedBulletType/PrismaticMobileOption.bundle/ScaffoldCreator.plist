@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSizedBox</key>
+	<string>spotinteractor</string>
+	<key>directlyMaterial</key>
+	<string>ignoredAccessory</string>
+	<key>inactiveData</key>
+	<string>composableAwait</string>
+	<key>mainLoss</key>
+	<string>canMountScale</string>
+</dict>
+</plist>

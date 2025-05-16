@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTime</key>
+	<string>positionedjoiner</string>
+	<key>fusedSwitch</key>
+	<string>firstMap</string>
+	<key>interactiveChart</key>
+	<string>hardScroller</string>
+	<key>pushcaption</key>
+	<string>displayableCoordinator</string>
+	<key>robustSpot</key>
+	<string>canDetachObserver</string>
+	<key>scrollerTension</key>
+	<string>visibleCallback</string>
+	<key>smartInterface</key>
+	<string>transitionreceiver</string>
+</dict>
+</plist>

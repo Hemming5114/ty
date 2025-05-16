@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAmortization</key>
+	<string>computeUtil</string>
+	<key>frameMargin</key>
+	<string>animateComposition</string>
+	<key>nextTrigger</key>
+	<string>resourceInterval</string>
+	<key>protectedslider</key>
+	<string>projectionstrategytheme</string>
+	<key>respectiveLoss</key>
+	<string>unbindOperation</string>
+	<key>sceneactivityappearance</key>
+	<string>positionedInteraction</string>
+	<key>symbolstyle</key>
+	<string>shouldEmitNib</string>
+	<key>usedGrain</key>
+	<string>loopTag</string>
+</dict>
+</plist>

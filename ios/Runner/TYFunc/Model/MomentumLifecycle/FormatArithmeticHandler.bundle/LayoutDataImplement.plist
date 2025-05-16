@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasacceleration</key>
+	<string>missedwidget</string>
+	<key>crudeHero</key>
+	<string>evolutionContrast</string>
+	<key>difficultSpine</key>
+	<string>entityPattern</string>
+	<key>missedInterface</key>
+	<string>sizecolor</string>
+	<key>missedLocalization</key>
+	<string>asynchronousnotification</string>
+	<key>shouldSaveProfile</key>
+	<string>symbolScope</string>
+	<key>shouldTransitionProvider</key>
+	<string>persistentMobile</string>
+	<key>shouldunmountreference</key>
+	<string>entityfilter</string>
+	<key>tensorMetadata</key>
+	<string>mountedGram</string>
+	<key>usedSize</key>
+	<string>significantAppBar</string>
+</dict>
+</plist>

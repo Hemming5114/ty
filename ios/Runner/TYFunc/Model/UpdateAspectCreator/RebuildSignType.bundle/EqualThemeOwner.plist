@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChannels</key>
+	<string>responsiveCycle</string>
+	<key>concurrentBuilder</key>
+	<string>canShowSkin</string>
+	<key>inactiveRole</key>
+	<string>mediumTexture</string>
+	<key>initializeswift</key>
+	<string>localNib</string>
+	<key>priorArchitecture</key>
+	<string>processorCoord</string>
+	<key>reusableCubit</key>
+	<string>tensorPromise</string>
+	<key>sequentialSwift</key>
+	<string>canPresentEntropy</string>
+	<key>singleDetector</key>
+	<string>shouldEmitSegment</string>
+	<key>uniformCollection</key>
+	<string>contractionVisitor</string>
+</dict>
+</plist>

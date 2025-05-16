@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateskirtflags</key>
+	<string>handlerHue</string>
+	<key>layoutprovision</key>
+	<string>skipHistogram</string>
+	<key>pivotalzonespacing</key>
+	<string>mapperState</string>
+	<key>shouldPushPlayback</key>
+	<string>bandwidthshade</string>
+	<key>shouldTransformAccessory</key>
+	<string>blocDensity</string>
+	<key>sustainableMetadata</key>
+	<string>liteColor</string>
+	<key>ternarymode</key>
+	<string>profileResource</string>
+</dict>
+</plist>

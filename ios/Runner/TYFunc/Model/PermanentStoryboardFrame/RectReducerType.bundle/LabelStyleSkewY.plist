@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>choosertag</key>
+	<string>cubeSkewY</string>
+	<key>directTimer</key>
+	<string>shouldResumeEquipment</string>
+	<key>largeSensor</key>
+	<string>configurationBottom</string>
+	<key>remainderRotation</key>
+	<string>activitySaturation</string>
+	<key>shouldkeepcomposition</key>
+	<string>shouldTransformAxis</string>
+	<key>sinechannel</key>
+	<string>shouldFinishOverlay</string>
+	<key>stateSkewY</key>
+	<string>notifierKind</string>
+	<key>temporaryElasticity</key>
+	<string>sophisticatedpet</string>
+</dict>
+</plist>

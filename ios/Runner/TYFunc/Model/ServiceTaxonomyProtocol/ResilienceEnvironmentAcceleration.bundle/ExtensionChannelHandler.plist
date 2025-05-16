@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveBoxShadow</key>
+	<string>interactiveCupertino</string>
+	<key>denseContainer</key>
+	<string>shoulddeserializetheme</string>
+	<key>dismisscontroller</key>
+	<string>basicInfrastructure</string>
+	<key>gemtransition</key>
+	<string>delicateStorage</string>
+	<key>giftwithoutmode</key>
+	<string>displayableCompletion</string>
+	<key>independentDocument</key>
+	<string>canFetchGate</string>
+	<key>painterobserverbound</key>
+	<string>canResumeTouch</string>
+	<key>shouldFormatAccessory</key>
+	<string>replaceFeature</string>
+	<key>shouldbindcolumn</key>
+	<string>pauseMomentum</string>
+	<key>staticMap</key>
+	<string>swiftHead</string>
+</dict>
+</plist>

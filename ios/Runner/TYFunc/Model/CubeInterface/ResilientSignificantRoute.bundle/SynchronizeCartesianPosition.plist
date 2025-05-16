@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeconsumption</key>
+	<string>activityResponse</string>
+	<key>discardedBandwidth</key>
+	<string>defaultnavigation</string>
+	<key>factorySpacing</key>
+	<string>obtainDecoration</string>
+	<key>operationOrigin</key>
+	<string>multiDropdownButton</string>
+	<key>resourceDuration</key>
+	<string>graphEnvironment</string>
+	<key>scopeSize</key>
+	<string>shouldDetachExponent</string>
+</dict>
+</plist>

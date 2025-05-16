@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infoKind</key>
+	<string>zoneAcceleration</string>
+	<key>largeDrawer</key>
+	<string>normalRecursion</string>
+	<key>materialTool</key>
+	<string>activatedNavigator</string>
+	<key>trianglesLocation</key>
+	<string>factoryAcceleration</string>
+</dict>
+</plist>

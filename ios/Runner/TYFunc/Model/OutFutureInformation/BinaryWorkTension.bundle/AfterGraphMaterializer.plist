@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitDuration</key>
+	<string>scrollerTheme</string>
+	<key>concurrentRadio</key>
+	<string>techniqueStrategy</string>
+	<key>documentInteraction</key>
+	<string>setstateTechnique</string>
+	<key>intuitiveDialogs</key>
+	<string>shouldParseDescriptor</string>
+	<key>onsemanticstap</key>
+	<string>richtextconstraint</string>
+	<key>shouldRouteBrush</key>
+	<string>blocPattern</string>
+	<key>tappableProvider</key>
+	<string>bitrateFramework</string>
+</dict>
+</plist>

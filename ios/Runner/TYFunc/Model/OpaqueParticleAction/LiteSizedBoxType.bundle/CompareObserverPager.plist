@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeinsidepattern</key>
+	<string>sequentialEffect</string>
+	<key>collectionLeft</key>
+	<string>cleanradius</string>
+	<key>customResponse</key>
+	<string>ignoredsensorcolor</string>
+	<key>draggableEmitter</key>
+	<string>maxUnary</string>
+	<key>enabledMonster</key>
+	<string>yieldBloc</string>
+	<key>groupDistance</key>
+	<string>expandedStatus</string>
+	<key>scrollBottom</key>
+	<string>mediumTransformer</string>
+	<key>significantState</key>
+	<string>shouldCacheBehavior</string>
+	<key>unactivatedHandler</key>
+	<string>animateBoxShadow</string>
+</dict>
+</plist>

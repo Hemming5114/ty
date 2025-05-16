@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAlignment</key>
+	<string>statefulHistogram</string>
+	<key>discardedScheduler</key>
+	<string>bindSemantics</string>
+	<key>joinercontrast</key>
+	<string>activatedStorage</string>
+	<key>optimizerDuration</key>
+	<string>benchmarkInterface</string>
+	<key>resilientSegment</key>
+	<string>associateBuilder</string>
+	<key>stackOrigin</key>
+	<string>promiseOrientation</string>
+</dict>
+</plist>

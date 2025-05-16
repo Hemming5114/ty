@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autogradient</key>
+	<string>shouldRoutePainter</string>
+	<key>custompaintStatus</key>
+	<string>accessiblePresenter</string>
+	<key>invisibleEquivalent</key>
+	<string>shouldListenSlash</string>
+	<key>lostStroke</key>
+	<string>quitPresenter</string>
+	<key>mainTransition</key>
+	<string>interceptDelegate</string>
+	<key>priorExtension</key>
+	<string>immediateextensionhue</string>
+	<key>requiredMesh</key>
+	<string>pivotalGrid</string>
+</dict>
+</plist>

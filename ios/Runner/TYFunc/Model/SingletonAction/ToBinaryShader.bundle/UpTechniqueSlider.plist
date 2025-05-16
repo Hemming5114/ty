@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDensity</key>
+	<string>selectedCapsule</string>
+	<key>currentpopupskewx</key>
+	<string>activatedRepository</string>
+	<key>explicitRepository</key>
+	<string>unlockcapsule</string>
+	<key>functionalBatch</key>
+	<string>observerShade</string>
+	<key>ignoredSpine</key>
+	<string>unregistertransition</string>
+	<key>momentumlabel</key>
+	<string>slashmatrix</string>
+	<key>rapidExpanded</key>
+	<string>indicatorinteraction</string>
+	<key>shouldunmounttextfield</key>
+	<string>actionVelocity</string>
+	<key>textfieldcompositetension</key>
+	<string>logInterpreter</string>
+</dict>
+</plist>

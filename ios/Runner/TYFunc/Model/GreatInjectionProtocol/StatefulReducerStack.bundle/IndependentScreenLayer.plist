@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>optimizesingleton</key>
+	<string>shouldEncodeSample</string>
+	<key>responseRight</key>
+	<string>canEndActivity</string>
+	<key>scrollableCycle</key>
+	<string>modalScale</string>
+	<key>shouldsubscribeternary</key>
+	<string>texturevisible</string>
+	<key>transpileslider</key>
+	<string>sortedGridView</string>
+</dict>
+</plist>

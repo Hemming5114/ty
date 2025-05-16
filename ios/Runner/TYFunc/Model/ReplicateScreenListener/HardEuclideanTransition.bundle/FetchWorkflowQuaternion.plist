@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultaspect</key>
+	<string>hyperbolicTriangles</string>
+	<key>disabledRadio</key>
+	<string>encapsulateProgressBar</string>
+	<key>flexibleDrawer</key>
+	<string>resourcelifecycle</string>
+	<key>lastMedia</key>
+	<string>presenterSaturation</string>
+	<key>liteReduction</key>
+	<string>iconContext</string>
+	<key>signorkind</key>
+	<string>featurePadding</string>
+	<key>singleTransformer</key>
+	<string>accordionrowdirection</string>
+	<key>streamduration</key>
+	<string>newestAspect</string>
+	<key>swiftSize</key>
+	<string>canSerializeSubpixel</string>
+</dict>
+</plist>

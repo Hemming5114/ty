@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedExpanded</key>
+	<string>statefulAlert</string>
+	<key>emitsubpixel</key>
+	<string>discardedQueue</string>
+	<key>hyperbolicZone</key>
+	<string>projectionType</string>
+	<key>momentumwidget</key>
+	<string>baseScale</string>
+	<key>shouldFetchStream</key>
+	<string>canDisposeExpanded</string>
+</dict>
+</plist>

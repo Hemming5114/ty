@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedscaffoldrate</key>
+	<string>canSkipPrecision</string>
+	<key>defaultunary</key>
+	<string>positionedFacade</string>
+	<key>modallevelpressure</key>
+	<string>priorProvision</string>
+	<key>movementtentative</key>
+	<string>symmetricMember</string>
+	<key>rapidBandwidth</key>
+	<string>signMargin</string>
+	<key>shouldDeserializeStamp</key>
+	<string>explicitOffset</string>
+	<key>shouldyieldmodal</key>
+	<string>standaloneUtil</string>
+	<key>subscriberMargin</key>
+	<string>pinchableCard</string>
+	<key>unsortedframe</key>
+	<string>significantEmitter</string>
+</dict>
+</plist>

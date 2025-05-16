@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioKind</key>
+	<string>sinkBridge</string>
+	<key>compositionalRequest</key>
+	<string>webMediaQuery</string>
+	<key>currentIntegrity</key>
+	<string>grayscaleCommand</string>
+	<key>delegateAlignment</key>
+	<string>disclaimerorientation</string>
+	<key>disabledHistogram</key>
+	<string>seamlessTolerance</string>
+	<key>otherTangent</key>
+	<string>prismaticCompletion</string>
+	<key>priorException</key>
+	<string>shouldEndFragment</string>
+	<key>reusableEvolution</key>
+	<string>publicPlate</string>
+	<key>standalonebuttonforce</key>
+	<string>persistmap</string>
+	<key>visiblePageView</key>
+	<string>providerorigin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerException</key>
+	<string>cubitCount</string>
+	<key>euclideanPublisher</key>
+	<string>shouldPushAlpha</string>
+	<key>responsiveTabBar</key>
+	<string>adaptiveMetadata</string>
+	<key>sampleloop</key>
+	<string>notifyTabBar</string>
+	<key>shouldMountExpanded</key>
+	<string>cycleprovision</string>
+	<key>statefulAnalogy</key>
+	<string>profileTimer</string>
+	<key>staticNavigator</key>
+	<string>hierarchicalQuaternion</string>
+	<key>zoneinstyle</key>
+	<string>autoCheckbox</string>
+</dict>
+</plist>

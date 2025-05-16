@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAcceleration</key>
+	<string>detachZone</string>
+	<key>fusedIntegration</key>
+	<string>stateduration</string>
+	<key>managerrate</key>
+	<string>disparatesubscriptiondistance</string>
+	<key>routertransparency</key>
+	<string>orchestrateTopic</string>
+	<key>scenarioRotation</key>
+	<string>defaultStack</string>
+</dict>
+</plist>

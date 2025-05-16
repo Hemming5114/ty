@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramtag</key>
+	<string>discardedOverlay</string>
+	<key>hasmonster</key>
+	<string>canEncodeInterpolation</string>
+	<key>hierarchicalInkWell</key>
+	<string>opaqueTimer</string>
+	<key>ignoredElement</key>
+	<string>sizedecoratorbehavior</string>
+	<key>permanentPreview</key>
+	<string>canSetStateTool</string>
+	<key>titleContrast</key>
+	<string>uniformRectangle</string>
+</dict>
+</plist>

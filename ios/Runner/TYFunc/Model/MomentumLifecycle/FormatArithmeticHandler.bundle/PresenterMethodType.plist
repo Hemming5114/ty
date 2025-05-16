@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioDistance</key>
+	<string>beginnerMusic</string>
+	<key>fixedchartright</key>
+	<string>pivotalDrawer</string>
+	<key>inactiveplatebound</key>
+	<string>gateCenter</string>
+	<key>permanentlayervisibility</key>
+	<string>shouldCacheSwift</string>
+	<key>sorterAppearance</key>
+	<string>rectangleCount</string>
+	<key>staticloglocation</key>
+	<string>enhanceSlider</string>
+</dict>
+</plist>

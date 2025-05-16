@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDescent</key>
+	<string>shouldTrainButton</string>
+	<key>disabledResolver</key>
+	<string>channelnumberhead</string>
+	<key>dynamicModule</key>
+	<string>secondQueue</string>
+	<key>optionInteraction</key>
+	<string>hardMetrics</string>
+	<key>otherAlpha</key>
+	<string>granularSwift</string>
+	<key>subscribebehavior</key>
+	<string>shouldInflatePoint</string>
+	<key>subscriberCount</key>
+	<string>cleanTexture</string>
+</dict>
+</plist>

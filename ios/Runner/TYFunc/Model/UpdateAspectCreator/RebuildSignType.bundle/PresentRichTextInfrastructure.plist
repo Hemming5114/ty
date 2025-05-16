@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDensity</key>
+	<string>utilState</string>
+	<key>formatprojection</key>
+	<string>lazyBaseline</string>
+	<key>holdstore</key>
+	<string>replaceBuffer</string>
+	<key>routealignment</key>
+	<string>similarItem</string>
+	<key>sharedModal</key>
+	<string>lifecyclelocation</string>
+	<key>staticCallback</key>
+	<string>handlerContext</string>
+	<key>textRotation</key>
+	<string>isClipper</string>
+	<key>usecaseDuration</key>
+	<string>descriptionPlatform</string>
+</dict>
+</plist>

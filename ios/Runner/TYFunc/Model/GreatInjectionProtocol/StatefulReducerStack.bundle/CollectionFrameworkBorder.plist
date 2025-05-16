@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularContrast</key>
+	<string>reusablequeue</string>
+	<key>immutablebuilderinteraction</key>
+	<string>priorSubpixel</string>
+	<key>retainedcell</key>
+	<string>configurationScale</string>
+	<key>shouldPaintPromise</key>
+	<string>coordinatorFeedback</string>
+	<key>shouldSetStateLayout</key>
+	<string>loopFramework</string>
+	<key>shouldStartCompletion</key>
+	<string>timerJob</string>
+	<key>substantialDecoration</key>
+	<string>impactDelay</string>
+</dict>
+</plist>

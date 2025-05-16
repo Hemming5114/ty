@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupmomentum</key>
+	<string>flexibleAnimatedContainer</string>
+	<key>hierarchicalScroller</key>
+	<string>customizedDescent</string>
+	<key>keyMomentum</key>
+	<string>skipImage</string>
+	<key>notifierSize</key>
+	<string>bindtopic</string>
+	<key>painterproxyappearance</key>
+	<string>directCache</string>
+	<key>popupFlags</key>
+	<string>mechanismStatus</string>
+	<key>radiuspainter</key>
+	<string>keyLatency</string>
+	<key>shouldCacheMap</key>
+	<string>draggableBatch</string>
+	<key>similarPrecision</key>
+	<string>elasticityState</string>
+	<key>taskTheme</key>
+	<string>baselineAction</string>
+</dict>
+</plist>

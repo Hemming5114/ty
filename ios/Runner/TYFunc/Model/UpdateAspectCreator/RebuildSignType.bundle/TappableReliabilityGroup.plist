@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorcolor</key>
+	<string>gestureopacity</string>
+	<key>autoReplica</key>
+	<string>draggableProject</string>
+	<key>composableResponder</key>
+	<string>injectPresenter</string>
+	<key>directStatus</key>
+	<string>inflateConsumer</string>
+	<key>entitylikephase</key>
+	<string>canPauseListView</string>
+	<key>immutableGrayscale</key>
+	<string>sensorexceptmethod</string>
+	<key>sortedSprite</key>
+	<string>graphRate</string>
+	<key>vectordelivery</key>
+	<string>pausePet</string>
+</dict>
+</plist>

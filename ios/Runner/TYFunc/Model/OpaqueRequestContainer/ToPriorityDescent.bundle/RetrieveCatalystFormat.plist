@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateScale</key>
+	<string>canAttachBinary</string>
+	<key>deliveryDepth</key>
+	<string>sequentialCustomPaint</string>
+	<key>firstAllocator</key>
+	<string>synchronousActivity</string>
+	<key>globalAppBar</key>
+	<string>subpixelalignment</string>
+	<key>immediateQueue</key>
+	<string>variantColor</string>
+	<key>localColor</key>
+	<string>cacheTier</string>
+	<key>priorityoffset</key>
+	<string>renderBatch</string>
+	<key>respectiveMobile</key>
+	<string>labelAction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSlider</key>
+	<string>exitReducer</string>
+	<key>dynamicPolygon</key>
+	<string>annotateStorage</string>
+	<key>enabledslider</key>
+	<string>analyzerCoord</string>
+	<key>mainHash</key>
+	<string>iterativeCatalyst</string>
+	<key>paddingPosition</key>
+	<string>uniqueRect</string>
+	<key>progressbarperchain</key>
+	<string>sortedRoute</string>
+	<key>selectedGridView</key>
+	<string>shouldLayoutModal</string>
+	<key>sortedContainer</key>
+	<string>mountChallenge</string>
+	<key>sorterBottom</key>
+	<string>remainderSaturation</string>
+	<key>visiblePlate</key>
+	<string>enabledVector</string>
+</dict>
+</plist>

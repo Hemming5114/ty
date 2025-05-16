@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTopic</key>
+	<string>offsetTask</string>
+	<key>effectDensity</key>
+	<string>diffableInteractor</string>
+	<key>oldEquipment</key>
+	<string>pinchableScope</string>
+	<key>overlayresponse</key>
+	<string>crucialMetadata</string>
+	<key>prevHeap</key>
+	<string>activatedProjection</string>
+	<key>requiredBatch</key>
+	<string>baselineSaturation</string>
+	<key>selectedcupertino</key>
+	<string>strengthHead</string>
+</dict>
+</plist>

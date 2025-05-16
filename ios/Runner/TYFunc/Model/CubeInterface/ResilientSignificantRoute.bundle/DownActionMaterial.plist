@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentprecision</key>
+	<string>autoCache</string>
+	<key>encodezone</key>
+	<string>numericalStatus</string>
+	<key>fragmentsVisible</key>
+	<string>standaloneConfidentiality</string>
+	<key>frameMargin</key>
+	<string>navigateQueue</string>
+	<key>lastBuilder</key>
+	<string>ignoredManager</string>
+	<key>particlebehavior</key>
+	<string>custompaintEdge</string>
+	<key>persistentdecorationskewx</key>
+	<string>semanticProcessor</string>
+	<key>sophisticatedRemediation</key>
+	<string>fetchsemantics</string>
+</dict>
+</plist>

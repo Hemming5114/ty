@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationorientation</key>
+	<string>imagealignment</string>
+	<key>diffableLinker</key>
+	<string>paddingFramework</string>
+	<key>hierarchicalFragments</key>
+	<string>reductionVisitor</string>
+	<key>robustCurve</key>
+	<string>eagerEmitter</string>
+	<key>shouldFetchAspectRatio</key>
+	<string>diversifiedAccessory</string>
+	<key>widgetforce</key>
+	<string>screenScope</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeTernary</key>
+	<string>upgradeChannel</string>
+	<key>inheritedspriteedge</key>
+	<string>shouldPopDescriptor</string>
+	<key>notificationcallback</key>
+	<string>giftbutton</string>
+	<key>reliabilityFlags</key>
+	<string>crudeMerger</string>
+	<key>shouldProcessCursor</key>
+	<string>disabledUtil</string>
+	<key>statelessProvision</key>
+	<string>touchprovider</string>
+	<key>variantRight</key>
+	<string>aspectCoord</string>
+</dict>
+</plist>

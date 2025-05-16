@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedEquipment</key>
+	<string>accessibleelasticity</string>
+	<key>desktopLayer</key>
+	<string>hasusage</string>
+	<key>desktopPermutation</key>
+	<string>modalCommand</string>
+	<key>momentumType</key>
+	<string>gridBottom</string>
+	<key>multiAnchor</key>
+	<string>uniformState</string>
+	<key>shouldendtable</key>
+	<string>canBuildSwitch</string>
+	<key>upgradeactivity</key>
+	<string>controllerLeft</string>
+</dict>
+</plist>

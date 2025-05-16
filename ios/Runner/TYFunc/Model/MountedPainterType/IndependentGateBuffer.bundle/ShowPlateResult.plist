@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistDuration</key>
+	<string>deactivateConstraint</string>
+	<key>independentPlate</key>
+	<string>criticalPoint</string>
+	<key>integerstatus</key>
+	<string>retainedchecklist</string>
+	<key>largeOptimizer</key>
+	<string>accessoryMediator</string>
+	<key>navigatorbesidetype</key>
+	<string>animatestateful</string>
+	<key>shouldStopModulus</key>
+	<string>hasNavigation</string>
+	<key>standaloneLayer</key>
+	<string>releaseUtil</string>
+	<key>statelessLoader</key>
+	<string>shouldBindConstraint</string>
+	<key>threadreplica</key>
+	<string>mainSlider</string>
+</dict>
+</plist>

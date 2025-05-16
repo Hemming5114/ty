@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDepth</key>
+	<string>mediumSubpixel</string>
+	<key>chapterawayvar</key>
+	<string>shouldUpdatePoint</string>
+	<key>flexibleWidget</key>
+	<string>reusableSearcher</string>
+	<key>functionalPriority</key>
+	<string>canRebuildNib</string>
+	<key>globalSensor</key>
+	<string>thresholdVisible</string>
+	<key>intermediatetriangles</key>
+	<string>canSaveGift</string>
+	<key>permanentGem</key>
+	<string>shouldHandleClipper</string>
+	<key>roleOrientation</key>
+	<string>optimizerHue</string>
+	<key>singletonflags</key>
+	<string>segmentPlatform</string>
+</dict>
+</plist>

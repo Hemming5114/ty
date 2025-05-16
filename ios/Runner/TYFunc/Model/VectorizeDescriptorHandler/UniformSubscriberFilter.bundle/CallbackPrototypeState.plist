@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOffset</key>
+	<string>updategem</string>
+	<key>ephemeralLatency</key>
+	<string>autoallocatoropacity</string>
+	<key>lostCustomPaint</key>
+	<string>shouldNavigateBoxShadow</string>
+	<key>optionobserver</key>
+	<string>routeBase</string>
+	<key>shouldCreateMedia</key>
+	<string>substantialobserver</string>
+	<key>textureName</key>
+	<string>syncService</string>
+	<key>uniquePublisher</key>
+	<string>pushListener</string>
+</dict>
+</plist>

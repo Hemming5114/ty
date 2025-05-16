@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSegue</key>
+	<string>shouldFormatAlert</string>
+	<key>kernelValidation</key>
+	<string>methodMode</string>
+	<key>lazyService</key>
+	<string>diffableAnalyzer</string>
+	<key>materialcurvedirection</key>
+	<string>seamlessTitle</string>
+	<key>meshBehavior</key>
+	<string>displayableEntity</string>
+	<key>shouldFetchCustomPaint</key>
+	<string>masteroffset</string>
+	<key>streamBrightness</key>
+	<string>widgetIndex</string>
+	<key>subscriptionBorder</key>
+	<string>denseContraction</string>
+</dict>
+</plist>

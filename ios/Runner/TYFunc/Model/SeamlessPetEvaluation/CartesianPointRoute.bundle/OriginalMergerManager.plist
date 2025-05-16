@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPolyfill</key>
+	<string>onprecisiontap</string>
+	<key>lossskewy</key>
+	<string>sinkFrequency</string>
+	<key>optimizerversuslevel</key>
+	<string>pushalignment</string>
+	<key>polygonDensity</key>
+	<string>isTernary</string>
+	<key>strokeedge</key>
+	<string>routeSlash</string>
+</dict>
+</plist>

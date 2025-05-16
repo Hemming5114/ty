@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCard</key>
+	<string>responsivedrawerpadding</string>
+	<key>eagerUsage</key>
+	<string>canDismissTransition</string>
+	<key>inactiveaudio</key>
+	<string>stateinset</string>
+	<key>polygonBehavior</key>
+	<string>segmentSpeed</string>
+	<key>shouldDetachPadding</key>
+	<string>clipUseCase</string>
+	<key>shouldDisposeCertificate</key>
+	<string>effectCount</string>
+	<key>shouldSubscribeScale</key>
+	<string>appendchart</string>
+	<key>shoulddecodedescriptor</key>
+	<string>unmarshalProvider</string>
+	<key>shouldparsedimension</key>
+	<string>dropdownbuttonTemple</string>
+</dict>
+</plist>

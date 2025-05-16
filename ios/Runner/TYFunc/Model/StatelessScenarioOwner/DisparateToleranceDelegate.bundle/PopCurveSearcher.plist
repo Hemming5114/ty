@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioMargin</key>
+	<string>effecthue</string>
+	<key>diversifiedTheme</key>
+	<string>pivotalGram</string>
+	<key>graphicalignment</key>
+	<string>semantictext</string>
+	<key>independentcombiner</key>
+	<string>canStreamCard</string>
+	<key>indicatorShade</key>
+	<string>sliderreceiver</string>
+	<key>missedEffect</key>
+	<string>criticalobject</string>
+	<key>nextBinary</key>
+	<string>shouldTransitionVariant</string>
+</dict>
+</plist>

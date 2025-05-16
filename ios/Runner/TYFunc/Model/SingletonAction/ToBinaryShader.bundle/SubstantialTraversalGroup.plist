@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalEmitter</key>
+	<string>rapidBorder</string>
+	<key>interactiveTentative</key>
+	<string>searcherContrast</string>
+	<key>iterativeobject</key>
+	<string>remainderSkewY</string>
+	<key>observerRight</key>
+	<string>shouldCreateMediaQuery</string>
+	<key>oldCycle</key>
+	<string>shouldResumeAppBar</string>
+	<key>sessionName</key>
+	<string>timelinesaturation</string>
+	<key>singlecoordinatorspeed</key>
+	<string>seamlessbuilder</string>
+</dict>
+</plist>

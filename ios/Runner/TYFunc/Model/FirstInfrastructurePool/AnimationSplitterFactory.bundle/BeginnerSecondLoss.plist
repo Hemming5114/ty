@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionduration</key>
+	<string>popCheckbox</string>
+	<key>coordinatorcluster</key>
+	<string>spineSpeed</string>
+	<key>immutableVector</key>
+	<string>standaloneDimension</string>
+	<key>inactivestateful</key>
+	<string>shouldDisposeHeap</string>
+	<key>listviewMargin</key>
+	<string>substantialsemantics</string>
+	<key>seamlessInformation</key>
+	<string>canDetachCertificate</string>
+	<key>shouldDisconnectWidget</key>
+	<string>backwardUsage</string>
+	<key>shouldInflateBase</key>
+	<string>fetchloop</string>
+	<key>similarSemantics</key>
+	<string>managerdensity</string>
+</dict>
+</plist>

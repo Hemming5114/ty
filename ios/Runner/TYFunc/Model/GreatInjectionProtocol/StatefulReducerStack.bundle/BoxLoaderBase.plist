@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFlags</key>
+	<string>repositoryOrientation</string>
+	<key>disparateTimeline</key>
+	<string>matrixformat</string>
+	<key>eagerNavigator</key>
+	<string>functionalslash</string>
+	<key>playbackLocation</key>
+	<string>saveCertificate</string>
+	<key>pushsensor</key>
+	<string>staticAppBar</string>
+</dict>
+</plist>

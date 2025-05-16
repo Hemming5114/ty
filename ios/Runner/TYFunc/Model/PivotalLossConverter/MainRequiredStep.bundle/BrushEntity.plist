@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryduringflyweight</key>
+	<string>synchronizeIsolate</string>
+	<key>beginnerRoute</key>
+	<string>eraseGraph</string>
+	<key>chartlikestyle</key>
+	<string>dropoutFactory</string>
+	<key>delegatedispatcher</key>
+	<string>shouldPresentImage</string>
+	<key>priorityrow</key>
+	<string>documentloop</string>
+	<key>shouldCacheBox</key>
+	<string>concretePadding</string>
+	<key>sizedboxbufferalignment</key>
+	<string>promiseCycle</string>
+	<key>toolduration</key>
+	<string>skinfactory</string>
+</dict>
+</plist>

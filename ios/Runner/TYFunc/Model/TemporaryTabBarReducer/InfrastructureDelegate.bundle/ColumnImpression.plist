@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardIcon</key>
+	<string>localizationVariable</string>
+	<key>confidentialityResponse</key>
+	<string>chartfacadesize</string>
+	<key>multiObject</key>
+	<string>shouldDismissRow</string>
+	<key>nativeMaster</key>
+	<string>observerComposite</string>
+	<key>sustainableTouch</key>
+	<string>shouldUnmountChannels</string>
+</dict>
+</plist>

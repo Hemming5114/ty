@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenthandler</key>
+	<string>sustainableSlider</string>
+	<key>dedicatedStateless</key>
+	<string>marshalchapter</string>
+	<key>keyAction</key>
+	<string>richtextrouter</string>
+	<key>unsortedGroup</key>
+	<string>compositionalAsset</string>
+</dict>
+</plist>

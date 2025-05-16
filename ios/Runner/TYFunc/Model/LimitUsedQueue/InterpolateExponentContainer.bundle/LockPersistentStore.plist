@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStyle</key>
+	<string>lossPattern</string>
+	<key>blocactivityinterval</key>
+	<string>convertContainer</string>
+	<key>immediateAnalogy</key>
+	<string>relationalInterface</string>
+	<key>inactivedecorationfeedback</key>
+	<string>customTransition</string>
+	<key>scrollableResource</key>
+	<string>buildsubpixel</string>
+	<key>techniqueState</key>
+	<string>canBindTernary</string>
+</dict>
+</plist>

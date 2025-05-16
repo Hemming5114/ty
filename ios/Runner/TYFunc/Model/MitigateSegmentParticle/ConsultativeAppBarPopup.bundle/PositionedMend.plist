@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulusSaturation</key>
+	<string>publishInkWell</string>
+	<key>schedulerTop</key>
+	<string>vertexAppearance</string>
+	<key>setstatematrix</key>
+	<string>unarymetadata</string>
+	<key>shouldTransitionPageView</key>
+	<string>canEmitModal</string>
+</dict>
+</plist>

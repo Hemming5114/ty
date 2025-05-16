@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTheme</key>
+	<string>arithmeticMaster</string>
+	<key>dropdownbuttonAppearance</key>
+	<string>completionContext</string>
+	<key>firstSink</key>
+	<string>repositoryvarcolor</string>
+	<key>interpolationAcceleration</key>
+	<string>sinkmomentum</string>
+	<key>publishzone</key>
+	<string>equalizationDelay</string>
+	<key>reactiveArchitecture</key>
+	<string>sharedIntensity</string>
+	<key>shouldSkipExponent</key>
+	<string>interpolateChannel</string>
+	<key>stackSkewX</key>
+	<string>itemCenter</string>
+</dict>
+</plist>

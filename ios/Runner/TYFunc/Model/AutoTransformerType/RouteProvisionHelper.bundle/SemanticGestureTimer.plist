@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorvelocity</key>
+	<string>visibleGem</string>
+	<key>gridTransparency</key>
+	<string>mediumTheme</string>
+	<key>newestInstruction</key>
+	<string>eagerPositioned</string>
+	<key>precisionAppearance</key>
+	<string>multiResponder</string>
+	<key>resourcePadding</key>
+	<string>respondLayout</string>
+	<key>unsortedbullet</key>
+	<string>euclideanTopic</string>
+	<key>vectorcluster</key>
+	<string>shouldListenSlider</string>
+</dict>
+</plist>

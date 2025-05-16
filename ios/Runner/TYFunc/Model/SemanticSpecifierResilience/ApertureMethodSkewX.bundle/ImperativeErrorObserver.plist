@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProfile</key>
+	<string>createOperation</string>
+	<key>logarithmnearprototype</key>
+	<string>spotInterval</string>
+	<key>mechanismPressure</key>
+	<string>trainModulus</string>
+	<key>scenebound</key>
+	<string>configureInteractor</string>
+	<key>semanticmetadata</key>
+	<string>toleranceinset</string>
+</dict>
+</plist>

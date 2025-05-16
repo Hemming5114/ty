@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricSkin</key>
+	<string>observerSize</string>
+	<key>hyperboliclogarithmbound</key>
+	<string>axisdepth</string>
+	<key>imageSpacing</key>
+	<string>brushOperation</string>
+	<key>otherDescriptor</key>
+	<string>hierarchicalInteger</string>
+	<key>persistentanalyzer</key>
+	<string>parallelThroughput</string>
+	<key>scaffoldopacity</key>
+	<string>loadTool</string>
+	<key>shouldPushMaterial</key>
+	<string>semanticCapacities</string>
+</dict>
+</plist>

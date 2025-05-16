@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablestackstate</key>
+	<string>certificateParam</string>
+	<key>permissiveSubpixel</key>
+	<string>wrapperShade</string>
+	<key>statefulFragment</key>
+	<string>zoneorigin</string>
+	<key>subsequentReplica</key>
+	<string>equalizationalongcontext</string>
+</dict>
+</plist>

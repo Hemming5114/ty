@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoEqualization</key>
+	<string>entropyLeft</string>
+	<key>functionalSizedBox</key>
+	<string>mediocreNavigator</string>
+	<key>iterativeRichText</key>
+	<string>workflowBridge</string>
+	<key>lazyCatalyst</key>
+	<string>lazyAnimatedContainer</string>
+	<key>shouldunmountbullet</key>
+	<string>ignoredParticle</string>
+	<key>singletonmodevisibility</key>
+	<string>oldAxis</string>
+	<key>topicBrightness</key>
+	<string>disabledwidgetcolor</string>
+</dict>
+</plist>

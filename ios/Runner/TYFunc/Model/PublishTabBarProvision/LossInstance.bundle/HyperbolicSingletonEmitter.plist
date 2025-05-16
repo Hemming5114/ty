@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateInjection</key>
+	<string>composableProgressBar</string>
+	<key>layoutcommandalignment</key>
+	<string>bindAlpha</string>
+	<key>nativeProfile</key>
+	<string>equalizationMemento</string>
+	<key>shouldInflateOverlay</key>
+	<string>shouldSerializePet</string>
+</dict>
+</plist>

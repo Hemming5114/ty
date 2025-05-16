@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>processortag</key>
+	<string>copyDependency</string>
+	<key>reducerstylemargin</key>
+	<string>eagerInteractor</string>
+	<key>singledelegatevisible</key>
+	<string>canPushStack</string>
+	<key>themeDensity</key>
+	<string>compositionalReceiver</string>
+	<key>zonedepth</key>
+	<string>pushCompletion</string>
+</dict>
+</plist>

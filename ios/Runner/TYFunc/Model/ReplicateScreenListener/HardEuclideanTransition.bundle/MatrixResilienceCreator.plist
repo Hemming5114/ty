@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawergrain</key>
+	<string>denseLoop</string>
+	<key>hasRemainder</key>
+	<string>mobileCommand</string>
+	<key>intuitiveChallenge</key>
+	<string>controllerincommand</string>
+	<key>iterativeScope</key>
+	<string>canCacheScroll</string>
+</dict>
+</plist>

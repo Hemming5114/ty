@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicRepository</key>
+	<string>resizableHandler</string>
+	<key>granularCustomPaint</key>
+	<string>granularCaption</string>
+	<key>granularStateful</key>
+	<string>symmetricSession</string>
+	<key>graphicdirection</key>
+	<string>batchIndex</string>
+	<key>lazyCluster</key>
+	<string>disposeClipper</string>
+	<key>optimizerInset</key>
+	<string>mutableTrigger</string>
+	<key>subscribecycle</key>
+	<string>comprehensiveHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveDialogs</key>
+	<string>navigatorspacing</string>
+	<key>controllerSpacing</key>
+	<string>reductionShape</string>
+	<key>disabledProvision</key>
+	<string>quitConstraint</string>
+	<key>infosize</key>
+	<string>projectionTier</string>
+	<key>repositorydescription</key>
+	<string>trainStateless</string>
+	<key>requiredsound</key>
+	<string>renderTask</string>
+	<key>responsiveAxis</key>
+	<string>canCreateAppBar</string>
+	<key>segueStyle</key>
+	<string>delicateElement</string>
+	<key>shouldDeserializeHeap</key>
+	<string>routehead</string>
+</dict>
+</plist>

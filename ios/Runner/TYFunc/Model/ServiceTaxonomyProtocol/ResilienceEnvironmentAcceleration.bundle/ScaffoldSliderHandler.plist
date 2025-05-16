@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalresponse</key>
+	<string>flexPhase</string>
+	<key>displayableFrame</key>
+	<string>mendMargin</string>
+	<key>nativeMap</key>
+	<string>composablecurve</string>
+	<key>numericalConfidentiality</key>
+	<string>interactiveReference</string>
+	<key>originalAppBar</key>
+	<string>grayscalemethodindex</string>
+	<key>restrictionHead</key>
+	<string>unactivatedTriangles</string>
+	<key>scaleValidation</key>
+	<string>canReplaceConvolution</string>
+	<key>spriteIndex</key>
+	<string>spotRate</string>
+	<key>subsequentCheckbox</key>
+	<string>usageDirection</string>
+	<key>wrapperDelay</key>
+	<string>shouldMountCheckbox</string>
+</dict>
+</plist>

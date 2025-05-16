@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserDistance</key>
+	<string>collectionBuffer</string>
+	<key>concreteTimeline</key>
+	<string>benchmarkText</string>
+	<key>conformreducer</key>
+	<string>shouldCacheGate</string>
+	<key>deferredChannel</key>
+	<string>shouldTrainProfile</string>
+	<key>popprogressbar</key>
+	<string>requiredTitle</string>
+	<key>presenterplatformmargin</key>
+	<string>shouldloadtext</string>
+	<key>statelessException</key>
+	<string>denseSound</string>
+	<key>tensorColumn</key>
+	<string>reconcileStorage</string>
+</dict>
+</plist>

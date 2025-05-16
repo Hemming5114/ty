@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCatalyst</key>
+	<string>requestSystem</string>
+	<key>diffablePromise</key>
+	<string>criticalPermutation</string>
+	<key>dropdownbuttonfactory</key>
+	<string>reactiveLatency</string>
+	<key>grainsaturation</key>
+	<string>pickerTag</string>
+	<key>immutableConstraint</key>
+	<string>advancedSizedBox</string>
+	<key>missedPrecision</key>
+	<string>metadataInteraction</string>
+	<key>mobileValidation</key>
+	<string>sensorStage</string>
+	<key>otherSymbol</key>
+	<string>isTable</string>
+	<key>tappableInkWell</key>
+	<string>mediumlifecycle</string>
+</dict>
+</plist>

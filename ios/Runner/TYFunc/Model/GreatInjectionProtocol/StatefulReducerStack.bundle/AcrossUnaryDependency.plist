@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInterface</key>
+	<string>rowPrototype</string>
+	<key>cartesianCurve</key>
+	<string>freeLabel</string>
+	<key>descriptionBehavior</key>
+	<string>uniqueGradient</string>
+	<key>explicitInfo</key>
+	<string>nextBinder</string>
+	<key>granularCluster</key>
+	<string>shouldKeepAspect</string>
+	<key>hyperbolicSize</key>
+	<string>unregisterLayout</string>
+	<key>spotgrid</key>
+	<string>fetchWidget</string>
+	<key>tensorduration</key>
+	<string>mountedSymbol</string>
+</dict>
+</plist>

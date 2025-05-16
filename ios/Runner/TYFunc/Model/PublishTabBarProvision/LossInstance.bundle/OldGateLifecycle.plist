@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularParticle</key>
+	<string>intensitypainter</string>
+	<key>mapvelocity</key>
+	<string>basicMission</string>
+	<key>materializedrawer</key>
+	<string>basicanimation</string>
+	<key>protectedTextField</key>
+	<string>dedicatedError</string>
+	<key>sliderstructureorientation</key>
+	<string>restartPositioned</string>
+	<key>standaloneMedia</key>
+	<string>obtainLayout</string>
+</dict>
+</plist>

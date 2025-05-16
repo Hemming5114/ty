@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerScale</key>
+	<string>routerinformation</string>
+	<key>blocmodestatus</key>
+	<string>crucialTaxonomy</string>
+	<key>desktopCanvas</key>
+	<string>disconnectPadding</string>
+	<key>easyStorage</key>
+	<string>accordionFlex</string>
+	<key>rapidresult</key>
+	<string>shouldSubscribeTask</string>
+	<key>shouldDetachAspectRatio</key>
+	<string>canMountMaterial</string>
+	<key>shouldTransitionUsage</key>
+	<string>paintLayout</string>
+</dict>
+</plist>

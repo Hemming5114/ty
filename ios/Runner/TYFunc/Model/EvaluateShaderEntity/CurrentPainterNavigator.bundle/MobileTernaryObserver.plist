@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMesh</key>
+	<string>descentSpeed</string>
+	<key>apertureresilience</key>
+	<string>drawAsync</string>
+	<key>currentSemantics</key>
+	<string>buildermatrix</string>
+	<key>localgate</key>
+	<string>publiceffect</string>
+	<key>nibSkewX</key>
+	<string>mobileMatrix</string>
+	<key>semanticAnimatedContainer</key>
+	<string>setupChannel</string>
+	<key>spineFrequency</key>
+	<string>offsetevaluation</string>
+	<key>tensorSensor</key>
+	<string>continueBloc</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customRestriction</key>
+	<string>videoName</string>
+	<key>discardedTask</key>
+	<string>commonRadius</string>
+	<key>geometricTheme</key>
+	<string>cancelCell</string>
+	<key>keyPriority</key>
+	<string>orchestrateStorage</string>
+	<key>keyStore</key>
+	<string>alignmentForce</string>
+	<key>lastNib</key>
+	<string>cloneConstraint</string>
+	<key>objectSkewY</key>
+	<string>presentProjection</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedKernel</key>
+	<string>easyCube</string>
+	<key>mediaCount</key>
+	<string>finderHue</string>
+	<key>momentuminteraction</key>
+	<string>shouldUpdateDuration</string>
+	<key>specifierHead</key>
+	<string>musicOpacity</string>
+	<key>toolphaseinset</key>
+	<string>shouldShowMomentum</string>
+</dict>
+</plist>

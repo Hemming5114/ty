@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocparaminterval</key>
+	<string>integrityMode</string>
+	<key>diversifiedOverlay</key>
+	<string>hardPolyfill</string>
+	<key>ephemeralScene</key>
+	<string>imageAppearance</string>
+	<key>largeMomentum</key>
+	<string>initializeHash</string>
+	<key>mainTime</key>
+	<string>characteristicSkewY</string>
+	<key>synchronousLayout</key>
+	<string>channelHue</string>
+</dict>
+</plist>

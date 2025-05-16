@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerConstant</key>
+	<string>finishCache</string>
+	<key>filterformat</key>
+	<string>currentslidercoord</string>
+	<key>iconintegration</key>
+	<string>subsequentlatency</string>
+	<key>otherstep</key>
+	<string>aspectratiovolume</string>
+	<key>shouldMountedSlider</key>
+	<string>lifecyclelocation</string>
+	<key>subsequentStateful</key>
+	<string>callbackoperationtop</string>
+	<key>touchFeedback</key>
+	<string>mergerSpacing</string>
+	<key>transitioninset</key>
+	<string>clipperOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGraphic</key>
+	<string>revisitCompleter</string>
+	<key>composableProtocol</key>
+	<string>orchestrateGraph</string>
+	<key>deferredAmortization</key>
+	<string>numericalConsumption</string>
+	<key>drawerbuilder</key>
+	<string>shouldloadmap</string>
+	<key>independentRichText</key>
+	<string>rebuildBullet</string>
+	<key>restrictionSaturation</key>
+	<string>shouldbindview</string>
+	<key>subsequentScale</key>
+	<string>injectDuration</string>
+</dict>
+</plist>

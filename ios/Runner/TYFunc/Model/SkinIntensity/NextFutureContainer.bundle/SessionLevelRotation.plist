@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentstructurebottom</key>
+	<string>topicBorder</string>
+	<key>checkboxSaturation</key>
+	<string>retrieveResponse</string>
+	<key>customizedGridView</key>
+	<string>equivalentScale</string>
+	<key>euclideanGridView</key>
+	<string>publicdecoration</string>
+	<key>framecenter</key>
+	<string>imagevariableduration</string>
+	<key>materializerShape</key>
+	<string>presentunary</string>
+	<key>pinchablecreator</key>
+	<string>accessoryPrototype</string>
+	<key>titleRight</key>
+	<string>textureContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisStatus</key>
+	<string>tweenlikedecorator</string>
+	<key>certificateRotation</key>
+	<string>cancelGrayscale</string>
+	<key>largeRichText</key>
+	<string>scaleChain</string>
+	<key>oldCosine</key>
+	<string>disconnectNib</string>
+	<key>shouldObserveStep</key>
+	<string>titleposition</string>
+	<key>shouldPresentAlert</key>
+	<string>otherContraction</string>
+	<key>temporaryAxis</key>
+	<string>decodebase</string>
+</dict>
+</plist>

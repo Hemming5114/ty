@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedMargin</key>
+	<string>handleProgressBar</string>
+	<key>firstModal</key>
+	<string>replaceStamp</string>
+	<key>otherRange</key>
+	<string>mappertail</string>
+	<key>scrollPosition</key>
+	<string>difficultRectangle</string>
+	<key>shouldnavigatestateless</key>
+	<string>persistentShape</string>
+	<key>staticEntropy</key>
+	<string>advancedSink</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllercolor</key>
+	<string>webAnimation</string>
+	<key>directlyGroup</key>
+	<string>elasticSingleton</string>
+	<key>fragmentRotation</key>
+	<string>localvolume</string>
+	<key>ignoredHero</key>
+	<string>precisionSkewX</string>
+	<key>shouldPublishEqualization</key>
+	<string>dynamicLinker</string>
+	<key>smallDescent</key>
+	<string>fetchsink</string>
+</dict>
+</plist>

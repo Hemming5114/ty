@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopWidget</key>
+	<string>actionFeedback</string>
+	<key>fusedconfigurationskewx</key>
+	<string>requiredSingleton</string>
+	<key>impressionStyle</key>
+	<string>mediocrePicker</string>
+	<key>interfaceinterval</key>
+	<string>stackformat</string>
+	<key>logarithmatprocess</key>
+	<string>geometricPadding</string>
+	<key>publicReference</key>
+	<string>disabledZone</string>
+	<key>similarrepository</key>
+	<string>grayscaleFacade</string>
+</dict>
+</plist>

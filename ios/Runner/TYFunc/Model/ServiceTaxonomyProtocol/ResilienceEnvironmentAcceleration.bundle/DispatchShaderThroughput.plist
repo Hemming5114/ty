@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autograin</key>
+	<string>timerJob</string>
+	<key>descentName</key>
+	<string>multiCube</string>
+	<key>globalMatrix</key>
+	<string>publisherstyle</string>
+	<key>interfaceitem</key>
+	<string>shouldDismissCollection</string>
+	<key>mutableBase</key>
+	<string>staticRoute</string>
+	<key>normalEvaluation</key>
+	<string>arithmeticWrapper</string>
+	<key>observerthroughput</key>
+	<string>hashFramework</string>
+</dict>
+</plist>

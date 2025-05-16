@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerbrightness</key>
+	<string>errorInterpreter</string>
+	<key>decodelocalization</key>
+	<string>dynamicListView</string>
+	<key>notationDirection</key>
+	<string>responsiveProgressBar</string>
+	<key>remainderinset</key>
+	<string>customInterpolation</string>
+	<key>resetaspectratio</key>
+	<string>expandedVisitor</string>
+	<key>shouldLayoutTangent</key>
+	<string>methodlikeobserver</string>
+	<key>shouldListenBuilder</key>
+	<string>clusterMomentum</string>
+</dict>
+</plist>

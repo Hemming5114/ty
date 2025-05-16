@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmenttraversal</key>
+	<string>saveInstruction</string>
+	<key>inactiveQuaternion</key>
+	<string>immediateUtil</string>
+	<key>inheritedConfidentiality</key>
+	<string>detachEntity</string>
+	<key>shouldPersistChecklist</key>
+	<string>injectTimer</string>
+</dict>
+</plist>

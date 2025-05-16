@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorforcycle</key>
+	<string>sortedConsumer</string>
+	<key>disconnectdrawer</key>
+	<string>canPushAperture</string>
+	<key>dropoutstamp</key>
+	<string>compositioncontrast</string>
+	<key>filterDistance</key>
+	<string>canDispatchNotifier</string>
+	<key>interactiveImpact</key>
+	<string>drawButton</string>
+	<key>shouldValidateMatrix</key>
+	<string>mobileForce</string>
+</dict>
+</plist>

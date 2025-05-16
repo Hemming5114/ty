@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionnotation</key>
+	<string>projectionCycle</string>
+	<key>diversifiedPicker</key>
+	<string>controllervelocity</string>
+	<key>multiScaffold</key>
+	<string>sessionSingleton</string>
+	<key>polyfillStyle</key>
+	<string>polygonOrientation</string>
+	<key>shouldDisposeCatalyst</key>
+	<string>concurrentSignature</string>
+</dict>
+</plist>

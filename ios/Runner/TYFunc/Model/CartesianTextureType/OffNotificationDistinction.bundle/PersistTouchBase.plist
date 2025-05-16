@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledObject</key>
+	<string>interpolatenode</string>
+	<key>disconnectisolate</key>
+	<string>asynchronoustitlemargin</string>
+	<key>itemRight</key>
+	<string>immediateModule</string>
+	<key>pinchableSkin</key>
+	<string>mixinIsolate</string>
+	<key>resultStyle</key>
+	<string>permissiveview</string>
+	<key>shouldInflateRole</key>
+	<string>uniqueStateless</string>
+	<key>sliderresponse</key>
+	<string>canDisconnectSensor</string>
+</dict>
+</plist>

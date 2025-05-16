@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableGem</key>
+	<string>cacheGraphic</string>
+	<key>inkwellTag</key>
+	<string>encodeSpecifier</string>
+	<key>nativeCycle</key>
+	<string>handleBox</string>
+	<key>shouldContinueExponent</key>
+	<string>convolutionResponse</string>
+</dict>
+</plist>

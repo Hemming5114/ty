@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSlash</key>
+	<string>adaptiveCompletion</string>
+	<key>adaptiverectacceleration</key>
+	<string>themecontextdensity</string>
+	<key>animatekernel</key>
+	<string>independentgrain</string>
+	<key>asyncInset</key>
+	<string>dissociateChannel</string>
+	<key>attachinterpolation</key>
+	<string>detachBitrate</string>
+	<key>discardedDetector</key>
+	<string>canInflateCompletion</string>
+	<key>menuShape</key>
+	<string>enabledpolygon</string>
+</dict>
+</plist>

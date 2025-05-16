@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedreducerspeed</key>
+	<string>independentStrength</string>
+	<key>agiletext</key>
+	<string>markMetadata</string>
+	<key>captionFrequency</key>
+	<string>responsiveConfiguration</string>
+	<key>diffableProvider</key>
+	<string>playbackbrightness</string>
+	<key>enabledMission</key>
+	<string>isEffect</string>
+	<key>fusedGate</key>
+	<string>shouldlayoutview</string>
+	<key>providestep</key>
+	<string>primaryLog</string>
+	<key>shapeSpacing</key>
+	<string>notifySensor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entitycontextstate</key>
+	<string>significantbrush</string>
+	<key>inheritedresource</key>
+	<string>symmetricgraphic</string>
+	<key>mediocrematerial</key>
+	<string>discardedPreview</string>
+	<key>retainedZone</key>
+	<string>mediocreInteraction</string>
+	<key>shouldTransitionMonster</key>
+	<string>sliderforce</string>
+	<key>tappableStrength</key>
+	<string>mobileTangent</string>
+	<key>unsortedSession</key>
+	<string>statelessTemple</string>
+</dict>
+</plist>

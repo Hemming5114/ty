@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicAwait</key>
+	<string>canDeserializeLayout</string>
+	<key>permanentGroup</key>
+	<string>canFetchBitrate</string>
+	<key>refreshcell</key>
+	<string>encodeProtocol</string>
+	<key>significantEvolution</key>
+	<string>unmountedView</string>
+	<key>sophisticatedPlate</key>
+	<string>resolverMode</string>
+	<key>sortedStamp</key>
+	<string>loadSensor</string>
+</dict>
+</plist>

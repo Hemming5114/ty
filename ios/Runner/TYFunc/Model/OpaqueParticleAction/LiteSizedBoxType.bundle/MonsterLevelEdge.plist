@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDepth</key>
+	<string>completerbinder</string>
+	<key>configurationamortization</key>
+	<string>assetVelocity</string>
+	<key>criticalfeature</key>
+	<string>hasPet</string>
+	<key>drawerOrientation</key>
+	<string>seamlessLayout</string>
+	<key>groupspacing</key>
+	<string>borderParam</string>
+	<key>inkwellalignment</key>
+	<string>stopBloc</string>
+	<key>similarEvaluation</key>
+	<string>defaultcontroller</string>
+</dict>
+</plist>

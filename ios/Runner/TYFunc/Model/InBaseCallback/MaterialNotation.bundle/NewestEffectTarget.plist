@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorState</key>
+	<string>scrollposition</string>
+	<key>decorationvaluecount</key>
+	<string>confidentialityScale</string>
+	<key>draggablelifecycle</key>
+	<string>protocolFeedback</string>
+	<key>inheritedTentative</key>
+	<string>sophisticatedPlayback</string>
+	<key>interpolationnumbertransparency</key>
+	<string>writeFactory</string>
+	<key>resilientElement</key>
+	<string>elementColor</string>
+	<key>shouldKeepSegment</key>
+	<string>shouldMountedNotifier</string>
+	<key>subsequentVertex</key>
+	<string>largeFragments</string>
+	<key>utilbottom</key>
+	<string>dialogsOrigin</string>
+	<key>visibleLabel</key>
+	<string>hyperbolicOverlay</string>
+</dict>
+</plist>

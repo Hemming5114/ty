@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionOpacity</key>
+	<string>fusedBox</string>
+	<key>interactionVisible</key>
+	<string>navigateMaster</string>
+	<key>lastVideo</key>
+	<string>persistentFuture</string>
+	<key>materialKind</key>
+	<string>usageTheme</string>
+	<key>memberFrequency</key>
+	<string>canAnimateIcon</string>
+	<key>nativeGift</key>
+	<string>shouldAttachTouch</string>
+	<key>persistentTime</key>
+	<string>shaderrectangle</string>
+	<key>smartResponder</key>
+	<string>kernelStrategy</string>
+	<key>synchronousLatency</key>
+	<string>transformProvider</string>
+</dict>
+</plist>

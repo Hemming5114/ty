@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTechnique</key>
+	<string>routechapter</string>
+	<key>basicloopsize</key>
+	<string>clipperOffset</string>
+	<key>enabledLatency</key>
+	<string>descriptionProxy</string>
+	<key>indicatorShape</key>
+	<string>uniformMission</string>
+	<key>multiMetrics</key>
+	<string>meshForce</string>
+	<key>shouldNavigateSubpixel</key>
+	<string>robustMechanism</string>
+</dict>
+</plist>

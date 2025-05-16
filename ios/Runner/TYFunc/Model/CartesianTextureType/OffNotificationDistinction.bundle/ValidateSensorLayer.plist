@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStroke</key>
+	<string>accessoryLocation</string>
+	<key>baselinesinceform</key>
+	<string>ephemeralDetector</string>
+	<key>formatMode</key>
+	<string>composableAspect</string>
+	<key>inheritedLoader</key>
+	<string>convertGroup</string>
+	<key>remainderSize</key>
+	<string>skipBuilder</string>
+	<key>shouldRestartPageView</key>
+	<string>presenterSkewY</string>
+</dict>
+</plist>

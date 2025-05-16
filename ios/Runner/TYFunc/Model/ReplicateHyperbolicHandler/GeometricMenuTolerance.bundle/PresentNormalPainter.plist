@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseFlex</key>
+	<string>shouldDetachReference</string>
+	<key>interactiveNotation</key>
+	<string>contrastFeedback</string>
+	<key>shouldStopDropdownButton</key>
+	<string>videoVisibility</string>
+	<key>statefulAmortization</key>
+	<string>persistBaseline</string>
+</dict>
+</plist>

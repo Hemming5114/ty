@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionormediator</key>
+	<string>shouldPaintNavigation</string>
+	<key>differentiatelog</key>
+	<string>touchsize</string>
+	<key>firstcontainer</key>
+	<string>draggableTransformer</string>
+	<key>originalshape</key>
+	<string>quaternionDirection</string>
+	<key>retainedRemediation</key>
+	<string>taskstatus</string>
+	<key>reusablerowmode</key>
+	<string>graphicContrast</string>
+	<key>sustainableCharacteristic</key>
+	<string>shouldStreamPadding</string>
+</dict>
+</plist>

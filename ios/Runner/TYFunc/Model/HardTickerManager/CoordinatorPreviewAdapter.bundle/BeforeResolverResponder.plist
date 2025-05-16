@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopstateless</key>
+	<string>listviewinprototype</string>
+	<key>directlycombiner</key>
+	<string>diffableDetector</string>
+	<key>emitrepository</key>
+	<string>iterativeReduction</string>
+	<key>mainElement</key>
+	<string>subtleThroughput</string>
+	<key>oldDetector</key>
+	<string>immediatePageView</string>
+	<key>onstepchanged</key>
+	<string>diversifiedProcessor</string>
+	<key>sequentialReceiver</key>
+	<string>bandwidthname</string>
+</dict>
+</plist>

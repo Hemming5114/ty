@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalSemantics</key>
+	<string>immutableSession</string>
+	<key>lostSelector</key>
+	<string>equalizationacceleration</string>
+	<key>newestChapter</key>
+	<string>pivotaltransitioncolor</string>
+	<key>shouldEncodeCube</key>
+	<string>logarithmappearance</string>
+	<key>shouldrenderhero</key>
+	<string>aperturedispatcher</string>
+	<key>tangentValidation</key>
+	<string>boxMemento</string>
+	<key>visibleTweak</key>
+	<string>resumeNotifier</string>
+</dict>
+</plist>

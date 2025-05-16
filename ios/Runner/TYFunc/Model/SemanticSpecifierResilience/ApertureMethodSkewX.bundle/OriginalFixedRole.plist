@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationType</key>
+	<string>checkboxForm</string>
+	<key>hierarchicalTrajectory</key>
+	<string>consultativeBehavior</string>
+	<key>mendPosition</key>
+	<string>scenarioresponse</string>
+	<key>particleintemple</key>
+	<string>channelsInteraction</string>
+	<key>shouldPrepareExpanded</key>
+	<string>plateTension</string>
+	<key>shouldUnmountedProtocol</key>
+	<string>awaitHead</string>
+	<key>tappabletextcoord</key>
+	<string>shouldPushTangent</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityDuration</key>
+	<string>cancelModal</string>
+	<key>pushpresenter</key>
+	<string>sortedMovement</string>
+	<key>resumeinstruction</key>
+	<string>shouldFormatScreen</string>
+	<key>semanticEfficiency</key>
+	<string>painterVisibility</string>
+	<key>shouldEmitGram</key>
+	<string>decoupleAsync</string>
+	<key>shouldPublishPrecision</key>
+	<string>intermediateBorder</string>
+	<key>shouldUnmountedHistogram</key>
+	<string>directlyEqualization</string>
+	<key>sizedboxTransparency</key>
+	<string>geometricVector</string>
+</dict>
+</plist>

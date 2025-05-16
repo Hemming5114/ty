@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialNib</key>
+	<string>shouldPauseSign</string>
+	<key>originalBaseline</key>
+	<string>usedpreviewdistance</string>
+	<key>resultshape</key>
+	<string>sustainableItem</string>
+	<key>unsortedAppBar</key>
+	<string>captionJob</string>
+</dict>
+</plist>

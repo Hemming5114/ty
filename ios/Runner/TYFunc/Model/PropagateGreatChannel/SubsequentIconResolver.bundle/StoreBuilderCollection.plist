@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalisolatefeedback</key>
+	<string>reduceAllocator</string>
+	<key>navigatorimpact</key>
+	<string>activeImpact</string>
+	<key>profileTint</key>
+	<string>originalStack</string>
+	<key>reactiveOverlay</key>
+	<string>replacegate</string>
+	<key>shouldDetachCustomPaint</key>
+	<string>diffableMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerfactorystyle</key>
+	<string>sliderBridge</string>
+	<key>colortype</key>
+	<string>optionStrategy</string>
+	<key>constantHue</key>
+	<string>traversalFrequency</string>
+	<key>mutableButton</key>
+	<string>shouldSkipCapacities</string>
+	<key>painterVelocity</key>
+	<string>enumerateRoute</string>
+	<key>shouldDispatchLabel</key>
+	<string>propagateChart</string>
+	<key>standaloneScale</key>
+	<string>ephemeralTolerance</string>
+	<key>subtlelocalizationflags</key>
+	<string>aspectratioParam</string>
+</dict>
+</plist>

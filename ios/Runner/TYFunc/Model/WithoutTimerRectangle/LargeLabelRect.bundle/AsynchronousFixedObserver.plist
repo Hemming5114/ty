@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSingleton</key>
+	<string>interceptSize</string>
+	<key>detachaspect</key>
+	<string>mediocreConsumption</string>
+	<key>interfaceproxybrightness</key>
+	<string>embraceTask</string>
+	<key>iterativePolyfill</key>
+	<string>parallelProvider</string>
+	<key>mediocreMethod</key>
+	<string>eagerProvider</string>
+	<key>paddingchooser</key>
+	<string>kernelbutton</string>
+	<key>shouldShowCanvas</key>
+	<string>streamqueue</string>
+	<key>statefulCenter</key>
+	<string>serializeScene</string>
+	<key>unarypager</key>
+	<string>cartesianModule</string>
+</dict>
+</plist>

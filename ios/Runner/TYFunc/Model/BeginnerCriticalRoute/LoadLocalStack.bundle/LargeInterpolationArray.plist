@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAudio</key>
+	<string>observerdistinction</string>
+	<key>cardsensor</key>
+	<string>sharedEqualization</string>
+	<key>independentSchema</key>
+	<string>positionForce</string>
+	<key>oldGate</key>
+	<string>resumecell</string>
+	<key>permissiveElasticity</key>
+	<string>taxonomyDirection</string>
+	<key>popequalization</key>
+	<string>usedinteractorskewx</string>
+	<key>sliderservice</key>
+	<string>instructionJob</string>
+</dict>
+</plist>

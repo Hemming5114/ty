@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTransition</key>
+	<string>canObservePrecision</string>
+	<key>cardscale</key>
+	<string>sensorcount</string>
+	<key>diversifiedobserver</key>
+	<string>mutableblocforce</string>
+	<key>inheritedListView</key>
+	<string>primaryWorkflow</string>
+	<key>mediocreConnector</key>
+	<string>densePainter</string>
+	<key>onscalechanged</key>
+	<string>mainBloc</string>
+	<key>primaryHandler</key>
+	<string>accelerateListener</string>
+	<key>shouldKeepAnimatedContainer</key>
+	<string>handlercombiner</string>
+	<key>updatehash</key>
+	<string>alphasize</string>
+</dict>
+</plist>

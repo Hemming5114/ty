@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInteraction</key>
+	<string>showBitrate</string>
+	<key>euclideanAxis</key>
+	<string>deflatetext</string>
+	<key>menucallback</key>
+	<string>displayableservicespeed</string>
+	<key>protectedDelegate</key>
+	<string>adjustCurve</string>
+	<key>providerContrast</key>
+	<string>latencySpeed</string>
+	<key>sizeHead</key>
+	<string>disabledWidget</string>
+	<key>tickerTension</key>
+	<string>routeMode</string>
+	<key>uniqueDetail</key>
+	<string>collectionStage</string>
+</dict>
+</plist>

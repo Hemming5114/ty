@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllercycleborder</key>
+	<string>customStoryboard</string>
+	<key>diffableImpact</key>
+	<string>techniqueDensity</string>
+	<key>numericalVariant</key>
+	<string>evaluationFlags</string>
+	<key>persistentsubscription</key>
+	<string>hardProvider</string>
+	<key>priorvideo</key>
+	<string>commonCosine</string>
+	<key>reusableSlash</key>
+	<string>workflowName</string>
+	<key>subscriptionleft</key>
+	<string>tabbarPosition</string>
+	<key>temporarycallbackleft</key>
+	<string>serviceDuration</string>
+	<key>variantdelay</key>
+	<string>shouldPresentContainer</string>
+</dict>
+</plist>

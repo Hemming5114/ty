@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisright</key>
+	<string>interfaceDirection</string>
+	<key>captureworkflow</key>
+	<string>normalPlayback</string>
+	<key>consumerName</key>
+	<string>standaloneMaterializer</string>
+	<key>largeefficiency</key>
+	<string>shouldtransitionlayout</string>
+	<key>shouldUnmountBase</key>
+	<string>shouldNotifyBullet</string>
+	<key>shouldUpdateCollection</key>
+	<string>reactiveSink</string>
+	<key>storyboarddepth</key>
+	<string>normalData</string>
+</dict>
+</plist>

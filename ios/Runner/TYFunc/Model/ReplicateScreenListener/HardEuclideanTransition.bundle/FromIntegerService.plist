@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildstate</key>
+	<string>presenterStatus</string>
+	<key>featuredata</key>
+	<string>protectedscaffoldbottom</string>
+	<key>fusedDescent</key>
+	<string>dedicatedGrayscale</string>
+	<key>gestureobserverpressure</key>
+	<string>declarativeChart</string>
+	<key>hasBloc</key>
+	<string>notifyTable</string>
+	<key>interactiveResponder</key>
+	<string>vectorizechannel</string>
+	<key>semanticsAcceleration</key>
+	<string>themealignment</string>
+	<key>stopcycle</key>
+	<string>notificationBound</string>
+</dict>
+</plist>

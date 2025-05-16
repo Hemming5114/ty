@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintHead</key>
+	<string>curveDecorator</string>
+	<key>independentQuaternion</key>
+	<string>shapeVelocity</string>
+	<key>intuitiveRole</key>
+	<string>sinkFunction</string>
+	<key>shouldMountSemantics</key>
+	<string>consumePosition</string>
+	<key>shouldValidateOperation</key>
+	<string>canPublishConstraint</string>
+</dict>
+</plist>

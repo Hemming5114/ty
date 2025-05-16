@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMultiplication</key>
+	<string>vectorAcceleration</string>
+	<key>matrixFrequency</key>
+	<string>encodeSession</string>
+	<key>mediocreProvider</key>
+	<string>shouldYieldScale</string>
+	<key>mediumAnimator</key>
+	<string>statefulAwait</string>
+	<key>missionVelocity</key>
+	<string>loaderFeedback</string>
+	<key>persistradius</key>
+	<string>seekUseCase</string>
+	<key>secondCallback</key>
+	<string>gesturedetectorEnvironment</string>
+	<key>segmentBehavior</key>
+	<string>prepareCanvas</string>
+	<key>shouldNavigateScreen</key>
+	<string>streamCursor</string>
+</dict>
+</plist>

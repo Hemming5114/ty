@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderinset</key>
+	<string>signatureActivity</string>
+	<key>chapterscalability</key>
+	<string>textfieldAdapter</string>
+	<key>draggableItem</key>
+	<string>confidentialityLocation</string>
+	<key>interpolationRight</key>
+	<string>canAnimatePromise</string>
+	<key>mainImpression</key>
+	<string>transpileAction</string>
+	<key>restrictionTop</key>
+	<string>buttonAlignment</string>
+	<key>shouldResumeKernel</key>
+	<string>liteHistogram</string>
+	<key>steprotation</key>
+	<string>transformerComposite</string>
+	<key>trianglesEdge</key>
+	<string>validateView</string>
+</dict>
+</plist>

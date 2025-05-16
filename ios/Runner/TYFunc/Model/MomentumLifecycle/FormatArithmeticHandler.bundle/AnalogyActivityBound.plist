@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentSymbol</key>
+	<string>pivotalContraction</string>
+	<key>lazyIntensity</key>
+	<string>buttonshapeinteraction</string>
+	<key>maprotation</key>
+	<string>controllerfilter</string>
+	<key>multiTolerance</key>
+	<string>histogramnumberinterval</string>
+	<key>shouldTrainPageView</key>
+	<string>scrollableMovement</string>
+	<key>shouldstartclipper</key>
+	<string>agileActivity</string>
+	<key>statefulPlate</key>
+	<string>aspectratioOpacity</string>
+	<key>subsequentImpact</key>
+	<string>scheduleGraph</string>
+	<key>subtleoffset</key>
+	<string>priorslideroffset</string>
+</dict>
+</plist>

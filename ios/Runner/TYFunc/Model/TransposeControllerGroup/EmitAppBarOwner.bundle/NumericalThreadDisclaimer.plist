@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackperenvironment</key>
+	<string>dynamicFlex</string>
+	<key>collectioncontroller</key>
+	<string>shouldEmitReduction</string>
+	<key>defaultDialogs</key>
+	<string>containerbridgetype</string>
+	<key>dimensiondensity</key>
+	<string>asynchronousVector</string>
+	<key>gridName</key>
+	<string>notifyFactory</string>
+	<key>multiplicationinteractor</key>
+	<string>featurePosition</string>
+	<key>originalScreen</key>
+	<string>draggableinteraction</string>
+	<key>responsiveModal</key>
+	<string>endAspectRatio</string>
+	<key>shouldSetStateDimension</key>
+	<string>quaternionHue</string>
+	<key>shouldShowPlate</key>
+	<string>normalSizedBox</string>
+</dict>
+</plist>

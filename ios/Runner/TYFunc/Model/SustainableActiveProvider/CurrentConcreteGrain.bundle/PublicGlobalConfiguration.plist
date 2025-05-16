@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePager</key>
+	<string>canValidateLayout</string>
+	<key>globalCapsule</key>
+	<string>baselineOperation</string>
+	<key>granularMember</key>
+	<string>replaceexpanded</string>
+	<key>scrollableGesture</key>
+	<string>threadCommand</string>
+	<key>sortedGift</key>
+	<string>materializecallback</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLog</key>
+	<string>entitySpacing</string>
+	<key>dedicatedresolvercontrast</key>
+	<string>projectionContrast</string>
+	<key>delegateoutsidestyle</key>
+	<string>dedicatedsignature</string>
+	<key>dependencyobservermode</key>
+	<string>effectCenter</string>
+	<key>finishresource</key>
+	<string>hashFunction</string>
+	<key>initializecontainer</key>
+	<string>shouldKeepSign</string>
+	<key>shouldRenderTernary</key>
+	<string>shouldResumeSegment</string>
+	<key>smartElement</key>
+	<string>mitigateAnimation</string>
+	<key>standaloneNavigator</key>
+	<string>shouldstopdocument</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alerttaskinteraction</key>
+	<string>tappableTimeline</string>
+	<key>autoGestureDetector</key>
+	<string>synchronousReduction</string>
+	<key>dedicatedDescent</key>
+	<string>statelesssegmentscale</string>
+	<key>disparateSound</key>
+	<string>significantquaternion</string>
+	<key>expandedaroundflyweight</key>
+	<string>commonview</string>
+</dict>
+</plist>

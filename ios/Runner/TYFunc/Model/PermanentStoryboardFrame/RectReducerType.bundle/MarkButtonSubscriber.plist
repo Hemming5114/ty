@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicanimatedcontainervisibility</key>
+	<string>canValidateGesture</string>
+	<key>shouldAnimateSign</key>
+	<string>analyzecoordinator</string>
+	<key>sliderInset</key>
+	<string>backwardClipper</string>
+	<key>sorterAppearance</key>
+	<string>normscopecolor</string>
+</dict>
+</plist>

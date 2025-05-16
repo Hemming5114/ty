@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablerowstyle</key>
+	<string>sharedassetorigin</string>
+	<key>concreteEmitter</key>
+	<string>compositionaldropdownbuttoninterval</string>
+	<key>cyclepresenter</key>
+	<string>spotvisitorskewx</string>
+	<key>finishrect</key>
+	<string>positionedHue</string>
+	<key>ignoredBloc</key>
+	<string>globalRange</string>
+	<key>onscrolltap</key>
+	<string>offsetAdapter</string>
+	<key>popstoryboard</key>
+	<string>resultvisibility</string>
+	<key>protectedWrapper</key>
+	<string>storeOrigin</string>
+	<key>shouldRestartMedia</key>
+	<string>shouldTrainUsage</string>
+	<key>toleranceKind</key>
+	<string>apertureContrast</string>
+</dict>
+</plist>

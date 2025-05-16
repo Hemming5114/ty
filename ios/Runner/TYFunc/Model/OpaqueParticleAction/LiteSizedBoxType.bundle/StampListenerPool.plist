@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultProjection</key>
+	<string>concreteHeap</string>
+	<key>granularanchor</key>
+	<string>syncasync</string>
+	<key>independentModal</key>
+	<string>requiredIntegration</string>
+	<key>metadataoffset</key>
+	<string>elasticConstant</string>
+	<key>newestMusic</key>
+	<string>singletonorflyweight</string>
+	<key>resourceanimation</key>
+	<string>loadChecklist</string>
+	<key>shouldDispatchButton</key>
+	<string>eventInterval</string>
+	<key>shouldObserveProvider</key>
+	<string>updateSymbol</string>
+	<key>stepPadding</key>
+	<string>similarDetail</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSegue</key>
+	<string>shouldBuildBox</string>
+	<key>cupertinoRequest</key>
+	<string>subtleCatalyst</string>
+	<key>gemFormat</key>
+	<string>synchronizeRequest</string>
+	<key>gestureCount</key>
+	<string>replicateTransformer</string>
+	<key>lastNode</key>
+	<string>cachethroughphase</string>
+	<key>shouldEndGestureDetector</key>
+	<string>attachProfile</string>
+</dict>
+</plist>

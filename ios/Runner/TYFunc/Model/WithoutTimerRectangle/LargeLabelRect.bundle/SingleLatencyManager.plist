@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyFeedback</key>
+	<string>transitionlayer</string>
+	<key>integrationTension</key>
+	<string>canValidateMultiplication</string>
+	<key>movementperprototype</key>
+	<string>shouldPopBullet</string>
+	<key>numericalMerger</key>
+	<string>shouldParseChecklist</string>
+	<key>oldPolyfill</key>
+	<string>canSetStateCursor</string>
+	<key>plateTension</key>
+	<string>keyStateful</string>
+	<key>widgetforsystem</key>
+	<string>dynamicReceiver</string>
+</dict>
+</plist>

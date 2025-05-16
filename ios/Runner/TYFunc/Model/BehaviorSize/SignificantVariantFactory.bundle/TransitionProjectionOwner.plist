@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedview</key>
+	<string>globalModal</string>
+	<key>pageviewdisclaimer</key>
+	<string>emitResolver</string>
+	<key>primaryboxshadow</key>
+	<string>extensionnearparam</string>
+	<key>seamlessSingleton</key>
+	<string>interactivelayout</string>
+	<key>shouldTrainMobile</key>
+	<string>tappableJoiner</string>
+	<key>titleDensity</key>
+	<string>signatureEnvironment</string>
+	<key>uniqueRadius</key>
+	<string>navigatorinterpreterspacing</string>
+</dict>
+</plist>

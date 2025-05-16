@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalMaster</key>
+	<string>lazyNotifier</string>
+	<key>persistentListView</key>
+	<string>toolSaturation</string>
+	<key>shouldDisconnectMedia</key>
+	<string>shouldRouteButton</string>
+	<key>shouldEmitPlate</key>
+	<string>shouldNotifyBehavior</string>
+	<key>transformerbound</key>
+	<string>shouldListenPriority</string>
+	<key>webStoryboard</key>
+	<string>latencyOpacity</string>
+</dict>
+</plist>

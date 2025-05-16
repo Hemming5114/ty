@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncColor</key>
+	<string>shouldStartPlayback</string>
+	<key>decodematrix</key>
+	<string>canFormatBase</string>
+	<key>matrixTheme</key>
+	<string>joinerTension</string>
+	<key>protectedcell</key>
+	<string>storageForm</string>
+	<key>shouldRouteSemantics</key>
+	<string>tappableCharacter</string>
+	<key>standalonestatefuledge</key>
+	<string>computeplate</string>
+	<key>streamtabbar</key>
+	<string>relationalCluster</string>
+	<key>temporaryExponent</key>
+	<string>navigateAppBar</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNib</key>
+	<string>canPauseConvolution</string>
+	<key>customizedDropdownButton</key>
+	<string>lostAnalogy</string>
+	<key>elasticityInteraction</key>
+	<string>typicalCapsule</string>
+	<key>lastVertex</key>
+	<string>menuBuffer</string>
+	<key>priorarithmetic</key>
+	<string>yieldMember</string>
+	<key>shouldHandlePlayback</key>
+	<string>inheritedTabView</string>
+</dict>
+</plist>

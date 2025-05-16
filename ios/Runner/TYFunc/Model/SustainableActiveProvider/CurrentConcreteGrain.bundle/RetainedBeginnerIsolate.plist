@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachicon</key>
+	<string>formatmedia</string>
+	<key>interactiveConstraint</key>
+	<string>mountedTool</string>
+	<key>layerTransparency</key>
+	<string>activeScenario</string>
+	<key>observequeue</key>
+	<string>shouldInflateScaffold</string>
+	<key>reusablealignment</key>
+	<string>zoneStyle</string>
+	<key>sharedPageView</key>
+	<string>canCancelMusic</string>
+	<key>staticDetail</key>
+	<string>canUnbindButton</string>
+	<key>storyboardAcceleration</key>
+	<string>bindSpecifier</string>
+	<key>undertakecomposition</key>
+	<string>respectiveConstraint</string>
+	<key>viewprovision</key>
+	<string>normSystem</string>
+</dict>
+</plist>

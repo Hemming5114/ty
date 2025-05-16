@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticamongscope</key>
+	<string>shouldDisconnectStateless</string>
+	<key>baseShape</key>
+	<string>coordinatorBuffer</string>
+	<key>grainHue</key>
+	<string>featureRotation</string>
+	<key>imageInteraction</key>
+	<string>resizableExponent</string>
+	<key>interactiveBoxShadow</key>
+	<string>trainEffect</string>
+	<key>shouldDisconnectDelegate</key>
+	<string>exponentLocation</string>
+	<key>sliderdensity</key>
+	<string>startMaterial</string>
+	<key>techniqueTag</key>
+	<string>gesturedetectorCommand</string>
+</dict>
+</plist>

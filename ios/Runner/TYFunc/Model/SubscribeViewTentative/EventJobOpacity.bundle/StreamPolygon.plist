@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentlikeform</key>
+	<string>notifierTint</string>
+	<key>assettrajectory</key>
+	<string>elasticSemantics</string>
+	<key>composableAwait</key>
+	<string>playObserver</string>
+	<key>enabledheapskewy</key>
+	<string>animatedstack</string>
+	<key>invisibleRemediation</key>
+	<string>strokeType</string>
+	<key>missedSpot</key>
+	<string>shouldValidateShader</string>
+	<key>subscriptionstatus</key>
+	<string>liteConstant</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentAllocator</key>
+	<string>storetolerance</string>
+	<key>durationSaturation</key>
+	<string>sineSystem</string>
+	<key>effectservice</key>
+	<string>canUnbindNorm</string>
+	<key>marginCount</key>
+	<string>rowInterval</string>
+	<key>observeralongbuffer</key>
+	<string>evolutionBorder</string>
+	<key>routeSpacing</key>
+	<string>dynamicMember</string>
+	<key>segueactionsize</key>
+	<string>mainPoint</string>
+	<key>subtleDropdownButton</key>
+	<string>canSetStateScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthRotation</key>
+	<string>markTask</string>
+	<key>cycleCenter</key>
+	<string>reactiveResource</string>
+	<key>directlyConstant</key>
+	<string>shouldcreatedelegate</string>
+	<key>publicPublisher</key>
+	<string>appbarAppearance</string>
+</dict>
+</plist>

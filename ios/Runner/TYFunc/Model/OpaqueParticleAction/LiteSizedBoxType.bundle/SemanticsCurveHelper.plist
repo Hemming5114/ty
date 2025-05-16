@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeprogressbar</key>
+	<string>lastStoryboard</string>
+	<key>liteColor</key>
+	<string>routeSymbol</string>
+	<key>responseCoord</key>
+	<string>parseTransformer</string>
+	<key>shouldPrepareStateful</key>
+	<string>pickerVelocity</string>
+	<key>shouldTransitionModal</key>
+	<string>elasticMechanism</string>
+	<key>symmetricRemediation</key>
+	<string>explicitHeap</string>
+</dict>
+</plist>

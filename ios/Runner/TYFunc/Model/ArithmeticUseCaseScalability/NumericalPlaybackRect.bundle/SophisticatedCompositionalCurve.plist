@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultTechnique</key>
+	<string>canContinueKernel</string>
+	<key>frameForce</key>
+	<string>similarRequest</string>
+	<key>globalSkin</key>
+	<string>aspectForm</string>
+	<key>hardSplitter</key>
+	<string>decodeCertificate</string>
+	<key>hascursor</key>
+	<string>exceptiondelay</string>
+	<key>permanentSubscription</key>
+	<string>nextOptimizer</string>
+	<key>reactiveSegue</key>
+	<string>connectNavigation</string>
+	<key>robustState</key>
+	<string>canPopScale</string>
+	<key>sequentialChooser</key>
+	<string>evaluatebehavior</string>
+	<key>unmountfuture</key>
+	<string>canvasmetrics</string>
+</dict>
+</plist>

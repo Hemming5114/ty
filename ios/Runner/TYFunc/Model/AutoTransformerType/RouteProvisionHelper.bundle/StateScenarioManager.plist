@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composabledependency</key>
+	<string>prepareMargin</string>
+	<key>consumemodulus</key>
+	<string>canFetchAccessory</string>
+	<key>creategrid</key>
+	<string>similarCluster</string>
+	<key>cursorSpacing</key>
+	<string>canFormatPositioned</string>
+	<key>missionResponse</key>
+	<string>originalPriority</string>
+	<key>moduleShade</key>
+	<string>pinchableSample</string>
+	<key>subtlecallback</key>
+	<string>disposeOptimizer</string>
+	<key>taskSpacing</key>
+	<string>shouldFormatNorm</string>
+	<key>themeright</key>
+	<string>schemaShape</string>
+	<key>usedmediaquerytail</key>
+	<string>cancelColumn</string>
+</dict>
+</plist>

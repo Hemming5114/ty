@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newestDecoration</key>
+	<string>sharedflex</string>
+	<key>seamlessFeature</key>
+	<string>checkboxBuffer</string>
+	<key>shouldDeserializeRole</key>
+	<string>sophisticatedSplitter</string>
+	<key>shouldPublishInteger</key>
+	<string>invisibleNorm</string>
+	<key>shouldValidateDrawer</key>
+	<string>positionSaturation</string>
+	<key>statefulRadius</key>
+	<string>resourceDecorator</string>
+	<key>temporaryBandwidth</key>
+	<string>beginnercupertino</string>
+</dict>
+</plist>

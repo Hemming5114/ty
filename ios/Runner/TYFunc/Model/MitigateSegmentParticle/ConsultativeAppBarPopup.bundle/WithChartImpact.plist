@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSplitter</key>
+	<string>fixedComponent</string>
+	<key>deserializemethod</key>
+	<string>shapeType</string>
+	<key>findtopic</key>
+	<string>extendAlignment</string>
+	<key>mediumMediaQuery</key>
+	<string>inflateAlignment</string>
+	<key>resumeasset</key>
+	<string>usedGraphic</string>
+	<key>shouldStreamListView</key>
+	<string>shouldResumeAnimation</string>
+	<key>updategraphic</key>
+	<string>vertexStatus</string>
+</dict>
+</plist>

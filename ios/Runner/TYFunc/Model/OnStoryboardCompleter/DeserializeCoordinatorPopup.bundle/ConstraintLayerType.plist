@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultshader</key>
+	<string>smallImage</string>
+	<key>intuitiveAsync</key>
+	<string>displayInteractor</string>
+	<key>publicSingleton</key>
+	<string>configurationBuffer</string>
+	<key>shouldEncodeDialogs</key>
+	<string>rowStage</string>
+	<key>shouldTransitionGraphic</key>
+	<string>mediumCompleter</string>
+	<key>standaloneGrain</key>
+	<string>canNavigateSpecifier</string>
+</dict>
+</plist>

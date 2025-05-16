@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicVariant</key>
+	<string>containerview</string>
+	<key>comprehensiveLoss</key>
+	<string>converterStyle</string>
+	<key>inactivemediaquery</key>
+	<string>canDismissLoss</string>
+	<key>meshPadding</key>
+	<string>shouldCacheHero</string>
+	<key>optimizenotifier</key>
+	<string>tappableInkWell</string>
+	<key>publicConstant</key>
+	<string>seguemodeshade</string>
+	<key>skiptopic</key>
+	<string>impressionForce</string>
+	<key>specifyTimer</key>
+	<string>stopPadding</string>
+</dict>
+</plist>

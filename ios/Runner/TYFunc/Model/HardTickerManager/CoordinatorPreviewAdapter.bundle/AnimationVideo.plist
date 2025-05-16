@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperLeft</key>
+	<string>symmetricNode</string>
+	<key>liteEffect</key>
+	<string>uniformFlex</string>
+	<key>liteListView</key>
+	<string>shouldPrepareWorkflow</string>
+	<key>mountedprovider</key>
+	<string>factorystructurespacing</string>
+	<key>shouldAnimateAnchor</key>
+	<string>subsequentBloc</string>
+	<key>symbolbycontext</key>
+	<string>animatorTop</string>
+	<key>usedRect</key>
+	<string>masterofvar</string>
+</dict>
+</plist>

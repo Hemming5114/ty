@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventValidation</key>
+	<string>richtextProcess</string>
+	<key>intuitiveScalability</key>
+	<string>quitProgressBar</string>
+	<key>pinchablerow</key>
+	<string>synchronousText</string>
+	<key>publicCustomPaint</key>
+	<string>ephemeralText</string>
+	<key>semanticStatus</key>
+	<string>variantDecorator</string>
+	<key>shouldSerializeAnimation</key>
+	<string>shouldPublishExpanded</string>
+</dict>
+</plist>

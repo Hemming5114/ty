@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicConfiguration</key>
+	<string>canShowReduction</string>
+	<key>methodofenvironment</key>
+	<string>animatedSkirt</string>
+	<key>missionresponse</key>
+	<string>pinchableDescent</string>
+	<key>mountedsubscription</key>
+	<string>clipInterface</string>
+	<key>rebuildinstruction</key>
+	<string>agileAscent</string>
+	<key>shouldResumeBehavior</key>
+	<string>buildCustomPaint</string>
+	<key>temporaryreducer</key>
+	<string>prismaticbuttonlocation</string>
+</dict>
+</plist>

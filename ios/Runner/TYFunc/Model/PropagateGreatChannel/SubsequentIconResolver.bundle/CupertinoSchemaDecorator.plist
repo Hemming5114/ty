@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keycompletiondistance</key>
+	<string>tensorticker</string>
+	<key>resilienceStyle</key>
+	<string>interactiveDocument</string>
+	<key>shouldProcessSign</key>
+	<string>shouldDispatchGate</string>
+	<key>shouldReplaceChannels</key>
+	<string>popCurve</string>
+	<key>shouldSkipCurve</key>
+	<string>elasticController</string>
+	<key>symmetricTangent</key>
+	<string>specifyImpact</string>
+	<key>tweenbeyondprototype</key>
+	<string>concreteGridView</string>
+</dict>
+</plist>

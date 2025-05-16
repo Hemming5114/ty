@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineTransparency</key>
+	<string>markdelegate</string>
+	<key>disparateState</key>
+	<string>enumerateFuture</string>
+	<key>emitpageview</key>
+	<string>liteCosine</string>
+	<key>fetchindicator</key>
+	<string>transformerCommand</string>
+	<key>shouldKeepMaster</key>
+	<string>batchKind</string>
+	<key>unaryForce</key>
+	<string>secondTrajectory</string>
+</dict>
+</plist>

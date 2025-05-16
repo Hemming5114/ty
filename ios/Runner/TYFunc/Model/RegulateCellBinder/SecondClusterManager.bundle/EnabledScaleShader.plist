@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capturedrawer</key>
+	<string>smallAccessory</string>
+	<key>cubesaturation</key>
+	<string>reliabilityflags</string>
+	<key>interfacesaturation</key>
+	<string>referenceBound</string>
+	<key>mutableMetrics</key>
+	<string>roleAlignment</string>
+	<key>profilesorter</key>
+	<string>otherSorter</string>
+	<key>shouldMountedView</key>
+	<string>captionSaturation</string>
+	<key>shouldTrainSwitch</key>
+	<string>isModal</string>
+	<key>statelessQuaternion</key>
+	<string>animateDialogs</string>
+</dict>
+</plist>

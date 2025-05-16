@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStream</key>
+	<string>protectedRenderer</string>
+	<key>errorOpacity</key>
+	<string>channelDepth</string>
+	<key>fixedchannelvelocity</key>
+	<string>rebuildMatrix</string>
+	<key>globalCapacity</key>
+	<string>shouldMountPrecision</string>
+	<key>navigatorvolume</key>
+	<string>numericalmultiplication</string>
+	<key>newestActivity</key>
+	<string>autoAspectRatio</string>
+	<key>resilientImpact</key>
+	<string>tabbaramongtemple</string>
+	<key>scalabilityShape</key>
+	<string>frameJob</string>
+	<key>shouldConnectAppBar</key>
+	<string>connectCupertino</string>
+	<key>sustainableEffect</key>
+	<string>eventdelay</string>
+</dict>
+</plist>

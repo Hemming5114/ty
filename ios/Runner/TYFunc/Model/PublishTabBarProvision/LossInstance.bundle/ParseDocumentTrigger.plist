@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentInteraction</key>
+	<string>largeEqualization</string>
+	<key>controllerCoord</key>
+	<string>texturemementorate</string>
+	<key>diffablebaseline</key>
+	<string>dispatchpoint</string>
+	<key>nibTail</key>
+	<string>shouldNotifySample</string>
+	<key>normalAsset</key>
+	<string>shouldPresentDropdownButton</string>
+	<key>shouldContinueConsumer</key>
+	<string>disposeActivity</string>
+	<key>shouldContinueMediaQuery</key>
+	<string>missedReference</string>
+	<key>shouldMountTable</key>
+	<string>onoperationchanged</string>
+	<key>shouldReplacePainter</key>
+	<string>finishTouch</string>
+</dict>
+</plist>

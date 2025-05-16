@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionduringcommand</key>
+	<string>loadArithmetic</string>
+	<key>draggableFragments</key>
+	<string>arithmeticlistenerduration</string>
+	<key>newestAspectRatio</key>
+	<string>granularText</string>
+	<key>shouldDismissReduction</key>
+	<string>sizeversussingleton</string>
+	<key>shouldRouteSpot</key>
+	<string>permanentCharacteristic</string>
+	<key>shouldbuildtask</key>
+	<string>tabbarsaturation</string>
+	<key>transformeralignment</key>
+	<string>specifyPreview</string>
+	<key>unsortedVolume</key>
+	<string>rotatehash</string>
+</dict>
+</plist>

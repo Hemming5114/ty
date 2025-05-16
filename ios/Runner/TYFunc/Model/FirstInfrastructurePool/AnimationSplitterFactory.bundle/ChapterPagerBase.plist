@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBottom</key>
+	<string>detachMethod</string>
+	<key>controllerandstyle</key>
+	<string>canPushComposition</string>
+	<key>imageColor</key>
+	<string>completionComposite</string>
+	<key>immutableElement</key>
+	<string>canInflateDecoration</string>
+	<key>primaryPositioned</key>
+	<string>mendforce</string>
+	<key>smartPicker</key>
+	<string>disclaimerSize</string>
+	<key>ternarytop</key>
+	<string>unmountedRoute</string>
+	<key>usageviaactivity</key>
+	<string>integerbrightness</string>
+</dict>
+</plist>

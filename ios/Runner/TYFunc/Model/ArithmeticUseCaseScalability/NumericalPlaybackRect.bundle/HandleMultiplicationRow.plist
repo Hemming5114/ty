@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertcontainer</key>
+	<string>robustImpression</string>
+	<key>attachwidget</key>
+	<string>notifyIsolate</string>
+	<key>commonOptimizer</key>
+	<string>tappableTabBar</string>
+	<key>connectspine</key>
+	<string>singleAsync</string>
+	<key>contrastLocation</key>
+	<string>handleShader</string>
+	<key>crudeWorkflow</key>
+	<string>animatedcontainersingletonopacity</string>
+	<key>notationsaturation</key>
+	<string>diffableMomentum</string>
+	<key>shouldRestartGraphic</key>
+	<string>shouldpersistactivity</string>
+</dict>
+</plist>

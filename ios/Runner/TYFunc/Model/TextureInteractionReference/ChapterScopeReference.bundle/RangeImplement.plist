@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCreator</key>
+	<string>cartesianSpine</string>
+	<key>beginnercomponent</key>
+	<string>disposetext</string>
+	<key>completionshaperight</key>
+	<string>shouldDeserializeCupertino</string>
+	<key>customizedSample</key>
+	<string>serializeAllocator</string>
+	<key>declarativeReducer</key>
+	<string>currentscroll</string>
+	<key>originalUseCase</key>
+	<string>queueObserver</string>
+	<key>shouldStreamAnimation</key>
+	<string>displayableCard</string>
+	<key>startswift</key>
+	<string>canPopConvolution</string>
+	<key>ternaryFlags</key>
+	<string>consultativeMaster</string>
+</dict>
+</plist>

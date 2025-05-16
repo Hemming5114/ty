@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredPermutation</key>
+	<string>registerError</string>
+	<key>intensityenvironmentfeedback</key>
+	<string>validateBox</string>
+	<key>normalStroke</key>
+	<string>clipperScope</string>
+	<key>shouldEmitScroll</key>
+	<string>connectSwift</string>
+	<key>shouldKeepBatch</key>
+	<string>persistentMusic</string>
+	<key>unactivatedCanvas</key>
+	<string>respondException</string>
+	<key>undertaketabview</key>
+	<string>publicEntropy</string>
+	<key>wrapperorientation</key>
+	<string>dedicatedUseCase</string>
+</dict>
+</plist>

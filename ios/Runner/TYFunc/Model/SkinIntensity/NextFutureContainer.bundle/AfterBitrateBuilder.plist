@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendobserver</key>
+	<string>tentativeLocation</string>
+	<key>cartesianIntegrity</key>
+	<string>shouldContinueInkWell</string>
+	<key>commonMetadata</key>
+	<string>subtleBrush</string>
+	<key>marginnumberinterval</key>
+	<string>euclideananchor</string>
+	<key>positionedEdge</key>
+	<string>unactivatedNavigation</string>
+	<key>shouldDismissThread</key>
+	<string>tensorVideo</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanTentative</key>
+	<string>semanticsScope</string>
+	<key>immediateDelegate</key>
+	<string>formatConstraint</string>
+	<key>issizedbox</key>
+	<string>baselineFlyweight</string>
+	<key>lockreducer</key>
+	<string>shouldCacheStack</string>
+	<key>mutableCycle</key>
+	<string>lossforcycle</string>
+	<key>symmetricThread</key>
+	<string>pinchableBloc</string>
+</dict>
+</plist>

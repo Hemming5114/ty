@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCursor</key>
+	<string>immutableInfo</string>
+	<key>immutableAccessory</key>
+	<string>canDisposeAlert</string>
+	<key>mountedlocalization</key>
+	<string>bitrateskewx</string>
+	<key>touchscene</key>
+	<string>geometricasset</string>
+</dict>
+</plist>

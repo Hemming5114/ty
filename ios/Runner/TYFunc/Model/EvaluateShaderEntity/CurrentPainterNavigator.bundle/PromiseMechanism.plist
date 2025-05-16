@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawertop</key>
+	<string>clearCurve</string>
+	<key>globalTernary</key>
+	<string>singletonMethod</string>
+	<key>indicatorsaturation</key>
+	<string>characterFunction</string>
+	<key>shouldNotifyModulus</key>
+	<string>sinktolerance</string>
+	<key>shouldProcessDrawer</key>
+	<string>usedtechnique</string>
+</dict>
+</plist>

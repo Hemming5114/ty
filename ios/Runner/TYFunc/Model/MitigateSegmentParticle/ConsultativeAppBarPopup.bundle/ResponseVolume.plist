@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardindex</key>
+	<string>shouldPaintLog</string>
+	<key>gridviewcoord</key>
+	<string>canReplaceSpot</string>
+	<key>permanentConsumer</key>
+	<string>reactiveEvent</string>
+	<key>schemaTint</key>
+	<string>exceptionFunction</string>
+	<key>shouldDismissThread</key>
+	<string>giftradius</string>
+</dict>
+</plist>

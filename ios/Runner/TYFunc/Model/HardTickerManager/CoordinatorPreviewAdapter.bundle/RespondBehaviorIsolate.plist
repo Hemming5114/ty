@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorVelocity</key>
+	<string>materializerAppearance</string>
+	<key>geometrictopicinterval</key>
+	<string>modalDuration</string>
+	<key>granularNode</key>
+	<string>materialNavigation</string>
+	<key>modeldensity</key>
+	<string>shouldPushTable</string>
+	<key>provisionForce</key>
+	<string>detachIcon</string>
+	<key>seekaxis</key>
+	<string>unmountedGradient</string>
+</dict>
+</plist>

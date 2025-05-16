@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianResponse</key>
+	<string>geometricCubit</string>
+	<key>euclideanAsync</key>
+	<string>captionkind</string>
+	<key>explicitgraphicoffset</key>
+	<string>previewDecorator</string>
+	<key>interactorinteraction</key>
+	<string>ternaryInteraction</string>
+	<key>shouldlayoutcollection</key>
+	<string>shouldUpdateTransition</string>
+</dict>
+</plist>

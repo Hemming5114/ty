@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicThroughput</key>
+	<string>evaluationTop</string>
+	<key>singleAnimator</key>
+	<string>canMountedPromise</string>
+	<key>statelessSkin</key>
+	<string>shouldTrainSizedBox</string>
+	<key>taskevent</key>
+	<string>unmountCompletion</string>
+</dict>
+</plist>

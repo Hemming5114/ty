@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonthroughvariable</key>
+	<string>usecasecontaintask</string>
+	<key>composableDescriptor</key>
+	<string>animateTangent</string>
+	<key>flexibleNorm</key>
+	<string>popHero</string>
+	<key>hierarchicalstateful</key>
+	<string>collectionAction</string>
+	<key>multibutton</key>
+	<string>protectedRecursion</string>
+	<key>rectlayerflags</key>
+	<string>shouldNotifyDocument</string>
+	<key>significantSubpixel</key>
+	<string>shouldContinueArithmetic</string>
+</dict>
+</plist>

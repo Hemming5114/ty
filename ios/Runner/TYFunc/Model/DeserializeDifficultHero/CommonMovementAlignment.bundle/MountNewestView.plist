@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMode</key>
+	<string>relationalAudio</string>
+	<key>isRow</key>
+	<string>releaseAlignment</string>
+	<key>mainentityinset</key>
+	<string>gridmode</string>
+	<key>providerBrightness</key>
+	<string>transformerBound</string>
+	<key>shouldUnbindMedia</key>
+	<string>parallelFragment</string>
+	<key>shouldlisteninkwell</key>
+	<string>canCacheLabel</string>
+	<key>statefulJoiner</key>
+	<string>reliabilityspeed</string>
+	<key>subsequentCapacity</key>
+	<string>shouldDispatchRemainder</string>
+	<key>textfieldbeyondnumber</key>
+	<string>canReplaceStateful</string>
+</dict>
+</plist>

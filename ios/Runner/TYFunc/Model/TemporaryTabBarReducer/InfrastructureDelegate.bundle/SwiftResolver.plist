@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateGate</key>
+	<string>localarchitecture</string>
+	<key>mediaBehavior</key>
+	<string>bundleLocalization</string>
+	<key>originalcombiner</key>
+	<string>parallelStateful</string>
+	<key>shouldReplaceHistogram</key>
+	<string>implementSlider</string>
+	<key>shouldUnmountedGrayscale</key>
+	<string>euclideanQueue</string>
+</dict>
+</plist>

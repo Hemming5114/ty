@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constructborder</key>
+	<string>uniqueMaterial</string>
+	<key>descriptionAlignment</key>
+	<string>independentReduction</string>
+	<key>joinerDepth</key>
+	<string>documentalignment</string>
+	<key>largeTabView</key>
+	<string>intermediateAperture</string>
+	<key>partitionsemantics</key>
+	<string>requestaroundscope</string>
+	<key>releasemedia</key>
+	<string>restoreRadius</string>
+	<key>specifyAllocator</key>
+	<string>canBindGrayscale</string>
+	<key>typicalbloc</key>
+	<string>similarLayout</string>
+</dict>
+</plist>

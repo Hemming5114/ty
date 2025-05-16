@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicWrapper</key>
+	<string>consumeStorage</string>
+	<key>descriptionInteraction</key>
+	<string>formatGesture</string>
+	<key>gradientorientation</key>
+	<string>specifierevolution</string>
+	<key>offsetTheme</key>
+	<string>shouldunmounteddescriptor</string>
+	<key>originalSingleton</key>
+	<string>radiuswrapper</string>
+	<key>persistentWrapper</key>
+	<string>gramSize</string>
+	<key>reactiveEfficiency</key>
+	<string>resolveSprite</string>
+	<key>sinkkindappearance</key>
+	<string>marshaldelegate</string>
+	<key>statefulTitle</key>
+	<string>colorDuration</string>
+</dict>
+</plist>

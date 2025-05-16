@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleeffect</key>
+	<string>sortedtopic</string>
+	<key>cardvisibility</key>
+	<string>liteOffset</string>
+	<key>initializemedia</key>
+	<string>showCycle</string>
+	<key>listviewvelocity</key>
+	<string>coordinatorOperation</string>
+	<key>nodevalidation</key>
+	<string>nativeSubpixel</string>
+	<key>robustconverter</key>
+	<string>captionOffset</string>
+	<key>shouldReplaceNotification</key>
+	<string>shouldPopNorm</string>
+	<key>unsortedTouch</key>
+	<string>layoutResource</string>
+</dict>
+</plist>

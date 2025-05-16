@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>onpageviewchanged</key>
+	<string>accessibleAspect</string>
+	<key>seamlessBrush</key>
+	<string>sinkFlags</string>
+	<key>subsequentGraph</key>
+	<string>compositionalConstraint</string>
+	<key>uniquezone</key>
+	<string>routeFormat</string>
+	<key>utilwithoutvalue</key>
+	<string>hierarchicalListView</string>
+</dict>
+</plist>

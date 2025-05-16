@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionskewx</key>
+	<string>sequentialMaster</string>
+	<key>collectionbuilder</key>
+	<string>inactiveText</string>
+	<key>concurrentnotificationleft</key>
+	<string>inactiveColor</string>
+	<key>diffableDelegate</key>
+	<string>resilientGrid</string>
+	<key>intermediateProcessor</key>
+	<string>stepKind</string>
+	<key>measureusage</key>
+	<string>canDetachEffect</string>
+	<key>specifyLayer</key>
+	<string>consultativeEmitter</string>
+	<key>spriteBottom</key>
+	<string>completionVisibility</string>
+</dict>
+</plist>

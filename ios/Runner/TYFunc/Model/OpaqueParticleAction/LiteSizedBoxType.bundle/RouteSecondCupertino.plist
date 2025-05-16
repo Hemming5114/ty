@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureEdge</key>
+	<string>mediocreConsumption</string>
+	<key>cacheOrientation</key>
+	<string>extensionChain</string>
+	<key>criticalConfiguration</key>
+	<string>popCompletion</string>
+	<key>currentHero</key>
+	<string>integrationOrigin</string>
+	<key>equalizationTail</key>
+	<string>rotateNode</string>
+	<key>mediaInset</key>
+	<string>quantizationcurve</string>
+	<key>pivotalTable</key>
+	<string>shouldPauseRow</string>
+	<key>reactiveCreator</key>
+	<string>eventRotation</string>
+	<key>shouldlayouticon</key>
+	<string>seamlessModal</string>
+</dict>
+</plist>

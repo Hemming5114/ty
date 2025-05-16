@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionStyle</key>
+	<string>scrollableTexture</string>
+	<key>fetchinteractor</key>
+	<string>petCommand</string>
+	<key>interfacetension</key>
+	<string>immediateText</string>
+	<key>shouldAnimateNotification</key>
+	<string>screenRight</string>
+	<key>sizeSize</key>
+	<string>unmountedModal</string>
+	<key>switchInteraction</key>
+	<string>resetSingleton</string>
+</dict>
+</plist>

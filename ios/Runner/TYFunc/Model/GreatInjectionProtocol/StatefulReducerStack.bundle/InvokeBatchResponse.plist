@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedNotifier</key>
+	<string>stopScale</string>
+	<key>discardedCard</key>
+	<string>inkwellAcceleration</string>
+	<key>disparateSensor</key>
+	<string>findTimer</string>
+	<key>labelRotation</key>
+	<string>decorationPosition</string>
+	<key>opaqueVector</key>
+	<string>shouldemitalert</string>
+	<key>requiredThroughput</key>
+	<string>rendertitle</string>
+	<key>shouldNotifyStep</key>
+	<string>restartPlate</string>
+	<key>shouldcreategrayscale</key>
+	<string>heroDepth</string>
+	<key>usedRange</key>
+	<string>navigateCache</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmenttemplelocation</key>
+	<string>currentMetadata</string>
+	<key>eventinnumber</key>
+	<string>canStartImage</string>
+	<key>immediateProfile</key>
+	<string>dynamicdocument</string>
+	<key>retainedstamp</key>
+	<string>denseLog</string>
+	<key>singleAwait</key>
+	<string>graphicObserver</string>
+	<key>specifyEmitter</key>
+	<string>shouldLoadResource</string>
+</dict>
+</plist>

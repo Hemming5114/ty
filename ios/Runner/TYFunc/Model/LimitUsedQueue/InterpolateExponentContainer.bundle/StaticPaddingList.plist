@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableBatch</key>
+	<string>keyEquivalent</string>
+	<key>crudeOccasion</key>
+	<string>fixedPublisher</string>
+	<key>explicitFormat</key>
+	<string>fillgridview</string>
+	<key>flexibleAppBar</key>
+	<string>crucialRequest</string>
+	<key>retainedReceiver</key>
+	<string>uniquePosition</string>
+	<key>seamlessCanvas</key>
+	<string>quantizationReducer</string>
+	<key>shouldPrepareAppBar</key>
+	<string>shouldStartBloc</string>
+	<key>transformcupertino</key>
+	<string>formatOpacity</string>
+</dict>
+</plist>

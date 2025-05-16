@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionMomentum</key>
+	<string>trianglestheme</string>
+	<key>mediocreAsync</key>
+	<string>hierarchicalAsync</string>
+	<key>popspecifier</key>
+	<string>markPresenter</string>
+	<key>spotduringphase</key>
+	<string>alignmentIndex</string>
+	<key>visibleListView</key>
+	<string>currentPosition</string>
+</dict>
+</plist>

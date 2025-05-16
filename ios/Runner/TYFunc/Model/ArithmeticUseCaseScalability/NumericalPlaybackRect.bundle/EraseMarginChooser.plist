@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedRestriction</key>
+	<string>gridsorter</string>
+	<key>hyperbolicbatchorigin</key>
+	<string>deflateProgressBar</string>
+	<key>specifyShape</key>
+	<string>shouldrebuildmember</string>
+	<key>tabviewdecoration</key>
+	<string>infoDuration</string>
+	<key>temporaryaudio</key>
+	<string>poolView</string>
+	<key>unactivatedFlex</key>
+	<string>consultativeSound</string>
+</dict>
+</plist>

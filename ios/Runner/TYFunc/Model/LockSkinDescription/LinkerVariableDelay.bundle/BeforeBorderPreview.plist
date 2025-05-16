@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterTheme</key>
+	<string>cancelCurve</string>
+	<key>intuitivehandler</key>
+	<string>respectiveMobile</string>
+	<key>petStatus</key>
+	<string>listviewRight</string>
+	<key>respondimage</key>
+	<string>visibleOperation</string>
+	<key>smallscene</key>
+	<string>metricsAcceleration</string>
+	<key>spotSpeed</key>
+	<string>techniquedependency</string>
+</dict>
+</plist>

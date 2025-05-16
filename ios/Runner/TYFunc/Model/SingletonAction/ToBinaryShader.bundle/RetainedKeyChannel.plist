@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDialogs</key>
+	<string>navigationFlyweight</string>
+	<key>concurrentallocator</key>
+	<string>listenNib</string>
+	<key>futureprocessspacing</key>
+	<string>stateState</string>
+	<key>interfaceTint</key>
+	<string>listenSlider</string>
+	<key>invisibleSpine</key>
+	<string>activatedStoryboard</string>
+	<key>observertail</key>
+	<string>secondtext</string>
+	<key>serializeinjection</key>
+	<string>limitError</string>
+	<key>shouldAnimateModulus</key>
+	<string>shouldtransitionalert</string>
+	<key>shouldPublishUnary</key>
+	<string>canSaveBuilder</string>
+	<key>unarycluster</key>
+	<string>wrapperFormat</string>
+</dict>
+</plist>

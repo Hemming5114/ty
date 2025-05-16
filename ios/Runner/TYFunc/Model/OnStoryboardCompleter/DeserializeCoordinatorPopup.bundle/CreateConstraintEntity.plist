@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemactionhue</key>
+	<string>shouldRebuildAnchor</string>
+	<key>immutableState</key>
+	<string>granularPicker</string>
+	<key>resilientScenario</key>
+	<string>drawerNumber</string>
+	<key>shouldDisconnectCertificate</key>
+	<string>adaptivePainter</string>
+	<key>smallgesturedetector</key>
+	<string>singletonOperation</string>
+	<key>tappableCertificate</key>
+	<string>dependencyvisible</string>
+	<key>transitionopacity</key>
+	<string>statelessRow</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLoop</key>
+	<string>mountedTangent</string>
+	<key>shouldRestartConvolution</key>
+	<string>shouldPersistClipper</string>
+	<key>strokepadding</key>
+	<string>shouldDeserializeCatalyst</string>
+</dict>
+</plist>

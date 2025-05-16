@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computefuture</key>
+	<string>shouldcontinuegate</string>
+	<key>concurrentColumn</key>
+	<string>lazyService</string>
+	<key>deflaterow</key>
+	<string>createNavigation</string>
+	<key>lastTween</key>
+	<string>pendingSwift</string>
+	<key>managerPosition</key>
+	<string>embedConfiguration</string>
+	<key>methodInterval</key>
+	<string>loadCharacter</string>
+	<key>objectTop</key>
+	<string>reflectQueue</string>
+	<key>usedResilience</key>
+	<string>criticalDispatcher</string>
+</dict>
+</plist>

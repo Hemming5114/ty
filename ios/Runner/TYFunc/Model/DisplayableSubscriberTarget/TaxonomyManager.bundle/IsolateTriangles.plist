@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferobserverrate</key>
+	<string>respondDelegate</string>
+	<key>channelsvisibility</key>
+	<string>significantGrain</string>
+	<key>exceptionfragments</key>
+	<string>blocRate</string>
+	<key>mobileReducer</key>
+	<string>canYieldNib</string>
+	<key>reductionBottom</key>
+	<string>mobilePhase</string>
+	<key>shouldValidateBatch</key>
+	<string>channelsBottom</string>
+	<key>sorterMomentum</key>
+	<string>lockReducer</string>
+	<key>textkind</key>
+	<string>trainSkin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStack</key>
+	<string>canFetchBehavior</string>
+	<key>interfaceRotation</key>
+	<string>requestCenter</string>
+	<key>isolatevaluecenter</key>
+	<string>canAnimateSegue</string>
+	<key>pagerValidation</key>
+	<string>shouldPersistStoryboard</string>
+	<key>primaryCard</key>
+	<string>elasticInstruction</string>
+	<key>selectedcolumn</key>
+	<string>groupVisible</string>
+	<key>statefulIsolate</key>
+	<string>semanticsmodel</string>
+	<key>sustainableIntegration</key>
+	<string>draggableDropdownButton</string>
+</dict>
+</plist>

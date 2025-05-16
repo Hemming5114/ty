@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStrength</key>
+	<string>mainslider</string>
+	<key>batchCoord</key>
+	<string>canNavigateOverlay</string>
+	<key>efficiencyShade</key>
+	<string>bundleHandler</string>
+	<key>iconVelocity</key>
+	<string>inactivepromisetag</string>
+	<key>intermediatemodel</key>
+	<string>nibCycle</string>
+	<key>reusablecurvedensity</key>
+	<string>canDisposeHeap</string>
+	<key>sessionResponse</key>
+	<string>rectangleName</string>
+	<key>shouldParseDropdownButton</key>
+	<string>shouldPushUsage</string>
+	<key>shouldValidateGate</key>
+	<string>optimizeNavigator</string>
+	<key>shouldstoptool</key>
+	<string>canDisposeDimension</string>
+</dict>
+</plist>

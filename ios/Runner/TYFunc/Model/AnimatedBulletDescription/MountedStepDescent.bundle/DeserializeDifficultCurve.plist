@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedcontroller</key>
+	<string>beginnerMargin</string>
+	<key>joineroffset</key>
+	<string>shouldFetchLoss</string>
+	<key>localRoute</key>
+	<string>dismissInkWell</string>
+	<key>numericalMovement</key>
+	<string>aspectPattern</string>
+	<key>originalSelector</key>
+	<string>normalignment</string>
+	<key>smartpermutation</key>
+	<string>mediocremember</string>
+	<key>temporaryDetail</key>
+	<string>startScroll</string>
+	<key>tickerEdge</key>
+	<string>mainTopic</string>
+	<key>viewsaturation</key>
+	<string>firstCollection</string>
+</dict>
+</plist>

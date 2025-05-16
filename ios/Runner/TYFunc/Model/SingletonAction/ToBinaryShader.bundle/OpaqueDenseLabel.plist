@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynctimeline</key>
+	<string>descriptorFlags</string>
+	<key>currentboxshadow</key>
+	<string>shouldSubscribeNavigation</string>
+	<key>enabledPlayback</key>
+	<string>curveMargin</string>
+	<key>liteStream</key>
+	<string>opaquePrecision</string>
+	<key>timescale</key>
+	<string>gateBehavior</string>
+</dict>
+</plist>

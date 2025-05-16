@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorspacing</key>
+	<string>canRestartLabel</string>
+	<key>explicitPolyfill</key>
+	<string>associatedOverlay</string>
+	<key>histogramSize</key>
+	<string>quitDelegate</string>
+	<key>inactiveCapsule</key>
+	<string>bandwidthTail</string>
+	<key>lazyChooser</key>
+	<string>delegateTint</string>
+	<key>persistentMapper</key>
+	<string>delicateAccessory</string>
+	<key>shouldDisconnectConvolution</key>
+	<string>shouldPersistBrush</string>
+	<key>shouldKeepPositioned</key>
+	<string>prepareLogarithm</string>
+	<key>sophisticatedSensor</key>
+	<string>callbackCycle</string>
+	<key>stateinterpreteredge</key>
+	<string>diffableMobile</string>
+</dict>
+</plist>

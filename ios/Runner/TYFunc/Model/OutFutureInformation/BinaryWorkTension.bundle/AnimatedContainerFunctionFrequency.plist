@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintnumbercount</key>
+	<string>symmetricFinder</string>
+	<key>detectordirection</key>
+	<string>crucialScale</string>
+	<key>gesturedetectorDepth</key>
+	<string>injectBuffer</string>
+	<key>largeCapsule</key>
+	<string>resizablePoint</string>
+	<key>largeIcon</key>
+	<string>batchComposite</string>
+	<key>normalCreator</key>
+	<string>webPresenter</string>
+	<key>scrollableerrordepth</key>
+	<string>drawgesturedetector</string>
+	<key>shouldEncodePet</key>
+	<string>accessibleCube</string>
+	<key>shouldKeepRow</key>
+	<string>unarydecoratorduration</string>
+	<key>substantialSemantics</key>
+	<string>paintResource</string>
+</dict>
+</plist>

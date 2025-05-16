@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTheme</key>
+	<string>projectionticker</string>
+	<key>ephemeralStorage</key>
+	<string>implementService</string>
+	<key>labelpager</key>
+	<string>permutationFrequency</string>
+	<key>mechanismcoord</key>
+	<string>roletolerance</string>
+	<key>movementcenter</key>
+	<string>sorterFlags</string>
+	<key>optionOffset</key>
+	<string>subpixelInterval</string>
+	<key>semanticpolyfill</key>
+	<string>concurrentResponder</string>
+	<key>shouldSetStateColumn</key>
+	<string>directanalogy</string>
+	<key>singleObserver</key>
+	<string>resolverRate</string>
+</dict>
+</plist>

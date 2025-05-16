@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveClipper</key>
+	<string>interactorParam</string>
+	<key>associatedSegue</key>
+	<string>semanticInteractor</string>
+	<key>completerfunctiontint</key>
+	<string>shouldRestartBrush</string>
+	<key>cupertinoPolygon</key>
+	<string>tabviewpopup</string>
+	<key>shouldPopNavigation</key>
+	<string>tensorProject</string>
+	<key>shouldcachemusic</key>
+	<string>shouldNotifyPlayback</string>
+</dict>
+</plist>

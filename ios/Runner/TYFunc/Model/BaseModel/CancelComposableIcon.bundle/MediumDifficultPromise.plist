@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentScale</key>
+	<string>checkboxForce</string>
+	<key>ephemeralAccessory</key>
+	<string>embedMetadata</string>
+	<key>shadermodeinterval</key>
+	<string>compositionalEfficiency</string>
+	<key>specifiermediatorlocation</key>
+	<string>mutableHash</string>
+</dict>
+</plist>

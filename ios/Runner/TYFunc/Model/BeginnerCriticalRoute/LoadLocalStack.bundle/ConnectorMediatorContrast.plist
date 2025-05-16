@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGate</key>
+	<string>concurrentUseCase</string>
+	<key>convolutionspeed</key>
+	<string>inflateLocalization</string>
+	<key>loaderIndex</key>
+	<string>touchAsset</string>
+	<key>reconcilelayout</key>
+	<string>positionedprototypemargin</string>
+	<key>restartstoryboard</key>
+	<string>profileIntensity</string>
+	<key>robustRestriction</key>
+	<string>gridviewFacade</string>
+</dict>
+</plist>

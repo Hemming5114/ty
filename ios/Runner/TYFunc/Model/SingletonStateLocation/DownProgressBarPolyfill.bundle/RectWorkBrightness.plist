@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiondirection</key>
+	<string>detachExpanded</string>
+	<key>compositionalplayback</key>
+	<string>mediumIntensity</string>
+	<key>cubitEdge</key>
+	<string>scrollableDelegate</string>
+	<key>eagerReference</key>
+	<string>scaleTop</string>
+	<key>entityInteraction</key>
+	<string>bufferduration</string>
+	<key>giftskewx</key>
+	<string>diffableDropdownButton</string>
+	<key>oldCluster</key>
+	<string>hyperbolicCapacities</string>
+	<key>selectedListView</key>
+	<string>ignoredZone</string>
+	<key>shouldLoadBrush</key>
+	<string>canTransformSizedBox</string>
+</dict>
+</plist>

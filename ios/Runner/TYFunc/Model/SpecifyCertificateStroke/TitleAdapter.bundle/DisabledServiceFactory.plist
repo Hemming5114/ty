@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHandler</key>
+	<string>staticintegration</string>
+	<key>crudeConsumer</key>
+	<string>currentcaption</string>
+	<key>cursorrecursion</key>
+	<string>canDeserializeClipper</string>
+	<key>hyperbolicDelivery</key>
+	<string>canHandleBaseline</string>
+	<key>subscriberPosition</key>
+	<string>lastscalability</string>
+</dict>
+</plist>

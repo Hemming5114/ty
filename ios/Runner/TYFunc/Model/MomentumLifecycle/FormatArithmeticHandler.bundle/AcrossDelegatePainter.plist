@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatormapper</key>
+	<string>factoryAcceleration</string>
+	<key>arithmeticPageView</key>
+	<string>documentDecorator</string>
+	<key>criticalmethod</key>
+	<string>symbolPosition</string>
+	<key>fragmentsForce</key>
+	<string>relationalCanvas</string>
+	<key>shouldCreateAspectRatio</key>
+	<string>advancedRadius</string>
+	<key>shouldSubscribeTheme</key>
+	<string>smallNavigation</string>
+	<key>sophisticatedListener</key>
+	<string>canCacheHeap</string>
+	<key>timerShape</key>
+	<string>grainTop</string>
+	<key>unsortedMusic</key>
+	<string>sharedequalization</string>
+</dict>
+</plist>

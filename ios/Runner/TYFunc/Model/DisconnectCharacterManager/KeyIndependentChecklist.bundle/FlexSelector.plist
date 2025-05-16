@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstGradient</key>
+	<string>obtainRouter</string>
+	<key>mediumRole</key>
+	<string>canRestartRoute</string>
+	<key>precisionTop</key>
+	<string>canDisposeStoryboard</string>
+	<key>previewBottom</key>
+	<string>basicStroke</string>
+	<key>retainedReference</key>
+	<string>interpolationVisitor</string>
+	<key>shouldProcessInstruction</key>
+	<string>otherdispatcher</string>
+	<key>shouldrenderpriority</key>
+	<string>optimizemetadata</string>
+	<key>textureStyle</key>
+	<string>unmountedLog</string>
+	<key>textureperform</key>
+	<string>discardedPrecision</string>
+</dict>
+</plist>

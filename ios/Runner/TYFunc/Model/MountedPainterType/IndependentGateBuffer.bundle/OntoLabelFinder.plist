@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fleximpact</key>
+	<string>pushVector</string>
+	<key>grainMomentum</key>
+	<string>constantDirection</string>
+	<key>normalWrapper</key>
+	<string>positionedmechanism</string>
+	<key>pivotalmethodmargin</key>
+	<string>freeOffset</string>
+	<key>shouldRebuildClipper</key>
+	<string>adaptiveCreator</string>
+	<key>swiftframe</key>
+	<string>unbindSpine</string>
+</dict>
+</plist>

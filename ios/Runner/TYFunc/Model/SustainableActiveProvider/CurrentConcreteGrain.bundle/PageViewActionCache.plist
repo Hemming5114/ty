@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticDuration</key>
+	<string>commonprovider</string>
+	<key>interactiveTextField</key>
+	<string>renderkernel</string>
+	<key>shouldMountedDropdownButton</key>
+	<string>contractionLevel</string>
+	<key>temporaryMenu</key>
+	<string>retainedSound</string>
+</dict>
+</plist>

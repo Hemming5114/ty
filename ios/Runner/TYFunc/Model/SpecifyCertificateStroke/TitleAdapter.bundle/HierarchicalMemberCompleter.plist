@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityFrequency</key>
+	<string>shouldNavigateAnchor</string>
+	<key>oncompositionchanged</key>
+	<string>materializerIndex</string>
+	<key>resourceDuration</key>
+	<string>rapidTimer</string>
+	<key>shouldRestartProject</key>
+	<string>validategram</string>
+</dict>
+</plist>

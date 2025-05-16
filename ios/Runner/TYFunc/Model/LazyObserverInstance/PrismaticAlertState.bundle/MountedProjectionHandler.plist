@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationDuration</key>
+	<string>singletonSystem</string>
+	<key>graphicmode</key>
+	<string>remainderalignment</string>
+	<key>inheritedModel</key>
+	<string>pivotalSubpixel</string>
+	<key>localSprite</key>
+	<string>canSkipPageView</string>
+	<key>pivotalBinder</key>
+	<string>normalStoryboard</string>
+	<key>respectiveMaterial</key>
+	<string>instructionFrequency</string>
+	<key>storyboardSpacing</key>
+	<string>canFetchSubpixel</string>
+	<key>tappableBinder</key>
+	<string>canProcessTernary</string>
+</dict>
+</plist>

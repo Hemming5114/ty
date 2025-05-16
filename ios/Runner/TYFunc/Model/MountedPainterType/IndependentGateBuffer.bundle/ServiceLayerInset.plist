@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedcell</key>
+	<string>textureAction</string>
+	<key>alertValidation</key>
+	<string>shouldBuildEntropy</string>
+	<key>backwardseguedelay</key>
+	<string>completionLeft</string>
+	<key>cupertinoCapsule</key>
+	<string>captureParticle</string>
+	<key>linkerSize</key>
+	<string>capturechapter</string>
+	<key>painterevolution</key>
+	<string>subtleRadio</string>
+	<key>primaryArchitecture</key>
+	<string>poolmap</string>
+	<key>shouldPushBullet</key>
+	<string>metricsHue</string>
+	<key>shouldSkipPoint</key>
+	<string>consumeAllocator</string>
+	<key>smartException</key>
+	<string>replaceImage</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyfrequency</key>
+	<string>specifierDuration</string>
+	<key>inactiveSession</key>
+	<string>accessoryAdapter</string>
+	<key>protocolCenter</key>
+	<string>nativeEfficiency</string>
+	<key>shouldProcessNorm</key>
+	<string>selectedBatch</string>
+	<key>shouldTransitionStateless</key>
+	<string>amortizationtop</string>
+</dict>
+</plist>

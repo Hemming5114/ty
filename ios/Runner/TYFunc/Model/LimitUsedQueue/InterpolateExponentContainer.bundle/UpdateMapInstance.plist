@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOpacity</key>
+	<string>sinkcount</string>
+	<key>bitrateformat</key>
+	<string>missedsinksaturation</string>
+	<key>configurationDepth</key>
+	<string>canDisconnectDescriptor</string>
+	<key>crudeLoop</key>
+	<string>mutableConstant</string>
+	<key>dialogsFlags</key>
+	<string>reusableOption</string>
+	<key>mediocreSplitter</key>
+	<string>switchContext</string>
+	<key>navigationVelocity</key>
+	<string>apertureVisibility</string>
+	<key>shouldSetStateFragment</key>
+	<string>inflateoptimizer</string>
+	<key>sliderbrightness</key>
+	<string>shouldUpdateContainer</string>
+</dict>
+</plist>

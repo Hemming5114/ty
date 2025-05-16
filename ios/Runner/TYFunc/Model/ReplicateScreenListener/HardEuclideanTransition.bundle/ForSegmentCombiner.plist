@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDropdownButton</key>
+	<string>storeManager</string>
+	<key>deferredQuaternion</key>
+	<string>threadScope</string>
+	<key>lifecycleHue</key>
+	<string>moveEvent</string>
+	<key>oldAlpha</key>
+	<string>profileDependency</string>
+	<key>pointevent</key>
+	<string>granulargesturedetectorcolor</string>
+	<key>responsedetector</key>
+	<string>renderExpanded</string>
+	<key>statelessNotation</key>
+	<string>diversifiedLayer</string>
+</dict>
+</plist>

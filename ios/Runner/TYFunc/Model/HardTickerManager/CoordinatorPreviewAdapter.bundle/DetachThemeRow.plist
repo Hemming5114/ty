@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMobile</key>
+	<string>publisherSpacing</string>
+	<key>bitratetierskewy</key>
+	<string>hashPadding</string>
+	<key>channelsallocator</key>
+	<string>canSubscribeSignature</string>
+	<key>chartrectangle</key>
+	<string>richtextMethod</string>
+	<key>conformbloc</key>
+	<string>shouldPopScaffold</string>
+	<key>customizedInjection</key>
+	<string>activitytimer</string>
+	<key>ephemeralAnimator</key>
+	<string>publishnavigator</string>
+	<key>prismaticConnector</key>
+	<string>binaryRotation</string>
+	<key>shouldCancelSegue</key>
+	<string>observeOperation</string>
+</dict>
+</plist>

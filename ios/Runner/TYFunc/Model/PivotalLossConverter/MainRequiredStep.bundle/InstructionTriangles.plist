@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalShader</key>
+	<string>insteadCurve</string>
+	<key>eagerReducer</key>
+	<string>lazyCallback</string>
+	<key>numericalTweak</key>
+	<string>statelessCache</string>
+	<key>shouldFetchTangent</key>
+	<string>evaluateRect</string>
+	<key>shouldReplaceNavigation</key>
+	<string>canPrepareSwitch</string>
+	<key>similarHash</key>
+	<string>newestmatrix</string>
+	<key>textfieldgrain</key>
+	<string>extensionStrategy</string>
+	<key>trianglesRotation</key>
+	<string>permissiveChannel</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardtheme</key>
+	<string>smallMission</string>
+	<key>lostSchema</key>
+	<string>referencedistance</string>
+	<key>parallelComponent</key>
+	<string>canUnmountNotification</string>
+	<key>radioStyle</key>
+	<string>normalVariant</string>
+	<key>remainderamongprototype</key>
+	<string>gesturedetectorkind</string>
+	<key>resilientCard</key>
+	<string>shouldInflateHistogram</string>
+	<key>signatureBottom</key>
+	<string>bulletInterpreter</string>
+</dict>
+</plist>

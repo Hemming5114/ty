@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblechallengetype</key>
+	<string>uniqueCaption</string>
+	<key>advancedBinary</key>
+	<string>assetScale</string>
+	<key>concreteFormat</key>
+	<string>priorBandwidth</string>
+	<key>difficultButton</key>
+	<string>shouldPaintSizedBox</string>
+	<key>globalCompletion</key>
+	<string>activateFeature</string>
+	<key>hashLeft</key>
+	<string>subsequentEntropy</string>
+	<key>mediocreStorage</key>
+	<string>canValidateComposition</string>
+	<key>onmastertap</key>
+	<string>inkwellStructure</string>
+	<key>shouldCancelTransition</key>
+	<string>canSaveCanvas</string>
+</dict>
+</plist>

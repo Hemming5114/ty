@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellForce</key>
+	<string>mixinrect</string>
+	<key>litenotificationacceleration</key>
+	<string>shouldCancelInteger</string>
+	<key>originalmissiontransparency</key>
+	<string>uniformAlert</string>
+	<key>rapidFormat</key>
+	<string>entityStatus</string>
+	<key>significantstorage</key>
+	<string>shouldStreamColumn</string>
+	<key>similarManager</key>
+	<string>nodeTier</string>
+</dict>
+</plist>

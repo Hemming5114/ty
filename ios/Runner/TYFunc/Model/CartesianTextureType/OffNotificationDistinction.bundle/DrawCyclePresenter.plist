@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicUtil</key>
+	<string>otherBloc</string>
+	<key>cellfacadepadding</key>
+	<string>shouldRouteTabView</string>
+	<key>checkboxInset</key>
+	<string>inflateDependency</string>
+	<key>crudeStateful</key>
+	<string>documentSaturation</string>
+	<key>istable</key>
+	<string>parseNode</string>
+	<key>materialArithmetic</key>
+	<string>themeShade</string>
+	<key>mutableDelegate</key>
+	<string>joinerSpeed</string>
+	<key>prismaticCell</key>
+	<string>animatedcontainerBehavior</string>
+</dict>
+</plist>

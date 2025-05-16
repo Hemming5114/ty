@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedintegercenter</key>
+	<string>decoupleFactory</string>
+	<key>associatedAllocator</key>
+	<string>mediumParticle</string>
+	<key>decodeoffset</key>
+	<string>concatenateEntity</string>
+	<key>gridviewLeft</key>
+	<string>shouldLayoutTask</string>
+	<key>serializetopic</key>
+	<string>buttonVelocity</string>
+	<key>shouldConnectTangent</key>
+	<string>isInteger</string>
+	<key>shouldTrainCursor</key>
+	<string>inactiveAwait</string>
+</dict>
+</plist>

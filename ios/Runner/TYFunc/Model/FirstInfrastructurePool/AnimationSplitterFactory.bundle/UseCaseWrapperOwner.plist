@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEvolution</key>
+	<string>mediocreTexture</string>
+	<key>chaptertop</key>
+	<string>decorationType</string>
+	<key>dynamicConstant</key>
+	<string>invokeFeature</string>
+	<key>pinchableAlignment</key>
+	<string>largeGem</string>
+	<key>prismaticModulus</key>
+	<string>shouldPublishCursor</string>
+	<key>rapidRoute</key>
+	<string>navigateSlider</string>
+	<key>smartPainter</key>
+	<string>shouldPopButton</string>
+	<key>substantialTexture</key>
+	<string>hashStrategy</string>
+	<key>visibleDrawer</key>
+	<string>fragmentacceleration</string>
+</dict>
+</plist>

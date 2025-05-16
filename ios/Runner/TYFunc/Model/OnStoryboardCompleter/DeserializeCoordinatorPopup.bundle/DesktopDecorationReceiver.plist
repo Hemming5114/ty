@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblePriority</key>
+	<string>uniqueChecklist</string>
+	<key>newestQueue</key>
+	<string>loadSubpixel</string>
+	<key>previewnearvar</key>
+	<string>rectifyRadius</string>
+	<key>refreshoptimizer</key>
+	<string>navigatorbycontext</string>
+	<key>significantSprite</key>
+	<string>bufferFlyweight</string>
+	<key>taskbymediator</key>
+	<string>pausefeature</string>
+</dict>
+</plist>

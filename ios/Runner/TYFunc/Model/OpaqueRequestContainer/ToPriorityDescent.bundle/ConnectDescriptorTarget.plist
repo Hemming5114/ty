@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addtask</key>
+	<string>dataIndex</string>
+	<key>diversifiedVector</key>
+	<string>cupertinoscope</string>
+	<key>normalCheckbox</key>
+	<string>shouldUpdateCosine</string>
+	<key>shouldRestartChecklist</key>
+	<string>deliveryIndex</string>
+	<key>statefulconstraint</key>
+	<string>masterBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachanimation</key>
+	<string>dismissRichText</string>
+	<key>consultativeEffect</key>
+	<string>hardBrush</string>
+	<key>euclideantween</key>
+	<string>canRenderGem</string>
+	<key>inactivefragments</key>
+	<string>inheritedDescent</string>
+	<key>interfaceinteraction</key>
+	<string>statefulBuilder</string>
+	<key>mainFinder</key>
+	<string>attachNavigation</string>
+	<key>resultmargin</key>
+	<string>invisiblelifecycle</string>
+	<key>shouldNotifyDelegate</key>
+	<string>interactiveprojectiondensity</string>
+</dict>
+</plist>

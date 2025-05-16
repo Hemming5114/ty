@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAmortization</key>
+	<string>unsortedTweak</string>
+	<key>batchworkbrightness</key>
+	<string>onrichtextchanged</string>
+	<key>checkvariant</key>
+	<string>customizedQueue</string>
+	<key>immutableCustomPaint</key>
+	<string>sizeedge</string>
+	<key>loopDensity</key>
+	<string>nativeVideo</string>
+	<key>queueconstant</key>
+	<string>modelFrequency</string>
+	<key>referencevariableinterval</key>
+	<string>opaqueThreshold</string>
+	<key>shouldDisconnectTool</key>
+	<string>shouldContinueGate</string>
+	<key>transitioncapacity</key>
+	<string>materialnavigatoroffset</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledProvision</key>
+	<string>shouldDispatchImage</string>
+	<key>equalizationRight</key>
+	<string>presentpresenter</string>
+	<key>firstresolverlocation</key>
+	<string>fusedSound</string>
+	<key>inactiveLoop</key>
+	<string>particlestylekind</string>
+	<key>rangelocation</key>
+	<string>fragmentIndex</string>
+	<key>scaleshapesize</key>
+	<string>disposeOperation</string>
+	<key>shouldUnmountBullet</key>
+	<string>mutableHash</string>
+</dict>
+</plist>

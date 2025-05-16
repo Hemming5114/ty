@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConstant</key>
+	<string>publishAnchor</string>
+	<key>lazyGrayscale</key>
+	<string>gemsink</string>
+	<key>resizableDrawer</key>
+	<string>primaryRequest</string>
+	<key>shouldstartdimension</key>
+	<string>cardDensity</string>
+	<key>similarAwait</key>
+	<string>currentPermutation</string>
+	<key>sortedTransformer</key>
+	<string>similarLog</string>
+	<key>tabviewState</key>
+	<string>multiMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsAcceleration</key>
+	<string>popText</string>
+	<key>functionalStream</key>
+	<string>setstateCharacter</string>
+	<key>immediateOperation</key>
+	<string>graphHead</string>
+	<key>menuMode</key>
+	<string>desktopexceptionhue</string>
+	<key>opaqueCharacteristic</key>
+	<string>currentPainter</string>
+	<key>scaleTail</key>
+	<string>serializeNib</string>
+</dict>
+</plist>

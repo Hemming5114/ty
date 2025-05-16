@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasShape</key>
+	<string>singletonBottom</string>
+	<key>canvascompleter</key>
+	<string>activateTransformer</string>
+	<key>dismissrepository</key>
+	<string>startcursor</string>
+	<key>impressionVisible</key>
+	<string>writecapacities</string>
+	<key>inactiveCursor</key>
+	<string>directlyChannels</string>
+	<key>parallelRectangle</key>
+	<string>deferredSignature</string>
+	<key>repositoryFeedback</key>
+	<string>unactivatedPicker</string>
+	<key>resilientModulus</key>
+	<string>interpolateCallback</string>
+	<key>shouldEndContraction</key>
+	<string>sharedConstraint</string>
+</dict>
+</plist>

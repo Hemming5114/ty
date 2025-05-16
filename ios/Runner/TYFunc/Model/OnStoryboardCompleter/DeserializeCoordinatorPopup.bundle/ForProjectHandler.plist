@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardUnary</key>
+	<string>numericalreferenceborder</string>
+	<key>hierarchicalCollection</key>
+	<string>shouldstarttransition</string>
+	<key>interactorinset</key>
+	<string>isBullet</string>
+	<key>lossMode</key>
+	<string>imperativePolyfill</string>
+	<key>shaderversusenvironment</key>
+	<string>geometricConsumption</string>
+</dict>
+</plist>

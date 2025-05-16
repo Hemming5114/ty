@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerspacing</key>
+	<string>quitFuture</string>
+	<key>apertureSpeed</key>
+	<string>independentPageView</string>
+	<key>arithmeticBrush</key>
+	<string>backwardUnary</string>
+	<key>imperativesprite</key>
+	<string>itemResponse</string>
+	<key>intermediateslider</key>
+	<string>mountCaption</string>
+	<key>listeneragainstnumber</key>
+	<string>materialFramework</string>
+	<key>shouldInflateBitrate</key>
+	<string>resilientbloc</string>
+	<key>shouldLoadLoss</key>
+	<string>taskMediator</string>
+</dict>
+</plist>

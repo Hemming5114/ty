@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerRight</key>
+	<string>anchorLocation</string>
+	<key>ascentValidation</key>
+	<string>customIntegration</string>
+	<key>disabledmobile</key>
+	<string>immediateMapper</string>
+	<key>maintainview</key>
+	<string>variantDensity</string>
+	<key>resolvesingleton</key>
+	<string>entityVariable</string>
+	<key>routedepth</key>
+	<string>specifierhead</string>
+	<key>shouldBuildBoxShadow</key>
+	<string>fusedThread</string>
+	<key>substantialPager</key>
+	<string>diffablelistener</string>
+	<key>uniquecoordinatorbottom</key>
+	<string>canRenderMediaQuery</string>
+</dict>
+</plist>

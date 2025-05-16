@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFlags</key>
+	<string>scrollableExponent</string>
+	<key>elasticTabView</key>
+	<string>keyIntegrity</string>
+	<key>fixedNavigator</key>
+	<string>rotateRouter</string>
+	<key>navigatortimer</key>
+	<string>futureLocation</string>
+	<key>robustDetector</key>
+	<string>canResumeObserver</string>
+	<key>synchronousLifecycle</key>
+	<string>richtexteffect</string>
+</dict>
+</plist>

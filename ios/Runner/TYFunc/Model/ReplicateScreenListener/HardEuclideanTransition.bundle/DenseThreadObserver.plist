@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBorder</key>
+	<string>filterFlags</string>
+	<key>behaviorInteraction</key>
+	<string>escalateBuilder</string>
+	<key>progressbarFormat</key>
+	<string>intermediateRichText</string>
+	<key>responsivecosine</key>
+	<string>stepfuture</string>
+	<key>uniformMedia</key>
+	<string>rangeVelocity</string>
+</dict>
+</plist>

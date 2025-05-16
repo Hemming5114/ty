@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedgrainfeedback</key>
+	<string>wrapperInterval</string>
+	<key>notationOrigin</key>
+	<string>dynamicmodelskewx</string>
+	<key>publishprogressbar</key>
+	<string>standalonestorageformat</string>
+	<key>shouldPersistCheckbox</key>
+	<string>customCursor</string>
+	<key>stateelasticity</key>
+	<string>shouldResumeChannels</string>
+</dict>
+</plist>

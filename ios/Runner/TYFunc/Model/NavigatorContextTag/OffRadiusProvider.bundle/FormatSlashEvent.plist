@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePoint</key>
+	<string>variantMediator</string>
+	<key>drawerinteraction</key>
+	<string>featureStrategy</string>
+	<key>evaluationType</key>
+	<string>shouldPaintFlex</string>
+	<key>memberoffset</key>
+	<string>loopatvalue</string>
+	<key>parallelNotifier</key>
+	<string>unsortedSizedBox</string>
+	<key>secondAlert</key>
+	<string>unmountCosine</string>
+	<key>servicedistinction</key>
+	<string>routevalidation</string>
+	<key>singleOperation</key>
+	<string>limitButton</string>
+	<key>variantSkewX</key>
+	<string>convolutionHead</string>
+</dict>
+</plist>

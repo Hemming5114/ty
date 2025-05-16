@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseWrapper</key>
+	<string>cubeindex</string>
+	<key>mediocremethod</key>
+	<string>shouldSerializePlate</string>
+	<key>resumemaster</key>
+	<string>graphframeworkvisibility</string>
+	<key>shouldPersistProjection</key>
+	<string>shouldUnbindAlert</string>
+</dict>
+</plist>

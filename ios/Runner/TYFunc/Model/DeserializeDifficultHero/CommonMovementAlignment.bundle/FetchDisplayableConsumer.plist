@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkdelegate</key>
+	<string>completionanimator</string>
+	<key>exponentTheme</key>
+	<string>inactiveRoute</string>
+	<key>factorypressure</key>
+	<string>standaloneTaxonomy</string>
+	<key>missedSymbol</key>
+	<string>shouldrouteview</string>
+	<key>newestTable</key>
+	<string>missionsingletonvalidation</string>
+	<key>shouldencodestack</key>
+	<string>wrapperOrigin</string>
+	<key>shouldpushsemantics</key>
+	<string>equipmentallocator</string>
+	<key>shouldroutestateful</key>
+	<string>newestRequest</string>
+	<key>transitiontext</key>
+	<string>prismaticExpanded</string>
+</dict>
+</plist>

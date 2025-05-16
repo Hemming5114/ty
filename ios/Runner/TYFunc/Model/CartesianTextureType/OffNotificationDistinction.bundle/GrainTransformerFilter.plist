@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledOccasion</key>
+	<string>isolateAlignment</string>
+	<key>fusedLifecycle</key>
+	<string>injectionFlyweight</string>
+	<key>ignoredexception</key>
+	<string>propagateboxshadow</string>
+	<key>navigationHead</key>
+	<string>objectstyle</string>
+	<key>pointstagedistance</key>
+	<string>aperturetemplebrightness</string>
+	<key>popupOpacity</key>
+	<string>concreteAnimatedContainer</string>
+	<key>rapidScene</key>
+	<string>drawcollection</string>
+	<key>shouldFetchMonster</key>
+	<string>axisState</string>
+	<key>shouldLayoutLabel</key>
+	<string>buffersize</string>
+</dict>
+</plist>

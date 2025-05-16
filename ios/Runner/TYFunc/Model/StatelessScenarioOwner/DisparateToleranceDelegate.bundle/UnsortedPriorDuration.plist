@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedclippershape</key>
+	<string>newestZone</string>
+	<key>compositionalTransition</key>
+	<string>detachPriority</string>
+	<key>findinkwell</key>
+	<string>immutableSpot</string>
+	<key>otherDispatcher</key>
+	<string>drawProvider</string>
+	<key>prevDescriptor</key>
+	<string>inheritedZone</string>
+	<key>shouldMountProjection</key>
+	<string>selectedmission</string>
+</dict>
+</plist>

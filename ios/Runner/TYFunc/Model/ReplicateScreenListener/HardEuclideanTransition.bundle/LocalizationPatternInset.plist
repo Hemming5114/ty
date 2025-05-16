@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDescriptor</key>
+	<string>serializepet</string>
+	<key>ignoredShader</key>
+	<string>cancelentity</string>
+	<key>interactiveImpact</key>
+	<string>entropyLocation</string>
+	<key>lostrouterinteraction</key>
+	<string>resumeInterpolation</string>
+	<key>nativeAspect</key>
+	<string>restoreRouter</string>
+	<key>navigationexcepttemple</key>
+	<string>routeTop</string>
+	<key>segmentscopeorigin</key>
+	<string>staticCompletion</string>
+	<key>sorterKind</key>
+	<string>shouldPaintDelegate</string>
+</dict>
+</plist>

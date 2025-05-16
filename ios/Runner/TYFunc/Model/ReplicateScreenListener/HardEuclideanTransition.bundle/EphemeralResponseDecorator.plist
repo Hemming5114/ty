@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disposeicon</key>
+	<string>robustHero</string>
+	<key>imageFeedback</key>
+	<string>characterBehavior</string>
+	<key>respectiveStack</key>
+	<string>startOperation</string>
+	<key>shouldtransitionpainter</key>
+	<string>characteristicOffset</string>
+	<key>sliderRate</key>
+	<string>prismaticbitrate</string>
+	<key>storyboardBehavior</key>
+	<string>segmentInterval</string>
+	<key>threadOffset</key>
+	<string>presenterValue</string>
+</dict>
+</plist>

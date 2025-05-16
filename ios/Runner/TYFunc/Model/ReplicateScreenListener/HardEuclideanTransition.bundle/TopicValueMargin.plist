@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalGroup</key>
+	<string>accessibleOption</string>
+	<key>hardVector</key>
+	<string>instructionEnvironment</string>
+	<key>selectedscaffold</key>
+	<string>spineStructure</string>
+	<key>shouldUnmountedDimension</key>
+	<string>shouldCacheStateful</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autothemekind</key>
+	<string>remediationShape</string>
+	<key>gramtierspacing</key>
+	<string>dynamicFrame</string>
+	<key>mediumAmortization</key>
+	<string>curveEnvironment</string>
+	<key>nextMusic</key>
+	<string>contractionvelocity</string>
+	<key>sinedirection</key>
+	<string>presenterpressure</string>
+	<key>specifyCharacteristic</key>
+	<string>lockBuilder</string>
+	<key>subtlePainter</key>
+	<string>standaloneInfo</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayer</key>
+	<string>entityTheme</string>
+	<key>ephemeralbloc</key>
+	<string>shouldCancelCell</string>
+	<key>hasGraphic</key>
+	<string>shouldUpdateSegment</string>
+	<key>lastSensor</key>
+	<string>liteMusic</string>
+	<key>pinchableMend</key>
+	<string>eagerTable</string>
+	<key>shouldUnbindRoute</key>
+	<string>sharedScheduler</string>
+	<key>synchronousContraction</key>
+	<string>activatedColor</string>
+</dict>
+</plist>

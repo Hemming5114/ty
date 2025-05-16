@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerStack</key>
+	<string>canStreamProjection</string>
+	<key>matrixconsumer</key>
+	<string>canUnmountedDecoration</string>
+	<key>modalSaturation</key>
+	<string>canUpdateWorkflow</string>
+	<key>shouldbindsegue</key>
+	<string>scopeFlags</string>
+</dict>
+</plist>

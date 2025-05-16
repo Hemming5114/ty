@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTail</key>
+	<string>skinName</string>
+	<key>disabledConvolution</key>
+	<string>connectState</string>
+	<key>ismomentum</key>
+	<string>hyperbolicImpact</string>
+	<key>iterativeConnector</key>
+	<string>enabledEqualization</string>
+	<key>logreceiver</key>
+	<string>intuitiveLoss</string>
+	<key>nodeimage</key>
+	<string>significantBuffer</string>
+	<key>popview</key>
+	<string>unsortedrestriction</string>
+	<key>resultmediatoroffset</key>
+	<string>appendReducer</string>
+	<key>shouldTransitionChecklist</key>
+	<string>connectError</string>
+</dict>
+</plist>

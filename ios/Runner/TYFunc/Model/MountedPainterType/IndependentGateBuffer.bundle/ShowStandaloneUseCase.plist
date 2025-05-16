@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedEffect</key>
+	<string>enabledDocument</string>
+	<key>bandwidthInteraction</key>
+	<string>thresholdSkewX</string>
+	<key>oldComposition</key>
+	<string>deserializesign</string>
+	<key>priorRect</key>
+	<string>canReplaceCurve</string>
+	<key>shouldEndSpine</key>
+	<string>maxUsage</string>
+	<key>shouldanimatestateless</key>
+	<string>usageOperation</string>
+	<key>standaloneSample</key>
+	<string>accordionNib</string>
+	<key>substantialPager</key>
+	<string>missedInteger</string>
+</dict>
+</plist>

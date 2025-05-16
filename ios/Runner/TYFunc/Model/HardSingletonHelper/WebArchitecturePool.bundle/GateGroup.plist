@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentpoint</key>
+	<string>queuemapper</string>
+	<key>permissiveBaseline</key>
+	<string>variantType</string>
+	<key>publicdescriptor</key>
+	<string>beginnerBorder</string>
+	<key>segmentmetrics</key>
+	<string>rectlocation</string>
+	<key>shouldkeepnotifier</key>
+	<string>pageviewtail</string>
+	<key>shouldrendersession</key>
+	<string>usageconverter</string>
+</dict>
+</plist>

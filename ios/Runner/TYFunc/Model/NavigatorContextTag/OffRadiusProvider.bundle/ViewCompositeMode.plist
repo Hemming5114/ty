@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behavioracceleration</key>
+	<string>displayableIsolate</string>
+	<key>smallUseCase</key>
+	<string>cardCenter</string>
+	<key>subtleTexture</key>
+	<string>lostText</string>
+	<key>tensorBox</key>
+	<string>restartCatalyst</string>
+</dict>
+</plist>

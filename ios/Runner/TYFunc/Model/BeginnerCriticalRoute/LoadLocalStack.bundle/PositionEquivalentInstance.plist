@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleinvisitor</key>
+	<string>assetinterval</string>
+	<key>denseListener</key>
+	<string>replacePrecision</string>
+	<key>fixedRepository</key>
+	<string>keepArithmetic</string>
+	<key>greatGesture</key>
+	<string>opaqueMethod</string>
+	<key>lastStream</key>
+	<string>signatureInterpreter</string>
+	<key>persistentExpanded</key>
+	<string>freeSingleton</string>
+	<key>typicalQueue</key>
+	<string>shouldTrainGradient</string>
+	<key>undertakesprite</key>
+	<string>stopsample</string>
+</dict>
+</plist>

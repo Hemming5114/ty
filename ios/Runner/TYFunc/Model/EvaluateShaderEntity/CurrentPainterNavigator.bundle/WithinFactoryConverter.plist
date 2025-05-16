@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedThread</key>
+	<string>euclideanCapacity</string>
+	<key>invisibleGesture</key>
+	<string>canDisposeReduction</string>
+	<key>shouldYieldAnchor</key>
+	<string>quitResource</string>
+	<key>statusMode</key>
+	<string>shouldRenderKernel</string>
+	<key>uniqueTrajectory</key>
+	<string>canHandleCharacter</string>
+</dict>
+</plist>

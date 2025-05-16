@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanfuture</key>
+	<string>pendingGate</string>
+	<key>navigatoranalogy</key>
+	<string>taskFrequency</string>
+	<key>shouldCacheInkWell</key>
+	<string>enabledPreview</string>
+	<key>shouldSubscribeCaption</key>
+	<string>mobileFactory</string>
+	<key>textfieldindex</key>
+	<string>prevTool</string>
+</dict>
+</plist>

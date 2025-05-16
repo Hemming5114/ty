@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedmediaquery</key>
+	<string>audioRotation</string>
+	<key>characterBorder</key>
+	<string>shouldHandlePriority</string>
+	<key>cupertinoNotification</key>
+	<string>controllerFunction</string>
+	<key>granularMenu</key>
+	<string>originalRoute</string>
+	<key>mutableComposition</key>
+	<string>modulusBorder</string>
+	<key>quantizervariant</key>
+	<string>basePrototype</string>
+	<key>semanticContrast</key>
+	<string>selectedTernary</string>
+	<key>similarArithmetic</key>
+	<string>indicatorDelay</string>
+	<key>statelessOffset</key>
+	<string>sortedScalability</string>
+</dict>
+</plist>

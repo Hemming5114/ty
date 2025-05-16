@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratesize</key>
+	<string>mobileTaxonomy</string>
+	<key>desktopTraversal</key>
+	<string>fusedExponent</string>
+	<key>firstentity</key>
+	<string>titlePosition</string>
+	<key>immediateLoss</key>
+	<string>denseTransformer</string>
+	<key>invisibleTextField</key>
+	<string>processConfiguration</string>
+	<key>keyPositioned</key>
+	<string>textfieldOrigin</string>
+	<key>recursionSkewX</key>
+	<string>shouldEncodeFuture</string>
+	<key>textfieldrectangle</key>
+	<string>canFormatAspectRatio</string>
+</dict>
+</plist>

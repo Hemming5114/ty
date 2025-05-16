@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionHero</key>
+	<string>subtleTweak</string>
+	<key>buttonfromstructure</key>
+	<string>displayableTask</string>
+	<key>handlermediatorlocation</key>
+	<string>sharedChooser</string>
+	<key>liteLoop</key>
+	<string>endMonster</string>
+	<key>sequentialMaterial</key>
+	<string>logarithmSize</string>
+	<key>shouldBindBorder</key>
+	<string>resumeTangent</string>
+	<key>temporaryPlate</key>
+	<string>enabledTweak</string>
+</dict>
+</plist>

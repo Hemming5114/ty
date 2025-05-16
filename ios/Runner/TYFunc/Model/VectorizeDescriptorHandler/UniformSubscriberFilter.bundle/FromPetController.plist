@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSearcher</key>
+	<string>resumePlate</string>
+	<key>lostProvision</key>
+	<string>shouldRestartProject</string>
+	<key>reactiveCatalyst</key>
+	<string>textuntilbuffer</string>
+	<key>responsiveScroller</key>
+	<string>extendText</string>
+	<key>shouldSerializeDimension</key>
+	<string>mutableMesh</string>
+	<key>slashTag</key>
+	<string>lostHandler</string>
+	<key>specifierOpacity</key>
+	<string>shouldEncodeConvolution</string>
+	<key>transitionVisible</key>
+	<string>canListenAxis</string>
+</dict>
+</plist>

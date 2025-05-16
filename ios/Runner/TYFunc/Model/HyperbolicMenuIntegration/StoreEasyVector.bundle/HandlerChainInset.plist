@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewRotation</key>
+	<string>skirtCount</string>
+	<key>scopebound</key>
+	<string>descentCenter</string>
+	<key>shouldContinueBinary</key>
+	<string>showRouter</string>
+	<key>smallTolerance</key>
+	<string>batchEdge</string>
+	<key>strokeInset</key>
+	<string>canCacheSpine</string>
+</dict>
+</plist>

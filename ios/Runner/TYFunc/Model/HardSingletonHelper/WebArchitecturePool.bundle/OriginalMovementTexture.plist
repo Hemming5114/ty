@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarstore</key>
+	<string>emitterDistance</string>
+	<key>customizedDescent</key>
+	<string>listenMenu</string>
+	<key>exceptionstageskewy</key>
+	<string>shouldCreatePageView</string>
+	<key>explicitAnimator</key>
+	<string>encodeAllocator</string>
+	<key>inheritedGram</key>
+	<string>reliabilityInterval</string>
+	<key>shouldHandleCapacities</key>
+	<string>workflowFrequency</string>
+	<key>shouldSetStateNib</key>
+	<string>animatedlayoutstyle</string>
+</dict>
+</plist>

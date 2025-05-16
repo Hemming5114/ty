@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDialogs</key>
+	<string>lastRadio</string>
+	<key>deferredMapper</key>
+	<string>notifyRoute</string>
+	<key>iterativeMend</key>
+	<string>polyfillFormat</string>
+	<key>shouldLoadDuration</key>
+	<string>crudeAnimatedContainer</string>
+	<key>smartcallback</key>
+	<string>shouldfetchobserver</string>
+</dict>
+</plist>

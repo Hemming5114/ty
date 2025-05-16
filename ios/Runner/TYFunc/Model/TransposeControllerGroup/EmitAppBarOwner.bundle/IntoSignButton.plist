@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDropdownButton</key>
+	<string>disconnectMap</string>
+	<key>currentAmortization</key>
+	<string>taxonomyRotation</string>
+	<key>dropdownbuttoncontrast</key>
+	<string>objectPadding</string>
+	<key>geometricGrid</key>
+	<string>shouldmountedindicator</string>
+	<key>nibFrequency</key>
+	<string>displayableScope</string>
+	<key>particlefeedback</key>
+	<string>prepareDimension</string>
+	<key>protocolLeft</key>
+	<string>notationInterval</string>
+</dict>
+</plist>

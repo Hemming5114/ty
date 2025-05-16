@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtrajectory</key>
+	<string>shouldValidateModulus</string>
+	<key>boxtask</key>
+	<string>shouldDismissExponent</string>
+	<key>characteristicindex</key>
+	<string>litePager</string>
+	<key>elasticlabelskewy</key>
+	<string>trainbloc</string>
+	<key>mediocreroutebrightness</key>
+	<string>membertop</string>
+	<key>pivotaldetail</key>
+	<string>interpolateResult</string>
+	<key>positionTransparency</key>
+	<string>dynamicRequest</string>
+	<key>statelessPositioned</key>
+	<string>originalProvider</string>
+	<key>substantialMobile</key>
+	<string>canSkipStoryboard</string>
+</dict>
+</plist>

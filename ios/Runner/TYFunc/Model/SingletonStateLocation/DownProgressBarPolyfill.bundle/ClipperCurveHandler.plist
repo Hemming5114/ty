@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitresilience</key>
+	<string>delegateSaturation</string>
+	<key>bitrateCoord</key>
+	<string>resizableHeap</string>
+	<key>configurationResponse</key>
+	<string>canPreparePageView</string>
+	<key>descriptorMargin</key>
+	<string>accordionLogarithm</string>
+	<key>errorskewy</key>
+	<string>memberVelocity</string>
+	<key>findposition</key>
+	<string>behaviorBorder</string>
+	<key>flexiblemechanism</key>
+	<string>shouldReplaceComposition</string>
+	<key>gridInteraction</key>
+	<string>easycontrast</string>
+	<key>hardIcon</key>
+	<string>shouldRouteHero</string>
+	<key>shouldDecodeMobile</key>
+	<string>explicitSingleton</string>
+</dict>
+</plist>

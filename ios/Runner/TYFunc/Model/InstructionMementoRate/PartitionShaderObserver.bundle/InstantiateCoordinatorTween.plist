@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaqueConvolution</key>
+	<string>displayAlignment</string>
+	<key>resizableScheduler</key>
+	<string>unsortedShader</string>
+	<key>responderTop</key>
+	<string>canDeserializeWidget</string>
+	<key>shouldNavigateCursor</key>
+	<string>temporaryOffset</string>
+</dict>
+</plist>

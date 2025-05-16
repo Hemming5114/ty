@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRange</key>
+	<string>symmetricManager</string>
+	<key>cacheTint</key>
+	<string>disabledBinary</string>
+	<key>configurationvariableleft</key>
+	<string>canSetStateCharacter</string>
+	<key>signstrength</key>
+	<string>validateMaster</string>
+	<key>sortedManager</key>
+	<string>criticalTransformer</string>
+	<key>splitterInset</key>
+	<string>confidentialityIndex</string>
+	<key>tabviewTag</key>
+	<string>currentinstruction</string>
+	<key>utilbystructure</key>
+	<string>respectiveUsage</string>
+</dict>
+</plist>

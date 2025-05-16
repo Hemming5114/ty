@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChecklist</key>
+	<string>detachStoryboard</string>
+	<key>dedicatedframe</key>
+	<string>asynchronousLoader</string>
+	<key>reliabilitykind</key>
+	<string>concurrentZone</string>
+	<key>shouldMountNavigator</key>
+	<string>cosineKind</string>
+	<key>substantialboxright</key>
+	<string>shouldfinishtable</string>
+	<key>topicAppearance</key>
+	<string>mediocreGestureDetector</string>
+</dict>
+</plist>

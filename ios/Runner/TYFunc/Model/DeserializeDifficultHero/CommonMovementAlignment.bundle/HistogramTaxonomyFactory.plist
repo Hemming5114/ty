@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderForce</key>
+	<string>pageviewcontrast</string>
+	<key>constraintwithoutmethod</key>
+	<string>slashContext</string>
+	<key>diffableImpression</key>
+	<string>backwardTexture</string>
+	<key>multiRepository</key>
+	<string>entityexceptvariable</string>
+	<key>shouldFormatTabView</key>
+	<string>shouldTransformCell</string>
+	<key>shouldPresentEqualization</key>
+	<string>declarativeMatrix</string>
+	<key>shouldResumeStateless</key>
+	<string>denseFeature</string>
+	<key>stackimpact</key>
+	<string>pushrequest</string>
+	<key>tableduration</key>
+	<string>resumeChannels</string>
+</dict>
+</plist>

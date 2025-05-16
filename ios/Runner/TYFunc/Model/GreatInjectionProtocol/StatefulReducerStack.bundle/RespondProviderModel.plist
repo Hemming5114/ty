@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMenu</key>
+	<string>strengthColor</string>
+	<key>handlerInteraction</key>
+	<string>singletontexture</string>
+	<key>mediumentity</key>
+	<string>revisitLabel</string>
+	<key>sensorDensity</key>
+	<string>typicalZone</string>
+	<key>shouldFinishOptimizer</key>
+	<string>canTransitionScroll</string>
+	<key>standaloneinkwell</key>
+	<string>constructChapter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedinterpolationvalidation</key>
+	<string>canDetachAccessory</string>
+	<key>delicatestatus</key>
+	<string>alphahead</string>
+	<key>errorHead</key>
+	<string>usedFuture</string>
+	<key>materialTimer</key>
+	<string>uniqueVariant</string>
+	<key>routerOpacity</key>
+	<string>agileradius</string>
+	<key>signaturelocation</key>
+	<string>shouldEmitModulus</string>
+</dict>
+</plist>

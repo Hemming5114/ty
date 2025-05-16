@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelFeedback</key>
+	<string>diversifiedItem</string>
+	<key>operationBrightness</key>
+	<string>associatedScroll</string>
+	<key>requiredUnary</key>
+	<string>beginnerResilience</string>
+	<key>shouldStartPriority</key>
+	<string>shouldRebuildAnchor</string>
+	<key>tweenTag</key>
+	<string>canCreateMatrix</string>
+</dict>
+</plist>

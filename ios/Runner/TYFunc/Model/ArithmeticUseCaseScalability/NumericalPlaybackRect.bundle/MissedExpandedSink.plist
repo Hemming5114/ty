@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelradio</key>
+	<string>visibleInteger</string>
+	<key>dependencyMargin</key>
+	<string>alignmentFacade</string>
+	<key>imperativeMaterializer</key>
+	<string>rectatvalue</string>
+	<key>mediaquerySpeed</key>
+	<string>rapidLatency</string>
+	<key>showgrayscale</key>
+	<string>largePlate</string>
+	<key>toolcallback</key>
+	<string>indicatorHead</string>
+</dict>
+</plist>

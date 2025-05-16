@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletdelegate</key>
+	<string>mediaqueryValue</string>
+	<key>discardedMechanism</key>
+	<string>observeBorder</string>
+	<key>permutationsize</key>
+	<string>precisiontraversal</string>
+	<key>shouldKeepMember</key>
+	<string>backwardSample</string>
+	<key>shouldListenAspectRatio</key>
+	<string>requiredPromise</string>
+	<key>tabviewPosition</key>
+	<string>instructionAcceleration</string>
+	<key>ternaryDepth</key>
+	<string>requiredBinary</string>
+	<key>trianglesVelocity</key>
+	<string>shouldDisposeMedia</string>
+</dict>
+</plist>

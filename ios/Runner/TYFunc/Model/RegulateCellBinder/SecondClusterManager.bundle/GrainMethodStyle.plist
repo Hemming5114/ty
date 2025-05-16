@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationinsingleton</key>
+	<string>utilPressure</string>
+	<key>draggablecubitdelay</key>
+	<string>displayableDescent</string>
+	<key>pickertop</key>
+	<string>functionalLatency</string>
+	<key>requestsincetask</key>
+	<string>canvasRate</string>
+	<key>shouldhandleradio</key>
+	<string>nextspineposition</string>
+</dict>
+</plist>

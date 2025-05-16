@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativebox</key>
+	<string>resilientPager</string>
+	<key>customScaffold</key>
+	<string>notifyGate</string>
+	<key>lostMovement</key>
+	<string>requestobserver</string>
+	<key>materialstateshape</key>
+	<string>boxparametervisible</string>
+	<key>resourceLeft</key>
+	<string>disabledProvision</string>
+	<key>shouldPaintThread</key>
+	<string>canDismissGrayscale</string>
+	<key>shouldShowScaffold</key>
+	<string>bundleFrame</string>
+	<key>tabviewnearcontext</key>
+	<string>shouldDisconnectProvider</string>
+</dict>
+</plist>

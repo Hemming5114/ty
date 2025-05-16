@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasforstructure</key>
+	<string>reusableEvolution</string>
+	<key>delicateCompletion</key>
+	<string>alphaFlyweight</string>
+	<key>gridviewTail</key>
+	<string>containerBound</string>
+	<key>responsiveLoss</key>
+	<string>sensorperphase</string>
+	<key>retainedInkWell</key>
+	<string>selectedTransition</string>
+	<key>sustainableObject</key>
+	<string>equalObserver</string>
+</dict>
+</plist>

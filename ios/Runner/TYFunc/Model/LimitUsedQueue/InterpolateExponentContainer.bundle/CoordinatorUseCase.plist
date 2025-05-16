@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasKind</key>
+	<string>channelOffset</string>
+	<key>explicitbullet</key>
+	<string>canPaintMobile</string>
+	<key>mountoffset</key>
+	<string>canUpdateContraction</string>
+	<key>relationalmultiplication</key>
+	<string>mountMobile</string>
+	<key>resultconstant</key>
+	<string>standaloneCubit</string>
+	<key>scenariodistance</key>
+	<string>seguehead</string>
+	<key>sequentialCluster</key>
+	<string>parallelSwift</string>
+	<key>showplayback</key>
+	<string>layoutCupertino</string>
+	<key>ternarychooser</key>
+	<string>directlyLog</string>
+</dict>
+</plist>

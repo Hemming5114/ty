@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBuilder</key>
+	<string>seamlessModel</string>
+	<key>functionalintegration</key>
+	<string>shouldFetchRadio</string>
+	<key>layoutvisible</key>
+	<string>accessibleCupertino</string>
+	<key>notificationTransparency</key>
+	<string>fusedCoordinator</string>
+	<key>responsivedetail</key>
+	<string>listviewRotation</string>
+	<key>seamlessSine</key>
+	<string>shouldFinishAspectRatio</string>
+	<key>shaderhue</key>
+	<string>alignmentDecorator</string>
+	<key>shouldDisconnectFlex</key>
+	<string>disparateMapper</string>
+	<key>tappableVolume</key>
+	<string>compositionalMethod</string>
+</dict>
+</plist>

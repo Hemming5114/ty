@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMethod</key>
+	<string>shouldpopcheckbox</string>
+	<key>animatedduration</key>
+	<string>diffableTimeline</string>
+	<key>customizedDistinction</key>
+	<string>scheduleRouter</string>
+	<key>shouldPrepareSubpixel</key>
+	<string>channelsize</string>
+	<key>shouldPresentPositioned</key>
+	<string>enhanceFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeIntegration</key>
+	<string>nodewithvalue</string>
+	<key>deserializepainter</key>
+	<string>deferredgrayscale</string>
+	<key>materialviewbrightness</key>
+	<string>deactivateswitch</string>
+	<key>parallelTriangles</key>
+	<string>amortizationCount</string>
+	<key>poolcoordinator</key>
+	<string>smallFactory</string>
+	<key>previewrate</key>
+	<string>documentFacade</string>
+	<key>shouldBuildAccessory</key>
+	<string>labelTop</string>
+	<key>sophisticatedStream</key>
+	<string>shouldSubscribeComposition</string>
+	<key>unlockpriority</key>
+	<string>scalabilityCenter</string>
+	<key>usedSpot</key>
+	<string>concurrentSymbol</string>
+</dict>
+</plist>

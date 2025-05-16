@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkgate</key>
+	<string>opaqueTriangles</string>
+	<key>consultativeTernary</key>
+	<string>invisibleFeature</string>
+	<key>intuitiveRenderer</key>
+	<string>masterPadding</string>
+	<key>mainAnimatedContainer</key>
+	<string>shouldDismissLoss</string>
+	<key>mobileResilience</key>
+	<string>shouldFormatRole</string>
+	<key>preparelistener</key>
+	<string>cupertinoelement</string>
+	<key>robustEvent</key>
+	<string>persistCoordinator</string>
+	<key>shouldRenderReduction</key>
+	<string>rebuildCoordinator</string>
+	<key>singletopictop</key>
+	<string>statusedge</string>
+</dict>
+</plist>

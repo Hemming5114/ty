@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantshade</key>
+	<string>chapterEnvironment</string>
+	<key>evolutionindex</key>
+	<string>factoryshape</string>
+	<key>protectedDetail</key>
+	<string>shouldNavigateSlash</string>
+	<key>shaderForce</key>
+	<string>stepDepth</string>
+	<key>shouldLayoutInkWell</key>
+	<string>connectorType</string>
+	<key>shouldRebuildProfile</key>
+	<string>denseModel</string>
+	<key>sizescalability</key>
+	<string>presentGesture</string>
+</dict>
+</plist>

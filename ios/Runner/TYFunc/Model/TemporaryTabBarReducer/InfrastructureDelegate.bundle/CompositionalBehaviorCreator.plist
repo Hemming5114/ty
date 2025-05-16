@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyleft</key>
+	<string>collectionCycle</string>
+	<key>custompaintSpacing</key>
+	<string>intuitiveWidget</string>
+	<key>dynamicCycle</key>
+	<string>invisibleSlider</string>
+	<key>prismaticmanager</key>
+	<string>resilientDuration</string>
+	<key>reducecallback</key>
+	<string>greatreference</string>
+	<key>segmentorientation</key>
+	<string>selecteddescriptor</string>
+	<key>shouldUnbindCheckbox</key>
+	<string>canLayoutAlert</string>
+	<key>usageabouttask</key>
+	<string>slashRight</string>
+</dict>
+</plist>

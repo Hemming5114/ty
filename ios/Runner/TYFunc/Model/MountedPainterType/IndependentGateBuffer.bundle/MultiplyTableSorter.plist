@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchaudio</key>
+	<string>fusedMaterial</string>
+	<key>custompaintflags</key>
+	<string>mobileFunction</string>
+	<key>gatemenu</key>
+	<string>moveResolver</string>
+	<key>hierarchicalSegment</key>
+	<string>canContinueStream</string>
+	<key>interactivegrid</key>
+	<string>cupertinoPlayback</string>
+	<key>lossscene</key>
+	<string>canDisconnectGridView</string>
+	<key>rapidShader</key>
+	<string>canUnmountAxis</string>
+	<key>reactiveobservercoord</key>
+	<string>subsequentMesh</string>
+	<key>sequentialFuture</key>
+	<string>presenterandoperation</string>
+	<key>shouldinflatecharacter</key>
+	<string>canEndLog</string>
+</dict>
+</plist>

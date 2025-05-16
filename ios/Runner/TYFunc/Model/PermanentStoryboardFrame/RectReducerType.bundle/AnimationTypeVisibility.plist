@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystperscope</key>
+	<string>accelerateTransformer</string>
+	<key>dynamicSubscription</key>
+	<string>unbindKernel</string>
+	<key>pinchabletext</key>
+	<string>commonAsset</string>
+	<key>scenarioTint</key>
+	<string>assetSingleton</string>
+</dict>
+</plist>

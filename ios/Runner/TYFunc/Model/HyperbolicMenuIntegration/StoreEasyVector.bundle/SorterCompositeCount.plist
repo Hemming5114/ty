@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalKernel</key>
+	<string>opaqueGift</string>
+	<key>customizedRichText</key>
+	<string>unbindRole</string>
+	<key>hardSymbol</key>
+	<string>plateascent</string>
+	<key>memberlikedecorator</key>
+	<string>composablerect</string>
+	<key>permissiveComponent</key>
+	<string>accelerateTitle</string>
+	<key>pointName</key>
+	<string>finishPadding</string>
+	<key>sampleInterval</key>
+	<string>informationInset</string>
+	<key>shouldEncodeTask</key>
+	<string>refactorAllocator</string>
+	<key>shouldNotifyCatalyst</key>
+	<string>insteadWidget</string>
+	<key>shouldShowMomentum</key>
+	<string>prevContainer</string>
+</dict>
+</plist>

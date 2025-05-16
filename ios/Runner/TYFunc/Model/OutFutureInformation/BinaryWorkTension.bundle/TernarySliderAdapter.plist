@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperMargin</key>
+	<string>sensorTier</string>
+	<key>gridstate</key>
+	<string>curveVisitor</string>
+	<key>presenterresponse</key>
+	<string>compositionalWidget</string>
+	<key>selectedcache</key>
+	<string>reductionFrequency</string>
+	<key>shouldLayoutBinary</key>
+	<string>tabviewTail</string>
+	<key>substantialGraph</key>
+	<string>shouldPopBaseline</string>
+</dict>
+</plist>

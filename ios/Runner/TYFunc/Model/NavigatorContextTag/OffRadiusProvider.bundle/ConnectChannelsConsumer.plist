@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCompleter</key>
+	<string>accessibleLocalization</string>
+	<key>disabledSingleton</key>
+	<string>maintainCurve</string>
+	<key>responderState</key>
+	<string>resilientFeature</string>
+	<key>shouldBuildRoute</key>
+	<string>statefultweak</string>
+	<key>storyboardBrightness</key>
+	<string>searcherIndex</string>
+	<key>swiftBehavior</key>
+	<string>canUnbindObserver</string>
+</dict>
+</plist>

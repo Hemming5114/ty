@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveColumn</key>
+	<string>quitgrain</string>
+	<key>columnenvironmenthue</key>
+	<string>opaqueAlignment</string>
+	<key>configurationType</key>
+	<string>commonPolyfill</string>
+	<key>drawerAppearance</key>
+	<string>fixedDetail</string>
+	<key>eventcoord</key>
+	<string>controllerBrightness</string>
+	<key>evolutionTag</key>
+	<string>sineOrigin</string>
+	<key>shouldSetStateCompletion</key>
+	<string>compositionalLayer</string>
+	<key>shouldroutecosine</key>
+	<string>materialAllocator</string>
+	<key>significantTextField</key>
+	<string>permanentMobile</string>
+</dict>
+</plist>

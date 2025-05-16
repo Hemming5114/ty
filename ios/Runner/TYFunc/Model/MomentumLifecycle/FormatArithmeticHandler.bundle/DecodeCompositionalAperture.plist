@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudePager</key>
+	<string>themepatternvisibility</string>
+	<key>immediatePolygon</key>
+	<string>respondNode</string>
+	<key>inactiveAlert</key>
+	<string>shouldPauseReference</string>
+	<key>interactiveChecklist</key>
+	<string>statelessCharacter</string>
+	<key>replacehandler</key>
+	<string>featureAcceleration</string>
+	<key>shouldDispatchStateless</key>
+	<string>entropytimer</string>
+	<key>timerthreshold</key>
+	<string>quitmap</string>
+</dict>
+</plist>

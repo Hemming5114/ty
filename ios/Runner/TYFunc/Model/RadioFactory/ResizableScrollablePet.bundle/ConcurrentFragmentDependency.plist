@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateinsidejob</key>
+	<string>serviceindex</string>
+	<key>contractionVisible</key>
+	<string>quantizerstore</string>
+	<key>draggableSensor</key>
+	<string>processorDuration</string>
+	<key>hasproject</key>
+	<string>behaviorshape</string>
+	<key>inkwellcompositeposition</key>
+	<string>canRouteConvolution</string>
+	<key>listviewHue</key>
+	<string>copyStream</string>
+	<key>multiplicationSize</key>
+	<string>signatureSingleton</string>
+	<key>priorreducer</key>
+	<string>lifecycleVisibility</string>
+	<key>shouldConnectLogarithm</key>
+	<string>chapterVisibility</string>
+	<key>singleSegue</key>
+	<string>mainNode</string>
+</dict>
+</plist>

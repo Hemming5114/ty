@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineamortization</key>
+	<string>annotateLabel</string>
+	<key>celloffset</key>
+	<string>disparateResilience</string>
+	<key>criticalPreview</key>
+	<string>seamlessBuffer</string>
+	<key>flexibleStep</key>
+	<string>inheritedAnimatedContainer</string>
+	<key>immutableAperture</key>
+	<string>canReplaceRemainder</string>
+	<key>mediumRange</key>
+	<string>delegateLoop</string>
+	<key>originalPriority</key>
+	<string>interactorInset</string>
+	<key>radiusbyactivity</key>
+	<string>basicFactory</string>
+	<key>shouldFormatCompletion</key>
+	<string>certificatecoord</string>
+	<key>standaloneHash</key>
+	<string>standaloneAlpha</string>
+</dict>
+</plist>

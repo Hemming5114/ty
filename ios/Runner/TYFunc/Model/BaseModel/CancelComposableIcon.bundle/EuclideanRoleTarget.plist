@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionMode</key>
+	<string>dismissChart</string>
+	<key>customizedcapsule</key>
+	<string>attachFlex</string>
+	<key>detectorBrightness</key>
+	<string>selectedpainter</string>
+	<key>fusedOverlay</key>
+	<string>ignoredCanvas</string>
+	<key>mediocreobserver</key>
+	<string>canEncodeTransition</string>
+</dict>
+</plist>

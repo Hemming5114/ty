@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheconfiguration</key>
+	<string>positionaboutvalue</string>
+	<key>checklistCoord</key>
+	<string>canObserveRadio</string>
+	<key>finishmission</key>
+	<string>handleutil</string>
+	<key>pagerTransparency</key>
+	<string>canMountStateless</string>
+	<key>sophisticatedBitrate</key>
+	<string>lazyGesture</string>
+	<key>toolpressure</key>
+	<string>errorKind</string>
+</dict>
+</plist>

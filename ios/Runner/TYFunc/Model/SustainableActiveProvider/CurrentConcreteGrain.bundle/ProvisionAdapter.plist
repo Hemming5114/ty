@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationInteraction</key>
+	<string>subtleSwitch</string>
+	<key>composableDuration</key>
+	<string>shouldParseMobile</string>
+	<key>gridviewCoord</key>
+	<string>usedSkirt</string>
+	<key>lossname</key>
+	<string>deferredClipper</string>
+	<key>measuremonster</key>
+	<string>optimizeCompleter</string>
+	<key>reactiveEvent</key>
+	<string>compileIntensity</string>
+	<key>receiverDirection</key>
+	<string>playbackValidation</string>
+	<key>storeparaminset</key>
+	<string>criticalMaterial</string>
+</dict>
+</plist>

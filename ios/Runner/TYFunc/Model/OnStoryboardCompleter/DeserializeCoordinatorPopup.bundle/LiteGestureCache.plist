@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureShape</key>
+	<string>canContinueOption</string>
+	<key>basicVariant</key>
+	<string>statefulChooser</string>
+	<key>certificateFeedback</key>
+	<string>shouldDispatchDuration</string>
+	<key>diversifieddurationvisible</key>
+	<string>allocatorSingleton</string>
+	<key>hasArithmetic</key>
+	<string>refactorPopup</string>
+	<key>intuitiveDescription</key>
+	<string>blocbridgelocation</string>
+	<key>permissiveProvider</key>
+	<string>lostTask</string>
+	<key>shouldPushSwift</key>
+	<string>modalvisible</string>
+	<key>textlikestage</key>
+	<string>persistTransition</string>
+</dict>
+</plist>

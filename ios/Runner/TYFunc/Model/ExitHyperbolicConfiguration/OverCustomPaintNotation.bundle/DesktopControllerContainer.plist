@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDuration</key>
+	<string>activatedSchema</string>
+	<key>declarativeConstant</key>
+	<string>interactiveStore</string>
+	<key>disabledMesh</key>
+	<string>touchHandler</string>
+	<key>invokecompleter</key>
+	<string>parseRadio</string>
+	<key>managerperfacade</key>
+	<string>resilientResponse</string>
+	<key>offsetatsingleton</key>
+	<string>typicalRequest</string>
+</dict>
+</plist>

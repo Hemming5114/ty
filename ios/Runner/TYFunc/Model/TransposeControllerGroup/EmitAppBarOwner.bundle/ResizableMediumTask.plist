@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInteractor</key>
+	<string>agileBox</string>
+	<key>clipperincludeform</key>
+	<string>collectionparamoffset</string>
+	<key>commonRenderer</key>
+	<string>augmentRow</string>
+	<key>tickerSkewX</key>
+	<string>canFetchConstraint</string>
+</dict>
+</plist>

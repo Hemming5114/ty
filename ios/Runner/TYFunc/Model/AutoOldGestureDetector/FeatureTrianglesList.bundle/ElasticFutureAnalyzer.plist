@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialIntegration</key>
+	<string>initializeState</string>
+	<key>easyLoss</key>
+	<string>smartBase</string>
+	<key>granularBinder</key>
+	<string>euclideanDimension</string>
+	<key>semanticTable</key>
+	<string>parallelThroughput</string>
+	<key>shouldYieldSwitch</key>
+	<string>transformerWork</string>
+</dict>
+</plist>

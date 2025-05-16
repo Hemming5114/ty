@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateforvalue</key>
+	<string>logdistinction</string>
+	<key>currentModal</key>
+	<string>onlogarithmchanged</string>
+	<key>explicitComponent</key>
+	<string>pivotalBase</string>
+	<key>granularCard</key>
+	<string>positionedorigin</string>
+	<key>losttweenorientation</key>
+	<string>segueTransparency</string>
+	<key>provisionalignment</key>
+	<string>notificationmomentum</string>
+	<key>shouldLoadUsage</key>
+	<string>iscontainer</string>
+	<key>timerawaylevel</key>
+	<string>shouldCacheThread</string>
+	<key>tolerancefeedback</key>
+	<string>specifyTopic</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerPadding</key>
+	<string>scenariovalidation</string>
+	<key>findmodel</key>
+	<string>shouldcontinueskin</string>
+	<key>lastcapacity</key>
+	<string>borderVisibility</string>
+	<key>pinchableSpecifier</key>
+	<string>roleviavariable</string>
+	<key>remainderSkewY</key>
+	<string>shouldFinishSlash</string>
+</dict>
+</plist>

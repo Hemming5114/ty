@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryasbridge</key>
+	<string>disconnectManager</string>
+	<key>dedicatedoverlay</key>
+	<string>denseserviceinteraction</string>
+	<key>fixedModel</key>
+	<string>diversifiedNotifier</string>
+	<key>mainWrapper</key>
+	<string>customizedTable</string>
+</dict>
+</plist>

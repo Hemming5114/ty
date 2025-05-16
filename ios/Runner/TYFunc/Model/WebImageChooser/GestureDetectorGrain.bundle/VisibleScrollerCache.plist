@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaacceleration</key>
+	<string>statefulPolyfill</string>
+	<key>autoItem</key>
+	<string>destroycompleter</string>
+	<key>baselineColor</key>
+	<string>semanticResult</string>
+	<key>decorationfromfacade</key>
+	<string>canSerializeMember</string>
+	<key>dedicatedContrast</key>
+	<string>referencepager</string>
+	<key>inactiveFuture</key>
+	<string>prepareMaterial</string>
+	<key>mechanismFrequency</key>
+	<string>awaitbrightness</string>
+	<key>recursionTheme</key>
+	<string>dynamicGrain</string>
+</dict>
+</plist>

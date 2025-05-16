@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianBinary</key>
+	<string>providerwrapper</string>
+	<key>eventTop</key>
+	<string>remainderTop</string>
+	<key>gesturecluster</key>
+	<string>immediatePet</string>
+	<key>persistentcallback</key>
+	<string>fusedListView</string>
+	<key>shouldSkipAxis</key>
+	<string>deferredNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistobserversize</key>
+	<string>replaceRequest</string>
+	<key>disconnectaspect</key>
+	<string>storyboardTail</string>
+	<key>flexibleprecision</key>
+	<string>disabledIsolate</string>
+	<key>gesturedetectoradapterright</key>
+	<string>shouldUpdateNotification</string>
+	<key>imageskewy</key>
+	<string>shouldpreparemedia</string>
+	<key>shouldCreateThread</key>
+	<string>reactiveBatch</string>
+	<key>shouldStopAspectRatio</key>
+	<string>traversaltop</string>
+</dict>
+</plist>

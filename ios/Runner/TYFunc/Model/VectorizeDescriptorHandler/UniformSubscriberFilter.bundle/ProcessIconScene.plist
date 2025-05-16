@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTop</key>
+	<string>concurrentProvision</string>
+	<key>cursoractionborder</key>
+	<string>cupertinoListener</string>
+	<key>fixedPublisher</key>
+	<string>notificationNumber</string>
+	<key>notifierleveldirection</key>
+	<string>popupBrightness</string>
+	<key>originalMesh</key>
+	<string>rotateQueue</string>
+	<key>savenib</key>
+	<string>shouldCreateAnimation</string>
+	<key>sceneEdge</key>
+	<string>comprehensivepreview</string>
+	<key>similarDescriptor</key>
+	<string>taxonomyedge</string>
+	<key>tickerFeedback</key>
+	<string>canAttachSegment</string>
+</dict>
+</plist>

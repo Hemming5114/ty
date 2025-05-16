@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedmechanism</key>
+	<string>persistentPlayback</string>
+	<key>criticalCustomPaint</key>
+	<string>statefulScene</string>
+	<key>customizedMaster</key>
+	<string>shouldRouteColumn</string>
+	<key>defaultBaseline</key>
+	<string>fragmentName</string>
+	<key>scrollableRemainder</key>
+	<string>mainSelector</string>
+	<key>zonePressure</key>
+	<string>shouldSetStateNotifier</string>
+</dict>
+</plist>

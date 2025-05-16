@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoDuration</key>
+	<string>hyperbolicTween</string>
+	<key>tablemetadata</key>
+	<string>titleBorder</string>
+	<key>temporaryBuilder</key>
+	<string>toleranceKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerFactory</key>
+	<string>saveSpot</string>
+	<key>concreteinfrastructure</key>
+	<string>shouldSavePositioned</string>
+	<key>cosineResponse</key>
+	<string>rebuildSlider</string>
+	<key>customAnchor</key>
+	<string>cartesianSpot</string>
+	<key>mediumSensor</key>
+	<string>mechanismSaturation</string>
+	<key>occasionspacing</key>
+	<string>desktopequivalent</string>
+	<key>pinchableSizedBox</key>
+	<string>missedJoiner</string>
+	<key>primaryBoxShadow</key>
+	<string>storecosine</string>
+	<key>responseorphase</key>
+	<string>oldMerger</string>
+</dict>
+</plist>

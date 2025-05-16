@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoEvolution</key>
+	<string>shouldTransformView</string>
+	<key>displayableNavigation</key>
+	<string>masterScale</string>
+	<key>factoryincludeactivity</key>
+	<string>newestParticle</string>
+	<key>gateVelocity</key>
+	<string>shouldParseStream</string>
+	<key>immediateVariant</key>
+	<string>catalystpager</string>
+	<key>symmetricDelivery</key>
+	<string>ephemeralframe</string>
+	<key>uniquerequest</key>
+	<string>streamMethod</string>
+	<key>viewcompositeflags</key>
+	<string>shouldSetStateGate</string>
+</dict>
+</plist>

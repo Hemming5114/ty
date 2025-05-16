@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autocompleter</key>
+	<string>startObserver</string>
+	<key>displayableView</key>
+	<string>actionDirection</string>
+	<key>featurekindappearance</key>
+	<string>temporaryGem</string>
+	<key>titleCount</key>
+	<string>onskinchanged</string>
+	<key>unarybehavior</key>
+	<string>curvesinceshape</string>
+</dict>
+</plist>

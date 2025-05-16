@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxborder</key>
+	<string>configurationthroughparam</string>
+	<key>configurationRate</key>
+	<string>routeHistogram</string>
+	<key>lossLocation</key>
+	<string>capacitiesForce</string>
+	<key>petvaluetype</key>
+	<string>denseMaster</string>
+	<key>servicePadding</key>
+	<string>resolvernearphase</string>
+	<key>shouldTransitionConsumer</key>
+	<string>standaloneTable</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTweak</key>
+	<string>validateGradient</string>
+	<key>basicPosition</key>
+	<string>visibleSelector</string>
+	<key>compositionalReliability</key>
+	<string>shouldDismissHistogram</string>
+	<key>elasticTopic</key>
+	<string>buttonFramework</string>
+	<key>particlefromcommand</key>
+	<string>fetchEffect</string>
+	<key>petFrequency</key>
+	<string>localizationbyframework</string>
+	<key>projectstyle</key>
+	<string>mobileDelegate</string>
+	<key>rowPadding</key>
+	<string>flexibleState</string>
+	<key>shouldAnimateColumn</key>
+	<string>loaderEdge</string>
+	<key>statefulStream</key>
+	<string>pushspine</string>
+</dict>
+</plist>

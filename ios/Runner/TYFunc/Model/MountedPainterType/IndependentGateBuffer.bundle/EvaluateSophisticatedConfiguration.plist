@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteConnector</key>
+	<string>disparateBox</string>
+	<key>disabledTool</key>
+	<string>gradientacceleration</string>
+	<key>observerow</key>
+	<string>widgetbottom</string>
+	<key>resizableunarycount</key>
+	<string>storageVisible</string>
+	<key>shouldPauseBatch</key>
+	<string>cursorTension</string>
+	<key>shouldendtouch</key>
+	<string>uniqueMapper</string>
+	<key>sortedSwitch</key>
+	<string>shouldTransitionTabBar</string>
+	<key>symbolcombiner</key>
+	<string>pivotalMomentum</string>
+</dict>
+</plist>

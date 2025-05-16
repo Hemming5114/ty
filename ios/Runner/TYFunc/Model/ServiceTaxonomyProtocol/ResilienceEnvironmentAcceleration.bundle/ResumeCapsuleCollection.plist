@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerelasticity</key>
+	<string>shouldUpdateDescriptor</string>
+	<key>disparateSlash</key>
+	<string>decodeBorder</string>
+	<key>inflateradio</key>
+	<string>relationalBuilder</string>
+	<key>lazyDescriptor</key>
+	<string>observeractionspeed</string>
+	<key>mediumTransition</key>
+	<string>profilemode</string>
+	<key>multiCluster</key>
+	<string>deserializeSign</string>
+	<key>requiredcustompaint</key>
+	<string>shouldPrepareTabView</string>
+	<key>shouldanimatescroll</key>
+	<string>largequeueshade</string>
+	<key>similarPrecision</key>
+	<string>currentTool</string>
+</dict>
+</plist>

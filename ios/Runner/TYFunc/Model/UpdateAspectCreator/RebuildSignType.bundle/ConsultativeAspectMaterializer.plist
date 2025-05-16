@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerVisible</key>
+	<string>shouldPaintListView</string>
+	<key>elementVelocity</key>
+	<string>accessibleTransition</string>
+	<key>metricsInteraction</key>
+	<string>subtleComponent</string>
+	<key>newestRequest</key>
+	<string>shouldObserveMember</string>
+	<key>optimizerStyle</key>
+	<string>shouldPresentBloc</string>
+	<key>substantialContainer</key>
+	<string>shouldsubscribecapsule</string>
+</dict>
+</plist>

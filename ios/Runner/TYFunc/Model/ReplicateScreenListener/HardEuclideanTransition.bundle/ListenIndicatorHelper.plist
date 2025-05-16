@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationEdge</key>
+	<string>modelstaterotation</string>
+	<key>independentWorkflow</key>
+	<string>logdirection</string>
+	<key>queuedistance</key>
+	<string>updateBox</string>
+	<key>shouldContinueAnchor</key>
+	<string>segmentmend</string>
+	<key>shouldTransformCosine</key>
+	<string>shouldSubscribeRichText</string>
+	<key>shouldobserveternary</key>
+	<string>delegatetempledirection</string>
+	<key>significantRouter</key>
+	<string>displayDescription</string>
+	<key>subsequentModule</key>
+	<string>sequentialHero</string>
+</dict>
+</plist>

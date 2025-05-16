@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiessize</key>
+	<string>immutableListView</string>
+	<key>cellstatus</key>
+	<string>concatenateQueue</string>
+	<key>customizedCustomPaint</key>
+	<string>shouldNavigateReference</string>
+	<key>denseScenario</key>
+	<string>retainedPageView</string>
+	<key>iconVelocity</key>
+	<string>providerSize</string>
+	<key>oldScheduler</key>
+	<string>retainedProgressBar</string>
+	<key>relationalProcessor</key>
+	<string>multiProcessor</string>
+	<key>retainedColor</key>
+	<string>canEmitGate</string>
+	<key>reusableMobile</key>
+	<string>shouldRenderSlash</string>
+</dict>
+</plist>

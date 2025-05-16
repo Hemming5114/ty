@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPadding</key>
+	<string>concurrentBehavior</string>
+	<key>basicTween</key>
+	<string>listenExpanded</string>
+	<key>crucialGradient</key>
+	<string>canSkipSkirt</string>
+	<key>shouldContinueSwitch</key>
+	<string>spotContrast</string>
+	<key>shouldPaintUsage</key>
+	<string>commonTextField</string>
+	<key>shouldPersistVariant</key>
+	<string>euclideanMobile</string>
+	<key>shouldShowArithmetic</key>
+	<string>disclaimerDensity</string>
+	<key>shoulddisconnectcycle</key>
+	<string>unsortedBase</string>
+</dict>
+</plist>

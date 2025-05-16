@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapternumbervalidation</key>
+	<string>canPublishGestureDetector</string>
+	<key>desktopGraph</key>
+	<string>stateInset</string>
+	<key>featurePadding</key>
+	<string>primarySprite</string>
+	<key>immutableRequest</key>
+	<string>resilientSlash</string>
+	<key>interfacedespitestate</key>
+	<string>revisitSprite</string>
+	<key>shouldDisconnectConsumer</key>
+	<string>graphicAppearance</string>
+	<key>significantAlignment</key>
+	<string>immutablePreview</string>
+	<key>synchronousModal</key>
+	<string>explicitConfiguration</string>
+	<key>widgetStyle</key>
+	<string>adaptiveMenu</string>
+</dict>
+</plist>

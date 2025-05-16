@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicExtension</key>
+	<string>validateReference</string>
+	<key>controllerPadding</key>
+	<string>utilMargin</string>
+	<key>densePlate</key>
+	<string>sophisticatedChooser</string>
+	<key>hierarchicalDelivery</key>
+	<string>shouldParsePositioned</string>
+	<key>meshScale</key>
+	<string>reductionforparameter</string>
+	<key>shouldConnectSegue</key>
+	<string>subtleConfidentiality</string>
+	<key>smallSubpixel</key>
+	<string>provideInteractor</string>
+</dict>
+</plist>

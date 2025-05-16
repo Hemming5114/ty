@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitTween</key>
+	<string>resizelayout</string>
+	<key>mediumTransformer</key>
+	<string>animatedSize</string>
+	<key>reusableCard</key>
+	<string>cursorValidation</string>
+	<key>shouldCacheEntropy</key>
+	<string>binaryBuffer</string>
+	<key>shouldStreamRow</key>
+	<string>setstateTangent</string>
+	<key>tangentValidation</key>
+	<string>canDetachStep</string>
+</dict>
+</plist>

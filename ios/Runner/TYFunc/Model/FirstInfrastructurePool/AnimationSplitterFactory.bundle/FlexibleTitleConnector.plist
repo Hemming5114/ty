@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEvolution</key>
+	<string>permanentWidget</string>
+	<key>assetinteraction</key>
+	<string>originalSizedBox</string>
+	<key>customstore</key>
+	<string>animationInterval</string>
+	<key>dimensionValidation</key>
+	<string>canUpdateFuture</string>
+	<key>elasticEfficiency</key>
+	<string>yieldVariant</string>
+	<key>explicitnotification</key>
+	<string>directIndicator</string>
+	<key>numericalCombiner</key>
+	<string>permanentAnimator</string>
+	<key>pinchableSkirt</key>
+	<string>heroDistance</string>
+	<key>tappableChecklist</key>
+	<string>objectFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deprecategem</key>
+	<string>curveTransparency</string>
+	<key>immutableScene</key>
+	<string>relationalConnector</string>
+	<key>independentProject</key>
+	<string>confidentialityBorder</string>
+	<key>missionVisible</key>
+	<string>plateWork</string>
+	<key>multiplicationState</key>
+	<string>compositionState</string>
+	<key>shouldEmitSegue</key>
+	<string>hasAnchor</string>
+	<key>shouldSetStateTable</key>
+	<string>shouldAnimateAppBar</string>
+	<key>specifyPolyfill</key>
+	<string>crudePositioned</string>
+	<key>subscriptionStatus</key>
+	<string>canRoutePadding</string>
+	<key>usagefacadename</key>
+	<string>lostAspect</string>
+</dict>
+</plist>

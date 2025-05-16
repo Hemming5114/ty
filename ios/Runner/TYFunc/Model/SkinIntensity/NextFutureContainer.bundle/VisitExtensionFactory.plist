@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerCenter</key>
+	<string>receiveCurve</string>
+	<key>customizedprofilename</key>
+	<string>durationtype</string>
+	<key>disparateStore</key>
+	<string>desktopInterpolation</string>
+	<key>mechanismDelay</key>
+	<string>listviewcontrast</string>
+	<key>resizableAspect</key>
+	<string>navigationTension</string>
+	<key>routerIndex</key>
+	<string>interceptMetadata</string>
+	<key>sceneoffset</key>
+	<string>validateresource</string>
+	<key>shouldUnmountedActivity</key>
+	<string>shouldRouteCapsule</string>
+	<key>temporaryParticle</key>
+	<string>allocatorcenter</string>
+</dict>
+</plist>

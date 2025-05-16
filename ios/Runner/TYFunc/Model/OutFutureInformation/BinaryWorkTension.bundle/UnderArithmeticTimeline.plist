@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerequest</key>
+	<string>synchronizeCubit</string>
+	<key>descentSaturation</key>
+	<string>originalElement</string>
+	<key>listenerbound</key>
+	<string>sustainableWrapper</string>
+	<key>monsterobservershade</key>
+	<string>orchestrateCoordinator</string>
+	<key>shouldPresentDialogs</key>
+	<string>canAnimateRow</string>
+	<key>shouldRenderRichText</key>
+	<string>beginnerAsync</string>
+	<key>shouldSerializeAperture</key>
+	<string>canTransitionSlider</string>
+	<key>similarRouter</key>
+	<string>granularDecoration</string>
+	<key>specifyConverter</key>
+	<string>intensityvisitoralignment</string>
+	<key>vertexDepth</key>
+	<string>equipmentlocation</string>
+</dict>
+</plist>

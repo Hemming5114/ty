@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardbrightness</key>
+	<string>defaultrichtext</string>
+	<key>criticalCustomPaint</key>
+	<string>configurationPattern</string>
+	<key>dedicatedInfrastructure</key>
+	<string>alphaTension</string>
+	<key>disclaimerInteraction</key>
+	<string>difficultTitle</string>
+	<key>easyRole</key>
+	<string>singletonOpacity</string>
+	<key>pinchablecard</key>
+	<string>showChannel</string>
+	<key>prevAudio</key>
+	<string>delegatelocation</string>
+	<key>sequentialrepository</key>
+	<string>showaperture</string>
+	<key>uniformTolerance</key>
+	<string>callbacktheme</string>
+	<key>usedRow</key>
+	<string>tabbardirection</string>
+</dict>
+</plist>

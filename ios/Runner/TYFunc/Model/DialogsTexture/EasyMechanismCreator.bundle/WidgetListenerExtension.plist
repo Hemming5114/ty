@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticrouter</key>
+	<string>bindThread</string>
+	<key>pauseanimation</key>
+	<string>alphaTier</string>
+	<key>scrollTag</key>
+	<string>paddingtail</string>
+	<key>shouldHandleAlpha</key>
+	<string>materialContraction</string>
+</dict>
+</plist>

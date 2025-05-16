@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterSkewX</key>
+	<string>performException</string>
+	<key>inactiveevolution</key>
+	<string>decodeColumn</string>
+	<key>layoutrate</key>
+	<string>observerSkewX</string>
+	<key>publicsample</key>
+	<string>radiusNumber</string>
+	<key>shoulddispatchgradient</key>
+	<string>shouldTransformUnary</string>
+	<key>shouldlayoutchannels</key>
+	<string>listenInstruction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectstyle</key>
+	<string>lazyPainter</string>
+	<key>consultativeColor</key>
+	<string>renderSample</string>
+	<key>disparatePageView</key>
+	<string>smartBloc</string>
+	<key>independentResilience</key>
+	<string>insteadPresenter</string>
+	<key>nextView</key>
+	<string>shouldObserveRadio</string>
+</dict>
+</plist>

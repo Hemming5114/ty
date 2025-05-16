@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentProject</key>
+	<string>flexInteraction</string>
+	<key>processpromise</key>
+	<string>observeScale</string>
+	<key>relationalhero</key>
+	<string>shouldFetchMultiplication</string>
+	<key>smartAwait</key>
+	<string>canFinishInteger</string>
+</dict>
+</plist>

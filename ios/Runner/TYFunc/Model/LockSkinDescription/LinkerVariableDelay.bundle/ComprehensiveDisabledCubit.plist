@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateSign</key>
+	<string>nextNotation</string>
+	<key>directAccessory</key>
+	<string>cupertinoStep</string>
+	<key>lastCombiner</key>
+	<string>otherDropdownButton</string>
+	<key>scrolltag</key>
+	<string>resizableActivity</string>
+	<key>shouldFormatSlash</key>
+	<string>lastScaffold</string>
+	<key>transitionflags</key>
+	<string>shouldFinishStoryboard</string>
+</dict>
+</plist>

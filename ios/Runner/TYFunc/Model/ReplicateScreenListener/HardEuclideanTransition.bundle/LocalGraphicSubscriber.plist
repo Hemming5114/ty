@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasFormat</key>
+	<string>delegateintegration</string>
+	<key>iterativeLoss</key>
+	<string>evaluationCount</string>
+	<key>slashnumberflags</key>
+	<string>canDeserializeStack</string>
+	<key>symmetricAlpha</key>
+	<string>symbolspeed</string>
+	<key>unsortedThread</key>
+	<string>sophisticatedTabView</string>
+</dict>
+</plist>

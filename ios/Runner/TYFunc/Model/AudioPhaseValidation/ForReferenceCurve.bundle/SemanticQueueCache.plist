@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorDirection</key>
+	<string>relationalFormat</string>
+	<key>draggableDecoration</key>
+	<string>usedConverter</string>
+	<key>exceptioninkind</key>
+	<string>generateTopic</string>
+	<key>menuPosition</key>
+	<string>independentContainer</string>
+	<key>notifierMode</key>
+	<string>fetchTextField</string>
+	<key>pointposition</key>
+	<string>singleRemediation</string>
+	<key>previewvelocity</key>
+	<string>shouldListenSwitch</string>
+</dict>
+</plist>

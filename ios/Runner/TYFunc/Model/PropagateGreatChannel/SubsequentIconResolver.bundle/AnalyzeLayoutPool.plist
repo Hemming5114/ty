@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronoustechnique</key>
+	<string>canResumeNotification</string>
+	<key>comprehensiveGesture</key>
+	<string>shouldRebuildPrecision</string>
+	<key>concreteElement</key>
+	<string>beginnerChallenge</string>
+	<key>crudeView</key>
+	<string>draggableSwift</string>
+	<key>radiusOrientation</key>
+	<string>completerSystem</string>
+	<key>sharedLinker</key>
+	<string>presenteralignment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCustomPaint</key>
+	<string>methodStyle</string>
+	<key>attachbuilder</key>
+	<string>interpolationFlyweight</string>
+	<key>constraintCoord</key>
+	<string>connectSymbol</string>
+	<key>descriptiondelay</key>
+	<string>animateResolver</string>
+	<key>marginVelocity</key>
+	<string>unbindBehavior</string>
+	<key>overlayconverter</key>
+	<string>diversifiedNotation</string>
+	<key>sliderDelay</key>
+	<string>shouldSerializePriority</string>
+	<key>topicmediatorshade</key>
+	<string>shouldRebuildTextField</string>
+</dict>
+</plist>

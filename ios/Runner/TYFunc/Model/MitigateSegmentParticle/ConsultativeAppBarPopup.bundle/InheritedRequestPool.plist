@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDuration</key>
+	<string>subpixelBrightness</string>
+	<key>beginnerOffset</key>
+	<string>nextWidget</string>
+	<key>currentproject</key>
+	<string>concurrentbasetag</string>
+	<key>firstCycle</key>
+	<string>gridValidation</string>
+	<key>geometricPopup</key>
+	<string>refactorGrain</string>
+	<key>temporaryEvent</key>
+	<string>shouldDetachNib</string>
+</dict>
+</plist>

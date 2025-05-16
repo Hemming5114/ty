@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDelegate</key>
+	<string>computeAlignment</string>
+	<key>directbuilderborder</key>
+	<string>handleCubit</string>
+	<key>euclideanQuaternion</key>
+	<string>fragmentsLeft</string>
+	<key>mobilebuilder</key>
+	<string>uniformbutton</string>
+	<key>mutabletransition</key>
+	<string>canInflatePriority</string>
+	<key>sequentialMechanism</key>
+	<string>pivotalBandwidth</string>
+	<key>shouldfetchequipment</key>
+	<string>eventcontextinset</string>
+</dict>
+</plist>

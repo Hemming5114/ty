@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteWrapper</key>
+	<string>shouldRenderBoxShadow</string>
+	<key>ignoredSizedBox</key>
+	<string>otherLayout</string>
+	<key>keyRepository</key>
+	<string>searchNode</string>
+	<key>layoutactionright</key>
+	<string>cartesianSample</string>
+	<key>nibPressure</key>
+	<string>opaqueSlider</string>
+	<key>permissiveImpression</key>
+	<string>localizationvisibility</string>
+	<key>subtleMultiplication</key>
+	<string>disposereduction</string>
+	<key>symmetricdropdownbuttontail</key>
+	<string>opaqueElasticity</string>
+	<key>titleindex</key>
+	<string>singleTween</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectdensity</key>
+	<string>cartesianBaseline</string>
+	<key>hierarchicalwidget</key>
+	<string>directModule</string>
+	<key>invisiblecaptionlocation</key>
+	<string>allocatorForce</string>
+	<key>materialBound</key>
+	<string>managerFeedback</string>
+	<key>moduluslabel</key>
+	<string>criticalRadius</string>
+	<key>scopeName</key>
+	<string>canYieldSample</string>
+	<key>shouldDismissPriority</key>
+	<string>conformGrain</string>
+	<key>shouldFinishDimension</key>
+	<string>viewdistinction</string>
+	<key>specifierbyobserver</key>
+	<string>bindInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLatency</key>
+	<string>enumerateRow</string>
+	<key>agileswitch</key>
+	<string>inkwellCount</string>
+	<key>concreteStorage</key>
+	<string>canUnbindCaption</string>
+	<key>cupertinoTable</key>
+	<string>canConnectPageView</string>
+	<key>expandedpadding</key>
+	<string>impressionState</string>
+	<key>metadataBehavior</key>
+	<string>partitionsession</string>
+	<key>originalCanvas</key>
+	<string>chapterDecorator</string>
+	<key>referenceForce</key>
+	<string>enabledCursor</string>
+	<key>shouldAnimateSwift</key>
+	<string>mountresult</string>
+	<key>singleDialogs</key>
+	<string>paintGesture</string>
+</dict>
+</plist>

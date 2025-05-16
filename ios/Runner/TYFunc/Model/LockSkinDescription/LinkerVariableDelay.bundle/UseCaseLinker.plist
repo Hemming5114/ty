@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextSpecifier</key>
+	<string>routespacing</string>
+	<key>relationalTentative</key>
+	<string>relationalRoute</string>
+	<key>remainderOrientation</key>
+	<string>shouldPreparePriority</string>
+	<key>retainedNavigation</key>
+	<string>taskpreview</string>
+	<key>shouldDismissTechnique</key>
+	<string>materialArchitecture</string>
+	<key>shouldValidateTool</key>
+	<string>reactivemodel</string>
+</dict>
+</plist>

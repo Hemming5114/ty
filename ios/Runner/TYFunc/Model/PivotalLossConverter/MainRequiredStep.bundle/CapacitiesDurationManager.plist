@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDepth</key>
+	<string>canSkipBoxShadow</string>
+	<key>checklistcontrast</key>
+	<string>presenterFeedback</string>
+	<key>cubesincevar</key>
+	<string>diffableConnector</string>
+	<key>globalQueue</key>
+	<string>shouldParsePet</string>
+	<key>hierarchicalProfile</key>
+	<string>discardedNode</string>
+	<key>imperativeSprite</key>
+	<string>parsescroll</string>
+	<key>protectedIntegration</key>
+	<string>lastPreview</string>
+	<key>releasefragment</key>
+	<string>canNavigateSensor</string>
+	<key>significantcachedelay</key>
+	<string>shouldAnimatePainter</string>
+	<key>thresholdVisible</key>
+	<string>elasticSearcher</string>
+</dict>
+</plist>

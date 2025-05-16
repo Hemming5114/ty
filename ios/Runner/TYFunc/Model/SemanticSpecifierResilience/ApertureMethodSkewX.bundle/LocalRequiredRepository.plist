@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOffset</key>
+	<string>conformGrain</string>
+	<key>ephemeralcontrollerleft</key>
+	<string>shouldRebuildContraction</string>
+	<key>measurecoordinator</key>
+	<string>transformerDelay</string>
+	<key>robusttrajectory</key>
+	<string>dropoutcubit</string>
+	<key>secondTouch</key>
+	<string>intermediateMend</string>
+	<key>statelesscharacteristic</key>
+	<string>convolutionEnvironment</string>
+	<key>themeuntiltask</key>
+	<string>canPrepareShader</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelproject</key>
+	<string>timeFrequency</string>
+	<key>descriptionremediation</key>
+	<string>isScroll</string>
+	<key>relationalResponder</key>
+	<string>keepGradient</string>
+	<key>replicatestack</key>
+	<string>featureTier</string>
+	<key>shouldPauseTable</key>
+	<string>canUpdateDuration</string>
+	<key>shouldRouteCompletion</key>
+	<string>statusvisible</string>
+	<key>uniqueGestureDetector</key>
+	<string>graphicVisibility</string>
+</dict>
+</plist>

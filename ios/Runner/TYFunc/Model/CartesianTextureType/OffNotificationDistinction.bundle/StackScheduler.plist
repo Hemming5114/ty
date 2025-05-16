@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>semanticsVisible</key>
+	<string>beginnerLayout</string>
+	<key>sharedConnector</key>
+	<string>protocolTension</string>
+	<key>shouldCacheGridView</key>
+	<string>shouldReplaceOptimizer</string>
+	<key>shouldPresentProject</key>
+	<string>kernelVisible</string>
+	<key>unsortedRole</key>
+	<string>lossBrightness</string>
+</dict>
+</plist>

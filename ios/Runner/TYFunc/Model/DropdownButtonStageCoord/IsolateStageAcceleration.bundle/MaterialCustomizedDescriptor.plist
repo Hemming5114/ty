@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachprovider</key>
+	<string>semanticCallback</string>
+	<key>concurrentSegue</key>
+	<string>responsivecubecenter</string>
+	<key>easycompletertheme</key>
+	<string>disparateColumn</string>
+	<key>invisiblenormscale</key>
+	<string>shouldConnectTabView</string>
+	<key>modelmomentum</key>
+	<string>titleSpeed</string>
+	<key>prevcomponent</key>
+	<string>skinDuration</string>
+	<key>resourcekind</key>
+	<string>symbolOpacity</string>
+</dict>
+</plist>

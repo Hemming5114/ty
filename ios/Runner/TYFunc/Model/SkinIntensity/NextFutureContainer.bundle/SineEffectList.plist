@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentPadding</key>
+	<string>shouldEmitTabView</string>
+	<key>grainhue</key>
+	<string>shouldTrainBrush</string>
+	<key>iterativeScenario</key>
+	<string>backwardChallenge</string>
+	<key>techniqueCount</key>
+	<string>notificationerror</string>
+	<key>typicalproviderstyle</key>
+	<string>eagerConstant</string>
+	<key>vertexMode</key>
+	<string>shouldFinishProject</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNotification</key>
+	<string>canCreateTabBar</string>
+	<key>composableStateful</key>
+	<string>attachSample</string>
+	<key>comprehensivedisclaimer</key>
+	<string>completedResource</string>
+	<key>equipmentFeedback</key>
+	<string>unmountCapsule</string>
+	<key>shouldDecodeAnimation</key>
+	<string>restoreButton</string>
+	<key>shouldKeepLabel</key>
+	<string>lazyNode</string>
+	<key>shouldpopbullet</key>
+	<string>callbackNumber</string>
+	<key>textOffset</key>
+	<string>selectedmonster</string>
+</dict>
+</plist>

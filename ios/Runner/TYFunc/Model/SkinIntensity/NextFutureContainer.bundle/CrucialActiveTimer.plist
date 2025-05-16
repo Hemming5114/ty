@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialScene</key>
+	<string>persistentExponent</string>
+	<key>rowVisibility</key>
+	<string>retainedMap</string>
+	<key>scopeEdge</key>
+	<string>shouldTransitionPriority</string>
+	<key>shouldCreateWorkflow</key>
+	<string>cupertinoProvision</string>
+</dict>
+</plist>

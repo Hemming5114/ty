@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEvolution</key>
+	<string>intuitiveconfidentiality</string>
+	<key>nativeScene</key>
+	<string>moveoptimizer</string>
+	<key>oldModel</key>
+	<string>concatenateFactory</string>
+	<key>primaryScheduler</key>
+	<string>intuitiveTopic</string>
+	<key>replacebullet</key>
+	<string>shouldunmountnotification</string>
+	<key>responsivechecklist</key>
+	<string>rendererFormat</string>
+	<key>rotatepresenter</key>
+	<string>convertHandler</string>
+	<key>shouldBuildSubpixel</key>
+	<string>sorterSkewX</string>
+</dict>
+</plist>

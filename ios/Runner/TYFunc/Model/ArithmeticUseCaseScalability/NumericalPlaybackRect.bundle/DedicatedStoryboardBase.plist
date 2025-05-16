@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectKind</key>
+	<string>responsiveController</string>
+	<key>mediaquerySkewY</key>
+	<string>enabledconvolution</string>
+	<key>musicRotation</key>
+	<string>shouldDecodeThread</string>
+	<key>nibInset</key>
+	<string>singletontentative</string>
+	<key>protectedCustomPaint</key>
+	<string>globalMaterializer</string>
+	<key>screenInterval</key>
+	<string>respondCoordinator</string>
+	<key>shouldCreatePoint</key>
+	<string>shouldReplaceTransition</string>
+</dict>
+</plist>

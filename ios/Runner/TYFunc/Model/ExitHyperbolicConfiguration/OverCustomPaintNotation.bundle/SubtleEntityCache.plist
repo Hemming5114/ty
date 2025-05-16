@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineTension</key>
+	<string>queuemediatorshape</string>
+	<key>bitrateAlignment</key>
+	<string>sceneLocation</string>
+	<key>immediatePrecision</key>
+	<string>uniformresponse</string>
+	<key>nodecontrast</key>
+	<string>canDetachEntropy</string>
+</dict>
+</plist>

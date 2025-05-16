@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocactivityoffset</key>
+	<string>sharedSample</string>
+	<key>detachbuffer</key>
+	<string>checklisttype</string>
+	<key>enabledTrigger</key>
+	<string>augmentLoop</string>
+	<key>herotierstyle</key>
+	<string>symmetricCube</string>
+	<key>keyGift</key>
+	<string>schedulerOpacity</string>
+	<key>persistentRenderer</key>
+	<string>otherOperation</string>
+	<key>shouldlistennib</key>
+	<string>smallTabBar</string>
+	<key>similarrepository</key>
+	<string>signStatus</string>
+	<key>symbolgraph</key>
+	<string>chapterNumber</string>
+	<key>utilthroughput</key>
+	<string>shouldResumeDimension</string>
+</dict>
+</plist>

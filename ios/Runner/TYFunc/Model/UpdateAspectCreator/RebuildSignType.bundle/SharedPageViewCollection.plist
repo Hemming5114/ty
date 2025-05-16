@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitformbrightness</key>
+	<string>shouldUnmountedUsage</string>
+	<key>batchAcceleration</key>
+	<string>shouldFinishNavigator</string>
+	<key>iconforce</key>
+	<string>shouldrouteindicator</string>
+	<key>immediateFragment</key>
+	<string>continueGate</string>
+	<key>independentObserver</key>
+	<string>maketangent</string>
+	<key>materialrepositoryinset</key>
+	<string>momentumamongtask</string>
+	<key>robustlayeredge</key>
+	<string>restartMap</string>
+</dict>
+</plist>

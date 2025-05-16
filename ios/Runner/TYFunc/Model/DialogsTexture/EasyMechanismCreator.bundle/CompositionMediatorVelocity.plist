@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConnector</key>
+	<string>quantizationLoop</string>
+	<key>connectorAcceleration</key>
+	<string>parseMaterial</string>
+	<key>hasCollection</key>
+	<string>overrideMetadata</string>
+	<key>listenerForce</key>
+	<string>spritevelocity</string>
+	<key>textfieldTail</key>
+	<string>dismissconsumer</string>
+</dict>
+</plist>

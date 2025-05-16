@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorRotation</key>
+	<string>difficultLayout</string>
+	<key>euclideanMonster</key>
+	<string>serializeCapsule</string>
+	<key>gridRight</key>
+	<string>fusedShape</string>
+	<key>itemdepth</key>
+	<string>canPresentTernary</string>
+	<key>permanenteffectshape</key>
+	<string>storeIndex</string>
+	<key>rapidConfiguration</key>
+	<string>aspectratioOrigin</string>
+	<key>rolestore</key>
+	<string>binarySkewY</string>
+	<key>singleBandwidth</key>
+	<string>parallelconstraint</string>
+	<key>statekindformat</key>
+	<string>resizableTentative</string>
+	<key>statelessTrajectory</key>
+	<string>canFinishCapacities</string>
+</dict>
+</plist>

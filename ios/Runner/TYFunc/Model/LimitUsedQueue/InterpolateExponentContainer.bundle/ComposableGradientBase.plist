@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPainter</key>
+	<string>oldChapter</string>
+	<key>basicReplica</key>
+	<string>parseComposition</string>
+	<key>controllerValidation</key>
+	<string>richtextHead</string>
+	<key>diffableAppBar</key>
+	<string>mediocreColor</string>
+	<key>hasBox</key>
+	<string>typicalStateful</string>
+	<key>priorGesture</key>
+	<string>shouldRestartOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSine</key>
+	<string>navigatorOpacity</string>
+	<key>chartstylebehavior</key>
+	<string>responsivePlate</string>
+	<key>dedicatedTable</key>
+	<string>canPushStack</string>
+	<key>imperativeBloc</key>
+	<string>canTransitionIndicator</string>
+	<key>numericalGrayscale</key>
+	<string>cubitthroughscope</string>
+	<key>secondConfiguration</key>
+	<string>checkBloc</string>
+	<key>shouldFinishStamp</key>
+	<string>wrapperMargin</string>
+	<key>shouldStopAxis</key>
+	<string>fixedAnalogy</string>
+	<key>slashprocessor</key>
+	<string>segueasoperation</string>
+	<key>stepBorder</key>
+	<string>numericalStateful</string>
+</dict>
+</plist>

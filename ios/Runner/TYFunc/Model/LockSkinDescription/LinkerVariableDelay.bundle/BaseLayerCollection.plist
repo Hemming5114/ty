@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledZone</key>
+	<string>materialInteractor</string>
+	<key>displayablemapper</key>
+	<string>declarativeChart</string>
+	<key>prevUnary</key>
+	<string>receiverBehavior</string>
+	<key>shouldMountedCard</key>
+	<string>notificationBorder</string>
+	<key>shouldanimatestep</key>
+	<string>factoryparamdirection</string>
+	<key>transformerspeed</key>
+	<string>polygonOffset</string>
+</dict>
+</plist>

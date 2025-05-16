@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMomentum</key>
+	<string>shouldUnbindCell</string>
+	<key>configurationincludeproxy</key>
+	<string>iconParameter</string>
+	<key>difficultEntity</key>
+	<string>listenCursor</string>
+	<key>dynamicStrength</key>
+	<string>resolveContainer</string>
+	<key>monsterappearance</key>
+	<string>parallelMobile</string>
+	<key>observerOrigin</key>
+	<string>reusableChannel</string>
+	<key>resizabletolerance</key>
+	<string>deferredInformation</string>
+	<key>scalepressure</key>
+	<string>disconnectMethod</string>
+	<key>shouldCreateCustomPaint</key>
+	<string>canStreamView</string>
+	<key>shouldskipdelegate</key>
+	<string>canContinuePrecision</string>
+</dict>
+</plist>

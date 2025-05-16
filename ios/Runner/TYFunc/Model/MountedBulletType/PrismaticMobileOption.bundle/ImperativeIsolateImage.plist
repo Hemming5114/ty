@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>radioIndex</key>
+	<string>releaseAction</string>
+	<key>requiredState</key>
+	<string>shouldReplaceScreen</string>
+	<key>retainedResilience</key>
+	<string>granularModule</string>
+	<key>shouldRestartSignature</key>
+	<string>easyController</string>
+	<key>sophisticatedDetail</key>
+	<string>respondResponse</string>
+	<key>timeIndex</key>
+	<string>buttonrectangle</string>
+	<key>uniformNotification</key>
+	<string>granularflex</string>
+	<key>workflowInteraction</key>
+	<string>canUpdateCapacities</string>
+</dict>
+</plist>

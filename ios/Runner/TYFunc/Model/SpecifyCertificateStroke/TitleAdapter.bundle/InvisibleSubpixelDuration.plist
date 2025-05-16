@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedStrength</key>
+	<string>uniformnavigator</string>
+	<key>layerMode</key>
+	<string>standaloneBinder</string>
+	<key>modelstyleacceleration</key>
+	<string>canPublishDocument</string>
+	<key>nativedecoration</key>
+	<string>localizationComposite</string>
+	<key>signatureshapeskewy</key>
+	<string>implementScene</string>
+</dict>
+</plist>

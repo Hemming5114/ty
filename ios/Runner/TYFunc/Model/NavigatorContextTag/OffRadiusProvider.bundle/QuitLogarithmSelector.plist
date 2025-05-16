@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationappearance</key>
+	<string>lifecycleShade</string>
+	<key>asyncBottom</key>
+	<string>consumptionVisible</string>
+	<key>basicArchitecture</key>
+	<string>shouldRenderSwift</string>
+	<key>occasionDelay</key>
+	<string>statelessFrame</string>
+	<key>resizablePriority</key>
+	<string>dependencyTier</string>
+	<key>shouldSkipBatch</key>
+	<string>switchNumber</string>
+</dict>
+</plist>

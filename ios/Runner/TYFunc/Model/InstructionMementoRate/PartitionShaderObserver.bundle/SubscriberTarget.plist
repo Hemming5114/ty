@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturevector</key>
+	<string>asynchronousDisclaimer</string>
+	<key>crudeAllocator</key>
+	<string>canCacheSine</string>
+	<key>euclideanPlayback</key>
+	<string>layoutProfile</string>
+	<key>instructionphasedepth</key>
+	<string>lazyConstant</string>
+	<key>mobileReduction</key>
+	<string>elementStatus</string>
+	<key>routetheme</key>
+	<string>animatedcontainermargin</string>
+	<key>shouldPopExponent</key>
+	<string>exponentFramework</string>
+	<key>shoulddeserializechecklist</key>
+	<string>newestReducer</string>
+	<key>tensorscalability</key>
+	<string>checklistTint</string>
+</dict>
+</plist>

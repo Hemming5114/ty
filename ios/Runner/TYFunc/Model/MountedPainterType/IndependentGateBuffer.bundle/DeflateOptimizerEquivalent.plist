@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCaption</key>
+	<string>asynchronousInfrastructure</string>
+	<key>grayscaleSize</key>
+	<string>visibleSlider</string>
+	<key>precisionState</key>
+	<string>ephemeralRadius</string>
+	<key>scalabilityName</key>
+	<string>rebuildsymbol</string>
+	<key>shouldInflateGraphic</key>
+	<string>animatedHandler</string>
+	<key>shouldStartCycle</key>
+	<string>shouldTrainExponent</string>
+</dict>
+</plist>

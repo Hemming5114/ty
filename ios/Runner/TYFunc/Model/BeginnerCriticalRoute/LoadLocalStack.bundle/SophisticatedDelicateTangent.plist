@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRichText</key>
+	<string>inkwellBuffer</string>
+	<key>fixedfragment</key>
+	<string>multiplicationFlyweight</string>
+	<key>primaryGraphic</key>
+	<string>presenterEdge</string>
+	<key>specifyReceiver</key>
+	<string>reducerRate</string>
+	<key>tickercoord</key>
+	<string>rapidFilter</string>
+	<key>zonePosition</key>
+	<string>unmarshalPopup</string>
+</dict>
+</plist>

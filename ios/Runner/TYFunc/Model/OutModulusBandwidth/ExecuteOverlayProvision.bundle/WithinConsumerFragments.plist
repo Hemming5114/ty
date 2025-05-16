@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachrow</key>
+	<string>displayableElasticity</string>
+	<key>eagerCursor</key>
+	<string>animateIcon</string>
+	<key>permanentAsset</key>
+	<string>signatureFormat</string>
+	<key>protectedOption</key>
+	<string>hashviaproxy</string>
+	<key>sceneconverter</key>
+	<string>webUtil</string>
+	<key>shouldLayoutPromise</key>
+	<string>canContinueDrawer</string>
+	<key>shouldPushOverlay</key>
+	<string>concreteQueue</string>
+	<key>skipisolate</key>
+	<string>consultativeImage</string>
+</dict>
+</plist>

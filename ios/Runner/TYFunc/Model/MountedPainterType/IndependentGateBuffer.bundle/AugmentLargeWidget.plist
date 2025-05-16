@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConsumer</key>
+	<string>canBindAperture</string>
+	<key>clustertheme</key>
+	<string>navigationFlags</string>
+	<key>hierarchicalAnchor</key>
+	<string>numericalFragments</string>
+	<key>linkerIndex</key>
+	<string>interactiveFragments</string>
+	<key>localArithmetic</key>
+	<string>largepopup</string>
+	<key>opaqueView</key>
+	<string>flexibleTouch</string>
+	<key>priorInfo</key>
+	<string>durationAcceleration</string>
+	<key>shouldMountedBrush</key>
+	<string>masterFlags</string>
+	<key>shouldNavigateCell</key>
+	<string>hierarchicalLog</string>
+	<key>taskaudio</key>
+	<string>dropdownbuttonCount</string>
+</dict>
+</plist>

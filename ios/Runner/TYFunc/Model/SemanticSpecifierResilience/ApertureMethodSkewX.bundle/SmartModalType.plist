@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerversusshape</key>
+	<string>errorTransparency</string>
+	<key>firstManager</key>
+	<string>scalabilityRate</string>
+	<key>skipmanager</key>
+	<string>disposeWidget</string>
+	<key>traversalMode</key>
+	<string>symboltype</string>
+</dict>
+</plist>

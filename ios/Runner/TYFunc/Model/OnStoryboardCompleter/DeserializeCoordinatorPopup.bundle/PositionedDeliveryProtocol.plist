@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directRichText</key>
+	<string>coordinatorStructure</string>
+	<key>isRichText</key>
+	<string>materialMonster</string>
+	<key>resolverScale</key>
+	<string>shouldRebuildConsumer</string>
+	<key>skinOrigin</key>
+	<string>receiveError</string>
+	<key>staticProjection</key>
+	<string>publicTentative</string>
+	<key>tensorView</key>
+	<string>shouldLayoutScroll</string>
+	<key>texturePosition</key>
+	<string>dropoutCoordinator</string>
+	<key>uniqueModel</key>
+	<string>selectedmargin</string>
+</dict>
+</plist>

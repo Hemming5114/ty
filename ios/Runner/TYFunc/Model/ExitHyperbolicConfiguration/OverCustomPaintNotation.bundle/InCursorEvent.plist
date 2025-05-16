@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioShape</key>
+	<string>canResumeObserver</string>
+	<key>enabledbuffer</key>
+	<string>canSerializeImage</string>
+	<key>invisibleFrame</key>
+	<string>buildhandler</string>
+	<key>methodOrientation</key>
+	<string>refactorSingleton</string>
+	<key>notifierKind</key>
+	<string>addButton</string>
+	<key>shouldTrainProvider</key>
+	<string>flexSkewY</string>
+	<key>swiftarchitecture</key>
+	<string>observeSign</string>
+</dict>
+</plist>

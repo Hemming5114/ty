@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterBound</key>
+	<string>shouldSkipCatalyst</string>
+	<key>granularSorter</key>
+	<string>sophisticatedChooser</string>
+	<key>imperativeScroller</key>
+	<string>tabbarDecorator</string>
+	<key>notificationmetrics</key>
+	<string>shouldDeserializeOption</string>
+	<key>resilientOption</key>
+	<string>currentscreen</string>
+	<key>sequentialInteractor</key>
+	<string>moveGrid</string>
+	<key>shouldDecodeDecoration</key>
+	<string>seamlessBase</string>
+	<key>singletonhandler</key>
+	<string>disparateRestriction</string>
+</dict>
+</plist>

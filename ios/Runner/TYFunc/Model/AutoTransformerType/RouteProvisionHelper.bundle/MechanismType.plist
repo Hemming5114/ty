@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalkernelmargin</key>
+	<string>immediateCurve</string>
+	<key>delegatedelay</key>
+	<string>mountedTextField</string>
+	<key>equalizationFlags</key>
+	<string>disparateConstraint</string>
+	<key>inheritedReplica</key>
+	<string>storeStyle</string>
+	<key>lostGradient</key>
+	<string>touchInteractor</string>
+	<key>shouldConnectSegue</key>
+	<string>adaptiveOperation</string>
+	<key>shouldEndPlayback</key>
+	<string>uniqueModule</string>
+	<key>sophisticatedPet</key>
+	<string>inkwellCommand</string>
+</dict>
+</plist>

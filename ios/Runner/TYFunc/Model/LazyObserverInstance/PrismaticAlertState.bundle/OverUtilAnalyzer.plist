@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveschema</key>
+	<string>relationalSlider</string>
+	<key>quaternionhead</key>
+	<string>pushnode</string>
+	<key>scrollableLatency</key>
+	<string>decorationlocation</string>
+	<key>shouldStartAlert</key>
+	<string>reactiveListener</string>
+</dict>
+</plist>

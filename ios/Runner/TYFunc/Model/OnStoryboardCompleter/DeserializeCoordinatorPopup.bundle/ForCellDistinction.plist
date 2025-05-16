@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerAwait</key>
+	<string>discardedStream</string>
+	<key>enabledprovider</key>
+	<string>maxRow</string>
+	<key>explicitTime</key>
+	<string>subsequentchapterbound</string>
+	<key>moduleMargin</key>
+	<string>parallelPositioned</string>
+	<key>numericalProcessor</key>
+	<string>particledepth</string>
+	<key>polygonSpacing</key>
+	<string>processPriority</string>
+	<key>shouldEncodePet</key>
+	<string>routeStep</string>
+	<key>temporaryProject</key>
+	<string>stateedge</string>
+	<key>toolName</key>
+	<string>publishRoute</string>
+</dict>
+</plist>

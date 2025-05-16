@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customIntegration</key>
+	<string>cacheNumber</string>
+	<key>easyPadding</key>
+	<string>unmountedCard</string>
+	<key>nativenotation</key>
+	<string>defaultDrawer</string>
+	<key>primaryReplica</key>
+	<string>activateaperture</string>
+	<key>shouldFormatPainter</key>
+	<string>certificateStatus</string>
+</dict>
+</plist>

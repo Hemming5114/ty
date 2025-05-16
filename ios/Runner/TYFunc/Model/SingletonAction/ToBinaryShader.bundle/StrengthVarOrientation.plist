@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSession</key>
+	<string>shouldValidateBaseline</string>
+	<key>crucialPadding</key>
+	<string>sineforframework</string>
+	<key>dimensionShape</key>
+	<string>shouldResumeChallenge</string>
+	<key>documentmanager</key>
+	<string>prevGram</string>
+	<key>easyGesture</key>
+	<string>appbartask</string>
+	<key>embraceprovider</key>
+	<string>responsiveOffset</string>
+	<key>emitproject</key>
+	<string>inflateDecoration</string>
+	<key>offsetcurve</key>
+	<string>retainedConstraint</string>
+	<key>respectiveRoute</key>
+	<string>canTransitionNorm</string>
+	<key>shouldnavigatecurve</key>
+	<string>invisiblePolyfill</string>
+</dict>
+</plist>

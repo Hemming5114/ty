@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContrast</key>
+	<string>cellSingleton</string>
+	<key>animationactionedge</key>
+	<string>handleChannels</string>
+	<key>grayscaleColor</key>
+	<string>extendbitrate</string>
+	<key>lastPlate</key>
+	<string>extensionSingleton</string>
+	<key>localShader</key>
+	<string>impressionContrast</string>
+	<key>moduleResponse</key>
+	<string>renderstream</string>
+	<key>routercontrast</key>
+	<string>visibleSpecifier</string>
+	<key>shouldHandleMaster</key>
+	<string>reducercount</string>
+	<key>shouldPaintMaster</key>
+	<string>shouldPauseLog</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionsaturation</key>
+	<string>encodeLoss</string>
+	<key>mutableSize</key>
+	<string>viewInset</string>
+	<key>screenVisibility</key>
+	<string>gesturedetectorinformation</string>
+	<key>signhue</key>
+	<string>mainReducer</string>
+	<key>singletonDepth</key>
+	<string>benchmarkFuture</string>
+	<key>statelessReference</key>
+	<string>shouldDisconnectFuture</string>
+</dict>
+</plist>

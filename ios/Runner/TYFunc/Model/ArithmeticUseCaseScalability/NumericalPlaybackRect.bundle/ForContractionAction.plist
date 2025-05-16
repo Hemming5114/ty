@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTechnique</key>
+	<string>respectiveTouch</string>
+	<key>comprehensiveChapter</key>
+	<string>canHandleSensor</string>
+	<key>previewviakind</key>
+	<string>isGestureDetector</string>
+	<key>respectiveWidget</key>
+	<string>unregisterPopup</string>
+	<key>screenactioncoord</key>
+	<string>shouldloadtable</string>
+	<key>semanticUsage</key>
+	<string>gradientresolver</string>
+	<key>sharedRange</key>
+	<string>appendRect</string>
+	<key>shouldEndPoint</key>
+	<string>interfaceTheme</string>
+</dict>
+</plist>

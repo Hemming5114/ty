@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeBoxShadow</key>
+	<string>textfieldName</string>
+	<key>joinerVisibility</key>
+	<string>concurrentTitle</string>
+	<key>mobilealignment</key>
+	<string>propagateResolver</string>
+	<key>shouldProcessTool</key>
+	<string>significantImpact</string>
+	<key>shouldSerializeLabel</key>
+	<string>priorPadding</string>
+</dict>
+</plist>

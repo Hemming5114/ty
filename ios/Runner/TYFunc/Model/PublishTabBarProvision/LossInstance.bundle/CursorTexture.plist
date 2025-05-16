@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityresponse</key>
+	<string>insteadResult</string>
+	<key>explicitVertex</key>
+	<string>deferredTexture</string>
+	<key>inheritedDialogs</key>
+	<string>emitInterpolation</string>
+	<key>nativeSize</key>
+	<string>storePadding</string>
+	<key>storyboardBehavior</key>
+	<string>clipTexture</string>
+</dict>
+</plist>

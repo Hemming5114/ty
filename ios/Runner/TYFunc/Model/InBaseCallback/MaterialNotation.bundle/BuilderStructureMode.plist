@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createequalization</key>
+	<string>mountedunary</string>
+	<key>flexibleLinker</key>
+	<string>sliderduringstrategy</string>
+	<key>inactiveshape</key>
+	<string>restoreView</string>
+	<key>indicatorobserver</key>
+	<string>receiveoffset</string>
+	<key>mobilemediafeedback</key>
+	<string>metadatajoboffset</string>
+	<key>optionStatus</key>
+	<string>routeButton</string>
+	<key>shouldstreamsegment</key>
+	<string>cacheGem</string>
+	<key>spinetransformer</key>
+	<string>subsequentlogacceleration</string>
+	<key>sustainableBinary</key>
+	<string>consumeService</string>
+</dict>
+</plist>

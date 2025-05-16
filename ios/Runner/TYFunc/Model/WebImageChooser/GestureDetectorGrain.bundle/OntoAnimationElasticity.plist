@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNib</key>
+	<string>batchFlyweight</string>
+	<key>cupertinoGift</key>
+	<string>signKind</string>
+	<key>curveSize</key>
+	<string>cupertinoSubscriber</string>
+	<key>disabledactionmargin</key>
+	<string>draggableInstruction</string>
+	<key>displayabletext</key>
+	<string>cancelStream</string>
+	<key>largeradius</key>
+	<string>removeAwait</string>
+	<key>shouldDispatchInstruction</key>
+	<string>paddingColor</string>
+	<key>shouldSubscribeChecklist</key>
+	<string>sophisticatedResult</string>
+	<key>sizewithoutkind</key>
+	<string>sharedSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRectangle</key>
+	<string>activatedEmitter</string>
+	<key>actionversusmemento</key>
+	<string>standaloneAudio</string>
+	<key>canvasorigin</key>
+	<string>shapePosition</string>
+	<key>hierarchicalCell</key>
+	<string>geometricQuaternion</string>
+	<key>shouldValidatePositioned</key>
+	<string>criticalVector</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationobserverinset</key>
+	<string>requiredMapper</string>
+	<key>deferredCallback</key>
+	<string>textlevelorientation</string>
+	<key>denseVertex</key>
+	<string>paddingOpacity</string>
+	<key>descriptionIndex</key>
+	<string>interactorpolyfill</string>
+	<key>otherInterface</key>
+	<string>eagerElasticity</string>
+	<key>reduceradapterbrightness</key>
+	<string>observeSubscription</string>
+	<key>slidermediatorbound</key>
+	<string>repositoryresponder</string>
+	<key>sophisticatedGrayscale</key>
+	<string>semanticsInterval</string>
+</dict>
+</plist>

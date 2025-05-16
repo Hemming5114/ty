@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainState</key>
+	<string>marshalResult</string>
+	<key>publicAperture</key>
+	<string>emitCallback</string>
+	<key>requiredLayer</key>
+	<string>mediaactivityhead</string>
+	<key>respectiveThreshold</key>
+	<string>radiuskind</string>
+	<key>reusablePlayback</key>
+	<string>significantoverlay</string>
+	<key>singletondelivery</key>
+	<string>canTransformSpine</string>
+	<key>usecasepermode</key>
+	<string>mutablecallbackmode</string>
+</dict>
+</plist>

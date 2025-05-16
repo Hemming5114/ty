@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertstatetransparency</key>
+	<string>independentTrigger</string>
+	<key>ascentCoord</key>
+	<string>reusableChallenge</string>
+	<key>batchTag</key>
+	<string>canShowSkirt</string>
+	<key>blocresult</key>
+	<string>storyboardAction</string>
+	<key>concretevectorhue</key>
+	<string>permissiveHistogram</string>
+	<key>displayableComponent</key>
+	<string>substantialCollection</string>
+	<key>lastRouter</key>
+	<string>equivalentDepth</string>
+	<key>shouldCreateBinary</key>
+	<string>mediaqueryparametervisible</string>
+	<key>sliderscopefeedback</key>
+	<string>shouldValidateGesture</string>
+</dict>
+</plist>

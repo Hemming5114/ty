@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronouscurve</key>
+	<string>shouldNavigateGradient</string>
+	<key>challengeroute</key>
+	<string>diffableCube</string>
+	<key>comprehensiveIntegration</key>
+	<string>unlockHandler</string>
+	<key>precisionposition</key>
+	<string>shouldMountExponent</string>
+	<key>remediationtension</key>
+	<string>seekSlider</string>
+	<key>requiredcallback</key>
+	<string>dedicatedAction</string>
+	<key>shouldRestartOption</key>
+	<string>extendSingleton</string>
+	<key>shouldTransitionCertificate</key>
+	<string>shouldunmounttangent</string>
+</dict>
+</plist>

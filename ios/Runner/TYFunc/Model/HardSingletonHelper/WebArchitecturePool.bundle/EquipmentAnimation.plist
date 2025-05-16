@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAllocator</key>
+	<string>specifyoption</string>
+	<key>brushfunctioncount</key>
+	<string>cupertinoTolerance</string>
+	<key>fixedEntity</key>
+	<string>symmetricAction</string>
+	<key>localizationreplica</key>
+	<string>providerAction</string>
+	<key>onscrolltap</key>
+	<string>skirtsystempressure</string>
+	<key>shouldDismissGridView</key>
+	<string>normalSlider</string>
+	<key>shouldUnbindPositioned</key>
+	<string>ascentVelocity</string>
+	<key>statefulchartresponse</key>
+	<string>adaptiveMedia</string>
+</dict>
+</plist>

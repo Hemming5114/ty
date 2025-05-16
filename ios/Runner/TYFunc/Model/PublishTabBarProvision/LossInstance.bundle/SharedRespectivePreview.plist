@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBottom</key>
+	<string>visitController</string>
+	<key>endspecifier</key>
+	<string>pinchableGate</string>
+	<key>fixedCard</key>
+	<string>saveproject</string>
+	<key>infrastructureContrast</key>
+	<string>normJob</string>
+	<key>secondOptimizer</key>
+	<string>shouldDisconnectAnimatedContainer</string>
+	<key>shouldPersistCycle</key>
+	<string>defaultMultiplication</string>
+	<key>sophisticatedCompleter</key>
+	<string>canCreateLabel</string>
+	<key>validatefragment</key>
+	<string>shouldProcessBloc</string>
+</dict>
+</plist>

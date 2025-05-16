@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblemapper</key>
+	<string>releasepageview</string>
+	<key>arithmeticMenu</key>
+	<string>sinkValue</string>
+	<key>displayableBase</key>
+	<string>kernelScale</string>
+	<key>protectedcontroller</key>
+	<string>variantcallback</string>
+	<key>sharedTask</key>
+	<string>temporaryTaxonomy</string>
+	<key>singleAppBar</key>
+	<string>callbackHue</string>
+	<key>sortedCreator</key>
+	<string>tabbarLevel</string>
+	<key>unsortedSlash</key>
+	<string>instantiateException</string>
+	<key>usedNorm</key>
+	<string>accessoryTask</string>
+</dict>
+</plist>

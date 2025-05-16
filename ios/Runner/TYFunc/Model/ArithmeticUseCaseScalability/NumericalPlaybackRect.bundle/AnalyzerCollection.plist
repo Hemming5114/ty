@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSwitch</key>
+	<string>swiftFeedback</string>
+	<key>curveSkewY</key>
+	<string>shouldskipaxis</string>
+	<key>materialChart</key>
+	<string>channelCommand</string>
+	<key>mutableTransformer</key>
+	<string>specifyCapsule</string>
+	<key>pointparameterinterval</key>
+	<string>resourceType</string>
+	<key>previewRight</key>
+	<string>scheduleTopic</string>
+	<key>sequentialMenu</key>
+	<string>logarithmLocation</string>
+	<key>shouldObserveRole</key>
+	<string>retainFuture</string>
+	<key>sustainableAsync</key>
+	<string>shoulddetachcolumn</string>
+</dict>
+</plist>

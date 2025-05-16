@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentchallenge</key>
+	<string>canTransitionSubpixel</string>
+	<key>descentname</key>
+	<string>missedLayout</string>
+	<key>immediateAwait</key>
+	<string>globalcube</string>
+	<key>positionedTop</key>
+	<string>emitterdirection</string>
+	<key>streampressure</key>
+	<string>parallelResponse</string>
+	<key>synchronousPublisher</key>
+	<string>reducerFunction</string>
+</dict>
+</plist>

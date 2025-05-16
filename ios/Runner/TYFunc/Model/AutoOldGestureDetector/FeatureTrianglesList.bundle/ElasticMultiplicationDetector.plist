@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converttransition</key>
+	<string>sessionVar</string>
+	<key>criticalVideo</key>
+	<string>appendInjection</string>
+	<key>othergesturedetector</key>
+	<string>geometricResult</string>
+	<key>rapidAnimatedContainer</key>
+	<string>resizeChart</string>
+	<key>resilientResponder</key>
+	<string>showVariant</string>
+</dict>
+</plist>

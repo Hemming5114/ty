@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChannels</key>
+	<string>challengebuffer</string>
+	<key>compositionalInstruction</key>
+	<string>shouldpublishmember</string>
+	<key>fragmentOpacity</key>
+	<string>accordionanimation</string>
+	<key>mediaforstage</key>
+	<string>diffableSubscriber</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachrequest</key>
+	<string>reduceFrame</string>
+	<key>delicateBinder</key>
+	<string>inflatecanvas</string>
+	<key>integrityBehavior</key>
+	<string>canDispatchOption</string>
+	<key>integrityLocation</key>
+	<string>trianglesOrientation</string>
+	<key>parallelExpanded</key>
+	<string>deserializeReduction</string>
+	<key>positionedthroughchain</key>
+	<string>pinchableAwait</string>
+	<key>preparespine</key>
+	<string>localIntegrity</string>
+	<key>tensorError</key>
+	<string>injectionvariablescale</string>
+</dict>
+</plist>

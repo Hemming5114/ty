@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composabletexture</key>
+	<string>hardProvider</string>
+	<key>consultativeStatus</key>
+	<string>callbackIndex</string>
+	<key>enabledEqualization</key>
+	<string>sharedOptimizer</string>
+	<key>interactoraroundvar</key>
+	<string>prismaticTouch</string>
+	<key>localizationFrequency</key>
+	<string>limitEvent</string>
+	<key>notifiererror</key>
+	<string>renderTable</string>
+	<key>polyfillMargin</key>
+	<string>canDispatchSpecifier</string>
+	<key>rowtemplecoord</key>
+	<string>infoIndex</string>
+	<key>schedulerbehavior</key>
+	<string>partitionRadius</string>
+</dict>
+</plist>

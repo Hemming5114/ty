@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteLayout</key>
+	<string>validatePainter</string>
+	<key>draggableTriangles</key>
+	<string>computeBuffer</string>
+	<key>flexibleReplica</key>
+	<string>persistentTriangles</string>
+	<key>meshCount</key>
+	<string>explicitOverlay</string>
+	<key>multiCatalyst</key>
+	<string>canSerializeNavigator</string>
+	<key>semanticScenario</key>
+	<string>paintCaption</string>
+	<key>shouldNotifyAspectRatio</key>
+	<string>shouldReplaceTheme</string>
+</dict>
+</plist>

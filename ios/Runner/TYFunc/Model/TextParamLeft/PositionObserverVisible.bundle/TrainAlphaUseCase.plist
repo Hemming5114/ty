@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialStrength</key>
+	<string>shouldUnmountAnimation</string>
+	<key>currentRange</key>
+	<string>tappableWidget</string>
+	<key>scenearoundstage</key>
+	<string>disparateResource</string>
+	<key>secondticker</key>
+	<string>activeCurve</string>
+	<key>shouldPauseThread</key>
+	<string>originalInkWell</string>
+</dict>
+</plist>

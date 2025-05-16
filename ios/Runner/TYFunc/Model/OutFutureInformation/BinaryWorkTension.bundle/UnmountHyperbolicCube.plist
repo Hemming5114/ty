@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateStorage</key>
+	<string>modelMediator</string>
+	<key>dispatcherDelay</key>
+	<string>canSkipActivity</string>
+	<key>mapperCenter</key>
+	<string>observeextension</string>
+	<key>routeinmediator</key>
+	<string>mediocreShader</string>
+	<key>shouldNavigateMonster</key>
+	<string>buttonsystemscale</string>
+</dict>
+</plist>

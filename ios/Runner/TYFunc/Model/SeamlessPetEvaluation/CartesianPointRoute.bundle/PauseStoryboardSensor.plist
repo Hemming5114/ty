@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedskirtalignment</key>
+	<string>replacePadding</string>
+	<key>opaqueGestureDetector</key>
+	<string>activeStroke</string>
+	<key>permutationspacing</key>
+	<string>declarativeTime</string>
+	<key>shouldpublishprotocol</key>
+	<string>fusedLoader</string>
+	<key>tensorBoxShadow</key>
+	<string>canEndExponent</string>
+</dict>
+</plist>

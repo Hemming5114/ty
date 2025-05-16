@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBaseline</key>
+	<string>multiWidget</string>
+	<key>ignoredThroughput</key>
+	<string>matrixHue</string>
+	<key>prismaticresourceacceleration</key>
+	<string>associatedSegue</string>
+	<key>robustdependency</key>
+	<string>mainVideo</string>
+	<key>roleDepth</key>
+	<string>accordiondescription</string>
+	<key>shouldfetchconsumer</key>
+	<string>graphicthanparameter</string>
+</dict>
+</plist>

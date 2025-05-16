@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorPressure</key>
+	<string>displayableInteger</string>
+	<key>composableProfile</key>
+	<string>layoutCaption</string>
+	<key>cupertinoState</key>
+	<string>synchronousCharacter</string>
+	<key>declarativeIndicator</key>
+	<string>canCreateDescriptor</string>
+	<key>iterativeArithmetic</key>
+	<string>certificateFlags</string>
+	<key>sharedCatalyst</key>
+	<string>deprecateProvider</string>
+	<key>shouldCreateBehavior</key>
+	<string>requiredTernary</string>
+	<key>shouldPrepareDuration</key>
+	<string>injectInterface</string>
+</dict>
+</plist>

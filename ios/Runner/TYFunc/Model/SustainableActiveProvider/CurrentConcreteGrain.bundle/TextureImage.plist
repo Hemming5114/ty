@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentappearance</key>
+	<string>chapterTheme</string>
+	<key>diversifiedImage</key>
+	<string>canStartMaster</string>
+	<key>equipmentoffset</key>
+	<string>channelsdecoratororientation</string>
+	<key>inheritedBuffer</key>
+	<string>fetchCard</string>
+	<key>modeltheme</key>
+	<string>intermediateDelegate</string>
+	<key>normalResolver</key>
+	<string>playbackHue</string>
+	<key>shouldDisposeDecoration</key>
+	<string>routePromise</string>
+	<key>trianglesright</key>
+	<string>decodeStream</string>
+</dict>
+</plist>

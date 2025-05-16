@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitieselement</key>
+	<string>discardedJoiner</string>
+	<key>collectionFrequency</key>
+	<string>optionBottom</string>
+	<key>cyclegrain</key>
+	<string>setstateSizedBox</string>
+	<key>resultspacing</key>
+	<string>titlevalueacceleration</string>
+	<key>secondModule</key>
+	<string>storageName</string>
+	<key>strengthcenter</key>
+	<string>convolutioninteraction</string>
+	<key>uniqueFinder</key>
+	<string>activatedStorage</string>
+</dict>
+</plist>

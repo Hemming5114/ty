@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxtopic</key>
+	<string>continueasync</string>
+	<key>criticalInterpolation</key>
+	<string>continueModal</string>
+	<key>hardCycle</key>
+	<string>streamlineGrid</string>
+	<key>missionBound</key>
+	<string>backwardOverlay</string>
+	<key>modulusBehavior</key>
+	<string>similarChooser</string>
+	<key>otherReduction</key>
+	<string>keyAllocator</string>
+	<key>pivotalCell</key>
+	<string>activatedCheckbox</string>
+	<key>routerexceptframework</key>
+	<string>deactivateButton</string>
+	<key>scaleOrigin</key>
+	<string>currentElasticity</string>
+</dict>
+</plist>

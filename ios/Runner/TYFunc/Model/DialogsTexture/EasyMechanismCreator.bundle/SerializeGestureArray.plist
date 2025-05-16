@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEquipment</key>
+	<string>drawGrid</string>
+	<key>composableDetail</key>
+	<string>scaleloop</string>
+	<key>criticalSelector</key>
+	<string>semanticsTail</string>
+	<key>ephemeralPlayback</key>
+	<string>drawPreview</string>
+	<key>firstRadio</key>
+	<string>kernelSaturation</string>
+	<key>painterwithdecorator</key>
+	<string>sophisticatedtransitioncoord</string>
+	<key>similarDocument</key>
+	<string>unscheduleBloc</string>
+	<key>smallSkirt</key>
+	<string>validateloop</string>
+</dict>
+</plist>

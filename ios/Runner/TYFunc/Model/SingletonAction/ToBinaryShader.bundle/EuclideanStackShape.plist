@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousdescent</key>
+	<string>captureException</string>
+	<key>cubeFormat</key>
+	<string>dialogsSpeed</string>
+	<key>explicitInfo</key>
+	<string>animatedFlex</string>
+	<key>ignoredmap</key>
+	<string>persistentDuration</string>
+	<key>nativeTicker</key>
+	<string>behaviorsaturation</string>
+	<key>nextDrawer</key>
+	<string>extensionTint</string>
+	<key>optimizercompositescale</key>
+	<string>yieldexception</string>
+	<key>shouldListenGestureDetector</key>
+	<string>mainMargin</string>
+	<key>smallReceiver</key>
+	<string>loadNib</string>
+</dict>
+</plist>

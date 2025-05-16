@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialbehavior</key>
+	<string>cubitvalueorientation</string>
+	<key>cupertinoName</key>
+	<string>canStopSegue</string>
+	<key>densetabbar</key>
+	<string>seamlessresponsetype</string>
+	<key>flexibleTrajectory</key>
+	<string>defaultDrawer</string>
+	<key>globalQuaternion</key>
+	<string>accessiblePresenter</string>
+	<key>materialProgressBar</key>
+	<string>unbindNotifier</string>
+	<key>parseprotocol</key>
+	<string>smallResponse</string>
+	<key>requestKind</key>
+	<string>functionalStroke</string>
+	<key>specifyObject</key>
+	<string>customFeature</string>
+</dict>
+</plist>

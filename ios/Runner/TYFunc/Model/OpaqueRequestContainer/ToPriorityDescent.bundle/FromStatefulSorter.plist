@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infoRate</key>
+	<string>mediaqueryValidation</string>
+	<key>pushloop</key>
+	<string>itemPosition</string>
+	<key>seamlessDimension</key>
+	<string>createBuffer</string>
+	<key>shouldTransitionSample</key>
+	<string>animatePoint</string>
+	<key>sizedboxexception</key>
+	<string>factorystroke</string>
+	<key>transitionTheme</key>
+	<string>temporaryTopic</string>
+	<key>transitionorplatform</key>
+	<string>concatenateConstraint</string>
+</dict>
+</plist>

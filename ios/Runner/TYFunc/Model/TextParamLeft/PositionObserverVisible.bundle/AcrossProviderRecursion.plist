@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDescent</key>
+	<string>apertureflyweightdelay</string>
+	<key>localAsset</key>
+	<string>animationjobscale</string>
+	<key>oldSchema</key>
+	<string>permissiveView</string>
+	<key>resourcechainforce</key>
+	<string>parseTouch</string>
+	<key>shouldFormatBehavior</key>
+	<string>localizationMode</string>
+	<key>touchDelay</key>
+	<string>uniquedependency</string>
+	<key>updaterequest</key>
+	<string>displayEvent</string>
+</dict>
+</plist>

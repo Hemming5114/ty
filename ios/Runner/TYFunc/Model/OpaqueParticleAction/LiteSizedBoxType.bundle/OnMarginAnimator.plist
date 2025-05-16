@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBaseline</key>
+	<string>disconnectState</string>
+	<key>durationobserver</key>
+	<string>tabviewtransparency</string>
+	<key>eagerController</key>
+	<string>shouldstartcontraction</string>
+	<key>isolateresponse</key>
+	<string>canTransitionNorm</string>
+	<key>materialUnary</key>
+	<string>uniqueComposition</string>
+	<key>persistentOccasion</key>
+	<string>canInflateBuilder</string>
+	<key>responsivelifecycle</key>
+	<string>shouldStreamCoordinator</string>
+	<key>shouldObserveSlash</key>
+	<string>shoulddetachalpha</string>
+	<key>tweenchooser</key>
+	<string>currentcolumn</string>
+</dict>
+</plist>

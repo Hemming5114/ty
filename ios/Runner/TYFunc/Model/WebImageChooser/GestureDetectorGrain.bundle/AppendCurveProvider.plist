@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialservicetint</key>
+	<string>directLoss</string>
+	<key>parallelNavigator</key>
+	<string>canFormatMap</string>
+	<key>prevbloc</key>
+	<string>discardedservice</string>
+	<key>routerForce</key>
+	<string>throughputRotation</string>
+	<key>shouldFinishGesture</key>
+	<string>sceneType</string>
+</dict>
+</plist>

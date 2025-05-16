@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturepervalue</key>
+	<string>sequentialStateful</string>
+	<key>executeinstruction</key>
+	<string>localizationSpeed</string>
+	<key>instructionrate</key>
+	<string>canStartCatalyst</string>
+	<key>resilientVolume</key>
+	<string>deserializeClipper</string>
+	<key>shouldDecodeTouch</key>
+	<string>transitionStage</string>
+	<key>shouldMountPainter</key>
+	<string>associateRadius</string>
+	<key>synchronousFrame</key>
+	<string>mitigateScene</string>
+</dict>
+</plist>

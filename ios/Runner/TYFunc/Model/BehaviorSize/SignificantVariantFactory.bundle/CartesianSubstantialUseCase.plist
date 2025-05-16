@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTicker</key>
+	<string>resourceVelocity</string>
+	<key>dynamicImage</key>
+	<string>semanticBloc</string>
+	<key>elasticError</key>
+	<string>positionedRight</string>
+	<key>euclideanPrecision</key>
+	<string>concurrentInteraction</string>
+	<key>graphstyle</key>
+	<string>interactiveTweak</string>
+	<key>notificationFeedback</key>
+	<string>instantiateButton</string>
+	<key>shouldSaveMaterial</key>
+	<string>similarCharacter</string>
+	<key>sustainableConsumption</key>
+	<string>delegateHue</string>
+	<key>uniqueColumn</key>
+	<string>equalTween</string>
+</dict>
+</plist>

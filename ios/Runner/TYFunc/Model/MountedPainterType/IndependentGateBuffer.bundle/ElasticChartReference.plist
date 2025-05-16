@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultcard</key>
+	<string>reactivePositioned</string>
+	<key>pophandler</key>
+	<string>gridCoord</string>
+	<key>presenterRotation</key>
+	<string>mutableRole</string>
+	<key>processorFlags</key>
+	<string>disabledIntegration</string>
+	<key>staticVector</key>
+	<string>normalCustomPaint</string>
+	<key>stopbutton</key>
+	<string>trianglesType</string>
+</dict>
+</plist>

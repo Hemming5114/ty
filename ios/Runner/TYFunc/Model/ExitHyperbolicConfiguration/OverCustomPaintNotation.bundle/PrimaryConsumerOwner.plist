@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAlpha</key>
+	<string>interceptnavigation</string>
+	<key>equipmentPadding</key>
+	<string>usecasePadding</string>
+	<key>invisibleExpanded</key>
+	<string>shouldDisconnectSymbol</string>
+	<key>metadataCoord</key>
+	<string>webStack</string>
+	<key>resultinfo</key>
+	<string>catalystvarorigin</string>
+	<key>sharedAccessory</key>
+	<string>navigationShape</string>
+	<key>shouldPopSwift</key>
+	<string>imperativeInfrastructure</string>
+	<key>shouldPushMusic</key>
+	<string>calculateDependency</string>
+	<key>uniformCell</key>
+	<string>backwardRemainder</string>
+</dict>
+</plist>

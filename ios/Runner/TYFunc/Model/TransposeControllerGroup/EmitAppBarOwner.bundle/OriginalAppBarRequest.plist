@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globaltabviewspeed</key>
+	<string>interfaceoutsidecontext</string>
+	<key>localDetector</key>
+	<string>providerexcepttemple</string>
+	<key>reusableComponent</key>
+	<string>canNavigateLog</string>
+	<key>sensorcontrast</key>
+	<string>layerFrequency</string>
+</dict>
+</plist>

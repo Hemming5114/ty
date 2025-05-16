@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationthanwork</key>
+	<string>shouldLayoutScreen</string>
+	<key>elasticScale</key>
+	<string>disclaimerResponse</string>
+	<key>gestureDepth</key>
+	<string>beginnerPicker</string>
+	<key>masterDuration</key>
+	<string>concatenateSingleton</string>
+	<key>pushinteractor</key>
+	<string>localBullet</string>
+	<key>rectanglePressure</key>
+	<string>masterDuration</string>
+	<key>sharedInteraction</key>
+	<string>showRect</string>
+	<key>sharedgesturedetectorbehavior</key>
+	<string>normalPermutation</string>
+	<key>streaminsideobserver</key>
+	<string>canDeserializeBuilder</string>
+</dict>
+</plist>

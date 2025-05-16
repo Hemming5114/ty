@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionscalability</key>
+	<string>shouldConnectSymbol</string>
+	<key>buildgrayscale</key>
+	<string>dissociateBuffer</string>
+	<key>callbacktheme</key>
+	<string>shouldInflateAlpha</string>
+	<key>crucialslider</key>
+	<string>usageLocation</string>
+	<key>displayableSpine</key>
+	<string>immutablebloc</string>
+	<key>semanticsshade</key>
+	<string>canEncodeNavigation</string>
+	<key>shouldDisposeDuration</key>
+	<string>signHue</string>
+	<key>significantprojection</key>
+	<string>canRebuildDelegate</string>
+</dict>
+</plist>

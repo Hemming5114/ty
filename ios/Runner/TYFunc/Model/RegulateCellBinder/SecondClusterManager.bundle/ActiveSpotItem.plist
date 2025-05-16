@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInterval</key>
+	<string>uniformsign</string>
+	<key>desktoppager</key>
+	<string>oldComposition</string>
+	<key>hardProgressBar</key>
+	<string>canProcessSwift</string>
+	<key>navigatorvalueforce</key>
+	<string>instantiateRoute</string>
+	<key>offsetpainter</key>
+	<string>canTransformEffect</string>
+	<key>servicebrightness</key>
+	<string>canRouteMomentum</string>
+	<key>shouldDisposeCycle</key>
+	<string>startLog</string>
+	<key>shouldUnbindEquipment</key>
+	<string>interceptRadius</string>
+	<key>statefulGestureDetector</key>
+	<string>delegatecommandtail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesBehavior</key>
+	<string>amortizationShape</string>
+	<key>compositionInset</key>
+	<string>typicalSlash</string>
+	<key>concurrentMomentum</key>
+	<string>freeUtil</string>
+	<key>custompaintfunctionappearance</key>
+	<string>animatedLoop</string>
+	<key>dedicatedSwift</key>
+	<string>autoAlignment</string>
+	<key>frameandfunction</key>
+	<string>baselinename</string>
+	<key>functionalFinder</key>
+	<string>declarativeSubpixel</string>
+</dict>
+</plist>

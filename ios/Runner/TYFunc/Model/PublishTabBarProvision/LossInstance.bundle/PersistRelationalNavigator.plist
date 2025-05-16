@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetbound</key>
+	<string>multislider</string>
+	<key>cellshader</key>
+	<string>crucialSizedBox</string>
+	<key>flexibleCompleter</key>
+	<string>requiredEquipment</string>
+	<key>imperativecomponent</key>
+	<string>shouldSkipConvolution</string>
+	<key>mechanismright</key>
+	<string>elasticThreshold</string>
+	<key>onicontap</key>
+	<string>cupertinoStructure</string>
+	<key>rectTransparency</key>
+	<string>mapperTheme</string>
+</dict>
+</plist>

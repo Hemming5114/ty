@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateheap</key>
+	<string>reactiveReducer</string>
+	<key>detectorOrigin</key>
+	<string>unsortedSwitch</string>
+	<key>materialpolygon</key>
+	<string>nextFormat</string>
+	<key>mutablestack</key>
+	<string>canValidateBloc</string>
+	<key>otheraccessoryvelocity</key>
+	<string>deferredBloc</string>
+	<key>presentsprite</key>
+	<string>restartAnchor</string>
+</dict>
+</plist>

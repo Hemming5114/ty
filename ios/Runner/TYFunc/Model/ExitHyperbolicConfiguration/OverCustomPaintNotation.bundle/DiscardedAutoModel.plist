@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorAppearance</key>
+	<string>canUnbindTextField</string>
+	<key>mutableProvision</key>
+	<string>graphborder</string>
+	<key>secondBatch</key>
+	<string>canContinueSlash</string>
+	<key>shouldStreamConstraint</key>
+	<string>managerOffset</string>
+	<key>tentativeBehavior</key>
+	<string>hardAnimator</string>
+</dict>
+</plist>

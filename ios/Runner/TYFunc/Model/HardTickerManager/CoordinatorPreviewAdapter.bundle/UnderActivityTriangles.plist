@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryvisibility</key>
+	<string>defaultcompletion</string>
+	<key>deferredInstruction</key>
+	<string>delicateAnimator</string>
+	<key>sharedTolerance</key>
+	<string>immediatechapterindex</string>
+	<key>shouldInflateCapsule</key>
+	<string>retainedSemantics</string>
+	<key>standalonetransformer</key>
+	<string>shouldParseContraction</string>
+	<key>tasklikemethod</key>
+	<string>custompaintbound</string>
+</dict>
+</plist>

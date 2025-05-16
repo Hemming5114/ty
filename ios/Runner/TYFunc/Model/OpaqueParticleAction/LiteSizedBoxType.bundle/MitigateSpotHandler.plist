@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generatetexture</key>
+	<string>semanticNib</string>
+	<key>popupVisibility</key>
+	<string>entitySpeed</string>
+	<key>rebuildinteger</key>
+	<string>canNotifyChallenge</string>
+	<key>rectanglebottom</key>
+	<string>resultPlatform</string>
+	<key>routerInteraction</key>
+	<string>directObserver</string>
+	<key>segueerror</key>
+	<string>shouldProcessRoute</string>
+	<key>shouldTrainInteger</key>
+	<string>standaloneSubpixel</string>
+	<key>subpixelMargin</key>
+	<string>canParseExpanded</string>
+	<key>subsequentwidgettension</key>
+	<string>canKeepInteger</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorOrientation</key>
+	<string>decouplecharacter</string>
+	<key>consumerResponse</key>
+	<string>acceleratePresenter</string>
+	<key>hardcluster</key>
+	<string>resizableZone</string>
+	<key>heroresolver</key>
+	<string>updateActivity</string>
+	<key>inactivePopup</key>
+	<string>explicitconfigurationshade</string>
+	<key>shouldProcessAnchor</key>
+	<string>flexibleEvaluation</string>
+	<key>techniqueDepth</key>
+	<string>remediationTint</string>
+	<key>tickerVisibility</key>
+	<string>notationTag</string>
+	<key>usedcombiner</key>
+	<string>unactivatedElasticity</string>
+</dict>
+</plist>

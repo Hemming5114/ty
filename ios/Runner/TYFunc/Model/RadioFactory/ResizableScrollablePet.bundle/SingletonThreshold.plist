@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedSprite</key>
+	<string>loopvelocity</string>
+	<key>intermediateProject</key>
+	<string>resilienttask</string>
+	<key>replicateoffset</key>
+	<string>cartesianCubit</string>
+	<key>scrollabletweentint</key>
+	<string>videoInterval</string>
+	<key>selectorLeft</key>
+	<string>imageParameter</string>
+	<key>substantialInteractor</key>
+	<string>restartEqualization</string>
+</dict>
+</plist>

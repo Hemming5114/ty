@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyPlayback</key>
+	<string>prevTextField</string>
+	<key>graphicMomentum</key>
+	<string>advancedModule</string>
+	<key>shouldDismissPainter</key>
+	<string>customizedTheme</string>
+	<key>shouldHandleGridView</key>
+	<string>parallelsubpixelinteraction</string>
+	<key>shouldNotifyMaterial</key>
+	<string>granularSwitch</string>
+	<key>shouldSetStateRadio</key>
+	<string>repositoryAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedternary</key>
+	<string>canSkipTechnique</string>
+	<key>deferredRecursion</key>
+	<string>maxConsumer</string>
+	<key>eagerColor</key>
+	<string>temporaryColor</string>
+	<key>iconHue</key>
+	<string>ternaryVisible</string>
+	<key>schedulervalidation</key>
+	<string>reduceRouter</string>
+	<key>shouldDisposeSlash</key>
+	<string>shouldParseButton</string>
+	<key>shouldSkipHistogram</key>
+	<string>musicwithoutbridge</string>
+</dict>
+</plist>

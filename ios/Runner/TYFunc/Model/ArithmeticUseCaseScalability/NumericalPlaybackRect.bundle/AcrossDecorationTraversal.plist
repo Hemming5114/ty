@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousticker</key>
+	<string>copyTopic</string>
+	<key>bitrateSize</key>
+	<string>zoneInset</string>
+	<key>gridviewDistance</key>
+	<string>evaluationSkewY</string>
+	<key>priorPreview</key>
+	<string>descentResponse</string>
+	<key>rangeFeedback</key>
+	<string>animatedcontainerMethod</string>
+	<key>resilientslash</key>
+	<string>shouldValidateCapsule</string>
+	<key>scaleFlags</key>
+	<string>vectorizeChannel</string>
+	<key>shouldEmitMaster</key>
+	<string>allocatorfinder</string>
+	<key>smartBloc</key>
+	<string>canSaveMomentum</string>
+	<key>specifyImpression</key>
+	<string>emitterForce</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionsystemrate</key>
+	<string>exitUseCase</string>
+	<key>parallelAlignment</key>
+	<string>handleHero</string>
+	<key>shouldbindroute</key>
+	<string>restartProtocol</string>
+	<key>shoulddeserializevariant</key>
+	<string>subsequentError</string>
+	<key>skinCenter</key>
+	<string>popupawaybuffer</string>
+	<key>thresholdvisible</key>
+	<string>spineTint</string>
+</dict>
+</plist>

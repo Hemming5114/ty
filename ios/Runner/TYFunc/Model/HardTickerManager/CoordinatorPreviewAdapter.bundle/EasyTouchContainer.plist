@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintdistance</key>
+	<string>interactiveHeap</string>
+	<key>extensionEdge</key>
+	<string>toleranceResponse</string>
+	<key>interceptthread</key>
+	<string>executeAwait</string>
+	<key>keyAudio</key>
+	<string>capacitiesduringfacade</string>
+	<key>mapCoord</key>
+	<string>encodeFuture</string>
+	<key>nextScalability</key>
+	<string>shouldTransformFragment</string>
+	<key>shouldDispatchSubpixel</key>
+	<string>logTier</string>
+	<key>standaloneEvaluation</key>
+	<string>customHash</string>
+</dict>
+</plist>

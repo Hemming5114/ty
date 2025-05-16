@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredCompleter</key>
+	<string>nodeAction</string>
+	<key>deferredactionindex</key>
+	<string>deserializeGram</string>
+	<key>lazyFactory</key>
+	<string>shouldDetachText</string>
+	<key>logHue</key>
+	<string>shouldDecodeExpanded</string>
+</dict>
+</plist>

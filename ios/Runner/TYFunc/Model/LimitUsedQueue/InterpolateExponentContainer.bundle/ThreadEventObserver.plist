@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleresource</key>
+	<string>prepareTabBar</string>
+	<key>fixedmodule</key>
+	<string>multiscreen</string>
+	<key>granularsymbolfeedback</key>
+	<string>shouldProcessTouch</string>
+	<key>listenerBehavior</key>
+	<string>updateTween</string>
+	<key>nativeTransition</key>
+	<string>ephemeralStream</string>
+	<key>shouldSubscribeReference</key>
+	<string>loopTop</string>
+	<key>shouldUnmountAnchor</key>
+	<string>spotFramework</string>
+	<key>shouldpreparealert</key>
+	<string>unarySize</string>
+	<key>visiblematrix</key>
+	<string>infoMode</string>
+</dict>
+</plist>

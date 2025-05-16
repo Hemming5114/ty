@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFactory</key>
+	<string>detachCurve</string>
+	<key>criticalQuaternion</key>
+	<string>crucialProgressBar</string>
+	<key>desktopPolyfill</key>
+	<string>sequentialMethod</string>
+	<key>greatObserver</key>
+	<string>delegateIntensity</string>
+	<key>popupInteraction</key>
+	<string>restartSpine</string>
+	<key>presentchapter</key>
+	<string>provideFactory</string>
+	<key>reactiveRoute</key>
+	<string>imageEnvironment</string>
+	<key>responsesubscriber</key>
+	<string>intensityMediator</string>
+	<key>servicedelivery</key>
+	<string>descentOpacity</string>
+</dict>
+</plist>

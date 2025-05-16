@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFactory</key>
+	<string>respondSink</string>
+	<key>apertureInset</key>
+	<string>sizedboxbottom</string>
+	<key>associatedMonster</key>
+	<string>nextcaption</string>
+	<key>challengeResponse</key>
+	<string>trainSwitch</string>
+	<key>formatRotation</key>
+	<string>standalonevertex</string>
+	<key>localData</key>
+	<string>shouldTransformDuration</string>
+	<key>nativeImpression</key>
+	<string>substantialcompleter</string>
+	<key>newestSwitch</key>
+	<string>responsiveMetrics</string>
+	<key>shouldProcessCanvas</key>
+	<string>gestureevent</string>
+	<key>throughputInteraction</key>
+	<string>semanticTernary</string>
+</dict>
+</plist>

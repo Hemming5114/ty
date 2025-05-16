@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMend</key>
+	<string>lazyrow</string>
+	<key>backwardChecklist</key>
+	<string>canObservePriority</string>
+	<key>integrationBottom</key>
+	<string>stopgrayscale</string>
+	<key>rangeMode</key>
+	<string>directlynotifier</string>
+	<key>standaloneThread</key>
+	<string>oldMechanism</string>
+</dict>
+</plist>

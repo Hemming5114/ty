@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedpopupmargin</key>
+	<string>cacheSize</string>
+	<key>diffableMetrics</key>
+	<string>escalateInteractor</string>
+	<key>flexdescription</key>
+	<string>canSaveBoxShadow</string>
+	<key>holdgrain</key>
+	<string>reconcileHandler</string>
+	<key>mainModule</key>
+	<string>canPaintSpecifier</string>
+	<key>unsortedRenderer</key>
+	<string>radioLevel</string>
+</dict>
+</plist>

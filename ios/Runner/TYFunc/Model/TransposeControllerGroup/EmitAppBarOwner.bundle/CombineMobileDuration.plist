@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildercontainlevel</key>
+	<string>canFormatCell</string>
+	<key>inheritedRemediation</key>
+	<string>specifyInkWell</string>
+	<key>menuvisibility</key>
+	<string>webSegment</string>
+	<key>offsetTag</key>
+	<string>canDeserializeCharacter</string>
+	<key>onrichtexttap</key>
+	<string>filterLeft</string>
+	<key>shapeSize</key>
+	<string>cosineTail</string>
+	<key>shouldPopTernary</key>
+	<string>certificateVariable</string>
+</dict>
+</plist>

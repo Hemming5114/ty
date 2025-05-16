@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSorter</key>
+	<string>reconcilegridview</string>
+	<key>customizedWrapper</key>
+	<string>connectorBrightness</string>
+	<key>discardedAwait</key>
+	<string>canDisconnectExponent</string>
+	<key>fusedImage</key>
+	<string>renderExtension</string>
+	<key>oldCycle</key>
+	<string>logType</string>
+	<key>persistentScope</key>
+	<string>shouldSkipConsumer</string>
+	<key>rectnumbertheme</key>
+	<string>emitimage</string>
+	<key>scaleFrequency</key>
+	<string>hasProvider</string>
+	<key>shouldPauseLabel</key>
+	<string>streamlineDuration</string>
+	<key>usageSpacing</key>
+	<string>threadChain</string>
+</dict>
+</plist>

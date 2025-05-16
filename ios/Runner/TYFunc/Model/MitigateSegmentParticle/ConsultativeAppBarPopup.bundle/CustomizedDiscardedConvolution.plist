@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mitigateextension</key>
+	<string>firstPlayback</string>
+	<key>movementTransparency</key>
+	<string>injectInteractor</string>
+	<key>priordescription</key>
+	<string>mainButton</string>
+	<key>rowBorder</key>
+	<string>shouldLoadRichText</string>
+	<key>secondborderleft</key>
+	<string>alertInset</string>
+	<key>subsequentRecursion</key>
+	<string>respectiveRouter</string>
+	<key>usedResponder</key>
+	<string>pushDescriptor</string>
+	<key>yieldreducer</key>
+	<string>zonecount</string>
+</dict>
+</plist>

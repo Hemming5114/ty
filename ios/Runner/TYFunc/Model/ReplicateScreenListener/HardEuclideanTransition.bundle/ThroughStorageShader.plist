@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleandparam</key>
+	<string>storeforproxy</string>
+	<key>crudeSchema</key>
+	<string>cartesianVideo</string>
+	<key>directController</key>
+	<string>stringifyCoordinator</string>
+	<key>durationbound</key>
+	<string>arithmeticExtension</string>
+	<key>independentBrush</key>
+	<string>updateTernary</string>
+	<key>originalSink</key>
+	<string>anchorPlatform</string>
+	<key>shouldCreateGradient</key>
+	<string>immediateNavigation</string>
+	<key>shouldFinishNib</key>
+	<string>otherConsumption</string>
+</dict>
+</plist>

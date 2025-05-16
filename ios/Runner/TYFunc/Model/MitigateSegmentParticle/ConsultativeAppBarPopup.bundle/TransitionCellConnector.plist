@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticLocalization</key>
+	<string>addConfiguration</string>
+	<key>independentStateless</key>
+	<string>shouldNotifyBorder</string>
+	<key>opaqueStoryboard</key>
+	<string>fusedVariant</string>
+	<key>resizableGate</key>
+	<string>tweenKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGraph</key>
+	<string>emitCertificate</string>
+	<key>bindsegment</key>
+	<string>activatedConverter</string>
+	<key>blocdirection</key>
+	<string>mutablePoint</string>
+	<key>brushtasksaturation</key>
+	<string>stackstyle</string>
+	<key>crucialRichText</key>
+	<string>extensionMediator</string>
+	<key>easyLifecycle</key>
+	<string>directlyMedia</string>
+	<key>independentPosition</key>
+	<string>descriptorDecorator</string>
+	<key>shouldFormatAccessory</key>
+	<string>spotColor</string>
+	<key>shouldpublishstamp</key>
+	<string>smartItem</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionAlignment</key>
+	<string>largeRequest</string>
+	<key>localIcon</key>
+	<string>shouldEncodeChannels</string>
+	<key>loopatdecorator</key>
+	<string>shouldTrainAnimatedContainer</string>
+	<key>optimizerbound</key>
+	<string>selectorContrast</string>
+	<key>originalMetrics</key>
+	<string>interactorBottom</string>
+	<key>relationalsymbol</key>
+	<string>deferredBaseline</string>
+	<key>scaffoldincludevariable</key>
+	<string>navigatorvertex</string>
+	<key>seamlessCubit</key>
+	<string>smartSprite</string>
+	<key>sequentialSorter</key>
+	<string>canDisconnectLayout</string>
+	<key>trajectoryDepth</key>
+	<string>shouldDecodeResource</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAscent</key>
+	<string>channelsSpeed</string>
+	<key>converterInset</key>
+	<string>slashPadding</string>
+	<key>fixedCompletion</key>
+	<string>radiusHue</string>
+	<key>futuretraversal</key>
+	<string>pushTool</string>
+	<key>listenerDensity</key>
+	<string>canFormatTabView</string>
+	<key>localizationdistance</key>
+	<string>sensorOperation</string>
+	<key>opaqueMetrics</key>
+	<string>autocharacter</string>
+	<key>robustfactory</key>
+	<string>conformCompleter</string>
+</dict>
+</plist>

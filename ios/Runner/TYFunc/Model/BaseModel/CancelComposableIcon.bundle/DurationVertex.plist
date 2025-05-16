@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedsplitter</key>
+	<string>slashconfidentiality</string>
+	<key>providetitle</key>
+	<string>isolaterate</string>
+	<key>reactiveGrayscale</key>
+	<string>mountReduction</string>
+	<key>sensorchainmargin</key>
+	<string>canPopReduction</string>
+	<key>shouldEncodeTouch</key>
+	<string>callbacksinceinterpreter</string>
+</dict>
+</plist>

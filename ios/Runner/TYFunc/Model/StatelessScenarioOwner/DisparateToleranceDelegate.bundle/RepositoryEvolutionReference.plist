@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderpicker</key>
+	<string>dismissSingleton</string>
+	<key>certificateformcontrast</key>
+	<string>encodezone</string>
+	<key>layoutaboutshape</key>
+	<string>primaryReducer</string>
+	<key>permissiveHeap</key>
+	<string>offsetstructurebound</string>
+	<key>shouldFormatBitrate</key>
+	<string>shouldMountDialogs</string>
+	<key>shouldPushCapacities</key>
+	<string>smallLog</string>
+</dict>
+</plist>

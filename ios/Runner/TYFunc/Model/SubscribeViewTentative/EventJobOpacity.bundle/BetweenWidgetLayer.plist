@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultSine</key>
+	<string>canFormatTabView</string>
+	<key>hyperbolicLoop</key>
+	<string>gridviewLocation</string>
+	<key>resilientSignature</key>
+	<string>storageContext</string>
+	<key>robustlinker</key>
+	<string>displayableStream</string>
+	<key>routerHue</key>
+	<string>nativeSchema</string>
+	<key>shouldDismissSwift</key>
+	<string>concretestateless</string>
+	<key>shouldFetchNavigator</key>
+	<string>standaloneSpine</string>
+	<key>statusMomentum</key>
+	<string>executeController</string>
+</dict>
+</plist>

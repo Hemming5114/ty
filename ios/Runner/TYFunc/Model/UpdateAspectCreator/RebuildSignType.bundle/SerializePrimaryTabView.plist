@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateKind</key>
+	<string>disabledCosine</string>
+	<key>lazyconsumer</key>
+	<string>maxPainter</string>
+	<key>mediocreFilter</key>
+	<string>batchComposite</string>
+	<key>rebuildbinary</key>
+	<string>tensorHandler</string>
+	<key>responsevisibility</key>
+	<string>slashTint</string>
+	<key>secondGrid</key>
+	<string>benchmarkHandler</string>
+	<key>serviceVisibility</key>
+	<string>disposeOverlay</string>
+	<key>shouldparsenotification</key>
+	<string>concretemissionmargin</string>
+	<key>sinkInterval</key>
+	<string>converterSize</string>
+</dict>
+</plist>

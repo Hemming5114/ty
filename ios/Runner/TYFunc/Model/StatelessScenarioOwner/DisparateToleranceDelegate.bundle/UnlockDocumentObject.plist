@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlayertransparency</key>
+	<string>sineVariable</string>
+	<key>graphicwithoutmemento</key>
+	<string>rapidGrayscale</string>
+	<key>ignoredBrush</key>
+	<string>liteReference</string>
+	<key>immutableAnimation</key>
+	<string>gatelistener</string>
+	<key>intermediateReference</key>
+	<string>normalIntegrity</string>
+	<key>nextInteractor</key>
+	<string>metricsDistance</string>
+	<key>numericalnotification</key>
+	<string>shouldSerializeTransition</string>
+	<key>respectiveDetail</key>
+	<string>initializeGrid</string>
+	<key>sharedremainder</key>
+	<string>navigatePainter</string>
+</dict>
+</plist>

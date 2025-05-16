@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTask</key>
+	<string>gramValue</string>
+	<key>basicmovement</key>
+	<string>cursorForce</string>
+	<key>bitratecontainlevel</key>
+	<string>batchCenter</string>
+	<key>constraintRotation</key>
+	<string>reconcileDelegate</string>
+	<key>elasticityHead</key>
+	<string>litematerial</string>
+	<key>factoryInterval</key>
+	<string>poolAction</string>
+	<key>materializerScale</key>
+	<string>marshalbutton</string>
+	<key>priorTrajectory</key>
+	<string>dynamicService</string>
+	<key>shouldEmitExpanded</key>
+	<string>sessionStrategy</string>
+</dict>
+</plist>

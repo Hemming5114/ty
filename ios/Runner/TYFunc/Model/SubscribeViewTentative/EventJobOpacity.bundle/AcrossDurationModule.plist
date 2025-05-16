@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAxis</key>
+	<string>multiplyTicker</string>
+	<key>inheritedScene</key>
+	<string>animationlevelforce</string>
+	<key>notifytween</key>
+	<string>wrapAsync</string>
+	<key>sharedInfo</key>
+	<string>arithmeticObject</string>
+	<key>shouldDisposeMovement</key>
+	<string>adaptiveInstruction</string>
+	<key>similarZone</key>
+	<string>shouldSetStateLabel</string>
+	<key>subtleProcessor</key>
+	<string>challengeAlignment</string>
+	<key>unarytint</key>
+	<string>schemaAlignment</string>
+</dict>
+</plist>

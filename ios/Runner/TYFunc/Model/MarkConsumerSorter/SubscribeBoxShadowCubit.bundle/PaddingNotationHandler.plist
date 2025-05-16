@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianService</key>
+	<string>obtainlabel</string>
+	<key>curveaskind</key>
+	<string>vectorizeResolver</string>
+	<key>shouldObserveOptimizer</key>
+	<string>cartesianSpot</string>
+	<key>specifierColor</key>
+	<string>statefulChapter</string>
+</dict>
+</plist>

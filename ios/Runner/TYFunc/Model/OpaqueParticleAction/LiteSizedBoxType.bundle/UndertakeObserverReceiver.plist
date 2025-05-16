@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFeature</key>
+	<string>draggableTheme</string>
+	<key>arithmeticHead</key>
+	<string>canSetStateTabView</string>
+	<key>baselineTransparency</key>
+	<string>providerLeft</string>
+	<key>intuitivegraph</key>
+	<string>prismaticBinder</string>
+	<key>normalStream</key>
+	<string>giftBehavior</string>
+	<key>resizelogarithm</key>
+	<string>gateCoord</string>
+	<key>responsiveGraph</key>
+	<string>temporaryIntegrity</string>
+	<key>shouldDisconnectInteger</key>
+	<string>canBindGate</string>
+	<key>shouldPauseMovement</key>
+	<string>stackInterval</string>
+	<key>smartCompleter</key>
+	<string>accessibleFragment</string>
+</dict>
+</plist>

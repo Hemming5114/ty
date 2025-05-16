@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalActivity</key>
+	<string>navigatordistance</string>
+	<key>cursorappearance</key>
+	<string>mapperSpeed</string>
+	<key>directlayer</key>
+	<string>canSkipReduction</string>
+	<key>prismaticAnimatedContainer</key>
+	<string>backwardTabBar</string>
+	<key>resilienceRotation</key>
+	<string>cupertinoTheme</string>
+	<key>resizableskirtformat</key>
+	<string>shouldCachePageView</string>
+	<key>tappableoffset</key>
+	<string>nativeTangent</string>
+</dict>
+</plist>

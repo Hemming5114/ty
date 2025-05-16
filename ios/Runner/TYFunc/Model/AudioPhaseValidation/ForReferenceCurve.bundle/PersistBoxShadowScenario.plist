@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTexture</key>
+	<string>customizedtentative</string>
+	<key>logarithmPosition</key>
+	<string>mobileRecursion</string>
+	<key>offsetcomposition</key>
+	<string>usecaseDirection</string>
+	<key>texttransparency</key>
+	<string>scaleScale</string>
+</dict>
+</plist>

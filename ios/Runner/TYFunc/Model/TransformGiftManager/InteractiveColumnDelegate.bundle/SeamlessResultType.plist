@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediocreEfficiency</key>
+	<string>persistentSelector</string>
+	<key>mobileMethod</key>
+	<string>popsession</string>
+	<key>oldModulus</key>
+	<string>overrideText</string>
+	<key>permissivePainter</key>
+	<string>replaceprecision</string>
+	<key>pushgrain</key>
+	<string>attachGesture</string>
+	<key>relationalState</key>
+	<string>reduceProvider</string>
+	<key>semanticsState</key>
+	<string>symmetricResponse</string>
+	<key>singlePainter</key>
+	<string>currentdialogs</string>
+	<key>taskanimation</key>
+	<string>emitComposition</string>
+	<key>usecaseappearance</key>
+	<string>divideHash</string>
+</dict>
+</plist>

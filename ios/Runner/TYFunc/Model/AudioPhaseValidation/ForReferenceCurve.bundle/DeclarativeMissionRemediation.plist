@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowTint</key>
+	<string>formatScreen</string>
+	<key>catalystprovider</key>
+	<string>minTable</string>
+	<key>desktopstamp</key>
+	<string>equipmentdetector</string>
+	<key>mapfrequency</key>
+	<string>serviceTint</string>
+	<key>significantReceiver</key>
+	<string>webSpine</string>
+	<key>singleCurve</key>
+	<string>canYieldCheckbox</string>
+</dict>
+</plist>

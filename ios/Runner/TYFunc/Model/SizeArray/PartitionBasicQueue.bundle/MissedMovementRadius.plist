@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentlikelevel</key>
+	<string>processasset</string>
+	<key>decodeanimation</key>
+	<string>activatedBandwidth</string>
+	<key>geometricState</key>
+	<string>sinkbufferhead</string>
+	<key>independentHistogram</key>
+	<string>commonTabBar</string>
+	<key>moduleDistance</key>
+	<string>crudeChannels</string>
+	<key>musicBorder</key>
+	<string>tangentindex</string>
+	<key>nextSorter</key>
+	<string>canEmitLabel</string>
+	<key>smartCertificate</key>
+	<string>sharedMaterializer</string>
+	<key>unaryinmemento</key>
+	<string>enabledConfiguration</string>
+</dict>
+</plist>

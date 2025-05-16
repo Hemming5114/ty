@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurealongcontext</key>
+	<string>replacemedia</string>
+	<key>keepprogressbar</key>
+	<string>interactivesubpixel</string>
+	<key>onpaddingtap</key>
+	<string>flexibleCanvas</string>
+	<key>publicEquipment</key>
+	<string>staticExtension</string>
+	<key>reactiveEffect</key>
+	<string>canDismissScroll</string>
+	<key>statefulDescription</key>
+	<string>desktopInformation</string>
+	<key>viewTension</key>
+	<string>cubeaboutproxy</string>
+</dict>
+</plist>

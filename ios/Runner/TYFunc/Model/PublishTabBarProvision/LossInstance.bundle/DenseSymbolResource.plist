@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLatency</key>
+	<string>buildSpot</string>
+	<key>capacityfeedback</key>
+	<string>canShowModal</string>
+	<key>consultativeFinder</key>
+	<string>maintaintext</string>
+	<key>enabledConstant</key>
+	<string>executePosition</string>
+	<key>granularResult</key>
+	<string>haspadding</string>
+	<key>intensityfacadecenter</key>
+	<string>subtleDelegate</string>
+	<key>permanentAllocator</key>
+	<string>mobileSink</string>
+	<key>protocolstatemargin</key>
+	<string>completionCenter</string>
+	<key>referenceVisibility</key>
+	<string>overlayRate</string>
+	<key>sharedMapper</key>
+	<string>animatedSizedBox</string>
+</dict>
+</plist>

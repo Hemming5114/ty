@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptioncallback</key>
+	<string>opaquesize</string>
+	<key>shouldDismissAspect</key>
+	<string>concurrentResource</string>
+	<key>shoulddispatchboxshadow</key>
+	<string>logbeyondprocess</string>
+	<key>sophisticatedSpine</key>
+	<string>controllerPattern</string>
+	<key>standalonePosition</key>
+	<string>canTrainPet</string>
+	<key>standaloneTween</key>
+	<string>synchronizeAllocator</string>
+	<key>statefulDialogs</key>
+	<string>shouldCancelNotifier</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerVector</key>
+	<string>releaseMethod</string>
+	<key>ignoredGrayscale</key>
+	<string>resolveGraph</string>
+	<key>inheritedProtocol</key>
+	<string>skintexture</string>
+	<key>labelpatternsaturation</key>
+	<string>loadLog</string>
+	<key>parallelEmitter</key>
+	<string>loadAnimation</string>
+	<key>revisitcustompaint</key>
+	<string>canFormatSpot</string>
+</dict>
+</plist>

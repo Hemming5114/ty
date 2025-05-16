@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalalert</key>
+	<string>normalRange</string>
+	<key>equipmentresource</key>
+	<string>promiseTier</string>
+	<key>permanentScene</key>
+	<string>holdpreview</string>
+	<key>pinchableChooser</key>
+	<string>largestatus</string>
+	<key>tickerbridgeresponse</key>
+	<string>keyPermutation</string>
+	<key>visibleParticle</key>
+	<string>inactiveMusic</string>
+</dict>
+</plist>

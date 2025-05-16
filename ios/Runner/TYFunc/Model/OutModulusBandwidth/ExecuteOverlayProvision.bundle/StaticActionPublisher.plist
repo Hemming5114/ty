@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutablecontrollerleft</key>
+	<string>overlaySpacing</string>
+	<key>iterativeBinary</key>
+	<string>lazyConnector</string>
+	<key>originalfilter</key>
+	<string>continueAxis</string>
+	<key>sharedColumn</key>
+	<string>shouldDispatchAlert</string>
+	<key>statelessChallenge</key>
+	<string>maxMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteSelector</key>
+	<string>shouldHandleInterpolation</string>
+	<key>shouldDismissGridView</key>
+	<string>prismaticFormat</string>
+	<key>specifierHue</key>
+	<string>priorGraphic</string>
+	<key>tappableLocalization</key>
+	<string>transitionAspect</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocparametertop</key>
+	<string>allocatorFormat</string>
+	<key>eventmomentum</key>
+	<string>shouldPresentGem</string>
+	<key>invisibleQueue</key>
+	<string>crudeMerger</string>
+	<key>protectedConnector</key>
+	<string>subscriptionOpacity</string>
+	<key>reducerprovision</key>
+	<string>canPrepareBatch</string>
+	<key>shouldReplaceDelegate</key>
+	<string>dynamicVolume</string>
+	<key>similarEffect</key>
+	<string>shouldStartNavigation</string>
+</dict>
+</plist>

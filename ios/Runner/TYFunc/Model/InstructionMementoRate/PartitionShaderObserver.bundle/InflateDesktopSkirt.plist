@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedListView</key>
+	<string>shouldvalidatetransition</string>
+	<key>explicitCheckbox</key>
+	<string>animatedTween</string>
+	<key>functionalCache</key>
+	<string>sharedHash</string>
+	<key>geometricProvider</key>
+	<string>displayableSensor</string>
+	<key>listviewmomentum</key>
+	<string>unbindBrush</string>
+	<key>projectionKind</key>
+	<string>copyZone</string>
+	<key>retainedResource</key>
+	<string>segueexceptcycle</string>
+</dict>
+</plist>

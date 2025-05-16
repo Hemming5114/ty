@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletSaturation</key>
+	<string>canPaintCube</string>
+	<key>denseElasticity</key>
+	<string>floatText</string>
+	<key>repositorystatus</key>
+	<string>protectedEmitter</string>
+	<key>richtextborder</key>
+	<string>immutableconsumption</string>
+	<key>tensorCapacities</key>
+	<string>disposeNorm</string>
+	<key>videoBound</key>
+	<string>otherFrame</string>
+</dict>
+</plist>

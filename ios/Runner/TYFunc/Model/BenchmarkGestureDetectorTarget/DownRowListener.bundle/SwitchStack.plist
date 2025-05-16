@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapVisibility</key>
+	<string>persistNorm</string>
+	<key>missedCharacteristic</key>
+	<string>canStreamPositioned</string>
+	<key>navigationbound</key>
+	<string>characterVelocity</string>
+	<key>pivotalBaseline</key>
+	<string>nibTension</string>
+	<key>pivotalVector</key>
+	<string>memberStrategy</string>
+	<key>sequentialShape</key>
+	<string>emitScene</string>
+	<key>sessiontexture</key>
+	<string>directTable</string>
+	<key>shouldUnbindCatalyst</key>
+	<string>accessoryPrototype</string>
+	<key>tickerDirection</key>
+	<string>liteDescriptor</string>
+	<key>uniformview</key>
+	<string>canHandleSpine</string>
+</dict>
+</plist>

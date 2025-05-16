@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedPet</key>
+	<string>characterskewy</string>
+	<key>lostbuttonvalidation</key>
+	<string>markCubit</string>
+	<key>opaquetask</key>
+	<string>attachcontroller</string>
+	<key>parallelBullet</key>
+	<string>originalMenu</string>
+</dict>
+</plist>

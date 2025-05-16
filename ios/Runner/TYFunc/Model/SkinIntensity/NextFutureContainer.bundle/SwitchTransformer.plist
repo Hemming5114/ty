@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileoutsidemediator</key>
+	<string>replaceSwift</string>
+	<key>parallelResource</key>
+	<string>positionmatrix</string>
+	<key>semanticGrain</key>
+	<string>shouldLoadStateless</string>
+	<key>tappableScenario</key>
+	<string>alertPattern</string>
+	<key>widgetcreator</key>
+	<string>observeraschain</string>
+</dict>
+</plist>

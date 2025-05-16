@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateGradient</key>
+	<string>heapWork</string>
+	<key>indicatorIndex</key>
+	<string>fusedRenderer</string>
+	<key>isSegment</key>
+	<string>queueproxyinterval</string>
+	<key>isbase</key>
+	<string>desktopevent</string>
+	<key>missedAnimatedContainer</key>
+	<string>lostSignature</string>
+	<key>originalcursorcolor</key>
+	<string>shouldConnectExpanded</string>
+	<key>shouldProcessAnchor</key>
+	<string>observerStage</string>
+	<key>staticOptimizer</key>
+	<string>robustCluster</string>
+</dict>
+</plist>

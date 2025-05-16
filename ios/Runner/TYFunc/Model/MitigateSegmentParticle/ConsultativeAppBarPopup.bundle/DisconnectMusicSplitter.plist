@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopdependencypressure</key>
+	<string>constrainttolerance</string>
+	<key>iterativeCompleter</key>
+	<string>directSearcher</string>
+	<key>layoutarithmetic</key>
+	<string>loststreamsize</string>
+	<key>shouldUnmountSwift</key>
+	<string>arithmeticAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainertaskcenter</key>
+	<string>gramInterval</string>
+	<key>compositionalrequestdensity</key>
+	<string>commonSearcher</string>
+	<key>dedicatedText</key>
+	<string>storyboardVariable</string>
+	<key>elasticResource</key>
+	<string>priorCosine</string>
+	<key>heroTheme</key>
+	<string>canStartTheme</string>
+	<key>onscreenchanged</key>
+	<string>shouldPauseKernel</string>
+	<key>searcherResponse</key>
+	<string>contractionTop</string>
+	<key>shouldPauseCache</key>
+	<string>compileResolver</string>
+	<key>splitterVisibility</key>
+	<string>alphaOrigin</string>
+</dict>
+</plist>

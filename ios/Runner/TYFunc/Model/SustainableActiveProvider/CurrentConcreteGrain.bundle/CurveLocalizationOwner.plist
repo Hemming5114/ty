@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateDistinction</key>
+	<string>respondBuffer</string>
+	<key>intuitiveresource</key>
+	<string>shouldYieldResource</string>
+	<key>replicatetext</key>
+	<string>primaryStrength</string>
+	<key>selectedCaption</key>
+	<string>flextierformat</string>
+	<key>shouldShowEntropy</key>
+	<string>processstack</string>
+	<key>unsortedAllocator</key>
+	<string>signRight</string>
+	<key>visibleScroller</key>
+	<string>reactiveoperationstate</string>
+</dict>
+</plist>

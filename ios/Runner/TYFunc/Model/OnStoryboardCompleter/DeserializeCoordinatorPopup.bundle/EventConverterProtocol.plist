@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerincludeframework</key>
+	<string>canStreamRoute</string>
+	<key>documentatstrategy</key>
+	<string>dispatchMatrix</string>
+	<key>protectedRemainder</key>
+	<string>challengeMediator</string>
+	<key>rapidSpecifier</key>
+	<string>standaloneroutetint</string>
+	<key>webDependency</key>
+	<string>labelNumber</string>
+</dict>
+</plist>

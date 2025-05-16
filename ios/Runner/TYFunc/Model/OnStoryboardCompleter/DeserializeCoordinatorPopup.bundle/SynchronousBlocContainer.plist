@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveskirtindex</key>
+	<string>colorHue</string>
+	<key>mergerBehavior</key>
+	<string>emitterFlags</string>
+	<key>opaquePresenter</key>
+	<string>invisibleHero</string>
+	<key>parallelcoordinatoralignment</key>
+	<string>visibleScroller</string>
+	<key>screenatlevel</key>
+	<string>canSetStateSpecifier</string>
+	<key>shouldfetchscale</key>
+	<string>meshDistance</string>
+</dict>
+</plist>

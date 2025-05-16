@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedInkWell</key>
+	<string>subtleOverlay</string>
+	<key>disparateCoordinator</key>
+	<string>unsortedSkirt</string>
+	<key>frameconverter</key>
+	<string>immutableTime</string>
+	<key>modelparametercontrast</key>
+	<string>usedCosine</string>
+	<key>observersaturation</key>
+	<string>deactivateOffset</string>
+	<key>thresholdEdge</key>
+	<string>canUnmountNavigator</string>
+	<key>varianttimeline</key>
+	<string>canDispatchSensor</string>
+</dict>
+</plist>

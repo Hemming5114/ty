@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedgem</key>
+	<string>diversifiedGridView</string>
+	<key>directComposition</key>
+	<string>rebuildLog</string>
+	<key>mountrect</key>
+	<string>injectResponse</string>
+	<key>shapebound</key>
+	<string>sorterFeedback</string>
+	<key>shouldLoadEntropy</key>
+	<string>canNavigateBatch</string>
+	<key>swiftrenderer</key>
+	<string>globalAxis</string>
+	<key>tablefactory</key>
+	<string>interactiveRepository</string>
+	<key>textfieldcreator</key>
+	<string>workflowusecase</string>
+</dict>
+</plist>

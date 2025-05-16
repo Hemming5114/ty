@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsLeft</key>
+	<string>shouldRebuildGestureDetector</string>
+	<key>logFlags</key>
+	<string>reusableequalization</string>
+	<key>materialRestriction</key>
+	<string>stateMomentum</string>
+	<key>positionedbufferhead</key>
+	<string>mediumMatrix</string>
+	<key>sensorspeed</key>
+	<string>searcherTag</string>
+	<key>shouldFetchSlash</key>
+	<string>buttonType</string>
+	<key>streamSkewY</key>
+	<string>denseSchema</string>
+	<key>variantTag</key>
+	<string>fixedHandler</string>
+</dict>
+</plist>

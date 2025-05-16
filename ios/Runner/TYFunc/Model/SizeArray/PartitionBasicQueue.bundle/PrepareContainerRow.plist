@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetHead</key>
+	<string>characteristicRotation</string>
+	<key>cellmenu</key>
+	<string>robustGradient</string>
+	<key>flexiblelistenerforce</key>
+	<string>skinBridge</string>
+	<key>intuitiveActivity</key>
+	<string>immediateInteger</string>
+	<key>objectMargin</key>
+	<string>buttonPadding</string>
+	<key>propagateservice</key>
+	<string>shouldSubscribeLabel</string>
+	<key>shouldKeepArithmetic</key>
+	<string>animationVar</string>
+</dict>
+</plist>

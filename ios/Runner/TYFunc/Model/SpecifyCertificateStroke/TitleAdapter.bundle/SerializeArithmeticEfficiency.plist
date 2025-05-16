@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTolerance</key>
+	<string>cardvisible</string>
+	<key>callbacklistener</key>
+	<string>canMountPoint</string>
+	<key>richtextbottom</key>
+	<string>activeSignature</string>
+	<key>shouldUnbindAnimatedContainer</key>
+	<string>adaptiveText</string>
+	<key>sortedReliability</key>
+	<string>descentBrightness</string>
+	<key>storageTop</key>
+	<string>fixedStep</string>
+	<key>subtleDrawer</key>
+	<string>mechanismInterval</string>
+</dict>
+</plist>

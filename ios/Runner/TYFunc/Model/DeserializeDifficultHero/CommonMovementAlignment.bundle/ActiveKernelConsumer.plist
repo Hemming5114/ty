@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisvideo</key>
+	<string>expandedAdapter</string>
+	<key>bindstateless</key>
+	<string>rapidVariant</string>
+	<key>contractionparameterposition</key>
+	<string>compositionDistance</string>
+	<key>destroymodel</key>
+	<string>standaloneModal</string>
+	<key>inheritedstream</key>
+	<string>globalLoss</string>
+	<key>keyHistogram</key>
+	<string>agileAsset</string>
+	<key>mediaqueryOrigin</key>
+	<string>delicateGrayscale</string>
+	<key>shouldTransformSpine</key>
+	<string>cupertinoVariant</string>
+	<key>smartMultiplication</key>
+	<string>zoneInset</string>
+</dict>
+</plist>

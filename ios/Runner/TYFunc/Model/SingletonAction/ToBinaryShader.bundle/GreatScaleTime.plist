@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionpopup</key>
+	<string>pinchableTangent</string>
+	<key>eagercubit</key>
+	<string>seamlessDrawer</string>
+	<key>gateEdge</key>
+	<string>fusedScope</string>
+	<key>listenerMargin</key>
+	<string>wrapSprite</string>
+	<key>listenerdisclaimer</key>
+	<string>gridPattern</string>
+	<key>loaderfeedback</key>
+	<string>cycleview</string>
+	<key>shouldDismissNib</key>
+	<string>canUnmountedAspect</string>
+	<key>singleBox</key>
+	<string>functionalSprite</string>
+	<key>textfieldMargin</key>
+	<string>disabledresponsetension</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateentity</key>
+	<string>overrideAlignment</string>
+	<key>directlatency</key>
+	<string>finishBehavior</string>
+	<key>projectIndex</key>
+	<string>mainEvolution</string>
+	<key>resizableChannels</key>
+	<string>parallelDelegate</string>
+	<key>resultfrequency</key>
+	<string>temporaryStore</string>
+	<key>sortedMechanism</key>
+	<string>toolisolate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clippercontainwork</key>
+	<string>decorationrenderer</string>
+	<key>labelshade</key>
+	<string>renameBuffer</string>
+	<key>mainHandler</key>
+	<string>canProcessDrawer</string>
+	<key>nextDelegate</key>
+	<string>localizationkind</string>
+	<key>persistentCosine</key>
+	<string>reactivecachehead</string>
+	<key>rectangletransparency</key>
+	<string>notifierDuration</string>
+	<key>referenceResponse</key>
+	<string>canFetchCaption</string>
+	<key>shouldLayoutPadding</key>
+	<string>listenerTask</string>
+	<key>shouldRenderCube</key>
+	<string>shouldPauseStateful</string>
+</dict>
+</plist>

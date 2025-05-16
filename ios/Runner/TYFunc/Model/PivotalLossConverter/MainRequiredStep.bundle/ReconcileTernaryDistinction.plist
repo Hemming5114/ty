@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animategrain</key>
+	<string>shouldCacheExponent</string>
+	<key>consumptionKind</key>
+	<string>resizableMultiplication</string>
+	<key>interactiveIntegrity</key>
+	<string>sampleShape</string>
+	<key>remainderSkewY</key>
+	<string>gridSingleton</string>
+	<key>shouldendmedia</key>
+	<string>shouldUnmountedPromise</string>
+</dict>
+</plist>

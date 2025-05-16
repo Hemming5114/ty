@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionvolume</key>
+	<string>mediumInjection</string>
+	<key>disparateSwitch</key>
+	<string>optimizerstate</string>
+	<key>listviewPosition</key>
+	<string>menuForce</string>
+	<key>pinchableModulus</key>
+	<string>progressbarfrequency</string>
+	<key>popupLeft</key>
+	<string>asynchronousBloc</string>
+	<key>rapidGradient</key>
+	<string>shouldPersistCurve</string>
+</dict>
+</plist>

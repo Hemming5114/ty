@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reactiveFragments</key>
+	<string>easyRole</string>
+	<key>segueOpacity</key>
+	<string>invisibleHash</string>
+	<key>subtleAscent</key>
+	<string>newestAudio</string>
+	<key>tasktension</key>
+	<string>commonGraph</string>
+</dict>
+</plist>

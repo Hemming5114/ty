@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLog</key>
+	<string>presentGridView</string>
+	<key>disparateReliability</key>
+	<string>equalizationFlags</string>
+	<key>pagerName</key>
+	<string>markRadius</string>
+	<key>pointorigin</key>
+	<string>uniformscroller</string>
+	<key>semanticNib</key>
+	<string>instantiateInjection</string>
+	<key>shouldpreparetangent</key>
+	<string>emitterDistance</string>
+	<key>sliderMode</key>
+	<string>shouldSubscribeDrawer</string>
+	<key>webAscent</key>
+	<string>easyresource</string>
+</dict>
+</plist>

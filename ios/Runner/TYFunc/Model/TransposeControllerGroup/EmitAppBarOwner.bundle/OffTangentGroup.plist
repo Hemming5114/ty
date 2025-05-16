@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativePopup</key>
+	<string>symmetricsemantics</string>
+	<key>fixedSine</key>
+	<string>combinerState</string>
+	<key>hasModulus</key>
+	<string>compositionBuffer</string>
+	<key>intermediateRequest</key>
+	<string>prepareCertificate</string>
+	<key>shouldBuildPromise</key>
+	<string>enabledTicker</string>
+	<key>shouldformatnavigator</key>
+	<string>restoreRouter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCluster</key>
+	<string>reactivenavigationpressure</string>
+	<key>commonaperturestate</key>
+	<string>canValidateAlert</string>
+	<key>enabledVolume</key>
+	<string>slidermediatorshape</string>
+	<key>normalTernary</key>
+	<string>dynamicRoute</string>
+	<key>shouldStartOptimizer</key>
+	<string>intensityBottom</string>
+	<key>shouldTransitionTangent</key>
+	<string>transitionintensity</string>
+	<key>shouldanimatearithmetic</key>
+	<string>loaderMode</string>
+</dict>
+</plist>

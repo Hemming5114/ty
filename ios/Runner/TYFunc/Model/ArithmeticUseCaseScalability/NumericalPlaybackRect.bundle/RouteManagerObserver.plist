@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionMargin</key>
+	<string>scenelistener</string>
+	<key>concreteRadius</key>
+	<string>overlayscale</string>
+	<key>elasticinterpolationcolor</key>
+	<string>resizeCallback</string>
+	<key>resetdropdownbutton</key>
+	<string>gesturedetectorskewx</string>
+	<key>resizableSubscriber</key>
+	<string>insteadState</string>
+	<key>shouldEndMaterial</key>
+	<string>grainmethodskewx</string>
+	<key>shoulddismissgraphic</key>
+	<string>tappableGrayscale</string>
+	<key>subsequentCard</key>
+	<string>prismaticMenu</string>
+	<key>tappableStack</key>
+	<string>streamlinegroup</string>
+</dict>
+</plist>

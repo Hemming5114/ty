@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customspritebehavior</key>
+	<string>recursionLocation</string>
+	<key>fusedCapacities</key>
+	<string>routeBound</string>
+	<key>resilienceInterval</key>
+	<string>shouldDisconnectChannels</string>
+	<key>shouldDispatchBatch</key>
+	<string>customintensityedge</string>
+	<key>shouldNotifyText</key>
+	<string>subscribeanimation</string>
+	<key>sinkBrightness</key>
+	<string>assetBuffer</string>
+</dict>
+</plist>

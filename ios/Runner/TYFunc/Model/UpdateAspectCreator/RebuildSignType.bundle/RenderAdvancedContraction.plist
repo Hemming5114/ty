@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSubscriber</key>
+	<string>crudeFeature</string>
+	<key>directContainer</key>
+	<string>directlyData</string>
+	<key>intensityorientation</key>
+	<string>indicatorconverter</string>
+	<key>nativeCreator</key>
+	<string>poolAsync</string>
+	<key>sequentialTween</key>
+	<string>modalKind</string>
+	<key>skiptitle</key>
+	<string>labelContext</string>
+	<key>touchtint</key>
+	<string>advancedObject</string>
+	<key>zoneKind</key>
+	<string>arithmeticSlash</string>
+</dict>
+</plist>

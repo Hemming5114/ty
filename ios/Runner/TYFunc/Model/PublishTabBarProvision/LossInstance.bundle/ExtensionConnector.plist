@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialPopup</key>
+	<string>originaltouch</string>
+	<key>directOperation</key>
+	<string>finderhead</string>
+	<key>generatesizedbox</key>
+	<string>statefulData</string>
+	<key>indicatorSkewX</key>
+	<string>keyDisclaimer</string>
+	<key>largeTernary</key>
+	<string>alphaObserver</string>
+	<key>mainprogressbar</key>
+	<string>utilObserver</string>
+	<key>positioncycleacceleration</key>
+	<string>disposeresponse</string>
+	<key>reactiveCard</key>
+	<string>diffableChooser</string>
+	<key>subtleResponse</key>
+	<string>numericalPreview</string>
+	<key>symmetricTraversal</key>
+	<string>nativeTabBar</string>
+</dict>
+</plist>

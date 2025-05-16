@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishpadding</key>
+	<string>associateSlider</string>
+	<key>shouldRebuildAlert</key>
+	<string>gateOperation</string>
+	<key>shouldUpdateScaffold</key>
+	<string>instantiateResponse</string>
+	<key>sustainableStep</key>
+	<string>awaitmaterial</string>
+</dict>
+</plist>

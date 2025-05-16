@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastPoint</key>
+	<string>pushbloc</string>
+	<key>shouldDispatchNavigator</key>
+	<string>canPaintStamp</string>
+	<key>shouldResumeUsage</key>
+	<string>navigatorthroughframework</string>
+	<key>standaloneNavigator</key>
+	<string>materialdurationright</string>
+</dict>
+</plist>

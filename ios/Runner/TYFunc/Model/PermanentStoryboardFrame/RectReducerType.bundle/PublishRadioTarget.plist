@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsamortization</key>
+	<string>reduceGrid</string>
+	<key>discardedAnimator</key>
+	<string>protectedBehavior</string>
+	<key>integerSkewX</key>
+	<string>otherReceiver</string>
+	<key>listviewTop</key>
+	<string>shouldMountOption</string>
+	<key>spotSaturation</key>
+	<string>semanticlocalization</string>
+	<key>toolType</key>
+	<string>globalBorder</string>
+	<key>trajectoryLeft</key>
+	<string>shouldDecodeFlex</string>
+	<key>transformduration</key>
+	<string>utilSingleton</string>
+</dict>
+</plist>

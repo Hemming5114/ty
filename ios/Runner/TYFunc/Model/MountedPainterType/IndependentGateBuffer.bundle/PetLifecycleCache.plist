@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionDepth</key>
+	<string>contractionPlatform</string>
+	<key>discardedStoryboard</key>
+	<string>sequentialAxis</string>
+	<key>imageDepth</key>
+	<string>vectorizePopup</string>
+	<key>taskCoord</key>
+	<string>layoutlistener</string>
+	<key>uniformSkirt</key>
+	<string>completerContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationrange</key>
+	<string>coordinatorBuffer</string>
+	<key>interactiveCharacter</key>
+	<string>streamFrequency</string>
+	<key>onconvolutiontap</key>
+	<string>featureValue</string>
+	<key>processradius</key>
+	<string>primaryComponent</string>
+	<key>shouldHandleSpot</key>
+	<string>unactivatedReplica</string>
+	<key>significantMomentum</key>
+	<string>activitycenter</string>
+	<key>singleDependency</key>
+	<string>respectiveContainer</string>
+	<key>specifierVelocity</key>
+	<string>delicateData</string>
+	<key>yieldresolver</key>
+	<string>unbindStack</string>
+</dict>
+</plist>

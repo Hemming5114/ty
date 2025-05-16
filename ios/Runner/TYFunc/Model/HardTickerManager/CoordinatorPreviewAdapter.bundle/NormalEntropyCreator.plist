@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryLeft</key>
+	<string>mountedprofile</string>
+	<key>gridviewaroundproxy</key>
+	<string>dismissLabel</string>
+	<key>liteMenu</key>
+	<string>titleedge</string>
+	<key>newestFinder</key>
+	<string>cubeObserver</string>
+	<key>observenotification</key>
+	<string>videoOffset</string>
+	<key>oldFilter</key>
+	<string>positiondescription</string>
+	<key>prismaticListView</key>
+	<string>timerCenter</string>
+</dict>
+</plist>

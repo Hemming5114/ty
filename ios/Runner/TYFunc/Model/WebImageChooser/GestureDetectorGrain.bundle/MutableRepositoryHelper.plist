@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderexceptmediator</key>
+	<string>basicFlex</string>
+	<key>convolutioncount</key>
+	<string>dedicatedCaption</string>
+	<key>disabledCharacteristic</key>
+	<string>hasEffect</string>
+	<key>reusablegift</key>
+	<string>granularTheme</string>
+	<key>shouldObserveMedia</key>
+	<string>audioSize</string>
+</dict>
+</plist>

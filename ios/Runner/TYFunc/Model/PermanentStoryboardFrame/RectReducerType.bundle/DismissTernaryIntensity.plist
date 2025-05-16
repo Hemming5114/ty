@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMobile</key>
+	<string>originaltopicvelocity</string>
+	<key>fusedShape</key>
+	<string>zoneSkewX</string>
+	<key>lifecycleVisible</key>
+	<string>borderscale</string>
+	<key>persistentframe</key>
+	<string>accessibleSpine</string>
+	<key>resilientOption</key>
+	<string>updateMember</string>
+	<key>shouldCacheContainer</key>
+	<string>tickerContext</string>
+	<key>shouldStopGate</key>
+	<string>requiredMaterial</string>
+</dict>
+</plist>

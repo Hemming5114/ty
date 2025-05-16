@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticlinker</key>
+	<string>shouldPushCoordinator</string>
+	<key>criticalRenderer</key>
+	<string>canSerializeStateless</string>
+	<key>interpolationForce</key>
+	<string>pinchableSelector</string>
+	<key>pickerType</key>
+	<string>traversalColor</string>
+	<key>projectEdge</key>
+	<string>protocolParameter</string>
+	<key>scalabilityfeedback</key>
+	<string>alignmentBuffer</string>
+	<key>shouldRenderPoint</key>
+	<string>interpolateBloc</string>
+</dict>
+</plist>

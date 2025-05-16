@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTween</key>
+	<string>shouldYieldBehavior</string>
+	<key>entropymerger</key>
+	<string>accessibleConsumption</string>
+	<key>globalLoader</key>
+	<string>protectedAllocator</string>
+	<key>mediaInterval</key>
+	<string>shouldStopEqualization</string>
+	<key>queueorientation</key>
+	<string>selectedlogarithm</string>
+	<key>replacelayer</key>
+	<string>sophisticatedInterface</string>
+	<key>shouldPauseWidget</key>
+	<string>allocateLoop</string>
+	<key>spotchainopacity</key>
+	<string>enumerateOffset</string>
+	<key>synchronousSubscription</key>
+	<string>blocexceptcommand</string>
+</dict>
+</plist>

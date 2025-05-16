@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthDirection</key>
+	<string>sharedCell</string>
+	<key>diffableLog</key>
+	<string>staticBuffer</string>
+	<key>evolutionMomentum</key>
+	<string>fusedSink</string>
+	<key>listeninstruction</key>
+	<string>localConverter</string>
+	<key>providerthroughstate</key>
+	<string>canPushDrawer</string>
+	<key>shouldProcessExponent</key>
+	<string>resilientbinder</string>
+	<key>sortedPet</key>
+	<string>singleDelivery</string>
+	<key>sustainablebehaviortype</key>
+	<string>boxshadowintensity</string>
+</dict>
+</plist>

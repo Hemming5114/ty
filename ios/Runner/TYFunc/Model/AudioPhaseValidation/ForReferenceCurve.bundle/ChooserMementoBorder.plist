@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPromise</key>
+	<string>boxshadowValue</string>
+	<key>directReliability</key>
+	<string>shouldResumeStoryboard</string>
+	<key>fusedSpot</key>
+	<string>bindScroll</string>
+	<key>interactiveSign</key>
+	<string>staticmatrixdelay</string>
+	<key>permissiveThreshold</key>
+	<string>quantizeroffset</string>
+	<key>scrollableReliability</key>
+	<string>shouldmountedtextfield</string>
+	<key>statefulGrid</key>
+	<string>upgradeNode</string>
+	<key>uniquesingleton</key>
+	<string>canShowContainer</string>
+</dict>
+</plist>

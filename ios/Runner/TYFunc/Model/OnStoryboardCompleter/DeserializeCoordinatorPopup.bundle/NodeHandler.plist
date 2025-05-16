@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNotification</key>
+	<string>publicProvision</string>
+	<key>fusedMap</key>
+	<string>shouldPrepareSession</string>
+	<key>inactiveAudio</key>
+	<string>soundCoord</string>
+	<key>thresholdSpeed</key>
+	<string>largeSubscription</string>
+</dict>
+</plist>

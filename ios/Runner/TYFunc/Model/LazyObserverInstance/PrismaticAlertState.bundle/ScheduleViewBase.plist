@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerPreview</key>
+	<string>toolAcceleration</string>
+	<key>labelbeyondplatform</key>
+	<string>lostDimension</string>
+	<key>moduleAlignment</key>
+	<string>restorecontroller</string>
+	<key>oldCertificate</key>
+	<string>canRebuildEquipment</string>
+	<key>originalpresenterappearance</key>
+	<string>attachIcon</string>
+	<key>protocolTransparency</key>
+	<string>backwardCustomPaint</string>
+	<key>shouldrebuildslider</key>
+	<string>operationCenter</string>
+</dict>
+</plist>

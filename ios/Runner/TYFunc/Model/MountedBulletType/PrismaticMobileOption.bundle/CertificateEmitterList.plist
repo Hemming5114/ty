@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionPadding</key>
+	<string>bulletDirection</string>
+	<key>isDocument</key>
+	<string>shouldObserveVariant</string>
+	<key>joinerDepth</key>
+	<string>columnDirection</string>
+	<key>preparerow</key>
+	<string>shouldConnectProject</string>
+	<key>shouldProcessMomentum</key>
+	<string>geometricAnimatedContainer</string>
+	<key>shouldUpdateGrayscale</key>
+	<string>subsequentTaxonomy</string>
+	<key>sinkInterval</key>
+	<string>grayscaleDirection</string>
+	<key>visibleSensor</key>
+	<string>musicInterpreter</string>
+</dict>
+</plist>

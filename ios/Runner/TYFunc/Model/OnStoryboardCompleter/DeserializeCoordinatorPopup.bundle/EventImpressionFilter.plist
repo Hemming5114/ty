@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeComponent</key>
+	<string>capacityhead</string>
+	<key>destroyhandler</key>
+	<string>mediaqueryStyle</string>
+	<key>missedMobile</key>
+	<string>subscribeChecklist</string>
+	<key>responderOffset</key>
+	<string>unsortedCell</string>
+	<key>shouldDeserializeIcon</key>
+	<string>mobileNotification</string>
+	<key>similarAudio</key>
+	<string>requeststructuresaturation</string>
+	<key>soundbehavior</key>
+	<string>canRenderExpanded</string>
+	<key>statefulPoint</key>
+	<string>timerTemple</string>
+</dict>
+</plist>

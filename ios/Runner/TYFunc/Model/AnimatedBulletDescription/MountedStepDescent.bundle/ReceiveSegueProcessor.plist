@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLog</key>
+	<string>persistentthread</string>
+	<key>advancedaccessorysize</key>
+	<string>addManager</string>
+	<key>autoBandwidth</key>
+	<string>singlespine</string>
+	<key>declarativeRecursion</key>
+	<string>defaultpoint</string>
+	<key>integritymode</key>
+	<string>moduleFormat</string>
+	<key>lifecyclebehavior</key>
+	<string>lostCapacities</string>
+	<key>profileRight</key>
+	<string>standaloneConfidentiality</string>
+	<key>resumereference</key>
+	<string>logarithmPadding</string>
+</dict>
+</plist>

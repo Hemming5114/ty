@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedManager</key>
+	<string>substantialCursor</string>
+	<key>layoutinsideform</key>
+	<string>shouldrebuildswitch</string>
+	<key>popboxshadow</key>
+	<string>shouldYieldOption</string>
+	<key>responderValidation</key>
+	<string>startparticle</string>
+	<key>substantialBox</key>
+	<string>dedicatedTicker</string>
+	<key>synchronizemetadata</key>
+	<string>providerIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedimpression</key>
+	<string>canBindController</string>
+	<key>animationlocation</key>
+	<string>resolverDelay</string>
+	<key>diversifiedwidget</key>
+	<string>sharedPicker</string>
+	<key>momentumexceptfunction</key>
+	<string>shouldReplaceSizedBox</string>
+	<key>observeprojection</key>
+	<string>chooserindex</string>
+	<key>overlayDepth</key>
+	<string>triggerOpacity</string>
+	<key>shouldCreateCertificate</key>
+	<string>shouldBindFuture</string>
+	<key>shouldListenAlpha</key>
+	<string>newestResolver</string>
+	<key>shouldpaintnavigator</key>
+	<string>storagebesidevar</string>
+	<key>synchronousOffset</key>
+	<string>accordionWidget</string>
+</dict>
+</plist>

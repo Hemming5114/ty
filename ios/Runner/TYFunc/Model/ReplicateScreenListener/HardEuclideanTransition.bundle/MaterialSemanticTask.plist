@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDistinction</key>
+	<string>errorEnvironment</string>
+	<key>eagerNotation</key>
+	<string>lazythreadindex</string>
+	<key>handlereffect</key>
+	<string>currentIndicator</string>
+	<key>lazyGroup</key>
+	<string>cellname</string>
+	<key>permissiveSign</key>
+	<string>showSensor</string>
+	<key>shouldDeserializeLabel</key>
+	<string>shouldRebuildPageView</string>
+	<key>soundPressure</key>
+	<string>decodeview</string>
+	<key>spotagainstchain</key>
+	<string>shouldProcessGridView</string>
+</dict>
+</plist>

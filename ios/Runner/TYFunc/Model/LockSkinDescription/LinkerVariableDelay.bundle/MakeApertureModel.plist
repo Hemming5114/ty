@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicComposition</key>
+	<string>protectedalertdepth</string>
+	<key>filterspeed</key>
+	<string>pageviewPrototype</string>
+	<key>hierarchicalScaffold</key>
+	<string>displayableReference</string>
+	<key>ignoredOffset</key>
+	<string>discardedGram</string>
+	<key>originalTimeline</key>
+	<string>isscreen</string>
+	<key>scrollershape</key>
+	<string>explicitGradient</string>
+	<key>shouldlayoutmodal</key>
+	<string>invokeTimer</string>
+	<key>visibletransformercoord</key>
+	<string>mutableOffset</string>
+</dict>
+</plist>

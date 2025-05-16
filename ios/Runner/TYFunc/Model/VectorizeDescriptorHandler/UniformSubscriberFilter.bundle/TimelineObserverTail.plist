@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackincludeframework</key>
+	<string>rebuildStateless</string>
+	<key>entityTail</key>
+	<string>precisionDuration</string>
+	<key>fixedWorkflow</key>
+	<string>providerVariable</string>
+	<key>flexibleTrajectory</key>
+	<string>requiredCaption</string>
+	<key>scaffoldLeft</key>
+	<string>ascentCount</string>
+</dict>
+</plist>

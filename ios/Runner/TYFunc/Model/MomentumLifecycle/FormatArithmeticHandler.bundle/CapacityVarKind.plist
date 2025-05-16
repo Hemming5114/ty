@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTrigger</key>
+	<string>multiPresenter</string>
+	<key>directfactory</key>
+	<string>numericalStateless</string>
+	<key>mountedtabview</key>
+	<string>canAnimatePageView</string>
+	<key>publiccurvedepth</key>
+	<string>titleOpacity</string>
+	<key>shouldDisconnectMedia</key>
+	<string>consultativeEntity</string>
+	<key>tappableMember</key>
+	<string>regulateDecoration</string>
+</dict>
+</plist>

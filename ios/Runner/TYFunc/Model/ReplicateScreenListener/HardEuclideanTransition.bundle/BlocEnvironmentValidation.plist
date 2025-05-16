@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferscale</key>
+	<string>agileCheckbox</string>
+	<key>declarativeCursor</key>
+	<string>thresholdTop</string>
+	<key>imperativeTimer</key>
+	<string>nodeVisibility</string>
+	<key>inheritedReduction</key>
+	<string>continueSession</string>
+	<key>protocolDuration</key>
+	<string>tweakAlignment</string>
+	<key>pushaxis</key>
+	<string>gridviewscopemargin</string>
+	<key>rangeshade</key>
+	<string>secondRouter</string>
+	<key>retainedSkirt</key>
+	<string>canUpdateEqualization</string>
+	<key>storageevaluation</key>
+	<string>shouldContinuePadding</string>
+</dict>
+</plist>

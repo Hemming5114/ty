@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerCenter</key>
+	<string>revisitTitle</string>
+	<key>cursoralignment</key>
+	<string>hierarchicalmomentumbottom</string>
+	<key>granularGridView</key>
+	<string>requestmementoduration</string>
+	<key>mapperAppearance</key>
+	<string>cartesianChart</string>
+	<key>pinchableChallenge</key>
+	<string>cosinemementobrightness</string>
+	<key>projectShade</key>
+	<string>largeWorkflow</string>
+	<key>shapeBound</key>
+	<string>subscriptionPattern</string>
+	<key>shouldSaveDrawer</key>
+	<string>temporaryPosition</string>
+	<key>vectorshade</key>
+	<string>anchorname</string>
+</dict>
+</plist>

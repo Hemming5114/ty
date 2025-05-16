@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAnimator</key>
+	<string>sharedOperation</string>
+	<key>customizedStoryboard</key>
+	<string>shouldLayoutRichText</string>
+	<key>diversifiedBandwidth</key>
+	<string>delicatePolygon</string>
+	<key>dropdownbuttonInterval</key>
+	<string>shouldUnmountEquipment</string>
+	<key>dynamicPresenter</key>
+	<string>tensorLoss</string>
+	<key>fragmentsRight</key>
+	<string>checkHandler</string>
+	<key>multiplypadding</key>
+	<string>concurrentStoryboard</string>
+	<key>seamlessMethod</key>
+	<string>sceneColor</string>
+	<key>shouldKeepIcon</key>
+	<string>deprecateResolver</string>
+</dict>
+</plist>

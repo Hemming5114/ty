@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBloc</key>
+	<string>cacheCapsule</string>
+	<key>delegatecoordinator</key>
+	<string>giftslider</string>
+	<key>disclaimerShade</key>
+	<string>buildFragment</string>
+	<key>paralleldrawer</key>
+	<string>aspectratioDecorator</string>
+	<key>scrollableTechnique</key>
+	<string>accessibleTimer</string>
+	<key>statelessData</key>
+	<string>vectorProxy</string>
+</dict>
+</plist>

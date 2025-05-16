@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledBinary</key>
+	<string>observeImage</string>
+	<key>nativeSelector</key>
+	<string>convolutionStrategy</string>
+	<key>resourceimage</key>
+	<string>quitResult</string>
+	<key>shouldCacheBorder</key>
+	<string>quitwidget</string>
+	<key>shouldStreamSlider</key>
+	<string>canDecodeTextField</string>
+</dict>
+</plist>

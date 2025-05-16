@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTop</key>
+	<string>statelesshandler</string>
+	<key>choosertop</key>
+	<string>mountedCache</string>
+	<key>deferredTextField</key>
+	<string>shouldPublishSizedBox</string>
+	<key>seamlessHandler</key>
+	<string>shouldEncodeRichText</string>
+	<key>serviceacceleration</key>
+	<string>segueFlags</string>
+	<key>shouldProcessLoss</key>
+	<string>assetAction</string>
+	<key>standaloneAnimatedContainer</key>
+	<string>selectorResponse</string>
+	<key>tabviewintegrity</key>
+	<string>layerBehavior</string>
+	<key>tappableWorkflow</key>
+	<string>referencevisitorlocation</string>
+</dict>
+</plist>

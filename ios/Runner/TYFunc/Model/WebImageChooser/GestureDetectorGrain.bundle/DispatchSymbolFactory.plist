@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchead</key>
+	<string>controllerequivalent</string>
+	<key>fusedResult</key>
+	<string>navigateAppBar</string>
+	<key>interactiveNavigation</key>
+	<string>resumeSlash</string>
+	<key>maincomponent</key>
+	<string>matrixNumber</string>
+	<key>resilientModulus</key>
+	<string>drawrole</string>
+	<key>shouldInflateCursor</key>
+	<string>repositoryVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentStrength</key>
+	<string>singleMerger</string>
+	<key>hyperbolicContainer</key>
+	<string>mediumCoordinator</string>
+	<key>permutationstyle</key>
+	<string>priorOperation</string>
+	<key>protectedMission</key>
+	<string>interfaceCycle</string>
+	<key>rapidColumn</key>
+	<string>mediocreAspectRatio</string>
+	<key>savenorm</key>
+	<string>findCallback</string>
+	<key>shouldFetchPlayback</key>
+	<string>iterativeContrast</string>
+	<key>utilFormat</key>
+	<string>canSubscribeOption</string>
+</dict>
+</plist>

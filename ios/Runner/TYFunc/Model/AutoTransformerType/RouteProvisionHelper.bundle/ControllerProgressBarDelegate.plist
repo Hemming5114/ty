@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblesliderorigin</key>
+	<string>statefulCursor</string>
+	<key>diversifiedFilter</key>
+	<string>toolparametercoord</string>
+	<key>initializeasync</key>
+	<string>localStatus</string>
+	<key>providerIndex</key>
+	<string>modallistener</string>
+	<key>shouldInflateConsumer</key>
+	<string>activerepository</string>
+	<key>shouldPersistWidget</key>
+	<string>customizedtexture</string>
+	<key>shouldUpdateGraphic</key>
+	<string>appendBloc</string>
+	<key>transformerDistance</key>
+	<string>fusedScroller</string>
+	<key>tweenSpacing</key>
+	<string>borderMethod</string>
+</dict>
+</plist>

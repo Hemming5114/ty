@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractiontype</key>
+	<string>crudeconstraintkind</string>
+	<key>criticalresponder</key>
+	<string>storyboardresponse</string>
+	<key>deferredOption</key>
+	<string>gestureroute</string>
+	<key>graphicshape</key>
+	<string>dissociateQueue</string>
+	<key>missedbehavior</key>
+	<string>scrollableFactory</string>
+	<key>navigatezone</key>
+	<string>singlefactory</string>
+	<key>secondMember</key>
+	<string>freeCallback</string>
+	<key>sessionRight</key>
+	<string>segmentScale</string>
+	<key>stateduringinterpreter</key>
+	<string>shouldAttachImage</string>
+	<key>timerScale</key>
+	<string>sortedRouter</string>
+</dict>
+</plist>

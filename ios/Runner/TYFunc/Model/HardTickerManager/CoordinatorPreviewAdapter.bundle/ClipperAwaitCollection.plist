@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationformat</key>
+	<string>asynchronousdetail</string>
+	<key>mutableResilience</key>
+	<string>desktopKernel</string>
+	<key>onmarginchanged</key>
+	<string>storeTension</string>
+	<key>playbackprogressbar</key>
+	<string>rectLocation</string>
+	<key>shouldEndLabel</key>
+	<string>nextPainter</string>
+	<key>symbolevaluation</key>
+	<string>draggableAnimator</string>
+	<key>symmetricclippertransparency</key>
+	<string>independentTimeline</string>
+	<key>usedlabelrotation</key>
+	<string>positionedBrightness</string>
+</dict>
+</plist>

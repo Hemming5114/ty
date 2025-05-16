@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioncoordinatorbehavior</key>
+	<string>mediaVariable</string>
+	<key>combinehandler</key>
+	<string>shouldFormatMatrix</string>
+	<key>mutableBehavior</key>
+	<string>fusedNotification</string>
+	<key>searcherkind</key>
+	<string>featureorchain</string>
+	<key>shearoperation</key>
+	<string>schemaVelocity</string>
+	<key>shouldPublishMobile</key>
+	<string>shouldDispatchSensor</string>
+	<key>shouldRenderCollection</key>
+	<string>orchestrateListener</string>
+	<key>synchronousasync</key>
+	<string>textureprocessor</string>
+</dict>
+</plist>

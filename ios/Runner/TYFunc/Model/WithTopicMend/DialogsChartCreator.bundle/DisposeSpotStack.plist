@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAlert</key>
+	<string>imageVisibility</string>
+	<key>difficultCheckbox</key>
+	<string>dynamicqueue</string>
+	<key>imperativeTheme</key>
+	<string>readRequest</string>
+	<key>impressionmargin</key>
+	<string>canYieldTool</string>
+	<key>intuitivecharacteroffset</key>
+	<string>rebuildScreen</string>
+	<key>modulusaroundvar</key>
+	<string>protectedInfrastructure</string>
+	<key>numericalNavigator</key>
+	<string>performAction</string>
+	<key>sceneexcepttemple</key>
+	<string>hierarchicalResult</string>
+	<key>shouldSetStateContainer</key>
+	<string>labelnumberpressure</string>
+</dict>
+</plist>

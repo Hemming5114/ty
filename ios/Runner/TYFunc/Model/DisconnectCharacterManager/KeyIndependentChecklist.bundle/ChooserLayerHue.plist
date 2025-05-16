@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTraversal</key>
+	<string>unmountMember</string>
+	<key>bufferindex</key>
+	<string>workflowSize</string>
+	<key>channelsDelay</key>
+	<string>disconnectChannel</string>
+	<key>comprehensiveCard</key>
+	<string>deserializeVector</string>
+	<key>geometricCapsule</key>
+	<string>singleDropdownButton</string>
+	<key>isTouch</key>
+	<string>dedicatedCurve</string>
+	<key>moduleEdge</key>
+	<string>introspectFrame</string>
+	<key>navigationopacity</key>
+	<string>enabledentropy</string>
+	<key>switchColor</key>
+	<string>extensionSystem</string>
+</dict>
+</plist>

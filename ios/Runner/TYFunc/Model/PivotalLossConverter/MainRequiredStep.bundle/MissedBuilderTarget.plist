@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentsizekind</key>
+	<string>typicalLabel</string>
+	<key>delicatebatchbehavior</key>
+	<string>cachePressure</string>
+	<key>easytransitionsize</key>
+	<string>fetchInkWell</string>
+	<key>histogramtension</key>
+	<string>coordinatorOffset</string>
+	<key>intuitiveEntropy</key>
+	<string>adaptiveCustomPaint</string>
+	<key>liteImpression</key>
+	<string>shouldFormatOperation</string>
+	<key>scrollableMend</key>
+	<string>shouldFinishInstruction</string>
+	<key>shouldObserveRole</key>
+	<string>mediumSplitter</string>
+	<key>sineStatus</key>
+	<string>destroyContainer</string>
+	<key>smartEvolution</key>
+	<string>robustIntegration</string>
+</dict>
+</plist>

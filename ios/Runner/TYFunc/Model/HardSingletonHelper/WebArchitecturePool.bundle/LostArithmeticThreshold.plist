@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPopup</key>
+	<string>shouldLoadPlayback</string>
+	<key>functionalAlpha</key>
+	<string>cosineFeedback</string>
+	<key>hardstoragehue</key>
+	<string>fetchBatch</string>
+	<key>hierarchicalScheduler</key>
+	<string>shouldrebuildcube</string>
+	<key>robustSizedBox</key>
+	<string>listenerOffset</string>
+	<key>significantProcessor</key>
+	<string>nextInformation</string>
+	<key>timerResponse</key>
+	<string>arithmeticAspect</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedParticle</key>
+	<string>rectOffset</string>
+	<key>currentgatealignment</key>
+	<string>staticoption</string>
+	<key>independentCard</key>
+	<string>notificationValidation</string>
+	<key>interactorTop</key>
+	<string>cycleAlignment</string>
+	<key>missionForce</key>
+	<string>shouldSetStateReference</string>
+	<key>navigationInteraction</key>
+	<string>statefulrepository</string>
+	<key>shouldHandleTask</key>
+	<string>currentprotocol</string>
+	<key>significantComposition</key>
+	<string>canPrepareDecoration</string>
+	<key>yieldsprite</key>
+	<string>mobileReceiver</string>
+</dict>
+</plist>

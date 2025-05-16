@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredSensor</key>
+	<string>statelessContraction</string>
+	<key>mobileLabel</key>
+	<string>canCacheGrayscale</string>
+	<key>modulusEdge</key>
+	<string>curvecoord</string>
+	<key>reductionColor</key>
+	<string>connectAperture</string>
+	<key>schedulerMode</key>
+	<string>switchsize</string>
+	<key>streamaroundparam</key>
+	<string>canUnmountCupertino</string>
+</dict>
+</plist>

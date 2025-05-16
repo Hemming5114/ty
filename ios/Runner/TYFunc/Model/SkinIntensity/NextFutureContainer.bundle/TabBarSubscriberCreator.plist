@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerrotation</key>
+	<string>syncProgressBar</string>
+	<key>declarativePainter</key>
+	<string>entityProxy</string>
+	<key>granularWrapper</key>
+	<string>similarPageView</string>
+	<key>mutableHandler</key>
+	<string>introspectView</string>
+	<key>oldVideo</key>
+	<string>seamlessSkin</string>
+	<key>progressbarOffset</key>
+	<string>variantState</string>
+	<key>respectiveoptiontag</key>
+	<string>tabviewChain</string>
+	<key>thresholdStyle</key>
+	<string>grayscaleType</string>
+	<key>usedSlash</key>
+	<string>bitratename</string>
+</dict>
+</plist>

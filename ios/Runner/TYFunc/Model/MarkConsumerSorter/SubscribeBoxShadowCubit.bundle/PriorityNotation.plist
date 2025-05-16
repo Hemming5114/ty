@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>celllikestate</key>
+	<string>rapidTextField</string>
+	<key>composabletaxonomy</key>
+	<string>priorMatrix</string>
+	<key>descriptorskewx</key>
+	<string>normalRow</string>
+	<key>interfaceTint</key>
+	<string>parseEqualization</string>
+	<key>persistentMovement</key>
+	<string>sessionFeedback</string>
+	<key>protectedpermutation</key>
+	<string>processBitrate</string>
+	<key>shouldRestartController</key>
+	<string>pivotalCapacity</string>
+	<key>shouldTransformResource</key>
+	<string>scenebound</string>
+	<key>specifygrayscale</key>
+	<string>fixedResponse</string>
+</dict>
+</plist>

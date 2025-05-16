@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoConnector</key>
+	<string>canMountedAspectRatio</string>
+	<key>dependencytemplevisibility</key>
+	<string>overrideinterface</string>
+	<key>dispatcherFrequency</key>
+	<string>asynchronousConfiguration</string>
+	<key>largeError</key>
+	<string>hardSpot</string>
+	<key>protocolwidget</key>
+	<string>deactivateFactory</string>
+	<key>shouldTransitionGrayscale</key>
+	<string>configuremodal</string>
+	<key>tweenoutsideactivity</key>
+	<string>synchronizeFeature</string>
+	<key>volumeSpeed</key>
+	<string>constraintLayer</string>
+</dict>
+</plist>

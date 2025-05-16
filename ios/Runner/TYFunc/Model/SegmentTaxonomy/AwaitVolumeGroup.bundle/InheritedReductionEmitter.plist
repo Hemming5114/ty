@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedobservermargin</key>
+	<string>tickermerger</string>
+	<key>elasticMaster</key>
+	<string>skininset</string>
+	<key>inactiveworkflowpressure</key>
+	<string>benchmarkRow</string>
+	<key>reusableTransformer</key>
+	<string>debugChart</string>
+	<key>selectorScale</key>
+	<string>backwardChannel</string>
+	<key>subtleMapper</key>
+	<string>shouldunmountedconvolution</string>
+	<key>swiftShade</key>
+	<string>consultativePainter</string>
+	<key>usedview</key>
+	<string>renameContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultOverlay</key>
+	<string>moduleBorder</string>
+	<key>immediatestorage</key>
+	<string>integerPattern</string>
+	<key>parallelMenu</key>
+	<string>managerContext</string>
+	<key>reliabilitySkewY</key>
+	<string>immediateAccessory</string>
+	<key>shouldRebuildSlider</key>
+	<string>inkwellworkcontrast</string>
+</dict>
+</plist>

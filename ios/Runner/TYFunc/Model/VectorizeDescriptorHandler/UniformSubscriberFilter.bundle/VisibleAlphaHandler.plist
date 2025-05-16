@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateinfo</key>
+	<string>encodecycle</string>
+	<key>capsuleInset</key>
+	<string>dialogsprocessposition</string>
+	<key>characterenvironmentdistance</key>
+	<string>disparatealertorigin</string>
+	<key>coordinatornearstage</key>
+	<string>canSetStateRow</string>
+	<key>explicitDrawer</key>
+	<string>shouldLayoutDescriptor</string>
+	<key>poppadding</key>
+	<string>shouldprepareoperation</string>
+	<key>singletonobserverrate</key>
+	<string>filterTag</string>
+	<key>usedSpine</key>
+	<string>checkboxagainstframework</string>
+</dict>
+</plist>

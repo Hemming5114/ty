@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncspeed</key>
+	<string>isolateSaturation</string>
+	<key>diffableStateful</key>
+	<string>rotateTransition</string>
+	<key>graphicBrightness</key>
+	<string>destroyDescription</string>
+	<key>interactionPadding</key>
+	<string>temporaryAnchor</string>
+	<key>lazyAnimator</key>
+	<string>behaviorAppearance</string>
+	<key>rectangleTail</key>
+	<string>gradientlocalization</string>
+</dict>
+</plist>

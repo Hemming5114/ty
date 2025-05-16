@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTransformer</key>
+	<string>groupVisitor</string>
+	<key>criticalSwitch</key>
+	<string>decouplesensor</string>
+	<key>intuitiveAudio</key>
+	<string>reducerconsumer</string>
+	<key>persistentRole</key>
+	<string>optioncycleacceleration</string>
+	<key>themevariabledelay</key>
+	<string>temporaryInteger</string>
+	<key>usedHeap</key>
+	<string>materialInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReducer</key>
+	<string>paintercontextcoord</string>
+	<key>cellBottom</key>
+	<string>shouldProcessBloc</string>
+	<key>draggableDimension</key>
+	<string>indicatorDistance</string>
+	<key>grayscaleName</key>
+	<string>shouldEndEntropy</string>
+	<key>lastRemediation</key>
+	<string>canPaintMomentum</string>
+	<key>mainLayer</key>
+	<string>resolverPrototype</string>
+	<key>modelPressure</key>
+	<string>temporaryLoop</string>
+	<key>multiReference</key>
+	<string>interactionDistance</string>
+	<key>rolePressure</key>
+	<string>embraceFrame</string>
+	<key>shouldNavigateAlert</key>
+	<string>shouldFinishArithmetic</string>
+</dict>
+</plist>

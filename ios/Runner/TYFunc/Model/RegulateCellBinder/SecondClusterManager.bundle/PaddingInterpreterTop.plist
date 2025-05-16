@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextVolume</key>
+	<string>deployController</string>
+	<key>sharedRect</key>
+	<string>canStopLog</string>
+	<key>shouldCancelAxis</key>
+	<string>quantizerLabel</string>
+	<key>shouldEndButton</key>
+	<string>masterValue</string>
+	<key>shouldHandleWorkflow</key>
+	<string>componentDuration</string>
+	<key>shouldprocesspet</key>
+	<string>dissociateChart</string>
+	<key>shouldstreamcosine</key>
+	<string>injectionName</string>
+	<key>standaloneGem</key>
+	<string>titleInset</string>
+</dict>
+</plist>

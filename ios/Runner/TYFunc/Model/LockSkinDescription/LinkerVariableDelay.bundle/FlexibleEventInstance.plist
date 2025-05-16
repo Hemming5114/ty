@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorytypetype</key>
+	<string>behaviorprototypeopacity</string>
+	<key>beginnerStateful</key>
+	<string>augmentView</string>
+	<key>containerenvironmentflags</key>
+	<string>ispriority</string>
+	<key>mediumIntensity</key>
+	<string>visualizeUtil</string>
+	<key>resilienceDelay</key>
+	<string>spineCount</string>
+	<key>timelineInset</key>
+	<string>permanentExponent</string>
+	<key>uniqueScale</key>
+	<string>shouldtransitionalpha</string>
+</dict>
+</plist>

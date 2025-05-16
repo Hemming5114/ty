@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentskin</key>
+	<string>liteReducer</string>
+	<key>difficultThroughput</key>
+	<string>canValidateMovement</string>
+	<key>sceneOffset</key>
+	<string>canDeserializeStamp</string>
+	<key>scrollableProvision</key>
+	<string>canMountedNotifier</string>
+	<key>statefulAmortization</key>
+	<string>extendStore</string>
+	<key>subscriptionShade</key>
+	<string>canPresentView</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInterpolation</key>
+	<string>inkwellBehavior</string>
+	<key>constraintkind</key>
+	<string>shouldunmountedinteger</string>
+	<key>lastVolume</key>
+	<string>switchtheme</string>
+	<key>paintermatrix</key>
+	<string>routerSaturation</string>
+	<key>reusableResilience</key>
+	<string>canTransformNotification</string>
+	<key>shoulddispatchnib</key>
+	<string>exponentRight</string>
+	<key>visibleGift</key>
+	<string>batchValidation</string>
+</dict>
+</plist>

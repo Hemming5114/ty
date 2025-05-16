@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationAppearance</key>
+	<string>referenceParam</string>
+	<key>dynamicHash</key>
+	<string>routePlayback</string>
+	<key>publishmetadata</key>
+	<string>canTransitionConsumer</string>
+	<key>selectedStateful</key>
+	<string>singleBitrate</string>
+	<key>subsequentImpact</key>
+	<string>actiontension</string>
+	<key>sustainableOperation</key>
+	<string>yieldMember</string>
+	<key>symbolFlags</key>
+	<string>mutableBullet</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseVolume</key>
+	<string>workflowJob</string>
+	<key>granularInteger</key>
+	<string>writeAction</string>
+	<key>hierarchicalService</key>
+	<string>localTitle</string>
+	<key>nodetransparency</key>
+	<string>channelShade</string>
+	<key>performasync</key>
+	<string>semanticpageview</string>
+	<key>resumerect</key>
+	<string>replicateManager</string>
+	<key>shouldParseGridView</key>
+	<string>unscheduleOffset</string>
+	<key>timelineValidation</key>
+	<string>notificationFunction</string>
+</dict>
+</plist>

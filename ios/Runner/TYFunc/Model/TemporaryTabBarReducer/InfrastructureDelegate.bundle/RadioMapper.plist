@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonscroller</key>
+	<string>entityColor</string>
+	<key>liteChapter</key>
+	<string>restoreCallback</string>
+	<key>mediocreResult</key>
+	<string>activecell</string>
+	<key>popintensity</key>
+	<string>canInflatePet</string>
+	<key>rapidSlash</key>
+	<string>canFormatAxis</string>
+	<key>shouldRebuildSlash</key>
+	<string>tabbaranimation</string>
+	<key>subsequentBitrate</key>
+	<string>copyinstruction</string>
+</dict>
+</plist>

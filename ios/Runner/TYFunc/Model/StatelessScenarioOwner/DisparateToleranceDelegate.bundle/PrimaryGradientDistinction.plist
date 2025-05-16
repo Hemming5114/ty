@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptername</key>
+	<string>localCatalyst</string>
+	<key>concatenatemap</key>
+	<string>dedicatedsubscription</string>
+	<key>displayableNavigator</key>
+	<string>descriptionoperation</string>
+	<key>inheritedBuffer</key>
+	<string>margintension</string>
+	<key>insteadimage</key>
+	<string>diffableDocument</string>
+	<key>nextSpecifier</key>
+	<string>pendingUnary</string>
+	<key>shouldBindBullet</key>
+	<string>interactiveResult</string>
+	<key>trajectoryStatus</key>
+	<string>cleanButton</string>
+	<key>updaterepository</key>
+	<string>webShape</string>
+</dict>
+</plist>

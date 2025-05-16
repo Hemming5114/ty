@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>scalabilityCount</key>
+	<string>subscriptionParam</string>
+	<key>selectedrow</key>
+	<string>standaloneModel</string>
+	<key>statelessDialogs</key>
+	<string>seamlessSprite</string>
+	<key>tangentInterval</key>
+	<string>smartDialogs</string>
+	<key>unsortedChart</key>
+	<string>commonLoss</string>
+</dict>
+</plist>

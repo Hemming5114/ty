@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorindex</key>
+	<string>shouldShowMission</string>
+	<key>autoDialogs</key>
+	<string>detectorResponse</string>
+	<key>continuecontraction</key>
+	<string>shouldUpdateGate</string>
+	<key>criticalInformation</key>
+	<string>canEncodeRoute</string>
+	<key>sizeKind</key>
+	<string>errorinteraction</string>
+</dict>
+</plist>

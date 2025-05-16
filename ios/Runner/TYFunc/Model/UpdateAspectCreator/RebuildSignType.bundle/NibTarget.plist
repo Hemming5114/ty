@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserVisible</key>
+	<string>updateMedia</string>
+	<key>disparatesession</key>
+	<string>scopeIndex</string>
+	<key>eagerGrain</key>
+	<string>composableStroke</string>
+	<key>oldtransformerdirection</key>
+	<string>colorposition</string>
+	<key>optimizerFrequency</key>
+	<string>canEncodeRemainder</string>
+	<key>shouldPrepareInteger</key>
+	<string>hyperbolicAllocator</string>
+	<key>sinkmesh</key>
+	<string>quantizationController</string>
+	<key>skirtprocessindex</key>
+	<string>transitionneartask</string>
+	<key>threadSize</key>
+	<string>specifyStack</string>
+</dict>
+</plist>

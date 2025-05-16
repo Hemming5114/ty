@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSwitch</key>
+	<string>canConnectResource</string>
+	<key>insteadindicator</key>
+	<string>themeMomentum</string>
+	<key>interactivePlayback</key>
+	<string>localPopup</string>
+	<key>lostReducer</key>
+	<string>analyzerscale</string>
+	<key>optimizerFlags</key>
+	<string>implementResource</string>
+	<key>robustSchema</key>
+	<string>tabviewskewy</string>
+	<key>selectednavigator</key>
+	<string>architectureBrightness</string>
+	<key>shouldDisconnectFuture</key>
+	<string>scalabilityLocation</string>
+	<key>uniqueRectangle</key>
+	<string>shouldEmitMediaQuery</string>
+</dict>
+</plist>

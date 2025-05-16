@@ -1,0 +1,6 @@
+framework module TXUpload {
+  umbrella header "TXUpload-umbrella.h"
+
+  export *
+  module * { export * }
+}

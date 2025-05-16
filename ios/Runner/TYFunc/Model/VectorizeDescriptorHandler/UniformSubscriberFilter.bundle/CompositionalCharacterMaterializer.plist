@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmMode</key>
+	<string>mergerstate</string>
+	<key>missedReplica</key>
+	<string>canMountedLog</string>
+	<key>nextImage</key>
+	<string>enumerateStore</string>
+	<key>resizableMap</key>
+	<string>shouldRenderCache</string>
+	<key>resultwithstrategy</key>
+	<string>shouldListenView</string>
+	<key>selectedPriority</key>
+	<string>undertakeSink</string>
+	<key>shouldCreateDocument</key>
+	<string>agileLog</string>
+	<key>similarResult</key>
+	<string>substantialInteger</string>
+	<key>sortedFilter</key>
+	<string>draggableSensor</string>
+	<key>usedObject</key>
+	<string>navigateScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impactMode</key>
+	<string>marginLayer</string>
+	<key>joinerBorder</key>
+	<string>canHandleProvider</string>
+	<key>priorTool</key>
+	<string>dismissBaseline</string>
+	<key>resourceSkewY</key>
+	<string>canCancelExponent</string>
+	<key>shouldSaveOption</key>
+	<string>usedEfficiency</string>
+	<key>usageIndex</key>
+	<string>utilFlags</string>
+</dict>
+</plist>

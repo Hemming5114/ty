@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivestatelocation</key>
+	<string>immutableRectangle</string>
+	<key>controllercycleshape</key>
+	<string>mapactionmode</string>
+	<key>dynamicIndicator</key>
+	<string>gridviewpressure</string>
+	<key>geometricBinder</key>
+	<string>comprehensivePainter</string>
+	<key>geometricMargin</key>
+	<string>shouldYieldSubpixel</string>
+	<key>grainlikebuffer</key>
+	<string>reduceroffset</string>
+	<key>singleRectangle</key>
+	<string>creatorHue</string>
+	<key>singleSize</key>
+	<string>musicTension</string>
+	<key>sophisticatedscope</key>
+	<string>tensorResponse</string>
+</dict>
+</plist>

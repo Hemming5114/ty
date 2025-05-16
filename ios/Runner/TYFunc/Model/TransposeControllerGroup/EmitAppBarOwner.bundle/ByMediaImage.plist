@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentkind</key>
+	<string>opaqueSearcher</string>
+	<key>logPosition</key>
+	<string>transformerStage</string>
+	<key>mediumMedia</key>
+	<string>alignmentRight</string>
+	<key>oldClipper</key>
+	<string>rebuildSlash</string>
+	<key>shouldPersistRow</key>
+	<string>gridviewTension</string>
+	<key>transformersingletonrate</key>
+	<string>operationDuration</string>
+</dict>
+</plist>

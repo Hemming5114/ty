@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUseCase</key>
+	<string>staticPadding</string>
+	<key>capacitiesbeyondbuffer</key>
+	<string>brushsystembehavior</string>
+	<key>durationBorder</key>
+	<string>projectionOpacity</string>
+	<key>finderflags</key>
+	<string>unsortedEvent</string>
+	<key>numericalZone</key>
+	<string>deflateManager</string>
+	<key>prevReplica</key>
+	<string>normVisibility</string>
+</dict>
+</plist>

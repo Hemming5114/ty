@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionBehavior</key>
+	<string>shouldNotifyProject</string>
+	<key>displayableSkirt</key>
+	<string>optimizerVelocity</string>
+	<key>permutationOpacity</key>
+	<string>lostLayer</string>
+	<key>resilientPoint</key>
+	<string>compositionalTraversal</string>
+	<key>richtextmenu</key>
+	<string>shouldResumeKernel</string>
+	<key>secondRange</key>
+	<string>mainService</string>
+	<key>shouldDetachCaption</key>
+	<string>localBandwidth</string>
+	<key>usageBottom</key>
+	<string>currentAsset</string>
+</dict>
+</plist>

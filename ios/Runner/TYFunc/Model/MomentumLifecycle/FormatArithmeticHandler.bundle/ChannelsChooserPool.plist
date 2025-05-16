@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllermenu</key>
+	<string>canUnmountAlpha</string>
+	<key>integerCenter</key>
+	<string>pivotalGraph</string>
+	<key>interpolationSaturation</key>
+	<string>keeperror</string>
+	<key>lazyBrush</key>
+	<string>shouldUnmountStep</string>
+	<key>responsiveAlignment</key>
+	<string>semanticGate</string>
+	<key>slashevolution</key>
+	<string>smartHandler</string>
+</dict>
+</plist>

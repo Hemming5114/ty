@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDimension</key>
+	<string>equaltechnique</string>
+	<key>bandwidthMode</key>
+	<string>opaqueStatus</string>
+	<key>canvastask</key>
+	<string>labelCount</string>
+	<key>cubititem</key>
+	<string>deployTween</string>
+	<key>descriptordecoration</key>
+	<string>infoKind</string>
+	<key>nibalongactivity</key>
+	<string>shouldPushDrawer</string>
+	<key>oldSkin</key>
+	<string>metadataState</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedListener</key>
+	<string>largeProject</string>
+	<key>fusedVector</key>
+	<string>propagatecursor</string>
+	<key>kerneltransparency</key>
+	<string>ephemeralGrid</string>
+	<key>significantCard</key>
+	<string>masterMethod</string>
+</dict>
+</plist>

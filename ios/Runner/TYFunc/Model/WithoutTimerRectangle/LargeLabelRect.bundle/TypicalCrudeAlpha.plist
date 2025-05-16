@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMetadata</key>
+	<string>activatedProcessor</string>
+	<key>mediumScenario</key>
+	<string>textureJob</string>
+	<key>metadataKind</key>
+	<string>shouldListenCharacter</string>
+	<key>opaqueGrid</key>
+	<string>mitigatepositioned</string>
+	<key>timerorscope</key>
+	<string>animatedListener</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityinwork</key>
+	<string>popCanvas</string>
+	<key>gramAcceleration</key>
+	<string>canStreamConsumer</string>
+	<key>gridviewdistinction</key>
+	<string>precisionDepth</string>
+	<key>saverichtext</key>
+	<string>shouldTransitionMusic</string>
+	<key>sustainableFeature</key>
+	<string>immutableAxis</string>
+	<key>webMovement</key>
+	<string>schemaLocation</string>
+</dict>
+</plist>

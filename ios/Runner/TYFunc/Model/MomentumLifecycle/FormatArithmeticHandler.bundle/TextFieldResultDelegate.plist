@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentpromise</key>
+	<string>errorforadapter</string>
+	<key>featureduration</key>
+	<string>litepopup</string>
+	<key>framedespitestate</key>
+	<string>unmountedNib</string>
+	<key>missedGridView</key>
+	<string>canDisposeFuture</string>
+	<key>projectionPressure</key>
+	<string>granularResolver</string>
+	<key>shouldPaintDimension</key>
+	<string>shouldConnectCursor</string>
+	<key>shouldUnmountSemantics</key>
+	<string>divideAlignment</string>
+	<key>significantListView</key>
+	<string>animatedcontainerHead</string>
+	<key>spotState</key>
+	<string>rebuildCurve</string>
+</dict>
+</plist>

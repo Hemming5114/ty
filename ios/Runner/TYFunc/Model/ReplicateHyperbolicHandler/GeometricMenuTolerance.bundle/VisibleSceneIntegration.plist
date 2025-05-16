@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAsync</key>
+	<string>evaluationStyle</string>
+	<key>componentDensity</key>
+	<string>textFlags</string>
+	<key>convolutiontimer</key>
+	<string>spineagainsttier</string>
+	<key>symmetricSound</key>
+	<string>skirtresource</string>
+	<key>toleranceMargin</key>
+	<string>statichandler</string>
+</dict>
+</plist>

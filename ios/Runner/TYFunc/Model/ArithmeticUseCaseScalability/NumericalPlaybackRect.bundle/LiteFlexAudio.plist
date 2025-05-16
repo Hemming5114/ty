@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateOpacity</key>
+	<string>symmetricMaterial</string>
+	<key>delegatenavigator</key>
+	<string>integertail</string>
+	<key>desktopEvolution</key>
+	<string>cloneStream</string>
+	<key>streamcyclescale</key>
+	<string>polygonInterval</string>
+</dict>
+</plist>

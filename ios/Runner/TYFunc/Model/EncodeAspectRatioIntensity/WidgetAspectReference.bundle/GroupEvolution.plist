@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTabBar</key>
+	<string>durationSize</string>
+	<key>amortizationContrast</key>
+	<string>shouldCancelGridView</string>
+	<key>backwardSine</key>
+	<string>fixedCubit</string>
+	<key>litelayout</key>
+	<string>canStreamTheme</string>
+	<key>resolverFlags</key>
+	<string>shouldParseMaterial</string>
+	<key>scrollorigin</key>
+	<string>fixedstampinteraction</string>
+	<key>shouldDismissInkWell</key>
+	<string>temporaryScale</string>
+	<key>standaloneResilience</key>
+	<string>richtextComposite</string>
+	<key>textpolygon</key>
+	<string>commonHandler</string>
+</dict>
+</plist>

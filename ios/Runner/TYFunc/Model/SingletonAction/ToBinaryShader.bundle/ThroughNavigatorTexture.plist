@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeIndicator</key>
+	<string>priorityshaperight</string>
+	<key>adaptiveGridView</key>
+	<string>pivotalScroller</string>
+	<key>assetFeedback</key>
+	<string>clipperComposite</string>
+	<key>bandwidthFrequency</key>
+	<string>persistentnotification</string>
+	<key>beginnerIntensity</key>
+	<string>reactiveReliability</string>
+	<key>explicitRadius</key>
+	<string>hierarchicalchannelvelocity</string>
+	<key>hyperbolicListView</key>
+	<string>constraintutil</string>
+	<key>intensitySpacing</key>
+	<string>lostSine</string>
+	<key>publicUtil</key>
+	<string>contrastSize</string>
+	<key>sortedProcessor</key>
+	<string>pushTopic</string>
+</dict>
+</plist>

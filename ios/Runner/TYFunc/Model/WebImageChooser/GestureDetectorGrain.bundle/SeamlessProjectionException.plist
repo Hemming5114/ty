@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationinfo</key>
+	<string>positionStatus</string>
+	<key>disabledOccasion</key>
+	<string>accessibleassettag</string>
+	<key>draggabledecoration</key>
+	<string>giftorproxy</string>
+	<key>shouldDeserializeLoss</key>
+	<string>canDispatchPriority</string>
+	<key>sortedUsage</key>
+	<string>shouldTransitionMaster</string>
+	<key>staticImage</key>
+	<string>sophisticatedPlate</string>
+	<key>synchronousStamp</key>
+	<string>buttonStyle</string>
+	<key>zonePosition</key>
+	<string>canProcessPositioned</string>
+</dict>
+</plist>

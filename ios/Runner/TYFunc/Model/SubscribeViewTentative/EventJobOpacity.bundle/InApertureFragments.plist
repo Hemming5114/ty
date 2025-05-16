@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitbesidephase</key>
+	<string>measurebuffer</string>
+	<key>batchDensity</key>
+	<string>localContainer</string>
+	<key>defaultspecifier</key>
+	<string>metricsInteraction</string>
+	<key>elasticityRate</key>
+	<string>adaptiveThreshold</string>
+	<key>materialFilter</key>
+	<string>cacheKernel</string>
+	<key>prismaticInjection</key>
+	<string>hasSine</string>
+	<key>resizableConsumer</key>
+	<string>interactionValidation</string>
+	<key>shouldLoadTask</key>
+	<string>multiLatency</string>
+	<key>shouldNotifyHistogram</key>
+	<string>secondDependency</string>
+</dict>
+</plist>

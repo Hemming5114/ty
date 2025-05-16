@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelitem</key>
+	<string>canDeserializeSwitch</string>
+	<key>discardeddimension</key>
+	<string>interfaceName</string>
+	<key>durationtransformer</key>
+	<string>ephemeralIntegration</string>
+	<key>impactIndex</key>
+	<string>descriptorpreview</string>
+	<key>shouldUnmountedBaseline</key>
+	<string>canUnmountedCompletion</string>
+	<key>volumeBottom</key>
+	<string>discoverProvider</string>
+	<key>webIntensity</key>
+	<string>canKeepLayout</string>
+</dict>
+</plist>

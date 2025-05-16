@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorinfrastructure</key>
+	<string>interactorSpeed</string>
+	<key>displayablerestriction</key>
+	<string>sortedGrain</string>
+	<key>shouldUpdateAnimatedContainer</key>
+	<string>exitRect</string>
+	<key>sizedboxtop</key>
+	<string>streamtail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentbinder</key>
+	<string>partitionContainer</string>
+	<key>immediateConfiguration</key>
+	<string>playbackAcceleration</string>
+	<key>invisibleTask</key>
+	<string>tappableIntegrity</string>
+	<key>protectedTweak</key>
+	<string>soundCount</string>
+	<key>sampleCount</key>
+	<string>materializerTail</string>
+	<key>secondIntegrity</key>
+	<string>hardBrush</string>
+	<key>statelessSample</key>
+	<string>finderRight</string>
+</dict>
+</plist>

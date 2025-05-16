@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllersize</key>
+	<string>symmetricEmitter</string>
+	<key>currentrichtext</key>
+	<string>interactorEnvironment</string>
+	<key>dispatcherSaturation</key>
+	<string>scrollableCheckbox</string>
+	<key>featureRate</key>
+	<string>globalNotification</string>
+	<key>imperativepopupforce</key>
+	<string>cupertinooptimizerformat</string>
+	<key>painterSize</key>
+	<string>formatTop</string>
+	<key>rectemitter</key>
+	<string>stepTier</string>
+</dict>
+</plist>

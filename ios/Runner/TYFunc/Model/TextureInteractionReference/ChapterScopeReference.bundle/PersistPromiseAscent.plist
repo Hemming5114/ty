@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledConstraint</key>
+	<string>cellawait</string>
+	<key>multiLocalization</key>
+	<string>appbarstyle</string>
+	<key>opaqueConfidentiality</key>
+	<string>finishTabBar</string>
+	<key>routeDelay</key>
+	<string>lazyPolygon</string>
+	<key>screenResponse</key>
+	<string>canFetchCatalyst</string>
+	<key>substantialTrigger</key>
+	<string>lockgraphic</string>
+	<key>transitionbloc</key>
+	<string>pivotaldialogsspacing</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindoption</key>
+	<string>cubitlikemethod</string>
+	<key>hassizedbox</key>
+	<string>widgetactivitydistance</string>
+	<key>intensityTag</key>
+	<string>animateCallback</string>
+	<key>mutableRadius</key>
+	<string>basicConstant</string>
+	<key>respectiveLayout</key>
+	<string>awaitKind</string>
+</dict>
+</plist>

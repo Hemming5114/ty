@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationname</key>
+	<string>permissiveMechanism</string>
+	<key>ephemeralCombiner</key>
+	<string>navigaterequest</string>
+	<key>lastDelivery</key>
+	<string>shouldPublishHero</string>
+	<key>missedRecursion</key>
+	<string>significantGestureDetector</string>
+	<key>reducerInset</key>
+	<string>parsecontroller</string>
+	<key>referenceInterval</key>
+	<string>canProcessProtocol</string>
+	<key>shouldLoadContraction</key>
+	<string>playAwait</string>
+	<key>sinetrigger</key>
+	<string>factoryMediator</string>
+	<key>soundDirection</key>
+	<string>stackStyle</string>
+	<key>timeName</key>
+	<string>inflateHandler</string>
+</dict>
+</plist>

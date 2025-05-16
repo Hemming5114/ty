@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentname</key>
+	<string>shouldDecodeCupertino</string>
+	<key>displayableProvider</key>
+	<string>iterativeTrajectory</string>
+	<key>originalPlayback</key>
+	<string>queuePosition</string>
+	<key>shouldLayoutMonster</key>
+	<string>publisherRotation</string>
+	<key>singleColumn</key>
+	<string>robustprocessor</string>
+</dict>
+</plist>

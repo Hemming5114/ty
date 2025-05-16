@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCharacteristic</key>
+	<string>alertPlatform</string>
+	<key>arithmeticCatalyst</key>
+	<string>newestBorder</string>
+	<key>dispatcherSkewY</key>
+	<string>dialogstentative</string>
+	<key>injectionforparam</key>
+	<string>loadMedia</string>
+	<key>localmission</key>
+	<string>shouldNotifyWidget</string>
+	<key>sequentialInteractor</key>
+	<string>unbindStep</string>
+	<key>statefulImage</key>
+	<string>normalPadding</string>
+</dict>
+</plist>

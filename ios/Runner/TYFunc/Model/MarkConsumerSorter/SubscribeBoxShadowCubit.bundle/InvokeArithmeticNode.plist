@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveDistance</key>
+	<string>touchtimeline</string>
+	<key>difficultSubpixel</key>
+	<string>beginnerItem</string>
+	<key>shouldMountedChannels</key>
+	<string>associatedBox</string>
+	<key>smartModule</key>
+	<string>loaderDistance</string>
+	<key>symbolfeedback</key>
+	<string>draggableGradient</string>
+</dict>
+</plist>

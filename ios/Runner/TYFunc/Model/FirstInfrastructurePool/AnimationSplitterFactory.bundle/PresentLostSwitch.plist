@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentlayout</key>
+	<string>dedicatedTween</string>
+	<key>ephemeralItem</key>
+	<string>shouldSetStateBatch</string>
+	<key>gridPosition</key>
+	<string>limitAllocator</string>
+	<key>interactiveNavigator</key>
+	<string>similarFeature</string>
+	<key>shouldPresentColumn</key>
+	<string>subtlemission</string>
+	<key>toleranceOpacity</key>
+	<string>canUnmountedGrayscale</string>
+	<key>toolMomentum</key>
+	<string>disconnectCube</string>
+</dict>
+</plist>

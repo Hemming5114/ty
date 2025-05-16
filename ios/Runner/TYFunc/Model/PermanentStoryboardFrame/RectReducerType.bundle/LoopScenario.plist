@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCustomPaint</key>
+	<string>giftLocation</string>
+	<key>drawerviabuffer</key>
+	<string>rapidOffset</string>
+	<key>elasticMethod</key>
+	<string>canLayoutStoryboard</string>
+	<key>entitysinceflyweight</key>
+	<string>canContinuePlayback</string>
+	<key>scrollDelay</key>
+	<string>hashacceleration</string>
+	<key>sensorlistener</key>
+	<string>ephemeralNode</string>
+	<key>shouldProcessMap</key>
+	<string>canDecodeStream</string>
+	<key>traversalright</key>
+	<string>effectHue</string>
+</dict>
+</plist>

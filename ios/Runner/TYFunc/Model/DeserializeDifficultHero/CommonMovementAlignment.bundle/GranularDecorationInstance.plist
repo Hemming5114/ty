@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicconstraint</key>
+	<string>shouldUnmountedBase</string>
+	<key>beginnerSplitter</key>
+	<string>collectionSpacing</string>
+	<key>clipperInterval</key>
+	<string>similarGridView</string>
+	<key>commonMap</key>
+	<string>protectedError</string>
+	<key>composableView</key>
+	<string>listviewMemento</string>
+	<key>coordinatorFormat</key>
+	<string>shaderComposite</string>
+	<key>cubitTension</key>
+	<string>gesturescopecontrast</string>
+	<key>priorMonster</key>
+	<string>attachContraction</string>
+	<key>seamlessCubit</key>
+	<string>shouldAttachBitrate</string>
+</dict>
+</plist>

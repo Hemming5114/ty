@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFlex</key>
+	<string>instructionCount</string>
+	<key>captionShape</key>
+	<string>decorationdelay</string>
+	<key>dialogssorter</key>
+	<string>singletonMemento</string>
+	<key>onlogarithmtap</key>
+	<string>tweakFeedback</string>
+	<key>reusablePoint</key>
+	<string>gateDirection</string>
+	<key>semanticsCount</key>
+	<string>conformeffect</string>
+</dict>
+</plist>

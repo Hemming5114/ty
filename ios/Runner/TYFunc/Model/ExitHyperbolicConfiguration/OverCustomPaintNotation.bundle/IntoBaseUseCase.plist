@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionAlignment</key>
+	<string>popupexceptvariable</string>
+	<key>cupertinoCluster</key>
+	<string>primaryTask</string>
+	<key>explicitTangent</key>
+	<string>symmetricVolume</string>
+	<key>shouldDeserializeNib</key>
+	<string>resultIndex</string>
+	<key>uniqueView</key>
+	<string>canDisconnectDocument</string>
+	<key>viewbottom</key>
+	<string>concretelayouttype</string>
+</dict>
+</plist>

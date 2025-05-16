@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativetimerbound</key>
+	<string>streamJob</string>
+	<key>disabledImpression</key>
+	<string>canKeepStateful</string>
+	<key>dynamicframesaturation</key>
+	<string>canPrepareNotifier</string>
+	<key>modulustheme</key>
+	<string>reducerTransparency</string>
+	<key>publishdescription</key>
+	<string>declarativeError</string>
+	<key>selectedGesture</key>
+	<string>notificationStyle</string>
+	<key>servicemechanism</key>
+	<string>shouldYieldLayout</string>
+	<key>shouldYieldComposition</key>
+	<string>interpolationOperation</string>
+	<key>triggerType</key>
+	<string>entityShade</string>
+</dict>
+</plist>

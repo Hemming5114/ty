@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellbytask</key>
+	<string>shouldFormatBitrate</string>
+	<key>featureuntilproxy</key>
+	<string>shouldUpdateProjection</string>
+	<key>giftInterval</key>
+	<string>shouldStopDimension</string>
+	<key>provisionFeedback</key>
+	<string>shouldFetchCapsule</string>
+	<key>shouldTrainNorm</key>
+	<string>cacheGradient</string>
+	<key>vertexDuration</key>
+	<string>scaleHue</string>
+	<key>webProject</key>
+	<string>shouldLayoutChecklist</string>
+</dict>
+</plist>

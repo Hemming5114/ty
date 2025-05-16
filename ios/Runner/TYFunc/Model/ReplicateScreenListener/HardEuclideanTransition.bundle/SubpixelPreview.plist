@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedradius</key>
+	<string>rangeMode</string>
+	<key>materialpressure</key>
+	<string>canPrepareGesture</string>
+	<key>nativeAsync</key>
+	<string>chapterObserver</string>
+	<key>observerformat</key>
+	<string>priorTask</string>
+	<key>previewprocessor</key>
+	<string>capacityFormat</string>
+	<key>specifyProvision</key>
+	<string>setstateCertificate</string>
+	<key>temporaryiconborder</key>
+	<string>sharedinjection</string>
+	<key>titleSpeed</key>
+	<string>stopStateful</string>
+	<key>trajectoryFrequency</key>
+	<string>significantResponse</string>
+</dict>
+</plist>

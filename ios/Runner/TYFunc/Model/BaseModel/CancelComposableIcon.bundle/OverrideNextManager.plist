@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyFlags</key>
+	<string>disconnectCapacities</string>
+	<key>intuitiveTabView</key>
+	<string>visualizeRouter</string>
+	<key>sensorvarmomentum</key>
+	<string>channelsaturation</string>
+	<key>shouldStopMission</key>
+	<string>layerObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonNotification</key>
+	<string>canPopSegment</string>
+	<key>inkwellvelocity</key>
+	<string>emitUtil</string>
+	<key>progressbaroutsidepattern</key>
+	<string>evaluationState</string>
+	<key>resizableAperture</key>
+	<string>unmountedCoordinator</string>
+	<key>shouldDisposeCurve</key>
+	<string>newestEquivalent</string>
+	<key>shouldReplaceTable</key>
+	<string>invisibleVector</string>
+	<key>tangentBrightness</key>
+	<string>prepareDocument</string>
+</dict>
+</plist>

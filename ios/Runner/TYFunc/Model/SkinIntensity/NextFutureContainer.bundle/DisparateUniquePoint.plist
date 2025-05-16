@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composabletickerinset</key>
+	<string>nativeScalability</string>
+	<key>keyTopic</key>
+	<string>sizeParameter</string>
+	<key>lazyResult</key>
+	<string>canPushColumn</string>
+	<key>pinchableDropdownButton</key>
+	<string>otherBuffer</string>
+	<key>requiredAnalyzer</key>
+	<string>flexlikestructure</string>
+	<key>shouldEncodeShader</key>
+	<string>arithmeticService</string>
+	<key>sophisticatedPresenter</key>
+	<string>maxExponent</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellcolor</key>
+	<string>parallelMonster</string>
+	<key>combinerCoord</key>
+	<string>metadataDirection</string>
+	<key>nextStep</key>
+	<string>canNavigateUsage</string>
+	<key>radiustierflags</key>
+	<string>setstateReference</string>
+	<key>shouldCreateStoryboard</key>
+	<string>pinchableShape</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackthroughput</key>
+	<string>differentiatevariant</string>
+	<key>interactivereliability</key>
+	<string>topicSystem</string>
+	<key>shouldEncodeCard</key>
+	<string>functionalDelegate</string>
+	<key>shouldResumeOptimizer</key>
+	<string>statelessTimeline</string>
+</dict>
+</plist>

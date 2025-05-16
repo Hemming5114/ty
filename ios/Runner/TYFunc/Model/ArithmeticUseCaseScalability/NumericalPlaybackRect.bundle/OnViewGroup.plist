@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMomentum</key>
+	<string>multiContainer</string>
+	<key>dedicatedResolver</key>
+	<string>soundTag</string>
+	<key>eagerTween</key>
+	<string>streamlineResolver</string>
+	<key>extensionDirection</key>
+	<string>significantThreshold</string>
+	<key>prevPresenter</key>
+	<string>crucialEfficiency</string>
+	<key>shouldUnmountProtocol</key>
+	<string>mediumUsage</string>
+	<key>threadparamresponse</key>
+	<string>discardedUsage</string>
+	<key>unbindproject</key>
+	<string>opaqueMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitGridView</key>
+	<string>sustainableSound</string>
+	<key>shouldFormatController</key>
+	<string>attachScaffold</string>
+	<key>shouldNavigateCollection</key>
+	<string>movementName</string>
+	<key>shouldRouteSession</key>
+	<string>cardaudio</string>
+	<key>standalonefactory</key>
+	<string>parallelBitrate</string>
+	<key>usageRight</key>
+	<string>responsiveIntensity</string>
+	<key>visibleSorter</key>
+	<string>unlockDependency</string>
+</dict>
+</plist>

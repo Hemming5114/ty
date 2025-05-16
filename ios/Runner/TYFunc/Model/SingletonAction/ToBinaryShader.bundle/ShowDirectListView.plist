@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuInset</key>
+	<string>iconinfo</string>
+	<key>notificationmend</key>
+	<string>shouldAnimateDelegate</string>
+	<key>primarySession</key>
+	<string>cubesingleton</string>
+	<key>providerShade</key>
+	<string>lasttrigger</string>
+	<key>shouldBindBullet</key>
+	<string>appbarTension</string>
+	<key>shouldContinueSensor</key>
+	<string>commonAlpha</string>
+	<key>shouldNavigateInteger</key>
+	<string>deploySingleton</string>
+	<key>shouldSubscribeSensor</key>
+	<string>canContinueOverlay</string>
+	<key>vectorCenter</key>
+	<string>granularResponder</string>
+</dict>
+</plist>

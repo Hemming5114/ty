@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentScroll</key>
+	<string>reusableIsolate</string>
+	<key>concurrenthandlerdirection</key>
+	<string>computeMenu</string>
+	<key>parseasset</key>
+	<string>accordionNotifier</string>
+	<key>sceneState</key>
+	<string>offsetChannel</string>
+	<key>shouldUpdateMomentum</key>
+	<string>confidentialityDistance</string>
+	<key>uniquerouter</key>
+	<string>canReplaceSpot</string>
+</dict>
+</plist>

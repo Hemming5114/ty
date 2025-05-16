@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobilePolygon</key>
+	<string>priorInjection</string>
+	<key>respectivechecklist</key>
+	<string>impactSkewY</string>
+	<key>temporaryColumn</key>
+	<string>canShowBase</string>
+	<key>toleranceResponse</key>
+	<string>hasBatch</string>
+</dict>
+</plist>

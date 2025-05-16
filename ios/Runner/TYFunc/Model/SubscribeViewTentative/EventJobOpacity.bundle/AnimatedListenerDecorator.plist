@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitobserverhue</key>
+	<string>iterativecubefeedback</string>
+	<key>currentcubit</key>
+	<string>architectureBottom</string>
+	<key>decorationfromnumber</key>
+	<string>binderTag</string>
+	<key>directlyconnector</key>
+	<string>provideramongsystem</string>
+	<key>invisibleNotation</key>
+	<string>responderTheme</string>
+	<key>normalexception</key>
+	<string>dynamicCallback</string>
+	<key>publisherInset</key>
+	<string>updateModulus</string>
+	<key>secondFlex</key>
+	<string>fragmentstrength</string>
+	<key>shouldParseAppBar</key>
+	<string>debugIsolate</string>
+</dict>
+</plist>

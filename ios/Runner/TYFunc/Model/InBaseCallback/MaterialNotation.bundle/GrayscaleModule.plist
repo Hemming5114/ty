@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerThread</key>
+	<string>canCancelEquipment</string>
+	<key>exceptionAlignment</key>
+	<string>writearithmetic</string>
+	<key>grainmerger</key>
+	<string>channelStage</string>
+	<key>localAperture</key>
+	<string>similarButton</string>
+	<key>segueTop</key>
+	<string>canRebuildBullet</string>
+</dict>
+</plist>

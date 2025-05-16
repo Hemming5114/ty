@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findstep</key>
+	<string>findCubit</string>
+	<key>methodtail</key>
+	<string>imageBuffer</string>
+	<key>pushmatrix</key>
+	<string>losslistener</string>
+	<key>scrollableConsumer</key>
+	<string>nativeParticle</string>
+</dict>
+</plist>

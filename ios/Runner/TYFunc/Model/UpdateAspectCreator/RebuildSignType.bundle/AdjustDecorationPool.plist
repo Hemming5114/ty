@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveError</key>
+	<string>equipmentbinder</string>
+	<key>delicateLog</key>
+	<string>scrollableError</string>
+	<key>durationSkewX</key>
+	<string>shouldkeeptouch</string>
+	<key>functionalGesture</key>
+	<string>dedicatedGraphic</string>
+	<key>largeIntegration</key>
+	<string>carderror</string>
+	<key>materialsystemrotation</key>
+	<string>permanentvolume</string>
+	<key>petMomentum</key>
+	<string>navigatorFlags</string>
+	<key>remainderformat</key>
+	<string>syncStorage</string>
+	<key>shouldBindRow</key>
+	<string>framebufferacceleration</string>
+	<key>sinkAppearance</key>
+	<string>boxshadowCoord</string>
+</dict>
+</plist>

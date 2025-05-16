@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinePressure</key>
+	<string>diffableAppBar</string>
+	<key>nibOpacity</key>
+	<string>canStopConsumer</string>
+	<key>spotscoperight</key>
+	<string>shouldStreamDocument</string>
+	<key>statehue</key>
+	<string>toleranceSkewY</string>
+</dict>
+</plist>

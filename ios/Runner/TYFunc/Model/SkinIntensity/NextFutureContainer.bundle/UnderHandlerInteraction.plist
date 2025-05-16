@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converttheme</key>
+	<string>lazyActivity</string>
+	<key>resizableSelector</key>
+	<string>gesturedetectorStage</string>
+	<key>resizablebuffer</key>
+	<string>uniformpreviewsize</string>
+	<key>sequentialConstraint</key>
+	<string>trainStack</string>
+	<key>shouldHandleDialogs</key>
+	<string>reductionAcceleration</string>
+	<key>smartasset</key>
+	<string>scrollableInjection</string>
+</dict>
+</plist>

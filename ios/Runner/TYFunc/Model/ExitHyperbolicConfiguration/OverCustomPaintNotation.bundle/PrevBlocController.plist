@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperFormat</key>
+	<string>cycleCenter</string>
+	<key>contractionDuration</key>
+	<string>upgradeEntity</string>
+	<key>easyCallback</key>
+	<string>storeZone</string>
+	<key>mainSegue</key>
+	<string>temporaryCupertino</string>
+	<key>requiredReduction</key>
+	<string>cupertinoFrame</string>
+	<key>slashBound</key>
+	<string>sustainableGraph</string>
+	<key>tensorsample</key>
+	<string>axisDecorator</string>
+	<key>typicalMediaQuery</key>
+	<string>ephemeralDuration</string>
+</dict>
+</plist>

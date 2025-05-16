@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledLocalization</key>
+	<string>graphicFeedback</string>
+	<key>hasthread</key>
+	<string>unsortedstatelesstransparency</string>
+	<key>lostExponent</key>
+	<string>gridviewOperation</string>
+	<key>metricsSpeed</key>
+	<string>canCacheCaption</string>
+	<key>requestdirection</key>
+	<string>radioVisibility</string>
+	<key>scrollScale</key>
+	<string>inactiveChannel</string>
+	<key>smallBitrate</key>
+	<string>provisionMomentum</string>
+	<key>unaryOffset</key>
+	<string>liteArithmetic</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCell</key>
+	<string>shouldHandleOptimizer</string>
+	<key>composableNotification</key>
+	<string>directlyAccessory</string>
+	<key>immediateProfile</key>
+	<string>symbolcontextopacity</string>
+	<key>instructionValidation</key>
+	<string>replicaRotation</string>
+	<key>integrationorigin</key>
+	<string>unmountStream</string>
+	<key>mobileefficiency</key>
+	<string>resumeExtension</string>
+	<key>rapiddelivery</key>
+	<string>renderStoryboard</string>
+	<key>seektechnique</key>
+	<string>checkboxHue</string>
+	<key>segmentPosition</key>
+	<string>canDecodeTheme</string>
+</dict>
+</plist>

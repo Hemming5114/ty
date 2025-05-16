@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatelayer</key>
+	<string>cachesink</string>
+	<key>criticalReplica</key>
+	<string>relationalLoader</string>
+	<key>decorationfacadehead</key>
+	<string>integrationTransparency</string>
+	<key>explicitScalability</key>
+	<string>singleBinary</string>
+	<key>memberversusactivity</key>
+	<string>subscriptionShade</string>
+	<key>unactivatedCompletion</key>
+	<string>removeRouter</string>
+</dict>
+</plist>

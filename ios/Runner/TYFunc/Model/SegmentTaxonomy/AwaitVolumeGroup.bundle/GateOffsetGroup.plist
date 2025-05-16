@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directLinker</key>
+	<string>shouldYieldNavigator</string>
+	<key>encapsulatesymbol</key>
+	<string>resolveCurve</string>
+	<key>lastRemediation</key>
+	<string>canPersistTheme</string>
+	<key>litecache</key>
+	<string>iconAppearance</string>
+	<key>previewacceleration</key>
+	<string>shouldfetchtable</string>
+	<key>standaloneClipper</key>
+	<string>eagerService</string>
+</dict>
+</plist>

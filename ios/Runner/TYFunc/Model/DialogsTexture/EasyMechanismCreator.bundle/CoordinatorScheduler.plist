@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptertieropacity</key>
+	<string>standaloneLayer</string>
+	<key>criticalCapacity</key>
+	<string>shouldDispatchCapsule</string>
+	<key>delicateSingleton</key>
+	<string>imageCoord</string>
+	<key>dynamicScreen</key>
+	<string>canvasacceleration</string>
+	<key>functionalThroughput</key>
+	<string>renderEffect</string>
+	<key>multiDescent</key>
+	<string>composableRect</string>
+	<key>notationFormat</key>
+	<string>overrideAsset</string>
+	<key>requestAlignment</key>
+	<string>sceneState</string>
+	<key>tweenEdge</key>
+	<string>flexiblePositioned</string>
+</dict>
+</plist>

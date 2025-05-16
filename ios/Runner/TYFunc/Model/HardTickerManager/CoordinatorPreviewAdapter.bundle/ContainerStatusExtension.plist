@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindnorm</key>
+	<string>quantizerprovider</string>
+	<key>navigatorinsidecontext</key>
+	<string>similarBitrate</string>
+	<key>shouldResumeMember</key>
+	<string>animateGridView</string>
+	<key>sizeatframework</key>
+	<string>canTrainPlate</string>
+	<key>swiftSaturation</key>
+	<string>respectiveWorkflow</string>
+</dict>
+</plist>

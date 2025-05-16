@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryvalidation</key>
+	<string>previewAppearance</string>
+	<key>navigatorskewy</key>
+	<string>exitGrain</string>
+	<key>platejoiner</key>
+	<string>controllerDecorator</string>
+	<key>retainedBitrate</key>
+	<string>elasticMobile</string>
+	<key>screenstrategyshape</key>
+	<string>shouldCacheContraction</string>
+	<key>uniformAction</key>
+	<string>canRestartMedia</string>
+	<key>usedTask</key>
+	<string>visibleMaster</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkmanager</key>
+	<string>shouldDetachLoss</string>
+	<key>combineasync</key>
+	<string>canInflateResource</string>
+	<key>dropoutmodulus</key>
+	<string>maxSpecifier</string>
+	<key>hasBehavior</key>
+	<string>independentHash</string>
+	<key>infoHue</key>
+	<string>cosineBridge</string>
+	<key>interactionVisible</key>
+	<string>resourceaboutshape</string>
+	<key>specifydescriptor</key>
+	<string>greatelasticity</string>
+</dict>
+</plist>

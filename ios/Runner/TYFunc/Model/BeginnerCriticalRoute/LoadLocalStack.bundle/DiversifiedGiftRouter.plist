@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryForce</key>
+	<string>requiredHash</string>
+	<key>indicatorhandler</key>
+	<string>shouldCacheInteger</string>
+	<key>priorityedge</key>
+	<string>canUpdateSample</string>
+	<key>seamlessSize</key>
+	<string>canReplaceStoryboard</string>
+	<key>subsequentSkin</key>
+	<string>canFormatPriority</string>
+	<key>variantTransparency</key>
+	<string>canMountedMission</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiessprite</key>
+	<string>functionalMargin</string>
+	<key>dedicatedclipper</key>
+	<string>elasticResource</string>
+	<key>defaultText</key>
+	<string>canDecodeInkWell</string>
+	<key>easyGram</key>
+	<string>canDisposeRow</string>
+	<key>fragmentIndex</key>
+	<string>canAnimateLog</string>
+	<key>mobileTable</key>
+	<string>connectScene</string>
+	<key>notifystamp</key>
+	<string>timelineinterval</string>
+	<key>repositoryAlignment</key>
+	<string>rolePrototype</string>
+	<key>sharedMission</key>
+	<string>deferredPlate</string>
+	<key>subsequentDocument</key>
+	<string>resilientPager</string>
+</dict>
+</plist>

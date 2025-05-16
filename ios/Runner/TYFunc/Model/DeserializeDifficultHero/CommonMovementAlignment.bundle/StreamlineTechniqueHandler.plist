@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitbehavior</key>
+	<string>oldAnchor</string>
+	<key>blocPosition</key>
+	<string>currentoverlay</string>
+	<key>compositionalReliability</key>
+	<string>escalateradius</string>
+	<key>imagestagebottom</key>
+	<string>pushcompleter</string>
+	<key>otherSymbol</key>
+	<string>clusterSkewY</string>
+	<key>propagateaccessory</key>
+	<string>chartAppearance</string>
+	<key>relationalTrajectory</key>
+	<string>mapLayer</string>
+	<key>scalabilityColor</key>
+	<string>decoupleIntensity</string>
+	<key>shouldEmitProfile</key>
+	<string>elasticityValidation</string>
+	<key>shouldParseGestureDetector</key>
+	<string>drawState</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnInterval</key>
+	<string>seamlessmaterializer</string>
+	<key>gridstatecolor</key>
+	<string>provideinterface</string>
+	<key>modalAppearance</key>
+	<string>disabledFilter</string>
+	<key>nativeBullet</key>
+	<string>webLoader</string>
+	<key>numericalcupertinoborder</key>
+	<string>marginAlignment</string>
+	<key>shouldUpdateTouch</key>
+	<string>keycontraction</string>
+	<key>signtime</key>
+	<string>retainedPoint</string>
+	<key>sortedLogarithm</key>
+	<string>lazyLifecycle</string>
+</dict>
+</plist>

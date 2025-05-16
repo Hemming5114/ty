@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateSkirt</key>
+	<string>loadUsage</string>
+	<key>keyInteraction</key>
+	<string>inactiveLatency</string>
+	<key>shouldCancelHero</key>
+	<string>offsetAction</string>
+	<key>shouldRebuildWorkflow</key>
+	<string>persistUnary</string>
+	<key>storyboardreceiver</key>
+	<string>shouldRenderProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMaterial</key>
+	<string>sortedpreview</string>
+	<key>boxSkewY</key>
+	<string>notationBottom</string>
+	<key>easySink</key>
+	<string>allocatorMode</string>
+	<key>exceptionmediatorkind</key>
+	<string>shouldEndGrayscale</string>
+	<key>flexibleAscent</key>
+	<string>shouldFinishShader</string>
+	<key>intensityResponse</key>
+	<string>inkwellthancycle</string>
+	<key>repositoryBorder</key>
+	<string>deactivateSubscription</string>
+</dict>
+</plist>

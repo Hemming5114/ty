@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellName</key>
+	<string>canRebuildSubpixel</string>
+	<key>nibStyle</key>
+	<string>shouldListenSpot</string>
+	<key>relationalCapacities</key>
+	<string>segueName</string>
+	<key>shouldNotifyAppBar</key>
+	<string>shouldBindImage</string>
+	<key>shouldShowListView</key>
+	<string>shouldprocessspine</string>
+	<key>statusInterval</key>
+	<string>shouldConnectOperation</string>
+	<key>tabviewbeyondcomposite</key>
+	<string>canPersistClipper</string>
+	<key>tensorController</key>
+	<string>finishSensor</string>
+	<key>uniqueRange</key>
+	<string>comprehensiveIntegrity</string>
+</dict>
+</plist>

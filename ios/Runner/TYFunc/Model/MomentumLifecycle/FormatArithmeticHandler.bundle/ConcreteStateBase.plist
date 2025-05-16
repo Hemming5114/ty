@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactermomentum</key>
+	<string>futureAdapter</string>
+	<key>crudeDialogs</key>
+	<string>informationState</string>
+	<key>customCard</key>
+	<string>destroyTransformer</string>
+	<key>declarativeAudio</key>
+	<string>eagerresult</string>
+	<key>lostAwait</key>
+	<string>shouldDeserializeFuture</string>
+	<key>optimizerdrawer</key>
+	<string>directStroke</string>
+	<key>pickerborder</key>
+	<string>sharedThreshold</string>
+</dict>
+</plist>

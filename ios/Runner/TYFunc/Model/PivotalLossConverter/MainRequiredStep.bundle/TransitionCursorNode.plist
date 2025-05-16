@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachvector</key>
+	<string>currentInjection</string>
+	<key>blocborder</key>
+	<string>storeLocalization</string>
+	<key>granularScale</key>
+	<string>tappableOperation</string>
+	<key>reusableInteractor</key>
+	<string>defaultswitch</string>
+	<key>robustStroke</key>
+	<string>impactTop</string>
+</dict>
+</plist>

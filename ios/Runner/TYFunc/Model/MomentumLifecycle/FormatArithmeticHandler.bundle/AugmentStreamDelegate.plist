@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVisible</key>
+	<string>interfacedisclaimer</string>
+	<key>customAnimation</key>
+	<string>concurrentGraph</string>
+	<key>hardInteger</key>
+	<string>remainderColor</string>
+	<key>shouldCreateExponent</key>
+	<string>cupertinoDropdownButton</string>
+	<key>switchflags</key>
+	<string>globalTransition</string>
+</dict>
+</plist>

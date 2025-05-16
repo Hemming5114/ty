@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesbuffermode</key>
+	<string>finishStream</string>
+	<key>desktopoffsetcenter</key>
+	<string>draggablePicker</string>
+	<key>handleisolate</key>
+	<string>canUnmountPainter</string>
+	<key>normflyweightformat</key>
+	<string>appbaraboutstructure</string>
+	<key>reactiveSine</key>
+	<string>loadConsumer</string>
+	<key>shouldFetchScroll</key>
+	<string>executeService</string>
+	<key>usedview</key>
+	<string>consumerdistance</string>
+</dict>
+</plist>

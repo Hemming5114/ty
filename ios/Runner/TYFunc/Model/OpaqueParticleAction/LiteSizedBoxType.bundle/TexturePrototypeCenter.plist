@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramorientation</key>
+	<string>tabbarthanfacade</string>
+	<key>normalMusic</key>
+	<string>kernelbottom</string>
+	<key>otherMechanism</key>
+	<string>synchronousBase</string>
+	<key>subsequentScale</key>
+	<string>concurrentSubpixel</string>
+	<key>unsortedKernel</key>
+	<string>topicduration</string>
+</dict>
+</plist>

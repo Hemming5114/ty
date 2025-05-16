@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionstate</key>
+	<string>respectiveRole</string>
+	<key>displayableAspectRatio</key>
+	<string>mainPermutation</string>
+	<key>draggableMetrics</key>
+	<string>processorStatus</string>
+	<key>flexiblepainter</key>
+	<string>pinchableProtocol</string>
+	<key>prismaticConsumer</key>
+	<string>imperativeFactory</string>
+	<key>referencevelocity</key>
+	<string>lostQuaternion</string>
+	<key>visitrow</key>
+	<string>basicgestureleft</string>
+</dict>
+</plist>

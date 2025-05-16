@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCustomPaint</key>
+	<string>allocatorcreator</string>
+	<key>concreteGrayscale</key>
+	<string>uniformPoint</string>
+	<key>discardedModulus</key>
+	<string>observemetadata</string>
+	<key>interactoracceleration</key>
+	<string>shouldPrepareOptimizer</string>
+	<key>permissiveWidget</key>
+	<string>shouldCacheStamp</string>
+	<key>shouldMountController</key>
+	<string>shouldReplaceProject</string>
+	<key>skinStyle</key>
+	<string>backwardConverter</string>
+	<key>strengthVisible</key>
+	<string>rotateFeature</string>
+	<key>unactivatedRemediation</key>
+	<string>statefulInteger</string>
+</dict>
+</plist>

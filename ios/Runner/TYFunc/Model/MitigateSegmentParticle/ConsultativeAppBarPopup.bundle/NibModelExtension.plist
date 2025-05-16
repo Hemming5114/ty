@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblePoint</key>
+	<string>featurebridgevalidation</string>
+	<key>observerPressure</key>
+	<string>encodeSingleton</string>
+	<key>prioritycharacteristic</key>
+	<string>tappableComposition</string>
+	<key>profilemetadata</key>
+	<string>restartSession</string>
+	<key>repositoryTransparency</key>
+	<string>shouldDisposeTechnique</string>
+	<key>shouldDeserializeTechnique</key>
+	<string>stampTask</string>
+	<key>statefulRenderer</key>
+	<string>canFinishMultiplication</string>
+	<key>tensorreducervisibility</key>
+	<string>advancedModal</string>
+</dict>
+</plist>

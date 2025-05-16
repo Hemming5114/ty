@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCertificate</key>
+	<string>displayableJoiner</string>
+	<key>consumerbuffer</key>
+	<string>modulusBrightness</string>
+	<key>disabledIntegrity</key>
+	<string>subscriptionOperation</string>
+	<key>mobileRow</key>
+	<string>shouldSkipProvider</string>
+	<key>preparecurve</key>
+	<string>shouldLayoutShader</string>
+	<key>sharedStore</key>
+	<string>shouldContinueProtocol</string>
+	<key>subpixelName</key>
+	<string>shouldPublishExponent</string>
+</dict>
+</plist>

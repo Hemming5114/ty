@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorshapesaturation</key>
+	<string>requiredChooser</string>
+	<key>callbackconsumer</key>
+	<string>shouldSkipTouch</string>
+	<key>decouplewidget</key>
+	<string>marginOffset</string>
+	<key>dedicatedLabel</key>
+	<string>presentFlex</string>
+	<key>enabledChart</key>
+	<string>scrollableAxis</string>
+	<key>localizationDelay</key>
+	<string>permissiveReceiver</string>
+	<key>persistentInteractor</key>
+	<string>nextReplica</string>
+</dict>
+</plist>

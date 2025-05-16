@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratesegment</key>
+	<string>advancedAspect</string>
+	<key>advancedExpanded</key>
+	<string>durationFacade</string>
+	<key>infoCenter</key>
+	<string>movementForm</string>
+	<key>oldSymbol</key>
+	<string>apertureSkewX</string>
+	<key>reusableShape</key>
+	<string>activatedCompleter</string>
+	<key>reusablegradientoffset</key>
+	<string>materialDirection</string>
+	<key>shouldFetchSpot</key>
+	<string>descentTag</string>
+	<key>tweakStyle</key>
+	<string>tickerRate</string>
+</dict>
+</plist>

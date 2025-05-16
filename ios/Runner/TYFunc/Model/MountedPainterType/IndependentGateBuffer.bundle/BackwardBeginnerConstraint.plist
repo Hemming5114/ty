@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalTextField</key>
+	<string>nativePolygon</string>
+	<key>requiredSemantics</key>
+	<string>attachChannels</string>
+	<key>schemaLocation</key>
+	<string>shouldPublishListView</string>
+	<key>shouldReplaceStoryboard</key>
+	<string>unactivatedStack</string>
+	<key>sophisticatedDistinction</key>
+	<string>statictweak</string>
+	<key>tabviewborder</key>
+	<string>keyScheduler</string>
+</dict>
+</plist>

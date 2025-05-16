@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkoffset</key>
+	<string>optionContext</string>
+	<key>largeimpression</key>
+	<string>touchtexture</string>
+	<key>mainResilience</key>
+	<string>shouldParseBehavior</string>
+	<key>skirtstatefrequency</key>
+	<string>crucialdimension</string>
+	<key>unaryBound</key>
+	<string>bulletObserver</string>
+</dict>
+</plist>

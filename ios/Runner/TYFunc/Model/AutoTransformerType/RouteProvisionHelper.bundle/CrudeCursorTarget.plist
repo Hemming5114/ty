@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleaction</key>
+	<string>shearVector</string>
+	<key>activatedCursor</key>
+	<string>canPauseBuilder</string>
+	<key>calculateradius</key>
+	<string>materialMonster</string>
+	<key>futureascent</key>
+	<string>integerqueue</string>
+	<key>infoEdge</key>
+	<string>granularPlate</string>
+	<key>intuitiveTrajectory</key>
+	<string>respectiveMission</string>
+	<key>resilientListView</key>
+	<string>statefulMediator</string>
+	<key>resourcePressure</key>
+	<string>pivotalchartvisible</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activesubpixelscale</key>
+	<string>synchronizeimage</string>
+	<key>awaitstate</key>
+	<string>tickerName</string>
+	<key>currentSelector</key>
+	<string>pauseKernel</string>
+	<key>largealpha</key>
+	<string>disabledPolygon</string>
+	<key>listviewstylestyle</key>
+	<string>taskbehavior</string>
+	<key>numericalPager</key>
+	<string>sharedChannel</string>
+	<key>responsiveDelivery</key>
+	<string>drawerCommand</string>
+	<key>tappableAppBar</key>
+	<string>directConvolution</string>
+</dict>
+</plist>

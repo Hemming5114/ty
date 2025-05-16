@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentType</key>
+	<string>localizationContext</string>
+	<key>descriptionDelay</key>
+	<string>histogramLeft</string>
+	<key>draggableReduction</key>
+	<string>chooserDirection</string>
+	<key>exceptionSpeed</key>
+	<string>shouldDismissText</string>
+	<key>precisionwithoutvariable</key>
+	<string>backwardAxis</string>
+	<key>queuestatus</key>
+	<string>wrapperOrientation</string>
+	<key>shouldTrainCard</key>
+	<string>clipTransformer</string>
+	<key>shouldValidateConvolution</key>
+	<string>fusedEntropy</string>
+	<key>soundStyle</key>
+	<string>resolverInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralreliability</key>
+	<string>textfieldPadding</string>
+	<key>hashShade</key>
+	<string>subtleChannel</string>
+	<key>heaporigin</key>
+	<string>synchronousAwait</string>
+	<key>lazyGroup</key>
+	<string>touchNode</string>
+	<key>localizationDepth</key>
+	<string>metricsFlags</string>
+	<key>shouldRestartSpecifier</key>
+	<string>gesturedetectorFramework</string>
+	<key>shouldTrainScaffold</key>
+	<string>notificationKind</string>
+	<key>timerpermutation</key>
+	<string>contrastOrientation</string>
+	<key>trajectoryDepth</key>
+	<string>dependencyMode</string>
+</dict>
+</plist>

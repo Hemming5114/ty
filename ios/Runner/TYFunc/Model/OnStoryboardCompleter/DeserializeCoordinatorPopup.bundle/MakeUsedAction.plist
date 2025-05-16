@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionjobforce</key>
+	<string>usecaseperlevel</string>
+	<key>activecell</key>
+	<string>statelessAllocator</string>
+	<key>mixincube</key>
+	<string>obtainLayout</string>
+	<key>offsetskewx</key>
+	<string>heapDecorator</string>
+	<key>replicaStyle</key>
+	<string>concurrentCluster</string>
+	<key>resolverduringsingleton</key>
+	<string>durationPressure</string>
+	<key>shouldPauseCupertino</key>
+	<string>shouldPresentExponent</string>
+	<key>shouldPushPageView</key>
+	<string>renameTween</string>
+	<key>smartshader</key>
+	<string>handleMenu</string>
+	<key>sustainableStateless</key>
+	<string>particleSpacing</string>
+</dict>
+</plist>

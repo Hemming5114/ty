@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturereceiver</key>
+	<string>pivotalScheduler</string>
+	<key>coordinatorvisibility</key>
+	<string>originalrect</string>
+	<key>dimensionSaturation</key>
+	<string>ignoredRemainder</string>
+	<key>linkerKind</key>
+	<string>localResponse</string>
+	<key>mainProtocol</key>
+	<string>metadatajobdensity</string>
+	<key>referenceerror</key>
+	<string>blocMomentum</string>
+	<key>shouldResumeMovement</key>
+	<string>canSubscribeSymbol</string>
+	<key>shouldbuildequalization</key>
+	<string>shouldEmitText</string>
+</dict>
+</plist>

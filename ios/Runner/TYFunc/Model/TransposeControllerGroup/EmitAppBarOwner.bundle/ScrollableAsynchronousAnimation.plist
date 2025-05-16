@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionbutton</key>
+	<string>labeltop</string>
+	<key>cosinesubscription</key>
+	<string>liteGradient</string>
+	<key>crucialalert</key>
+	<string>clipperresponse</string>
+	<key>declarativeroute</key>
+	<string>quantizationPreview</string>
+	<key>opaqueCallback</key>
+	<string>unmountedGate</string>
+</dict>
+</plist>

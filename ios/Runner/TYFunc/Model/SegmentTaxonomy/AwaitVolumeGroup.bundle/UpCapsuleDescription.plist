@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGrid</key>
+	<string>skirtHue</string>
+	<key>animatedExtension</key>
+	<string>aspectName</string>
+	<key>autoChannel</key>
+	<string>rebuildSegue</string>
+	<key>cacherotation</key>
+	<string>cartesiannotation</string>
+	<key>catalystascent</key>
+	<string>serviceName</string>
+	<key>embedframe</key>
+	<string>bundleTween</string>
+	<key>multigatestate</key>
+	<string>concurrentListener</string>
+</dict>
+</plist>

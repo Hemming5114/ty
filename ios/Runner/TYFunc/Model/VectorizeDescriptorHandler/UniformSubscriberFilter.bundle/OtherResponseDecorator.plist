@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScreen</key>
+	<string>comprehensivegrayscale</string>
+	<key>appbardelay</key>
+	<string>resumelabel</string>
+	<key>heapmanager</key>
+	<string>hasNorm</string>
+	<key>optimizewidget</key>
+	<string>shouldTrainClipper</string>
+	<key>resourcelikevar</key>
+	<string>directGrid</string>
+	<key>shouldYieldAnimation</key>
+	<string>popImage</string>
+	<key>standaloneService</key>
+	<string>declarativeChapter</string>
+	<key>tablefrequency</key>
+	<string>cacheChecklist</string>
+</dict>
+</plist>

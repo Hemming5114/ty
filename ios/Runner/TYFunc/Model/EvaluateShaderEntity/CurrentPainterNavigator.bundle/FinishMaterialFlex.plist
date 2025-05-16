@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachtabbar</key>
+	<string>canPrepareLabel</string>
+	<key>beginnerSwitch</key>
+	<string>accessibleModule</string>
+	<key>concurrentNavigator</key>
+	<string>hasPositioned</string>
+	<key>prepareaction</key>
+	<string>gridviewValidation</string>
+	<key>refreshbrush</key>
+	<string>characteristicOffset</string>
+	<key>scrollableniblocation</key>
+	<string>refactorcollection</string>
+	<key>shouldPresentMember</key>
+	<string>prismaticPager</string>
+</dict>
+</plist>

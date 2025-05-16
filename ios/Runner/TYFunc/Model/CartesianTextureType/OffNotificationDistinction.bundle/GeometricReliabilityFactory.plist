@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayabledispatcher</key>
+	<string>priorLog</string>
+	<key>fusedReplica</key>
+	<string>defaultGift</string>
+	<key>immediateLayout</key>
+	<string>canDisposeTabBar</string>
+	<key>layoutcolor</key>
+	<string>alphaInterpreter</string>
+	<key>pivotalBitrate</key>
+	<string>computeChannel</string>
+	<key>positionedLeft</key>
+	<string>canPresentThread</string>
+	<key>sharedOffset</key>
+	<string>protocolOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuration</key>
+	<string>shouldTransitionCursor</string>
+	<key>batchflyweightspacing</key>
+	<string>interactiveaction</string>
+	<key>denseDistinction</key>
+	<string>taskBuffer</string>
+	<key>globalPresenter</key>
+	<string>explicitSymbol</string>
+	<key>numericalContainer</key>
+	<string>canEmitSwift</string>
+	<key>opaqueSplitter</key>
+	<string>alertsaturation</string>
+	<key>resourcepresenter</key>
+	<string>disparateController</string>
+	<key>responsiveMap</key>
+	<string>canTransformPrecision</string>
+	<key>smartSemantics</key>
+	<string>decorationResponse</string>
+</dict>
+</plist>

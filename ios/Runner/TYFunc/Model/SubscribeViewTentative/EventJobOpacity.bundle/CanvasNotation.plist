@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationCenter</key>
+	<string>shouldDisposeSpine</string>
+	<key>flexibleRemainder</key>
+	<string>rectangleLocation</string>
+	<key>shouldCancelModal</key>
+	<string>gemFlyweight</string>
+	<key>storageVisibility</key>
+	<string>largeIsolate</string>
+</dict>
+</plist>

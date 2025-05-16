@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachmenu</key>
+	<string>difficultDelegate</string>
+	<key>directlycubeposition</key>
+	<string>petandkind</string>
+	<key>finishchart</key>
+	<string>containerwithoutprocess</string>
+	<key>geometricGraph</key>
+	<string>dynamicMedia</string>
+	<key>hasSpecifier</key>
+	<string>canEndSegment</string>
+	<key>isolateRate</key>
+	<string>sequentialcosinestate</string>
+	<key>menuoutsidesingleton</key>
+	<string>bindObserver</string>
+</dict>
+</plist>

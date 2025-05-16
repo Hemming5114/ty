@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAction</key>
+	<string>mediocreInkWell</string>
+	<key>associatebase</key>
+	<string>customFlex</string>
+	<key>easyImpression</key>
+	<string>pivotalNotifier</string>
+	<key>functionalgrainbehavior</key>
+	<string>composableLocalization</string>
+	<key>hierarchicalProject</key>
+	<string>makeModel</string>
+	<key>integrityValidation</key>
+	<string>shouldBuildRichText</string>
+	<key>objecttype</key>
+	<string>pendingNavigation</string>
+	<key>subtlealignment</key>
+	<string>globalchannels</string>
+</dict>
+</plist>

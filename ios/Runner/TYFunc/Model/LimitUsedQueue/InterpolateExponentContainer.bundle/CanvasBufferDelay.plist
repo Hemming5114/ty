@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBorder</key>
+	<string>unscheduleConstraint</string>
+	<key>customSpot</key>
+	<string>canRestartSensor</string>
+	<key>easyTween</key>
+	<string>enumerateResult</string>
+	<key>errorinteraction</key>
+	<string>resolverDistance</string>
+	<key>lifecycleFeedback</key>
+	<string>lastConstraint</string>
+	<key>sequentialReduction</key>
+	<string>tabbarValue</string>
+	<key>shouldPresentSkirt</key>
+	<string>finishmodulus</string>
+	<key>webfactorylocation</key>
+	<string>numericalTransformer</string>
+</dict>
+</plist>

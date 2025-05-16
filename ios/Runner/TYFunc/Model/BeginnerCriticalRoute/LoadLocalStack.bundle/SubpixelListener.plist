@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEvaluation</key>
+	<string>canStreamDropdownButton</string>
+	<key>flexibleFinder</key>
+	<string>canCacheTouch</string>
+	<key>hasReduction</key>
+	<string>reduceTexture</string>
+	<key>primaryMomentum</key>
+	<string>limitAwait</string>
+	<key>prismaticObject</key>
+	<string>normalInterpolation</string>
+	<key>rapidResponse</key>
+	<string>cancelGem</string>
+	<key>sinkStatus</key>
+	<string>emitlocalization</string>
+	<key>usedIntegrity</key>
+	<string>canObserveModal</string>
+</dict>
+</plist>

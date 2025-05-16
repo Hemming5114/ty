@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityRotation</key>
+	<string>disconnectnavigator</string>
+	<key>dispatcheroffset</key>
+	<string>themeBound</string>
+	<key>easyOption</key>
+	<string>textAcceleration</string>
+	<key>hyperbolicIcon</key>
+	<string>canSkipProvider</string>
+	<key>progressbarValidation</key>
+	<string>timerAppearance</string>
+	<key>shouldRebuildTool</key>
+	<string>respondTransformer</string>
+	<key>shouldsavealert</key>
+	<string>routeContext</string>
+</dict>
+</plist>

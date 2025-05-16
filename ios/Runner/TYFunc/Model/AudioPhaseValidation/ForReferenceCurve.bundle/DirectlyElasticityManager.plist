@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardduration</key>
+	<string>stopSubpixel</string>
+	<key>benchmarkstateless</key>
+	<string>subpixelfeedback</string>
+	<key>crucialEquivalent</key>
+	<string>scrollVar</string>
+	<key>greatLayer</key>
+	<string>ignoredCell</string>
+	<key>mutableConstraint</key>
+	<string>temporaryDescription</string>
+	<key>sophisticatedMomentum</key>
+	<string>informationDelay</string>
+	<key>substantialGrain</key>
+	<string>boxshadowCommand</string>
+</dict>
+</plist>

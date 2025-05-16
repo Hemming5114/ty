@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalOperation</key>
+	<string>statefulShade</string>
+	<key>gateanimation</key>
+	<string>asyncalonginterpreter</string>
+	<key>occasionInset</key>
+	<string>canEncodeFragment</string>
+	<key>opaqueSpot</key>
+	<string>canRenderDecoration</string>
+	<key>reactiveArchitecture</key>
+	<string>canSerializeWorkflow</string>
+	<key>shouldUnmountSign</key>
+	<string>rangeOrientation</string>
+	<key>textfielddepth</key>
+	<string>subtleMovement</string>
+</dict>
+</plist>

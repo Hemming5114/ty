@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedgridview</key>
+	<string>expandedBottom</string>
+	<key>convertobserver</key>
+	<string>mobileSpecifier</string>
+	<key>flexibleBrush</key>
+	<string>differentiateGroup</string>
+	<key>hyperbolicBullet</key>
+	<string>descriptorreplica</string>
+	<key>immutableEquipment</key>
+	<string>constraintinlayer</string>
+	<key>propagatesemantics</key>
+	<string>borderagainstvalue</string>
+</dict>
+</plist>

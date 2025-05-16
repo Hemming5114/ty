@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedchallengename</key>
+	<string>projectionreducer</string>
+	<key>comprehensiveConfiguration</key>
+	<string>disconnectLoss</string>
+	<key>cupertinoContrast</key>
+	<string>shouldDisconnectHeap</string>
+	<key>shouldFetchTextField</key>
+	<string>allocatorAppearance</string>
+	<key>shouldSaveMonster</key>
+	<string>similarBehavior</string>
+	<key>visibleInkWell</key>
+	<string>activescene</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviormetadata</key>
+	<string>denseModel</string>
+	<key>easyStack</key>
+	<string>requiredScreen</string>
+	<key>intuitiveSizedBox</key>
+	<string>iterativeAnchor</string>
+	<key>reusableMechanism</key>
+	<string>shouldRouteStep</string>
+	<key>sharedPromise</key>
+	<string>agileRole</string>
+	<key>shouldInflateTangent</key>
+	<string>offsetHue</string>
+	<key>shouldpersistreduction</key>
+	<string>processorValidation</string>
+	<key>visibleTitle</key>
+	<string>appbarDuration</string>
+</dict>
+</plist>

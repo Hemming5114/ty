@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAsync</key>
+	<string>serializeRadius</string>
+	<key>gesturedetectorfuture</key>
+	<string>encodeRemainder</string>
+	<key>integrationbehavior</key>
+	<string>dropoutDelegate</string>
+	<key>remainderbufferspeed</key>
+	<string>sequentialmodel</string>
+	<key>rowDepth</key>
+	<string>repositorysize</string>
+	<key>shouldConnectGridView</key>
+	<string>shaderRate</string>
+	<key>statefulTitle</key>
+	<string>listenConstraint</string>
+</dict>
+</plist>

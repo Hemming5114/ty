@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateutil</key>
+	<string>clipBuffer</string>
+	<key>collectionSize</key>
+	<string>cycleTransparency</string>
+	<key>normdescription</key>
+	<string>mobileInteger</string>
+	<key>resilienceOpacity</key>
+	<string>shouldPauseBullet</string>
+	<key>sinkstate</key>
+	<string>dynamicstampdistance</string>
+	<key>strokeSkewX</key>
+	<string>unscheduleConstraint</string>
+</dict>
+</plist>

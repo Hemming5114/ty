@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropySize</key>
+	<string>gridTemple</string>
+	<key>inheritedLoop</key>
+	<string>builderSingleton</string>
+	<key>paralleldescription</key>
+	<string>regulateContainer</string>
+	<key>positionprototypefeedback</key>
+	<string>shouldTransitionEffect</string>
+	<key>shouldInflateBinary</key>
+	<string>prevUseCase</string>
+	<key>typicalModel</key>
+	<string>intermediateRadius</string>
+</dict>
+</plist>

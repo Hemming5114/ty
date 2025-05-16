@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachedispatcher</key>
+	<string>mediumboxshape</string>
+	<key>permanentFeature</key>
+	<string>descentBottom</string>
+	<key>publicElement</key>
+	<string>adaptiveNavigation</string>
+	<key>reactiveModel</key>
+	<string>stackContrast</string>
+	<key>resetflex</key>
+	<string>queueCoord</string>
+	<key>specifyalphascale</key>
+	<string>prismaticProvision</string>
+</dict>
+</plist>

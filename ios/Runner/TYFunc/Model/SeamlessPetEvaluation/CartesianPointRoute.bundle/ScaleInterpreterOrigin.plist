@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionfromstage</key>
+	<string>streamColor</string>
+	<key>flexSize</key>
+	<string>shouldListenCatalyst</string>
+	<key>nextInteractor</key>
+	<string>movementScope</string>
+	<key>nextUseCase</key>
+	<string>shouldInflateStream</string>
+	<key>paddingSpacing</key>
+	<string>thresholdDistance</string>
+	<key>primarygatemargin</key>
+	<string>consultativesizedbox</string>
+	<key>robustCompletion</key>
+	<string>pageviewdistance</string>
+	<key>shouldRestartContraction</key>
+	<string>startactivity</string>
+	<key>signpercontext</key>
+	<string>columnselector</string>
+</dict>
+</plist>

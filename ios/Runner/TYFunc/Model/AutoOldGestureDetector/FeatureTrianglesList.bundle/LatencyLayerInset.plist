@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuebloc</key>
+	<string>canNavigateNotification</string>
+	<key>currentplayback</key>
+	<string>capsuleradius</string>
+	<key>managerOrientation</key>
+	<string>canPersistRemainder</string>
+	<key>missioncallback</key>
+	<string>boxFacade</string>
+	<key>occasiontop</key>
+	<string>shouldValidateCache</string>
+	<key>shouldDetachCosine</key>
+	<string>apertureDensity</string>
+	<key>shouldRenderAlert</key>
+	<string>emitterName</string>
+	<key>textureadapterorigin</key>
+	<string>secondProcessor</string>
+	<key>viewSkewY</key>
+	<string>replacePrecision</string>
+</dict>
+</plist>

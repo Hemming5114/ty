@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedEvent</key>
+	<string>handlespecifier</string>
+	<key>granularDropdownButton</key>
+	<string>deferredsink</string>
+	<key>lazyCollection</key>
+	<string>fetchscene</string>
+	<key>mainThread</key>
+	<string>publicAscent</string>
+	<key>managersensor</key>
+	<string>constraintCount</string>
+	<key>responsiveentity</key>
+	<string>oncycletap</string>
+	<key>sequentialTransition</key>
+	<string>shouldShowStateful</string>
+	<key>shouldPauseSensor</key>
+	<string>directController</string>
+	<key>sustainableStore</key>
+	<string>metricsValidation</string>
+</dict>
+</plist>

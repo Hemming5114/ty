@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInfrastructure</key>
+	<string>allocatorRotation</string>
+	<key>colorType</key>
+	<string>measureResponse</string>
+	<key>keySemantics</key>
+	<string>replacePosition</string>
+	<key>unmountedsubpixel</key>
+	<string>mapperFeedback</string>
+</dict>
+</plist>

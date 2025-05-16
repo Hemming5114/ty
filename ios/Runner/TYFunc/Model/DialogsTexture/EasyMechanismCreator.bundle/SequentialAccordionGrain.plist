@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMapper</key>
+	<string>localReduction</string>
+	<key>delicateEvolution</key>
+	<string>remediationSkewY</string>
+	<key>handlegesture</key>
+	<string>subscribeoverlay</string>
+	<key>hardSlider</key>
+	<string>lastPositioned</string>
+	<key>histogramframeworkbound</key>
+	<string>originalEfficiency</string>
+	<key>iterativeTopic</key>
+	<string>shouldlistenmovement</string>
+	<key>shouldYieldBaseline</key>
+	<string>adjustNode</string>
+	<key>statefulgestureflags</key>
+	<string>propagateInteractor</string>
+	<key>volumeRotation</key>
+	<string>widgetStage</string>
+</dict>
+</plist>

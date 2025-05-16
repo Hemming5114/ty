@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustmenu</key>
+	<string>refreshInteractor</string>
+	<key>consultativeDropdownButton</key>
+	<string>setupChapter</string>
+	<key>greatComposition</key>
+	<string>cacheSaturation</string>
+	<key>kernelMargin</key>
+	<string>singleAwait</string>
+	<key>optionright</key>
+	<string>inactiveSkirt</string>
+	<key>resilienceFlags</key>
+	<string>eagerLayout</string>
+	<key>toleranceSkewY</key>
+	<string>responseNumber</string>
+</dict>
+</plist>

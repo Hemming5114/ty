@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitamortization</key>
+	<string>shouldUpdateEffect</string>
+	<key>oldEquipment</key>
+	<string>maxHeap</string>
+	<key>typicalChannels</key>
+	<string>disabledinkwell</string>
+	<key>visibleTransformer</key>
+	<string>scrollableelement</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteRect</key>
+	<string>yieldSlider</string>
+	<key>denseBinary</key>
+	<string>videoResponse</string>
+	<key>elasticCharacteristic</key>
+	<string>shouldEndPoint</string>
+	<key>protectedgraphtension</key>
+	<string>trianglesStatus</string>
+	<key>queueSpeed</key>
+	<string>streamlineMenu</string>
+	<key>shouldCacheBatch</key>
+	<string>shouldPresentTool</string>
+	<key>shouldCreateRow</key>
+	<string>apertureActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFlex</key>
+	<string>aggregateInjection</string>
+	<key>associatedMetrics</key>
+	<string>shouldBindDialogs</string>
+	<key>eventspacing</key>
+	<string>sensorPlatform</string>
+	<key>nibDelay</key>
+	<string>relationalBuilder</string>
+	<key>shouldPrepareSegue</key>
+	<string>sizedboxActivity</string>
+	<key>shouldUnmountedSpine</key>
+	<string>sharedScale</string>
+	<key>streambeyondstate</key>
+	<string>embedInteractor</string>
+</dict>
+</plist>

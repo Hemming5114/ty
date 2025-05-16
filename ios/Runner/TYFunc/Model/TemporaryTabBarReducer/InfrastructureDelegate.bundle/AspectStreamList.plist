@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertcreator</key>
+	<string>locktopic</string>
+	<key>beginnerDialogs</key>
+	<string>specifierBehavior</string>
+	<key>channelsmenu</key>
+	<string>benchmarkinterpolation</string>
+	<key>cupertinoCompletion</key>
+	<string>publicfinder</string>
+	<key>fusedExtension</key>
+	<string>showCupertino</string>
+	<key>immediateResilience</key>
+	<string>smartCubit</string>
+	<key>mutableSign</key>
+	<string>toleranceEdge</string>
+	<key>painterposition</key>
+	<string>interpolationpager</string>
+	<key>titletransformer</key>
+	<string>screenPlatform</string>
+</dict>
+</plist>

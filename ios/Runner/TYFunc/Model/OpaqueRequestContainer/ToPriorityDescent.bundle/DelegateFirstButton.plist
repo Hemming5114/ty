@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderprototypeskewy</key>
+	<string>grayscalecompleter</string>
+	<key>entityTop</key>
+	<string>alphacontroller</string>
+	<key>largeGroup</key>
+	<string>baselineSpacing</string>
+	<key>sharedVariant</key>
+	<string>textProxy</string>
+	<key>shouldRouteDialogs</key>
+	<string>specifierChain</string>
+	<key>tensorLinker</key>
+	<string>logarithmPosition</string>
+	<key>validatelayer</key>
+	<string>allocateStorage</string>
+</dict>
+</plist>

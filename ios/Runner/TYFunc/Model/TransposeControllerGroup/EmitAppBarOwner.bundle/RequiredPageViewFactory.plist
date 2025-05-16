@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterHead</key>
+	<string>shouldSubscribeActivity</string>
+	<key>dataTint</key>
+	<string>firstNorm</string>
+	<key>displayableComposition</key>
+	<string>deferredPoint</string>
+	<key>globalShape</key>
+	<string>switchcolor</string>
+	<key>offsetFeedback</key>
+	<string>taskShade</string>
+	<key>oldRichText</key>
+	<string>ismediaquery</string>
+	<key>shouldEmitAxis</key>
+	<string>operationscene</string>
+</dict>
+</plist>

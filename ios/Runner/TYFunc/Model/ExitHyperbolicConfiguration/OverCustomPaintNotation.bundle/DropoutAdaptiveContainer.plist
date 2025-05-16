@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartcontainfunction</key>
+	<string>delicateLoop</string>
+	<key>chooserScale</key>
+	<string>observersound</string>
+	<key>containermode</key>
+	<string>containerVisible</string>
+	<key>interpolationdelay</key>
+	<string>numericalInteractor</string>
+	<key>offsetgraph</key>
+	<string>mediumTechnique</string>
+	<key>selectedMediaQuery</key>
+	<string>subtleSegment</string>
+	<key>shouldTrainChallenge</key>
+	<string>emitrequest</string>
+</dict>
+</plist>

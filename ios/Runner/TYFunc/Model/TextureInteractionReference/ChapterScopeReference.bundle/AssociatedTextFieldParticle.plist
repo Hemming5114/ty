@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretefuturetop</key>
+	<string>restrictionShape</string>
+	<key>desktopColumn</key>
+	<string>renamePopup</string>
+	<key>finishparticle</key>
+	<string>contrastMode</string>
+	<key>granularMaterial</key>
+	<string>resizableAnchor</string>
+	<key>greatActivity</key>
+	<string>mobileShade</string>
+	<key>modulusticker</key>
+	<string>pinchableTopic</string>
+	<key>shouldPaintPageView</key>
+	<string>lifecycleLeft</string>
+</dict>
+</plist>

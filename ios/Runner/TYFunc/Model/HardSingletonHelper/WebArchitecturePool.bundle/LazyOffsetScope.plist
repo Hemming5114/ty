@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerConnector</key>
+	<string>playbackSize</string>
+	<key>graphicOrientation</key>
+	<string>shouldpresentskirt</string>
+	<key>mediocreMaterial</key>
+	<string>builderEdge</string>
+	<key>mutableOption</key>
+	<string>canUnmountCollection</string>
+	<key>scalabilityLocation</key>
+	<string>textureTint</string>
+	<key>shouldProcessTextField</key>
+	<string>capsuleFormat</string>
+	<key>uniquehash</key>
+	<string>mobileStatus</string>
+</dict>
+</plist>

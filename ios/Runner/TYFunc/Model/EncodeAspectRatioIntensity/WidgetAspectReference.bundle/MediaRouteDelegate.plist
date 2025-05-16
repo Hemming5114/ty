@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorphaserate</key>
+	<string>cancelInkWell</string>
+	<key>gifteffect</key>
+	<string>inactiveDispatcher</string>
+	<key>inheritedlistener</key>
+	<string>easytrigger</string>
+	<key>integrationOpacity</key>
+	<string>batchleft</string>
+	<key>metricsoffset</key>
+	<string>retainCubit</string>
+	<key>reductionbound</key>
+	<string>boxshadowTint</string>
+	<key>sequentialNib</key>
+	<string>dialogsfromvariable</string>
+</dict>
+</plist>

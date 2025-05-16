@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperPosition</key>
+	<string>shouldBuildScreen</string>
+	<key>discardedimage</key>
+	<string>otherStep</string>
+	<key>durationTint</key>
+	<string>shouldpreparestateless</string>
+	<key>fusedchallenge</key>
+	<string>debugQueue</string>
+	<key>isHero</key>
+	<string>modelresponder</string>
+	<key>joinerValidation</key>
+	<string>minTool</string>
+	<key>originalHero</key>
+	<string>componentTop</string>
+	<key>seektransition</key>
+	<string>crucialAnchor</string>
+</dict>
+</plist>

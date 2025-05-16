@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchcolor</key>
+	<string>shouldmountedimage</string>
+	<key>firstComposition</key>
+	<string>autoComposition</string>
+	<key>modaltail</key>
+	<string>skipMap</string>
+	<key>modelshapecoord</key>
+	<string>transformerLevel</string>
+	<key>presentconvolution</key>
+	<string>staticState</string>
+	<key>sharedGesture</key>
+	<string>sequentialDelegate</string>
+	<key>shouldAttachProvider</key>
+	<string>parallelcompleter</string>
+	<key>shouldAttachSign</key>
+	<string>composableJoiner</string>
+	<key>shouldSkipExtension</key>
+	<string>smartTraversal</string>
+	<key>sophisticatedConsumer</key>
+	<string>interactiveChannel</string>
+</dict>
+</plist>

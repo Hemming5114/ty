@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSink</key>
+	<string>canCreateStream</string>
+	<key>converterbottom</key>
+	<string>staticInteraction</string>
+	<key>displayableTolerance</key>
+	<string>stampBottom</string>
+	<key>diversifiedNavigation</key>
+	<string>connectListView</string>
+	<key>momentumSize</key>
+	<string>animationAction</string>
+	<key>resourceperlevel</key>
+	<string>queueorientation</string>
+	<key>shouldEmitGem</key>
+	<string>keepInkWell</string>
+	<key>shouldpaintcatalyst</key>
+	<string>syncAwait</string>
+</dict>
+</plist>

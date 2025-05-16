@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCharacter</key>
+	<string>completionProxy</string>
+	<key>directAlignment</key>
+	<string>cancelCollection</string>
+	<key>integrityType</key>
+	<string>canDeserializeTool</string>
+	<key>reactiveLinker</key>
+	<string>shouldDismissCaption</string>
+	<key>resultBorder</key>
+	<string>vectorOpacity</string>
+	<key>shouldNotifyAspectRatio</key>
+	<string>canCancelAnimation</string>
+	<key>shouldSubscribeGraphic</key>
+	<string>encodesample</string>
+	<key>signatureName</key>
+	<string>schedulerskewy</string>
+	<key>tangentCount</key>
+	<string>dynamicRoute</string>
+</dict>
+</plist>

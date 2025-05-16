@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbaratlevel</key>
+	<string>endComposition</string>
+	<key>blocoflevel</key>
+	<string>playscale</string>
+	<key>bulletactivitymomentum</key>
+	<string>shouldPopDimension</string>
+	<key>chooserCount</key>
+	<string>requestRepository</string>
+	<key>scaffolddecoration</key>
+	<string>tensorRepository</string>
+	<key>substantialconfigurationtheme</key>
+	<string>desktopStateful</string>
+	<key>timerbehavior</key>
+	<string>intensityagainstsingleton</string>
+</dict>
+</plist>

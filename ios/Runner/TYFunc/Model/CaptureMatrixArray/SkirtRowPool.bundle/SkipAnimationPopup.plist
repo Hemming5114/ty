@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryCount</key>
+	<string>disclaimerVelocity</string>
+	<key>activityFlags</key>
+	<string>blocprogressbar</string>
+	<key>difficultRect</key>
+	<string>routeNavigation</string>
+	<key>fixedFrame</key>
+	<string>layoutParameter</string>
+	<key>flexibleTimeline</key>
+	<string>radiusParameter</string>
+	<key>lastArchitecture</key>
+	<string>retainedTabBar</string>
+	<key>publishrequest</key>
+	<string>clipperSize</string>
+	<key>rectBrightness</key>
+	<string>multiplicationOrientation</string>
+	<key>shouldTransitionChecklist</key>
+	<string>nodeStage</string>
+</dict>
+</plist>

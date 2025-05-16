@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthOrigin</key>
+	<string>responseInteraction</string>
+	<key>histogramPadding</key>
+	<string>permissiveasync</string>
+	<key>immediateSign</key>
+	<string>independentCollection</string>
+	<key>liteText</key>
+	<string>callbackPrototype</string>
+	<key>nativeOffset</key>
+	<string>allocateTransformer</string>
+	<key>persistentSymbol</key>
+	<string>replaceColumn</string>
+	<key>segmentBound</key>
+	<string>inactiveInteger</string>
+	<key>semanticTangent</key>
+	<string>shouldSaveCupertino</string>
+	<key>signAppearance</key>
+	<string>toleranceLocation</string>
+</dict>
+</plist>

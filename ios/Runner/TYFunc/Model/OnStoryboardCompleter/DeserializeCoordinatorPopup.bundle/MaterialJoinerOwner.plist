@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentchainbrightness</key>
+	<string>particlekind</string>
+	<key>permanentTable</key>
+	<string>scrollableContainer</string>
+	<key>petcontroller</key>
+	<string>keyChannel</string>
+	<key>semantictimer</key>
+	<string>textfieldKind</string>
+	<key>shouldLoadCatalyst</key>
+	<string>shouldvalidatenotifier</string>
+	<key>shouldPauseImage</key>
+	<string>canPopCapsule</string>
+	<key>subpixelduringchain</key>
+	<string>monsterStructure</string>
+</dict>
+</plist>

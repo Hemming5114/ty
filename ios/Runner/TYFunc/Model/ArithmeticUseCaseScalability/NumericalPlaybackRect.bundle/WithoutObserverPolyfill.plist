@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseThroughput</key>
+	<string>checkboxTop</string>
+	<key>moduleDepth</key>
+	<string>baselineRotation</string>
+	<key>shouldObserveMovement</key>
+	<string>canFinishSegment</string>
+	<key>shouldTransitionRow</key>
+	<string>fusedStateless</string>
+	<key>variantShade</key>
+	<string>reductionDirection</string>
+</dict>
+</plist>

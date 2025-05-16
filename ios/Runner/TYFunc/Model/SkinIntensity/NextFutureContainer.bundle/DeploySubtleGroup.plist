@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnecttask</key>
+	<string>subscribeMobile</string>
+	<key>immediatecontraction</key>
+	<string>uniqueNotification</string>
+	<key>lastThread</key>
+	<string>animationtriangles</string>
+	<key>navigatorOrientation</key>
+	<string>canTransitionStream</string>
+	<key>reusableShape</key>
+	<string>movementColor</string>
+	<key>streambinary</key>
+	<string>notifyCell</string>
+</dict>
+</plist>

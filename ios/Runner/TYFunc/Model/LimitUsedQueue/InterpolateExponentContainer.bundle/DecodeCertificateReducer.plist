@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableProject</key>
+	<string>continueDialogs</string>
+	<key>equipmentincludestage</key>
+	<string>tappableMapper</string>
+	<key>quittransformer</key>
+	<string>playObserver</string>
+	<key>resilientCurve</key>
+	<string>bindPositioned</string>
+	<key>shouldDispatchObserver</key>
+	<string>clearSprite</string>
+	<key>shouldKeepGradient</key>
+	<string>normalInfrastructure</string>
+	<key>shouldValidateTool</key>
+	<string>pivotalgateleft</string>
+	<key>smartService</key>
+	<string>prevTopic</string>
+	<key>variantscoperight</key>
+	<string>indicatorschema</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFlags</key>
+	<string>canEmitGridView</string>
+	<key>gridkinddensity</key>
+	<string>methodMediator</string>
+	<key>hasTouch</key>
+	<string>canvasStrategy</string>
+	<key>hastable</key>
+	<string>shouldEndButton</string>
+	<key>resourcenearsingleton</key>
+	<string>shouldreplaceequalization</string>
+	<key>shouldEncodeNotifier</key>
+	<string>singletonorstructure</string>
+	<key>shouldReplacePlayback</key>
+	<string>publishPositioned</string>
+	<key>strokeType</key>
+	<string>activeScene</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTexture</key>
+	<string>imageviacycle</string>
+	<key>durationshader</key>
+	<string>encodeInterpolation</string>
+	<key>globalTimer</key>
+	<string>shouldAttachMobile</string>
+	<key>herograph</key>
+	<string>largeTechnique</string>
+	<key>localAmortization</key>
+	<string>addInterface</string>
+	<key>lossVisible</key>
+	<string>tweakKind</string>
+	<key>respectivefactorybrightness</key>
+	<string>composableTechnique</string>
+	<key>shouldMountedSlash</key>
+	<string>completedExtension</string>
+	<key>shouldstopmaster</key>
+	<string>ephemeralAsync</string>
+</dict>
+</plist>

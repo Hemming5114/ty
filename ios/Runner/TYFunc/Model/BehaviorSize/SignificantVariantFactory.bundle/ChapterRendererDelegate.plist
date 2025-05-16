@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMerger</key>
+	<string>smallconsumption</string>
+	<key>isButton</key>
+	<string>shouldUnmountPromise</string>
+	<key>scrollableAnimation</key>
+	<string>shouldReplaceCatalyst</string>
+	<key>shouldDismissController</key>
+	<string>mountListView</string>
+	<key>sizeintegrity</key>
+	<string>allocatorFormat</string>
+	<key>spriteMargin</key>
+	<string>mobileState</string>
+	<key>temporaryAction</key>
+	<string>subscriptionScope</string>
+</dict>
+</plist>

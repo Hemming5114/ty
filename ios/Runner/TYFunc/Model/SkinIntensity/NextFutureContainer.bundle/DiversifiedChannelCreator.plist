@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTechnique</key>
+	<string>newestPicker</string>
+	<key>commonChooser</key>
+	<string>intuitiveStore</string>
+	<key>declarativeButton</key>
+	<string>nextRequest</string>
+	<key>deferredsignmode</key>
+	<string>navigateHistogram</string>
+	<key>dynamicMatrix</key>
+	<string>crucialMapper</string>
+	<key>primaryException</key>
+	<string>agileDetector</string>
+	<key>shouldDisconnectPlate</key>
+	<string>scrollableIsolate</string>
+</dict>
+</plist>

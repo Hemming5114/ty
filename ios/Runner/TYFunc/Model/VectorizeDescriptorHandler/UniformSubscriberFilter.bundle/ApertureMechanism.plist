@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseselector</key>
+	<string>cancelBatch</string>
+	<key>commonLayer</key>
+	<string>disposeSwitch</string>
+	<key>currentmatrix</key>
+	<string>denseTask</string>
+	<key>discardedBaseline</key>
+	<string>deferredCombiner</string>
+	<key>diversifiedslidertag</key>
+	<string>subsequentFuture</string>
+	<key>geometricTentative</key>
+	<string>desktopproviderpressure</string>
+	<key>iterativeBitrate</key>
+	<string>mechanismName</string>
+	<key>mendMomentum</key>
+	<string>ignoredAnimatedContainer</string>
+</dict>
+</plist>

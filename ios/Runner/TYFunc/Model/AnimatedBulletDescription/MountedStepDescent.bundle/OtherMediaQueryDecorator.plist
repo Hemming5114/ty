@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNib</key>
+	<string>clusterBorder</string>
+	<key>fusedTrajectory</key>
+	<string>connectMultiplication</string>
+	<key>grayscaledecoratorcount</key>
+	<string>themespacing</string>
+	<key>permanentTable</key>
+	<string>ongesturedetectortap</string>
+	<key>shouldloadcapacities</key>
+	<string>graphactionkind</string>
+	<key>signaturelinker</key>
+	<string>dedicatedTentative</string>
+	<key>synchronoussubscriber</key>
+	<string>crudeDelegate</string>
+	<key>unaryTag</key>
+	<string>handleEvent</string>
+</dict>
+</plist>

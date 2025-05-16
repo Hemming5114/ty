@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedscrolltag</key>
+	<string>evaluationDepth</string>
+	<key>permissiveThread</key>
+	<string>oldRouter</string>
+	<key>primaryoffset</key>
+	<string>largenotifier</string>
+	<key>rotatecharacter</key>
+	<string>symmetricAppBar</string>
+	<key>shouldtransformfragment</key>
+	<string>alphaProxy</string>
+</dict>
+</plist>

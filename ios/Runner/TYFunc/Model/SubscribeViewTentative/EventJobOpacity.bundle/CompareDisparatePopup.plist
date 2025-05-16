@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicmargin</key>
+	<string>canUnmountEffect</string>
+	<key>checkboxLocation</key>
+	<string>connectAlert</string>
+	<key>materialRestriction</key>
+	<string>renameState</string>
+	<key>operationTension</key>
+	<string>connectorBottom</string>
+	<key>parallelSpecifier</key>
+	<string>themeRotation</string>
+</dict>
+</plist>
