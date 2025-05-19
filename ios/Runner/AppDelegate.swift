@@ -17,10 +17,6 @@ class AppDelegate: FlutterAppDelegate {
         self.window?.backgroundColor = .white
         self.window?.makeKeyAndVisible()
         
-        let indexStr: Int = 1
-        
-        let indexStr1 = indexStr as! String
-        
         // 设置全局导航栏样式
         setupGlobalAppearance()
         // 设置键盘管理
