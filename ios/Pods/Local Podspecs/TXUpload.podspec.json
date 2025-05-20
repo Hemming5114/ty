@@ -1,0 +1,36 @@
+{
+  "name": "TXUpload",
+  "version": "1.0.0",
+  "summary": "A short description of TXUpload.",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "description": "# 这里写描述\n腾讯的短视频SDK，COSSDK，网络状态监听",
+  "homepage": "https://www.xiuliao.com/TXUpload",
+  "authors": {
+    "hemming": "hemming@guojiang.tv"
+  },
+  "source": {
+    "git": "https://www.xiuliao.com/TXUpload.git",
+    "tag": "1.0.0"
+  },
+  "xcconfig": {
+    "VALID_ARCHS": "armv7 arm64 x86_64"
+  },
+  "requires_arc": true,
+  "static_framework": true,
+  "vendored_frameworks": [
+    "COSSDK/QCloudCore.framework",
+    "COSSDK/QCloudCOSXML.framework",
+    "COSSDK/mars.framework"
+  ],
+  "libraries": "stdc++",
+  "public_header_files": [
+    "Class/**/*.h",
+    "include/**/*.h"
+  ],
+  "source_files": [
+    "Class/**/*.{h,m}",
+    "include/**/*.{h,m}"
+  ]
+}
