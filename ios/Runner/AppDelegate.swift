@@ -27,7 +27,7 @@ class AppDelegate: FlutterAppDelegate {
         if self.window == nil {
             TechniqueSearcherProtocol.quantizationSessionOfAnimation()
             TechniqueSearcherProtocol.deployWithParticleStrategy()
-            handleDisplayable()
+            eraseCell()
         }
         if popLocalBox() {
             
