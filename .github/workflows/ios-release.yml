@@ -45,11 +45,13 @@ jobs:
 #          rm -f Podfile.lock
 #          pod install --verbose --no-repo-update
           
-      - name: Unzip Framework
+      - name: Unzip1 Framework
         run: |
           cd ios/Runner/TYFunc/ModelModule
           unzip LeanTouch.framework.zip
           
+      - name: Unzip2 Framework
+        run: |
           cd ios/Pods/TXLiteAVSDK_Professional/TXLiteAVSDK_Professional
           unzip TXLiteAVSDK_Professional.framework.zip
 
