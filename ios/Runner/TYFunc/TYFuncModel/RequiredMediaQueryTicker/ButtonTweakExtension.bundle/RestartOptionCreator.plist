@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationcoord</key>
+	<string>advancedStrength</string>
+	<key>appbarmenu</key>
+	<string>subscribeOptimizer</string>
+	<key>borderpadding</key>
+	<string>globalWrapper</string>
+	<key>cartesianReference</key>
+	<string>tweenDelay</string>
+	<key>fusedProcessor</key>
+	<string>resizeticker</string>
+	<key>metadatakind</key>
+	<string>mediaacceleration</string>
+	<key>rapidGesture</key>
+	<string>denseRoute</string>
+	<key>shoulddismissrole</key>
+	<string>associatedStateful</string>
+</dict>
+</plist>

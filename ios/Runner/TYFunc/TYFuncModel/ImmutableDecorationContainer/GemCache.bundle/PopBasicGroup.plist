@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableStack</key>
+	<string>presentSpot</string>
+	<key>eagerpositioned</key>
+	<string>liteAudio</string>
+	<key>permissivecycle</key>
+	<string>awaitTransparency</string>
+	<key>subtleStateless</key>
+	<string>statelessMission</string>
+</dict>
+</plist>

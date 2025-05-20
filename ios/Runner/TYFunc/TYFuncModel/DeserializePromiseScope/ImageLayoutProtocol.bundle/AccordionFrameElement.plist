@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelresolver</key>
+	<string>aspectratioTask</string>
+	<key>destroycompletion</key>
+	<string>createGem</string>
+	<key>extensionresource</key>
+	<string>comprehensiveMesh</string>
+	<key>grainHue</key>
+	<string>shouldCacheMaster</string>
+	<key>lazyChooser</key>
+	<string>smartInterface</string>
+	<key>retainedConverter</key>
+	<string>missedAllocator</string>
+	<key>subtleRoute</key>
+	<string>configurationIndex</string>
+</dict>
+</plist>

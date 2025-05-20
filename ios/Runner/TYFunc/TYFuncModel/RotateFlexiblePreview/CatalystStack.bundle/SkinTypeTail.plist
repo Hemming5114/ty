@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTexture</key>
+	<string>mutablesplitter</string>
+	<key>easyCupertino</key>
+	<string>multiplyNavigator</string>
+	<key>granularTool</key>
+	<string>shouldObserveCube</string>
+	<key>hierarchicalAnimatedContainer</key>
+	<string>inheritedOptimizer</string>
+	<key>largeChapter</key>
+	<string>disabledArithmetic</string>
+	<key>presenterForce</key>
+	<string>localThreshold</string>
+	<key>shouldFormatMission</key>
+	<string>shouldDecodeShader</string>
+	<key>statelessForce</key>
+	<string>finishsubscription</string>
+	<key>statelessStoryboard</key>
+	<string>emitSize</string>
+</dict>
+</plist>

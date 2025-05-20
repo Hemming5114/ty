@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeHeap</key>
+	<string>multiOccasion</string>
+	<key>keyInjection</key>
+	<string>shouldRebuildCurve</string>
+	<key>onmultiplicationchanged</key>
+	<string>adaptiveAsset</string>
+	<key>rolearchitecture</key>
+	<string>evaluationName</string>
+	<key>rowOrientation</key>
+	<string>seamlessResponder</string>
+	<key>shouldHandleLogarithm</key>
+	<string>materialText</string>
+	<key>shouldHandleMaster</key>
+	<string>canUnbindNotification</string>
+</dict>
+</plist>

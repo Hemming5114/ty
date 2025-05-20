@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancednode</key>
+	<string>measureView</string>
+	<key>disclaimerTension</key>
+	<string>injectionBrightness</string>
+	<key>disconnectsubscription</key>
+	<string>fetchSkirt</string>
+	<key>inactiveOverlay</key>
+	<string>normFunction</string>
+	<key>otherAnimator</key>
+	<string>setstateMovement</string>
+	<key>resultvideo</key>
+	<string>sceneIndex</string>
+	<key>subsequentScale</key>
+	<string>playCoordinator</string>
+</dict>
+</plist>

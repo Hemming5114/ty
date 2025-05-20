@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedtweak</key>
+	<string>toolFrequency</string>
+	<key>chartopacity</key>
+	<string>crudeSwift</string>
+	<key>declarativeInjection</key>
+	<string>hardRequest</string>
+	<key>multiNavigation</key>
+	<string>canPrepareStep</string>
+	<key>prevCompleter</key>
+	<string>asynchronousHeap</string>
+	<key>synchronousAnalyzer</key>
+	<string>offsetbesideobserver</string>
+	<key>tickerstate</key>
+	<string>unbindcard</string>
+	<key>transitionslider</key>
+	<string>encodezone</string>
+</dict>
+</plist>

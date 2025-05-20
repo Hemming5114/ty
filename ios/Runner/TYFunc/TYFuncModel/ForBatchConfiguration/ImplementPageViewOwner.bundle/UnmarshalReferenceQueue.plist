@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttontension</key>
+	<string>canResumeObserver</string>
+	<key>defaultProvider</key>
+	<string>stringifyRadius</string>
+	<key>equipmentPressure</key>
+	<string>pageviewFacade</string>
+	<key>rapidNib</key>
+	<string>disparatetweensaturation</string>
+	<key>shouldEmitEntropy</key>
+	<string>subpixelvolume</string>
+</dict>
+</plist>

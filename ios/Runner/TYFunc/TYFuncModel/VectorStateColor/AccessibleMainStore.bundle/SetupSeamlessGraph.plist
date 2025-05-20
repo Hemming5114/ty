@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embracewidget</key>
+	<string>crudeAnimator</string>
+	<key>explicitArithmetic</key>
+	<string>shouldPrepareHistogram</string>
+	<key>polygonFrequency</key>
+	<string>fixedDescriptor</string>
+	<key>shouldAnimateModal</key>
+	<string>concurrentMember</string>
+</dict>
+</plist>

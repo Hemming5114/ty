@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerScope</key>
+	<string>strengthRight</string>
+	<key>imperativeUsage</key>
+	<string>signBehavior</string>
+	<key>independentTransformer</key>
+	<string>transitionlocation</string>
+	<key>layerValidation</key>
+	<string>processGrid</string>
+	<key>mainStack</key>
+	<string>revisittopic</string>
+	<key>radiusName</key>
+	<string>adaptiveNavigator</string>
+	<key>sizedescent</key>
+	<string>hyperbolicresourcehead</string>
+	<key>transitionbound</key>
+	<string>undertakeSingleton</string>
+	<key>workflowtension</key>
+	<string>persistView</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTweak</key>
+	<string>canReplaceDialogs</string>
+	<key>immutableAmortization</key>
+	<string>disconnectlistview</string>
+	<key>independentOffset</key>
+	<string>reusableDimension</string>
+	<key>loopflyweightpressure</key>
+	<string>canRestartLayout</string>
+	<key>mainallocator</key>
+	<string>parsealert</string>
+	<key>radiofragments</key>
+	<string>respectiveContrast</string>
+	<key>readinteger</key>
+	<string>ignoredState</string>
+	<key>shouldEmitCheckbox</key>
+	<string>resourceobserver</string>
+	<key>transitionPressure</key>
+	<string>temporaryRoute</string>
+</dict>
+</plist>

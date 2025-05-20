@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGroup</key>
+	<string>transitionandstructure</string>
+	<key>dispatchheap</key>
+	<string>canFinishConsumer</string>
+	<key>fragmentlevelspacing</key>
+	<string>compositionalCoordinator</string>
+	<key>intensitysincestyle</key>
+	<string>impactAlignment</string>
+	<key>matrixhead</key>
+	<string>intuitiveformat</string>
+	<key>reflectscene</key>
+	<string>desktopMobile</string>
+	<key>repositoryactivitymargin</key>
+	<string>customizedTechnique</string>
+	<key>shouldMountClipper</key>
+	<string>shouldPersistGift</string>
+	<key>toolradius</key>
+	<string>usedModel</string>
+</dict>
+</plist>

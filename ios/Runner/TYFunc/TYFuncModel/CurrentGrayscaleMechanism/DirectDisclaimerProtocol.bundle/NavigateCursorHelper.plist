@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlevelcenter</key>
+	<string>enabledTabView</string>
+	<key>aspectbottom</key>
+	<string>canObserveCosine</string>
+	<key>bindertop</key>
+	<string>providerflags</string>
+	<key>chaptervisible</key>
+	<string>cupertinoCanvas</string>
+	<key>dedicatedBehavior</key>
+	<string>soundVisible</string>
+	<key>selectedsymbol</key>
+	<string>rectOperation</string>
+	<key>shouldMountedCustomPaint</key>
+	<string>localbuildermode</string>
+	<key>zoneSize</key>
+	<string>stopSwift</string>
+</dict>
+</plist>

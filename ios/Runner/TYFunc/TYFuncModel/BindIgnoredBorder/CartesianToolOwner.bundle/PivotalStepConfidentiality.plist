@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiondepth</key>
+	<string>dialogsCoord</string>
+	<key>capacitieslatency</key>
+	<string>interactionState</string>
+	<key>flexibleSearcher</key>
+	<string>multiShape</string>
+	<key>referenceBrightness</key>
+	<string>fusedExpanded</string>
+	<key>shadereffect</key>
+	<string>canSerializeCapsule</string>
+	<key>shouldHandleSymbol</key>
+	<string>componentIndex</string>
+	<key>shouldUnmountedCanvas</key>
+	<string>radiusMemento</string>
+	<key>transitionBrightness</key>
+	<string>timerTint</string>
+	<key>wrapperHue</key>
+	<string>activeUtil</string>
+</dict>
+</plist>

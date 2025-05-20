@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSplitter</key>
+	<string>shouldPublishEffect</string>
+	<key>efficiencyStyle</key>
+	<string>hyperbolicSlider</string>
+	<key>elasticFormat</key>
+	<string>newestMargin</string>
+	<key>gridpolyfill</key>
+	<string>statefulBloc</string>
+	<key>observerDistance</key>
+	<string>lostRouter</string>
+	<key>onalerttap</key>
+	<string>stringifygraphic</string>
+	<key>semanticcompleter</key>
+	<string>anchorEnvironment</string>
+	<key>textureVelocity</key>
+	<string>freenotification</string>
+	<key>titleoperation</key>
+	<string>richtextlabel</string>
+</dict>
+</plist>

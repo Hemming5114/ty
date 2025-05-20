@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeAlignment</key>
+	<string>trainCapsule</string>
+	<key>dedicatedPositioned</key>
+	<string>imperativeScreen</string>
+	<key>globalChecklist</key>
+	<string>localScroller</string>
+	<key>mobilecontainbridge</key>
+	<string>componentDepth</string>
+	<key>movementstatus</key>
+	<string>radiusFunction</string>
+	<key>shouldPresentConsumer</key>
+	<string>toolTint</string>
+	<key>subsequentDecoration</key>
+	<string>tensorElement</string>
+	<key>variantfromjob</key>
+	<string>threadVelocity</string>
+</dict>
+</plist>

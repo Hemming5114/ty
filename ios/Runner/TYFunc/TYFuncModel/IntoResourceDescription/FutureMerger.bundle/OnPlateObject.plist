@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstcolor</key>
+	<string>startCupertino</string>
+	<key>flexibleException</key>
+	<string>synchronousResolver</string>
+	<key>inkwellOrigin</key>
+	<string>accordionScope</string>
+	<key>listenerSpeed</key>
+	<string>sliderSpeed</string>
+	<key>navigationresponse</key>
+	<string>permanentPlayback</string>
+	<key>shouldPrepareCursor</key>
+	<string>utilscale</string>
+	<key>tangentorientation</key>
+	<string>canCreateDimension</string>
+</dict>
+</plist>

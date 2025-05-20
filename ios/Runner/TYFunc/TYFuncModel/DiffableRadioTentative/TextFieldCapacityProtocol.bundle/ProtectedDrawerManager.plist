@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailSkewY</key>
+	<string>loadcontraction</string>
+	<key>difficultAnimatedContainer</key>
+	<string>cacheOffset</string>
+	<key>interactordecoratorscale</key>
+	<string>fixedPainter</string>
+	<key>loadtheme</key>
+	<string>parsebuffer</string>
+	<key>platetolerance</key>
+	<string>descriptionParameter</string>
+	<key>reactiveOverlay</key>
+	<string>canDisconnectIndicator</string>
+	<key>shouldUpdateGate</key>
+	<string>subpixelSkewY</string>
+	<key>significantMethod</key>
+	<string>optimizerdelay</string>
+	<key>sinkcontextstate</key>
+	<string>disabledConsumption</string>
+	<key>smallLoss</key>
+	<string>sequentialResolver</string>
+</dict>
+</plist>

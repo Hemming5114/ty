@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableAsync</key>
+	<string>computefuture</string>
+	<key>interpolateusecase</key>
+	<string>staticLatency</string>
+	<key>largeMapper</key>
+	<string>permissiveBloc</string>
+	<key>mutablebrushfrequency</key>
+	<string>staticText</string>
+	<key>responseInteraction</key>
+	<string>resizeCurve</string>
+	<key>webFragments</key>
+	<string>unactivatedAspect</string>
+</dict>
+</plist>

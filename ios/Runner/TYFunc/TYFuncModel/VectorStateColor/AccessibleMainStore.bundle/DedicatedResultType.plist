@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynctheme</key>
+	<string>specifierSingleton</string>
+	<key>enabledInteger</key>
+	<string>shouldAnimatePadding</string>
+	<key>oldRequest</key>
+	<string>discoverCompleter</string>
+	<key>overlaycycleforce</key>
+	<string>subtleEvent</string>
+	<key>shouldCreateGrayscale</key>
+	<string>shouldReplaceFlex</string>
+</dict>
+</plist>

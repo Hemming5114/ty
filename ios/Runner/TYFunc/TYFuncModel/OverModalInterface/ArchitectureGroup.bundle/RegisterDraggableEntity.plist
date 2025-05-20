@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedModal</key>
+	<string>popChannels</string>
+	<key>lostconfigurationmargin</key>
+	<string>canUnmountMedia</string>
+	<key>mobileproxyinterval</key>
+	<string>smallAppBar</string>
+	<key>sharedTweak</key>
+	<string>directCanvas</string>
+	<key>specifyText</key>
+	<string>canMountedNib</string>
+	<key>storyboardvarlocation</key>
+	<string>particleOperation</string>
+</dict>
+</plist>

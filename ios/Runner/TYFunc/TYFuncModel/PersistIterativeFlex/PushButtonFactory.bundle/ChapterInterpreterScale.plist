@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAlert</key>
+	<string>dynamicCoordinator</string>
+	<key>newestNotifier</key>
+	<string>chartbottom</string>
+	<key>otherInteractor</key>
+	<string>precisionActivity</string>
+	<key>pauserichtext</key>
+	<string>hashfrequency</string>
+	<key>subtleImpact</key>
+	<string>canYieldCell</string>
+	<key>tickerScale</key>
+	<string>upgradeScene</string>
+</dict>
+</plist>

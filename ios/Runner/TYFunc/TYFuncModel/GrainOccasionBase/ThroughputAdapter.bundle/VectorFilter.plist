@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSlider</key>
+	<string>shouldFinishReduction</string>
+	<key>independentTabBar</key>
+	<string>threadcoordinator</string>
+	<key>inheritedStateless</key>
+	<string>registerGraph</string>
+	<key>isolateDensity</key>
+	<string>textureKind</string>
+	<key>rapidEvaluation</key>
+	<string>pendingBinary</string>
+	<key>streamlinker</key>
+	<string>euclideanConnector</string>
+</dict>
+</plist>

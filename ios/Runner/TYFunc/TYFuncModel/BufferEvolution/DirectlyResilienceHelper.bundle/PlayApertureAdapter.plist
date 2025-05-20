@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densetask</key>
+	<string>keyPlayback</string>
+	<key>explicitSlash</key>
+	<string>canConnectSkin</string>
+	<key>keylocalizationresponse</key>
+	<string>storageResponse</string>
+	<key>richtextRight</key>
+	<string>mobileSink</string>
+	<key>smallIntensity</key>
+	<string>canInflateScroll</string>
+	<key>transformrepository</key>
+	<string>deactivateTitle</string>
+</dict>
+</plist>

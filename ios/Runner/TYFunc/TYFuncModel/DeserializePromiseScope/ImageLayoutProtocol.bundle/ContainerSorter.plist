@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBorder</key>
+	<string>vectormediatorresponse</string>
+	<key>decorationtexture</key>
+	<string>composablestateful</string>
+	<key>delicategrid</key>
+	<string>canNavigateClipper</string>
+	<key>difficultmenuposition</key>
+	<string>petOperation</string>
+	<key>evolutionMomentum</key>
+	<string>dynamicTexture</string>
+	<key>expandedScale</key>
+	<string>baselineSpeed</string>
+	<key>notificationright</key>
+	<string>diversifiedanimatedcontainerorigin</string>
+	<key>semanticutil</key>
+	<string>publishTangent</string>
+	<key>specifyScene</key>
+	<string>shouldDisposeRemainder</string>
+	<key>splitterSize</key>
+	<string>canPauseGestureDetector</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableAspect</key>
+	<string>dedicatedChapter</string>
+	<key>iconenvironmentpressure</key>
+	<string>desktopTweak</string>
+	<key>localAnchor</key>
+	<string>slashCenter</string>
+	<key>rangeRotation</key>
+	<string>emitTransition</string>
+	<key>shouldValidateOption</key>
+	<string>canRouteNavigator</string>
+	<key>stoppageview</key>
+	<string>characteristicFeedback</string>
+</dict>
+</plist>

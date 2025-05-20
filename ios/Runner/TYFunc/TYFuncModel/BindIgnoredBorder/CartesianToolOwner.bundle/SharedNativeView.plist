@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPadding</key>
+	<string>convolutionevaluation</string>
+	<key>backwardEntity</key>
+	<string>cursorcommandtint</string>
+	<key>catalysttrajectory</key>
+	<string>taskTheme</string>
+	<key>characteristicRate</key>
+	<string>canPresentGestureDetector</string>
+	<key>durationState</key>
+	<string>streamCenter</string>
+	<key>immutableAnimation</key>
+	<string>scopeStatus</string>
+	<key>nibInteraction</key>
+	<string>subscriptionOrientation</string>
+	<key>shouldRenderResource</key>
+	<string>cupertinoTangent</string>
+	<key>skipappbar</key>
+	<string>boxshadowPattern</string>
+	<key>smartSearcher</key>
+	<string>canRenderFlex</string>
+</dict>
+</plist>

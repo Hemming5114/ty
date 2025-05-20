@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleaspectkind</key>
+	<string>notificationcontrast</string>
+	<key>displayableDetector</key>
+	<string>hardGestureDetector</string>
+	<key>drawerorigin</key>
+	<string>augmentStore</string>
+	<key>geometrictickerdepth</key>
+	<string>shouldSkipFlex</string>
+	<key>subscriberskewy</key>
+	<string>profileSkewX</string>
+</dict>
+</plist>

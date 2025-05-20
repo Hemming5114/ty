@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAlignment</key>
+	<string>immutableText</string>
+	<key>dispatchpreview</key>
+	<string>receiveAsync</string>
+	<key>euclideanprecision</key>
+	<string>publisherFormat</string>
+	<key>onreductiontap</key>
+	<string>shouldBuildModal</string>
+	<key>permissiveoperation</key>
+	<string>normalTweak</string>
+	<key>shouldAnimateFuture</key>
+	<string>shouldpopmobile</string>
+</dict>
+</plist>

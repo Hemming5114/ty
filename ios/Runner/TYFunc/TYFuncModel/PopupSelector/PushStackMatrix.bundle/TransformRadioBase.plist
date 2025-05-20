@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturemodel</key>
+	<string>heroFacade</string>
+	<key>inheritedEmitter</key>
+	<string>visibleTabBar</string>
+	<key>mediocreReducer</key>
+	<string>stateshape</string>
+	<key>modelCenter</key>
+	<string>tweenPattern</string>
+	<key>pivotalHandler</key>
+	<string>durationAction</string>
+	<key>profileconsumer</key>
+	<string>unmarshalInteractor</string>
+	<key>searchswitch</key>
+	<string>sortedNavigation</string>
+	<key>usedLayer</key>
+	<string>subsequentPlayback</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedNavigator</key>
+	<string>visitInteractor</string>
+	<key>diffableOptimizer</key>
+	<string>constantKind</string>
+	<key>dynamicTextField</key>
+	<string>isEquipment</string>
+	<key>protocolroute</key>
+	<string>primaryRoute</string>
+	<key>respectiveTaxonomy</key>
+	<string>multiSensor</string>
+	<key>triggerIndex</key>
+	<string>unactivatednode</string>
+	<key>uniformListener</key>
+	<string>canPushNavigator</string>
+	<key>usecaseshape</key>
+	<string>eagerCertificate</string>
+</dict>
+</plist>

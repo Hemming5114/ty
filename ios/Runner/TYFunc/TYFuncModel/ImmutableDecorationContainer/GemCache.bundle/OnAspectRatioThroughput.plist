@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableCanvas</key>
+	<string>desktopDimension</string>
+	<key>responsiveRow</key>
+	<string>segueaboutvariable</string>
+	<key>staticComponent</key>
+	<string>explicitConsumption</string>
+	<key>strengthAlignment</key>
+	<string>shearDuration</string>
+</dict>
+</plist>

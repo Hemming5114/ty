@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeVisibility</key>
+	<string>nextCache</string>
+	<key>fixedMaster</key>
+	<string>canBuildTernary</string>
+	<key>groupTag</key>
+	<string>elasticOptimizer</string>
+	<key>prevChannel</key>
+	<string>hardLoss</string>
+	<key>prismaticBoxShadow</key>
+	<string>canPaintNavigation</string>
+	<key>typicalMomentum</key>
+	<string>canStopGestureDetector</string>
+</dict>
+</plist>

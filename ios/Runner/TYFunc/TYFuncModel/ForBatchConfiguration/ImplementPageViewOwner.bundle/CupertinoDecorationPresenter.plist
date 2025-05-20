@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCreator</key>
+	<string>persistentbloc</string>
+	<key>dismissoptimizer</key>
+	<string>datacoord</string>
+	<key>functionalNotation</key>
+	<string>shouldParseOverlay</string>
+	<key>iterativeMapper</key>
+	<string>accessibleDrawer</string>
+</dict>
+</plist>

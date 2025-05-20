@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScene</key>
+	<string>shouldPublishMargin</string>
+	<key>associatedAnimator</key>
+	<string>spineTension</string>
+	<key>convertexception</key>
+	<string>textureOperation</string>
+	<key>equipmentsinceaction</key>
+	<string>canBindSlider</string>
+	<key>lifecycleCount</key>
+	<string>shoulddisposegate</string>
+	<key>mutabletimer</key>
+	<string>notifierTheme</string>
+	<key>otherReplica</key>
+	<string>shouldAttachRichText</string>
+	<key>primaryresourcekind</key>
+	<string>canPaintAnchor</string>
+	<key>priorShape</key>
+	<string>fixedEntity</string>
+	<key>sophisticatedInterpolation</key>
+	<string>autoboxshadow</string>
+</dict>
+</plist>

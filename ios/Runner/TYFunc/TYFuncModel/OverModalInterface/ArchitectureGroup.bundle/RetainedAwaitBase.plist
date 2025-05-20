@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasamongmethod</key>
+	<string>directinterfacebottom</string>
+	<key>enabledInteractor</key>
+	<string>canEndMission</string>
+	<key>fusedSpot</key>
+	<string>pushFrame</string>
+	<key>ignoredmesh</key>
+	<string>persistentmethod</string>
+	<key>independentShape</key>
+	<string>reusableProject</string>
+	<key>obtaincompletion</key>
+	<string>retainedThreshold</string>
+	<key>scopeKind</key>
+	<string>decoupleTransition</string>
+	<key>unactivatedGridView</key>
+	<string>switchValidation</string>
+</dict>
+</plist>

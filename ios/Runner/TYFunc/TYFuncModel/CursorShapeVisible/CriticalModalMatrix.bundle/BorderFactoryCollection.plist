@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResult</key>
+	<string>checklistParam</string>
+	<key>eagerLayer</key>
+	<string>typicalCupertino</string>
+	<key>ephemeralTexture</key>
+	<string>newestgraminteraction</string>
+	<key>pointForce</key>
+	<string>pointKind</string>
+	<key>scalabilityEdge</key>
+	<string>liteReducer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeconvolution</key>
+	<string>synchronizeSingleton</string>
+	<key>elasticsubscription</key>
+	<string>channelFlyweight</string>
+	<key>interactiveTransformer</key>
+	<string>canShowUnary</string>
+	<key>liteConnector</key>
+	<string>canSkipPromise</string>
+	<key>materialFilter</key>
+	<string>deserializeTask</string>
+	<key>playbackinterval</key>
+	<string>lostAnimatedContainer</string>
+	<key>semanticresponsetag</key>
+	<string>arithmeticSelector</string>
+	<key>usedComponent</key>
+	<string>specifierLayer</string>
+</dict>
+</plist>

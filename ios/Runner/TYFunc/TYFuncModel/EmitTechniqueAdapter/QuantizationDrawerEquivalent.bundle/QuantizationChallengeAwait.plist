@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityShape</key>
+	<string>stackHue</string>
+	<key>bufferPressure</key>
+	<string>reducerPattern</string>
+	<key>impressionFormat</key>
+	<string>shouldPaintAnimation</string>
+	<key>integerpublisher</key>
+	<string>encodeManager</string>
+	<key>interactionDuration</key>
+	<string>retainedaspectspeed</string>
+	<key>navigateshader</key>
+	<string>canPopInstruction</string>
+	<key>shouldDecodeTheme</key>
+	<string>compositionalResponse</string>
+	<key>synchronizestorage</key>
+	<string>cacheComposite</string>
+	<key>tappablerichtextfeedback</key>
+	<string>popupfacadefrequency</string>
+</dict>
+</plist>

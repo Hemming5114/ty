@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedalpha</key>
+	<string>characteristicTop</string>
+	<key>deferredDuration</key>
+	<string>standaloneBuilder</string>
+	<key>euclideanresolverdistance</key>
+	<string>computeBloc</string>
+	<key>greatGrid</key>
+	<string>publicTransition</string>
+	<key>materialChecklist</key>
+	<string>displayableCoordinator</string>
+	<key>offsetscale</key>
+	<string>canUpdatePlate</string>
+	<key>slashPosition</key>
+	<string>shouldPopAnimation</string>
+	<key>slashplatformbrightness</key>
+	<string>navigateParticle</string>
+	<key>slidernumberorientation</key>
+	<string>stateInterval</string>
+	<key>symmetricAction</key>
+	<string>accordionsignature</string>
+</dict>
+</plist>

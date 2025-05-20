@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasrenderer</key>
+	<string>mainMaterial</string>
+	<key>fixedCharacter</key>
+	<string>labelefficiency</string>
+	<key>masterorientation</key>
+	<string>findLabel</string>
+	<key>otheranimationinset</key>
+	<string>singletoncontainsingleton</string>
+	<key>sortedAmortization</key>
+	<string>synchronousAscent</string>
+	<key>statusHead</key>
+	<string>canDisconnectTextField</string>
+</dict>
+</plist>

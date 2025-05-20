@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheResponse</key>
+	<string>boxSkewX</string>
+	<key>clipperforvalue</key>
+	<string>titleLeft</string>
+	<key>commonLog</key>
+	<string>shouldShowAlert</string>
+	<key>defaultGram</key>
+	<string>respondHandler</string>
+	<key>detailState</key>
+	<string>sliderSaturation</string>
+	<key>gestureInterval</key>
+	<string>fragmentsVisibility</string>
+	<key>itemDensity</key>
+	<string>enhanceDelegate</string>
+	<key>norminterval</key>
+	<string>eagerDecoration</string>
+	<key>textfieldkindbottom</key>
+	<string>disabledConnector</string>
+</dict>
+</plist>

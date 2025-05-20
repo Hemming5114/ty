@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCoordinator</key>
+	<string>normNumber</string>
+	<key>composableRange</key>
+	<string>linkerFrequency</string>
+	<key>elasticNorm</key>
+	<string>composableStatus</string>
+	<key>euclideanCycle</key>
+	<string>concurrentservice</string>
+	<key>hasrow</key>
+	<string>othersignature</string>
+	<key>mutableStack</key>
+	<string>cosinePattern</string>
+	<key>staticLatency</key>
+	<string>topicStructure</string>
+</dict>
+</plist>

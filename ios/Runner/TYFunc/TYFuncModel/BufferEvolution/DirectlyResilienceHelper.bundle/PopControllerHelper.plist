@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardconsumption</key>
+	<string>yieldNotifier</string>
+	<key>dedicatedAxis</key>
+	<string>replicatedescriptor</string>
+	<key>denseheap</key>
+	<string>routePlate</string>
+	<key>gatehandler</key>
+	<string>matrixResponse</string>
+	<key>transformerbeyondform</key>
+	<string>refreshFrame</string>
+</dict>
+</plist>

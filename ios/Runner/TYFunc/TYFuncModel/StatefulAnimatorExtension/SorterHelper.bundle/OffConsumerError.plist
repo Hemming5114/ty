@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOffset</key>
+	<string>converterAppearance</string>
+	<key>lossStatus</key>
+	<string>nextInfrastructure</string>
+	<key>shouldCacheObserver</key>
+	<string>skinTheme</string>
+	<key>synchronousCharacter</key>
+	<string>granularChapter</string>
+	<key>usagethroughlevel</key>
+	<string>descentFormat</string>
+</dict>
+</plist>

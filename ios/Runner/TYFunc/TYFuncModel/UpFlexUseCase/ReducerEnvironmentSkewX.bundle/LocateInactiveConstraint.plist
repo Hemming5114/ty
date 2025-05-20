@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultProjection</key>
+	<string>mediumMobile</string>
+	<key>dimensionjobinset</key>
+	<string>publishSlider</string>
+	<key>displayableImage</key>
+	<string>observegrain</string>
+	<key>eagerColor</key>
+	<string>shouldAnimateTextField</string>
+	<key>elasticExtension</key>
+	<string>materialScroller</string>
+	<key>listenerresponse</key>
+	<string>shouldsetstateeffect</string>
+	<key>relationalChapter</key>
+	<string>marginAcceleration</string>
+</dict>
+</plist>

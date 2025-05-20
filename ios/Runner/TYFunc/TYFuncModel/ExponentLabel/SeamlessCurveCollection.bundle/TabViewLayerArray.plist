@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocaudio</key>
+	<string>activechallenge</string>
+	<key>refactoranimation</key>
+	<string>difficultProgressBar</string>
+	<key>responsiveHash</key>
+	<string>optimizertheme</string>
+	<key>semanticCapacities</key>
+	<string>giftTint</string>
+	<key>shouldTrainAnchor</key>
+	<string>visibleboxshadow</string>
+	<key>subscriptionRight</key>
+	<string>robustRow</string>
+	<key>videoForce</key>
+	<string>introspectlog</string>
+</dict>
+</plist>

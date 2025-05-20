@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttoncapacity</key>
+	<string>evolutionStatus</string>
+	<key>composableBorder</key>
+	<string>shouldReplaceBatch</string>
+	<key>constraintResponse</key>
+	<string>injectSlider</string>
+	<key>flexLeft</key>
+	<string>canCancelMultiplication</string>
+	<key>modalCount</key>
+	<string>lossDuration</string>
+	<key>newestService</key>
+	<string>canSerializeNavigation</string>
+	<key>reactiveLinker</key>
+	<string>memberRight</string>
+	<key>shouldDisposeIndicator</key>
+	<string>activityatcommand</string>
+	<key>sustainableProcessor</key>
+	<string>constraintoutsidecommand</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferlikesingleton</key>
+	<string>beginnerBase</string>
+	<key>criticalFuture</key>
+	<string>canCancelPlayback</string>
+	<key>dimensionRate</key>
+	<string>materializeEvent</string>
+	<key>entropyPressure</key>
+	<string>shouldPersistVariant</string>
+	<key>functionalPosition</key>
+	<string>nativeState</string>
+	<key>materialTension</key>
+	<string>responseDistance</string>
+	<key>resilientmetadatascale</key>
+	<string>inheritedTool</string>
+	<key>shouldCreateTechnique</key>
+	<string>shouldPopStateful</string>
+</dict>
+</plist>

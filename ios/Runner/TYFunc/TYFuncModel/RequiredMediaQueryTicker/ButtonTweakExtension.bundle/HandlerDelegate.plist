@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblebuilder</key>
+	<string>checkController</string>
+	<key>autoProfile</key>
+	<string>routeScroll</string>
+	<key>dialogsTint</key>
+	<string>timerScale</string>
+	<key>eagerAudio</key>
+	<string>scaleMode</string>
+	<key>gradientconnector</key>
+	<string>usedmemberopacity</string>
+	<key>interactiveRichText</key>
+	<string>accordionProjection</string>
+	<key>interpolationTop</key>
+	<string>shouldTransitionPageView</string>
+	<key>otherResult</key>
+	<string>typicalSine</string>
+	<key>pinchableColumn</key>
+	<string>ternaryindex</string>
+	<key>serviceScale</key>
+	<string>rapidButton</string>
+</dict>
+</plist>

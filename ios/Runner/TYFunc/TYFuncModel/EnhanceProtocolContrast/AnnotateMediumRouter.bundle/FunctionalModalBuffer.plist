@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalComponent</key>
+	<string>unbindinstruction</string>
+	<key>matrixbuilder</key>
+	<string>reducertierorientation</string>
+	<key>resourcedependency</key>
+	<string>activeResilience</string>
+	<key>shouldDeserializeProjection</key>
+	<string>difficultCustomPaint</string>
+	<key>shouldPrepareTransition</key>
+	<string>challengeObserver</string>
+	<key>shouldRestartNorm</key>
+	<string>shouldEmitNotification</string>
+	<key>shouldbuildcapsule</key>
+	<string>diffableMedia</string>
+	<key>similarSubscription</key>
+	<string>lostconvolutionstyle</string>
+	<key>substantialsignmomentum</key>
+	<string>onbullettap</string>
+	<key>trianglesstatus</key>
+	<string>renderTouch</string>
+</dict>
+</plist>

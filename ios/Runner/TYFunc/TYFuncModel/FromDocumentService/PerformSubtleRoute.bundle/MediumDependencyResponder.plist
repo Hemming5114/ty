@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryForce</key>
+	<string>accordionWrapper</string>
+	<key>draggableStatus</key>
+	<string>aspectratioOffset</string>
+	<key>ispageview</key>
+	<string>chartLeft</string>
+	<key>resilientModule</key>
+	<string>aspectAdapter</string>
+	<key>robustScalability</key>
+	<string>directlyGrid</string>
+	<key>sampleMargin</key>
+	<string>shouldUnmountConstraint</string>
+	<key>shouldSubscribeDrawer</key>
+	<string>pivotalInstruction</string>
+	<key>specifyGradient</key>
+	<string>loopprocessrate</string>
+	<key>statefulCompletion</key>
+	<string>touchSkewY</string>
+	<key>synchronousEmitter</key>
+	<string>widgetTint</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorRate</key>
+	<string>standaloneScene</string>
+	<key>immutableSegment</key>
+	<string>discardedAsync</string>
+	<key>shouldDetachPositioned</key>
+	<string>shouldValidateNotification</string>
+	<key>singletonOffset</key>
+	<string>providerPhase</string>
+	<key>smartfeature</key>
+	<string>directlytween</string>
+</dict>
+</plist>

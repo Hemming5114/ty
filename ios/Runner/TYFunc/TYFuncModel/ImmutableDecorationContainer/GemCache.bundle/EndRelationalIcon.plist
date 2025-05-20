@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>differentiateeffect</key>
+	<string>mobileMedia</string>
+	<key>enabledReceiver</key>
+	<string>tweakMomentum</string>
+	<key>keyIcon</key>
+	<string>accessibleinteractorbottom</string>
+	<key>modeltag</key>
+	<string>tappableNotification</string>
+	<key>priorSession</key>
+	<string>detachTexture</string>
+	<key>unactivatedProjection</key>
+	<string>easyConverter</string>
+	<key>uniformChecklist</key>
+	<string>enabledFactory</string>
+</dict>
+</plist>

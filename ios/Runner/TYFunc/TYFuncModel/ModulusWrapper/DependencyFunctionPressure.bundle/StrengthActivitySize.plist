@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBinder</key>
+	<string>instructionPattern</string>
+	<key>delicateBandwidth</key>
+	<string>deserializeResult</string>
+	<key>disconnectnotifier</key>
+	<string>providersinceinterpreter</string>
+	<key>equivalentmode</key>
+	<string>locateRepository</string>
+	<key>serviceDepth</key>
+	<string>explicitBloc</string>
+	<key>shouldSetStateBox</key>
+	<string>subtleinteractor</string>
+	<key>shouldStreamDialogs</key>
+	<string>persistentSign</string>
+	<key>threadTint</key>
+	<string>clearCallback</string>
+</dict>
+</plist>

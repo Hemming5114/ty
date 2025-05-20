@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchead</key>
+	<string>smallTernary</string>
+	<key>copylabel</key>
+	<string>observeChallenge</string>
+	<key>mediocredata</key>
+	<string>handleCoordinator</string>
+	<key>polyfillDuration</key>
+	<string>completedCube</string>
+	<key>shouldcanceloverlay</key>
+	<string>dismissMission</string>
+	<key>unactivatedRouter</key>
+	<string>shouldDeserializePageView</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletentity</key>
+	<string>dependencyschema</string>
+	<key>cardbottom</key>
+	<string>segueSingleton</string>
+	<key>decorationResponse</key>
+	<string>interfaceshapeinset</string>
+	<key>descriptionResponse</key>
+	<string>declarativespecifier</string>
+	<key>extensionTop</key>
+	<string>behaviorPrototype</string>
+	<key>heroName</key>
+	<string>streambutton</string>
+	<key>mainReducer</key>
+	<string>unactivatedHandler</string>
+	<key>shouldCreateGridView</key>
+	<string>invisibleEquivalent</string>
+	<key>shouldLayoutSpot</key>
+	<string>euclideanIntegrity</string>
+	<key>uniqueAlert</key>
+	<string>requestinsidekind</string>
+</dict>
+</plist>

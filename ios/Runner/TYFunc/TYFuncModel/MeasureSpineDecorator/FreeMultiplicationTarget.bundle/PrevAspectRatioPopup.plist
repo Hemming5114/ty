@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionspeed</key>
+	<string>disparateOccasion</string>
+	<key>customConstant</key>
+	<string>elasticTolerance</string>
+	<key>pinchableNode</key>
+	<string>errorBound</string>
+	<key>requiredProject</key>
+	<string>emitterMargin</string>
+	<key>standaloneTheme</key>
+	<string>gramloop</string>
+	<key>timeskewy</key>
+	<string>directlyTable</string>
+	<key>usedError</key>
+	<string>serviceFacade</string>
+</dict>
+</plist>

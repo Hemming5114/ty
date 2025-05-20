@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblereducer</key>
+	<string>unbindGram</string>
+	<key>aspectratioTransparency</key>
+	<string>polyfillVelocity</string>
+	<key>flexibleSwift</key>
+	<string>fetchGrayscale</string>
+	<key>originalController</key>
+	<string>copyTransformer</string>
+	<key>renameskin</key>
+	<string>shouldPublishCoordinator</string>
+	<key>tabbarVisibility</key>
+	<string>explicitselector</string>
+</dict>
+</plist>

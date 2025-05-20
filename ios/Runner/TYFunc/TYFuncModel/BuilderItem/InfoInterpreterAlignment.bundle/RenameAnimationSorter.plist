@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoModel</key>
+	<string>canParseProvider</string>
+	<key>deferredBullet</key>
+	<string>plateVelocity</string>
+	<key>disabledModel</key>
+	<string>uniformPresenter</string>
+	<key>marginadapterappearance</key>
+	<string>beginnerdropdownbutton</string>
+	<key>relationalstep</key>
+	<string>characterbound</string>
+</dict>
+</plist>

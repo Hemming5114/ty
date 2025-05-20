@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentsystembehavior</key>
+	<string>resizeChapter</string>
+	<key>autoMethod</key>
+	<string>animateInstruction</string>
+	<key>injectionKind</key>
+	<string>unmarshalCompleter</string>
+	<key>lazyInfrastructure</key>
+	<string>elasticAperture</string>
+	<key>momentumvariablecoord</key>
+	<string>canPushIcon</string>
+</dict>
+</plist>

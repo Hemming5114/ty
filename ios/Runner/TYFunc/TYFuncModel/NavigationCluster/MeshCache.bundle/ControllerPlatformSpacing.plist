@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInterval</key>
+	<string>delicateCycle</string>
+	<key>callbacktint</key>
+	<string>smartConverter</string>
+	<key>cupertinoRequest</key>
+	<string>shouldFetchCharacter</string>
+	<key>difficultElement</key>
+	<string>sinkVisitor</string>
+	<key>robustMechanism</key>
+	<string>evaluationResponse</string>
+	<key>semanticAspectRatio</key>
+	<string>globalDialogs</string>
+	<key>sortedTransformer</key>
+	<string>modulusInset</string>
+	<key>standaloneRectangle</key>
+	<string>bufferMethod</string>
+	<key>uniqueInteractor</key>
+	<string>shapeContrast</string>
+</dict>
+</plist>

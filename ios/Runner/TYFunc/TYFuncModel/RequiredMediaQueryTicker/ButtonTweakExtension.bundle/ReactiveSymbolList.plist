@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachebuilder</key>
+	<string>providerBridge</string>
+	<key>explicitSensor</key>
+	<string>temporaryDisclaimer</string>
+	<key>framevisibility</key>
+	<string>consumptionCount</string>
+	<key>mobileCell</key>
+	<string>remainderContext</string>
+	<key>onunarytap</key>
+	<string>decoupleTitle</string>
+	<key>primaryThread</key>
+	<string>otherMonster</string>
+</dict>
+</plist>

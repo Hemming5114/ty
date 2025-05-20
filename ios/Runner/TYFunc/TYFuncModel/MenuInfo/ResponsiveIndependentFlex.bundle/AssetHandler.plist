@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthfeedback</key>
+	<string>litegift</string>
+	<key>cellcoord</key>
+	<string>readTransition</string>
+	<key>labelfunctionvelocity</key>
+	<string>routethroughstage</string>
+	<key>movementRight</key>
+	<string>utilBottom</string>
+	<key>otherSprite</key>
+	<string>asyncFeedback</string>
+	<key>signStyle</key>
+	<string>multiAudio</string>
+	<key>signalongprocess</key>
+	<string>shouldAnimateCustomPaint</string>
+	<key>sinkintegrity</key>
+	<string>herotag</string>
+</dict>
+</plist>

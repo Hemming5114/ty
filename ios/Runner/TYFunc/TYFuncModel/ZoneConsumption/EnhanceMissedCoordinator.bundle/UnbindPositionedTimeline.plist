@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonChart</key>
+	<string>tensordependency</string>
+	<key>entityEdge</key>
+	<string>taskvartension</string>
+	<key>inflateinstruction</key>
+	<string>behaviorcoord</string>
+	<key>projectionMode</key>
+	<string>shouldShowIcon</string>
+	<key>repositoryadapterborder</key>
+	<string>canMountedPriority</string>
+	<key>shouldAttachBoxShadow</key>
+	<string>disabledContrast</string>
+	<key>shouldMountedBorder</key>
+	<string>canDecodeSample</string>
+	<key>significantVideo</key>
+	<string>consumerMediator</string>
+	<key>symbolMomentum</key>
+	<string>substantialTitle</string>
+</dict>
+</plist>

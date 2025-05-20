@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillsingleton</key>
+	<string>canRenderBrush</string>
+	<key>previewalignment</key>
+	<string>touchFormat</string>
+	<key>processstoryboard</key>
+	<string>canRestartModulus</string>
+	<key>shouldkeepalert</key>
+	<string>constructConstraint</string>
+</dict>
+</plist>

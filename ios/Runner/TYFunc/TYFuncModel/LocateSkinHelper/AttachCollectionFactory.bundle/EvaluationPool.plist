@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioState</key>
+	<string>handleevent</string>
+	<key>gemState</key>
+	<string>buildEqualization</string>
+	<key>impressionname</key>
+	<string>subtlemember</string>
+	<key>largeDropdownButton</key>
+	<string>layerbrightness</string>
+	<key>meshbottom</key>
+	<string>detachLoop</string>
+	<key>shouldFinishTernary</key>
+	<string>promiseParameter</string>
+	<key>singletonmediatorresponse</key>
+	<string>scrollbrightness</string>
+</dict>
+</plist>

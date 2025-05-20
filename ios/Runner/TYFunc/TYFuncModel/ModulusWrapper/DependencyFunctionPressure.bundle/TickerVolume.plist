@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedanalogy</key>
+	<string>repositorystylemode</string>
+	<key>autointegrity</key>
+	<string>scenethroughflyweight</string>
+	<key>baselineAlignment</key>
+	<string>shouldAnimateTool</string>
+	<key>descentOpacity</key>
+	<string>mainCoordinator</string>
+	<key>dialogsVisibility</key>
+	<string>canLoadText</string>
+	<key>inactiveProcessor</key>
+	<string>interfacecolor</string>
+	<key>significantTimeline</key>
+	<string>scrollableConnector</string>
+</dict>
+</plist>

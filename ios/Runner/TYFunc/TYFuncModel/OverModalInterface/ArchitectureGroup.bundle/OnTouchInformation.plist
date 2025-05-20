@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infrastructuretheme</key>
+	<string>collectionEnvironment</string>
+	<key>interactivelabeltail</key>
+	<string>shouldStartView</string>
+	<key>prismaticcoordinator</key>
+	<string>hyperbolicCaption</string>
+	<key>retainpopup</key>
+	<string>protectedTabView</string>
+	<key>shouldStopOption</key>
+	<string>renderContainer</string>
+</dict>
+</plist>

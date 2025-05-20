@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachdependency</key>
+	<string>animationPosition</string>
+	<key>futurepatterntransparency</key>
+	<string>fusedAlert</string>
+	<key>membershape</key>
+	<string>sharedGraphic</string>
+	<key>shouldParseHero</key>
+	<string>bitrateduration</string>
+	<key>shouldShowBitrate</key>
+	<string>iterativeBrush</string>
+	<key>shouldUpdateTangent</key>
+	<string>easyAlert</string>
+	<key>uniformAnalogy</key>
+	<string>diffableException</string>
+</dict>
+</plist>

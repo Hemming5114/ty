@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitType</key>
+	<string>tweenFunction</string>
+	<key>easyCycle</key>
+	<string>scenarioStyle</string>
+	<key>publicRouter</key>
+	<string>canRebuildStack</string>
+	<key>shouldCancelDocument</key>
+	<string>geminsideparameter</string>
+	<key>sortedrow</key>
+	<string>relationalTime</string>
+	<key>tappablebutton</key>
+	<string>setupRadius</string>
+</dict>
+</plist>

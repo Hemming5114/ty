@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyDistance</key>
+	<string>searchObserver</string>
+	<key>integerhue</key>
+	<string>hyperbolicIntegration</string>
+	<key>semanticData</key>
+	<string>playbackinsidejob</string>
+	<key>shouldCreateStateless</key>
+	<string>otherSplitter</string>
+</dict>
+</plist>

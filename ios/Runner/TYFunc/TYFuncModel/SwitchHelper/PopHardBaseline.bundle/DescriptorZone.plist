@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inflateslider</key>
+	<string>accelerateLayer</string>
+	<key>primaryRectangle</key>
+	<string>bulletContext</string>
+	<key>promiseDuration</key>
+	<string>canNavigateTouch</string>
+	<key>reactivewidgetvisible</key>
+	<string>screenscale</string>
+	<key>reconcilebatch</key>
+	<string>bitrateFunction</string>
+	<key>shouldEndSemantics</key>
+	<string>descriptionForce</string>
+	<key>shouldMountedSample</key>
+	<string>consultativeCluster</string>
+	<key>shouldReplaceModulus</key>
+	<string>deliveryInteraction</string>
+	<key>typicalStroke</key>
+	<string>transitionCanvas</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileStrength</key>
+	<string>canDisposeNavigator</string>
+	<key>concreteframe</key>
+	<string>discardedCursor</string>
+	<key>containerflyweightvisibility</key>
+	<string>tangentLayer</string>
+	<key>customScroller</key>
+	<string>sizemomentum</string>
+	<key>materializerDistance</key>
+	<string>unbindSpine</string>
+	<key>protectedinterpolationtail</key>
+	<string>compositionfrequency</string>
+	<key>usecasepublisher</key>
+	<string>detachAction</string>
+</dict>
+</plist>

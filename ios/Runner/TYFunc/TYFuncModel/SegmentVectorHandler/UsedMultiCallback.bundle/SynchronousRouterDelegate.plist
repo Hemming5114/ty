@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistinteraction</key>
+	<string>disparateImage</string>
+	<key>encoderadio</key>
+	<string>shaderstyle</string>
+	<key>geometricMetadata</key>
+	<string>popModulus</string>
+	<key>shouldHandleEntropy</key>
+	<string>arithmetictolerance</string>
+	<key>similarTransition</key>
+	<string>subtleCheckbox</string>
+</dict>
+</plist>

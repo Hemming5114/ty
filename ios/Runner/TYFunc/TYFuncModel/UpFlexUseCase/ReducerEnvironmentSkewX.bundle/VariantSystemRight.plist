@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintmode</key>
+	<string>granularChannel</string>
+	<key>globalStream</key>
+	<string>difficultLoader</string>
+	<key>isSegue</key>
+	<string>pageviewVisibility</string>
+	<key>primaryDropdownButton</key>
+	<string>rapidIcon</string>
+	<key>robustMaterial</key>
+	<string>restartInstruction</string>
+	<key>shouldPresentDropdownButton</key>
+	<string>lazystore</string>
+	<key>symmetricSemantics</key>
+	<string>otherRecursion</string>
+</dict>
+</plist>

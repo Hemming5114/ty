@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateprogressbar</key>
+	<string>shoulddisconnectappbar</string>
+	<key>ignoredBandwidth</key>
+	<string>textCoord</string>
+	<key>lostEntropy</key>
+	<string>imperativeLocalization</string>
+	<key>mobileRectangle</key>
+	<string>dissociateLayer</string>
+	<key>navigationAcceleration</key>
+	<string>statefuldecoration</string>
+	<key>resourceFeedback</key>
+	<string>fusedTween</string>
+	<key>significantReduction</key>
+	<string>localCaption</string>
+	<key>sustainableArchitecture</key>
+	<string>showSlash</string>
+	<key>transpilebutton</key>
+	<string>permanentScroll</string>
+	<key>unactivatedSwitch</key>
+	<string>coordinatorValidation</string>
+</dict>
+</plist>

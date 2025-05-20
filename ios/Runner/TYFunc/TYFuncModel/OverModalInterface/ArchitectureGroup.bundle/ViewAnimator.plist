@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationScale</key>
+	<string>rotateStore</string>
+	<key>injectiontop</key>
+	<string>singlematerializer</string>
+	<key>profileSpacing</key>
+	<string>trainView</string>
+	<key>shouldAnimateEntropy</key>
+	<string>shouldHandleExponent</string>
+	<key>standaloneProtocol</key>
+	<string>activateresource</string>
+	<key>visibleButton</key>
+	<string>selectedSign</string>
+</dict>
+</plist>

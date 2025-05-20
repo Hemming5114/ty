@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorlayout</key>
+	<string>missedNotifier</string>
+	<key>dedicatedScreen</key>
+	<string>displayableNorm</string>
+	<key>equivalentDepth</key>
+	<string>fixedSkin</string>
+	<key>imperativeFragment</key>
+	<string>shouldListenFuture</string>
+	<key>mechanismPressure</key>
+	<string>widgetOpacity</string>
+	<key>reusableStrength</key>
+	<string>mediocreBaseline</string>
+	<key>semanticGestureDetector</key>
+	<string>visibleSearcher</string>
+	<key>shouldReplaceStateful</key>
+	<string>visualizeisolate</string>
+	<key>sustainableResponder</key>
+	<string>largePoint</string>
+</dict>
+</plist>

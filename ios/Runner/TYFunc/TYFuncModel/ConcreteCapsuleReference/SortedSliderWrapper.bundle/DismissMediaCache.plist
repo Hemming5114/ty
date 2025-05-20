@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatortransparency</key>
+	<string>arithmeticReliability</string>
+	<key>callbackinteraction</key>
+	<string>adjustlocalization</string>
+	<key>cupertinoqueue</key>
+	<string>retainContainer</string>
+	<key>lazytext</key>
+	<string>appbarInterval</string>
+	<key>medialikestage</key>
+	<string>prevSize</string>
+	<key>missedEvent</key>
+	<string>canStopMobile</string>
+	<key>shouldPublishNorm</key>
+	<string>grayscaleTemple</string>
+	<key>singletonmerger</key>
+	<string>uniformReducer</string>
+	<key>statefulExtension</key>
+	<string>loadAppBar</string>
+	<key>topicremediation</key>
+	<string>largeStateful</string>
+</dict>
+</plist>

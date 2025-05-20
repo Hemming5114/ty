@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetdecoratorleft</key>
+	<string>gradientProcess</string>
+	<key>shouldFinishScaffold</key>
+	<string>unbindspecifier</string>
+	<key>shouldListenGridView</key>
+	<string>textfieldTransparency</string>
+	<key>temporaryNotifier</key>
+	<string>lifecycleMode</string>
+	<key>usedOverlay</key>
+	<string>explicitSession</string>
+</dict>
+</plist>

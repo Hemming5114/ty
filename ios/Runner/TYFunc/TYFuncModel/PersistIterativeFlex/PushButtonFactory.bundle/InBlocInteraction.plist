@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicreducervelocity</key>
+	<string>mediocreGraph</string>
+	<key>flexibleEmitter</key>
+	<string>usedAscent</string>
+	<key>masterState</key>
+	<string>mediumDetector</string>
+	<key>retainedSubpixel</key>
+	<string>sizedboxInset</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedOverlay</key>
+	<string>variantvisible</string>
+	<key>inheritedLifecycle</key>
+	<string>globalFinder</string>
+	<key>momentumBorder</key>
+	<string>confidentialityAcceleration</string>
+	<key>protectedRecursion</key>
+	<string>canProcessPositioned</string>
+	<key>sceneSkewX</key>
+	<string>masterDirection</string>
+	<key>seamlessInfrastructure</key>
+	<string>checkboxstream</string>
+	<key>transformerEdge</key>
+	<string>canSaveCursor</string>
+</dict>
+</plist>

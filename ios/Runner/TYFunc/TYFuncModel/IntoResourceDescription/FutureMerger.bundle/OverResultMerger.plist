@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBound</key>
+	<string>pauseInkWell</string>
+	<key>associatelogarithm</key>
+	<string>durationdespitetier</string>
+	<key>optimizervisibility</key>
+	<string>respectivePicker</string>
+	<key>requiredrestriction</key>
+	<string>routeractivityacceleration</string>
+	<key>screencontrast</key>
+	<string>interactiveModal</string>
+	<key>smallFormat</key>
+	<string>integerduration</string>
+	<key>usedTrajectory</key>
+	<string>vertexhead</string>
+</dict>
+</plist>

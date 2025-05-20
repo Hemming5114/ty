@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalPager</key>
+	<string>largeBase</string>
+	<key>intermediateOffset</key>
+	<string>shouldEndAperture</string>
+	<key>painterjoiner</key>
+	<string>makeParticle</string>
+	<key>replicatemanager</key>
+	<string>projectCoord</string>
+	<key>responsiveScope</key>
+	<string>typicalInteractor</string>
+	<key>semanticPresenter</key>
+	<string>pivotalVertex</string>
+	<key>shouldBindChannels</key>
+	<string>fusedPrecision</string>
+	<key>temporaryNavigator</key>
+	<string>minSpot</string>
+</dict>
+</plist>

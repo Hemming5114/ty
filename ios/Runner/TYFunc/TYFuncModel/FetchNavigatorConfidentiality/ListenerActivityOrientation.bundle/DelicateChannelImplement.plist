@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncanalyzer</key>
+	<string>parsestream</string>
+	<key>bulletPadding</key>
+	<string>detachSegment</string>
+	<key>efficiencykind</key>
+	<string>saveAxis</string>
+	<key>newestKernel</key>
+	<string>descriptorDepth</string>
+	<key>ontangentchanged</key>
+	<string>arithmeticCompleter</string>
+	<key>reusableQueue</key>
+	<string>mediumsingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationPosition</key>
+	<string>mobilespot</string>
+	<key>disabledInteraction</key>
+	<string>labelInterval</string>
+	<key>discardedElasticity</key>
+	<string>secondScale</string>
+	<key>frameenvironmentdistance</key>
+	<string>processCharacter</string>
+	<key>materialLoop</key>
+	<string>elasticStore</string>
+	<key>mediocrecubitbehavior</key>
+	<string>signDirection</string>
+	<key>mutableSelector</key>
+	<string>canPopDelegate</string>
+	<key>nextAlignment</key>
+	<string>statelessstatus</string>
+	<key>shouldSkipLabel</key>
+	<string>featuremapper</string>
+	<key>synchronousscene</key>
+	<string>canUnmountSwift</string>
+</dict>
+</plist>

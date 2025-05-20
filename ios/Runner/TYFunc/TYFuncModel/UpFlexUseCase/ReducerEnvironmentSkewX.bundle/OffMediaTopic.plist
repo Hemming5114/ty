@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerLayer</key>
+	<string>animateListener</string>
+	<key>currentbase</key>
+	<string>canSerializeChallenge</string>
+	<key>shouldAnimatePadding</key>
+	<string>parsealignment</string>
+	<key>tappableSymbol</key>
+	<string>fragmentFlags</string>
+</dict>
+</plist>

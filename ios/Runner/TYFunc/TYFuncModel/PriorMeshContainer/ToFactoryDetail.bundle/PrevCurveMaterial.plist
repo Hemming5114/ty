@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinebuffer</key>
+	<string>itemCenter</string>
+	<key>exitsymbol</key>
+	<string>enumerateSink</string>
+	<key>pageviewskewx</key>
+	<string>indicatorbuffer</string>
+	<key>sequentialMember</key>
+	<string>trainGradient</string>
+	<key>shouldPrepareChannels</key>
+	<string>connectorTail</string>
+	<key>shouldShowLabel</key>
+	<string>requiredVariant</string>
+	<key>substantiallabelcount</key>
+	<string>texturePattern</string>
+	<key>temporaryRadius</key>
+	<string>mountedStoryboard</string>
+</dict>
+</plist>

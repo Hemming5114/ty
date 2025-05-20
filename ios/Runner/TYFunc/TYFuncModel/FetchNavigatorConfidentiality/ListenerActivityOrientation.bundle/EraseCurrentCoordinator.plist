@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterPadding</key>
+	<string>allocatorInteraction</string>
+	<key>draggablemodal</key>
+	<string>spriteMode</string>
+	<key>gradienteffect</key>
+	<string>projectionCommand</string>
+	<key>instructionfromplatform</key>
+	<string>disconnectprojection</string>
+	<key>reactiveLifecycle</key>
+	<string>pinchableScheduler</string>
+	<key>tickercyclemargin</key>
+	<string>replacegrayscale</string>
+	<key>visibleBitrate</key>
+	<string>shouldHandleRemainder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticStrength</key>
+	<string>interpolationTail</string>
+	<key>flexibleTable</key>
+	<string>inactiveBuffer</string>
+	<key>interactiveloopresponse</key>
+	<string>greatTask</string>
+	<key>layoutsaturation</key>
+	<string>consumptionBorder</string>
+	<key>missedconstraintstatus</key>
+	<string>convertException</string>
+	<key>presenterkind</key>
+	<string>deserializeRect</string>
+	<key>statefulSpeed</key>
+	<string>unmountNavigation</string>
+	<key>topicoffunction</key>
+	<string>otherEvent</string>
+</dict>
+</plist>

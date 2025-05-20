@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>makedependency</key>
+	<string>popupcontainbridge</string>
+	<key>multiDelegate</key>
+	<string>unmountedBoxShadow</string>
+	<key>parallelBloc</key>
+	<string>poolRoute</string>
+	<key>partitiondocument</key>
+	<string>channelRotation</string>
+	<key>previewTension</key>
+	<string>disconnectAspect</string>
+	<key>resourceinstate</key>
+	<string>customizedTicker</string>
+	<key>synchronouscontraction</key>
+	<string>activatedRouter</string>
+	<key>titlefromvar</key>
+	<string>limitRect</string>
+	<key>unactivatedTolerance</key>
+	<string>resilientAction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureStatus</key>
+	<string>shouldConnectCosine</string>
+	<key>customizedRemediation</key>
+	<string>pagerDepth</string>
+	<key>ephemeralRow</key>
+	<string>staticTexture</string>
+	<key>imagemodedirection</key>
+	<string>pivotalTextField</string>
+	<key>missedWrapper</key>
+	<string>numericalView</string>
+	<key>remediationfrequency</key>
+	<string>receiveResult</string>
+	<key>seguegrain</key>
+	<string>notifyLayout</string>
+	<key>shouldSerializeFragment</key>
+	<string>shouldContinueCoordinator</string>
+	<key>storeShade</key>
+	<string>navigationName</string>
+</dict>
+</plist>

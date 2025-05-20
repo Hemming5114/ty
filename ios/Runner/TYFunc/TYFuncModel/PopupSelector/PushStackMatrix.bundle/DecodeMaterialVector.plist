@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedButton</key>
+	<string>splitterFeedback</string>
+	<key>mutableAppBar</key>
+	<string>amortizationScale</string>
+	<key>prismaticDuration</key>
+	<string>granularAnimator</string>
+	<key>shouldStreamCollection</key>
+	<string>unsortedConnector</string>
+	<key>subscriptionBrightness</key>
+	<string>swiftAdapter</string>
+	<key>usedexponent</key>
+	<string>popTopic</string>
+	<key>zonecycledistance</key>
+	<string>kernelInterval</string>
+</dict>
+</plist>

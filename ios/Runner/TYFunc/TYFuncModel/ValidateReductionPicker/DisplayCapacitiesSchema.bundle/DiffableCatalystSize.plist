@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTimer</key>
+	<string>dropdownbuttonOpacity</string>
+	<key>evaluationAlignment</key>
+	<string>processTheme</string>
+	<key>normalMission</key>
+	<string>sortedRenderer</string>
+	<key>smallCupertino</key>
+	<string>visibleGram</string>
+</dict>
+</plist>

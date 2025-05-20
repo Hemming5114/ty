@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationexceptshape</key>
+	<string>canSetStateCube</string>
+	<key>beginnerModal</key>
+	<string>canTrainMusic</string>
+	<key>customizedChooser</key>
+	<string>shouldProcessComposition</string>
+	<key>desktopPresenter</key>
+	<string>subsequentVertex</string>
+	<key>informationFlags</key>
+	<string>sequentialError</string>
+	<key>intuitiveBinder</key>
+	<string>arithmeticVector</string>
+	<key>materializerHue</key>
+	<string>reducelocalization</string>
+	<key>permissiveAspect</key>
+	<string>visiblenotifiervisible</string>
+</dict>
+</plist>

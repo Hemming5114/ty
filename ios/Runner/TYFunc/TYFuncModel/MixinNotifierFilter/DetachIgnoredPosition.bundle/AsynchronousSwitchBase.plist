@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueobserver</key>
+	<string>shouldHandleBrush</string>
+	<key>delicateCollection</key>
+	<string>canFetchRow</string>
+	<key>shouldNavigateUnary</key>
+	<string>slidertheme</string>
+	<key>tweendistinction</key>
+	<string>exceptionresponse</string>
+</dict>
+</plist>

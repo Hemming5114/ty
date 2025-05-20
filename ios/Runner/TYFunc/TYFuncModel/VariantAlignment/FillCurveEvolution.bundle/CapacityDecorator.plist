@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionContainer</key>
+	<string>shouldPaintCycle</string>
+	<key>borderreducer</key>
+	<string>scheduleLocalization</string>
+	<key>customizedDrawer</key>
+	<string>flexSaturation</string>
+	<key>lastEquivalent</key>
+	<string>immediateAscent</string>
+	<key>sequentialFilter</key>
+	<string>canDisposeImage</string>
+</dict>
+</plist>

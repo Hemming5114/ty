@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardInterval</key>
+	<string>hasGrayscale</string>
+	<key>mediocreFragment</key>
+	<string>mediaqueryResponse</string>
+	<key>shouldResumeProtocol</key>
+	<string>isEquipment</string>
+	<key>synchronousTween</key>
+	<string>secondConsumption</string>
+	<key>tableformat</key>
+	<string>shouldPaintChecklist</string>
+	<key>tensorTicker</key>
+	<string>shouldSerializeSine</string>
+	<key>timeSpeed</key>
+	<string>canStartReduction</string>
+</dict>
+</plist>

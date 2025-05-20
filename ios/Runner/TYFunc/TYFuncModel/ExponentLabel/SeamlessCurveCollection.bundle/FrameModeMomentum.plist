@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorplatformskewx</key>
+	<string>usedGrain</string>
+	<key>easyConverter</key>
+	<string>statefulInterpolation</string>
+	<key>interactorSpeed</key>
+	<string>canSkipScreen</string>
+	<key>largeMetadata</key>
+	<string>impressionbehavior</string>
+	<key>mediaservice</key>
+	<string>persistentDocument</string>
+	<key>meshShape</key>
+	<string>canEmitWorkflow</string>
+	<key>otherassetsaturation</key>
+	<string>typicalroutecolor</string>
+	<key>shouldStreamProject</key>
+	<string>shouldNotifyColumn</string>
+</dict>
+</plist>

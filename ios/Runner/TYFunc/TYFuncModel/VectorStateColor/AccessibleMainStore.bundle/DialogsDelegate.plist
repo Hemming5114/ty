@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerSkewX</key>
+	<string>detectorShape</string>
+	<key>cubitdecoratororientation</key>
+	<string>densePageView</string>
+	<key>cupertinoModal</key>
+	<string>canNotifyVariant</string>
+	<key>hashPadding</key>
+	<string>retainedProgressBar</string>
+	<key>navigatorduringplatform</key>
+	<string>shouldResumeLayout</string>
+	<key>shouldStreamReduction</key>
+	<string>crudelistenerborder</string>
+	<key>thresholdSpeed</key>
+	<string>disparateException</string>
+</dict>
+</plist>

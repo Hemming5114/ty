@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalDisclaimer</key>
+	<string>curvevisible</string>
+	<key>concurrentCard</key>
+	<string>workflowPosition</string>
+	<key>customtimeline</key>
+	<string>borderForce</string>
+	<key>oldQueue</key>
+	<string>mendpadding</string>
+	<key>requestphaseskewy</key>
+	<string>textfieldBound</string>
+	<key>schedulepopup</key>
+	<string>statefulConsumer</string>
+</dict>
+</plist>

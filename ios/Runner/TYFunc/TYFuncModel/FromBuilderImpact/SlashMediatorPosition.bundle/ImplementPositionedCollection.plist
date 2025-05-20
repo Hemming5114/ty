@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateawait</key>
+	<string>listenprogressbar</string>
+	<key>extensionaction</key>
+	<string>pivotalDimension</string>
+	<key>oldAperture</key>
+	<string>switchoffset</string>
+	<key>remainderpopup</key>
+	<string>effectCount</string>
+</dict>
+</plist>

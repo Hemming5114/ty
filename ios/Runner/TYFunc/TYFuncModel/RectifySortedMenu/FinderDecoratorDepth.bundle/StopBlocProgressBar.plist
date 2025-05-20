@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTabView</key>
+	<string>startCupertino</string>
+	<key>hyperbolicBrush</key>
+	<string>completedModal</string>
+	<key>navigatorinjection</key>
+	<string>stepMediator</string>
+	<key>persistentTime</key>
+	<string>marshalBuffer</string>
+	<key>rapidInteractor</key>
+	<string>shouldAnimateTextField</string>
+	<key>saveaxis</key>
+	<string>certificateSkewY</string>
+	<key>sustainableRequest</key>
+	<string>uniqueTrajectory</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseBehavior</key>
+	<string>tabbaritem</string>
+	<key>hyperbolicAperture</key>
+	<string>maintainContainer</string>
+	<key>immutableState</key>
+	<string>shouldBuildLabel</string>
+	<key>numericalConverter</key>
+	<string>reflectAnimation</string>
+	<key>priorThroughput</key>
+	<string>dispatchpreview</string>
+	<key>responsiveCallback</key>
+	<string>compositionVisibility</string>
+	<key>statusHead</key>
+	<string>viewparameterduration</string>
+</dict>
+</plist>

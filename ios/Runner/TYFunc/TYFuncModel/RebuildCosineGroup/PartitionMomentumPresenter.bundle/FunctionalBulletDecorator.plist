@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartInterval</key>
+	<string>statelesscoord</string>
+	<key>completerfacadebound</key>
+	<string>maptag</string>
+	<key>largeElasticity</key>
+	<string>draggableAmortization</string>
+	<key>shouldLayoutMission</key>
+	<string>shouldPaintRichText</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedsearcher</key>
+	<string>shouldUnmountAnimatedContainer</string>
+	<key>customPicker</key>
+	<string>shearChapter</string>
+	<key>intermediatechooser</key>
+	<string>popupcenter</string>
+	<key>lossSpeed</key>
+	<string>iterativeSine</string>
+	<key>numericalTicker</key>
+	<string>channelimage</string>
+	<key>resourcecontrast</key>
+	<string>equalTransformer</string>
+	<key>screenframe</key>
+	<string>controllerlocation</string>
+	<key>similarQueue</key>
+	<string>challengeTier</string>
+	<key>statelesstechniquedistance</key>
+	<string>serializeTitle</string>
+</dict>
+</plist>

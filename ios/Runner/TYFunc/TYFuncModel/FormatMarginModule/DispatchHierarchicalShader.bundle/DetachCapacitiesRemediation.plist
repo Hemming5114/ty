@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityInteraction</key>
+	<string>reusableOptimizer</string>
+	<key>euclideanSubscriber</key>
+	<string>canEncodeTabView</string>
+	<key>globalgroup</key>
+	<string>canDismissMovement</string>
+	<key>layoutorientation</key>
+	<string>shouldUpdateRole</string>
+	<key>listensingleton</key>
+	<string>statefultweencount</string>
+	<key>persistentLog</key>
+	<string>continueIndicator</string>
+	<key>pivotalBehavior</key>
+	<string>tappablewidgetstyle</string>
+	<key>prevResolver</key>
+	<string>canContinueGem</string>
+	<key>shouldStreamReduction</key>
+	<string>crucialModal</string>
+	<key>shouldunmountedbinary</key>
+	<string>anchorPattern</string>
+</dict>
+</plist>

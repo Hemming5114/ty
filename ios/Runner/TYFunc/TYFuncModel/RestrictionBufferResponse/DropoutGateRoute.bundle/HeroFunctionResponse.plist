@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedpolygon</key>
+	<string>dedicatedNode</string>
+	<key>basicContraction</key>
+	<string>globalRequest</string>
+	<key>firstUnary</key>
+	<string>pinchableTrigger</string>
+	<key>permanentFragments</key>
+	<string>flexiblenormskewy</string>
+</dict>
+</plist>

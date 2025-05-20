@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioOpacity</key>
+	<string>unbinddelegate</string>
+	<key>autoConsumer</key>
+	<string>adaptiveGroup</string>
+	<key>onboxtap</key>
+	<string>multiRequest</string>
+	<key>subsequentdetail</key>
+	<string>currentAlpha</string>
+</dict>
+</plist>

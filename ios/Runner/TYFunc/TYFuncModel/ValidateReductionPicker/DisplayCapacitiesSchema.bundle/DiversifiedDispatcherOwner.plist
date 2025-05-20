@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedQuaternion</key>
+	<string>greatIndicator</string>
+	<key>concurrentFuture</key>
+	<string>futureRight</string>
+	<key>layoutflags</key>
+	<string>spotbrightness</string>
+	<key>marginedge</key>
+	<string>bindStream</string>
+	<key>publicPicker</key>
+	<string>utilvelocity</string>
+	<key>resourceBound</key>
+	<string>volumeTag</string>
+	<key>staticItem</key>
+	<string>euclideanMerger</string>
+</dict>
+</plist>

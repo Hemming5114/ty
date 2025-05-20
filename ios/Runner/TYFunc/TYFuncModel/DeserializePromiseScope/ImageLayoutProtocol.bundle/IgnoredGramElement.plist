@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRepository</key>
+	<string>gramtheme</string>
+	<key>characteristicRate</key>
+	<string>canYieldBoxShadow</string>
+	<key>globalUnary</key>
+	<string>cupertinoTint</string>
+	<key>nibarchitecture</key>
+	<string>transitionChallenge</string>
+	<key>quaternionScale</key>
+	<string>futureDirection</string>
+	<key>segueState</key>
+	<string>opaqueListView</string>
+	<key>shouldDeserializeTool</key>
+	<string>lastAsync</string>
+	<key>smallPainter</key>
+	<string>sortedMobile</string>
+</dict>
+</plist>

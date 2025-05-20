@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionExtension</key>
+	<string>switchbottom</string>
+	<key>criticalBehavior</key>
+	<string>shouldFetchArithmetic</string>
+	<key>notificationMomentum</key>
+	<string>tangentaction</string>
+	<key>shouldMountAlert</key>
+	<string>coordinatorasync</string>
+</dict>
+</plist>

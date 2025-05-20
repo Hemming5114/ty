@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasAxis</key>
+	<string>restartcontroller</string>
+	<key>labelalongshape</key>
+	<string>substantialListener</string>
+	<key>observelistener</key>
+	<string>dialogsDistance</string>
+	<key>opaqueVolume</key>
+	<string>updateBinary</string>
+	<key>scrollercount</key>
+	<string>exponentOperation</string>
+	<key>shouldAttachTabView</key>
+	<string>sharedSink</string>
+	<key>staticSensor</key>
+	<string>nextTweak</string>
+</dict>
+</plist>

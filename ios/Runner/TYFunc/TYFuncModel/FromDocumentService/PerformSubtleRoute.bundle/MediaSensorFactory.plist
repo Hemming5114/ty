@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatordepth</key>
+	<string>replicateEvent</string>
+	<key>dedicatedAnchor</key>
+	<string>shouldPublishPageView</string>
+	<key>eagerProgressBar</key>
+	<string>canReplaceConstraint</string>
+	<key>entropybuffer</key>
+	<string>invisibleModule</string>
+	<key>mapperAppearance</key>
+	<string>completedDialogs</string>
+	<key>timelineTail</key>
+	<string>canPersistMaterial</string>
+	<key>usedInstruction</key>
+	<string>newestVector</string>
+</dict>
+</plist>

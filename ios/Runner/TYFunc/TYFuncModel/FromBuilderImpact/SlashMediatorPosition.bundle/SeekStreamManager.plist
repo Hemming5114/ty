@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthType</key>
+	<string>densespotorientation</string>
+	<key>greatScalability</key>
+	<string>batchHue</string>
+	<key>imperativeCustomPaint</key>
+	<string>declarativeInteractor</string>
+	<key>invisibleFuture</key>
+	<string>detachslider</string>
+	<key>normdrawer</key>
+	<string>instantiateTitle</string>
+	<key>parallelListView</key>
+	<string>cupertinoMovement</string>
+	<key>scalabilitySize</key>
+	<string>seamlessobserver</string>
+	<key>secondDuration</key>
+	<string>desktopFeature</string>
+	<key>startbrush</key>
+	<string>promisePrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableLayout</key>
+	<string>shouldShowExponent</string>
+	<key>escalatecurve</key>
+	<string>crudePresenter</string>
+	<key>listentask</key>
+	<string>generateInteractor</string>
+	<key>shouldShowHeap</key>
+	<string>labelhash</string>
+	<key>sinkTint</key>
+	<string>statusStatus</string>
+	<key>statelessTriangles</key>
+	<string>specifyTraversal</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorflags</key>
+	<string>arithmeticImage</string>
+	<key>comprehensivemodaldensity</key>
+	<string>imperativeReducer</string>
+	<key>consultativeCell</key>
+	<string>actionChain</string>
+	<key>ephemeralPicker</key>
+	<string>equipmentHue</string>
+	<key>numericalGridView</key>
+	<string>mutablebloccolor</string>
+	<key>sizedboxasync</key>
+	<string>basicPromise</string>
+	<key>switchBottom</key>
+	<string>scrollableBinder</string>
+	<key>transformervalidation</key>
+	<string>locateAsync</string>
+	<key>webBatch</key>
+	<string>fixedTransition</string>
+</dict>
+</plist>

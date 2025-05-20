@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistTransparency</key>
+	<string>functionalTriangles</string>
+	<key>crudeStream</key>
+	<string>dispatchButton</string>
+	<key>functionalIntegration</key>
+	<string>shouldPaintSwitch</string>
+	<key>indicatorTransparency</key>
+	<string>imageDecorator</string>
+	<key>resourceOpacity</key>
+	<string>unmountRole</string>
+	<key>shoulddecodestateful</key>
+	<string>spotamongjob</string>
+	<key>webBitrate</key>
+	<string>publicDescent</string>
+</dict>
+</plist>

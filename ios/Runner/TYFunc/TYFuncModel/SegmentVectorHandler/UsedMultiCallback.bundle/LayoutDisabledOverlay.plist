@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildersincestyle</key>
+	<string>concurrentScaffold</string>
+	<key>ignoredPopup</key>
+	<string>presentIndicator</string>
+	<key>processorStyle</key>
+	<string>autoPet</string>
+	<key>relationalMargin</key>
+	<string>poolLocalization</string>
+	<key>selectedAxis</key>
+	<string>containerscale</string>
+	<key>shouldFinishPriority</key>
+	<string>referenceColor</string>
+	<key>showallocator</key>
+	<string>cupertinodecoratortheme</string>
+	<key>smartscenefeedback</key>
+	<string>optimizeCurve</string>
+</dict>
+</plist>

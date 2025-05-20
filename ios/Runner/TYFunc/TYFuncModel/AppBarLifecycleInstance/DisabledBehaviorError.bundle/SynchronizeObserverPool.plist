@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinetrigger</key>
+	<string>mountedresult</string>
+	<key>firstgem</key>
+	<string>timeFeedback</string>
+	<key>geometricfuturestatus</key>
+	<string>tweenPrototype</string>
+	<key>gesturedetectorTheme</key>
+	<string>euclideanCycle</string>
+	<key>largeChecklist</key>
+	<string>segmentCenter</string>
+	<key>overrideslider</key>
+	<string>characterShade</string>
+	<key>permissiveNotation</key>
+	<string>primaryCharacteristic</string>
+	<key>shouldFetchNotification</key>
+	<string>zoneBrightness</string>
+</dict>
+</plist>

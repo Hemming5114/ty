@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinePressure</key>
+	<string>functionalVariant</string>
+	<key>enabledEvolution</key>
+	<string>shouldContinueBehavior</string>
+	<key>equalizationanimator</key>
+	<string>missedFrame</string>
+	<key>interpolationDensity</key>
+	<string>specifySign</string>
+	<key>shouldEmitImage</key>
+	<string>eventValidation</string>
+	<key>tableHead</key>
+	<string>sizecapacity</string>
+</dict>
+</plist>

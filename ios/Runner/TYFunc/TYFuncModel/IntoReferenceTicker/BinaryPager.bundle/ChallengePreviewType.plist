@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphabeyondstyle</key>
+	<string>popDuration</string>
+	<key>captionRotation</key>
+	<string>savechapter</string>
+	<key>cellcontainer</key>
+	<string>statefulResource</string>
+	<key>divideprovider</key>
+	<string>granularOccasion</string>
+	<key>filtername</key>
+	<string>inkwellBehavior</string>
+	<key>isBoxShadow</key>
+	<string>refreshchart</string>
+	<key>nextException</key>
+	<string>scenarioAlignment</string>
+	<key>themeview</key>
+	<string>missionSpeed</string>
+</dict>
+</plist>

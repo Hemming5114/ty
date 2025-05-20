@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLayer</key>
+	<string>freeProvider</string>
+	<key>cupertinoascent</key>
+	<string>hardSwitch</string>
+	<key>navigationOpacity</key>
+	<string>impactSpacing</string>
+	<key>priorityvector</key>
+	<string>uniformMusic</string>
+	<key>remainderCenter</key>
+	<string>chapterinset</string>
+	<key>sharedCombiner</key>
+	<string>shouldSubscribeBloc</string>
+</dict>
+</plist>

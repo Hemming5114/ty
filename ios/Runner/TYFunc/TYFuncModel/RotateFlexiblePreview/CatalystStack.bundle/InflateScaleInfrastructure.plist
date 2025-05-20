@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultResolver</key>
+	<string>configurationdirection</string>
+	<key>ephemeralCanvas</key>
+	<string>concretePadding</string>
+	<key>gridresilience</key>
+	<string>canLayoutStoryboard</string>
+	<key>hierarchicalLogarithm</key>
+	<string>sortedLocalization</string>
+	<key>intermediateProgressBar</key>
+	<string>encodeposition</string>
+	<key>positionasstage</key>
+	<string>shouldHandleNib</string>
+	<key>screenLocation</key>
+	<string>obtainEntity</string>
+	<key>scrollcycleindex</key>
+	<string>canStreamBatch</string>
+	<key>unactivatedGroup</key>
+	<string>deprecateConstraint</string>
+</dict>
+</plist>

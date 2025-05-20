@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDepth</key>
+	<string>axisSpacing</string>
+	<key>aperturechapter</key>
+	<string>findGrid</string>
+	<key>blocrotation</key>
+	<string>checkboxpresenter</string>
+	<key>intensityprototypevisible</key>
+	<string>polygonTail</string>
+	<key>nativecupertinolocation</key>
+	<string>shouldFinishActivity</string>
+	<key>profileColor</key>
+	<string>lastLoop</string>
+	<key>staticNode</key>
+	<string>brushkind</string>
+</dict>
+</plist>

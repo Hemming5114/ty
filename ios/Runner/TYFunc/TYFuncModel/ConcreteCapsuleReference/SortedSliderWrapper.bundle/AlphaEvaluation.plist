@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncbrightness</key>
+	<string>autoLog</string>
+	<key>colorAlignment</key>
+	<string>diffableclipper</string>
+	<key>columnscalability</key>
+	<string>projectionEdge</string>
+	<key>expandedAlignment</key>
+	<string>fillModel</string>
+	<key>persistentAxis</key>
+	<string>enumerateChapter</string>
+	<key>quantizationmethod</key>
+	<string>cartesianTween</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBottom</key>
+	<string>autoTransformer</string>
+	<key>capacitiesStyle</key>
+	<string>streamlineLayer</string>
+	<key>scrollableSorter</key>
+	<string>sortedCheckbox</string>
+	<key>streamcubit</key>
+	<string>slashthanproxy</string>
+	<key>temporaryTicker</key>
+	<string>decorationPhase</string>
+</dict>
+</plist>

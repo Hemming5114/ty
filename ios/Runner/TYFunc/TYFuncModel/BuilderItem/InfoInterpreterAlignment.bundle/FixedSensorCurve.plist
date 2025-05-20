@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachesine</key>
+	<string>schedulerspeed</string>
+	<key>decorationedge</key>
+	<string>sharedconvolutiontheme</string>
+	<key>delegateDelay</key>
+	<string>routerFormat</string>
+	<key>deploymetadata</key>
+	<string>tabviewPlatform</string>
+	<key>dispatcherSkewY</key>
+	<string>mobileCatalyst</string>
+	<key>heapBorder</key>
+	<string>logdistinction</string>
+	<key>prevEvent</key>
+	<string>requiredExpanded</string>
+	<key>requiredisolate</key>
+	<string>listenBaseline</string>
+	<key>setstatesubscription</key>
+	<string>standaloneSkin</string>
+	<key>timerHead</key>
+	<string>singleTool</string>
+</dict>
+</plist>

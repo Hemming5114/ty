@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectspeed</key>
+	<string>pageviewSaturation</string>
+	<key>compositionalDelivery</key>
+	<string>dropoutAlignment</string>
+	<key>defaultExpanded</key>
+	<string>uniqueMatrix</string>
+	<key>ephemeralChart</key>
+	<string>createTexture</string>
+	<key>granularLinker</key>
+	<string>mitigateResult</string>
+	<key>immutableComponent</key>
+	<string>shouldCacheSlash</string>
+	<key>shouldserializetechnique</key>
+	<string>pagerSize</string>
+	<key>subscriberVisible</key>
+	<string>signmodule</string>
+</dict>
+</plist>

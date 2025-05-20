@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileOptimizer</key>
+	<string>mutableReplica</string>
+	<key>animatedDependency</key>
+	<string>consumebloc</string>
+	<key>cellforframework</key>
+	<string>shouldPersistActivity</string>
+	<key>certificateisolate</key>
+	<string>mapasvariable</string>
+	<key>commonSelector</key>
+	<string>canDisconnectButton</string>
+	<key>hyperbolicTexture</key>
+	<string>litesine</string>
+	<key>intuitiveAnalyzer</key>
+	<string>observeChart</string>
+	<key>mediaTop</key>
+	<string>canPersistProjection</string>
+	<key>typicalAnchor</key>
+	<string>grainTier</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activemargintag</key>
+	<string>accessibleUtil</string>
+	<key>advancedLoader</key>
+	<string>finishBaseline</string>
+	<key>eagerAwait</key>
+	<string>shouldHandleSkin</string>
+	<key>navigatetimer</key>
+	<string>gesturedetectortag</string>
+</dict>
+</plist>

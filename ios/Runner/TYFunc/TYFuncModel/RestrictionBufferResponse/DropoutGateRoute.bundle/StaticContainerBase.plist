@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousService</key>
+	<string>gramProcess</string>
+	<key>handlersaturation</key>
+	<string>substantialOperation</string>
+	<key>inheritedWorkflow</key>
+	<string>basicFragments</string>
+	<key>intermediateAlpha</key>
+	<string>quantizationRouter</string>
+	<key>shouldBindSkin</key>
+	<string>globalLatency</string>
+</dict>
+</plist>

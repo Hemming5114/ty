@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardvectorfrequency</key>
+	<string>combinermomentum</string>
+	<key>curveTail</key>
+	<string>aggregateAsync</string>
+	<key>deserializehandler</key>
+	<string>controllertierskewy</string>
+	<key>hyperbolicTime</key>
+	<string>mainOffset</string>
+	<key>missionpadding</key>
+	<string>otherModulus</string>
+	<key>nativeRole</key>
+	<string>disconnectBitrate</string>
+	<key>reduceslider</key>
+	<string>publishPageView</string>
+	<key>shouldCacheSensor</key>
+	<string>canHandleCharacter</string>
+	<key>streamforvisitor</key>
+	<string>shouldBindCurve</string>
+</dict>
+</plist>

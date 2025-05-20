@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSprite</key>
+	<string>heapTask</string>
+	<key>beginnerCapsule</key>
+	<string>cartesianReplica</string>
+	<key>dispatchparticle</key>
+	<string>canNavigateBloc</string>
+	<key>drawerValidation</key>
+	<string>shouldlayoutnorm</string>
+	<key>persistentTrajectory</key>
+	<string>shouldStopSine</string>
+	<key>pinchableSwitch</key>
+	<string>accordionBandwidth</string>
+	<key>provideredge</key>
+	<string>storyboardRight</string>
+	<key>scrollableTheme</key>
+	<string>lockUtil</string>
+	<key>shouldSetStateGraphic</key>
+	<string>difficultmaterializer</string>
+</dict>
+</plist>

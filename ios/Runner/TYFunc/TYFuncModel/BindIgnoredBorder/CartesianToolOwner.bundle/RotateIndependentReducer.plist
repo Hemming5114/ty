@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePressure</key>
+	<string>liteDelegate</string>
+	<key>directAscent</key>
+	<string>generateAnimation</string>
+	<key>displayableSwitch</key>
+	<string>convertListener</string>
+	<key>enabledScaffold</key>
+	<string>screenLeft</string>
+	<key>offsetscene</key>
+	<string>cupertinoChapter</string>
+	<key>semanticFormat</key>
+	<string>encapsulateDelegate</string>
+	<key>shouldBindOption</key>
+	<string>shouldDisconnectPadding</string>
+	<key>shouldTransitionProjection</key>
+	<string>anchorCount</string>
+	<key>updateposition</key>
+	<string>shouldreplaceexpanded</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonTension</key>
+	<string>robustSignature</string>
+	<key>queuecenter</key>
+	<string>denseScroll</string>
+	<key>resizableInterpolation</key>
+	<string>cleartween</string>
+</dict>
+</plist>

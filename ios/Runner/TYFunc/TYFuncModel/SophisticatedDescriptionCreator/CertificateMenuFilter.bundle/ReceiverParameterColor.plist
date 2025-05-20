@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxproxytension</key>
+	<string>synchronousPolyfill</string>
+	<key>consultativeRepository</key>
+	<string>resizablegraincoord</string>
+	<key>currentLifecycle</key>
+	<string>touchrow</string>
+	<key>customizedScaffold</key>
+	<string>adaptiveEfficiency</string>
+	<key>offsetRight</key>
+	<string>cursorLayer</string>
+	<key>reducerShape</key>
+	<string>subtlestate</string>
+	<key>shouldPersistProject</key>
+	<string>statelessCapacities</string>
+	<key>shouldPublishWorkflow</key>
+	<string>shouldPrepareLayout</string>
+</dict>
+</plist>

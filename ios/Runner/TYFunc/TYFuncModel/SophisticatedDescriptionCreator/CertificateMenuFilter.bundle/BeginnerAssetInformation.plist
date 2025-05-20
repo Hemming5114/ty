@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerEqualization</key>
+	<string>extendTexture</string>
+	<key>createnotifier</key>
+	<string>modelVariable</string>
+	<key>currenttransition</key>
+	<string>reducerNumber</string>
+	<key>handlercount</key>
+	<string>liteRow</string>
+	<key>heapanimation</key>
+	<string>factoryPosition</string>
+	<key>lostManager</key>
+	<string>functionalAspect</string>
+	<key>scaffoldanalyzer</key>
+	<string>protectedGrayscale</string>
+	<key>seamlessScenario</key>
+	<string>immutableGram</string>
+	<key>subtleLayer</key>
+	<string>radioSaturation</string>
+	<key>sustainableMenu</key>
+	<string>materializerCoord</string>
+</dict>
+</plist>

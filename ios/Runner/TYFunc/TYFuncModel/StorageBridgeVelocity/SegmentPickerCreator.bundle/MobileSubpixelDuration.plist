@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTentative</key>
+	<string>streamCache</string>
+	<key>animatedropdownbutton</key>
+	<string>partitionInterface</string>
+	<key>ephemeralModule</key>
+	<string>limitcallback</string>
+	<key>expandedOffset</key>
+	<string>draggableTimeline</string>
+	<key>mainUsage</key>
+	<string>attachGestureDetector</string>
+	<key>scrollableMetrics</key>
+	<string>canObserveHeap</string>
+	<key>shouldBuildGraphic</key>
+	<string>tableScale</string>
+	<key>sineMargin</key>
+	<string>desktopSegment</string>
+</dict>
+</plist>

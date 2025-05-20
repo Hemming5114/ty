@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTimeline</key>
+	<string>shouldStartLabel</string>
+	<key>gradientedge</key>
+	<string>delegatestatevelocity</string>
+	<key>keyConsumer</key>
+	<string>storageactivitystyle</string>
+	<key>observerdisclaimer</key>
+	<string>permissivetickerskewx</string>
+	<key>onlabelchanged</key>
+	<string>pauseWidget</string>
+	<key>paddingloop</key>
+	<string>canAttachAccessory</string>
+	<key>pivotalTransition</key>
+	<string>elasticityColor</string>
+	<key>prevPlayback</key>
+	<string>reactiveMatrix</string>
+	<key>workflowshape</key>
+	<string>retainedController</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectdelay</key>
+	<string>visibleconverter</string>
+	<key>clipperResponse</key>
+	<string>consultativeResponse</string>
+	<key>coordinatorDensity</key>
+	<string>disabledIntegrity</string>
+	<key>denseevent</key>
+	<string>actionSkewY</string>
+	<key>responsiveTask</key>
+	<string>schedulerCenter</string>
+	<key>shouldNavigateSkin</key>
+	<string>arithmeticChallenge</string>
+	<key>shouldTransitionBullet</key>
+	<string>errordistance</string>
+	<key>statusValidation</key>
+	<string>syncpageview</string>
+	<key>textureintegration</key>
+	<string>defaultbaseline</string>
+</dict>
+</plist>

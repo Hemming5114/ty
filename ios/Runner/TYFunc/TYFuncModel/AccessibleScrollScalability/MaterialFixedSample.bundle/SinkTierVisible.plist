@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonfunctiontop</key>
+	<string>parsetechnique</string>
+	<key>characterofaction</key>
+	<string>taxonomyIndex</string>
+	<key>diffableRect</key>
+	<string>monstersprite</string>
+	<key>selectedAnimation</key>
+	<string>responsivelog</string>
+	<key>shouldFormatClipper</key>
+	<string>priortitle</string>
+	<key>synchronousSplitter</key>
+	<string>mixinPreview</string>
+	<key>unsortedInfrastructure</key>
+	<string>diversifiedMetadata</string>
+</dict>
+</plist>

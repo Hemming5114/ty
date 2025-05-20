@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAlignment</key>
+	<string>validateEqualization</string>
+	<key>multiplicationcomponent</key>
+	<string>processPet</string>
+	<key>permanentMenu</key>
+	<string>shouldNotifyDocument</string>
+	<key>persistentActivity</key>
+	<string>concurrentBoxShadow</string>
+	<key>serializezone</key>
+	<string>canAttachResource</string>
+	<key>tweeninset</key>
+	<string>canConnectGem</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalTechnique</key>
+	<string>cacheState</string>
+	<key>intermediatelooptint</key>
+	<string>denseDropdownButton</string>
+	<key>numericalAnimation</key>
+	<string>pagerInteraction</string>
+	<key>offsetmesh</key>
+	<string>axisStrategy</string>
+</dict>
+</plist>

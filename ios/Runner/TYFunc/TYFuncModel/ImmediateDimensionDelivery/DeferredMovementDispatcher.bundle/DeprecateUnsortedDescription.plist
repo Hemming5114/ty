@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedExtension</key>
+	<string>shouldCancelCheckbox</string>
+	<key>onaxischanged</key>
+	<string>basicEvent</string>
+	<key>rapidTool</key>
+	<string>movetable</string>
+	<key>reducerarchitecture</key>
+	<string>entropyedge</string>
+	<key>shouldRebuildResource</key>
+	<string>operationSkewX</string>
+	<key>streamduration</key>
+	<string>shouldCacheStateless</string>
+</dict>
+</plist>

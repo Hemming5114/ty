@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSlash</key>
+	<string>resizeAllocator</string>
+	<key>columnFeedback</key>
+	<string>publicRadio</string>
+	<key>methodshapespeed</key>
+	<string>petName</string>
+	<key>respectiveNorm</key>
+	<string>startPoint</string>
+	<key>responsiveCluster</key>
+	<string>resumeoverlay</string>
+	<key>segueCount</key>
+	<string>batchPattern</string>
+	<key>sequentialcontainer</key>
+	<string>subscriberSkewY</string>
+	<key>typicalStrength</key>
+	<string>lazyCapsule</string>
+</dict>
+</plist>

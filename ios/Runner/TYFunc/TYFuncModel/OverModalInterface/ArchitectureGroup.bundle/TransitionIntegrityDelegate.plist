@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklisttop</key>
+	<string>schedulerTheme</string>
+	<key>fragmentInterval</key>
+	<string>commonPublisher</string>
+	<key>granularDetector</key>
+	<string>paintMonster</string>
+	<key>resourcepressure</key>
+	<string>modelType</string>
+	<key>statelesscompletion</key>
+	<string>masterMode</string>
+	<key>subtleButton</key>
+	<string>canCreateTheme</string>
+	<key>typicalObject</key>
+	<string>intermediateRectangle</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEntity</key>
+	<string>scaffoldScope</string>
+	<key>cellacceleration</key>
+	<string>evaluationTheme</string>
+	<key>draggableStrength</key>
+	<string>shouldSubscribeMatrix</string>
+	<key>lossrate</key>
+	<string>shouldCachePoint</string>
+	<key>resolversingletondelay</key>
+	<string>slidercount</string>
+</dict>
+</plist>

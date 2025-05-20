@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTension</key>
+	<string>shouldRouteScaffold</string>
+	<key>globalPrecision</key>
+	<string>differentiateError</string>
+	<key>persistenttabviewcount</key>
+	<string>mutableSingleton</string>
+	<key>publisherinset</key>
+	<string>pinchableActivity</string>
+	<key>shouldStopEffect</key>
+	<string>staticTextField</string>
+	<key>shouldhandlevariant</key>
+	<string>layoutbydecorator</string>
+	<key>uniqueChapter</key>
+	<string>standaloneDecoration</string>
+	<key>usedrequesttop</key>
+	<string>canFetchMultiplication</string>
+</dict>
+</plist>

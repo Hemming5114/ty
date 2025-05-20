@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularModal</key>
+	<string>saveMediaQuery</string>
+	<key>onsignchanged</key>
+	<string>capacitiesoutsidestyle</string>
+	<key>relationalGestureDetector</key>
+	<string>joinerCount</string>
+	<key>resizableConstant</key>
+	<string>equipmentkind</string>
+	<key>routerstructurefrequency</key>
+	<string>immutablePresenter</string>
+	<key>substantialDetector</key>
+	<string>slidertiervelocity</string>
+</dict>
+</plist>

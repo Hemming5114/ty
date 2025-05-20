@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardShader</key>
+	<string>shouldPublishMobile</string>
+	<key>disparateElement</key>
+	<string>enabledOccasion</string>
+	<key>opaqueMapper</key>
+	<string>loopasbridge</string>
+	<key>traversalspacing</key>
+	<string>maintainAction</string>
+</dict>
+</plist>

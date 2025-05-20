@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiodelay</key>
+	<string>deferredComponent</string>
+	<key>asyncDelay</key>
+	<string>pagertop</string>
+	<key>lostLoader</key>
+	<string>inactivePopup</string>
+	<key>managerResponse</key>
+	<string>cacheAnimatedContainer</string>
+	<key>sequentialMetadata</key>
+	<string>shouldUnbindAnimation</string>
+	<key>sharedListView</key>
+	<string>skirtSingleton</string>
+</dict>
+</plist>

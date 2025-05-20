@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentScene</key>
+	<string>shouldConnectIndicator</string>
+	<key>dynamicMargin</key>
+	<string>symmetricPresenter</string>
+	<key>localizationEdge</key>
+	<string>consultativeConnector</string>
+	<key>momentumPosition</key>
+	<string>canValidateFuture</string>
+	<key>numericalFilter</key>
+	<string>shouldConnectDrawer</string>
+	<key>precisionTop</key>
+	<string>functionalActivity</string>
+	<key>semanticsAlignment</key>
+	<string>checkRoute</string>
+	<key>usedPager</key>
+	<string>isolateVariable</string>
+</dict>
+</plist>

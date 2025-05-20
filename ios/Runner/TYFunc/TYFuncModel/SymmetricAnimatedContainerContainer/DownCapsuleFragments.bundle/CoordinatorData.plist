@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellPosition</key>
+	<string>newestFlex</string>
+	<key>mainDescription</key>
+	<string>restartscene</string>
+	<key>shouldsetstategridview</key>
+	<string>collectionMargin</string>
+	<key>spritereceiver</key>
+	<string>euclideanElement</string>
+</dict>
+</plist>

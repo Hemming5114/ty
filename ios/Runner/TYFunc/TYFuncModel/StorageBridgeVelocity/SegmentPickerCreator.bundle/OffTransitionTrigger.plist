@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDrawer</key>
+	<string>encodeRadius</string>
+	<key>concurrentGram</key>
+	<string>missionEdge</string>
+	<key>coordinatorthanstyle</key>
+	<string>activatedCluster</string>
+	<key>defaultprovider</key>
+	<string>semanticsResponse</string>
+	<key>difficultitem</key>
+	<string>clipDescription</string>
+	<key>entropybeyondcycle</key>
+	<string>canObserveCapsule</string>
+	<key>pointShade</key>
+	<string>managerSpeed</string>
+	<key>radioexceptlevel</key>
+	<string>webInterface</string>
+	<key>statelessOverlay</key>
+	<string>fixedSubscriber</string>
+</dict>
+</plist>

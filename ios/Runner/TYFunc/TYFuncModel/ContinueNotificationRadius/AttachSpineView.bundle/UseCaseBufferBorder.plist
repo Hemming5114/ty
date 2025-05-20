@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProgressBar</key>
+	<string>lockQueue</string>
+	<key>concurrentAudio</key>
+	<string>sharedDelegate</string>
+	<key>nextProcessor</key>
+	<string>semanticTaxonomy</string>
+	<key>onternarychanged</key>
+	<string>locatepositioned</string>
+	<key>pinchableIcon</key>
+	<string>fragmentsAcceleration</string>
+</dict>
+</plist>

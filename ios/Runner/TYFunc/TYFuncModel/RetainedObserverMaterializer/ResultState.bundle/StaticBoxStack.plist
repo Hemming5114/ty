@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagereventorigin</key>
+	<string>progressbarFunction</string>
+	<key>elementSaturation</key>
+	<string>decodebaseline</string>
+	<key>integritySpacing</key>
+	<string>dropdownbuttonAlignment</string>
+	<key>presentanchor</key>
+	<string>sampleChain</string>
+	<key>priorityshade</key>
+	<string>canPresentLayout</string>
+	<key>semanticsvelocity</key>
+	<string>reducerState</string>
+	<key>singleProcessor</key>
+	<string>materialCard</string>
+	<key>statelessInterval</key>
+	<string>canYieldTransition</string>
+	<key>textBehavior</key>
+	<string>explicitChallenge</string>
+	<key>textfieldFlags</key>
+	<string>retainsession</string>
+</dict>
+</plist>

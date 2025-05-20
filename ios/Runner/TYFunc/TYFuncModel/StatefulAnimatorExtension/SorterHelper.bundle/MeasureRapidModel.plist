@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopstore</key>
+	<string>canRouteBoxShadow</string>
+	<key>heroasshape</key>
+	<string>popupAdapter</string>
+	<key>mutablePrecision</key>
+	<string>granularparticle</string>
+	<key>nativeRenderer</key>
+	<string>cardBridge</string>
+	<key>operationBottom</key>
+	<string>easyScroller</string>
+	<key>rolebyjob</key>
+	<string>sizeLevel</string>
+	<key>zoneRotation</key>
+	<string>customSingleton</string>
+</dict>
+</plist>

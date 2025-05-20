@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchtimer</key>
+	<string>dedicatedTicker</string>
+	<key>globalprojectiondelay</key>
+	<string>canNotifyEquipment</string>
+	<key>stampDepth</key>
+	<string>publishframe</string>
+	<key>storageAlignment</key>
+	<string>resizeCompleter</string>
+</dict>
+</plist>

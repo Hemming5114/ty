@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOrigin</key>
+	<string>firstExtension</string>
+	<key>disabledCapacities</key>
+	<string>canDeserializeLabel</string>
+	<key>invisibleCollection</key>
+	<string>interfaceHead</string>
+	<key>observerforsystem</key>
+	<string>scaffoldTag</string>
+	<key>presenterState</key>
+	<string>mutableReference</string>
+	<key>skirtcenter</key>
+	<string>dynamicDuration</string>
+	<key>slidertweak</key>
+	<string>reductionActivity</string>
+	<key>topicduration</key>
+	<string>bulletBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcoordinator</key>
+	<string>spineDepth</string>
+	<key>integrityIndex</key>
+	<string>logshade</string>
+	<key>mountcapacities</key>
+	<string>colorBrightness</string>
+	<key>otherChooser</key>
+	<string>moduleStatus</string>
+	<key>resolverbesidepattern</key>
+	<string>monsterSpacing</string>
+	<key>responsiveClipper</key>
+	<string>similarOccasion</string>
+	<key>scrollableCollection</key>
+	<string>canDeserializeMap</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basiccolumn</key>
+	<string>nextAscent</string>
+	<key>clipperbehavior</key>
+	<string>largelabelshape</string>
+	<key>collectionIndex</key>
+	<string>canNavigateOverlay</string>
+	<key>materialSubpixel</key>
+	<string>statefulreducer</string>
+	<key>navigationColor</key>
+	<string>skinStage</string>
+	<key>selectedRow</key>
+	<string>shouldTrainSlider</string>
+	<key>semanticaperture</key>
+	<string>shouldContinuePainter</string>
+	<key>shouldTrainDimension</key>
+	<string>startRoute</string>
+	<key>taskcommandkind</key>
+	<string>remaindergrid</string>
+</dict>
+</plist>

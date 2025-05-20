@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticDescription</key>
+	<string>pivotallayoutstyle</string>
+	<key>enhancemethod</key>
+	<string>borderActivity</string>
+	<key>geometricDisclaimer</key>
+	<string>lastDialogs</string>
+	<key>shouldConnectDrawer</key>
+	<string>canShowCharacter</string>
+	<key>shouldTransitionCustomPaint</key>
+	<string>symmetricBloc</string>
+	<key>stackvisible</key>
+	<string>dialogsVariable</string>
+</dict>
+</plist>

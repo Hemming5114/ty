@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactivecanvas</key>
+	<string>extendChart</string>
+	<key>iterativeMenu</key>
+	<string>modaluntillayer</string>
+	<key>scrollBottom</key>
+	<string>handlecomposition</string>
+	<key>tabbarShade</key>
+	<string>handlerVisibility</string>
+</dict>
+</plist>

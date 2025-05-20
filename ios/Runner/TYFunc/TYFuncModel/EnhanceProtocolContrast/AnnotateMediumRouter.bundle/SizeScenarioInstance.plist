@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapteracceleration</key>
+	<string>completedCapacities</string>
+	<key>combinerBrightness</key>
+	<string>euclideanCursor</string>
+	<key>cupertinoSpot</key>
+	<string>lostSplitter</string>
+	<key>dropdownbuttonatmethod</key>
+	<string>tablebufferstyle</string>
+	<key>intensityshape</key>
+	<string>validateHeap</string>
+	<key>objectMode</key>
+	<string>cupertinoCharacter</string>
+	<key>richtextName</key>
+	<string>shouldConnectCustomPaint</string>
+	<key>shouldPersistBinary</key>
+	<string>embraceOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatealpha</key>
+	<string>canShowLabel</string>
+	<key>blocCoord</key>
+	<string>constraintProcess</string>
+	<key>cupertinoorientation</key>
+	<string>completervolume</string>
+	<key>firstcardmargin</key>
+	<string>channelContrast</string>
+	<key>gradientDistance</key>
+	<string>intuitiveBuilder</string>
+	<key>mediumDescription</key>
+	<string>resizeStorage</string>
+	<key>skirtStatus</key>
+	<string>interactiveException</string>
+	<key>tickerhead</key>
+	<string>createmediaquery</string>
+	<key>trianglespadding</key>
+	<string>autoStateful</string>
+</dict>
+</plist>

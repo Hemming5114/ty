@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeSaturation</key>
+	<string>isDimension</string>
+	<key>descentStyle</key>
+	<string>accessibleHash</string>
+	<key>granularReliability</key>
+	<string>localizationState</string>
+	<key>intermediateGraphic</key>
+	<string>animatorBehavior</string>
+	<key>liteSemantics</key>
+	<string>functionalFrame</string>
+	<key>mergerKind</key>
+	<string>seekResolver</string>
+	<key>nextLocalization</key>
+	<string>symmetricExpanded</string>
+	<key>shouldSaveBaseline</key>
+	<string>nodepatternflags</string>
+	<key>shouldlistenchallenge</key>
+	<string>disparateScalability</string>
+</dict>
+</plist>

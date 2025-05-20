@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationLocation</key>
+	<string>displayabledescent</string>
+	<key>displayableappbarpadding</key>
+	<string>inflateThread</string>
+	<key>gridviewtopic</key>
+	<string>subscribeTouch</string>
+	<key>rowborder</key>
+	<string>polyfillContrast</string>
+	<key>similarDescription</key>
+	<string>canTrainCompletion</string>
+	<key>symmetricobserversaturation</key>
+	<string>matrixDensity</string>
+</dict>
+</plist>

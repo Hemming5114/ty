@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentdelegate</key>
+	<string>graphDensity</string>
+	<key>ephemeralIcon</key>
+	<string>baselinerenderer</string>
+	<key>localizationcycleinset</key>
+	<string>secondVector</string>
+	<key>shouldCacheReduction</key>
+	<string>shouldBindAppBar</string>
+	<key>shouldcontinuebase</key>
+	<string>touchPadding</string>
+	<key>signatureborder</key>
+	<string>beginnerSink</string>
+	<key>significantTool</key>
+	<string>currentTriangles</string>
+	<key>specifierTint</key>
+	<string>modelVar</string>
+</dict>
+</plist>

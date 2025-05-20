@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePromise</key>
+	<string>comprehensiveVideo</string>
+	<key>deferredTentative</key>
+	<string>replaceSize</string>
+	<key>greatAspectRatio</key>
+	<string>timerSpeed</string>
+	<key>interactiveTimer</key>
+	<string>declarativeInterface</string>
+	<key>invisibleSegment</key>
+	<string>shouldBuildMediaQuery</string>
+	<key>modulusandmode</key>
+	<string>limitStream</string>
+	<key>requestroute</key>
+	<string>convertRequest</string>
+	<key>rowAlignment</key>
+	<string>hardPainter</string>
+	<key>sampleasparameter</key>
+	<string>cupertinoTitle</string>
+</dict>
+</plist>

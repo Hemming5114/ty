@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsframeworkstatus</key>
+	<string>sanitizeAction</string>
+	<key>characteristicLocation</key>
+	<string>previewEdge</string>
+	<key>permanentNib</key>
+	<string>newesttaskshade</string>
+	<key>primarylogfrequency</key>
+	<string>sharedPageView</string>
+	<key>resizableblocstatus</key>
+	<string>persistentTicker</string>
+	<key>shouldRenderTheme</key>
+	<string>mutablestream</string>
+	<key>specifyElement</key>
+	<string>crudeStateful</string>
+	<key>statelessGradient</key>
+	<string>commonNotification</string>
+	<key>tweenAppearance</key>
+	<string>textureleft</string>
+</dict>
+</plist>

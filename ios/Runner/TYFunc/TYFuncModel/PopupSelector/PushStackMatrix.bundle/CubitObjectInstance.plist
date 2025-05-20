@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerBorder</key>
+	<string>cupertinoPicker</string>
+	<key>directBandwidth</key>
+	<string>shouldRouteTouch</string>
+	<key>monsterHead</key>
+	<string>canBindTheme</string>
+	<key>queueMode</key>
+	<string>requiredindicator</string>
+	<key>shouldPushKernel</key>
+	<string>lastRouter</string>
+	<key>statefulaxis</key>
+	<string>staticMember</string>
+</dict>
+</plist>

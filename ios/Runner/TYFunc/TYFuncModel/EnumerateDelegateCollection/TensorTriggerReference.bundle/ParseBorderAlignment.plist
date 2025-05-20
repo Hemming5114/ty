@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTimer</key>
+	<string>operationdelay</string>
+	<key>crucialDuration</key>
+	<string>dropoutRouter</string>
+	<key>displayablelatency</key>
+	<string>shouldLayoutUnary</string>
+	<key>fusedSine</key>
+	<string>significantBandwidth</string>
+	<key>layoutconverter</key>
+	<string>shouldEncodeReduction</string>
+	<key>significantEvent</key>
+	<string>shouldYieldSpot</string>
+	<key>skinOffset</key>
+	<string>adaptiveDispatcher</string>
+	<key>usecasecontroller</key>
+	<string>activatedstoryboardduration</string>
+	<key>usedOverlay</key>
+	<string>shouldPublishCursor</string>
+</dict>
+</plist>

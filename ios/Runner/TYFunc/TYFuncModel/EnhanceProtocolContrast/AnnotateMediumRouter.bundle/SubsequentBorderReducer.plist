@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBehavior</key>
+	<string>positionedFramework</string>
+	<key>cartesianFuture</key>
+	<string>immediateSemantics</string>
+	<key>functionalScreen</key>
+	<string>topicForm</string>
+	<key>masterskewx</key>
+	<string>hasBaseline</string>
+	<key>sequentialTransformer</key>
+	<string>significantPresenter</string>
+	<key>unmountmap</key>
+	<string>lostGroup</string>
+	<key>utilShape</key>
+	<string>dropdownbuttonObserver</string>
+</dict>
+</plist>

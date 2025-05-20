@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialtabbar</key>
+	<string>canCancelSegment</string>
+	<key>dropdownbuttonwithproxy</key>
+	<string>usecaseComposite</string>
+	<key>hardActivity</key>
+	<string>observertension</string>
+	<key>intermediateStore</key>
+	<string>resourceBuffer</string>
+	<key>lostInteractor</key>
+	<string>checklistVisibility</string>
+	<key>mobileKind</key>
+	<string>euclideanResilience</string>
+	<key>otherIndicator</key>
+	<string>positionJob</string>
+	<key>shouldDisconnectWorkflow</key>
+	<string>switchRotation</string>
+	<key>triggercolor</key>
+	<string>missedController</string>
+</dict>
+</plist>

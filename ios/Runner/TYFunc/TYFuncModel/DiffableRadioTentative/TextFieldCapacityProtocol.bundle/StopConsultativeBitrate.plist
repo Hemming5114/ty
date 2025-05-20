@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionQueue</key>
+	<string>controllerBrightness</string>
+	<key>buttonOpacity</key>
+	<string>canEncodePageView</string>
+	<key>cartesianRequest</key>
+	<string>shouldTrainDocument</string>
+	<key>draggablePet</key>
+	<string>gramProcess</string>
+	<key>imperativeItem</key>
+	<string>primaryService</string>
+	<key>lastplayback</key>
+	<string>activeRichText</string>
+	<key>popupalongcomposite</key>
+	<string>crucialEquipment</string>
+	<key>prismaticInterpolation</key>
+	<string>enhanceText</string>
+	<key>roleflags</key>
+	<string>canCacheChannels</string>
+	<key>statefulReduction</key>
+	<string>strengthTag</string>
+</dict>
+</plist>

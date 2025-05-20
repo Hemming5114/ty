@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAsync</key>
+	<string>defaultscreen</string>
+	<key>dynamicCharacteristic</key>
+	<string>canFormatFragment</string>
+	<key>firstDropdownButton</key>
+	<string>sortedAnalogy</string>
+	<key>oldCertificate</key>
+	<string>mixinFactory</string>
+	<key>shouldSkipRoute</key>
+	<string>easyTask</string>
+	<key>sophisticatedCanvas</key>
+	<string>aspectStrategy</string>
+</dict>
+</plist>

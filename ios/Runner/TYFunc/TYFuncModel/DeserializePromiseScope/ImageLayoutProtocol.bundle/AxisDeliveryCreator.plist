@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustconstraint</key>
+	<string>showDescriptor</string>
+	<key>asyncContrast</key>
+	<string>momentumParameter</string>
+	<key>displayableAwait</key>
+	<string>workflowHead</string>
+	<key>effectOffset</key>
+	<string>canUnmountChecklist</string>
+	<key>readlistener</key>
+	<string>customReceiver</string>
+	<key>shouldCancelComposition</key>
+	<string>shouldserializeworkflow</string>
+	<key>shouldloadcontroller</key>
+	<string>largeFuture</string>
+	<key>sizedboxFeedback</key>
+	<string>deserializeSignature</string>
+	<key>sophisticatedTextField</key>
+	<string>customMediaQuery</string>
+</dict>
+</plist>

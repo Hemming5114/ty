@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionOrigin</key>
+	<string>dynamicCombiner</string>
+	<key>createmodulus</key>
+	<string>canCreateDelegate</string>
+	<key>immutableLabel</key>
+	<string>originalResult</string>
+	<key>limitstamp</key>
+	<string>catalystfrequency</string>
+	<key>mediumButton</key>
+	<string>shouldLoadPadding</string>
+	<key>prevInteractor</key>
+	<string>statelessCard</string>
+	<key>reusablePrecision</key>
+	<string>shouldStreamNavigator</string>
+	<key>unsortedSubscriber</key>
+	<string>canDecodeCoordinator</string>
+</dict>
+</plist>

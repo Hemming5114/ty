@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densePrecision</key>
+	<string>sophisticatedError</string>
+	<key>functionalgrayscale</key>
+	<string>shouldHandlePositioned</string>
+	<key>grayscalespacing</key>
+	<string>canTransitionContraction</string>
+	<key>navigatorKind</key>
+	<string>staticCanvas</string>
+	<key>pivotalcatalyst</key>
+	<string>heroDecorator</string>
+	<key>queueContrast</key>
+	<string>resultdispatcher</string>
+	<key>requiredRouter</key>
+	<string>mediaascent</string>
+	<key>traversalRate</key>
+	<string>canRenderCanvas</string>
+</dict>
+</plist>

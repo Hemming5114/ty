@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerbloc</key>
+	<string>baselineRotation</string>
+	<key>challengescope</key>
+	<string>resultsize</string>
+	<key>compositionalBatch</key>
+	<string>parseAnchor</string>
+	<key>directPrecision</key>
+	<string>shouldDeserializeGradient</string>
+	<key>intuitiveboxshadow</key>
+	<string>sharedVertex</string>
+	<key>onoptiontap</key>
+	<string>flexibleReduction</string>
+	<key>otherBinder</key>
+	<string>sequentialanimatedcontainer</string>
+	<key>providerDepth</key>
+	<string>transposeSlider</string>
+	<key>retainedScale</key>
+	<string>instantiateutil</string>
+	<key>shouldUnmountedController</key>
+	<string>hashTransparency</string>
+</dict>
+</plist>

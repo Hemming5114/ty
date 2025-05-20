@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseStyle</key>
+	<string>canCancelCoordinator</string>
+	<key>graphicfeedback</key>
+	<string>opaquePresenter</string>
+	<key>itemVelocity</key>
+	<string>canConnectInkWell</string>
+	<key>multiplicationType</key>
+	<string>streamPlatform</string>
+	<key>presenterAcceleration</key>
+	<string>sequentialcluster</string>
+	<key>reactiveChapter</key>
+	<string>rowcolor</string>
+	<key>routerotation</key>
+	<string>dynamicTopic</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addgrayscale</key>
+	<string>formatMovement</string>
+	<key>constraintstateoffset</key>
+	<string>stepStatus</string>
+	<key>difficultAnchor</key>
+	<string>receiveRadius</string>
+	<key>mediocreactioninterval</key>
+	<string>euclideanColor</string>
+	<key>pinchableUtil</key>
+	<string>confidentialityType</string>
+	<key>scrollRight</key>
+	<string>promiseincomposite</string>
+	<key>storetension</key>
+	<string>eagerRequest</string>
+	<key>subsequentCharacteristic</key>
+	<string>taskRate</string>
+	<key>thresholdBorder</key>
+	<string>prismaticHistogram</string>
+</dict>
+</plist>

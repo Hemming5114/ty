@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSign</key>
+	<string>poolPosition</string>
+	<key>checkboxStyle</key>
+	<string>retainedSpecifier</string>
+	<key>immediateStore</key>
+	<string>concreteproviderformat</string>
+	<key>listenerSkewX</key>
+	<string>interactorPosition</string>
+	<key>localCube</key>
+	<string>constraintShape</string>
+	<key>moduleAcceleration</key>
+	<string>unactivatedContainer</string>
+	<key>promiseandbridge</key>
+	<string>streamlineCubit</string>
+	<key>propagatebutton</key>
+	<string>shouldConnectGraphic</string>
+	<key>responsiverectbehavior</key>
+	<string>canLayoutBox</string>
+	<key>staticloss</key>
+	<string>copyProgressBar</string>
+</dict>
+</plist>

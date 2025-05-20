@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisrect</key>
+	<string>intermediateBrush</string>
+	<key>exceptionBottom</key>
+	<string>accessibleConnector</string>
+	<key>memberdirection</key>
+	<string>canProcessGridView</string>
+	<key>sequentialItem</key>
+	<string>diffableIndicator</string>
+	<key>shouldDismissGrayscale</key>
+	<string>techniqueJob</string>
+	<key>subscriberStatus</key>
+	<string>remainderCycle</string>
+</dict>
+</plist>

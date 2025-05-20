@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedtext</key>
+	<string>apertureVisible</string>
+	<key>arithmeticinteraction</key>
+	<string>crudeLogarithm</string>
+	<key>continueproject</key>
+	<string>deactivateAllocator</string>
+	<key>ignoredstorestyle</key>
+	<string>immutableTabView</string>
+	<key>largeTimer</key>
+	<string>invisibleSearcher</string>
+	<key>matrixVisibility</key>
+	<string>autoTween</string>
+</dict>
+</plist>

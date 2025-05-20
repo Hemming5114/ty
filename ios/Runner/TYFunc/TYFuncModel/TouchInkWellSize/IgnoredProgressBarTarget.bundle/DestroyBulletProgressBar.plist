@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatetool</key>
+	<string>hascupertino</string>
+	<key>dynamicScheduler</key>
+	<string>dedicatedFormat</string>
+	<key>ismobile</key>
+	<string>asynchronousResource</string>
+	<key>radiusflyweightdepth</key>
+	<string>secondException</string>
+	<key>widgetsize</key>
+	<string>denseAlert</string>
+</dict>
+</plist>

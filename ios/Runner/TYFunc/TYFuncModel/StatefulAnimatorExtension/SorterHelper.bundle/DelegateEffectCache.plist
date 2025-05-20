@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthDirection</key>
+	<string>respectiveAnalyzer</string>
+	<key>commoninjection</key>
+	<string>optimizeSingleton</string>
+	<key>controllerdrawer</key>
+	<string>disconnectbuilder</string>
+	<key>desktoptopic</key>
+	<string>mediocreCatalyst</string>
+	<key>lazyHash</key>
+	<string>generateInteractor</string>
+	<key>pinchableReducer</key>
+	<string>transformerforlayer</string>
+	<key>shaderformedge</key>
+	<string>canBuildProject</string>
+	<key>sharedScale</key>
+	<string>pageviewFacade</string>
+	<key>shouldBindGrayscale</key>
+	<string>basicBullet</string>
+</dict>
+</plist>

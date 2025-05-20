@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBorder</key>
+	<string>canUnmountStateless</string>
+	<key>animatedMetadata</key>
+	<string>mediumChapter</string>
+	<key>methodsize</key>
+	<string>computeChapter</string>
+	<key>reductionName</key>
+	<string>notifyModulus</string>
+	<key>requiredcontroller</key>
+	<string>finishChallenge</string>
+	<key>storageOrigin</key>
+	<string>statelessTween</string>
+	<key>swiftVelocity</key>
+	<string>layoutchannel</string>
+</dict>
+</plist>

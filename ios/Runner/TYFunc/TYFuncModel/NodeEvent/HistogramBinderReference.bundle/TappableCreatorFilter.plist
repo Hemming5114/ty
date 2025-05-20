@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledUtil</key>
+	<string>shouldStartModulus</string>
+	<key>effectshape</key>
+	<string>loopdata</string>
+	<key>interactiveScene</key>
+	<string>diffableMesh</string>
+	<key>requiredcontroller</key>
+	<string>accelerateCallback</string>
+	<key>shouldBuildDocument</key>
+	<string>standaloneListener</string>
+	<key>symmetricresultdepth</key>
+	<string>inflateBrush</string>
+</dict>
+</plist>

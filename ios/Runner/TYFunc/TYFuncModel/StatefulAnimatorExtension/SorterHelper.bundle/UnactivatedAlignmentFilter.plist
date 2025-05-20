@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedShape</key>
+	<string>permanentOccasion</string>
+	<key>blochandler</key>
+	<string>originalPreview</string>
+	<key>eagerDependency</key>
+	<string>reusableParticle</string>
+	<key>lastScene</key>
+	<string>oldStream</string>
+	<key>pivotalbandwidth</key>
+	<string>injectionmerger</string>
+	<key>resilientPreview</key>
+	<string>pinchableThread</string>
+	<key>statelessVertex</key>
+	<string>canSaveCursor</string>
+	<key>synchronizenavigation</key>
+	<string>visibleKernel</string>
+	<key>unsortedInfo</key>
+	<string>shouldEncodeThread</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFilter</key>
+	<string>fetchloop</string>
+	<key>alertFeedback</key>
+	<string>secondConstant</string>
+	<key>criticalInteger</key>
+	<string>dispatcherInterval</string>
+	<key>cubeAlignment</key>
+	<string>shouldPushDescriptor</string>
+	<key>frameaction</key>
+	<string>expandedBehavior</string>
+	<key>intensityworkbound</key>
+	<string>unsortedExtension</string>
+	<key>managerinformation</key>
+	<string>clearLayout</string>
+	<key>unarypressure</key>
+	<string>multiplyGroup</string>
+</dict>
+</plist>

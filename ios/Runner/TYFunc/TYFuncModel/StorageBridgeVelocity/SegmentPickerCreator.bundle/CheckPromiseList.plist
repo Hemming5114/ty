@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentMonster</key>
+	<string>timeColor</string>
+	<key>lostPicker</key>
+	<string>mobileOrientation</string>
+	<key>nodeBottom</key>
+	<string>monsterTint</string>
+	<key>nodefinder</key>
+	<string>emitterInset</string>
+	<key>persistentGram</key>
+	<string>mendCount</string>
+	<key>responseinvar</key>
+	<string>skirtForce</string>
+	<key>shouldInflateUsage</key>
+	<string>mediaqueryDecorator</string>
+	<key>shouldStreamReduction</key>
+	<string>seamlessMovement</string>
+	<key>statefulSink</key>
+	<string>popScreen</string>
+</dict>
+</plist>

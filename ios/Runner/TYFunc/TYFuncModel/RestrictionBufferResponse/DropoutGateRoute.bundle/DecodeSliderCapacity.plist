@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateconnector</key>
+	<string>previewIndex</string>
+	<key>requiredSkin</key>
+	<string>nibSkewX</string>
+	<key>resourcedelay</key>
+	<string>shouldFetchSwift</string>
+	<key>titleDepth</key>
+	<string>immediateBorder</string>
+</dict>
+</plist>

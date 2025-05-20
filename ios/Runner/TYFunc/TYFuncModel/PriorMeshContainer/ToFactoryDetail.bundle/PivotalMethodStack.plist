@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableRectangle</key>
+	<string>parallelSkirt</string>
+	<key>draggableInformation</key>
+	<string>activeContrast</string>
+	<key>metadatatypeinteraction</key>
+	<string>videoTail</string>
+	<key>resourcecenter</key>
+	<string>pauseWorkflow</string>
+	<key>scrollableReplica</key>
+	<string>greatskin</string>
+	<key>shouldDecodeCell</key>
+	<string>yieldPlate</string>
+	<key>standaloneAccessory</key>
+	<string>dismissdimension</string>
+</dict>
+</plist>

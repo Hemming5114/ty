@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeHistogram</key>
+	<string>canPushTheme</string>
+	<key>directlyAspect</key>
+	<string>shouldPaintUsage</string>
+	<key>discardedCreator</key>
+	<string>shapeleft</string>
+	<key>displayableAnalyzer</key>
+	<string>delegatehash</string>
+	<key>ignoredTimeline</key>
+	<string>renameInteractor</string>
+	<key>keyAsset</key>
+	<string>decodeCursor</string>
+	<key>nativeFactory</key>
+	<string>fixedtabledensity</string>
+	<key>normalReducer</key>
+	<string>canObserveActivity</string>
+	<key>oldScene</key>
+	<string>navigatorForce</string>
+	<key>rowexceptmethod</key>
+	<string>tickerValidation</string>
+</dict>
+</plist>

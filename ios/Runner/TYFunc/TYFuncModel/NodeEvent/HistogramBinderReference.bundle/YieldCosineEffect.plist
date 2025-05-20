@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlermomentum</key>
+	<string>schedulerDistance</string>
+	<key>independentCollection</key>
+	<string>shouldFetchSkirt</string>
+	<key>pagerTag</key>
+	<string>cubeVisible</string>
+	<key>retainedRectangle</key>
+	<string>grayscaleSystem</string>
+	<key>shouldlistentool</key>
+	<string>showTechnique</string>
+</dict>
+</plist>

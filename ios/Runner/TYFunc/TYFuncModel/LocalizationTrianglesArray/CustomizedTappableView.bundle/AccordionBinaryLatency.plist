@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellgrain</key>
+	<string>popupAlignment</string>
+	<key>disposeposition</key>
+	<string>lossActivity</string>
+	<key>hashtransformer</key>
+	<string>spineChain</string>
+	<key>scaffoldDuration</key>
+	<string>difficultBaseline</string>
+	<key>signatureIndex</key>
+	<string>insteadFrame</string>
+	<key>transitionviascope</key>
+	<string>commontabbarbrightness</string>
+</dict>
+</plist>

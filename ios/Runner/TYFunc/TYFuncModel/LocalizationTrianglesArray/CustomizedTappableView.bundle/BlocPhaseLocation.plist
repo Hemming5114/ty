@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePresenter</key>
+	<string>attachSwift</string>
+	<key>hashcontextvisible</key>
+	<string>concurrentPreview</string>
+	<key>hyperbolicOffset</key>
+	<string>sortedInstruction</string>
+	<key>projectionDelay</key>
+	<string>startImage</string>
+	<key>shouldFinishProject</key>
+	<string>streamTransition</string>
+	<key>similarBinder</key>
+	<string>shouldEmitExtension</string>
+	<key>subtleAction</key>
+	<string>lossStructure</string>
+</dict>
+</plist>

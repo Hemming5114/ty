@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaBottom</key>
+	<string>resilientBitrate</string>
+	<key>progressbarSkewY</key>
+	<string>draggableAlert</string>
+	<key>receiverFlags</key>
+	<string>criticalTimer</string>
+	<key>shouldNavigateHistogram</key>
+	<string>cancelnavigator</string>
+	<key>shouldRebuildTransition</key>
+	<string>immediateresourcedistance</string>
+	<key>symmetricCustomPaint</key>
+	<string>writeDuration</string>
+</dict>
+</plist>

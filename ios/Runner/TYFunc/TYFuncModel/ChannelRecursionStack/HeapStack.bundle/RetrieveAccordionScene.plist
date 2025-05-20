@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBatch</key>
+	<string>stackForm</string>
+	<key>delicateTool</key>
+	<string>usedSplitter</string>
+	<key>mastertension</key>
+	<string>shouldUpdateMission</string>
+	<key>mitigateresult</key>
+	<string>transformlistener</string>
+	<key>scalabilityTag</key>
+	<string>sensorInteraction</string>
+	<key>semanticEqualization</key>
+	<string>dialogsAlignment</string>
+	<key>shouldCacheOption</key>
+	<string>spriteProxy</string>
+	<key>symbolcoord</key>
+	<string>dynamicElement</string>
+	<key>tangentsensor</key>
+	<string>shouldObserveLayout</string>
+	<key>vectornumbervalidation</key>
+	<string>advancedinjection</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedPlate</key>
+	<string>shouldFetchStateless</string>
+	<key>filterPressure</key>
+	<string>spineSaturation</string>
+	<key>granularTween</key>
+	<string>crucialResult</string>
+	<key>shouldNavigateScaffold</key>
+	<string>relationalThread</string>
+</dict>
+</plist>

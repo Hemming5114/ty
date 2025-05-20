@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioninformation</key>
+	<string>updatetangent</string>
+	<key>customLoader</key>
+	<string>diffableOperation</string>
+	<key>granularFragment</key>
+	<string>layerTag</string>
+	<key>lastLoop</key>
+	<string>menuEnvironment</string>
+	<key>primaryconsumer</key>
+	<string>alertCommand</string>
+	<key>reusableRepository</key>
+	<string>unactivatedInterpolation</string>
+	<key>sessionPadding</key>
+	<string>hyperbolicTopic</string>
+	<key>shouldObservePet</key>
+	<string>subtlePosition</string>
+</dict>
+</plist>

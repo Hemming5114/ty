@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPressure</key>
+	<string>trajectoryShade</string>
+	<key>declarativeCell</key>
+	<string>storageValidation</string>
+	<key>discardedRectangle</key>
+	<string>mainFilter</string>
+	<key>gradientContrast</key>
+	<string>currentRadio</string>
+	<key>nextdelivery</key>
+	<string>responsiveTabView</string>
+	<key>shouldDisposeBloc</key>
+	<string>shouldMountedTabView</string>
+	<key>shouldShowLog</key>
+	<string>curveatcomposite</string>
+	<key>statelessAppearance</key>
+	<string>shouldRenderDimension</string>
+	<key>statelessDetail</key>
+	<string>resetTimer</string>
+	<key>subtleMaterial</key>
+	<string>lastpicker</string>
+</dict>
+</plist>

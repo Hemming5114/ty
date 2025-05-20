@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsvaluehead</key>
+	<string>canSetStateMember</string>
+	<key>fixedTweak</key>
+	<string>shouldKeepProject</string>
+	<key>greatlayer</key>
+	<string>modalnode</string>
+	<key>largeContrast</key>
+	<string>ephemeralConstraint</string>
+	<key>shouldDetachSymbol</key>
+	<string>canEmitScroll</string>
+	<key>shouldFinishAlert</key>
+	<string>shouldLayoutAspect</string>
+	<key>steparoundflyweight</key>
+	<string>composableException</string>
+</dict>
+</plist>

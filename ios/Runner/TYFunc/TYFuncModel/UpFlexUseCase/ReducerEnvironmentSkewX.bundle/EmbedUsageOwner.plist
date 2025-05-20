@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineborder</key>
+	<string>pivotalTrigger</string>
+	<key>hardTopic</key>
+	<string>processorbehavior</string>
+	<key>mapperFeedback</key>
+	<string>standaloneEntity</string>
+	<key>smallconstraint</key>
+	<string>selectedDrawer</string>
+	<key>transformerborder</key>
+	<string>unactivatedBuilder</string>
+</dict>
+</plist>

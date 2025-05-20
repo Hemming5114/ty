@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentobject</key>
+	<string>retainedAccessory</string>
+	<key>consumptioninset</key>
+	<string>resolveFeature</string>
+	<key>denseRequest</key>
+	<string>offsetsample</string>
+	<key>shouldTransitionBoxShadow</key>
+	<string>aspectVariable</string>
+	<key>uniformCanvas</key>
+	<string>associatedEmitter</string>
+</dict>
+</plist>

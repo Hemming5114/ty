@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeSpacing</key>
+	<string>granularinkwellborder</string>
+	<key>currentStream</key>
+	<string>combineRouter</string>
+	<key>difficultStorage</key>
+	<string>expandedBottom</string>
+	<key>eagerexception</key>
+	<string>pushMember</string>
+	<key>gradientBehavior</key>
+	<string>textureShade</string>
+	<key>shouldRebuildInstruction</key>
+	<string>screenBridge</string>
+	<key>statusShape</key>
+	<string>shouldAnimateChecklist</string>
+</dict>
+</plist>

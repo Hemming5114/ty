@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactionDensity</key>
+	<string>dialogsscale</string>
+	<key>primaryWidget</key>
+	<string>sustainablePainter</string>
+	<key>relationalanchor</key>
+	<string>associatedScreen</string>
+	<key>shouldObserveIndicator</key>
+	<string>intensityRate</string>
+	<key>shouldRestartNotifier</key>
+	<string>composableBloc</string>
+	<key>shoulddisposeresource</key>
+	<string>subscribeSkirt</string>
+	<key>tabviewrate</key>
+	<string>gramComposite</string>
+</dict>
+</plist>

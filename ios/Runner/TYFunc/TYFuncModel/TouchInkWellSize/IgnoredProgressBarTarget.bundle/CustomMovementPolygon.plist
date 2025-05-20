@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSkewX</key>
+	<string>awaitLocation</string>
+	<key>beginnerMetrics</key>
+	<string>paddingDuration</string>
+	<key>bufferoffset</key>
+	<string>shouldDetachPageView</string>
+	<key>euclideansingleton</key>
+	<string>shouldPublishChannels</string>
+	<key>geometricLayout</key>
+	<string>sizeBottom</string>
+	<key>immediateExpanded</key>
+	<string>canTransformPlate</string>
+	<key>layerCenter</key>
+	<string>animationfeature</string>
+	<key>smallTransformer</key>
+	<string>prismaticsegue</string>
+</dict>
+</plist>

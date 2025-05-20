@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canceltimer</key>
+	<string>ignoredAspect</string>
+	<key>keydescent</key>
+	<string>behaviorScale</string>
+	<key>mobilePromise</key>
+	<string>shouldDecodeStateless</string>
+	<key>profileBound</key>
+	<string>materialrenderer</string>
+	<key>publicTrigger</key>
+	<string>endCapacities</string>
+	<key>seamlessCupertino</key>
+	<string>resourceScale</string>
+	<key>shouldUnmountedIndicator</key>
+	<string>mountProfile</string>
+	<key>specifyequalization</key>
+	<string>blocfunctionvisibility</string>
+	<key>subtleAspectRatio</key>
+	<string>directRenderer</string>
+	<key>tweentheme</key>
+	<string>efficiencyBrightness</string>
+</dict>
+</plist>

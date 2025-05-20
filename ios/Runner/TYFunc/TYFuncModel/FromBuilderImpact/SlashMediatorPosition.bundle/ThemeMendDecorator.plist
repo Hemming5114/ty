@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecontroller</key>
+	<string>autoCombiner</string>
+	<key>animatedcontainertop</key>
+	<string>sharedStatus</string>
+	<key>multiplicationStatus</key>
+	<string>inactiveCheckbox</string>
+	<key>originalPositioned</key>
+	<string>directlyparticledensity</string>
+	<key>shouldDisconnectText</key>
+	<string>discardedAudio</string>
+</dict>
+</plist>

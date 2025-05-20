@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateloss</key>
+	<string>providerwithoutshape</string>
+	<key>crudedecorationtop</key>
+	<string>descriptionDepth</string>
+	<key>defaultstateless</key>
+	<string>declarativebox</string>
+	<key>iterativeSymbol</key>
+	<string>canCreateNib</string>
+	<key>nextCharacteristic</key>
+	<string>loopSingleton</string>
+</dict>
+</plist>

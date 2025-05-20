@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedThreshold</key>
+	<string>shouldPublishSegment</string>
+	<key>captureborder</key>
+	<string>objectdistance</string>
+	<key>lazyPromise</key>
+	<string>navigateMaster</string>
+	<key>localCombiner</key>
+	<string>shouldNotifySegue</string>
+	<key>responderpressure</key>
+	<string>backwardRow</string>
+	<key>specifyconfigurationmomentum</key>
+	<string>shouldEndLog</string>
+	<key>streamlinerow</key>
+	<string>arithmeticRestriction</string>
+	<key>textureoutsidetype</key>
+	<string>lastLocalization</string>
+	<key>variantBrightness</key>
+	<string>cupertinoinsidevalue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMesh</key>
+	<string>uniqueAnimatedContainer</string>
+	<key>alertVisibility</key>
+	<string>shouldParsePriority</string>
+	<key>crudeOffset</key>
+	<string>primaryinterface</string>
+	<key>loopvaluebrightness</key>
+	<string>rowNumber</string>
+	<key>multiMerger</key>
+	<string>signVar</string>
+	<key>prismaticManager</key>
+	<string>mergerSpacing</string>
+	<key>shouldMountSkin</key>
+	<string>hasSpot</string>
+	<key>unsortedStoryboard</key>
+	<string>signatureInteraction</string>
+	<key>webMetadata</key>
+	<string>activatedTransition</string>
+</dict>
+</plist>

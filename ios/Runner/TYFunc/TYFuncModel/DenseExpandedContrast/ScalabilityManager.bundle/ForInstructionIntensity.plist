@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeBehavior</key>
+	<string>oldHero</string>
+	<key>inkwellResponse</key>
+	<string>sanitizeNode</string>
+	<key>keyLayout</key>
+	<string>unregisterInjection</string>
+	<key>traversalFormat</key>
+	<string>standalonestatepressure</string>
+	<key>wrapperPressure</key>
+	<string>precisionFacade</string>
+</dict>
+</plist>

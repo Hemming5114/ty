@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyRemediation</key>
+	<string>exceptionOffset</string>
+	<key>localSpecifier</key>
+	<string>indicatorstatespacing</string>
+	<key>metadatalayerbehavior</key>
+	<string>endTangent</string>
+	<key>pinchableAnalogy</key>
+	<string>uniformFrame</string>
+	<key>presenterTail</key>
+	<string>similarDescription</string>
+	<key>shouldemitimage</key>
+	<string>canPushRichText</string>
+	<key>smallSemantics</key>
+	<string>shouldstopdropdownbutton</string>
+	<key>tappableActivity</key>
+	<string>shouldFinishBaseline</string>
+</dict>
+</plist>

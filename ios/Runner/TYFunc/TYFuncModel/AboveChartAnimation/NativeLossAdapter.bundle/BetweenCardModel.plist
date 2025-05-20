@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvevalidation</key>
+	<string>diversifiedDetector</string>
+	<key>delegateSpeed</key>
+	<string>canParseGem</string>
+	<key>hardconstraint</key>
+	<string>canLayoutContraction</string>
+	<key>localLabel</key>
+	<string>mediaduration</string>
+	<key>mobileFuture</key>
+	<string>infoSize</string>
+	<key>navigationOrigin</key>
+	<string>isloss</string>
+	<key>publicBandwidth</key>
+	<string>agileMonster</string>
+	<key>semanticIntegration</key>
+	<string>connectPopup</string>
+	<key>skirtinproxy</key>
+	<string>uniformDrawer</string>
+</dict>
+</plist>

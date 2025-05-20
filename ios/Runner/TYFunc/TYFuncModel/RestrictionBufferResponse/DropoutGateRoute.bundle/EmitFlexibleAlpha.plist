@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStyle</key>
+	<string>aspectratiointeractor</string>
+	<key>enabledInteger</key>
+	<string>smallStorage</string>
+	<key>enabledMission</key>
+	<string>tweenStage</string>
+	<key>playbackSkewX</key>
+	<string>dependencyTransparency</string>
+	<key>priorSkin</key>
+	<string>shouldstreamcontraction</string>
+	<key>relationalTitle</key>
+	<string>compilepageview</string>
+	<key>shouldAttachController</key>
+	<string>adjustTitle</string>
+	<key>shouldSerializeBox</key>
+	<string>variantPressure</string>
+	<key>symmetricstoryboardleft</key>
+	<string>temporaryOption</string>
+	<key>webremainder</key>
+	<string>greatScaffold</string>
+</dict>
+</plist>

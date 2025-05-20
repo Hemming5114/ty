@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionsprite</key>
+	<string>blocState</string>
+	<key>buttonoutsidetier</key>
+	<string>handleScaffold</string>
+	<key>customPoint</key>
+	<string>similarCanvas</string>
+	<key>instructionRight</key>
+	<string>intermediateMenu</string>
+	<key>particleRate</key>
+	<string>serializeLog</string>
+	<key>relationalRemediation</key>
+	<string>disclaimerFeedback</string>
+	<key>seamlessMaster</key>
+	<string>sizeTheme</string>
+	<key>soundState</key>
+	<string>symmetricFuture</string>
+	<key>widgetresolver</key>
+	<string>showLoss</string>
+</dict>
+</plist>

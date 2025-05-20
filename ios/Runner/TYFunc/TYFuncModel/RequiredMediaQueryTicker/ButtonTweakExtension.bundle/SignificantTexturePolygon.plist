@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPrecision</key>
+	<string>startAspectRatio</string>
+	<key>compositionalContainer</key>
+	<string>indicatorVelocity</string>
+	<key>explicitRouter</key>
+	<string>timelineVisibility</string>
+	<key>lostTopic</key>
+	<string>singleGraph</string>
+	<key>requiredCluster</key>
+	<string>composableProcessor</string>
+	<key>shouldPaintHeap</key>
+	<string>sceneTint</string>
+	<key>subscriberMomentum</key>
+	<string>discardedTechnique</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedElasticity</key>
+	<string>precisionOffset</string>
+	<key>basicSegment</key>
+	<string>bandwidthState</string>
+	<key>bulletBehavior</key>
+	<string>ephemeralCharacteristic</string>
+	<key>delegateCount</key>
+	<string>cupertinoNotification</string>
+	<key>disparateModulus</key>
+	<string>criticalTitle</string>
+	<key>interactorState</key>
+	<string>bandwidthHead</string>
+	<key>newestAnimator</key>
+	<string>hasPet</string>
+	<key>routerDistance</key>
+	<string>tickerWork</string>
+	<key>schemaEdge</key>
+	<string>lostsizedbox</string>
+	<key>typicalError</key>
+	<string>clipperVisibility</string>
+</dict>
+</plist>

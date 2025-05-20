@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateusecase</key>
+	<string>activegrainshape</string>
+	<key>customInteraction</key>
+	<string>prevHandler</string>
+	<key>euclideanSkirt</key>
+	<string>switchPrototype</string>
+	<key>mobileSensor</key>
+	<string>nodeuntilframework</string>
+	<key>transformreduction</key>
+	<string>interceptTransition</string>
+	<key>unactivatedReference</key>
+	<string>frameFlyweight</string>
+</dict>
+</plist>

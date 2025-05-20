@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyTimeline</key>
+	<string>materializerName</string>
+	<key>integrationKind</key>
+	<string>canProcessFragment</string>
+	<key>multiLog</key>
+	<string>subsequentreliability</string>
+	<key>shouldBuildNavigation</key>
+	<string>handleDropdownButton</string>
+	<key>shouldPushSession</key>
+	<string>eventascent</string>
+	<key>shouldUnmountedCoordinator</key>
+	<string>normalReducer</string>
+	<key>tensorSensor</key>
+	<string>injectIsolate</string>
+	<key>trajectorySkewX</key>
+	<string>shouldRouteEffect</string>
+</dict>
+</plist>

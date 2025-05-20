@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAlignment</key>
+	<string>projectiontransformer</string>
+	<key>checklistmomentum</key>
+	<string>stringifyCallback</string>
+	<key>decorationOrientation</key>
+	<string>mountPromise</string>
+	<key>gestureCenter</key>
+	<string>provideutil</string>
+	<key>mainConsumer</key>
+	<string>secondCapacity</string>
+	<key>shouldHandleSubpixel</key>
+	<string>aggregateObserver</string>
+	<key>shouldRenderPlayback</key>
+	<string>seamlessRemainder</string>
+	<key>singlePermutation</key>
+	<string>contractionphasecenter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchbeyondcomposite</key>
+	<string>uniqueLocalization</string>
+	<key>clipperType</key>
+	<string>mainLoader</string>
+	<key>deferredBehavior</key>
+	<string>optimizerNumber</string>
+	<key>dynamicSkirt</key>
+	<string>respectiveStateful</string>
+	<key>eagerPosition</key>
+	<string>shouldEncodeObserver</string>
+	<key>granularDisclaimer</key>
+	<string>ephemeralSample</string>
+	<key>shouldStreamTouch</key>
+	<string>scheduleredge</string>
+	<key>shouldcancelmonster</key>
+	<string>scaleAdapter</string>
+</dict>
+</plist>

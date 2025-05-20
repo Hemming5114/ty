@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianbuilderlocation</key>
+	<string>subscriptionParam</string>
+	<key>intuitiveCurve</key>
+	<string>hashRate</string>
+	<key>listviewtolerance</key>
+	<string>restartMaterial</string>
+	<key>movementstatus</key>
+	<string>masterDirection</string>
+	<key>touchstatus</key>
+	<string>normalContainer</string>
+</dict>
+</plist>

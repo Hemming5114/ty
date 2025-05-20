@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBuffer</key>
+	<string>quantizerprogressbar</string>
+	<key>certificateflags</key>
+	<string>invisibleCheckbox</string>
+	<key>featurecompositetint</key>
+	<string>reconcileService</string>
+	<key>inheritedNotifier</key>
+	<string>ephemeralIcon</string>
+	<key>layerlifecycle</key>
+	<string>challengebufferfeedback</string>
+	<key>reactiveManager</key>
+	<string>canEmitExponent</string>
+	<key>reusableModal</key>
+	<string>cupertinoNumber</string>
+	<key>shouldMountedUnary</key>
+	<string>curvepadding</string>
+	<key>shouldSetStateColumn</key>
+	<string>presenterFlags</string>
+	<key>shouldloadgridview</key>
+	<string>isSwitch</string>
+</dict>
+</plist>

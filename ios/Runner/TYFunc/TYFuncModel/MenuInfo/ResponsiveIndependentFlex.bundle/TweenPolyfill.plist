@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStatus</key>
+	<string>currentconstraint</string>
+	<key>eventbottom</key>
+	<string>hyperbolicScaffold</string>
+	<key>immediateCursor</key>
+	<string>statelessTemple</string>
+	<key>inheritedBuffer</key>
+	<string>errorinfo</string>
+	<key>intermediateDialogs</key>
+	<string>mutableInterface</string>
+	<key>lazyPlayback</key>
+	<string>sequentialMaster</string>
+	<key>prismaticwidgetflags</key>
+	<string>notifySubscription</string>
+	<key>quitmediaquery</key>
+	<string>secondTaxonomy</string>
+	<key>unmountgridview</key>
+	<string>anchorForce</string>
+</dict>
+</plist>

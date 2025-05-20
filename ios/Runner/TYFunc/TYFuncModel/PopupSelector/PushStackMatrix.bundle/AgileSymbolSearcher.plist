@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetResponse</key>
+	<string>dropdownbuttonforce</string>
+	<key>integrityDirection</key>
+	<string>composableCollection</string>
+	<key>localTentative</key>
+	<string>detailHead</string>
+	<key>permanentSegue</key>
+	<string>shouldUnbindActivity</string>
+	<key>segmentshapeopacity</key>
+	<string>parseGrid</string>
+	<key>tensorComposition</key>
+	<string>processprecision</string>
+	<key>usedCapacity</key>
+	<string>cupertinoMaterializer</string>
+</dict>
+</plist>

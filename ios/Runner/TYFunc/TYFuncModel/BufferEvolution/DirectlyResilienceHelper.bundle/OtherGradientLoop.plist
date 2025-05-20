@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectvalidation</key>
+	<string>quitAction</string>
+	<key>ephemeralCapacities</key>
+	<string>brushopacity</string>
+	<key>equalslash</key>
+	<string>canParseArithmetic</string>
+	<key>gesturedetectorPosition</key>
+	<string>cupertinoSearcher</string>
+	<key>greatappbarname</key>
+	<string>replaceBorder</string>
+	<key>priorityShade</key>
+	<string>subscribebaseline</string>
+	<key>retainedDelivery</key>
+	<string>subscriptionforproxy</string>
+	<key>shouldsetstatekernel</key>
+	<string>formatFrequency</string>
+	<key>subpixelDuration</key>
+	<string>permissiveFrame</string>
+	<key>throughputEdge</key>
+	<string>documentStatus</string>
+</dict>
+</plist>

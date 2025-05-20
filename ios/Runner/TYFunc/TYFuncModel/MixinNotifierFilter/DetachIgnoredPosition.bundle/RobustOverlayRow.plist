@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axistheme</key>
+	<string>positionedCommand</string>
+	<key>currentrow</key>
+	<string>typicalInformation</string>
+	<key>hasscreen</key>
+	<string>commonTrigger</string>
+	<key>nativeController</key>
+	<string>rapidAsset</string>
+	<key>prismaticproviderdistance</key>
+	<string>euclideanTransition</string>
+</dict>
+</plist>

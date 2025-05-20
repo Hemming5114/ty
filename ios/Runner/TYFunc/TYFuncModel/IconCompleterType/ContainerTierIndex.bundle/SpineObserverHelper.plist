@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInfrastructure</key>
+	<string>observeSprite</string>
+	<key>concreteconsumer</key>
+	<string>independentConverter</string>
+	<key>controllerbehavior</key>
+	<string>mediaconsumer</string>
+	<key>cupertinoTernary</key>
+	<string>canFinishInterpolation</string>
+	<key>enabledDropdownButton</key>
+	<string>resourcetolerance</string>
+	<key>imperativeLoop</key>
+	<string>completerright</string>
+	<key>mutableImage</key>
+	<string>canDismissImage</string>
+</dict>
+</plist>

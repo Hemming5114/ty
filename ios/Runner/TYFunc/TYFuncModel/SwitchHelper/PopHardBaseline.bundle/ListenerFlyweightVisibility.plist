@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captioncount</key>
+	<string>customizedMember</string>
+	<key>listenerRight</key>
+	<string>concreteCard</string>
+	<key>mutableRichText</key>
+	<string>maintainasync</string>
+	<key>semantictextfielddepth</key>
+	<string>respectiveChooser</string>
+	<key>synchronousBandwidth</key>
+	<string>protectedLayer</string>
+</dict>
+</plist>

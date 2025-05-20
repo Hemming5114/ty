@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerstatelocation</key>
+	<string>checklistdisclaimer</string>
+	<key>gemtag</key>
+	<string>immutableProcessor</string>
+	<key>logarithmcompleter</key>
+	<string>quaternionBrightness</string>
+	<key>polyfillhead</key>
+	<string>desktopAlignment</string>
+	<key>retainedLifecycle</key>
+	<string>constraintBuffer</string>
+	<key>shouldUnmountedIndicator</key>
+	<string>masterBottom</string>
+</dict>
+</plist>

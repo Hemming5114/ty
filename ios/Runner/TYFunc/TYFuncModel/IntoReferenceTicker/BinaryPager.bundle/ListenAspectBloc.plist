@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledFormat</key>
+	<string>accordionRadio</string>
+	<key>interactivePosition</key>
+	<string>listenMap</string>
+	<key>kernelFlags</key>
+	<string>unactivatedTimeline</string>
+	<key>resizableAsset</key>
+	<string>hardDelegate</string>
+	<key>unactivatedCupertino</key>
+	<string>interactorSkewY</string>
+	<key>unscheduleconstraint</key>
+	<string>associateText</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customImpression</key>
+	<string>configurationinterpreterduration</string>
+	<key>discardedData</key>
+	<string>shouldSkipIndicator</string>
+	<key>eraseposition</key>
+	<string>persistentPriority</string>
+	<key>movementfeedback</key>
+	<string>otherInfrastructure</string>
+	<key>pinchablebuttonskewy</key>
+	<string>previewFramework</string>
+	<key>renamesine</key>
+	<string>flexibleScaffold</string>
+	<key>resizableBehavior</key>
+	<string>scrollabletabview</string>
+	<key>shouldEncodeProfile</key>
+	<string>obtainFrame</string>
+	<key>shouldPresentConsumer</key>
+	<string>sizeShape</string>
+</dict>
+</plist>

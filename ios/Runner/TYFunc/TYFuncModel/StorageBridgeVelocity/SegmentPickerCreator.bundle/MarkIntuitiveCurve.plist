@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAsset</key>
+	<string>immutableAccessory</string>
+	<key>flexibleProgressBar</key>
+	<string>multiAxis</string>
+	<key>inheritedutil</key>
+	<string>shouldSkipSpine</string>
+	<key>intuitiveMaster</key>
+	<string>functionalLifecycle</string>
+	<key>requestShape</key>
+	<string>publishContraction</string>
+	<key>resourceawayparameter</key>
+	<string>inflateAlpha</string>
+	<key>rolePressure</key>
+	<string>routerdirection</string>
+</dict>
+</plist>

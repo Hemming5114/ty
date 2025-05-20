@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxindex</key>
+	<string>advancedInteraction</string>
+	<key>globalAccessory</key>
+	<string>numericalOption</string>
+	<key>grainhead</key>
+	<string>alphavisible</string>
+	<key>radiusaboutplatform</key>
+	<string>handleslider</string>
+	<key>requestresponse</key>
+	<string>cursorshape</string>
+	<key>shouldunmountedgraphic</key>
+	<string>monsterFeedback</string>
+	<key>statefulkind</key>
+	<string>colorDirection</string>
+</dict>
+</plist>

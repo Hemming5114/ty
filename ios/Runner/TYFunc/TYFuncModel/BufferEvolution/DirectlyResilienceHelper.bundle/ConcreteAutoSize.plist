@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRole</key>
+	<string>refreshConfiguration</string>
+	<key>curveStatus</key>
+	<string>beginnerchart</string>
+	<key>grainstroke</key>
+	<string>logarithmTask</string>
+	<key>immediateNotation</key>
+	<string>deflateCallback</string>
+	<key>immediateconstant</key>
+	<string>ascentTop</string>
+	<key>layoutrouter</key>
+	<string>geometricCheckbox</string>
+	<key>remaindersink</key>
+	<string>capsuleDecorator</string>
+	<key>statelessmargin</key>
+	<string>errorPlatform</string>
+	<key>timelineSkewY</key>
+	<string>gateOrigin</string>
+</dict>
+</plist>

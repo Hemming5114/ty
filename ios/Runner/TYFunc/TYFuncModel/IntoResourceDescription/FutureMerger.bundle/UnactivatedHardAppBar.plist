@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerrect</key>
+	<string>bulletstate</string>
+	<key>controllerFrequency</key>
+	<string>pivotalBehavior</string>
+	<key>publicStateless</key>
+	<string>reusableRoute</string>
+	<key>textureVelocity</key>
+	<string>prismaticCupertino</string>
+</dict>
+</plist>

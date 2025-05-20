@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvetail</key>
+	<string>positionFeedback</string>
+	<key>relationalposition</key>
+	<string>awaitContrast</string>
+	<key>shouldContinueSemantics</key>
+	<string>intuitiveInterpolation</string>
+	<key>shouldEmitShader</key>
+	<string>shouldDetachTheme</string>
+	<key>statefulSubscriber</key>
+	<string>bulletamongwork</string>
+	<key>unactivatedCurve</key>
+	<string>binaryHead</string>
+</dict>
+</plist>

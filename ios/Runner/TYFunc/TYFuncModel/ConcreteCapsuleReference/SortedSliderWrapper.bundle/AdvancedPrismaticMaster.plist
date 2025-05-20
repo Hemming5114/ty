@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateboxhead</key>
+	<string>publicdrawerscale</string>
+	<key>granularinterface</key>
+	<string>smallTabBar</string>
+	<key>respectiveSpot</key>
+	<string>uniqueSplitter</string>
+	<key>semanticSign</key>
+	<string>challengetop</string>
+	<key>specifyHero</key>
+	<string>requestSaturation</string>
+	<key>streamTransparency</key>
+	<string>buttonEdge</string>
+	<key>unactivatedProgressBar</key>
+	<string>specifyStream</string>
+</dict>
+</plist>

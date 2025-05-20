@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeStorage</key>
+	<string>lostBehavior</string>
+	<key>difficultblocbrightness</key>
+	<string>configureGroup</string>
+	<key>displayableContraction</key>
+	<string>boxVelocity</string>
+	<key>factorybuffervisibility</key>
+	<string>respectiveItem</string>
+	<key>menufragments</key>
+	<string>exitPreview</string>
+	<key>mountdimension</key>
+	<string>materialSingleton</string>
+	<key>scrollableScroll</key>
+	<string>sequentialRole</string>
+</dict>
+</plist>

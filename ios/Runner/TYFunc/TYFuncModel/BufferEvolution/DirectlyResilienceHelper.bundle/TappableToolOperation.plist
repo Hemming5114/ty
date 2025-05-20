@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAppearance</key>
+	<string>canCancelBorder</string>
+	<key>keyPositioned</key>
+	<string>textureHue</string>
+	<key>onfuturechanged</key>
+	<string>accessibleTicker</string>
+	<key>statelessScale</key>
+	<string>primaryVolume</string>
+</dict>
+</plist>

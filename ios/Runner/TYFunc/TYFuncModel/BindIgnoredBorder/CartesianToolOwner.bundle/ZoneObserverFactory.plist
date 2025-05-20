@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedAppBar</key>
+	<string>transformerschema</string>
+	<key>momentumcolor</key>
+	<string>custompaintHead</string>
+	<key>rapidThread</key>
+	<string>cycleSpacing</string>
+	<key>respectiveEntity</key>
+	<string>gridTheme</string>
+	<key>scrollerTint</key>
+	<string>logscope</string>
+	<key>utilBorder</key>
+	<string>gridviewSkewY</string>
+</dict>
+</plist>

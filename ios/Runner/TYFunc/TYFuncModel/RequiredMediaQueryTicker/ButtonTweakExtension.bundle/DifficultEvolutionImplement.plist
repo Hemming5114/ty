@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorTop</key>
+	<string>inactiveTransition</string>
+	<key>explicitAlpha</key>
+	<string>contrastinterval</string>
+	<key>functionaltopic</key>
+	<string>keyInteractor</string>
+	<key>gesturedetectorStyle</key>
+	<string>shouldYieldCharacter</string>
+	<key>musicSpeed</key>
+	<string>dropoutSubscription</string>
+	<key>publicobject</key>
+	<string>blocForm</string>
+	<key>resolverintegrity</key>
+	<string>efficiencyTheme</string>
+</dict>
+</plist>

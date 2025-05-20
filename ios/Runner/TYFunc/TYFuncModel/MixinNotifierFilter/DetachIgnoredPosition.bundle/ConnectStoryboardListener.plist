@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartshade</key>
+	<string>deferredArchitecture</string>
+	<key>enabledColor</key>
+	<string>deferredChannel</string>
+	<key>iterativeThroughput</key>
+	<string>ignoredInteger</string>
+	<key>publicCollection</key>
+	<string>advancedData</string>
+	<key>synchronousTaxonomy</key>
+	<string>navigatorcontextinterval</string>
+	<key>temporaryInformation</key>
+	<string>specifyBinary</string>
+	<key>transitionparametertint</key>
+	<string>canMountInkWell</string>
+</dict>
+</plist>

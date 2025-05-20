@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackalignment</key>
+	<string>scaffoldMode</string>
+	<key>hastextfield</key>
+	<string>diversifiedlocalizationresponse</string>
+	<key>ignoredScenario</key>
+	<string>hierarchicaltimeline</string>
+	<key>largeMultiplication</key>
+	<string>canUpdateSwitch</string>
+	<key>nextDropdownButton</key>
+	<string>canPersistColumn</string>
+	<key>relationalnotificationmargin</key>
+	<string>serviceShade</string>
+	<key>shouldReplaceExpanded</key>
+	<string>durationProcess</string>
+	<key>temporaryloader</key>
+	<string>substantialStateful</string>
+	<key>timerTheme</key>
+	<string>videoLeft</string>
+	<key>webCertificate</key>
+	<string>canLayoutTernary</string>
+</dict>
+</plist>

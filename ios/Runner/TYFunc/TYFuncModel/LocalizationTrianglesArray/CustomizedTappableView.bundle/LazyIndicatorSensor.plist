@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerbridgerate</key>
+	<string>multiWidget</string>
+	<key>gemforce</key>
+	<string>pendingInteger</string>
+	<key>itemMomentum</key>
+	<string>buffersize</string>
+	<key>modelSkewX</key>
+	<string>canPauseGrayscale</string>
+	<key>numericalVector</key>
+	<string>significantReplica</string>
+	<key>oldScale</key>
+	<string>rebuildGram</string>
+	<key>rapidError</key>
+	<string>subscribeScroll</string>
+	<key>scrollableVertex</key>
+	<string>visitAlignment</string>
+	<key>shouldRenderDrawer</key>
+	<string>temporaryButton</string>
+</dict>
+</plist>

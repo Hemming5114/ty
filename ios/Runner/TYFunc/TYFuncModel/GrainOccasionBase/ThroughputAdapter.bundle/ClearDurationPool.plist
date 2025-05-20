@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherFlags</key>
+	<string>uniqueDelegate</string>
+	<key>granularNode</key>
+	<string>persistenttransformer</string>
+	<key>mainscope</key>
+	<string>permanentMesh</string>
+	<key>oldAsset</key>
+	<string>canBuildPageView</string>
+	<key>remainderStyle</key>
+	<string>metadataacceleration</string>
+	<key>shouldFetchCycle</key>
+	<string>formatCaption</string>
+	<key>shouldHandleOption</key>
+	<string>transitionUsage</string>
+	<key>similarLocalization</key>
+	<string>interactorDecorator</string>
+</dict>
+</plist>

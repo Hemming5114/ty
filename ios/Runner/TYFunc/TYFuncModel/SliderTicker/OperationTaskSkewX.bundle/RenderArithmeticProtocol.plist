@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindscale</key>
+	<string>spriteParam</string>
+	<key>mutableAnchor</key>
+	<string>beginnerTopic</string>
+	<key>popupmode</key>
+	<string>subtleSelector</string>
+	<key>progressbarTint</key>
+	<string>unmountedMomentum</string>
+	<key>rapidTrigger</key>
+	<string>pinchableCursor</string>
+	<key>sliderenvironmentstyle</key>
+	<string>semanticGridView</string>
+	<key>statelesspageviewinteraction</key>
+	<string>shouldobservecatalyst</string>
+	<key>statelesstransition</key>
+	<string>nativeLocalization</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTabView</key>
+	<string>timelineformat</string>
+	<key>componentSpacing</key>
+	<string>mitigateHash</string>
+	<key>groupkind</key>
+	<string>overrideRadius</string>
+	<key>largeCanvas</key>
+	<string>appendAsync</string>
+	<key>mobileMedia</key>
+	<string>storyboardScale</string>
+	<key>popupspacing</key>
+	<string>alignmentvalidation</string>
+	<key>queuecontrast</key>
+	<string>substantialAnimation</string>
+	<key>shouldListenScroll</key>
+	<string>texturelayercontrast</string>
+	<key>sineStyle</key>
+	<string>lossDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronoustechnique</key>
+	<string>oldSplitter</string>
+	<key>draweraboutform</key>
+	<string>mobileWrapper</string>
+	<key>easySpine</key>
+	<string>shouldDisconnectCanvas</string>
+	<key>shouldDispatchStack</key>
+	<string>basicFactory</string>
+	<key>storyboardFlags</key>
+	<string>canResumeScreen</string>
+	<key>tappableConfidentiality</key>
+	<string>protectedImpression</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSymbol</key>
+	<string>globalStatus</string>
+	<key>agileSelector</key>
+	<string>animateConsumer</string>
+	<key>commonUsage</key>
+	<string>dismissQueue</string>
+	<key>connectorValidation</key>
+	<string>allocateUtil</string>
+	<key>directlyNorm</key>
+	<string>skipText</string>
+	<key>directlyReference</key>
+	<string>desktopReplica</string>
+	<key>encapsulatemenu</key>
+	<string>lossduration</string>
+	<key>immutableEvent</key>
+	<string>canSaveLayout</string>
+	<key>permanentdecoration</key>
+	<string>projectfortask</string>
+	<key>usedSound</key>
+	<string>pageviewLocation</string>
+</dict>
+</plist>

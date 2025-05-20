@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalSchema</key>
+	<string>capacitiesForm</string>
+	<key>globalTransition</key>
+	<string>notifyPainter</string>
+	<key>mobileKind</key>
+	<string>firstAspect</string>
+	<key>prevMission</key>
+	<string>sequentialbullet</string>
+	<key>responsiveModel</key>
+	<string>parsereference</string>
+	<key>sequentialCursor</key>
+	<string>gemconfiguration</string>
+	<key>stopcompleter</key>
+	<string>delicateTexture</string>
+</dict>
+</plist>

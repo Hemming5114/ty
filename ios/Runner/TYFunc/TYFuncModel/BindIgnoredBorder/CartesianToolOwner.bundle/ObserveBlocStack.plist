@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelduringstrategy</key>
+	<string>attachMap</string>
+	<key>diffableLayer</key>
+	<string>missedStep</string>
+	<key>discardedPlate</key>
+	<string>customOverlay</string>
+	<key>immutableefficiency</key>
+	<string>notationFeedback</string>
+	<key>lastBullet</key>
+	<string>largeReducer</string>
+	<key>numericalscheduler</key>
+	<string>priorsignaturekind</string>
+	<key>respectiveAudio</key>
+	<string>encodeConfiguration</string>
+	<key>shouldSkipTabBar</key>
+	<string>prevSine</string>
+	<key>subsequentInformation</key>
+	<string>customizedScroll</string>
+</dict>
+</plist>

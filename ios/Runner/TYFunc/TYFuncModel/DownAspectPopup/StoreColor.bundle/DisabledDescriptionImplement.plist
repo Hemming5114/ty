@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStorage</key>
+	<string>dismissasync</string>
+	<key>createintensity</key>
+	<string>trianglesBrightness</string>
+	<key>desktopTangent</key>
+	<string>resumeprogressbar</string>
+	<key>geometricprocessor</key>
+	<string>removeQueue</string>
+	<key>grainuntilvalue</key>
+	<string>playbackOpacity</string>
+	<key>herosize</key>
+	<string>statefulTexture</string>
+	<key>iscatalyst</key>
+	<string>adaptiveDependency</string>
+	<key>resilientLog</key>
+	<string>cancelCycle</string>
+	<key>scrollableNotifier</key>
+	<string>compareService</string>
+	<key>secondSplitter</key>
+	<string>pointForce</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTransition</key>
+	<string>similarContainer</string>
+	<key>consumerTransparency</key>
+	<string>firstImpression</string>
+	<key>distinctionHead</key>
+	<string>converterResponse</string>
+	<key>onwidgettap</key>
+	<string>mixinWidget</string>
+	<key>shouldTrainRole</key>
+	<string>serviceParam</string>
+	<key>tensorAwait</key>
+	<string>presentDescriptor</string>
+	<key>validateskirt</key>
+	<string>heroforphase</string>
+	<key>variantCoord</key>
+	<string>catalystCycle</string>
+</dict>
+</plist>

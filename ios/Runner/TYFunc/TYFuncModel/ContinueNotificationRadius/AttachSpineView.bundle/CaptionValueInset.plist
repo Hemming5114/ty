@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushuntiladapter</key>
+	<string>ephemeralVertex</string>
+	<key>concurrentImpact</key>
+	<string>monsterIndex</string>
+	<key>explicitTernary</key>
+	<string>usedTransformer</string>
+	<key>gestureDuration</key>
+	<string>saveBrush</string>
+	<key>ignoredmodule</key>
+	<string>declarativeLinker</string>
+	<key>mediumsizekind</key>
+	<string>shouldStopThread</string>
+	<key>parallelLogarithm</key>
+	<string>isolateStyle</string>
+</dict>
+</plist>

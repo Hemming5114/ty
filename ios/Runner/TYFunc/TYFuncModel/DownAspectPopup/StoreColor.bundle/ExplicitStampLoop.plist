@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetstagetension</key>
+	<string>axisFrequency</string>
+	<key>disposemobile</key>
+	<string>criticaldialogsvisible</string>
+	<key>mountedrequest</key>
+	<string>promiseParam</string>
+	<key>priorImage</key>
+	<string>newestMediaQuery</string>
+	<key>resizableAlert</key>
+	<string>pushTabBar</string>
+</dict>
+</plist>

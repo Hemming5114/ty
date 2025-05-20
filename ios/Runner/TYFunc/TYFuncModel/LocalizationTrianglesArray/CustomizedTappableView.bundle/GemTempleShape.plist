@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInterface</key>
+	<string>transposeinstruction</string>
+	<key>associateclipper</key>
+	<string>sinkofform</string>
+	<key>crudeScene</key>
+	<string>roleForce</string>
+	<key>immediateNotation</key>
+	<string>richtextName</string>
+	<key>infoSkewY</key>
+	<string>cubeCount</string>
+	<key>normState</key>
+	<string>keepGesture</string>
+	<key>numericalprovidercoord</key>
+	<string>streamlayer</string>
+	<key>protectedcoordinator</key>
+	<string>nibDecorator</string>
+	<key>uniqueStateless</key>
+	<string>iconSpeed</string>
+</dict>
+</plist>

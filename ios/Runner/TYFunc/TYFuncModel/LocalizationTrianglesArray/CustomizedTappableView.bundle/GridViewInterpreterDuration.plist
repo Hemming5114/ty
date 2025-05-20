@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marginTag</key>
+	<string>viewskewy</string>
+	<key>otherFormat</key>
+	<string>permanentConstant</string>
+	<key>persistentRepository</key>
+	<string>blocCommand</string>
+	<key>primaryGraphic</key>
+	<string>baselineedge</string>
+	<key>reflectusecase</key>
+	<string>activatedScheduler</string>
+	<key>shouldPresentExtension</key>
+	<string>canEndFragment</string>
+	<key>significantDrawer</key>
+	<string>heapAppearance</string>
+	<key>smartHero</key>
+	<string>canReplaceRichText</string>
+	<key>storageagainstphase</key>
+	<string>elasticUseCase</string>
+</dict>
+</plist>

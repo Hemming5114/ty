@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatecallback</key>
+	<string>characterVariable</string>
+	<key>builderType</key>
+	<string>asyncVariable</string>
+	<key>difficultSignature</key>
+	<string>enabledRequest</string>
+	<key>fusedbaseposition</key>
+	<string>shouldMountProvider</string>
+	<key>gemtask</key>
+	<string>tablepadding</string>
+	<key>itemResponse</key>
+	<string>extendHash</string>
+	<key>shouldCancelMission</key>
+	<string>emitPlate</string>
+	<key>storenotifier</key>
+	<string>assetdelivery</string>
+</dict>
+</plist>

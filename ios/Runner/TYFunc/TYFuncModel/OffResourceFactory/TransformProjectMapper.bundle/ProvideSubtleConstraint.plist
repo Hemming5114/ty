@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueconsumer</key>
+	<string>seamlessSpine</string>
+	<key>coordinatorrouter</key>
+	<string>shouldobservesegment</string>
+	<key>cycleMargin</key>
+	<string>modelStage</string>
+	<key>sustainableService</key>
+	<string>performIntensity</string>
+</dict>
+</plist>

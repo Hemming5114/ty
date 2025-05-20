@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupshader</key>
+	<string>originalchannelsstyle</string>
+	<key>joinerinteraction</key>
+	<string>scaffoldActivity</string>
+	<key>materialEffect</key>
+	<string>painterOperation</string>
+	<key>similarRouter</key>
+	<string>disparateTheme</string>
+	<key>unactivatedcurveborder</key>
+	<string>disposeprogressbar</string>
+	<key>unsortedConstant</key>
+	<string>interpolateLoop</string>
+</dict>
+</plist>

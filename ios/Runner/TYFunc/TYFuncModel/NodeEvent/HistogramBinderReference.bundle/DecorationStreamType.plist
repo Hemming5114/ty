@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventamongnumber</key>
+	<string>playbackrestriction</string>
+	<key>gemFrequency</key>
+	<string>shouldLoadScale</string>
+	<key>persistentSplitter</key>
+	<string>keyMonster</string>
+	<key>scrollobserver</key>
+	<string>overlaybehavior</string>
+	<key>shouldDecodeProjection</key>
+	<string>iterativePoint</string>
+	<key>shouldPrepareGift</key>
+	<string>newestListView</string>
+	<key>shouldYieldVariant</key>
+	<string>serviceInterval</string>
+	<key>statelessResource</key>
+	<string>conformResource</string>
+	<key>unactivatedEmitter</key>
+	<string>cursorPressure</string>
+</dict>
+</plist>

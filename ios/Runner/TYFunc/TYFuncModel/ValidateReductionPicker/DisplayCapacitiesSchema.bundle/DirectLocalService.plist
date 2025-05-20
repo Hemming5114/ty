@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTopic</key>
+	<string>layoutforce</string>
+	<key>blocacceleration</key>
+	<string>pinchableConnector</string>
+	<key>channelstructurerate</key>
+	<string>referenceContext</string>
+	<key>interactorstagedelay</key>
+	<string>canPresentMatrix</string>
+	<key>resizableTolerance</key>
+	<string>layoutParameter</string>
+	<key>scrollertint</key>
+	<string>symmetricResponder</string>
+</dict>
+</plist>

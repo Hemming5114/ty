@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanScaffold</key>
+	<string>shouldReplaceCollection</string>
+	<key>materialGraph</key>
+	<string>deserializeHash</string>
+	<key>shouldInflateGesture</key>
+	<string>restartBrush</string>
+	<key>shouldLoadPainter</key>
+	<string>greatConvolution</string>
+	<key>shouldStreamProvider</key>
+	<string>newestResilience</string>
+	<key>shouldreplaceexpanded</key>
+	<string>customTangent</string>
+	<key>synchronousKernel</key>
+	<string>validateGift</string>
+</dict>
+</plist>

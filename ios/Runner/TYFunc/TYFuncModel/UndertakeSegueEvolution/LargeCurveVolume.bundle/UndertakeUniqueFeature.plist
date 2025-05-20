@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGrain</key>
+	<string>unsortedConnector</string>
+	<key>checklistVisibility</key>
+	<string>quaternionPosition</string>
+	<key>particlefromoperation</key>
+	<string>containerwithoutbuffer</string>
+	<key>protocolactionalignment</key>
+	<string>aspecttop</string>
+	<key>shouldParseSlider</key>
+	<string>boxsingletoncount</string>
+	<key>shouldRenderActivity</key>
+	<string>custompaintBorder</string>
+	<key>sinksorter</key>
+	<string>controllerincludeenvironment</string>
+	<key>webSubpixel</key>
+	<string>curveTask</string>
+</dict>
+</plist>

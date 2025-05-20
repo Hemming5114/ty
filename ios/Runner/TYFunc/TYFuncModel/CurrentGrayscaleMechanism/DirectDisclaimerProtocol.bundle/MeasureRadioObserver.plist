@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customScroll</key>
+	<string>deserializeAllocator</string>
+	<key>customizedFragments</key>
+	<string>modalScale</string>
+	<key>heroPadding</key>
+	<string>bufferMediator</string>
+	<key>primarySpecifier</key>
+	<string>rectname</string>
+	<key>typicalElasticity</key>
+	<string>navigationCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>queuemode</key>
+	<string>loaderInset</string>
+	<key>reactivecoordinatorappearance</key>
+	<string>alignmentCenter</string>
+</dict>
+</plist>

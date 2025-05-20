@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonShader</key>
+	<string>exitLoop</string>
+	<key>coordinatorthanadapter</key>
+	<string>statefulpainter</string>
+	<key>filterTransparency</key>
+	<string>canParseDimension</string>
+	<key>keygate</key>
+	<string>responsiveMethod</string>
+	<key>mastershapeinteraction</key>
+	<string>reusableConfidentiality</string>
+</dict>
+</plist>

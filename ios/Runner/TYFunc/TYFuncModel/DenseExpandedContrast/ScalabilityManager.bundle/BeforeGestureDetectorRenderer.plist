@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionDuration</key>
+	<string>functionalHash</string>
+	<key>eagerCollection</key>
+	<string>largeAnalyzer</string>
+	<key>intuitiveBaseline</key>
+	<string>boxshadowVisitor</string>
+	<key>newestAlpha</key>
+	<string>greatLoop</string>
+	<key>seamlessresourcespacing</key>
+	<string>webReplica</string>
+	<key>shouldRestartTabBar</key>
+	<string>pageviewVisible</string>
+	<key>tabviewFeedback</key>
+	<string>shouldFinishTabView</string>
+</dict>
+</plist>

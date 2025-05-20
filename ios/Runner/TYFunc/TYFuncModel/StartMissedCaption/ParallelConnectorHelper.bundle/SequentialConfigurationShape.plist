@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderlabel</key>
+	<string>sustainableLifecycle</string>
+	<key>draggableGate</key>
+	<string>petAction</string>
+	<key>injectionbridgefeedback</key>
+	<string>vectorEdge</string>
+	<key>linkerSpeed</key>
+	<string>explicitItem</string>
+	<key>materialStorage</key>
+	<string>shouldDismissGraphic</string>
+	<key>responderKind</key>
+	<string>scopeForce</string>
+	<key>shouldSubscribeRemainder</key>
+	<string>writeProgressBar</string>
+	<key>variantacceleration</key>
+	<string>evaluationHead</string>
+</dict>
+</plist>

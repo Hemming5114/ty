@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilenavigation</key>
+	<string>petvarposition</string>
+	<key>chapterpressure</key>
+	<string>coordinatortail</string>
+	<key>dimensionHead</key>
+	<string>deferredStep</string>
+	<key>dropdownbuttonRotation</key>
+	<string>restartDialogs</string>
+	<key>lazydescription</key>
+	<string>adaptiveinstructionappearance</string>
+	<key>presenterContrast</key>
+	<string>compareStorage</string>
+	<key>shouldPresentOptimizer</key>
+	<string>captioninterface</string>
+	<key>specifierHead</key>
+	<string>shouldProcessTable</string>
+	<key>utilneartask</key>
+	<string>accordionBullet</string>
+</dict>
+</plist>

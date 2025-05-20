@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblesizedbox</key>
+	<string>localizationFormat</string>
+	<key>backwardPopup</key>
+	<string>brushRight</string>
+	<key>dynamicshadertransparency</key>
+	<string>euclideanChapter</string>
+	<key>euclideanReliability</key>
+	<string>disparateCell</string>
+	<key>flexibleindicatoracceleration</key>
+	<string>canRouteCosine</string>
+	<key>largeRectangle</key>
+	<string>inactiveAnchor</string>
+	<key>notificationthreshold</key>
+	<string>primarySymbol</string>
+	<key>tweenaudio</key>
+	<string>routeColor</string>
+</dict>
+</plist>

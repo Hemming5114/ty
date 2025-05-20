@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturecontroller</key>
+	<string>publicJoiner</string>
+	<key>appbarInterval</key>
+	<string>buttonTop</string>
+	<key>difficultRadio</key>
+	<string>revisitCompleter</string>
+	<key>missedlistviewsaturation</key>
+	<string>shouldKeepCache</string>
+	<key>subtleDecoration</key>
+	<string>grainpressure</string>
+	<key>transformerOffset</key>
+	<string>responsiveShape</string>
+</dict>
+</plist>

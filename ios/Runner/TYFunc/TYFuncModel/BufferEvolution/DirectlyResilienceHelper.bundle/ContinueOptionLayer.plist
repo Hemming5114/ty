@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerKind</key>
+	<string>robustDescriptor</string>
+	<key>coordinatorCoord</key>
+	<string>gestureCenter</string>
+	<key>coordinatorcolor</key>
+	<string>cardAdapter</string>
+	<key>ephemeralSpine</key>
+	<string>blocDirection</string>
+	<key>ephemeralTraversal</key>
+	<string>quantizerIntensity</string>
+	<key>groupadapterdelay</key>
+	<string>usageLevel</string>
+	<key>interpolationOrigin</key>
+	<string>accessoryFramework</string>
+	<key>multiplybutton</key>
+	<string>spriteparamformat</string>
+	<key>shouldUnbindWorkflow</key>
+	<string>quitSize</string>
+</dict>
+</plist>

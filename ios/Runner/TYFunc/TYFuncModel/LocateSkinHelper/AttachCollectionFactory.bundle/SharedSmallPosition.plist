@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLocalization</key>
+	<string>signatureMediator</string>
+	<key>currentHeap</key>
+	<string>handleBoxShadow</string>
+	<key>exceptionRate</key>
+	<string>positionflags</string>
+	<key>flexibleticker</key>
+	<string>expandedLevel</string>
+	<key>handlerState</key>
+	<string>flexibleExtension</string>
+	<key>latencyTransparency</key>
+	<string>rolemode</string>
+	<key>presenterorigin</key>
+	<string>concurrentNode</string>
+	<key>shouldEncodeBatch</key>
+	<string>tappableAnimatedContainer</string>
+	<key>shouldStreamFragment</key>
+	<string>prepareSine</string>
+	<key>singleMesh</key>
+	<string>minGridView</string>
+</dict>
+</plist>

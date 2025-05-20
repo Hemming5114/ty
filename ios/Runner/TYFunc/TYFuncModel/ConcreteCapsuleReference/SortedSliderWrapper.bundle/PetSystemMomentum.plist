@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerResponse</key>
+	<string>agileRouter</string>
+	<key>opaqueTangent</key>
+	<string>canTransitionContainer</string>
+	<key>primaryAnimation</key>
+	<string>releasechannels</string>
+	<key>shouldParseFuture</key>
+	<string>loadGem</string>
+	<key>substantialnode</key>
+	<string>visibleIndicator</string>
+</dict>
+</plist>

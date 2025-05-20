@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableResponse</key>
+	<string>offsetComposite</string>
+	<key>interactiveStroke</key>
+	<string>publishGradient</string>
+	<key>missedswitch</key>
+	<string>canStopPlayback</string>
+	<key>requiredSelector</key>
+	<string>inflateDimension</string>
+	<key>themeSaturation</key>
+	<string>activatedUnary</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedWorkflow</key>
+	<string>disabledBase</string>
+	<key>hardZone</key>
+	<string>shouldStartCell</string>
+	<key>interactorvarbottom</key>
+	<string>optimizeLayout</string>
+	<key>labelactivitytail</key>
+	<string>startBoxShadow</string>
+	<key>standaloneProvider</key>
+	<string>replaceInteractor</string>
+</dict>
+</plist>

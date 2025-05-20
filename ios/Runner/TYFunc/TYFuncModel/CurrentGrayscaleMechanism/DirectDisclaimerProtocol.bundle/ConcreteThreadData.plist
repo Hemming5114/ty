@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDocument</key>
+	<string>canFormatNorm</string>
+	<key>binaryloop</key>
+	<string>prepareBase</string>
+	<key>functionalanimation</key>
+	<string>activatedHandler</string>
+	<key>sensorworkspeed</key>
+	<string>basicSplitter</string>
+	<key>shouldTransformModulus</key>
+	<string>delegateProgressBar</string>
+	<key>symmetricTangent</key>
+	<string>polygonType</string>
+	<key>trianglesPosition</key>
+	<string>lazyChart</string>
+</dict>
+</plist>

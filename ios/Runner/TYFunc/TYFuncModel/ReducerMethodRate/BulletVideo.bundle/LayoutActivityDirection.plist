@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStack</key>
+	<string>parallelCanvas</string>
+	<key>interactivecapsuleinterval</key>
+	<string>persistCosine</string>
+	<key>liteMaster</key>
+	<string>replicaBehavior</string>
+	<key>shouldCacheContainer</key>
+	<string>sharedlistener</string>
+	<key>shouldInflateEffect</key>
+	<string>usecaseedge</string>
+	<key>shouldSerializeDrawer</key>
+	<string>minModulus</string>
+</dict>
+</plist>

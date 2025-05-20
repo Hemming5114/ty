@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiostatetop</key>
+	<string>optionPressure</string>
+	<key>ephemeralSign</key>
+	<string>retrieveObserver</string>
+	<key>filterFlags</key>
+	<string>propagateRequest</string>
+	<key>flexiblePlate</key>
+	<string>shouldTransformChallenge</string>
+	<key>histogramAlignment</key>
+	<string>strengthBehavior</string>
+	<key>prevHistogram</key>
+	<string>canRebuildCharacter</string>
+	<key>rectstyle</key>
+	<string>difficultemitter</string>
+	<key>shouldObserveUnary</key>
+	<string>heapBorder</string>
+	<key>shouldShowMission</key>
+	<string>smallChannels</string>
+</dict>
+</plist>

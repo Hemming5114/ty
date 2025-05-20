@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSegment</key>
+	<string>orchestrateprovider</string>
+	<key>explicitMetrics</key>
+	<string>gesturedetectorCommand</string>
+	<key>infrastructureTag</key>
+	<string>independentMatrix</string>
+	<key>prevutil</key>
+	<string>dependencyName</string>
+	<key>relationalResilience</key>
+	<string>deserializeMediaQuery</string>
+	<key>selectedBitrate</key>
+	<string>spincatalyst</string>
+	<key>shouldEmitRemainder</key>
+	<string>equalButton</string>
+	<key>shouldNotifyGesture</key>
+	<string>emitAsync</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetinfrastructure</key>
+	<string>transitionselector</string>
+	<key>difficultState</key>
+	<string>smartEquipment</string>
+	<key>immediateShader</key>
+	<string>invisibleAscent</string>
+	<key>loopaction</key>
+	<string>filterOrientation</string>
+	<key>reactiveCharacter</key>
+	<string>constraintNumber</string>
+	<key>shouldUnmountCard</key>
+	<string>routeBullet</string>
+	<key>sustainableCatalyst</key>
+	<string>cartesianModal</string>
+</dict>
+</plist>

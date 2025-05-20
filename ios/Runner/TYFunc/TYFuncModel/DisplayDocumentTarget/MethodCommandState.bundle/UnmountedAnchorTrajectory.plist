@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectInset</key>
+	<string>shouldStartPadding</string>
+	<key>fusedCursor</key>
+	<string>effectEdge</string>
+	<key>pivotalDelivery</key>
+	<string>canPushSegment</string>
+	<key>prevRemainder</key>
+	<string>swiftScale</string>
+	<key>screenpresenter</key>
+	<string>canUnmountCompletion</string>
+	<key>shouldRenderConstraint</key>
+	<string>storagePressure</string>
+	<key>statespacing</key>
+	<string>fusedTabBar</string>
+	<key>storageOrientation</key>
+	<string>canEncodeNotification</string>
+</dict>
+</plist>

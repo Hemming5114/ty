@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedService</key>
+	<string>exceptionMediator</string>
+	<key>allocatorStyle</key>
+	<string>singleRect</string>
+	<key>combinerName</key>
+	<string>rotateRadius</string>
+	<key>configurationtail</key>
+	<string>textfieldAcceleration</string>
+	<key>shouldMountAccessory</key>
+	<string>shouldRestartDialogs</string>
+	<key>shouldUpdateAspectRatio</key>
+	<string>sessionFeedback</string>
+	<key>shouldyieldcatalyst</key>
+	<string>binaryrange</string>
+	<key>tabbarbeyondparam</key>
+	<string>analyzeAlignment</string>
+</dict>
+</plist>

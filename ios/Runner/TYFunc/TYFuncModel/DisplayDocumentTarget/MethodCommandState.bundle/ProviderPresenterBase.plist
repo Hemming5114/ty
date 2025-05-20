@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activesensoralignment</key>
+	<string>animationSkewY</string>
+	<key>constraintfrequency</key>
+	<string>richtextaction</string>
+	<key>desktopReceiver</key>
+	<string>canValidateScaffold</string>
+	<key>geometricIndicator</key>
+	<string>synchronousAccessory</string>
+	<key>scalabilitySaturation</key>
+	<string>canBuildMargin</string>
+	<key>seamlessResponder</key>
+	<string>responseKind</string>
+	<key>standaloneSkin</key>
+	<string>repositoryRate</string>
+</dict>
+</plist>

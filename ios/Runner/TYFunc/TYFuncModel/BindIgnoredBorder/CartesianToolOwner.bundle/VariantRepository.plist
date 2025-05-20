@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityBound</key>
+	<string>graintypesaturation</string>
+	<key>cupertinoSpeed</key>
+	<string>yieldGraphic</string>
+	<key>deprecateposition</key>
+	<string>playbackBridge</string>
+	<key>mediocreSlider</key>
+	<string>momentumResponse</string>
+	<key>quaternionBrightness</key>
+	<string>singletonRotation</string>
+</dict>
+</plist>

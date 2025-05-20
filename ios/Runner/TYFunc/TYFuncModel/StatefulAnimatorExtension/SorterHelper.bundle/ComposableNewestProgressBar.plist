@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLabel</key>
+	<string>canSaveBase</string>
+	<key>concurrentTrigger</key>
+	<string>cellBridge</string>
+	<key>descriptorpressure</key>
+	<string>comprehensiveSession</string>
+	<key>firstMobile</key>
+	<string>mainPager</string>
+	<key>hierarchicalLocalization</key>
+	<string>spriteLocation</string>
+	<key>localSearcher</key>
+	<string>shouldNotifyTransition</string>
+	<key>normalTouch</key>
+	<string>adaptiveChallenge</string>
+	<key>normexception</key>
+	<string>missedSegue</string>
+	<key>tangentgroup</key>
+	<string>ephemeralDrawer</string>
+</dict>
+</plist>

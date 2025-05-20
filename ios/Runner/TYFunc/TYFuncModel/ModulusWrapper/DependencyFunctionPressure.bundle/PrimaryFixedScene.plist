@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyLog</key>
+	<string>instantiateIntensity</string>
+	<key>frameDirection</key>
+	<string>multiplyChapter</string>
+	<key>menuBrightness</key>
+	<string>lockTitle</string>
+	<key>mutableBandwidth</key>
+	<string>updateSignature</string>
+	<key>playbackTension</key>
+	<string>statefulStatus</string>
+	<key>sharedBoxShadow</key>
+	<string>detachTable</string>
+	<key>shouldPresentReduction</key>
+	<string>toleranceForce</string>
+</dict>
+</plist>

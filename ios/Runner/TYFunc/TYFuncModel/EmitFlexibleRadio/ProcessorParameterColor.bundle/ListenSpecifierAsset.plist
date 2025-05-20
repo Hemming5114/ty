@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSink</key>
+	<string>smarttool</string>
+	<key>inkwellSkewX</key>
+	<string>descriptorfromstate</string>
+	<key>lastequalization</key>
+	<string>shouldUpdateTabBar</string>
+	<key>limitoffset</key>
+	<string>interactiveMatrix</string>
+	<key>lostFeature</key>
+	<string>descentRotation</string>
+	<key>oldRecursion</key>
+	<string>behaviortag</string>
+	<key>shouldBindTabView</key>
+	<string>searcherTop</string>
+	<key>shouldCacheIndicator</key>
+	<string>sortedRectangle</string>
+	<key>typicalCache</key>
+	<string>obtainLayout</string>
+	<key>vectorscalability</key>
+	<string>navigatorrestriction</string>
+</dict>
+</plist>

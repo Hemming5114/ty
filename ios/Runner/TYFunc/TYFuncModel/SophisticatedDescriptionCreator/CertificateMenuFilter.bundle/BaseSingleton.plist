@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleObject</key>
+	<string>reusableIntegration</string>
+	<key>concreteSpot</key>
+	<string>entitystatefrequency</string>
+	<key>draggableAlpha</key>
+	<string>sharedRange</string>
+	<key>interactivePriority</key>
+	<string>protectedrestriction</string>
+	<key>priorSemantics</key>
+	<string>animatedNavigator</string>
+	<key>scaffoldamongenvironment</key>
+	<string>hyperbolicawait</string>
+	<key>shouldPopDecoration</key>
+	<string>efficiencyTheme</string>
+	<key>shouldPublishMedia</key>
+	<string>floatProvider</string>
+	<key>subsequentMethod</key>
+	<string>hierarchicalfuture</string>
+	<key>unbindpoint</key>
+	<string>extendTicker</string>
+</dict>
+</plist>

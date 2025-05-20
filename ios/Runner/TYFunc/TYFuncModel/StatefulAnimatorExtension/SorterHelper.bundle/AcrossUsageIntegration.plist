@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartatactivity</key>
+	<string>enumerateScene</string>
+	<key>dependencyAppearance</key>
+	<string>compareTween</string>
+	<key>drawerSpeed</key>
+	<string>unactivatedBorder</string>
+	<key>materialMenu</key>
+	<string>staticSignature</string>
+	<key>rapidRoute</key>
+	<string>rebuildProfile</string>
+	<key>shouldHandleChallenge</key>
+	<string>shouldPublishActivity</string>
+	<key>storyboardatvalue</key>
+	<string>connectReference</string>
+	<key>transitionutil</key>
+	<string>iterativestate</string>
+</dict>
+</plist>

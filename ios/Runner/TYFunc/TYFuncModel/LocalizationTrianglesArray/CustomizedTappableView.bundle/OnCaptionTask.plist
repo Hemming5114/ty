@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAmortization</key>
+	<string>uniformPolygon</string>
+	<key>displayableScroll</key>
+	<string>adaptiveMapper</string>
+	<key>matrixasnumber</key>
+	<string>custompaintSpeed</string>
+	<key>missedCollection</key>
+	<string>sorterVelocity</string>
+	<key>resizableHeap</key>
+	<string>strokeDepth</string>
+	<key>seamlessScene</key>
+	<string>triggerRotation</string>
+</dict>
+</plist>

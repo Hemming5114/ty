@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableOccasion</key>
+	<string>checklistAdapter</string>
+	<key>hierarchicalIntensity</key>
+	<string>profileadapteroffset</string>
+	<key>intuitiveGesture</key>
+	<string>displayableSearcher</string>
+	<key>managerTheme</key>
+	<string>concreteController</string>
+	<key>nibDepth</key>
+	<string>cartesianEmitter</string>
+	<key>scaffoldincludestrategy</key>
+	<string>isStack</string>
+	<key>secondLinker</key>
+	<string>permutationShape</string>
+	<key>shouldFetchOperation</key>
+	<string>petCenter</string>
+	<key>shouldRouteMobile</key>
+	<string>dynamicImage</string>
+</dict>
+</plist>

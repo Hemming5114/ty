@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedState</key>
+	<string>imperativeManager</string>
+	<key>capacitiesSpeed</key>
+	<string>canPublishNotification</string>
+	<key>contractionAcceleration</key>
+	<string>directlypadding</string>
+	<key>resourceShade</key>
+	<string>radiusContrast</string>
+	<key>skipinterface</key>
+	<string>visibleInterface</string>
+	<key>subsequentviewedge</key>
+	<string>significantColor</string>
+</dict>
+</plist>

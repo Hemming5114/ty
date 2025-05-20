@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorfortask</key>
+	<string>radioevaluation</string>
+	<key>asynchronousFragment</key>
+	<string>nodeForce</string>
+	<key>desktopPublisher</key>
+	<string>instructionasset</string>
+	<key>finderDensity</key>
+	<string>composableCharacteristic</string>
+	<key>mutableresolverspacing</key>
+	<string>loadExpanded</string>
+	<key>pinchableCursor</key>
+	<string>traversalIndex</string>
+	<key>pinchableTweak</key>
+	<string>renderMobile</string>
+	<key>seamlessCube</key>
+	<string>fixedAnimation</string>
+	<key>vectorrenderer</key>
+	<string>sustainableCache</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousdependency</key>
+	<string>baselineprocessduration</string>
+	<key>dedicatedFuture</key>
+	<string>trainExponent</string>
+	<key>deferredIndicator</key>
+	<string>navigateSign</string>
+	<key>elasticShader</key>
+	<string>shouldYieldScale</string>
+	<key>groupvariableopacity</key>
+	<string>hyperbolicPreview</string>
+	<key>shouldSetStateMargin</key>
+	<string>titleRate</string>
+	<key>typicalBrush</key>
+	<string>samplerotation</string>
+</dict>
+</plist>

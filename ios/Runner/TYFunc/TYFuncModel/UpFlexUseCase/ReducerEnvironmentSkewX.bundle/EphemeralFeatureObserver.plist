@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyScene</key>
+	<string>rowresponse</string>
+	<key>firstPoint</key>
+	<string>transitionImage</string>
+	<key>invisibleStatus</key>
+	<string>delegatefinder</string>
+	<key>mediumInjection</key>
+	<string>adaptiveAperture</string>
+	<key>projectionAlignment</key>
+	<string>canPushCursor</string>
+	<key>refactorcell</key>
+	<string>challengeProcess</string>
+	<key>sliderShape</key>
+	<string>defaultplate</string>
+	<key>streamprovider</key>
+	<string>consultativeEvaluation</string>
+</dict>
+</plist>

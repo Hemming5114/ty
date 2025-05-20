@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerFlags</key>
+	<string>timePadding</string>
+	<key>gemFlags</key>
+	<string>linkerBrightness</string>
+	<key>mainDetector</key>
+	<string>shouldSkipHistogram</string>
+	<key>shouldDeserializeMomentum</key>
+	<string>documentSpacing</string>
+	<key>shouldDismissMaster</key>
+	<string>menuLocation</string>
+	<key>spotresponse</key>
+	<string>deferredOption</string>
+	<key>subtletitle</key>
+	<string>canRestartInterpolation</string>
+</dict>
+</plist>

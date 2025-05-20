@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteRoute</key>
+	<string>decouplenotification</string>
+	<key>containerPadding</key>
+	<string>sinkDecorator</string>
+	<key>draggableSingleton</key>
+	<string>minProject</string>
+	<key>gemvalidation</key>
+	<string>streamStateless</string>
+	<key>robustIndicator</key>
+	<string>immediatebuilder</string>
+	<key>shouldRestartView</key>
+	<string>serializePopup</string>
+	<key>shouldUnbindPoint</key>
+	<string>shouldTrainGrayscale</string>
+</dict>
+</plist>

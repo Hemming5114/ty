@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstHistogram</key>
+	<string>petLayer</string>
+	<key>geometricscale</key>
+	<string>paintBitrate</string>
+	<key>prevPresenter</key>
+	<string>activeElasticity</string>
+	<key>shouldHandleConsumer</key>
+	<string>disabledTentative</string>
+	<key>unactivatedlistviewdensity</key>
+	<string>operationOrigin</string>
+</dict>
+</plist>

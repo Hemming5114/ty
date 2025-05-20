@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTransparency</key>
+	<string>decodearithmetic</string>
+	<key>coordinatortaskbehavior</key>
+	<string>reusableDelivery</string>
+	<key>directlyConsumer</key>
+	<string>fusedDelivery</string>
+	<key>injectionfromvalue</key>
+	<string>serviceStructure</string>
+	<key>mutableSlash</key>
+	<string>canFinishProjection</string>
+	<key>previewdescent</key>
+	<string>stopcomposition</string>
+	<key>protectedfuture</key>
+	<string>quitFuture</string>
+	<key>resizableEffect</key>
+	<string>discardedMenu</string>
+	<key>respectiveRenderer</key>
+	<string>visitnode</string>
+	<key>scrollableImage</key>
+	<string>scaleForm</string>
+</dict>
+</plist>

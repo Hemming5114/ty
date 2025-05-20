@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameFeedback</key>
+	<string>loadStateful</string>
+	<key>materialDialogs</key>
+	<string>subtleElement</string>
+	<key>navigatorvisible</key>
+	<string>transposeAnimation</string>
+	<key>radioContrast</key>
+	<string>writedimension</string>
+	<key>requestSaturation</key>
+	<string>invokeEvent</string>
+	<key>spritemomentum</key>
+	<string>responseanalogy</string>
+	<key>symmetricRow</key>
+	<string>materialConfiguration</string>
+	<key>textfieldvideo</key>
+	<string>descriptionScope</string>
+</dict>
+</plist>

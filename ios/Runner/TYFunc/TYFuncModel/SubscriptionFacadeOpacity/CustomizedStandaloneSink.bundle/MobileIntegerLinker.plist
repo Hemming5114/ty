@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axistheme</key>
+	<string>allocatorthancomposite</string>
+	<key>seamlessAwait</key>
+	<string>priorScroll</string>
+	<key>synclocalization</key>
+	<string>pagevieworchain</string>
+	<key>typicalRadius</key>
+	<string>limitSlider</string>
+</dict>
+</plist>

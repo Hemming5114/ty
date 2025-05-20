@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVelocity</key>
+	<string>materialIntensity</string>
+	<key>connectorSaturation</key>
+	<string>paddingStructure</string>
+	<key>customPainter</key>
+	<string>disclaimerFlags</string>
+	<key>declarativeInfrastructure</key>
+	<string>prioritythanmemento</string>
+	<key>dropdownbuttonFeedback</key>
+	<string>canDetachDescriptor</string>
+	<key>evolutionShape</key>
+	<string>directConsumption</string>
+	<key>relationalCube</key>
+	<string>shouldFormatAccessory</string>
+	<key>statefulpicker</key>
+	<string>asynchronousdecorationinterval</string>
+	<key>unmountedobserver</key>
+	<string>canDisconnectListView</string>
+	<key>zoneStyle</key>
+	<string>bitrateVariable</string>
+</dict>
+</plist>

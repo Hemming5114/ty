@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPriority</key>
+	<string>prepareTextField</string>
+	<key>characteristicVisible</key>
+	<string>unmountedWorkflow</string>
+	<key>missedDimension</key>
+	<string>storePreview</string>
+	<key>shouldPopMovement</key>
+	<string>shouldDismissMultiplication</string>
+	<key>shouldStartBorder</key>
+	<string>canEndMusic</string>
+	<key>uniformEqualization</key>
+	<string>movementForce</string>
+	<key>uniformWorkflow</key>
+	<string>splitterVisibility</string>
+</dict>
+</plist>

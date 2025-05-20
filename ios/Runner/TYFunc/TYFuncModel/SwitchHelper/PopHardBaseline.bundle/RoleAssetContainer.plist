@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRestriction</key>
+	<string>scrollDistance</string>
+	<key>componentalignment</key>
+	<string>adjustState</string>
+	<key>disposeframe</key>
+	<string>minReduction</string>
+	<key>entitystate</key>
+	<string>finishRichText</string>
+	<key>layerduringmode</key>
+	<string>currentFilter</string>
+	<key>nativetrigger</key>
+	<string>lifecycletransparency</string>
+	<key>obtainoffset</key>
+	<string>insteadException</string>
+	<key>originalListener</key>
+	<string>ignoredPolygon</string>
+</dict>
+</plist>

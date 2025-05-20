@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChooser</key>
+	<string>respectiveShape</string>
+	<key>globalGestureDetector</key>
+	<string>wrapperCenter</string>
+	<key>methodOffset</key>
+	<string>interactorTask</string>
+	<key>nextBehavior</key>
+	<string>statelessparamcenter</string>
+	<key>shouldRestartTabView</key>
+	<string>compositionalPreview</string>
+</dict>
+</plist>

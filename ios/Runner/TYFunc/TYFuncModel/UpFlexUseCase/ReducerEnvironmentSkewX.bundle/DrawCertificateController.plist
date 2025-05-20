@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushForce</key>
+	<string>canPaintGradient</string>
+	<key>gateSize</key>
+	<string>maxTechnique</string>
+	<key>hardInkWell</key>
+	<string>basicView</string>
+	<key>plateOrigin</key>
+	<string>euclideanEntity</string>
+	<key>reactiveCluster</key>
+	<string>declarativeRoute</string>
+	<key>shouldProcessPriority</key>
+	<string>collectionoffset</string>
+</dict>
+</plist>

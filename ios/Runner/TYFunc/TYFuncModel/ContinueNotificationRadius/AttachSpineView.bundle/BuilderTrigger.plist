@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBrightness</key>
+	<string>activatedPicker</string>
+	<key>expandedinterface</key>
+	<string>dedicatedProgressBar</string>
+	<key>lastBorder</key>
+	<string>responserotation</string>
+	<key>normalTransition</key>
+	<string>borderstylepressure</string>
+	<key>primaryAnalogy</key>
+	<string>flexibleAxis</string>
+	<key>shouldBuildAccessory</key>
+	<string>mountCoordinator</string>
+	<key>sophisticatedAspectRatio</key>
+	<string>graphDelay</string>
+	<key>sortedSubscriber</key>
+	<string>listenerHue</string>
+	<key>uniquelistener</key>
+	<string>defaultAlpha</string>
+</dict>
+</plist>

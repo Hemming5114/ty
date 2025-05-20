@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionmission</key>
+	<string>displayableResolver</string>
+	<key>convolutioninfrastructure</key>
+	<string>syncinkwell</string>
+	<key>currentstateful</key>
+	<string>fixedInteger</string>
+	<key>delicateMomentum</key>
+	<string>reusableSplitter</string>
+	<key>gesturedetectorlocalization</key>
+	<string>clonecompleter</string>
+	<key>interactiveOption</key>
+	<string>canUnmountedDialogs</string>
+	<key>materialfeedback</key>
+	<string>directResponder</string>
+	<key>missedRoute</key>
+	<string>popupMode</string>
+</dict>
+</plist>

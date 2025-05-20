@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInterpolation</key>
+	<string>marginAction</string>
+	<key>cardsingleton</key>
+	<string>awaitshade</string>
+	<key>interactorvideo</key>
+	<string>flexibleLatency</string>
+	<key>opaqueColor</key>
+	<string>granularMobile</string>
+	<key>persistentequalization</key>
+	<string>pageviewTransparency</string>
+	<key>staticMapper</key>
+	<string>vectorMediator</string>
+</dict>
+</plist>

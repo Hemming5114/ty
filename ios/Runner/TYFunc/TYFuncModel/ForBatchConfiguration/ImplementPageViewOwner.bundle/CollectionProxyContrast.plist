@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDescent</key>
+	<string>pinchableExtension</string>
+	<key>euclideanView</key>
+	<string>inactiveContraction</string>
+	<key>formatName</key>
+	<string>grayscaletweak</string>
+	<key>imperativeResponder</key>
+	<string>semanticBuilder</string>
+	<key>localCaption</key>
+	<string>touchmethodname</string>
+	<key>resilienceFlags</key>
+	<string>accordionResult</string>
+</dict>
+</plist>

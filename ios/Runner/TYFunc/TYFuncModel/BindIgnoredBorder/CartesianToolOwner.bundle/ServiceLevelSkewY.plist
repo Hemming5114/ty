@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDistinction</key>
+	<string>offsetthantask</string>
+	<key>densebuilder</key>
+	<string>canStreamScreen</string>
+	<key>granularAsync</key>
+	<string>canParseExtension</string>
+	<key>lazyRectangle</key>
+	<string>statelessNavigator</string>
+	<key>notifymodal</key>
+	<string>shouldCreateInkWell</string>
+	<key>permanentCluster</key>
+	<string>screenBrightness</string>
+	<key>projectionTint</key>
+	<string>explicitSubpixel</string>
+	<key>respectiveDuration</key>
+	<string>characterVisitor</string>
+	<key>singletonstyledensity</key>
+	<string>cupertinoMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFinder</key>
+	<string>imperativeCapsule</string>
+	<key>immediateSensor</key>
+	<string>oncharacterchanged</string>
+	<key>shouldbindbatch</key>
+	<string>pivotalGestureDetector</string>
+	<key>uniformgraphic</key>
+	<string>declarativeAsset</string>
+	<key>vectorMomentum</key>
+	<string>yieldDrawer</string>
+</dict>
+</plist>

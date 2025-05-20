@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetransformeroffset</key>
+	<string>compositionstagetop</string>
+	<key>backwardConstraint</key>
+	<string>concurrentOption</string>
+	<key>granularSplitter</key>
+	<string>shouldNavigateModulus</string>
+	<key>memberDistance</key>
+	<string>optimizeSprite</string>
+	<key>reusableScheduler</key>
+	<string>parseCycle</string>
+	<key>secondgesturedetector</key>
+	<string>annotateAsync</string>
+	<key>symmetricOffset</key>
+	<string>subsequentPainter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystBrightness</key>
+	<string>makeStorage</string>
+	<key>controllerFrequency</key>
+	<string>intensityanalyzer</string>
+	<key>nativeRange</key>
+	<string>ignoredSink</string>
+	<key>parallelLatency</key>
+	<string>immediateSwitch</string>
+	<key>shouldBindSwift</key>
+	<string>callbackBuffer</string>
+	<key>shouldUpdateCharacter</key>
+	<string>missedLoss</string>
+	<key>timeTheme</key>
+	<string>overridetexture</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstCubit</key>
+	<string>normalChecklist</string>
+	<key>localizationHue</key>
+	<string>observeStack</string>
+	<key>shouldRenderTernary</key>
+	<string>animatedEquipment</string>
+	<key>visibleError</key>
+	<string>buildRadio</string>
+</dict>
+</plist>

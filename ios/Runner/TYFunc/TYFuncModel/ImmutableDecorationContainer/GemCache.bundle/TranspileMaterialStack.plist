@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateUsage</key>
+	<string>throughputHue</string>
+	<key>evaluationType</key>
+	<string>shouldDetachScaffold</string>
+	<key>inheritedTool</key>
+	<string>concurrentmovementacceleration</string>
+	<key>standaloneCard</key>
+	<string>shouldPublishGesture</string>
+</dict>
+</plist>

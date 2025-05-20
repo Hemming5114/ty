@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterDensity</key>
+	<string>popupskewy</string>
+	<key>euclideanpositiondirection</key>
+	<string>unactivatedCharacteristic</string>
+	<key>greatGroup</key>
+	<string>serializeTextField</string>
+	<key>sortedScheduler</key>
+	<string>textureDelay</string>
+	<key>statelessMovement</key>
+	<string>concurrentInterpolation</string>
+</dict>
+</plist>

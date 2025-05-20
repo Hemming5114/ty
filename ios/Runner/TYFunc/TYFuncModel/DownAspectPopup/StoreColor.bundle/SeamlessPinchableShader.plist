@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializeprogressbar</key>
+	<string>exceptionorplatform</string>
+	<key>infrastructureShape</key>
+	<string>processScale</string>
+	<key>nextGrid</key>
+	<string>interpolationPlatform</string>
+	<key>persistentRemainder</key>
+	<string>roleNumber</string>
+	<key>priorityResponse</key>
+	<string>unbindCaption</string>
+	<key>quantizationswitch</key>
+	<string>materialProjection</string>
+	<key>shouldPushOperation</key>
+	<string>delegateBridge</string>
+	<key>shoulddisposeactivity</key>
+	<string>clipperSingleton</string>
+	<key>symbolmatrix</key>
+	<string>asyncEnvironment</string>
+</dict>
+</plist>

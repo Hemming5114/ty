@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basedespitebridge</key>
+	<string>chapterStage</string>
+	<key>colorStatus</key>
+	<string>beginnerPreview</string>
+	<key>concurrentRenderer</key>
+	<string>textfieldAction</string>
+	<key>crudeMovement</key>
+	<string>discardedImage</string>
+	<key>deflateresource</key>
+	<string>storagePressure</string>
+	<key>meshTheme</key>
+	<string>shouldRestartAnimation</string>
+	<key>popupreliability</key>
+	<string>newestNorm</string>
+	<key>primaryTaxonomy</key>
+	<string>firstAnimator</string>
+	<key>sizedboxSpacing</key>
+	<string>detachInterpolation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSession</key>
+	<string>canParseBorder</string>
+	<key>ignoredVideo</key>
+	<string>buildUnary</string>
+	<key>seamlessTraversal</key>
+	<string>viewviainterpreter</string>
+	<key>sharedSpine</key>
+	<string>managertag</string>
+	<key>shouldListenGift</key>
+	<string>shouldRouteNavigator</string>
+	<key>shouldTrainClipper</key>
+	<string>custompaintAction</string>
+	<key>shouldUpdatePositioned</key>
+	<string>subscribepreview</string>
+	<key>subscriberVelocity</key>
+	<string>immutableRow</string>
+</dict>
+</plist>

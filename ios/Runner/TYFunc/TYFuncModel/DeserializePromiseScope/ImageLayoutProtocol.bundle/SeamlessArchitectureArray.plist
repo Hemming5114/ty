@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleService</key>
+	<string>mediocrePainter</string>
+	<key>listenerShade</key>
+	<string>reactiveCubit</string>
+	<key>localizationDistance</key>
+	<string>draggablegesturedetectortail</string>
+	<key>newestPlate</key>
+	<string>canResumeAnimatedContainer</string>
+	<key>respectivePager</key>
+	<string>injectionscheduler</string>
+	<key>selectedCosine</key>
+	<string>emitAlpha</string>
+	<key>sharedAppBar</key>
+	<string>sequentialGrayscale</string>
+	<key>shouldDetachAspect</key>
+	<string>shouldPauseEffect</string>
+	<key>usedCustomPaint</key>
+	<string>exceptionformtag</string>
+</dict>
+</plist>

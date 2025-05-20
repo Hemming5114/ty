@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featuretint</key>
+	<string>shouldCreateSwift</string>
+	<key>scrollablelistener</key>
+	<string>observerComposite</string>
+	<key>shouldPushChallenge</key>
+	<string>retainedGrayscale</string>
+	<key>shouldRouteTextField</key>
+	<string>rapidResolver</string>
+	<key>subscriptiondelay</key>
+	<string>activeModule</string>
+</dict>
+</plist>

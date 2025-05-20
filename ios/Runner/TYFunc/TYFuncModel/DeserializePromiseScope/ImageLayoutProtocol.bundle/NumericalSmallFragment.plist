@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDensity</key>
+	<string>reliabilityFrequency</string>
+	<key>basicPlayback</key>
+	<string>opaqueSubscriber</string>
+	<key>chartfrequency</key>
+	<string>draggableMechanism</string>
+	<key>itemSkewY</key>
+	<string>receiverFeedback</string>
+	<key>largeTraversal</key>
+	<string>singletonValidation</string>
+	<key>liteLatency</key>
+	<string>reusableInteractor</string>
+	<key>scrollableTable</key>
+	<string>greatMusic</string>
+	<key>sensorTheme</key>
+	<string>shouldMountAccessory</string>
+	<key>shouldDisconnectSegue</key>
+	<string>customizedInteraction</string>
+</dict>
+</plist>

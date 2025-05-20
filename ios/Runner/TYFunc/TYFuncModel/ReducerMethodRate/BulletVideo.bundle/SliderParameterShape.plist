@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureorcontext</key>
+	<string>expandedInterval</string>
+	<key>chapterstructurealignment</key>
+	<string>immediateExponent</string>
+	<key>hashStyle</key>
+	<string>currentcollection</string>
+	<key>multitrigger</key>
+	<string>asynchronousFragment</string>
+	<key>navigationFrequency</key>
+	<string>vectorSkewX</string>
+	<key>shouldUnmountedCurve</key>
+	<string>activeUseCase</string>
+	<key>sortedExtension</key>
+	<string>createAnimatedContainer</string>
+	<key>transitionextension</key>
+	<string>reduceUseCase</string>
+</dict>
+</plist>

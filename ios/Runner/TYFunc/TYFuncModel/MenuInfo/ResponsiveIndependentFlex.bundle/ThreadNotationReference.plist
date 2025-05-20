@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerRight</key>
+	<string>shouldAnimatePoint</string>
+	<key>arithmeticSkewY</key>
+	<string>retainedDispatcher</string>
+	<key>controllerDensity</key>
+	<string>semanticLatency</string>
+	<key>futureBound</key>
+	<string>transformTable</string>
+	<key>interfaceascomposite</key>
+	<string>canListenMovement</string>
+	<key>previewLocation</key>
+	<string>shouldDisconnectStoryboard</string>
+	<key>quaternionVisible</key>
+	<string>convertGrid</string>
+	<key>scrollablebrushlocation</key>
+	<string>mitigateIntensity</string>
+	<key>shouldbuildbitrate</key>
+	<string>usecaseDecorator</string>
+	<key>widgetobserverbehavior</key>
+	<string>paddingResponse</string>
+</dict>
+</plist>

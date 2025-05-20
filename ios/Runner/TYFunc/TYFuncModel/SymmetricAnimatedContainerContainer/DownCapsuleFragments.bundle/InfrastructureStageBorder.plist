@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTouch</key>
+	<string>canPresentRemainder</string>
+	<key>curvenumbermode</key>
+	<string>optimizeState</string>
+	<key>emitutil</key>
+	<string>nextShader</string>
+	<key>inactiveProject</key>
+	<string>canDecodeSession</string>
+	<key>shouldDecodeNotification</key>
+	<string>canFinishSignature</string>
+	<key>shouldUnbindSine</key>
+	<string>canFinishAnimatedContainer</string>
+	<key>staticInstruction</key>
+	<string>chartworkborder</string>
+</dict>
+</plist>

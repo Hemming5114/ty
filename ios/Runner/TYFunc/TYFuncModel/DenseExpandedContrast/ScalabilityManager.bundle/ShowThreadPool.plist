@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableTimer</key>
+	<string>evolutionAppearance</string>
+	<key>lazycontrollertop</key>
+	<string>animationmargin</string>
+	<key>radioShape</key>
+	<string>dimensionFlags</string>
+	<key>respondpositioned</key>
+	<string>shouldRestartSemantics</string>
+	<key>shouldLoadActivity</key>
+	<string>timeContrast</string>
+	<key>shouldUpdateStack</key>
+	<string>promisejobtheme</string>
+	<key>symbolindecorator</key>
+	<string>robustSlash</string>
+</dict>
+</plist>

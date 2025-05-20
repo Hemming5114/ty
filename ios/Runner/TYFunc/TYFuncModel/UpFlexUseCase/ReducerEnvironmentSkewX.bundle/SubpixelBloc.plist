@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultNavigation</key>
+	<string>sustainableScale</string>
+	<key>overridetransition</key>
+	<string>setstateCurve</string>
+	<key>persistentElasticity</key>
+	<string>musicVisibility</string>
+	<key>projectTint</key>
+	<string>canDetachPainter</string>
+	<key>shouldPopSpecifier</key>
+	<string>delegatearoundmemento</string>
+	<key>shouldsavecoordinator</key>
+	<string>persistRemainder</string>
+	<key>staticAccessory</key>
+	<string>aspectratioStrategy</string>
+	<key>zonecontainenvironment</key>
+	<string>globalRole</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralAllocator</key>
+	<string>mainRemainder</string>
+	<key>nextCanvas</key>
+	<string>unactivatedDispatcher</string>
+	<key>protocolIndex</key>
+	<string>canDismissTabView</string>
+	<key>resizableparticleappearance</key>
+	<string>framestatus</string>
+	<key>seamlessUseCase</key>
+	<string>completedPadding</string>
+	<key>sorterTransparency</key>
+	<string>clippertension</string>
+</dict>
+</plist>

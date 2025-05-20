@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>escalatecard</key>
+	<string>canDispatchMonster</string>
+	<key>protectedswift</key>
+	<string>writeProvider</string>
+	<key>responseagainstlevel</key>
+	<string>inheritedCycle</string>
+	<key>responsiveSelector</key>
+	<string>readInteractor</string>
+	<key>shouldBuildTabView</key>
+	<string>shouldNavigateMobile</string>
+	<key>shouldProcessRadio</key>
+	<string>typicalAsset</string>
+	<key>themeLeft</key>
+	<string>contrastShape</string>
+</dict>
+</plist>

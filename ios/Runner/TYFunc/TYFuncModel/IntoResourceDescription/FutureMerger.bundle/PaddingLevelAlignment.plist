@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseCenter</key>
+	<string>aspectratioRight</string>
+	<key>curvetail</key>
+	<string>cartesianReceiver</string>
+	<key>interpolationframe</key>
+	<string>lostAscent</string>
+	<key>popconsumer</key>
+	<string>configurationDecorator</string>
+	<key>respectiveusecasecoord</key>
+	<string>techniqueatcycle</string>
+	<key>shouldPopMaster</key>
+	<string>clusterSkewX</string>
+</dict>
+</plist>

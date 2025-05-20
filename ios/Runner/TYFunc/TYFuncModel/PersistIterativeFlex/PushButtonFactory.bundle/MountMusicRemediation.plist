@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativezonescale</key>
+	<string>respectiveSlider</string>
+	<key>parallelQueue</key>
+	<string>displayTexture</string>
+	<key>polyfillsaturation</key>
+	<string>timerMomentum</string>
+	<key>restrictionBottom</key>
+	<string>cachenearlevel</string>
+	<key>sessionMode</key>
+	<string>similarConsumer</string>
+	<key>shouldSerializeAxis</key>
+	<string>requiredState</string>
+	<key>shouldShowAlert</key>
+	<string>fixedIntegrity</string>
+	<key>statefulModule</key>
+	<string>loadCoordinator</string>
+	<key>statelessFeedback</key>
+	<string>loadSymbol</string>
+	<key>vertexlocation</key>
+	<string>metadataMemento</string>
+</dict>
+</plist>

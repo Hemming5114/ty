@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildermediatortint</key>
+	<string>shouldstreamcupertino</string>
+	<key>cellprototyperight</key>
+	<string>processorposition</string>
+	<key>connectorTint</key>
+	<string>standalonesingleton</string>
+	<key>emittextfield</key>
+	<string>canDetachAppBar</string>
+	<key>inactiveDropdownButton</key>
+	<string>resetQueue</string>
+	<key>pickerDepth</key>
+	<string>newestOperation</string>
+	<key>shouldConnectPageView</key>
+	<string>canDismissStateful</string>
+	<key>vertexBehavior</key>
+	<string>shouldReplaceGridView</string>
+</dict>
+</plist>

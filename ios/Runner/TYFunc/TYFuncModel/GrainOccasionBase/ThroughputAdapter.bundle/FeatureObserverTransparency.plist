@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioncoord</key>
+	<string>contractiongroup</string>
+	<key>denseResource</key>
+	<string>specifyMember</string>
+	<key>inactiveEffect</key>
+	<string>oldInterface</string>
+	<key>preparelistener</key>
+	<string>bitrateDelay</string>
+	<key>semanticScreen</key>
+	<string>associatedPadding</string>
+	<key>sophisticatedSlash</key>
+	<string>visibleMerger</string>
+	<key>subscriberinset</key>
+	<string>roleVariable</string>
+</dict>
+</plist>

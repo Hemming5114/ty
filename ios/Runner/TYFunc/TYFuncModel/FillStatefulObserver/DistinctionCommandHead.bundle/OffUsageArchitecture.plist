@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblescenario</key>
+	<string>assetcontextvisible</string>
+	<key>largecharacterscale</key>
+	<string>canEndBorder</string>
+	<key>petorigin</key>
+	<string>hardMetadata</string>
+	<key>shouldUpdateExtension</key>
+	<string>sizeEdge</string>
+</dict>
+</plist>

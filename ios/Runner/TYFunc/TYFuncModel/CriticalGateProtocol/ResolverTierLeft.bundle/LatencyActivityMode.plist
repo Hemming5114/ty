@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedModulus</key>
+	<string>rapidChannel</string>
+	<key>axisvertex</key>
+	<string>criticalResolver</string>
+	<key>deferredMetadata</key>
+	<string>selectedcomposition</string>
+	<key>oldAction</key>
+	<string>shouldObserveReference</string>
+	<key>seamlessDelivery</key>
+	<string>keepAccessory</string>
+	<key>shouldEndExtension</key>
+	<string>disparateButton</string>
+	<key>shouldHandleUsage</key>
+	<string>positionedState</string>
+	<key>shouldStreamProvider</key>
+	<string>shouldEndRole</string>
+	<key>sophisticatedCharacter</key>
+	<string>activityColor</string>
+	<key>standaloneAnimation</key>
+	<string>encodeAwait</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveTimer</key>
+	<string>shouldAttachUsage</string>
+	<key>mainCosine</key>
+	<string>basicLogarithm</string>
+	<key>nativeIsolate</key>
+	<string>canRebuildPlayback</string>
+	<key>shouldDismissDrawer</key>
+	<string>subtleZone</string>
+	<key>temporaryHandler</key>
+	<string>cloneStorage</string>
+	<key>textureValidation</key>
+	<string>shouldfetchspot</string>
+</dict>
+</plist>

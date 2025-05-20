@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderasaction</key>
+	<string>handleBoxShadow</string>
+	<key>customizedSegue</key>
+	<string>recttype</string>
+	<key>emitshader</key>
+	<string>pinchableCombiner</string>
+	<key>explicitAsync</key>
+	<string>canAnimateIcon</string>
+	<key>lazyAlpha</key>
+	<string>delegateinterval</string>
+	<key>pinchablePicker</key>
+	<string>checkboxdelay</string>
+	<key>polygonInset</key>
+	<string>timerPattern</string>
+	<key>sceneBottom</key>
+	<string>semanticalpha</string>
+	<key>usedGrayscale</key>
+	<string>shouldObservePromise</string>
+</dict>
+</plist>

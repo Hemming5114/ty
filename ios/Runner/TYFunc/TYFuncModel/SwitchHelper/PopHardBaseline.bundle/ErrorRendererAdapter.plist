@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAspect</key>
+	<string>beginnerLayer</string>
+	<key>gridviewhash</key>
+	<string>utilbeyondvar</string>
+	<key>impactOrientation</key>
+	<string>mediummethod</string>
+	<key>semanticAnimatedContainer</key>
+	<string>statelessPlatform</string>
+	<key>skirtAcceleration</key>
+	<string>heapIndex</string>
+</dict>
+</plist>

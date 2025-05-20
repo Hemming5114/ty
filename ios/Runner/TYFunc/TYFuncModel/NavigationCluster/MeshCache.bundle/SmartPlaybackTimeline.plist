@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeRole</key>
+	<string>temporaryTween</string>
+	<key>interactiontransparency</key>
+	<string>concretehandler</string>
+	<key>meshRight</key>
+	<string>scrollableSlash</string>
+	<key>renderhandler</key>
+	<string>meshTop</string>
+	<key>replicaScale</key>
+	<string>subtleAsset</string>
+	<key>respectiveIntegration</key>
+	<string>reconcileAsset</string>
+	<key>shouldRestartListView</key>
+	<string>binderScale</string>
+</dict>
+</plist>

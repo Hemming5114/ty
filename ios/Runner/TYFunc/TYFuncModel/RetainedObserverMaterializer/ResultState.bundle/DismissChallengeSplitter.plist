@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScope</key>
+	<string>equivalentOpacity</string>
+	<key>animatedcontainerTint</key>
+	<string>shouldSaveTangent</string>
+	<key>attachcoordinator</key>
+	<string>shouldAnimateExtension</string>
+	<key>moduleStyle</key>
+	<string>checkCompleter</string>
+	<key>shouldcontinueproject</key>
+	<string>adaptiveDialogs</string>
+	<key>startview</key>
+	<string>intermediateTask</string>
+</dict>
+</plist>

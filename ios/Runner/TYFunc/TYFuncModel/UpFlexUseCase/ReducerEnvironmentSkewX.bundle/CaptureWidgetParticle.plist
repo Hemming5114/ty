@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentNavigator</key>
+	<string>drawInterface</string>
+	<key>navigaterect</key>
+	<string>soundContrast</string>
+	<key>quaternionValidation</key>
+	<string>ephemeralRequest</string>
+	<key>tappableReference</key>
+	<string>startProtocol</string>
+</dict>
+</plist>

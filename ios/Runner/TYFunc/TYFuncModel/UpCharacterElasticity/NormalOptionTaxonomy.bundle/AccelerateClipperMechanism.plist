@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonlabel</key>
+	<string>embedParticle</string>
+	<key>draggableSymbol</key>
+	<string>webRemainder</string>
+	<key>immutableSymbol</key>
+	<string>transformCell</string>
+	<key>mutableBandwidth</key>
+	<string>signatureduration</string>
+</dict>
+</plist>

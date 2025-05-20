@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSignature</key>
+	<string>richtextatvar</string>
+	<key>compositionalTheme</key>
+	<string>hashSpacing</string>
+	<key>dynamicIndicator</key>
+	<string>canSubscribeArithmetic</string>
+	<key>layerStatus</key>
+	<string>lastAnimator</string>
+	<key>protocolBehavior</key>
+	<string>radioOrigin</string>
+	<key>shouldLoadNavigation</key>
+	<string>canRebuildNavigator</string>
+	<key>transitionScale</key>
+	<string>entityAdapter</string>
+</dict>
+</plist>

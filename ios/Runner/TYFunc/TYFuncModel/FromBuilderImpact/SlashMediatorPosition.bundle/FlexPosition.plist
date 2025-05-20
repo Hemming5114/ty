@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBinary</key>
+	<string>storeCycle</string>
+	<key>checkboxsystemsaturation</key>
+	<string>permanentNib</string>
+	<key>inheritedComposition</key>
+	<string>equipmentNumber</string>
+	<key>popupactivityskewx</key>
+	<string>staticDrawer</string>
+	<key>shouldlayoutpadding</key>
+	<string>stepScale</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitallocator</key>
+	<string>canTransformCertificate</string>
+	<key>instructioninteraction</key>
+	<string>canTransitionBox</string>
+	<key>materialPriority</key>
+	<string>architectureOpacity</string>
+	<key>mediocrePolygon</key>
+	<string>timelineAlignment</string>
+	<key>originalScalability</key>
+	<string>shouldfetchcolumn</string>
+	<key>routerForce</key>
+	<string>canEncodeCupertino</string>
+	<key>sequentialCheckbox</key>
+	<string>immutableSchema</string>
+	<key>shouldFormatColumn</key>
+	<string>lockprogressbar</string>
+	<key>webCache</key>
+	<string>channelFlyweight</string>
+</dict>
+</plist>

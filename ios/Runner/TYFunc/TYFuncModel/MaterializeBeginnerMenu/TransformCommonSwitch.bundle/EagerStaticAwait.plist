@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGraph</key>
+	<string>easyStoryboard</string>
+	<key>directEffect</key>
+	<string>comprehensiveMaster</string>
+	<key>instructionentity</key>
+	<string>canUpdateScreen</string>
+	<key>largeCache</key>
+	<string>finderHue</string>
+	<key>paddingbridgeedge</key>
+	<string>awaitcenter</string>
+	<key>persistentVertex</key>
+	<string>animatedVolume</string>
+	<key>shouldstartstep</key>
+	<string>shouldPersistCompletion</string>
+</dict>
+</plist>

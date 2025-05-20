@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncleft</key>
+	<string>onappbarchanged</string>
+	<key>capacitiesHead</key>
+	<string>unmountedBatch</string>
+	<key>mediumLayout</key>
+	<string>draggableEntity</string>
+	<key>mutableNode</key>
+	<string>immutableAspectRatio</string>
+	<key>stopslider</key>
+	<string>transposeBuilder</string>
+</dict>
+</plist>

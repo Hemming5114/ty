@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDelivery</key>
+	<string>sustainableGroup</string>
+	<key>hascapsule</key>
+	<string>lastSplitter</string>
+	<key>intermediateService</key>
+	<string>euclideanMargin</string>
+	<key>reusableDetector</key>
+	<string>sharedPicker</string>
+	<key>shouldKeepNavigation</key>
+	<string>webscaffold</string>
+	<key>sorterPadding</key>
+	<string>scaffolddirection</string>
+	<key>statefulTaxonomy</key>
+	<string>semanticsshape</string>
+	<key>transformerinterval</key>
+	<string>crudeStorage</string>
+</dict>
+</plist>

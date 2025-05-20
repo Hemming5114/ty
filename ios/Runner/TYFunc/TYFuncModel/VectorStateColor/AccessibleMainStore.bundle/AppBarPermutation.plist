@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDuration</key>
+	<string>requiredRange</string>
+	<key>desktopStrength</key>
+	<string>canUnmountExpanded</string>
+	<key>respondfuture</key>
+	<string>mobileRight</string>
+	<key>statefulSubpixel</key>
+	<string>constraintinterval</string>
+</dict>
+</plist>

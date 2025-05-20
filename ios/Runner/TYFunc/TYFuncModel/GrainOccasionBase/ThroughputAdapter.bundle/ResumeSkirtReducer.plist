@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSensor</key>
+	<string>multiMusic</string>
+	<key>deferredUsage</key>
+	<string>canDetachMap</string>
+	<key>displayableIndicator</key>
+	<string>autoAsync</string>
+	<key>imperativeTaxonomy</key>
+	<string>customChooser</string>
+	<key>interactiveContraction</key>
+	<string>threadTheme</string>
+	<key>routerInterval</key>
+	<string>canCacheSubpixel</string>
+	<key>sharedVolume</key>
+	<string>ignoredStorage</string>
+</dict>
+</plist>

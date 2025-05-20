@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeAnimatedContainer</key>
+	<string>seamlessNode</string>
+	<key>navigationSpeed</key>
+	<string>lossOpacity</string>
+	<key>responsiveImpact</key>
+	<string>loadprogressbar</string>
+	<key>statefulBandwidth</key>
+	<string>groupSingleton</string>
+	<key>temporaryStateful</key>
+	<string>sinkValidation</string>
+	<key>volumeMode</key>
+	<string>actionawaycommand</string>
+</dict>
+</plist>

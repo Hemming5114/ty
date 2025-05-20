@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultInformation</key>
+	<string>firstGrid</string>
+	<key>interactivelayerhue</key>
+	<string>moveEvent</string>
+	<key>mediumContraction</key>
+	<string>trainDecoration</string>
+	<key>oldRole</key>
+	<string>symmetricReference</string>
+	<key>pausechecklist</key>
+	<string>celltitle</string>
+	<key>shadername</key>
+	<string>canEncodeCycle</string>
+	<key>shouldBindStream</key>
+	<string>localTitle</string>
+	<key>substantialImpact</key>
+	<string>shoulddeserializepoint</string>
+	<key>unaryparamcolor</key>
+	<string>invisiblePlayback</string>
+</dict>
+</plist>

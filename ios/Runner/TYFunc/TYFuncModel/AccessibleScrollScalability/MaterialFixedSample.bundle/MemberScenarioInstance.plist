@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardlabel</key>
+	<string>subtleText</string>
+	<key>crudeColor</key>
+	<string>hascard</string>
+	<key>enabledError</key>
+	<string>diffableConsumption</string>
+	<key>formatgrayscale</key>
+	<string>persistentSingleton</string>
+	<key>inflatesprite</key>
+	<string>objectAcceleration</string>
+	<key>nextInteractor</key>
+	<string>singletonTag</string>
+	<key>numericalTool</key>
+	<string>observeSink</string>
+	<key>timerataction</key>
+	<string>skinMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertversusaction</key>
+	<string>providerMethod</string>
+	<key>dimensionarchitecture</key>
+	<string>singletonformvisible</string>
+	<key>dismissvector</key>
+	<string>detachexception</string>
+	<key>explicitLayout</key>
+	<string>dynamicdata</string>
+	<key>inactiveMaterializer</key>
+	<string>shouldCacheBatch</string>
+	<key>mapRate</key>
+	<string>emittermode</string>
+	<key>tensorcapacitiesappearance</key>
+	<string>numericalMember</string>
+</dict>
+</plist>

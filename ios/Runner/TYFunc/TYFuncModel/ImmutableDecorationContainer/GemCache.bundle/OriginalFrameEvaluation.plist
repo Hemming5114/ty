@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedAnalyzer</key>
+	<string>streamlineProgressBar</string>
+	<key>discardedProvider</key>
+	<string>cacheAlert</string>
+	<key>pointTransparency</key>
+	<string>finishPainter</string>
+	<key>shouldDismissStream</key>
+	<string>persistcanvas</string>
+	<key>statelesstaskskewx</key>
+	<string>tentativeKind</string>
+	<key>symmetricpopupopacity</key>
+	<string>updateactivity</string>
+	<key>textureTransparency</key>
+	<string>challengeSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>limitmodel</key>
+	<string>subscriptiondepth</string>
+	<key>resizableState</key>
+	<string>convolutionState</string>
+	<key>shouldRouteGraphic</key>
+	<string>staticSlider</string>
+	<key>spinevisible</key>
+	<string>dropdownbuttonPressure</string>
+	<key>spriteRotation</key>
+	<string>themeFrequency</string>
+</dict>
+</plist>

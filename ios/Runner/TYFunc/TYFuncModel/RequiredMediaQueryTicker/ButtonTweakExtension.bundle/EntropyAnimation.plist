@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentStyle</key>
+	<string>cellFlags</string>
+	<key>eventchainrate</key>
+	<string>bitratefuture</string>
+	<key>functionalternarycontrast</key>
+	<string>visiblehash</string>
+	<key>grayscalePressure</key>
+	<string>transformerTop</string>
+	<key>isTangent</key>
+	<string>shouldValidateContraction</string>
+	<key>reactiveTime</key>
+	<string>currentinterpolation</string>
+	<key>shouldUnmountSkirt</key>
+	<string>canCacheTernary</string>
+	<key>specifyMusic</key>
+	<string>tabbarinjection</string>
+	<key>subscriptionanimation</key>
+	<string>standaloneOperation</string>
+</dict>
+</plist>

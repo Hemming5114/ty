@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializesegment</key>
+	<string>movementadapterstate</string>
+	<key>interfaceFlags</key>
+	<string>shouldResumeExpanded</string>
+	<key>intermediatepicker</key>
+	<string>statelessqueue</string>
+	<key>mutablepopuptint</key>
+	<string>thresholdOrientation</string>
+	<key>navigatorreliability</key>
+	<string>eraseResource</string>
+	<key>respondcanvas</key>
+	<string>statelessNode</string>
+	<key>sophisticatedChannel</key>
+	<string>storageContext</string>
+</dict>
+</plist>

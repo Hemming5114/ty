@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultnavigation</key>
+	<string>canCreateDuration</string>
+	<key>functionalTabBar</key>
+	<string>robustTimeline</string>
+	<key>instructionMode</key>
+	<string>curveState</string>
+	<key>remainderwidget</key>
+	<string>parseGridView</string>
+	<key>unsortedResponder</key>
+	<string>mountCube</string>
+</dict>
+</plist>

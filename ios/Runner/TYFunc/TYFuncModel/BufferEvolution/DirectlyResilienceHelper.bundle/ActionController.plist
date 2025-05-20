@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>datastyle</key>
+	<string>invisibleLogarithm</string>
+	<key>denseScalability</key>
+	<string>heroStrategy</string>
+	<key>draggableResilience</key>
+	<string>positionedContext</string>
+	<key>gemBottom</key>
+	<string>cupertinoController</string>
+	<key>hierarchicalChart</key>
+	<string>delicateaspectpressure</string>
+	<key>interactiveDrawer</key>
+	<string>statelessMesh</string>
+	<key>resilienceStatus</key>
+	<string>explicitBrush</string>
+	<key>searcherIndex</key>
+	<string>discoverBloc</string>
+	<key>sharedObserver</key>
+	<string>keyRequest</string>
+</dict>
+</plist>

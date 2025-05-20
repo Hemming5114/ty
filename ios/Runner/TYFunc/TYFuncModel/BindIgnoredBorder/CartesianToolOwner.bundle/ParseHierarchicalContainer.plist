@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatetransition</key>
+	<string>animateaspect</string>
+	<key>flexibleStep</key>
+	<string>shouldPresentInkWell</string>
+	<key>hashorientation</key>
+	<string>beginnerModulus</string>
+	<key>nativeBehavior</key>
+	<string>brushMemento</string>
+	<key>persistrect</key>
+	<string>referenceMediator</string>
+	<key>statelessAnimatedContainer</key>
+	<string>eagerTolerance</string>
+	<key>subpixelforce</key>
+	<string>prismaticText</string>
+</dict>
+</plist>

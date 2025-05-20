@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOffset</key>
+	<string>synchronizesemantics</string>
+	<key>currentCollection</key>
+	<string>reflectTask</string>
+	<key>disabledTextField</key>
+	<string>storeZone</string>
+	<key>elasticDependency</key>
+	<string>stopHeap</string>
+	<key>firstChapter</key>
+	<string>measureProvider</string>
+	<key>listeneradapterspeed</key>
+	<string>enabledDispatcher</string>
+	<key>oncanvaschanged</key>
+	<string>compositionalSkirt</string>
+</dict>
+</plist>

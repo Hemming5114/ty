@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialVertex</key>
+	<string>logarithmLevel</string>
+	<key>handlerStyle</key>
+	<string>tensorconfigurationrotation</string>
+	<key>listenerEdge</key>
+	<string>retrievefactory</string>
+	<key>nativeCapacities</key>
+	<string>encodeSink</string>
+	<key>observerelement</key>
+	<string>usageinteraction</string>
+	<key>reductionbyprocess</key>
+	<string>reduceManager</string>
+	<key>shouldunbindcertificate</key>
+	<string>metadatamediatorright</string>
+	<key>showhistogram</key>
+	<string>accessoryVelocity</string>
+	<key>sophisticatedImpact</key>
+	<string>bufferRate</string>
+</dict>
+</plist>

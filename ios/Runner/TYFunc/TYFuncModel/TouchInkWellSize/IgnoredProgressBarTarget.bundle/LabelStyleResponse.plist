@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMerger</key>
+	<string>timerbesideshape</string>
+	<key>currentoptimizer</key>
+	<string>shouldEndEqualization</string>
+	<key>dispatchrequest</key>
+	<string>shouldUnmountedSkin</string>
+	<key>lostStep</key>
+	<string>tweakLocation</string>
+	<key>modelspacing</key>
+	<string>fusedManager</string>
+	<key>mutablePadding</key>
+	<string>subtleMend</string>
+	<key>normalCoordinator</key>
+	<string>locateLoop</string>
+	<key>sorterVisibility</key>
+	<string>relationalInkWell</string>
+</dict>
+</plist>

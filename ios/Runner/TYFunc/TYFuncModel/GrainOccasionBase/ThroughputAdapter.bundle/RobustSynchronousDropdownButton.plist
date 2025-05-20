@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasobserver</key>
+	<string>shouldParseGradient</string>
+	<key>interactiveObserver</key>
+	<string>oldStateless</string>
+	<key>mediocreGridView</key>
+	<string>characterlevelhue</string>
+	<key>observebutton</key>
+	<string>titleSingleton</string>
+	<key>oldGraphic</key>
+	<string>crudeStore</string>
+	<key>paintframe</key>
+	<string>cartesianBandwidth</string>
+	<key>scenarioBottom</key>
+	<string>resetLayer</string>
+</dict>
+</plist>

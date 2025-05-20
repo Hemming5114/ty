@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filterHue</key>
+	<string>requestPosition</string>
+	<key>observeragainstparameter</key>
+	<string>draggableCurve</string>
+	<key>protectedFuture</key>
+	<string>optimizeManager</string>
+	<key>seamlessjoiner</key>
+	<string>coordinatorShape</string>
+	<key>secondAnalogy</key>
+	<string>primaryTopic</string>
+	<key>semanticDelegate</key>
+	<string>routesingleton</string>
+	<key>sineLocation</key>
+	<string>equalDuration</string>
+</dict>
+</plist>

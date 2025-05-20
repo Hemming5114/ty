@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainanimation</key>
+	<string>ignoredResult</string>
+	<key>largeAmortization</key>
+	<string>basicTicker</string>
+	<key>retainedGrain</key>
+	<string>shouldRenderAnimation</string>
+	<key>retainedSlash</key>
+	<string>stepMode</string>
+	<key>shapeDuration</key>
+	<string>visibleHandler</string>
+	<key>subpixeladapterforce</key>
+	<string>usecaseDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLifecycle</key>
+	<string>lastTask</string>
+	<key>keyScenario</key>
+	<string>shouldstartplate</string>
+	<key>normcontroller</key>
+	<string>alphaPressure</string>
+	<key>originalStateful</key>
+	<string>capsuleDistance</string>
+	<key>renderershape</key>
+	<string>pushProvider</string>
+	<key>responsiveBoxShadow</key>
+	<string>canConnectEqualization</string>
+</dict>
+</plist>

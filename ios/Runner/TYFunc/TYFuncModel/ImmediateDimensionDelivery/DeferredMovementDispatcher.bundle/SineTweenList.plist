@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAperture</key>
+	<string>beginnerInfo</string>
+	<key>bitrateskewx</key>
+	<string>bulletState</string>
+	<key>chapterlayerdirection</key>
+	<string>textfieldVariable</string>
+	<key>encodeinteractor</key>
+	<string>accordionGestureDetector</string>
+	<key>functionalExtension</key>
+	<string>durationvelocity</string>
+	<key>layoutevent</key>
+	<string>consumechart</string>
+	<key>shouldPaintMargin</key>
+	<string>stopMomentum</string>
+</dict>
+</plist>

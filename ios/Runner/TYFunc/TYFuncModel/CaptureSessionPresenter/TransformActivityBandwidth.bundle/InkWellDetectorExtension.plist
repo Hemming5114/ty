@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistOrientation</key>
+	<string>writeEntity</string>
+	<key>composableCreator</key>
+	<string>statefulSpacing</string>
+	<key>diffableBatch</key>
+	<string>marshalAsync</string>
+	<key>grayscaleDirection</key>
+	<string>logJob</string>
+	<key>ignoredMargin</key>
+	<string>lazyScope</string>
+	<key>immutableProjection</key>
+	<string>mediumcontainer</string>
+	<key>limitmap</key>
+	<string>lossShade</string>
+	<key>lostPositioned</key>
+	<string>diffableTechnique</string>
+	<key>streamjobappearance</key>
+	<string>spineInterval</string>
+</dict>
+</plist>

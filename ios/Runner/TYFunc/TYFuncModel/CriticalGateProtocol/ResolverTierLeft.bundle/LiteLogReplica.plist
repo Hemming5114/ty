@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncValidation</key>
+	<string>hyperbolicBase</string>
+	<key>axistolerance</key>
+	<string>canInflatePrecision</string>
+	<key>ephemeralTicker</key>
+	<string>originalScroller</string>
+	<key>ignoredLinker</key>
+	<string>buttonrotation</string>
+	<key>repositorycontainprocess</key>
+	<string>shouldHandleExpanded</string>
+	<key>retainedGesture</key>
+	<string>specifyGate</string>
+	<key>routenumberposition</key>
+	<string>denseMaterializer</string>
+	<key>shouldCreateProfile</key>
+	<string>histogramtransition</string>
+</dict>
+</plist>

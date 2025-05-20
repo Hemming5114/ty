@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framebehavior</key>
+	<string>mobilePlayback</string>
+	<key>mediumMechanism</key>
+	<string>hierarchicalaspectratio</string>
+	<key>metadataprocessscale</key>
+	<string>responsiveContraction</string>
+	<key>notifymember</key>
+	<string>robustLogarithm</string>
+	<key>shouldAnimateEffect</key>
+	<string>cupertinoStamp</string>
+	<key>standaloneScroller</key>
+	<string>providecatalyst</string>
+	<key>tweenrecursion</key>
+	<string>interpolationLevel</string>
+</dict>
+</plist>

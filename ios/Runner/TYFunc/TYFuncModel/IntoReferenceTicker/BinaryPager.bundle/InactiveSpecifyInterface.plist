@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnalogy</key>
+	<string>imperativegrain</string>
+	<key>euclideanMap</key>
+	<string>semanticTween</string>
+	<key>fixedScheduler</key>
+	<string>holdAlignment</string>
+	<key>sophisticatedElasticity</key>
+	<string>shouldFetchPositioned</string>
+	<key>sophisticatedOption</key>
+	<string>deprecateRect</string>
+	<key>subpixelInset</key>
+	<string>accessibleLatency</string>
+</dict>
+</plist>

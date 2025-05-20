@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackState</key>
+	<string>grainfrequency</string>
+	<key>clipperindex</key>
+	<string>interactionDepth</string>
+	<key>intermediateEffect</key>
+	<string>crudeMargin</string>
+	<key>shouldDispatchListView</key>
+	<string>dismissDependency</string>
+	<key>shouldSaveMaterial</key>
+	<string>previewrate</string>
+	<key>spriteaboutfunction</key>
+	<string>localizationlikenumber</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseFeature</key>
+	<string>smartDelegate</string>
+	<key>hardoffset</key>
+	<string>directlyInteger</string>
+	<key>localTransformer</key>
+	<string>buildertransformer</string>
+	<key>mediumdisclaimer</key>
+	<string>overlaychooser</string>
+	<key>pinchableelasticity</key>
+	<string>iconFlags</string>
+	<key>processview</key>
+	<string>shouldunmountbutton</string>
+	<key>semanticsbeyondvisitor</key>
+	<string>statelessFlyweight</string>
+	<key>usedTexture</key>
+	<string>canStopSwift</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeScale</key>
+	<string>metadataprocessfrequency</string>
+	<key>composableChecklist</key>
+	<string>benchmarksprite</string>
+	<key>constraintLocation</key>
+	<string>shouldTrainStamp</string>
+	<key>flexiblesize</key>
+	<string>draggableUnary</string>
+	<key>greatNavigation</key>
+	<string>desktopSpot</string>
+	<key>storageversusmethod</key>
+	<string>pinchableAlert</string>
+	<key>symbolbound</key>
+	<string>modulusdistance</string>
+</dict>
+</plist>

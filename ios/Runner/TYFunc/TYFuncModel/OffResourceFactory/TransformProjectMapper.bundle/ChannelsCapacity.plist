@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryHue</key>
+	<string>invokeButton</string>
+	<key>adaptiveDelegate</key>
+	<string>notifyStateless</string>
+	<key>descriptionStatus</key>
+	<string>displayAction</string>
+	<key>missedFinder</key>
+	<string>storageResponse</string>
+	<key>permissiveChart</key>
+	<string>dataStatus</string>
+	<key>resourceDensity</key>
+	<string>singleItem</string>
+	<key>shouldStopInstruction</key>
+	<string>resetResolver</string>
+	<key>statefulFlex</key>
+	<string>channelEdge</string>
+</dict>
+</plist>

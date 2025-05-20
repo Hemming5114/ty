@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHistogram</key>
+	<string>singleDelivery</string>
+	<key>denseRadio</key>
+	<string>navigatorAppearance</string>
+	<key>descriptorPadding</key>
+	<string>disabledRole</string>
+	<key>discardedDelivery</key>
+	<string>draggableResilience</string>
+	<key>lazyTool</key>
+	<string>advancedMargin</string>
+	<key>mechanismDistance</key>
+	<string>hyperbolicAppBar</string>
+	<key>unbindswift</key>
+	<string>canTrainSlider</string>
+	<key>uniformNavigator</key>
+	<string>enumerateInjection</string>
+</dict>
+</plist>

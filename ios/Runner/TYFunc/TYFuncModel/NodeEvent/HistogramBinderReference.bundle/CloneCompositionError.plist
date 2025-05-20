@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicStream</key>
+	<string>infrastructureName</string>
+	<key>denseCoordinator</key>
+	<string>shouldAttachSkirt</string>
+	<key>handlerHue</key>
+	<string>shouldLayoutView</string>
+	<key>shouldNavigateHeap</key>
+	<string>animationCommand</string>
+	<key>stateVisibility</key>
+	<string>refreshFuture</string>
+</dict>
+</plist>

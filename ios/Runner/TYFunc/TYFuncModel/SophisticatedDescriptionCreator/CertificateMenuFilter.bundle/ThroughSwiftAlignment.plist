@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCluster</key>
+	<string>canPersistChannels</string>
+	<key>commonResolver</key>
+	<string>dropoutResolver</string>
+	<key>isMatrix</key>
+	<string>transformerOperation</string>
+	<key>iterativeobserverfeedback</key>
+	<string>canTransformCoordinator</string>
+	<key>masterVisibility</key>
+	<string>techniqueshape</string>
+	<key>navigatordespiteaction</key>
+	<string>consumerEnvironment</string>
+	<key>sharedEntity</key>
+	<string>cellcoord</string>
+	<key>shouldPublishMatrix</key>
+	<string>reusableGate</string>
+	<key>utilBehavior</key>
+	<string>localCapacities</string>
+</dict>
+</plist>

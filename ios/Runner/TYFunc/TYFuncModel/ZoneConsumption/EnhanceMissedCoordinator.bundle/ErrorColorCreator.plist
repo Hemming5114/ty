@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLabel</key>
+	<string>entitythroughmethod</string>
+	<key>originalIntensity</key>
+	<string>shouldPublishRemainder</string>
+	<key>sizeOffset</key>
+	<string>managerCycle</string>
+	<key>usedCube</key>
+	<string>shouldKeepPromise</string>
+	<key>visibleComponent</key>
+	<string>multiTentative</string>
+</dict>
+</plist>

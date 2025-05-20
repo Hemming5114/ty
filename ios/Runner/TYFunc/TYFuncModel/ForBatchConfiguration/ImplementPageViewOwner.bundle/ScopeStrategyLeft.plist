@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoListView</key>
+	<string>builderObserver</string>
+	<key>intermediateAnimator</key>
+	<string>oldGrain</string>
+	<key>originalSlider</key>
+	<string>activateBuilder</string>
+	<key>persistentTechnique</key>
+	<string>continueBoxShadow</string>
+	<key>shouldFinishDescriptor</key>
+	<string>decorationawaybuffer</string>
+	<key>shouldLayoutCheckbox</key>
+	<string>logPosition</string>
+	<key>shouldReplaceGraphic</key>
+	<string>unactivatedAnimator</string>
+</dict>
+</plist>

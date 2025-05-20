@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorDistance</key>
+	<string>gridOrientation</string>
+	<key>delegateindex</key>
+	<string>connectorinteraction</string>
+	<key>matrixformtop</key>
+	<string>secondTransformer</string>
+	<key>menustylelocation</key>
+	<string>completedTangent</string>
+	<key>reductionBehavior</key>
+	<string>animatedModal</string>
+	<key>shouldDeserializeOperation</key>
+	<string>scalabilityTint</string>
+	<key>significantMember</key>
+	<string>diffableTimeline</string>
+</dict>
+</plist>

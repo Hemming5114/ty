@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCallback</key>
+	<string>shouldAttachLogarithm</string>
+	<key>interactoralongform</key>
+	<string>nextBinary</string>
+	<key>localMetrics</key>
+	<string>quaternionFrequency</string>
+	<key>nativeNorm</key>
+	<string>serializePresenter</string>
+	<key>scrollableFinder</key>
+	<string>searcherBehavior</string>
+	<key>shouldMountDialogs</key>
+	<string>canStreamBullet</string>
+	<key>shouldStreamTabBar</key>
+	<string>transformAnchor</string>
+	<key>shouldtransitionfuture</key>
+	<string>sequentialStack</string>
+	<key>sortedTask</key>
+	<string>shouldPresentCapacities</string>
+</dict>
+</plist>

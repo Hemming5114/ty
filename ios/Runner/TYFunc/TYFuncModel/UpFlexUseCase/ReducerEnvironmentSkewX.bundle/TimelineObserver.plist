@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintmodeduration</key>
+	<string>canStreamConsumer</string>
+	<key>functionalReceiver</key>
+	<string>stopColumn</string>
+	<key>materialObject</key>
+	<string>delicateStroke</string>
+	<key>shouldRebuildTangent</key>
+	<string>lostStream</string>
+	<key>subscriberTop</key>
+	<string>subsequentservice</string>
+	<key>tangentfunctionright</key>
+	<string>publishprogressbar</string>
+</dict>
+</plist>

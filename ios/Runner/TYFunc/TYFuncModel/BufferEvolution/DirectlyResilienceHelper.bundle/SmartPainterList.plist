@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBehavior</key>
+	<string>catalystSkewX</string>
+	<key>declarativeBoxShadow</key>
+	<string>toolrate</string>
+	<key>ephemeralReducer</key>
+	<string>renderercenter</string>
+	<key>notifierbridgecount</key>
+	<string>attachAction</string>
+	<key>routerVisibility</key>
+	<string>debugListener</string>
+	<key>scrollerresponse</key>
+	<string>greatCollection</string>
+	<key>smallresult</key>
+	<string>unregisterScene</string>
+	<key>storageasprototype</key>
+	<string>largeworkflow</string>
+	<key>yielderror</key>
+	<string>connectoralignment</string>
+</dict>
+</plist>

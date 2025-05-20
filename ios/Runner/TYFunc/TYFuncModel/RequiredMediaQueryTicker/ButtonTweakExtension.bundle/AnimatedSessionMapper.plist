@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredstoryboard</key>
+	<string>decoupleState</string>
+	<key>inactiveRichText</key>
+	<string>playbackInterpreter</string>
+	<key>robustprovider</key>
+	<string>manageraroundfacade</string>
+	<key>shouldstartpoint</key>
+	<string>relationalmanagerdirection</string>
+	<key>tensorRecursion</key>
+	<string>autoCoordinator</string>
+	<key>unmarshalgraph</key>
+	<string>canFinishProtocol</string>
+</dict>
+</plist>

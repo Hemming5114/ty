@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSpecifier</key>
+	<string>emitCertificate</string>
+	<key>dispatchnode</key>
+	<string>rowStatus</string>
+	<key>shouldAttachSkirt</key>
+	<string>gridTint</string>
+	<key>shouldConnectLabel</key>
+	<string>implementTransition</string>
+	<key>shouldDisconnectReference</key>
+	<string>canPushLog</string>
+	<key>shouldStreamCheckbox</key>
+	<string>allocateDependency</string>
+	<key>shouldUnbindConstraint</key>
+	<string>publisherContrast</string>
+	<key>sineStatus</key>
+	<string>reactiveCell</string>
+</dict>
+</plist>

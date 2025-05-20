@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetLocation</key>
+	<string>elasticCustomPaint</string>
+	<key>referenceMomentum</key>
+	<string>localCluster</string>
+	<key>reliabilityTransparency</key>
+	<string>keyCache</string>
+	<key>repositoryadapterrate</key>
+	<string>certificateagainstflyweight</string>
+	<key>shouldTransformLogarithm</key>
+	<string>cupertinoGesture</string>
+	<key>staticMusic</key>
+	<string>injectTask</string>
+	<key>tweakPosition</key>
+	<string>intermediateVariant</string>
+</dict>
+</plist>

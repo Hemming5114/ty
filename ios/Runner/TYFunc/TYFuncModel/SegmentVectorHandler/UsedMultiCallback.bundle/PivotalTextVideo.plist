@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRequest</key>
+	<string>navigatoracceleration</string>
+	<key>bulletRight</key>
+	<string>synchronousSpot</string>
+	<key>cellvalidation</key>
+	<string>shouldPublishBatch</string>
+	<key>elementpressure</key>
+	<string>declarativeGroup</string>
+	<key>momentumvelocity</key>
+	<string>descriptionSingleton</string>
+	<key>reactiveFormat</key>
+	<string>shouldMountNavigator</string>
+	<key>topicVelocity</key>
+	<string>consultativeFeature</string>
+</dict>
+</plist>

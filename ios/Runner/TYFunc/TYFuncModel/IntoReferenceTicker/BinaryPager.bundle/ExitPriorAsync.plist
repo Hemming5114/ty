@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleModel</key>
+	<string>aspectObserver</string>
+	<key>configurationduration</key>
+	<string>opaqueInjection</string>
+	<key>ignoredtriangles</key>
+	<string>invokeProgressBar</string>
+	<key>marginpervar</key>
+	<string>canTransitionPainter</string>
+	<key>missionOpacity</key>
+	<string>finishContraction</string>
+	<key>samplemode</key>
+	<string>shouldReplaceUnary</string>
+	<key>shoulddeserializemobile</key>
+	<string>literichtext</string>
+</dict>
+</plist>

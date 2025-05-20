@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializedelegate</key>
+	<string>immutableCycle</string>
+	<key>entropyresolver</key>
+	<string>workflowOrientation</string>
+	<key>interactorSkewX</key>
+	<string>scrollableDialogs</string>
+	<key>sessiontransparency</key>
+	<string>layoutBinary</string>
+	<key>shouldPersistPlayback</key>
+	<string>marginatcontext</string>
+	<key>staticChart</key>
+	<string>displayableMesh</string>
+	<key>transformerstatus</key>
+	<string>visibleQuaternion</string>
+</dict>
+</plist>

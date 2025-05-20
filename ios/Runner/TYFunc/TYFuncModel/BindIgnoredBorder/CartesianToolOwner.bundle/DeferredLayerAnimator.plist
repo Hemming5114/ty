@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeChallenge</key>
+	<string>quantizerCompleter</string>
+	<key>easyMechanism</key>
+	<string>containerDensity</string>
+	<key>equalticker</key>
+	<string>fixedStorage</string>
+	<key>keyMaterial</key>
+	<string>canRenderProjection</string>
+	<key>notationTop</key>
+	<string>paddingstyle</string>
+	<key>promiseFormat</key>
+	<string>mutableTangent</string>
+	<key>ternaryright</key>
+	<string>shouldDecodeSignature</string>
+	<key>tweenPressure</key>
+	<string>defaultEntropy</string>
+</dict>
+</plist>

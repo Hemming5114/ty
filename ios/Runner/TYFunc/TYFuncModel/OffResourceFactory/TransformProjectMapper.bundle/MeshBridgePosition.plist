@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameflyweighthead</key>
+	<string>concurrentPolygon</string>
+	<key>immutableTransition</key>
+	<string>substantialIcon</string>
+	<key>rowlatency</key>
+	<string>makeQueue</string>
+	<key>sharedProcessor</key>
+	<string>hierarchicaltween</string>
+	<key>statefulVisibility</key>
+	<string>shouldFetchSizedBox</string>
+	<key>synchronousVolume</key>
+	<string>shouldConnectEntropy</string>
+	<key>techniqueIndex</key>
+	<string>accessibleScheduler</string>
+	<key>usageBorder</key>
+	<string>quantizationInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerAcceleration</key>
+	<string>substantialCell</string>
+	<key>easySink</key>
+	<string>consumerAcceleration</string>
+	<key>effectoffset</key>
+	<string>imperativeSink</string>
+	<key>retainedDuration</key>
+	<string>writelocalization</string>
+	<key>singletonelement</key>
+	<string>checkTicker</string>
+	<key>standaloneStream</key>
+	<string>typicalSubscription</string>
+	<key>utilShade</key>
+	<string>responsiveElement</string>
+</dict>
+</plist>

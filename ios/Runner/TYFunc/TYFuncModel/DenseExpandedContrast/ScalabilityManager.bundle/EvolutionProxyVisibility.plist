@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderVisible</key>
+	<string>temporaryScreen</string>
+	<key>declarativeservicetransparency</key>
+	<string>accelerateLocalization</string>
+	<key>deliveryBound</key>
+	<string>transitionKernel</string>
+	<key>skipsegment</key>
+	<string>publicSample</string>
+</dict>
+</plist>

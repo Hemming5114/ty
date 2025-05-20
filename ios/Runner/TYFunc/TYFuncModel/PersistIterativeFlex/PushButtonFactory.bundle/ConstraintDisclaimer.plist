@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlealpha</key>
+	<string>originalFuture</string>
+	<key>opaquePadding</key>
+	<string>semanticcapacity</string>
+	<key>shouldBuildDropdownButton</key>
+	<string>detectorLeft</string>
+	<key>staticNavigation</key>
+	<string>shouldkeeppriority</string>
+	<key>taskamortization</key>
+	<string>selectorOrigin</string>
+</dict>
+</plist>

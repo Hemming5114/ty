@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectoffset</key>
+	<string>handlerCommand</string>
+	<key>observervaluedelay</key>
+	<string>masterFeedback</string>
+	<key>routerCoord</key>
+	<string>cursorJob</string>
+	<key>unmountstream</key>
+	<string>commonJoiner</string>
+</dict>
+</plist>

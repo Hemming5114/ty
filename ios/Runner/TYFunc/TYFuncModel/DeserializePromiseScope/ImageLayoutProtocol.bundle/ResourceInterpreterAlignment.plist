@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertName</key>
+	<string>canFinishOverlay</string>
+	<key>constantTop</key>
+	<string>gatePattern</string>
+	<key>displayableDescriptor</key>
+	<string>tentativeMomentum</string>
+	<key>displayableTransition</key>
+	<string>quantizationProgressBar</string>
+	<key>euclideanScalability</key>
+	<string>canPersistMomentum</string>
+	<key>semanticElement</key>
+	<string>prismaticPrecision</string>
+	<key>subscriberFormat</key>
+	<string>paddingEdge</string>
+</dict>
+</plist>

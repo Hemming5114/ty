@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAnalyzer</key>
+	<string>immediateMovement</string>
+	<key>composableConfiguration</key>
+	<string>routeSlash</string>
+	<key>ignoredSwift</key>
+	<string>seekParticle</string>
+	<key>menuversusmethod</key>
+	<string>checklistSingleton</string>
+	<key>progressbarBrightness</key>
+	<string>featureInterval</string>
+	<key>shouldConnectTangent</key>
+	<string>secondObject</string>
+	<key>typicalSingleton</key>
+	<string>detailresponse</string>
+</dict>
+</plist>

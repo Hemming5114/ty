@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultsemantics</key>
+	<string>mountedBox</string>
+	<key>draggableResolver</key>
+	<string>significantBinder</string>
+	<key>interactiveWidget</key>
+	<string>replacescale</string>
+	<key>prevCapacities</key>
+	<string>mountedRadio</string>
+	<key>shouldskipmap</key>
+	<string>asynchronousSize</string>
+	<key>statephasestatus</key>
+	<string>adaptivestatelessstyle</string>
+	<key>transitionparameterright</key>
+	<string>permanentTouch</string>
+	<key>webawaitdirection</key>
+	<string>similarefficiency</string>
+</dict>
+</plist>

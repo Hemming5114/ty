@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStateless</key>
+	<string>canContinueBuilder</string>
+	<key>displayableTransition</key>
+	<string>sustainablesorter</string>
+	<key>histograminteractor</key>
+	<string>shouldNavigateText</string>
+	<key>integrityType</key>
+	<string>modalValidation</string>
+	<key>mediumCheckbox</key>
+	<string>customCompletion</string>
+	<key>shouldYieldMusic</key>
+	<string>canSetStateNorm</string>
+	<key>statefulRemainder</key>
+	<string>captionScale</string>
+	<key>toolmargin</key>
+	<string>canSkipProvider</string>
+</dict>
+</plist>

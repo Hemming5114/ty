@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRectangle</key>
+	<string>tickerOffset</string>
+	<key>dismissmetadata</key>
+	<string>mountBinary</string>
+	<key>pinchableTraversal</key>
+	<string>textfieldfacadecenter</string>
+	<key>prismaticBinder</key>
+	<string>mediaviashape</string>
+	<key>routeinset</key>
+	<string>canNavigatePageView</string>
+	<key>selecteddrawer</key>
+	<string>signatureBuffer</string>
+	<key>shouldLoadLabel</key>
+	<string>retainedresult</string>
+</dict>
+</plist>

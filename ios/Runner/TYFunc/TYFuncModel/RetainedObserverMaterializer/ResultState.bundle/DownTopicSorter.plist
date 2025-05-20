@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledTextField</key>
+	<string>deserializeGridView</string>
+	<key>pickerSkewY</key>
+	<string>euclideanTweak</string>
+	<key>positionedOrientation</key>
+	<string>shouldDispatchPositioned</string>
+	<key>priorrequest</key>
+	<string>routeSymbol</string>
+	<key>undertakemodulus</key>
+	<string>dismissConstraint</string>
+</dict>
+</plist>

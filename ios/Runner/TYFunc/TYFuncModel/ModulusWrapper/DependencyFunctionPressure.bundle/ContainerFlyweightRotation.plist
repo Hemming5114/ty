@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFinder</key>
+	<string>dedicatedCubit</string>
+	<key>hierarchicalMonster</key>
+	<string>intermediateObserver</string>
+	<key>inactiveAllocator</key>
+	<string>shouldTransitionModulus</string>
+	<key>textfieldCoord</key>
+	<string>opaqueExpanded</string>
+</dict>
+</plist>

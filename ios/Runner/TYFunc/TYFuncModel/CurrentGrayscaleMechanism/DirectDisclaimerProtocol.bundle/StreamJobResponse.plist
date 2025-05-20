@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSpot</key>
+	<string>responsivemultiplicationtail</string>
+	<key>disabledProgressBar</key>
+	<string>skipcurve</string>
+	<key>listviewPressure</key>
+	<string>shouldAttachBullet</string>
+	<key>mainCursor</key>
+	<string>singletonContext</string>
+	<key>rapidThread</key>
+	<string>independentAlert</string>
+	<key>reflectmenu</key>
+	<string>provisionmomentum</string>
+	<key>resilientLocalization</key>
+	<string>analogyContrast</string>
+	<key>shouldFetchExtension</key>
+	<string>rapidSymbol</string>
+	<key>visibleModulus</key>
+	<string>vectorizeTransformer</string>
+</dict>
+</plist>

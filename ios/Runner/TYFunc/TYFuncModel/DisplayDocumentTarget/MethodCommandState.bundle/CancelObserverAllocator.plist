@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCombiner</key>
+	<string>augmentStore</string>
+	<key>delegatecompositeflags</key>
+	<string>cubitShape</string>
+	<key>drawerStatus</key>
+	<string>interactiveprecisionindex</string>
+	<key>fusedLatency</key>
+	<string>drawSize</string>
+	<key>primarytimeline</key>
+	<string>logarithmOrigin</string>
+	<key>sequentialExtension</key>
+	<string>unmountedTangent</string>
+	<key>shouldAttachCube</key>
+	<string>unmountedDrawer</string>
+	<key>shouldtransformmaster</key>
+	<string>sanitizePresenter</string>
+	<key>shouldyieldaxis</key>
+	<string>shouldDispatchScreen</string>
+</dict>
+</plist>

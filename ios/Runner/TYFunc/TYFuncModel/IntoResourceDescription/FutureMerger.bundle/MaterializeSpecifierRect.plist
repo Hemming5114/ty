@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateRadius</key>
+	<string>mainMesh</string>
+	<key>resilientscene</key>
+	<string>adjustController</string>
+	<key>responserate</key>
+	<string>canPersistScale</string>
+	<key>sessionAlignment</key>
+	<string>hasBase</string>
+	<key>shouldUnbindChannels</key>
+	<string>interpolationPlatform</string>
+	<key>shoulddecodeprojection</key>
+	<string>independentTangent</string>
+	<key>transformerSkewY</key>
+	<string>createChecklist</string>
+</dict>
+</plist>

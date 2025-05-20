@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicLoop</key>
+	<string>cosineProxy</string>
+	<key>intermediateconstrainttail</key>
+	<string>updatePositioned</string>
+	<key>multiMediaQuery</key>
+	<string>discardedPriority</string>
+	<key>shouldParseRoute</key>
+	<string>profileEdge</string>
+	<key>shouldRenderCatalyst</key>
+	<string>accessorySystem</string>
+	<key>stateinsideobserver</key>
+	<string>activeScale</string>
+</dict>
+</plist>

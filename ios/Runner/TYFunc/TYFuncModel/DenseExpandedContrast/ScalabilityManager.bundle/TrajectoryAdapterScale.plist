@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonShader</key>
+	<string>dropdownbuttonDensity</string>
+	<key>cupertinoCosine</key>
+	<string>cupertinoTemple</string>
+	<key>functionaltask</key>
+	<string>menuHead</string>
+	<key>imperativeVariant</key>
+	<string>canConnectWidget</string>
+	<key>paddingIndex</key>
+	<string>canLayoutNorm</string>
+	<key>shouldRenderSymbol</key>
+	<string>multiMomentum</string>
+	<key>shouldformatspine</key>
+	<string>heroCenter</string>
+</dict>
+</plist>

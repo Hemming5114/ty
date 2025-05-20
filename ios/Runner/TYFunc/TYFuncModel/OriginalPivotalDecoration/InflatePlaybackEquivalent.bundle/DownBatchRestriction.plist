@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivehandler</key>
+	<string>sensorForm</string>
+	<key>criticalAxis</key>
+	<string>tabviewOpacity</string>
+	<key>defaultEffect</key>
+	<string>functionalpageview</string>
+	<key>eagerTrigger</key>
+	<string>grayscaleDuration</string>
+	<key>globalRoute</key>
+	<string>unmountEquipment</string>
+	<key>listentask</key>
+	<string>usecaseflags</string>
+	<key>processbuffer</key>
+	<string>shouldSetStateNotification</string>
+	<key>reactivePet</key>
+	<string>animatedRange</string>
+	<key>resourcetransparency</key>
+	<string>missedReduction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSubpixel</key>
+	<string>documenttail</string>
+	<key>explicitComponent</key>
+	<string>layoutLeft</string>
+	<key>mutableModulus</key>
+	<string>shouldHandleAperture</string>
+	<key>rectifymanager</key>
+	<string>schedulerdistance</string>
+	<key>repositorysincememento</key>
+	<string>canNavigatePromise</string>
+	<key>specifyactivityinterval</key>
+	<string>criticalBoxShadow</string>
+</dict>
+</plist>

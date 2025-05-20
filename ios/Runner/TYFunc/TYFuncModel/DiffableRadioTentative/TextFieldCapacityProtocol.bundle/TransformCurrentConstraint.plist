@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionInterval</key>
+	<string>desktopTolerance</string>
+	<key>delegatescope</key>
+	<string>accessibleScenario</string>
+	<key>evaluationorigin</key>
+	<string>invisibleDetail</string>
+	<key>skirtTension</key>
+	<string>uniformStroke</string>
+	<key>sophisticatedStroke</key>
+	<string>integrationInset</string>
+</dict>
+</plist>

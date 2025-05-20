@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedReduction</key>
+	<string>containeroperation</string>
+	<key>cycleSpeed</key>
+	<string>shouldanimatepageview</string>
+	<key>declarativeChart</key>
+	<string>canTransitionBrush</string>
+	<key>directlypager</key>
+	<string>dedicatedEntity</string>
+	<key>geometricListView</key>
+	<string>strengthTension</string>
+	<key>processorstate</key>
+	<string>throughputRight</string>
+	<key>shouldUpdateTask</key>
+	<string>differentiateGroup</string>
+</dict>
+</plist>

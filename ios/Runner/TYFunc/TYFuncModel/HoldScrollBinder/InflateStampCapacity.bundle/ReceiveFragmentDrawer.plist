@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarconfiguration</key>
+	<string>checklistbridgeshade</string>
+	<key>draggableNode</key>
+	<string>sessionFlyweight</string>
+	<key>ephemeralActivity</key>
+	<string>cursorFlags</string>
+	<key>imperativeNib</key>
+	<string>independentScreen</string>
+	<key>informationVelocity</key>
+	<string>detachBatch</string>
+	<key>instructionFeedback</key>
+	<string>emitDelegate</string>
+	<key>otherFrame</key>
+	<string>directlyStorage</string>
+	<key>shouldDeserializeTable</key>
+	<string>stateVisitor</string>
+	<key>spotTint</key>
+	<string>optionParam</string>
+	<key>unbindbloc</key>
+	<string>flexibleConfiguration</string>
+</dict>
+</plist>

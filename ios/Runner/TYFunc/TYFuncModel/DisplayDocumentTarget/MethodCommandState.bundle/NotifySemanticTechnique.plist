@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBullet</key>
+	<string>composableMonster</string>
+	<key>buttonTheme</key>
+	<string>pageviewMomentum</string>
+	<key>explicitMomentum</key>
+	<string>createScale</string>
+	<key>materialKind</key>
+	<string>difficultunary</string>
+	<key>otherLinker</key>
+	<string>canPauseOptimizer</string>
+	<key>routerDirection</key>
+	<string>subscriberLocation</string>
+	<key>semanticSize</key>
+	<string>pinchableMend</string>
+	<key>semanticaccessoryscale</key>
+	<string>textTop</string>
+	<key>shouldReplaceUsage</key>
+	<string>mediumDisclaimer</string>
+	<key>shouldUpdateCupertino</key>
+	<string>originalbuffertheme</string>
+</dict>
+</plist>

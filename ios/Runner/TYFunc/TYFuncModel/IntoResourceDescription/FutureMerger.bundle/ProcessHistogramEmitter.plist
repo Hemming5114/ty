@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioSpeed</key>
+	<string>eventLevel</string>
+	<key>discardedTask</key>
+	<string>canUnmountedColumn</string>
+	<key>interactorborder</key>
+	<string>methodAction</string>
+	<key>mobileCharacter</key>
+	<string>usedResource</string>
+	<key>shouldCancelSample</key>
+	<string>substantialService</string>
+	<key>timeTension</key>
+	<string>significantData</string>
+</dict>
+</plist>

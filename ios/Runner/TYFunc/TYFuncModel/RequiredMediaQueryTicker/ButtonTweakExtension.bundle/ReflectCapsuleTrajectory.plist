@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRouter</key>
+	<string>diffableFilter</string>
+	<key>dedicatedArithmetic</key>
+	<string>precisionBrightness</string>
+	<key>notifierMode</key>
+	<string>projectMemento</string>
+	<key>partitionfactory</key>
+	<string>pausePositioned</string>
+	<key>projectTop</key>
+	<string>canDispatchChecklist</string>
+	<key>specifyCharacteristic</key>
+	<string>optimizeratbridge</string>
+	<key>textfieldoffset</key>
+	<string>shouldEncodeSizedBox</string>
+</dict>
+</plist>

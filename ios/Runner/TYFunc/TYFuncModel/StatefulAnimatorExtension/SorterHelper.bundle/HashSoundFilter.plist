@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureprototypeskewy</key>
+	<string>concatenateListener</string>
+	<key>painterparameterrate</key>
+	<string>specifyAwait</string>
+	<key>precisionKind</key>
+	<string>canNavigateArithmetic</string>
+	<key>significantScreen</key>
+	<string>unaryframe</string>
+	<key>singleLinker</key>
+	<string>rebuildreducer</string>
+</dict>
+</plist>

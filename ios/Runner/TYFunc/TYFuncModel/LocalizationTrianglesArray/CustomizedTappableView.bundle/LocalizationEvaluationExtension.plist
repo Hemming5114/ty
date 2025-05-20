@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocshape</key>
+	<string>skipListView</string>
+	<key>cursorOrigin</key>
+	<string>firstSwitch</string>
+	<key>robustResponse</key>
+	<string>substantialSplitter</string>
+	<key>utilLeft</key>
+	<string>vectoragainstmemento</string>
+</dict>
+</plist>

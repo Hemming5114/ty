@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanPainter</key>
+	<string>canDecodeAnimation</string>
+	<key>interactiveCreator</key>
+	<string>graphicColor</string>
+	<key>sequentialPreview</key>
+	<string>fixedLinker</string>
+	<key>shouldEncodeTextField</key>
+	<string>canDismissSensor</string>
+	<key>smartPopup</key>
+	<string>deserializegrid</string>
+</dict>
+</plist>

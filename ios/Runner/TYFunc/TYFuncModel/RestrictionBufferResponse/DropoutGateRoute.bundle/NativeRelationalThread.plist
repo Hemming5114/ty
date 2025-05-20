@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyworkflow</key>
+	<string>relationaltransition</string>
+	<key>durationsubscriber</key>
+	<string>cacheOverlay</string>
+	<key>largeDetail</key>
+	<string>optimizeObserver</string>
+	<key>publisherFlags</key>
+	<string>scaffoldState</string>
+	<key>rangeAppearance</key>
+	<string>builderVisible</string>
+	<key>shouldunbindcheckbox</key>
+	<string>flexibleArithmetic</string>
+</dict>
+</plist>

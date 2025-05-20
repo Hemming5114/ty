@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterSpacing</key>
+	<string>transitionHue</string>
+	<key>durationversuscycle</key>
+	<string>canAnimateInstruction</string>
+	<key>resilientStore</key>
+	<string>ignoredBehavior</string>
+	<key>seamlessDescent</key>
+	<string>crudeEntity</string>
+	<key>shouldDisconnectFlex</key>
+	<string>configurationformdensity</string>
+	<key>shouldPauseSession</key>
+	<string>smartRenderer</string>
+	<key>sortedRenderer</key>
+	<string>updateRadio</string>
+	<key>specifyresolver</key>
+	<string>taskbyphase</string>
+	<key>unsortedDelegate</key>
+	<string>emitGridView</string>
+</dict>
+</plist>

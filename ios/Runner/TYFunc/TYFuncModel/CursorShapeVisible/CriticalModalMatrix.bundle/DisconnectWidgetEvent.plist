@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancellayout</key>
+	<string>flexiblebatchbehavior</string>
+	<key>completionTag</key>
+	<string>shouldUnbindScaffold</string>
+	<key>custompaintdensity</key>
+	<string>canBindProject</string>
+	<key>elasticCosine</key>
+	<string>denseConstant</string>
+	<key>shouldEndUsage</key>
+	<string>difficultAwait</string>
+	<key>smartObserver</key>
+	<string>rendervector</string>
+	<key>usedBinder</key>
+	<string>quantizationAction</string>
+</dict>
+</plist>

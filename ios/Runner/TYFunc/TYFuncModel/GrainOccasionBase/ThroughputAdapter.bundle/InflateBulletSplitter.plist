@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseincludekind</key>
+	<string>stepPattern</string>
+	<key>concretedistinction</key>
+	<string>overrideRequest</string>
+	<key>dependencyTop</key>
+	<string>nextController</string>
+	<key>descriptorVisibility</key>
+	<string>reliabilityOrientation</string>
+	<key>explicitTriangles</key>
+	<string>captionbeyondparam</string>
+	<key>gridBottom</key>
+	<string>providerDepth</string>
+	<key>mutableShader</key>
+	<string>subpixelInteraction</string>
+	<key>retainedFlex</key>
+	<string>containerMomentum</string>
+	<key>shouldLayoutConsumer</key>
+	<string>normalSorter</string>
+</dict>
+</plist>

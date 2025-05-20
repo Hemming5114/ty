@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiotemplename</key>
+	<string>dialogsName</string>
+	<key>concurrentNotation</key>
+	<string>equipmentVariable</string>
+	<key>lazymerger</key>
+	<string>pointContext</string>
+	<key>operationDirection</key>
+	<string>clipDelegate</string>
+	<key>shouldvalidateprovider</key>
+	<string>cellcontextappearance</string>
+</dict>
+</plist>

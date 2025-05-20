@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudestateful</key>
+	<string>shouldCreateInterpolation</string>
+	<key>hardFilter</key>
+	<string>arithmeticModel</string>
+	<key>isCapacities</key>
+	<string>canRouteSegment</string>
+	<key>onborderchanged</key>
+	<string>publishTheme</string>
+	<key>paddingStyle</key>
+	<string>searchStorage</string>
+	<key>partitionhash</key>
+	<string>capturetimer</string>
+	<key>shouldBindChallenge</key>
+	<string>notationSpeed</string>
+	<key>shouldBuildSkin</key>
+	<string>cloneResult</string>
+	<key>shouldstreamindicator</key>
+	<string>containername</string>
+</dict>
+</plist>

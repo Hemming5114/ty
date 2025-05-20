@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionOrigin</key>
+	<string>continueSlash</string>
+	<key>flexcycleflags</key>
+	<string>handleComposition</string>
+	<key>gateIndex</key>
+	<string>retainCompleter</string>
+	<key>hierarchicalAsync</key>
+	<string>triggerAlignment</string>
+	<key>loopdespiteprocess</key>
+	<string>storeRoute</string>
+	<key>navigatebullet</key>
+	<string>substantialcube</string>
+	<key>publicShape</key>
+	<string>scrollerFeedback</string>
+	<key>reactiveConfiguration</key>
+	<string>compareTask</string>
+	<key>titlemechanism</key>
+	<string>fusedHash</string>
+</dict>
+</plist>

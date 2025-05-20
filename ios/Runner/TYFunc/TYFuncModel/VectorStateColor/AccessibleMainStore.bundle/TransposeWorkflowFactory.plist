@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateborder</key>
+	<string>publishCell</string>
+	<key>curvenearnumber</key>
+	<string>grainspeed</string>
+	<key>denseFactory</key>
+	<string>trajectoryTheme</string>
+	<key>globalTriangles</key>
+	<string>permanentpreview</string>
+	<key>gridviewfacadecount</key>
+	<string>canPausePlayback</string>
+	<key>movementBound</key>
+	<string>flexibleblocpadding</string>
+	<key>reactiveView</key>
+	<string>petspacing</string>
+	<key>resiliencetint</key>
+	<string>publishChannels</string>
+	<key>shouldsavepoint</key>
+	<string>listenFactory</string>
+</dict>
+</plist>

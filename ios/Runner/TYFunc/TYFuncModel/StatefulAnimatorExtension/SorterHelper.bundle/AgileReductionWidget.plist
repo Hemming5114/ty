@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capturechannel</key>
+	<string>calculateButton</string>
+	<key>chooserSkewX</key>
+	<string>imageskewy</string>
+	<key>deferredTitle</key>
+	<string>crudeTabView</string>
+	<key>hardMobile</key>
+	<string>similarIntegrity</string>
+	<key>remainderRight</key>
+	<string>validateFuture</string>
+	<key>responsivePainter</key>
+	<string>discovericon</string>
+	<key>shouldSetStateDelegate</key>
+	<string>spriteScope</string>
+</dict>
+</plist>

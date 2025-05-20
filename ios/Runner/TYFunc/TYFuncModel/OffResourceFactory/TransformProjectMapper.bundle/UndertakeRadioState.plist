@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionamortization</key>
+	<string>imageexceptbuffer</string>
+	<key>shouldDispatchOverlay</key>
+	<string>concurrentResolver</string>
+	<key>uniformImpression</key>
+	<string>shouldNotifyCapsule</string>
+	<key>unregistersubscription</key>
+	<string>rebuildDelegate</string>
+</dict>
+</plist>

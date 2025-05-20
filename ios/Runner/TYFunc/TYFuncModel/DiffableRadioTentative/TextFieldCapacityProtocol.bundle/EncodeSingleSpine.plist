@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailBound</key>
+	<string>routeprototypeorigin</string>
+	<key>discardedCoordinator</key>
+	<string>globalDetail</string>
+	<key>normalProvision</key>
+	<string>responseTint</string>
+	<key>projectuntilpattern</key>
+	<string>lazyReference</string>
+	<key>robustSwitch</key>
+	<string>signOperation</string>
+	<key>shouldNotifyTextField</key>
+	<string>nextReplica</string>
+	<key>unactivatedMapper</key>
+	<string>discardedLocalization</string>
+</dict>
+</plist>

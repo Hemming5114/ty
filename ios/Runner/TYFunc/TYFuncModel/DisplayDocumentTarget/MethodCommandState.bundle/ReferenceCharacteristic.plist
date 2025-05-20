@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedInterface</key>
+	<string>backwardCluster</string>
+	<key>disposecurve</key>
+	<string>gridviewBrightness</string>
+	<key>geometricbatch</key>
+	<string>discardedRequest</string>
+	<key>largeQuaternion</key>
+	<string>shouldresumemission</string>
+	<key>tangentContrast</key>
+	<string>inactiveIntegrity</string>
+</dict>
+</plist>

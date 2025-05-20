@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatePresenter</key>
+	<string>tolerancescale</string>
+	<key>iconSpeed</key>
+	<string>canRebuildStoryboard</string>
+	<key>nextStream</key>
+	<string>transitionCertificate</string>
+	<key>prevMediaQuery</key>
+	<string>petMemento</string>
+	<key>robustChannel</key>
+	<string>respectiveContraction</string>
+	<key>shadersize</key>
+	<string>observescale</string>
+	<key>shouldUnbindDescriptor</key>
+	<string>shouldFetchConsumer</string>
+	<key>smartradiospacing</key>
+	<string>operationDistance</string>
+	<key>strokeEdge</key>
+	<string>shouldMountedProject</string>
+</dict>
+</plist>

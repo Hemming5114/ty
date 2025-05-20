@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncfragments</key>
+	<string>continueSwitch</string>
+	<key>enabledEvolution</key>
+	<string>toolFeedback</string>
+	<key>imperativeCreator</key>
+	<string>marginChain</string>
+	<key>intuitivePolyfill</key>
+	<string>debugManager</string>
+	<key>protectedGroup</key>
+	<string>persistentGesture</string>
+	<key>radiusincludeframework</key>
+	<string>iterativeAudio</string>
+	<key>rangeOpacity</key>
+	<string>synchronousReplica</string>
+	<key>visibleStroke</key>
+	<string>radiusstagebrightness</string>
+</dict>
+</plist>

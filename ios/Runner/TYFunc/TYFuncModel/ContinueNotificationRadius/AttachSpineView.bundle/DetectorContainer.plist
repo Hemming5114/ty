@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantBehavior</key>
+	<string>uniformResult</string>
+	<key>hierarchicalGraph</key>
+	<string>captionInterpreter</string>
+	<key>logarithmCenter</key>
+	<string>canRouteExpanded</string>
+	<key>plateCenter</key>
+	<string>ignoredsinkshade</string>
+	<key>scrollableSubscription</key>
+	<string>threadSingleton</string>
+	<key>skinprototypebottom</key>
+	<string>comprehensiveCard</string>
+</dict>
+</plist>

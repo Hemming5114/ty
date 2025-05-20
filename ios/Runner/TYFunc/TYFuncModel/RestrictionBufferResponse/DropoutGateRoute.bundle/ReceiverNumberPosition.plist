@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMargin</key>
+	<string>eagerSchema</string>
+	<key>curveshade</key>
+	<string>drawersize</string>
+	<key>liteProject</key>
+	<string>unsortedInstruction</string>
+	<key>prevbloc</key>
+	<string>immediateData</string>
+	<key>sceneValidation</key>
+	<string>equivalentBehavior</string>
+	<key>shouldMountUsage</key>
+	<string>numericalAppBar</string>
+	<key>shouldReplaceCapsule</key>
+	<string>canPaintMobile</string>
+	<key>shouldsetstatecompletion</key>
+	<string>lostinjectionscale</string>
+	<key>techniqueColor</key>
+	<string>ignoredMobile</string>
+	<key>uniformStamp</key>
+	<string>geometricsubscriptionopacity</string>
+</dict>
+</plist>

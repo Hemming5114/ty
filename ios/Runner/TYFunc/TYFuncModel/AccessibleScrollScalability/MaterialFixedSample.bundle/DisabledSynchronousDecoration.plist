@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateTextField</key>
+	<string>custompaintwithstage</string>
+	<key>scrollTransparency</key>
+	<string>shouldRestartNavigator</string>
+	<key>shapeVisible</key>
+	<string>responseStatus</string>
+	<key>shouldCacheMonster</key>
+	<string>quitAwait</string>
+	<key>shouldDismissCaption</key>
+	<string>canSkipOverlay</string>
+	<key>singleInteractor</key>
+	<string>extensionContext</string>
+</dict>
+</plist>

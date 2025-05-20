@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoThread</key>
+	<string>specifyScalability</string>
+	<key>axisadapterstate</key>
+	<string>deploydialogs</string>
+	<key>capturemember</key>
+	<string>sustainableActivity</string>
+	<key>discardedNotation</key>
+	<string>invisibleresulthead</string>
+	<key>fragmentVisibility</key>
+	<string>directTimer</string>
+	<key>graininbuffer</key>
+	<string>shouldEncodeOption</string>
+	<key>shouldCreateAperture</key>
+	<string>playbackkindbrightness</string>
+	<key>statefulThreshold</key>
+	<string>cacheMonster</string>
+	<key>visibleGraph</key>
+	<string>multiProgressBar</string>
+</dict>
+</plist>

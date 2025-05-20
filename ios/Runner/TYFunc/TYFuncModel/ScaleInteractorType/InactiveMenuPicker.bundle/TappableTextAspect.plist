@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedfeaturebottom</key>
+	<string>independentProjection</string>
+	<key>directDropdownButton</key>
+	<string>invisibleButton</string>
+	<key>eagerMaterial</key>
+	<string>dropoutResult</string>
+	<key>largeStream</key>
+	<string>shouldRebuildCupertino</string>
+	<key>routercallback</key>
+	<string>shouldEmitAnchor</string>
+	<key>sharedNode</key>
+	<string>unsortedStateful</string>
+	<key>similarinjectiondepth</key>
+	<string>emitterRate</string>
+</dict>
+</plist>

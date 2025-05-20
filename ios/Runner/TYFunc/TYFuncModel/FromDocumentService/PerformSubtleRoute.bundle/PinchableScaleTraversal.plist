@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedScreen</key>
+	<string>saveObserver</string>
+	<key>requiredStack</key>
+	<string>rectifyCoordinator</string>
+	<key>resilientConvolution</key>
+	<string>keyBatch</string>
+	<key>shouldBuildCurve</key>
+	<string>oldElement</string>
+	<key>standaloneSubscription</key>
+	<string>attachGift</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticHandler</key>
+	<string>shouldpopindicator</string>
+	<key>declarativeItem</key>
+	<string>sineContrast</string>
+	<key>denseProfile</key>
+	<string>scalelayout</string>
+	<key>factorySize</key>
+	<string>canUpdateStateful</string>
+	<key>lostResource</key>
+	<string>cubithue</string>
+	<key>shouldPresentReduction</key>
+	<string>durationlayerorigin</string>
+	<key>stopcube</key>
+	<string>advancedtabview</string>
+	<key>uniqueTask</key>
+	<string>lostRange</string>
+</dict>
+</plist>

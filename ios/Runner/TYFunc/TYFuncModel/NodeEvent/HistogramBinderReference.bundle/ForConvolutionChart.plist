@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectstateful</key>
+	<string>resizeBloc</string>
+	<key>easyDescent</key>
+	<string>resetDelegate</string>
+	<key>equalizationkindbehavior</key>
+	<string>flexibleTexture</string>
+	<key>seamlesstransition</key>
+	<string>streamAction</string>
+	<key>shouldObserveMaster</key>
+	<string>addLocalization</string>
+</dict>
+</plist>

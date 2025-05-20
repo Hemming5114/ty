@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineOpacity</key>
+	<string>webEvolution</string>
+	<key>dimensionforshape</key>
+	<string>canFinishDuration</string>
+	<key>greatThroughput</key>
+	<string>immutableDetector</string>
+	<key>inactiveresilience</key>
+	<string>firstTask</string>
+	<key>inflatefactory</key>
+	<string>mountAlert</string>
+	<key>interpolationstructuretension</key>
+	<string>modelStage</string>
+	<key>persistentProcessor</key>
+	<string>canEmitGradient</string>
+	<key>shouldPopExtension</key>
+	<string>checkGroup</string>
+	<key>stepasset</key>
+	<string>isPadding</string>
+	<key>unlockgridview</key>
+	<string>cursorSpacing</string>
+</dict>
+</plist>

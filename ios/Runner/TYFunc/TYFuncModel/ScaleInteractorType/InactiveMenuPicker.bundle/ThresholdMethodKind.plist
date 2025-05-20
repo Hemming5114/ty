@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserBehavior</key>
+	<string>canFormatProvider</string>
+	<key>clearrow</key>
+	<string>popupDepth</string>
+	<key>descentBound</key>
+	<string>registertext</string>
+	<key>notifypoint</key>
+	<string>accordionRemediation</string>
+	<key>sequentialMusic</key>
+	<string>localHandler</string>
+	<key>significantcontroller</key>
+	<string>lossDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTag</key>
+	<string>destroyTicker</string>
+	<key>delegatetheme</key>
+	<string>constantAcceleration</string>
+	<key>rapidasset</key>
+	<string>delegateBound</string>
+	<key>sharedComposition</key>
+	<string>interfacewithmethod</string>
+	<key>singletonactivitycolor</key>
+	<string>wrapperCenter</string>
+	<key>tabbarName</key>
+	<string>significantCaption</string>
+	<key>uniformButton</key>
+	<string>cardTransparency</string>
+	<key>usecaseBottom</key>
+	<string>statusVisibility</string>
+</dict>
+</plist>

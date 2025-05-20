@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyorigin</key>
+	<string>aspectratioScope</string>
+	<key>baselineversusadapter</key>
+	<string>assetVelocity</string>
+	<key>criticalGridView</key>
+	<string>bindExtension</string>
+	<key>disparateMaterializer</key>
+	<string>synchronousswitch</string>
+	<key>extensionFrequency</key>
+	<string>shouldLoadCertificate</string>
+	<key>futurecontexttype</key>
+	<string>opaqueExtension</string>
+	<key>geometricProfile</key>
+	<string>protocolreducer</string>
+	<key>mergerShade</key>
+	<string>debugQueue</string>
+</dict>
+</plist>

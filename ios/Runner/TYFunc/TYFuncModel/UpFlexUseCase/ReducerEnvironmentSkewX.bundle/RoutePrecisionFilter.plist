@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInkWell</key>
+	<string>formatObserver</string>
+	<key>arithmeticAppearance</key>
+	<string>mountcoordinator</string>
+	<key>compositionalState</key>
+	<string>transitionCoord</string>
+	<key>cupertinoHeap</key>
+	<string>customizedStatus</string>
+	<key>gestureinterface</key>
+	<string>bulletview</string>
+	<key>logSaturation</key>
+	<string>itemMargin</string>
+	<key>notifynotification</key>
+	<string>directlyController</string>
+</dict>
+</plist>

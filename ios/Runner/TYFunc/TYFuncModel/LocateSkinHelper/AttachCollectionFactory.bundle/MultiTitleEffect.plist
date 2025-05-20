@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerFeedback</key>
+	<string>canListenInterpolation</string>
+	<key>animationshapename</key>
+	<string>explicitObserver</string>
+	<key>dismissdelegate</key>
+	<string>overlayVisible</string>
+	<key>intermediateStrength</key>
+	<string>readTimer</string>
+	<key>particleVelocity</key>
+	<string>routeSystem</string>
+	<key>reflectborder</key>
+	<string>descriptorprovider</string>
+	<key>shouldParseMaterial</key>
+	<string>catalystFacade</string>
+	<key>signvelocity</key>
+	<string>emitparticle</string>
+	<key>singletonspeed</key>
+	<string>indicatorVisible</string>
+	<key>usedActivity</key>
+	<string>listviewBridge</string>
+</dict>
+</plist>

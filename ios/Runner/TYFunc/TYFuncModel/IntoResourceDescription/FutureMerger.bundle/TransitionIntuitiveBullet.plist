@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containervector</key>
+	<string>unmountedstore</string>
+	<key>displayableTernary</key>
+	<string>restrictionOpacity</string>
+	<key>generateflex</key>
+	<string>operationParameter</string>
+	<key>priorAppBar</key>
+	<string>requestCommand</string>
+	<key>processorOrigin</key>
+	<string>hardRenderer</string>
+	<key>shouldNavigateMaster</key>
+	<string>dispatchCupertino</string>
+</dict>
+</plist>

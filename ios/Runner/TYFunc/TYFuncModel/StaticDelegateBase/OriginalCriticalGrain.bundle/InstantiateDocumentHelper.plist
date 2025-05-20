@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerbuilder</key>
+	<string>materializeLocalization</string>
+	<key>crudeSemantics</key>
+	<string>shouldpersistcustompaint</string>
+	<key>descriptionCoord</key>
+	<string>sanitizeFeature</string>
+	<key>fusedScene</key>
+	<string>visualizeduration</string>
+	<key>inkwellDuration</key>
+	<string>shouldcachestateless</string>
+	<key>liteaccessoryvelocity</key>
+	<string>cartesianDependency</string>
+	<key>prevGestureDetector</key>
+	<string>scrollableresource</string>
+	<key>secondModulus</key>
+	<string>seamlessLatency</string>
+	<key>shouldSetStateLabel</key>
+	<string>dismissLog</string>
+</dict>
+</plist>

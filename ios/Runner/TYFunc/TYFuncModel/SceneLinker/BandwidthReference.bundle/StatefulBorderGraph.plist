@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMerger</key>
+	<string>canTrainProject</string>
+	<key>disparateScope</key>
+	<string>functionalDialogs</string>
+	<key>heroDuration</key>
+	<string>globalAxis</string>
+	<key>interfacemode</key>
+	<string>otherStep</string>
+	<key>precisiondecoration</key>
+	<string>concreteBase</string>
+	<key>shouldUnmountedCaption</key>
+	<string>delegateMetadata</string>
+	<key>topicKind</key>
+	<string>transposeReducer</string>
+</dict>
+</plist>

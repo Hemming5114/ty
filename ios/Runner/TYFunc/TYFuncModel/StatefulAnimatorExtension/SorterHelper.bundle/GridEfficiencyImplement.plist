@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTopic</key>
+	<string>defaultGridView</string>
+	<key>eagerOperation</key>
+	<string>serviceassystem</string>
+	<key>injectionVisibility</key>
+	<string>paddingFramework</string>
+	<key>makeheap</key>
+	<string>uniqueNotation</string>
+	<key>mastergroup</key>
+	<string>canRestartMaster</string>
+	<key>remainderaroundpattern</key>
+	<string>dedicatedMargin</string>
+	<key>secondBaseline</key>
+	<string>euclideanUtil</string>
+	<key>shouldRestartCaption</key>
+	<string>animatedSound</string>
+</dict>
+</plist>

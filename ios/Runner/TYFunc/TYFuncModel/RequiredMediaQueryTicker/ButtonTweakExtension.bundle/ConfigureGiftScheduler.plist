@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerUseCase</key>
+	<string>canLoadSlash</string>
+	<key>controlleralignment</key>
+	<string>missedBase</string>
+	<key>lazyIntegration</key>
+	<string>sharedBatch</string>
+	<key>lostviewduration</key>
+	<string>setupRoute</string>
+	<key>metadataHue</key>
+	<string>paintMovement</string>
+	<key>sequentialConverter</key>
+	<string>creatororigin</string>
+</dict>
+</plist>

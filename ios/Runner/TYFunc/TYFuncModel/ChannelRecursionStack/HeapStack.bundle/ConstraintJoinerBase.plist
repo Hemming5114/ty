@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>semanticslocalization</key>
+	<string>shouldPushPositioned</string>
+	<key>textureContrast</key>
+	<string>gesturedetectorerror</string>
+</dict>
+</plist>

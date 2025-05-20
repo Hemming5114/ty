@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatederror</key>
+	<string>canPresentInterpolation</string>
+	<key>independentRepository</key>
+	<string>transformOverlay</string>
+	<key>notificationDistance</key>
+	<string>keepNotification</string>
+	<key>priorTool</key>
+	<string>mountedPrecision</string>
+	<key>shouldDisconnectSubpixel</key>
+	<string>canResumeDimension</string>
+	<key>storeShape</key>
+	<string>channelName</string>
+	<key>temporaryDocument</key>
+	<string>shouldDecodeGraphic</string>
+</dict>
+</plist>

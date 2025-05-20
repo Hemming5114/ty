@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatScaffold</key>
+	<string>flexKind</string>
+	<key>hierarchicalDescriptor</key>
+	<string>upgradeAwait</string>
+	<key>movementindex</key>
+	<string>marginAppearance</string>
+	<key>shouldPublishSegue</key>
+	<string>trainView</string>
+	<key>shouldcachedecoration</key>
+	<string>disparateElement</string>
+	<key>shouldpublishcursor</key>
+	<string>routerVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianscalesize</key>
+	<string>cubitstructurekind</string>
+	<key>crucialObserver</key>
+	<string>alphaInteraction</string>
+	<key>euclideanScheduler</key>
+	<string>drawerlocation</string>
+	<key>modelcapacity</key>
+	<string>fixedevent</string>
+	<key>plateTint</key>
+	<string>hardScroller</string>
+	<key>seamlessConverter</key>
+	<string>shouldReplaceReference</string>
+	<key>shouldmountcycle</key>
+	<string>offsetAllocator</string>
+	<key>sustainablecluster</key>
+	<string>largetimerrotation</string>
+	<key>transitionInterval</key>
+	<string>hyperbolicBase</string>
+</dict>
+</plist>

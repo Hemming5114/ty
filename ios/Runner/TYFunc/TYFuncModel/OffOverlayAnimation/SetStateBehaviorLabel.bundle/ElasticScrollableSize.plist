@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedImpact</key>
+	<string>meshBottom</string>
+	<key>loaderValidation</key>
+	<string>concatenateTween</string>
+	<key>mobileCycle</key>
+	<string>materialProcessor</string>
+	<key>shouldinflatenorm</key>
+	<string>mediumsensor</string>
+	<key>spinebehavior</key>
+	<string>inactiveIsolate</string>
+	<key>subscriptionAcceleration</key>
+	<string>framefunctiondepth</string>
+	<key>titleCenter</key>
+	<string>eventtransparency</string>
+	<key>usageState</key>
+	<string>requiredsteptheme</string>
+	<key>widgetFlags</key>
+	<string>composableIcon</string>
+</dict>
+</plist>

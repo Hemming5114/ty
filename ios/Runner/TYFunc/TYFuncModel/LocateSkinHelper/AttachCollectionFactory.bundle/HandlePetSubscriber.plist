@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableNavigator</key>
+	<string>standaloneProfile</string>
+	<key>featurecluster</key>
+	<string>canListenCell</string>
+	<key>materializerRotation</key>
+	<string>mountedCapacities</string>
+	<key>originalAsset</key>
+	<string>mediaqueryPlatform</string>
+	<key>shouldNavigateCycle</key>
+	<string>crudeReduction</string>
+	<key>shouldPresentCupertino</key>
+	<string>deferredDescriptor</string>
+	<key>uniformTexture</key>
+	<string>decodeBuffer</string>
+</dict>
+</plist>

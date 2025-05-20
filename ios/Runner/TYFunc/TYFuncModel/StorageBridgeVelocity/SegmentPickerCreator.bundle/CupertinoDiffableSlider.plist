@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactivezonecoord</key>
+	<string>greatSpine</string>
+	<key>listenview</key>
+	<string>currentcycle</string>
+	<key>optimizebitrate</key>
+	<string>storeBound</string>
+	<key>rectangletransparency</key>
+	<string>canContinueOption</string>
+	<key>shouldAttachSpine</key>
+	<string>skinTemple</string>
+	<key>statelessMission</key>
+	<string>partitionTitle</string>
+</dict>
+</plist>

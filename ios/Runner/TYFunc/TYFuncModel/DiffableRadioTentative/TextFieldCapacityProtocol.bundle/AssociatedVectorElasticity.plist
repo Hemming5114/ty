@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVisibility</key>
+	<string>mobileRow</string>
+	<key>callbackscalability</key>
+	<string>temporarytentative</string>
+	<key>inactiveAppBar</key>
+	<string>similarPosition</string>
+	<key>managerInteraction</key>
+	<string>sensorRight</string>
+	<key>pickerHue</key>
+	<string>staticConfiguration</string>
+	<key>shouldPrepareWorkflow</key>
+	<string>currentDistinction</string>
+	<key>shouldunmountedcollection</key>
+	<string>modulusbuilder</string>
+	<key>sineDepth</key>
+	<string>shouldStartWidget</string>
+	<key>singleAsync</key>
+	<string>relationalOffset</string>
+	<key>toolInset</key>
+	<string>pageviewvisibility</string>
+</dict>
+</plist>

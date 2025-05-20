@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateoffset</key>
+	<string>taskBound</string>
+	<key>giftstyletheme</key>
+	<string>completionPattern</string>
+	<key>musicDepth</key>
+	<string>shouldDispatchMaster</string>
+	<key>prismaticdocument</key>
+	<string>assettraversal</string>
+	<key>seamlessmastershape</key>
+	<string>shouldRenderListView</string>
+	<key>secondAnimation</key>
+	<string>firstTentative</string>
+	<key>secondArchitecture</key>
+	<string>numericalPopup</string>
+	<key>sizeshape</key>
+	<string>shouldConnectProvider</string>
+	<key>tangentOrigin</key>
+	<string>shouldStartResource</string>
+</dict>
+</plist>

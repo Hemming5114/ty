@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBrightness</key>
+	<string>characterthreshold</string>
+	<key>firstConvolution</key>
+	<string>textValidation</string>
+	<key>immutablesegment</key>
+	<string>debugView</string>
+	<key>memberstrategymode</key>
+	<string>momentumVisitor</string>
+	<key>reactiveVertex</key>
+	<string>hardReduction</string>
+	<key>shouldCancelColumn</key>
+	<string>masterFlyweight</string>
+	<key>shouldPaintComposition</key>
+	<string>enhanceHash</string>
+	<key>tabviewlevelalignment</key>
+	<string>tensorCapacities</string>
+</dict>
+</plist>

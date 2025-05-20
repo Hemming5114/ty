@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTransition</key>
+	<string>detachState</string>
+	<key>shouldFinishBinary</key>
+	<string>containerBottom</string>
+	<key>shouldPausePositioned</key>
+	<string>globalGrain</string>
+	<key>shouldResumeAnimatedContainer</key>
+	<string>impressionContrast</string>
+	<key>touchInteraction</key>
+	<string>numericalthreshold</string>
+	<key>unbindtransformer</key>
+	<string>unsortedfragment</string>
+</dict>
+</plist>

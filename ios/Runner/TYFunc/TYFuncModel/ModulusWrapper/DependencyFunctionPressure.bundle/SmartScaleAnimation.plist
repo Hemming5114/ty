@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerVisible</key>
+	<string>canKeepAlert</string>
+	<key>menuvisitorresponse</key>
+	<string>persistentLatency</string>
+	<key>nativecustompaintposition</key>
+	<string>buildStep</string>
+	<key>newestDrawer</key>
+	<string>histogramalongdecorator</string>
+	<key>shouldPublishNotifier</key>
+	<string>cubitMediator</string>
+	<key>substantialFeature</key>
+	<string>convolutionMode</string>
+</dict>
+</plist>

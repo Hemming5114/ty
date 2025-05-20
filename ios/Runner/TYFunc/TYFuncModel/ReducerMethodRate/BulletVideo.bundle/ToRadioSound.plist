@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperShape</key>
+	<string>impactMode</string>
+	<key>elasticNib</key>
+	<string>itemmode</string>
+	<key>exceptionStatus</key>
+	<string>restartDimension</string>
+	<key>modelOrientation</key>
+	<string>emitterVisibility</string>
+	<key>replicaType</key>
+	<string>shouldTransitionVariant</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryName</key>
+	<string>unactivatedGridView</string>
+	<key>blocasbuffer</key>
+	<string>contrastLocation</string>
+	<key>cacheRotation</key>
+	<string>staticDialogs</string>
+	<key>diversifiedStorage</key>
+	<string>contractionDirection</string>
+	<key>parseresolver</key>
+	<string>canContinueCursor</string>
+</dict>
+</plist>

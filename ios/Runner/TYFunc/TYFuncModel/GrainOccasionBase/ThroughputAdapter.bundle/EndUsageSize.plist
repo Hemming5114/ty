@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxShape</key>
+	<string>cartesianConsumer</string>
+	<key>easySingleton</key>
+	<string>webHistogram</string>
+	<key>formatTag</key>
+	<string>immutablePicker</string>
+	<key>lazyProjection</key>
+	<string>shouldAttachEntropy</string>
+	<key>resilientVolume</key>
+	<string>visualizeProgressBar</string>
+	<key>shouldContinueSegue</key>
+	<string>shouldencodenavigator</string>
+	<key>shouldDetachSession</key>
+	<string>primaryIcon</string>
+	<key>skinSaturation</key>
+	<string>textColor</string>
+</dict>
+</plist>

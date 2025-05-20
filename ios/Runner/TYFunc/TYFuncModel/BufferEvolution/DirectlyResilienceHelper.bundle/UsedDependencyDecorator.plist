@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentmediatorstatus</key>
+	<string>saveNib</string>
+	<key>checklistdelay</key>
+	<string>spineactionopacity</string>
+	<key>deserializetable</key>
+	<string>completionVelocity</string>
+	<key>integermethodkind</key>
+	<string>operationKind</string>
+	<key>reactiveSpot</key>
+	<string>cancelconstraint</string>
+	<key>soundCoord</key>
+	<string>protectedbase</string>
+	<key>tensorGate</key>
+	<string>shouldObservePoint</string>
+</dict>
+</plist>

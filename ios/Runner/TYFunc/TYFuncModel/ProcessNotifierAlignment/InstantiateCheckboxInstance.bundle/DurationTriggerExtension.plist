@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricStep</key>
+	<string>isolateleft</string>
+	<key>labelbottom</key>
+	<string>inheritedImpact</string>
+	<key>precisiontierrotation</key>
+	<string>singledelegate</string>
+	<key>repositoryactivitycontrast</key>
+	<string>pivotalmobiledelay</string>
+	<key>temporaryactivity</key>
+	<string>rebuildGrayscale</string>
+	<key>transitionascent</key>
+	<string>decorationasscope</string>
+</dict>
+</plist>

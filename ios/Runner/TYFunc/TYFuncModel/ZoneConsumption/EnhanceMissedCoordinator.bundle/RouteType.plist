@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGift</key>
+	<string>staticZone</string>
+	<key>concurrentSorter</key>
+	<string>canPreparePoint</string>
+	<key>discardedAnimator</key>
+	<string>equivalentCoord</string>
+	<key>ephemeralhashspacing</key>
+	<string>shouldshowlog</string>
+	<key>intermediateLifecycle</key>
+	<string>reflectRequest</string>
+	<key>pinchableAllocator</key>
+	<string>canCacheDescriptor</string>
+	<key>serviceBrightness</key>
+	<string>resetTicker</string>
+	<key>tableEdge</key>
+	<string>aspectColor</string>
+	<key>viewDirection</key>
+	<string>sensorcontainpattern</string>
+</dict>
+</plist>

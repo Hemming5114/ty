@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivemultiplicationinset</key>
+	<string>connectContainer</string>
+	<key>borderinteraction</key>
+	<string>exitasync</string>
+	<key>crudeTweak</key>
+	<string>shouldDetachNavigation</string>
+	<key>desktopPriority</key>
+	<string>shouldCancelEffect</string>
+	<key>evaluationTheme</key>
+	<string>shouldListenActivity</string>
+	<key>geometricMend</key>
+	<string>shouldPopSizedBox</string>
+	<key>rowvalidation</key>
+	<string>advancedDescent</string>
+	<key>smartTaxonomy</key>
+	<string>assetBuffer</string>
+	<key>toolrow</key>
+	<string>smartResilience</string>
+	<key>tweakdistance</key>
+	<string>integrityHue</string>
+</dict>
+</plist>

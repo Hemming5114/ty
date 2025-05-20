@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorpadding</key>
+	<string>processSegue</string>
+	<key>concreteScenario</key>
+	<string>singleBloc</string>
+	<key>currentQuaternion</key>
+	<string>crudeScroll</string>
+	<key>difficultAnimation</key>
+	<string>gridInteraction</string>
+	<key>finderOrigin</key>
+	<string>agileCubit</string>
+	<key>projectionstatus</key>
+	<string>pageviewMomentum</string>
+	<key>shouldMountedInteger</key>
+	<string>buttonBorder</string>
+</dict>
+</plist>

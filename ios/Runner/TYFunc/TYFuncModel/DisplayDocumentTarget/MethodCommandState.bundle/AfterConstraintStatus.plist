@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCreator</key>
+	<string>reusableLabel</string>
+	<key>collectionKind</key>
+	<string>recursionName</string>
+	<key>difficultRadio</key>
+	<string>blocEdge</string>
+	<key>firstTriangles</key>
+	<string>expandedState</string>
+	<key>scrollableTexture</key>
+	<string>flexibleWrapper</string>
+	<key>statelessCache</key>
+	<string>flexibleSemantics</string>
+	<key>strengthFrequency</key>
+	<string>prismaticWrapper</string>
+</dict>
+</plist>

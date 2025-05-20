@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDelegate</key>
+	<string>shouldrenderconsumer</string>
+	<key>largeCoordinator</key>
+	<string>navigatorBridge</string>
+	<key>layoutrequest</key>
+	<string>resizableswift</string>
+	<key>oldscrollleft</key>
+	<string>captureview</string>
+	<key>scrollableIndicator</key>
+	<string>imperativeGraphic</string>
+	<key>shouldDismissCharacter</key>
+	<string>canPauseRadio</string>
+	<key>shouldRestartPadding</key>
+	<string>firstResult</string>
+	<key>specifyBorder</key>
+	<string>hasbitrate</string>
+</dict>
+</plist>

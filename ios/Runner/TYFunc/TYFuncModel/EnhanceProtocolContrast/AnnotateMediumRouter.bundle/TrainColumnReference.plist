@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEmitter</key>
+	<string>inflateDropdownButton</string>
+	<key>cupertinocoordinatorrate</key>
+	<string>upgradeError</string>
+	<key>lazyMaterial</key>
+	<string>shouldFormatSpecifier</string>
+	<key>metadataOrientation</key>
+	<string>lazyTable</string>
+	<key>optimizeeffect</key>
+	<string>canPauseHero</string>
+	<key>reactiveLayout</key>
+	<string>shouldPopPainter</string>
+	<key>remainderPressure</key>
+	<string>shouldpausereduction</string>
+	<key>shouldEmitSemantics</key>
+	<string>shouldEmitWidget</string>
+	<key>vectoramongtier</key>
+	<string>independentPublisher</string>
+</dict>
+</plist>

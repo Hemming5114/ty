@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitMode</key>
+	<string>activatedEquivalent</string>
+	<key>deferredNotification</key>
+	<string>hyperbolicDetail</string>
+	<key>discardedMap</key>
+	<string>canYieldListView</string>
+	<key>intuitivePosition</key>
+	<string>mediocreSymbol</string>
+	<key>intuitiveShape</key>
+	<string>constraintJob</string>
+	<key>lazyMatrix</key>
+	<string>cubeIndex</string>
+	<key>lostGradient</key>
+	<string>shouldPopLabel</string>
+	<key>responseBottom</key>
+	<string>diffableRect</string>
+	<key>sustainableScroll</key>
+	<string>interactionTransparency</string>
+	<key>usedTweak</key>
+	<string>thresholdAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materializervisible</key>
+	<string>storageVelocity</string>
+	<key>modulusAlignment</key>
+	<string>beginnerTable</string>
+	<key>nextUnary</key>
+	<string>buttontail</string>
+	<key>nextVertex</key>
+	<string>connectorDistance</string>
+	<key>relationalVolume</key>
+	<string>immutableBrush</string>
+	<key>scaffoldnumberinterval</key>
+	<string>reducerScope</string>
+	<key>uniqueBinary</key>
+	<string>canPublishBitrate</string>
+</dict>
+</plist>

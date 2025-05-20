@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAspect</key>
+	<string>emitSample</string>
+	<key>displayableRouter</key>
+	<string>standaloneFlex</string>
+	<key>eagerWidget</key>
+	<string>loaderTheme</string>
+	<key>invisibleFilter</key>
+	<string>canAnimateLog</string>
+	<key>sensortransparency</key>
+	<string>cancelVariant</string>
+	<key>subsequentWorkflow</key>
+	<string>skipinkwell</string>
+	<key>webColumn</key>
+	<string>gesturedetectorWork</string>
+</dict>
+</plist>

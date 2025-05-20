@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAudio</key>
+	<string>validatechannels</string>
+	<key>fixedScheduler</key>
+	<string>unaryContrast</string>
+	<key>gemSpeed</key>
+	<string>canAttachInkWell</string>
+	<key>hardRichText</key>
+	<string>setupTransition</string>
+	<key>permanentMesh</key>
+	<string>listviewfeature</string>
+	<key>prismaticChooser</key>
+	<string>unaryLeft</string>
+</dict>
+</plist>

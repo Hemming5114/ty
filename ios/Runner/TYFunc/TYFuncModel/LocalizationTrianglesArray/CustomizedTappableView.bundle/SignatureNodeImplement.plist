@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPadding</key>
+	<string>arithmeticSelector</string>
+	<key>intensitySaturation</key>
+	<string>inheritedDuration</string>
+	<key>shouldreplacepageview</key>
+	<string>storageFlyweight</string>
+	<key>transitiongraph</key>
+	<string>statefulIndicator</string>
+	<key>vectorinterpreterrate</key>
+	<string>optimizerVisible</string>
+</dict>
+</plist>

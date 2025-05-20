@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoScalability</key>
+	<string>shouldBindSlider</string>
+	<key>inactiveCoordinator</key>
+	<string>processCapsule</string>
+	<key>permanentSemantics</key>
+	<string>shaderbottom</string>
+	<key>retainedIndicator</key>
+	<string>reliabilitySize</string>
+	<key>sharedTopic</key>
+	<string>displayableActivity</string>
+	<key>uniqueerrortail</key>
+	<string>hasLog</string>
+</dict>
+</plist>

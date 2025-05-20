@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledElement</key>
+	<string>canPushCapacities</string>
+	<key>geometricState</key>
+	<string>embedTexture</string>
+	<key>polyfillInterval</key>
+	<string>prepareWorkflow</string>
+	<key>resilientAllocator</key>
+	<string>arithmeticRotation</string>
+	<key>statefulInset</key>
+	<string>functionalStream</string>
+	<key>topicperform</key>
+	<string>borderAdapter</string>
+</dict>
+</plist>

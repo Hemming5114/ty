@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTransformer</key>
+	<string>usedStrength</string>
+	<key>canvasDelay</key>
+	<string>cartesianlocalization</string>
+	<key>greatHistogram</key>
+	<string>shouldCacheProjection</string>
+	<key>recursionState</key>
+	<string>subsequentTaxonomy</string>
+	<key>visibleDisclaimer</key>
+	<string>liteEmitter</string>
+	<key>zoneresponse</key>
+	<string>subsequentbitrate</string>
+</dict>
+</plist>

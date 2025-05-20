@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratecolor</key>
+	<string>advancedVariant</string>
+	<key>clusterBottom</key>
+	<string>colorFeedback</string>
+	<key>comprehensivecache</key>
+	<string>publicAllocator</string>
+	<key>descriptorAppearance</key>
+	<string>canDetachCertificate</string>
+	<key>fixedSignature</key>
+	<string>fixedRemediation</string>
+	<key>priornotification</key>
+	<string>plateflags</string>
+	<key>retaintable</key>
+	<string>accessibleHistogram</string>
+	<key>shouldSerializeCharacter</key>
+	<string>shouldFormatSkirt</string>
+</dict>
+</plist>

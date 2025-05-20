@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletBorder</key>
+	<string>embedResolver</string>
+	<key>combinermargin</key>
+	<string>shouldHandleConstraint</string>
+	<key>concreteArithmetic</key>
+	<string>iterativeMaster</string>
+	<key>declarativeSign</key>
+	<string>fixedScheduler</string>
+	<key>dedicatedCharacter</key>
+	<string>canCacheCheckbox</string>
+	<key>discardedIcon</key>
+	<string>painterForm</string>
+	<key>respectiveTechnique</key>
+	<string>resizeStream</string>
+	<key>routeraboutflyweight</key>
+	<string>canUnmountNib</string>
+</dict>
+</plist>

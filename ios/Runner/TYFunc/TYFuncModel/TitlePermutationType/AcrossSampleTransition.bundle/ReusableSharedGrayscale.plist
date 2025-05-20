@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteLatency</key>
+	<string>dispatchPet</string>
+	<key>fusedHeap</key>
+	<string>symmetricQueue</string>
+	<key>providerEdge</key>
+	<string>routerrotation</string>
+	<key>saveresponse</key>
+	<string>tappableCustomPaint</string>
+	<key>shouldSubscribeSegue</key>
+	<string>shouldAttachBehavior</string>
+	<key>shouldUpdateTable</key>
+	<string>statelessBridge</string>
+</dict>
+</plist>

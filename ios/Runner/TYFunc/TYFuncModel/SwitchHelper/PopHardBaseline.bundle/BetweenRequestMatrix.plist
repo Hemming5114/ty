@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTool</key>
+	<string>immutableimage</string>
+	<key>imperativeLinker</key>
+	<string>subtleSensor</string>
+	<key>nextTopic</key>
+	<string>effectDelay</string>
+	<key>rapidAnimator</key>
+	<string>responderBound</string>
+	<key>removeaxis</key>
+	<string>shouldPaintInterpolation</string>
+	<key>shouldfetchsign</key>
+	<string>gestureFunction</string>
+	<key>storyboardskewx</key>
+	<string>shouldTrainNib</string>
+</dict>
+</plist>

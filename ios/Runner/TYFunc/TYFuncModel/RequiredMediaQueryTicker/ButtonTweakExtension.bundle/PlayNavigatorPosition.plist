@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticRange</key>
+	<string>workflowForce</string>
+	<key>enabledAxis</key>
+	<string>deferredThreshold</string>
+	<key>hasConvolution</key>
+	<string>rotateIsolate</string>
+	<key>intuitiveView</key>
+	<string>lostShape</string>
+	<key>movementCenter</key>
+	<string>resumegraph</string>
+	<key>normalPadding</key>
+	<string>replicateAction</string>
+	<key>scopeBound</key>
+	<string>diversifiedUsage</string>
+	<key>shouldYieldIcon</key>
+	<string>showGridView</string>
+	<key>storyboardTag</key>
+	<string>diffableinkwellhead</string>
+</dict>
+</plist>

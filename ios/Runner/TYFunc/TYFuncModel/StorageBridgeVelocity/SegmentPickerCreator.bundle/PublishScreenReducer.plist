@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGrid</key>
+	<string>usedChannel</string>
+	<key>immediateEquivalent</key>
+	<string>transpileError</string>
+	<key>projectAlignment</key>
+	<string>borderBuffer</string>
+	<key>reductionVisibility</key>
+	<string>persistentAnimation</string>
+	<key>significantScalability</key>
+	<string>denseOverlay</string>
+	<key>timelineVelocity</key>
+	<string>normascent</string>
+</dict>
+</plist>

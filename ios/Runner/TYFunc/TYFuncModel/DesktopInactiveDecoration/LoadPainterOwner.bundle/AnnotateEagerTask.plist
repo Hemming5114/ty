@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentScenario</key>
+	<string>parseSpot</string>
+	<key>localizationperactivity</key>
+	<string>videoMode</string>
+	<key>missedtooldepth</key>
+	<string>constructplayback</string>
+	<key>navigationInteraction</key>
+	<string>beginnerMenu</string>
+	<key>originalState</key>
+	<string>removeCurve</string>
+	<key>semanticsprototypeshade</key>
+	<string>unsortedchooser</string>
+	<key>shouldAttachLoss</key>
+	<string>interceptTicker</string>
+	<key>singleBatch</key>
+	<string>requiredGraphic</string>
+	<key>strengthTransparency</key>
+	<string>detectorInteraction</string>
+	<key>wrapperVisibility</key>
+	<string>resourceDuration</string>
+</dict>
+</plist>

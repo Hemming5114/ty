@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMaterial</key>
+	<string>lossRate</string>
+	<key>inheritedPet</key>
+	<string>cloneFuture</string>
+	<key>prevConfiguration</key>
+	<string>popdependency</string>
+	<key>resizableService</key>
+	<string>wrapperPosition</string>
+	<key>robustCubit</key>
+	<string>disabledCube</string>
+	<key>shouldEncodeRichText</key>
+	<string>readdescription</string>
+	<key>statelessHero</key>
+	<string>shouldStartHero</string>
+	<key>tensorAnalogy</key>
+	<string>notationEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBuffer</key>
+	<string>functionalimpression</string>
+	<key>associatedAnalyzer</key>
+	<string>integrityDepth</string>
+	<key>beginnerPlayback</key>
+	<string>heroVisible</string>
+	<key>fragmentsTail</key>
+	<string>custompaintLevel</string>
+	<key>logarithmBound</key>
+	<string>shouldDismissImage</string>
+	<key>newestLabel</key>
+	<string>cycleDirection</string>
+	<key>newestStore</key>
+	<string>aggregateException</string>
+	<key>shouldSkipMediaQuery</key>
+	<string>unbindObserver</string>
+	<key>unactivatedmapper</key>
+	<string>detachRepository</string>
+</dict>
+</plist>

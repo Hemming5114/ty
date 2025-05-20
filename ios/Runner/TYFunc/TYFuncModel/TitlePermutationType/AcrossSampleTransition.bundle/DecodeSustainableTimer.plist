@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobilestructurebottom</key>
+	<string>stackforce</string>
+	<key>priorDescriptor</key>
+	<string>isBorder</string>
+	<key>priorDrawer</key>
+	<string>pauseMedia</string>
+	<key>shouldmountedwidget</key>
+	<string>entitykind</string>
+	<key>unaryDistance</key>
+	<string>detectorBorder</string>
+</dict>
+</plist>

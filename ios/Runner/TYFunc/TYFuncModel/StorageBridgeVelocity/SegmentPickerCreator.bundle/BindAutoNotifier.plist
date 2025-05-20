@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateCubit</key>
+	<string>lastPolygon</string>
+	<key>liteMatrix</key>
+	<string>disconnectPresenter</string>
+	<key>materializertint</key>
+	<string>showPositioned</string>
+	<key>overlayBottom</key>
+	<string>receiveLabel</string>
+</dict>
+</plist>

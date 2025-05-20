@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentColor</key>
+	<string>rectifyCurve</string>
+	<key>blocSkewX</key>
+	<string>graphShape</string>
+	<key>cacheSkewY</key>
+	<string>currentCache</string>
+	<key>controlleradapterbehavior</key>
+	<string>splitterTop</string>
+	<key>listenermodeformat</key>
+	<string>pointLayer</string>
+	<key>materialSubscription</key>
+	<string>streamuntilproxy</string>
+	<key>retainedConsumption</key>
+	<string>stampBridge</string>
+</dict>
+</plist>

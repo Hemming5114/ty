@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherRate</key>
+	<string>fillResolver</string>
+	<key>draggableExtension</key>
+	<string>spriteStyle</string>
+	<key>infoKind</key>
+	<string>canAnimateSample</string>
+	<key>modelLocation</key>
+	<string>paintcosine</string>
+</dict>
+</plist>

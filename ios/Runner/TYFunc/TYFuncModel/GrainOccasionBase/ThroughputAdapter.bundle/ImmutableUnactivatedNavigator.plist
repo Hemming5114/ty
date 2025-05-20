@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCustomPaint</key>
+	<string>mobileformode</string>
+	<key>commonStep</key>
+	<string>scaleAppearance</string>
+	<key>intuitiveresourcerate</key>
+	<string>intuitiveAnalyzer</string>
+	<key>layerslider</key>
+	<string>variantMethod</string>
+	<key>parallelDescent</key>
+	<string>imagetop</string>
+	<key>shouldContinuePadding</key>
+	<string>conformStream</string>
+	<key>viewhandler</key>
+	<string>enhanceRadius</string>
+</dict>
+</plist>

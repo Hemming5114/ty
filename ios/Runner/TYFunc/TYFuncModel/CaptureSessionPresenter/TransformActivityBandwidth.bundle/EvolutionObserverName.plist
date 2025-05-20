@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denserouteright</key>
+	<string>shouldPresentNavigator</string>
+	<key>framesingletontail</key>
+	<string>flexBuffer</string>
+	<key>lazyAnchor</key>
+	<string>currentCupertino</string>
+	<key>listenprogressbar</key>
+	<string>replicateStream</string>
+	<key>memberduringdecorator</key>
+	<string>canInflateProtocol</string>
+	<key>newestRadius</key>
+	<string>dispatchBase</string>
+	<key>oldReceiver</key>
+	<string>publishRow</string>
+	<key>pinchableSegment</key>
+	<string>canYieldModulus</string>
+	<key>slashSpeed</key>
+	<string>integritySpeed</string>
+</dict>
+</plist>

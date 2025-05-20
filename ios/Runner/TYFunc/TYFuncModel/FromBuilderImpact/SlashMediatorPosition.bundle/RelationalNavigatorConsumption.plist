@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMesh</key>
+	<string>oldtext</string>
+	<key>compositionalPositioned</key>
+	<string>resolverFlags</string>
+	<key>eventfromstructure</key>
+	<string>mediaFeedback</string>
+	<key>lostCreator</key>
+	<string>shouldPresentNavigation</string>
+	<key>priorPublisher</key>
+	<string>nibPrototype</string>
+	<key>shouldSaveScroll</key>
+	<string>keyItem</string>
+	<key>shouldSubscribeStateful</key>
+	<string>builderEnvironment</string>
+</dict>
+</plist>

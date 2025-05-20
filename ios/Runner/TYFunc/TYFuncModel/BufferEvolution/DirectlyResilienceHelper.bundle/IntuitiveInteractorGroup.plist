@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layouttechnique</key>
+	<string>hasremainder</string>
+	<key>mutableAlignment</key>
+	<string>shouldMountedSwift</string>
+	<key>smallTexture</key>
+	<string>shouldInflateChannels</string>
+	<key>streamallocator</key>
+	<string>comprehensiveSlider</string>
+</dict>
+</plist>

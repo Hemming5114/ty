@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletOpacity</key>
+	<string>canLayoutCube</string>
+	<key>compositionalAxis</key>
+	<string>overrideNavigator</string>
+	<key>explicitPolyfill</key>
+	<string>dropoutPreview</string>
+	<key>resilientEmitter</key>
+	<string>canLayoutIndicator</string>
+	<key>shouldDispatchBox</key>
+	<string>tensorGridView</string>
+	<key>subscriberedge</key>
+	<string>canDeserializeContraction</string>
+	<key>threadSpeed</key>
+	<string>scaffoldValue</string>
+</dict>
+</plist>

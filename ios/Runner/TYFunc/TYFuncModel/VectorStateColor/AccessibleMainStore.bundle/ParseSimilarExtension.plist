@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackevent</key>
+	<string>instantiateRect</string>
+	<key>fragmentSize</key>
+	<string>mapperRotation</string>
+	<key>ignoredworkflow</key>
+	<string>lastAspectRatio</string>
+	<key>rectIndex</key>
+	<string>captionTask</string>
+	<key>staticBox</key>
+	<string>oninkwellchanged</string>
+	<key>triggerHead</key>
+	<string>shouldStartText</string>
+	<key>typicalView</key>
+	<string>tablerow</string>
+	<key>updatecontraction</key>
+	<string>cacheComposition</string>
+</dict>
+</plist>

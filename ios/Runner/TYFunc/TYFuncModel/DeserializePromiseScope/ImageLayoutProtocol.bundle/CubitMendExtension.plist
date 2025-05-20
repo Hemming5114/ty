@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOperation</key>
+	<string>maintainTransformer</string>
+	<key>brushlikevariable</key>
+	<string>detachTween</string>
+	<key>chapterlikeaction</key>
+	<string>independentTopic</string>
+	<key>destroyswitch</key>
+	<string>disposePromise</string>
+	<key>multiBox</key>
+	<string>mediocreScroller</string>
+	<key>numericalActivity</key>
+	<string>responsiveMerger</string>
+	<key>skinType</key>
+	<string>refactorSingleton</string>
+</dict>
+</plist>

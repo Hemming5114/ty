@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultDimension</key>
+	<string>desktopNotation</string>
+	<key>disabledMedia</key>
+	<string>selectedhistogram</string>
+	<key>featurejoborigin</key>
+	<string>oldGrid</string>
+	<key>movementFlags</key>
+	<string>diffableText</string>
+	<key>profiledelegate</key>
+	<string>mediaqueryBottom</string>
+	<key>vectorscale</key>
+	<string>shouldpreparecupertino</string>
+	<key>webMaterial</key>
+	<string>canCancelCube</string>
+</dict>
+</plist>

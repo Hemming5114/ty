@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledEqualization</key>
+	<string>uniformConstant</string>
+	<key>gatelocalization</key>
+	<string>unmountMovement</string>
+	<key>quaternionBehavior</key>
+	<string>viewamongbridge</string>
+	<key>seamlessSizedBox</key>
+	<string>saveSample</string>
+	<key>shouldNavigateBitrate</key>
+	<string>originalOffset</string>
+	<key>similarScroll</key>
+	<string>accelerateZone</string>
+</dict>
+</plist>

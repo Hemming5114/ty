@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerScroll</key>
+	<string>tabbarInteraction</string>
+	<key>marshalgraphic</key>
+	<string>liteTicker</string>
+	<key>materializelabel</key>
+	<string>unmarshalChart</string>
+	<key>mobileDepth</key>
+	<string>primaryFragments</string>
+	<key>modalBehavior</key>
+	<string>transformOverlay</string>
+	<key>rendererPressure</key>
+	<string>canUnbindExpanded</string>
+	<key>sampletheme</key>
+	<string>disconnectRequest</string>
+	<key>shouldCacheGem</key>
+	<string>onslashtap</string>
+</dict>
+</plist>

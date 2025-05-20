@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorlikeoperation</key>
+	<string>shouldPausePageView</string>
+	<key>crudeTable</key>
+	<string>loaderOffset</string>
+	<key>instantiatestack</key>
+	<string>promisecontainjob</string>
+	<key>materialsaturation</key>
+	<string>shouldresumegrayscale</string>
+	<key>permissiveNotation</key>
+	<string>desktopthroughput</string>
+	<key>prismaticParticle</key>
+	<string>shouldUnbindStack</string>
+	<key>statelessvialayer</key>
+	<string>syncinterpolation</string>
+</dict>
+</plist>

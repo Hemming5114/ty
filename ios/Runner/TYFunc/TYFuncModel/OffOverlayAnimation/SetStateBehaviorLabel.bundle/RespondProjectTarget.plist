@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTheme</key>
+	<string>beginnerReliability</string>
+	<key>composableSingleton</key>
+	<string>eagerentity</string>
+	<key>concurrentComposition</key>
+	<string>utilbound</string>
+	<key>immediateTaxonomy</key>
+	<string>cacheNumber</string>
+	<key>prevStroke</key>
+	<string>multiDetail</string>
+	<key>shouldnotifymodulus</key>
+	<string>streamPattern</string>
+</dict>
+</plist>

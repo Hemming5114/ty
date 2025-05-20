@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerobserverdirection</key>
+	<string>utilResponse</string>
+	<key>independentCheckbox</key>
+	<string>animateBuffer</string>
+	<key>injectionColor</key>
+	<string>shouldPersistMedia</string>
+	<key>introspectcallback</key>
+	<string>permanentTween</string>
+	<key>iterativeShader</key>
+	<string>allocatororcontext</string>
+	<key>offsetscope</key>
+	<string>providerDensity</string>
+	<key>retainedAsset</key>
+	<string>iterativeIntegrity</string>
+	<key>serviceleft</key>
+	<string>delicateQuaternion</string>
+	<key>serviceoccasion</key>
+	<string>materialCosine</string>
+	<key>shouldPersistMap</key>
+	<string>usecaseStrategy</string>
+</dict>
+</plist>

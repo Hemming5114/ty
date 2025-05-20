@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiobeyondphase</key>
+	<string>discardedDetail</string>
+	<key>directThroughput</key>
+	<string>subsequentBuilder</string>
+	<key>directlyBullet</key>
+	<string>stampRate</string>
+	<key>exceptionmodebehavior</key>
+	<string>hardStrength</string>
+	<key>lossStatus</key>
+	<string>shouldStopCell</string>
+	<key>precisionMode</key>
+	<string>provisionShape</string>
+	<key>prismaticTriangles</key>
+	<string>routerRight</string>
+	<key>protectedSize</key>
+	<string>flexlocation</string>
+	<key>radiusPadding</key>
+	<string>shouldUpdateNib</string>
+	<key>significantTernary</key>
+	<string>propagateMetadata</string>
+</dict>
+</plist>

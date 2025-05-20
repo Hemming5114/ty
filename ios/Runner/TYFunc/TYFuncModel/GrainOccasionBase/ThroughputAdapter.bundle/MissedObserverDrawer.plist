@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleThreshold</key>
+	<string>formatStep</string>
+	<key>shouldProcessPlate</key>
+	<string>touchInteractor</string>
+	<key>shouldUpdateBloc</key>
+	<string>autojoiner</string>
+	<key>streammetadata</key>
+	<string>loaderBrightness</string>
+</dict>
+</plist>

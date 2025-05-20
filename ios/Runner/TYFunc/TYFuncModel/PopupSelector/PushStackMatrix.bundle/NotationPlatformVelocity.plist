@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSegment</key>
+	<string>monsterfortype</string>
+	<key>baselineTransparency</key>
+	<string>pushShader</string>
+	<key>staticmaterialspacing</key>
+	<string>fusedGradient</string>
+	<key>usecasenumberoffset</key>
+	<string>scrollableGrid</string>
+</dict>
+</plist>

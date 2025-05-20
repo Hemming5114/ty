@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticrouter</key>
+	<string>richtextMemento</string>
+	<key>cartesianpriorityhue</key>
+	<string>signaturevolume</string>
+	<key>immutableScale</key>
+	<string>maxExtension</string>
+	<key>missedRadius</key>
+	<string>inkwellDelay</string>
+	<key>shouldCreateExtension</key>
+	<string>titleFrequency</string>
+	<key>smartPageView</key>
+	<string>navigationDistance</string>
+</dict>
+</plist>

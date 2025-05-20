@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyDensity</key>
+	<string>stateCenter</string>
+	<key>comprehensivezone</key>
+	<string>saveProjection</string>
+	<key>declarativebitrate</key>
+	<string>replaceresponse</string>
+	<key>mapperBehavior</key>
+	<string>observerFlyweight</string>
+	<key>sensorColor</key>
+	<string>reducerComposite</string>
+	<key>sheargraph</key>
+	<string>canYieldTextField</string>
+	<key>shouldPushProject</key>
+	<string>menuMethod</string>
+	<key>synchronousArchitecture</key>
+	<string>mutablerow</string>
+	<key>timeropacity</key>
+	<string>gridEnvironment</string>
+	<key>usecasekindindex</key>
+	<string>canSaveFuture</string>
+</dict>
+</plist>

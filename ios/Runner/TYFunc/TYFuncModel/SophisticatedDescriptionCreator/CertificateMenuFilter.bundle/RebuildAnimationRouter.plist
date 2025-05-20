@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianScalability</key>
+	<string>behavioroffset</string>
+	<key>displayablemediatheme</key>
+	<string>extensionActivity</string>
+	<key>exponentTransparency</key>
+	<string>unactivatedStrength</string>
+	<key>inactiveCompleter</key>
+	<string>unactivatedMediaQuery</string>
+	<key>meshForce</key>
+	<string>opaqueWidget</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRectangle</key>
+	<string>componentscale</string>
+	<key>disabledDescent</key>
+	<string>eraseController</string>
+	<key>formatResponse</key>
+	<string>aspectDepth</string>
+	<key>gramFrequency</key>
+	<string>fetchBitrate</string>
+	<key>platebrightness</key>
+	<string>decorationProcess</string>
+	<key>requiredtouch</key>
+	<string>retainedSize</string>
+	<key>resourceScale</key>
+	<string>canCancelPageView</string>
+	<key>scrollableChallenge</key>
+	<string>fragmentPressure</string>
+	<key>shouldSaveInteger</key>
+	<string>radiusShape</string>
+</dict>
+</plist>

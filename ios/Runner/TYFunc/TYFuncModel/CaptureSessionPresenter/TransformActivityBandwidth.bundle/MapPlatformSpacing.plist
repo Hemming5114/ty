@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedInformation</key>
+	<string>specifierskewx</string>
+	<key>immediateRepository</key>
+	<string>basicfragment</string>
+	<key>methodtransparency</key>
+	<string>aspectratioevent</string>
+	<key>smartProjection</key>
+	<string>propagateWidget</string>
+</dict>
+</plist>

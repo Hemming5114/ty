@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionchecklistvalidation</key>
+	<string>objectSkewY</string>
+	<key>clipperoperation</key>
+	<string>alerttexture</string>
+	<key>declarativeSkin</key>
+	<string>canYieldSegment</string>
+	<key>graphicview</key>
+	<string>canValidateAccessory</string>
+	<key>keyAlert</key>
+	<string>linkerspacing</string>
+	<key>niblayout</key>
+	<string>grayscaledensity</string>
+	<key>presentercenter</key>
+	<string>nodeBottom</string>
+	<key>shouldUnmountMaster</key>
+	<string>channelMomentum</string>
+</dict>
+</plist>

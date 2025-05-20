@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCubit</key>
+	<string>materialrectinset</string>
+	<key>directTentative</key>
+	<string>resourceMargin</string>
+	<key>explicitChart</key>
+	<string>syncRequest</string>
+	<key>shouldsetstatetext</key>
+	<string>mobileMenu</string>
+	<key>statusTransparency</key>
+	<string>immutableController</string>
+</dict>
+</plist>

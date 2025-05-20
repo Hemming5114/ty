@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitSpeed</key>
+	<string>resilienceTension</string>
+	<key>declarativeError</key>
+	<string>animatedAperture</string>
+	<key>enumerateallocator</key>
+	<string>smallSemantics</string>
+	<key>inheritedtweak</key>
+	<string>endBloc</string>
+	<key>operationloop</key>
+	<string>bindDropdownButton</string>
+	<key>shouldStopConvolution</key>
+	<string>soundVelocity</string>
+	<key>shouldunmountedheap</key>
+	<string>directlyStoryboard</string>
+	<key>spriteininterpreter</key>
+	<string>attachMobile</string>
+	<key>topicDelay</key>
+	<string>shouldParseInterpolation</string>
+</dict>
+</plist>

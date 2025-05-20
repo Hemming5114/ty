@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSpacing</key>
+	<string>dissociatecoordinator</string>
+	<key>customizedAspectRatio</key>
+	<string>shouldStreamNib</string>
+	<key>expandedResponse</key>
+	<string>semanticSine</string>
+	<key>gradientdespiteaction</key>
+	<string>pushGrayscale</string>
+	<key>itemTag</key>
+	<string>yieldContraction</string>
+	<key>overlayValidation</key>
+	<string>generateCallback</string>
+	<key>shouldPaintSlider</key>
+	<string>convertChart</string>
+	<key>shouldUnmountStateful</key>
+	<string>exitTicker</string>
+</dict>
+</plist>

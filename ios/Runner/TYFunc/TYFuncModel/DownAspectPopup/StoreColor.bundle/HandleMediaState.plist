@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventslider</key>
+	<string>renderHero</string>
+	<key>progressbarfacadecenter</key>
+	<string>sortedListener</string>
+	<key>shouldFetchWidget</key>
+	<string>capsuleDensity</string>
+	<key>statelessFormat</key>
+	<string>histogramindex</string>
+	<key>textfieldForce</key>
+	<string>euclideanNavigator</string>
+</dict>
+</plist>

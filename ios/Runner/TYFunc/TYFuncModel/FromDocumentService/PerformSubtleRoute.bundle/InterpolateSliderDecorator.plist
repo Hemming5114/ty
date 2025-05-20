@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileException</key>
+	<string>normalSign</string>
+	<key>alphaOrientation</key>
+	<string>currentSession</string>
+	<key>dynamiccoordinator</key>
+	<string>numericalPageView</string>
+	<key>exponentcallback</key>
+	<string>enabledTentative</string>
+	<key>originalPermutation</key>
+	<string>selectorOpacity</string>
+	<key>priorityexceptmemento</key>
+	<string>shouldShowExpanded</string>
+	<key>routeinjection</key>
+	<string>iterativeError</string>
+	<key>shouldInflateNotification</key>
+	<string>richtextLayer</string>
+	<key>tasklinker</key>
+	<string>activeBloc</string>
+</dict>
+</plist>

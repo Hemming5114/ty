@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDensity</key>
+	<string>decorationBrightness</string>
+	<key>commonData</key>
+	<string>marginbinder</string>
+	<key>crudeLoop</key>
+	<string>compositionFlags</string>
+	<key>directlySlash</key>
+	<string>newestConfidentiality</string>
+	<key>hyperbolicChannels</key>
+	<string>significantBullet</string>
+	<key>intermediateNotation</key>
+	<string>shouldPaintScroll</string>
+	<key>listenercenter</key>
+	<string>groupKind</string>
+	<key>shouldReplaceBatch</key>
+	<string>concurrentBinary</string>
+	<key>similarSorter</key>
+	<string>audioDirection</string>
+</dict>
+</plist>

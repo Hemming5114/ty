@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerName</key>
+	<string>methodProxy</string>
+	<key>immediateIndicator</key>
+	<string>semanticsbridgeshade</string>
+	<key>intensitycreator</key>
+	<string>emitRow</string>
+	<key>isolateSkewY</key>
+	<string>saveMomentum</string>
+	<key>notifierMargin</key>
+	<string>mobilestackmargin</string>
+	<key>positionuntilplatform</key>
+	<string>segueOffset</string>
+	<key>retainedStatus</key>
+	<string>deflateChart</string>
+	<key>shaderAcceleration</key>
+	<string>numericalReduction</string>
+</dict>
+</plist>

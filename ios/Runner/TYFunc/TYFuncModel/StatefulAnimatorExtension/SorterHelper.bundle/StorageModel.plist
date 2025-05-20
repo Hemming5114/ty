@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorysize</key>
+	<string>rectifyGrid</string>
+	<key>graphicVisibility</key>
+	<string>explicitHash</string>
+	<key>nativeTexture</key>
+	<string>objectvelocity</string>
+	<key>reducersound</key>
+	<string>arithmeticAperture</string>
+	<key>secondOperation</key>
+	<string>crucialevent</string>
+</dict>
+</plist>

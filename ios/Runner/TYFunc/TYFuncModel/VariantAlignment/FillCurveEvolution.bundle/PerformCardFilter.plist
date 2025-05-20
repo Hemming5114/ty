@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticcallback</key>
+	<string>resolverForce</string>
+	<key>channelType</key>
+	<string>enhanceAction</string>
+	<key>controllertransformer</key>
+	<string>gestureDirection</string>
+	<key>directlyAspectRatio</key>
+	<string>curveInterpreter</string>
+	<key>progressbaroccasion</key>
+	<string>explicitPresenter</string>
+	<key>secondExpanded</key>
+	<string>lockcontroller</string>
+	<key>shouldDeserializeScale</key>
+	<string>visibleAspectRatio</string>
+	<key>significantModel</key>
+	<string>shouldEncodeTernary</string>
+</dict>
+</plist>

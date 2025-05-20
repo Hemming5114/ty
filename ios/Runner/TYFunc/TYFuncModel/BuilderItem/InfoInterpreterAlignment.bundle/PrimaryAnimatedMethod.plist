@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeBehavior</key>
+	<string>lossInteraction</string>
+	<key>decorationadapterright</key>
+	<string>timelinecolor</string>
+	<key>dedicatedMaster</key>
+	<string>shouldSubscribeCompletion</string>
+	<key>disparateBaseline</key>
+	<string>hardCapacities</string>
+	<key>hardaction</key>
+	<string>alertphaseorientation</string>
+	<key>menuBrightness</key>
+	<string>orchestrateAction</string>
+	<key>utilIndex</key>
+	<string>currentaperture</string>
+</dict>
+</plist>

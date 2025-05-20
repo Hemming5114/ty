@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseMember</key>
+	<string>continueSpine</string>
+	<key>hardEvent</key>
+	<string>canEmitStream</string>
+	<key>intermediateinformation</key>
+	<string>detailCount</string>
+	<key>lasttitle</key>
+	<string>shouldCacheTabBar</string>
+	<key>statefulBandwidth</key>
+	<string>mainGift</string>
+</dict>
+</plist>

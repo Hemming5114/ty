@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frametimeline</key>
+	<string>shouldRenderNib</string>
+	<key>impressiondistance</key>
+	<string>detectorFrequency</string>
+	<key>mapperFrequency</key>
+	<string>polyfillScale</string>
+	<key>mediaPadding</key>
+	<string>referencegroup</string>
+	<key>specifyVector</key>
+	<string>respondBuilder</string>
+	<key>streammode</key>
+	<string>canInflateNotifier</string>
+</dict>
+</plist>

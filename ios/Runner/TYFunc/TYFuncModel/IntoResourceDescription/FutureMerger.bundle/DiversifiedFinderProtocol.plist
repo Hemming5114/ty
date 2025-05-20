@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultpromise</key>
+	<string>symbolActivity</string>
+	<key>finishasset</key>
+	<string>videoName</string>
+	<key>immutableMapper</key>
+	<string>protectedManager</string>
+	<key>multiButton</key>
+	<string>shouldReplaceGraphic</string>
+	<key>nativeHeap</key>
+	<string>exponentorplatform</string>
+	<key>pivotalAlignment</key>
+	<string>canPrepareStateful</string>
+	<key>shouldSaveResource</key>
+	<string>routegrain</string>
+	<key>toucherror</key>
+	<string>bindpopup</string>
+	<key>tweendistinction</key>
+	<string>significantMission</string>
+</dict>
+</plist>

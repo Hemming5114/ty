@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentInterpolation</key>
+	<string>prevTexture</string>
+	<key>disparatemodule</key>
+	<string>delegateskewy</string>
+	<key>firstworkfloworientation</key>
+	<string>shouldRebuildNib</string>
+	<key>listenerLocation</key>
+	<string>immutableZone</string>
+	<key>mutablepointborder</key>
+	<string>prismaticFuture</string>
+	<key>retainedQuaternion</key>
+	<string>storagePosition</string>
+	<key>shouldDismissBloc</key>
+	<string>resizableNavigator</string>
+	<key>texturefeedback</key>
+	<string>limitInterface</string>
+</dict>
+</plist>

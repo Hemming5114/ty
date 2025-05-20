@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateframeworkedge</key>
+	<string>notifyNavigation</string>
+	<key>responseexceptadapter</key>
+	<string>escalatefactory</string>
+	<key>segmentdescription</key>
+	<string>canUnbindConsumer</string>
+	<key>segmentlocation</key>
+	<string>canCreateCycle</string>
+</dict>
+</plist>

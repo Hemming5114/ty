@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCache</key>
+	<string>navigatorVariable</string>
+	<key>disconnectspine</key>
+	<string>shouldInflateCaption</string>
+	<key>grainAlignment</key>
+	<string>shouldObserveSignature</string>
+	<key>inheritedMap</key>
+	<string>addMenu</string>
+	<key>mediaBehavior</key>
+	<string>subpixelResponse</string>
+	<key>protectedIntensity</key>
+	<string>unactivatedbitrate</string>
+	<key>switchconfiguration</key>
+	<string>mobileChallenge</string>
+	<key>tentativeorigin</key>
+	<string>mechanismStatus</string>
+</dict>
+</plist>

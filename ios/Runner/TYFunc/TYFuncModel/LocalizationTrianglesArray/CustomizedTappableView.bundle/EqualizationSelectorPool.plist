@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectdisclaimer</key>
+	<string>capacitydensity</string>
+	<key>bufferrotation</key>
+	<string>concurrentProvider</string>
+	<key>eraseproject</key>
+	<string>projectionOperation</string>
+	<key>mediumChallenge</key>
+	<string>inheritedRecursion</string>
+	<key>polyfillContrast</key>
+	<string>catalystframe</string>
+	<key>publishdescriptor</key>
+	<string>liteStatus</string>
+	<key>textSize</key>
+	<string>shouldSaveConstraint</string>
+</dict>
+</plist>

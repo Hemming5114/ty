@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorTransparency</key>
+	<string>mendpadding</string>
+	<key>geometricCallback</key>
+	<string>smartoffsethead</string>
+	<key>mobileFlags</key>
+	<string>canPauseFragment</string>
+	<key>onbehaviortap</key>
+	<string>spotinjection</string>
+	<key>subsequentCharacteristic</key>
+	<string>hardCreator</string>
+	<key>visibleSine</key>
+	<string>handlesine</string>
+</dict>
+</plist>

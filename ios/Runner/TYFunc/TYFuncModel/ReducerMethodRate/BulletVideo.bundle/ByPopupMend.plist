@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAction</key>
+	<string>pinchableState</string>
+	<key>customizedComposition</key>
+	<string>globalProfile</string>
+	<key>databorder</key>
+	<string>rectLayer</string>
+	<key>fusedrequest</key>
+	<string>robustCell</string>
+	<key>masterCount</key>
+	<string>retainedLinker</string>
+	<key>opaquetaskcenter</key>
+	<string>awaitColor</string>
+	<key>semanticTechnique</key>
+	<string>shouldObserveProvider</string>
+</dict>
+</plist>

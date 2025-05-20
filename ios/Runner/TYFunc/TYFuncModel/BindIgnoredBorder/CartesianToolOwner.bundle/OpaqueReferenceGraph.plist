@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeMobile</key>
+	<string>defaultLoss</string>
+	<key>nativesubscriptionvelocity</key>
+	<string>appbarValue</string>
+	<key>shouldLoadMonster</key>
+	<string>alertmediatorvisibility</string>
+	<key>tangentDelay</key>
+	<string>shouldStartText</string>
+	<key>transformeraudio</key>
+	<string>canFinishRemainder</string>
+</dict>
+</plist>

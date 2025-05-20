@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTop</key>
+	<string>prevrowcoord</string>
+	<key>autoAperture</key>
+	<string>shouldTransformBatch</string>
+	<key>cartesianSound</key>
+	<string>detailDepth</string>
+	<key>multiCombiner</key>
+	<string>decorationSize</string>
+	<key>semanticTernary</key>
+	<string>comprehensiveGraph</string>
+	<key>tangentFormat</key>
+	<string>notifierBorder</string>
+	<key>unactivatedData</key>
+	<string>unsortedConverter</string>
+	<key>unsortedisolatetag</key>
+	<string>signIndex</string>
+	<key>usedPosition</key>
+	<string>shouldRebuildBehavior</string>
+</dict>
+</plist>

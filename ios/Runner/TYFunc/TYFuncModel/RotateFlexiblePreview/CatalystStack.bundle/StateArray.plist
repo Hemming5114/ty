@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOrientation</key>
+	<string>cosineadaptertag</string>
+	<key>confidentialityIndex</key>
+	<string>nextWrapper</string>
+	<key>nibopacity</key>
+	<string>updateBase</string>
+	<key>pinchableProtocol</key>
+	<string>shadertext</string>
+	<key>sharedSizedBox</key>
+	<string>immutableRichText</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newestData</key>
+	<string>selectedmovement</string>
+	<key>otherAppBar</key>
+	<string>endRoute</string>
+	<key>popupcontrast</key>
+	<string>widgetsystemhue</string>
+	<key>shouldDisconnectCurve</key>
+	<string>activateAnimation</string>
+	<key>sortedUnary</key>
+	<string>liteMovement</string>
+</dict>
+</plist>

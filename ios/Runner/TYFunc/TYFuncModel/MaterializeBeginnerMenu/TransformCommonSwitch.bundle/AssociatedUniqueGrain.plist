@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheanimation</key>
+	<string>retainedtabbarright</string>
+	<key>publisherCoord</key>
+	<string>commoncurveorigin</string>
+	<key>scalabilityPosition</key>
+	<string>shouldParseContainer</string>
+	<key>shouldstopgesturedetector</key>
+	<string>spinChapter</string>
+	<key>stepchaindensity</key>
+	<string>shouldResumeRadio</string>
+	<key>titlevelocity</key>
+	<string>webTabBar</string>
+	<key>vectorizesink</key>
+	<string>currentcard</string>
+</dict>
+</plist>

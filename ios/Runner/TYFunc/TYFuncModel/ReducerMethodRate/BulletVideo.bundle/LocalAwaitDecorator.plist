@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInteractor</key>
+	<string>shouldPauseTextField</string>
+	<key>characteristicEdge</key>
+	<string>inflateContraction</string>
+	<key>gradientInset</key>
+	<string>memberHue</string>
+	<key>permissivePopup</key>
+	<string>tableDelay</string>
+	<key>samplebutton</key>
+	<string>nextVertex</string>
+	<key>shouldStartSpine</key>
+	<string>blocVariable</string>
+	<key>spinebuilder</key>
+	<string>statelessVelocity</string>
+	<key>tweenpadding</key>
+	<string>capacitiesTint</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableProject</key>
+	<string>processmethod</string>
+	<key>deferredobserverstatus</key>
+	<string>shouldPublishUsage</string>
+	<key>grainforwork</key>
+	<string>sampleTint</string>
+	<key>histogramallocator</key>
+	<string>audiospacing</string>
+	<key>modelduration</key>
+	<string>shouldSetStateDelegate</string>
+	<key>nextAsset</key>
+	<string>smartVideo</string>
+	<key>sizeMomentum</key>
+	<string>durationInterval</string>
+</dict>
+</plist>

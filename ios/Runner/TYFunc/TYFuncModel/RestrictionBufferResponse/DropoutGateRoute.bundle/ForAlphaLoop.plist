@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granulartopic</key>
+	<string>promiseBound</string>
+	<key>interactiveAlert</key>
+	<string>providerkind</string>
+	<key>mendBrightness</key>
+	<string>aspectTask</string>
+	<key>mobilerepositorytype</key>
+	<string>accessibleEquipment</string>
+	<key>storyboardBound</key>
+	<string>largeSubpixel</string>
+	<key>toolBorder</key>
+	<string>ignoredDocument</string>
+	<key>visibleGrid</key>
+	<string>blocOffset</string>
+</dict>
+</plist>

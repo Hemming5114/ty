@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoanchorrotation</key>
+	<string>canSetStateTechnique</string>
+	<key>dynamicFinder</key>
+	<string>finishCharacter</string>
+	<key>robustMultiplication</key>
+	<string>listenCanvas</string>
+	<key>shouldLoadMonster</key>
+	<string>associatedStatus</string>
+	<key>shouldPersistNotification</key>
+	<string>uniqueicontag</string>
+	<key>spinetension</key>
+	<string>canUnbindEffect</string>
+	<key>startalpha</key>
+	<string>shouldLayoutOperation</string>
+	<key>sustainablelabel</key>
+	<string>rebuildanimation</string>
+	<key>uniformButton</key>
+	<string>otherCluster</string>
+</dict>
+</plist>

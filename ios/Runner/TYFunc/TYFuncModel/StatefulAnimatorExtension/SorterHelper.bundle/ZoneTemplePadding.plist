@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinecluster</key>
+	<string>oncellchanged</string>
+	<key>defaultBloc</key>
+	<string>flexexceptlayer</string>
+	<key>positionobserverappearance</key>
+	<string>offsetCoordinator</string>
+	<key>typicalcatalyst</key>
+	<string>oldIntensity</string>
+</dict>
+</plist>

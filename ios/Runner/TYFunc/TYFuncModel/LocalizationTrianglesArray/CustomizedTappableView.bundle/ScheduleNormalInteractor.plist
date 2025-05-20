@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardzone</key>
+	<string>similarconstraintdistance</string>
+	<key>combineconstraint</key>
+	<string>animatedContainer</string>
+	<key>compositionalObserver</key>
+	<string>liteIndicator</string>
+	<key>dedicatedVariant</key>
+	<string>accessiblearchitecture</string>
+	<key>mutablemodalacceleration</key>
+	<string>referenceduration</string>
+	<key>persistentpopup</key>
+	<string>backwardresultname</string>
+	<key>remediationForce</key>
+	<string>commonMobile</string>
+	<key>resolverbandwidth</key>
+	<string>spotopacity</string>
+	<key>significantCallback</key>
+	<string>canContinueHero</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHandler</key>
+	<string>resilienceValidation</string>
+	<key>decodeservice</key>
+	<string>createStore</string>
+	<key>effectMargin</key>
+	<string>priorityPlatform</string>
+	<key>firstpager</key>
+	<string>sensorDirection</string>
+	<key>generaterichtext</key>
+	<string>sortedPadding</string>
+	<key>replaceslider</key>
+	<string>seamlessBoxShadow</string>
+	<key>shouldPrepareInteger</key>
+	<string>mediumDescription</string>
+	<key>usecaseOrigin</key>
+	<string>sustainableTentative</string>
+</dict>
+</plist>

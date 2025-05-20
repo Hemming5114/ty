@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autohandler</key>
+	<string>customizedRichText</string>
+	<key>deferredRestriction</key>
+	<string>pushSpecifier</string>
+	<key>layoutStatus</key>
+	<string>usagedirection</string>
+	<key>maintweenright</key>
+	<string>reusableGraph</string>
+	<key>prevBatch</key>
+	<string>liteVariant</string>
+	<key>sequentialContainer</key>
+	<string>mediocreLoader</string>
+	<key>uniqueTriangles</key>
+	<string>segmentHead</string>
+</dict>
+</plist>

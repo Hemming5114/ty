@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTransparency</key>
+	<string>shouldDisconnectCharacter</string>
+	<key>petRate</key>
+	<string>enabledPolygon</string>
+	<key>pinchableInteraction</key>
+	<string>shouldRenderMusic</string>
+	<key>spineRotation</key>
+	<string>allocatorActivity</string>
+	<key>stampbuffer</key>
+	<string>desktopSpot</string>
+</dict>
+</plist>

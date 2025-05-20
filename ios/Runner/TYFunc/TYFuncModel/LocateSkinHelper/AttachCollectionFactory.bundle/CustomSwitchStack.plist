@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralspritebehavior</key>
+	<string>draggablespecifier</string>
+	<key>granularGraphic</key>
+	<string>protectedSymbol</string>
+	<key>hierarchicalTransition</key>
+	<string>contractioninvariable</string>
+	<key>largeTriangles</key>
+	<string>extendGroup</string>
+	<key>opaquenibshape</key>
+	<string>canUnbindDescriptor</string>
+	<key>publicCallback</key>
+	<string>roworientation</string>
+	<key>requiredEquivalent</key>
+	<string>shouldRouteAlert</string>
+	<key>responseoutsidekind</key>
+	<string>dropdownbuttonvideo</string>
+	<key>significantListener</key>
+	<string>shouldskipmember</string>
+</dict>
+</plist>

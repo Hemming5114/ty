@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateFinder</key>
+	<string>radioContext</string>
+	<key>isolatefeedback</key>
+	<string>canShowSensor</string>
+	<key>pagerpadding</key>
+	<string>sampleTint</string>
+	<key>processorvisible</key>
+	<string>cloneMethod</string>
+	<key>spriteTension</key>
+	<string>canNotifyBullet</string>
+	<key>staticConfidentiality</key>
+	<string>animatedPrecision</string>
+	<key>tensorDecoration</key>
+	<string>integermementospacing</string>
+</dict>
+</plist>

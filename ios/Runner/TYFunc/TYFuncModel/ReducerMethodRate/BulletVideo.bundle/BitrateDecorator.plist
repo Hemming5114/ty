@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionandscope</key>
+	<string>observerOperation</string>
+	<key>activityHead</key>
+	<string>advancedbuttonstatus</string>
+	<key>adaptiveData</key>
+	<string>immutableStore</string>
+	<key>blocForce</key>
+	<string>easyOption</string>
+	<key>bufferaboutadapter</key>
+	<string>nibTemple</string>
+	<key>imperativeNavigator</key>
+	<string>compositionalManager</string>
+	<key>processmenu</key>
+	<string>fragmentsVisibility</string>
+	<key>shouldFormatCapsule</key>
+	<string>seamlessEmitter</string>
+	<key>shouldUnbindCycle</key>
+	<string>observefactory</string>
+</dict>
+</plist>

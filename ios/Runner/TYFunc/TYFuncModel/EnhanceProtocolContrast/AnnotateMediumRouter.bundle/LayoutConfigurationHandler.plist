@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectskewy</key>
+	<string>diversifiedresponder</string>
+	<key>imperativeState</key>
+	<string>responserate</string>
+	<key>lifecycleContrast</key>
+	<string>canStartProfile</string>
+	<key>resiliencecount</key>
+	<string>keepSession</string>
+	<key>unmountdelegate</key>
+	<string>respectiveSingleton</string>
+	<key>webDuration</key>
+	<string>reusableWidget</string>
+</dict>
+</plist>

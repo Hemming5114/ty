@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableClipper</key>
+	<string>charactertypeduration</string>
+	<key>expandedCoord</key>
+	<string>factoryastemple</string>
+	<key>globalConstraint</key>
+	<string>compilecontainer</string>
+	<key>missionalongcycle</key>
+	<string>gridName</string>
+	<key>shouldReplaceButton</key>
+	<string>stackPosition</string>
+	<key>smallMedia</key>
+	<string>clipResponse</string>
+	<key>toleranceHead</key>
+	<string>fixedOverlay</string>
+</dict>
+</plist>

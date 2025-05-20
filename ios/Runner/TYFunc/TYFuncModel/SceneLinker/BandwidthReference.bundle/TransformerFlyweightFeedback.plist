@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableShape</key>
+	<string>localBuilder</string>
+	<key>shouldCreateHero</key>
+	<string>keepProtocol</string>
+	<key>sophisticatedPosition</key>
+	<string>imperativeCollection</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateful</key>
+	<string>utilAppearance</string>
+	<key>cartesianChannels</key>
+	<string>visibleReduction</string>
+	<key>fixedobject</key>
+	<string>canRebuildMultiplication</string>
+	<key>listeneranalyzer</key>
+	<string>drawerofform</string>
+	<key>requiredHero</key>
+	<string>quantizerPresenter</string>
+	<key>shouldKeepStateless</key>
+	<string>equalizationDelay</string>
+	<key>smallCache</key>
+	<string>sharednotation</string>
+	<key>transitionType</key>
+	<string>fusedDescent</string>
+	<key>transitionactivityresponse</key>
+	<string>shouldAttachLoss</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterOrientation</key>
+	<string>axisRight</string>
+	<key>crucialCombiner</key>
+	<string>disconnectproject</string>
+	<key>methodincludeprocess</key>
+	<string>activeAlert</string>
+	<key>prismaticCustomPaint</key>
+	<string>localSpecifier</string>
+	<key>relationalTentative</key>
+	<string>deliveryBorder</string>
+	<key>shouldFinishRow</key>
+	<string>selectedFlex</string>
+	<key>shouldLayoutWorkflow</key>
+	<string>hyperbolicFinder</string>
+	<key>staticDrawer</key>
+	<string>inactivescheduler</string>
+</dict>
+</plist>

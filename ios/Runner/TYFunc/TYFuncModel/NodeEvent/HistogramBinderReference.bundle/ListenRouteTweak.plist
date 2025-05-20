@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticexpanded</key>
+	<string>restoreSprite</string>
+	<key>associatedgraphic</key>
+	<string>transitionMedia</string>
+	<key>descentPosition</key>
+	<string>replacegrid</string>
+	<key>diversifiedLoss</key>
+	<string>canRenderCheckbox</string>
+	<key>ephemeralPoint</key>
+	<string>masterValidation</string>
+	<key>nativeCompletion</key>
+	<string>trainTool</string>
+	<key>numericalSplitter</key>
+	<string>independentKernel</string>
+	<key>responderOrientation</key>
+	<string>statelessOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocassystem</key>
+	<string>permissiveText</string>
+	<key>documentborder</key>
+	<string>cloneTopic</string>
+	<key>equivalentIndex</key>
+	<string>subsequentFlex</string>
+	<key>interactorvolume</key>
+	<string>allocatorBottom</string>
+	<key>localScroller</key>
+	<string>diversifiedPosition</string>
+	<key>numericalWrapper</key>
+	<string>unbindSensor</string>
+	<key>oldListView</key>
+	<string>smartDelegate</string>
+	<key>parallelStateful</key>
+	<string>usedCombiner</string>
+	<key>shouldhandleequalization</key>
+	<string>shouldFormatConsumer</string>
+	<key>slashobject</key>
+	<string>newestScene</string>
+</dict>
+</plist>

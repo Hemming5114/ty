@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNotation</key>
+	<string>fixedConstraint</string>
+	<key>anchorRight</key>
+	<string>declarativeTabBar</string>
+	<key>crudeascent</key>
+	<string>navigationValue</string>
+	<key>graphanimation</key>
+	<string>fixedTimer</string>
+	<key>multiplicationCount</key>
+	<string>similarEffect</string>
+	<key>numericalAspect</key>
+	<string>shouldSerializeDimension</string>
+	<key>reusablelistener</key>
+	<string>showgraph</string>
+	<key>symmetricObserver</key>
+	<string>encapsulateView</string>
+</dict>
+</plist>

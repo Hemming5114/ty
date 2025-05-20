@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationTag</key>
+	<string>respectiveInfrastructure</string>
+	<key>bindicon</key>
+	<string>sizeamortization</string>
+	<key>decorationedge</key>
+	<string>swiftSpacing</string>
+	<key>latencyCount</key>
+	<string>singleCustomPaint</string>
+	<key>staticInterface</key>
+	<string>configureResponse</string>
+	<key>unactivatedVolume</key>
+	<string>uniformListener</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorDirection</key>
+	<string>standaloneWidget</string>
+	<key>notifierbufferspacing</key>
+	<string>fetchMonster</string>
+	<key>opaquenotificationpadding</key>
+	<string>semanticMetadata</string>
+	<key>shouldPaintAnchor</key>
+	<string>intuitiveDetector</string>
+	<key>sliderframeworkdirection</key>
+	<string>lossInterpreter</string>
+	<key>tickerTop</key>
+	<string>durationphasescale</string>
+</dict>
+</plist>

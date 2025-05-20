@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorymodespacing</key>
+	<string>displayzone</string>
+	<key>firstIntegration</key>
+	<string>activityRotation</string>
+	<key>granularCapsule</key>
+	<string>handleStore</string>
+	<key>immutablecurveposition</key>
+	<string>resolverpatterncoord</string>
+	<key>shouldPauseScaffold</key>
+	<string>shouldStreamCaption</string>
+	<key>standalonePriority</key>
+	<string>newestAspectRatio</string>
+	<key>temporaryRadio</key>
+	<string>integrityAlignment</string>
+	<key>uniqueResolver</key>
+	<string>curveproxyforce</string>
+</dict>
+</plist>

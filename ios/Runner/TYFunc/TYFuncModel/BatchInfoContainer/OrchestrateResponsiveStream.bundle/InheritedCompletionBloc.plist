@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterlayerappearance</key>
+	<string>shouldPushGram</string>
+	<key>criticalstatus</key>
+	<string>tabbarInterpreter</string>
+	<key>disparateResilience</key>
+	<string>shouldPopSymbol</string>
+	<key>inactiveSegment</key>
+	<string>heaplabel</string>
+	<key>shouldEncodeMedia</key>
+	<string>standaloneError</string>
+	<key>shouldRenderCompletion</key>
+	<string>playbacktransparency</string>
+	<key>shouldRenderImage</key>
+	<string>stateForm</string>
+	<key>techniqueRight</key>
+	<string>navigatorcoord</string>
+	<key>tensorCustomPaint</key>
+	<string>boxFunction</string>
+	<key>usedMetrics</key>
+	<string>flexibleInterface</string>
+</dict>
+</plist>

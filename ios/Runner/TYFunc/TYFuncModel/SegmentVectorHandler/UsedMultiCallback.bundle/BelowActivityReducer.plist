@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAcceleration</key>
+	<string>respondRequest</string>
+	<key>groupPadding</key>
+	<string>newestCharacteristic</string>
+	<key>rendererOpacity</key>
+	<string>effectInteraction</string>
+	<key>retainedshader</key>
+	<string>pushskirt</string>
+	<key>shouldObserveMargin</key>
+	<string>schemaSaturation</string>
+	<key>sortedStoryboard</key>
+	<string>crudepermutation</string>
+</dict>
+</plist>

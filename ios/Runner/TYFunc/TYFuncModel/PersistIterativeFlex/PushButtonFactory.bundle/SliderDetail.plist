@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedKernel</key>
+	<string>cupertinoActivity</string>
+	<key>checklistMargin</key>
+	<string>canPauseCollection</string>
+	<key>draggableTicker</key>
+	<string>activateDescription</string>
+	<key>euclideanInstruction</key>
+	<string>arithmeticEquipment</string>
+	<key>inactiveRenderer</key>
+	<string>reducerPosition</string>
+	<key>protectedRadius</key>
+	<string>canDisposeBase</string>
+	<key>resilientscroller</key>
+	<string>integrityForce</string>
+	<key>resizablepresenter</key>
+	<string>gridSystem</string>
+</dict>
+</plist>

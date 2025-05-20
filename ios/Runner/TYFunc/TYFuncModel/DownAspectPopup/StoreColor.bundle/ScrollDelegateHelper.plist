@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerlocation</key>
+	<string>consumerkinddistance</string>
+	<key>customizedTask</key>
+	<string>singleMovement</string>
+	<key>interactiveColumn</key>
+	<string>unmountedAccessory</string>
+	<key>lossSpeed</key>
+	<string>shouldPrepareOverlay</string>
+	<key>shouldEncodeBrush</key>
+	<string>logarithmFlyweight</string>
+	<key>unaryinset</key>
+	<string>adaptiveSine</string>
+</dict>
+</plist>

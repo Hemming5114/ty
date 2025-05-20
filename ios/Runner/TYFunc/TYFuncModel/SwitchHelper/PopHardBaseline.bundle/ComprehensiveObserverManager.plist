@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateThreshold</key>
+	<string>canPopShader</string>
+	<key>independentLoop</key>
+	<string>replicateUseCase</string>
+	<key>intensitytint</key>
+	<string>extendTitle</string>
+	<key>normalallocatorbehavior</key>
+	<string>prevDetail</string>
+	<key>publicAppBar</key>
+	<string>joinerFlags</string>
+	<key>shouldProcessConsumer</key>
+	<string>displayOffset</string>
+	<key>texturecount</key>
+	<string>cursorTier</string>
+</dict>
+</plist>

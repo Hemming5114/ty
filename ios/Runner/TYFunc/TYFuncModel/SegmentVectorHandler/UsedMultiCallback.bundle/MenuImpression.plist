@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableReceiver</key>
+	<string>autoComponent</string>
+	<key>dedicatedNavigation</key>
+	<string>shouldDecodeRadio</string>
+	<key>mainbatchformat</key>
+	<string>criticalAmortization</string>
+	<key>materialController</key>
+	<string>observerStyle</string>
+	<key>responsiveChapter</key>
+	<string>decodeConfiguration</string>
+	<key>shouldBuildNotifier</key>
+	<string>allocatorAcceleration</string>
+	<key>shouldPauseDuration</key>
+	<string>sliderAppearance</string>
+	<key>ternaryrange</key>
+	<string>significantBloc</string>
+	<key>trajectoryshape</key>
+	<string>finderKind</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBoxShadow</key>
+	<string>scrollableChart</string>
+	<key>basicListView</key>
+	<string>projectionComposite</string>
+	<key>customizedmusicfeedback</key>
+	<string>directCapsule</string>
+	<key>granularCharacteristic</key>
+	<string>canMountNib</string>
+	<key>holdgridview</key>
+	<string>hardAnimatedContainer</string>
+	<key>hyperbolicElasticity</key>
+	<string>propagatesingleton</string>
+	<key>ignoredtransition</key>
+	<string>canReplaceCheckbox</string>
+	<key>lostLayout</key>
+	<string>canNavigateMediaQuery</string>
+	<key>methodbeyondcommand</key>
+	<string>lostGift</string>
+	<key>streamdescription</key>
+	<string>cacheBuilder</string>
+</dict>
+</plist>

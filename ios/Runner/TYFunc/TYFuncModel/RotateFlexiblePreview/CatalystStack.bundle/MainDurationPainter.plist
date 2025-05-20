@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRequest</key>
+	<string>shouldPauseSkin</string>
+	<key>documentexceptshape</key>
+	<string>sustainablePolygon</string>
+	<key>graininfo</key>
+	<string>transformBuffer</string>
+	<key>permanentMerger</key>
+	<string>fusedMission</string>
+</dict>
+</plist>

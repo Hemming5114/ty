@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBehavior</key>
+	<string>resizableSpot</string>
+	<key>comprehensiveshader</key>
+	<string>updateGraph</string>
+	<key>escalatemobile</key>
+	<string>shouldCancelTable</string>
+	<key>handlersincevalue</key>
+	<string>equipmentsensor</string>
+	<key>materialstamp</key>
+	<string>shouldDecodeRemainder</string>
+	<key>smartConsumption</key>
+	<string>profileTransformer</string>
+	<key>subscriptionrotation</key>
+	<string>fragmentsDirection</string>
+	<key>typicalException</key>
+	<string>nativeDistinction</string>
+</dict>
+</plist>

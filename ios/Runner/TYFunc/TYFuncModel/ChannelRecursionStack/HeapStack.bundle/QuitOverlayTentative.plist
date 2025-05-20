@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorysingletonlocation</key>
+	<string>multiInstruction</string>
+	<key>concurrentTabBar</key>
+	<string>analyzeState</string>
+	<key>lazyChapter</key>
+	<string>singleAnimator</string>
+	<key>mediasystemcenter</key>
+	<string>permutationInterval</string>
+	<key>retainedMedia</key>
+	<string>shouldParseBorder</string>
+	<key>standaloneAspectRatio</key>
+	<string>blocTop</string>
+</dict>
+</plist>

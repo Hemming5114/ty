@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSpeed</key>
+	<string>invisibletitle</string>
+	<key>cupertinoConsumer</key>
+	<string>shouldDismissDuration</string>
+	<key>dispatcherRotation</key>
+	<string>defaultconsumer</string>
+	<key>heaptag</key>
+	<string>shouldStopMargin</string>
+	<key>largetexture</key>
+	<string>shouldPopVariant</string>
+	<key>meshTint</key>
+	<string>selectedChallenge</string>
+	<key>requiredChart</key>
+	<string>displayableternarydepth</string>
+	<key>resizableEvaluation</key>
+	<string>interactorState</string>
+	<key>showprotocol</key>
+	<string>animatedShape</string>
+</dict>
+</plist>

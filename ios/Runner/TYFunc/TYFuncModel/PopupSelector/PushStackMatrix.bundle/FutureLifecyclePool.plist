@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousmatrixvisibility</key>
+	<string>shouldPresentCupertino</string>
+	<key>denseCurve</key>
+	<string>rendercupertino</string>
+	<key>permanentIsolate</key>
+	<string>canPaintAlpha</string>
+	<key>sessionaroundlayer</key>
+	<string>receiveLayer</string>
+	<key>shouldPaintSizedBox</key>
+	<string>recursionTheme</string>
+	<key>variantedge</key>
+	<string>stopCoordinator</string>
+	<key>visibleGestureDetector</key>
+	<string>iterativeRow</string>
+</dict>
+</plist>

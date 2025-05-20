@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateframe</key>
+	<string>shouldFinishInteger</string>
+	<key>disabledDrawer</key>
+	<string>reducerObserver</string>
+	<key>drawspot</key>
+	<string>mainStoryboard</string>
+	<key>optionreliability</key>
+	<string>pushentity</string>
+	<key>primaryicontype</key>
+	<string>sortedPermutation</string>
+	<key>sequentialObject</key>
+	<string>largeGroup</string>
+	<key>symmetricStamp</key>
+	<string>canShowPlate</string>
+</dict>
+</plist>

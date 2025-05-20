@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorforce</key>
+	<string>mediaorigin</string>
+	<key>colorLeft</key>
+	<string>unsortedcupertino</string>
+	<key>customizedCubit</key>
+	<string>profileTitle</string>
+	<key>directlyMechanism</key>
+	<string>referenceShade</string>
+	<key>newestError</key>
+	<string>extendUseCase</string>
+</dict>
+</plist>

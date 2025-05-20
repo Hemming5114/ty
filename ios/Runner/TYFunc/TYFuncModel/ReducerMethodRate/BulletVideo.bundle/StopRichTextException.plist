@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLeft</key>
+	<string>oldimpact</string>
+	<key>firstResponder</key>
+	<string>informationacceleration</string>
+	<key>renameposition</key>
+	<string>cartesianInjection</string>
+	<key>shouldContinueShader</key>
+	<string>dynamicEfficiency</string>
+	<key>shouldHandleThread</key>
+	<string>typicalCheckbox</string>
+	<key>shouldLayoutBox</key>
+	<string>fusedZone</string>
+	<key>temporarySubpixel</key>
+	<string>symmetricTolerance</string>
+</dict>
+</plist>

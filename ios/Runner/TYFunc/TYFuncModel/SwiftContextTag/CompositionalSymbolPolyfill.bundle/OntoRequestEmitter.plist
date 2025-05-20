@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderstrategydirection</key>
+	<string>receiverBottom</string>
+	<key>compilebloc</key>
+	<string>combinerBorder</string>
+	<key>immutableMedia</key>
+	<string>vectorHue</string>
+	<key>processmetadata</key>
+	<string>shouldlayoutgridview</string>
+	<key>subsequentDescent</key>
+	<string>limitGroup</string>
+	<key>taxonomyBound</key>
+	<string>usedView</string>
+	<key>trajectorySaturation</key>
+	<string>shouldPaintPlate</string>
+</dict>
+</plist>

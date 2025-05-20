@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeDropdownButton</key>
+	<string>validateController</string>
+	<key>discardedTransformer</key>
+	<string>sinkinbuffer</string>
+	<key>numericalMenu</key>
+	<string>restartChallenge</string>
+	<key>priorTask</key>
+	<string>resumeObserver</string>
+	<key>routerorigin</key>
+	<string>poolanimatedcontainer</string>
+	<key>searchcontainer</key>
+	<string>intermediatetexture</string>
+	<key>shouldDispatchFlex</key>
+	<string>configureAsync</string>
+	<key>shouldUpdateMovement</key>
+	<string>newestRadius</string>
+	<key>titleshapebottom</key>
+	<string>scaleatshape</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynclocation</key>
+	<string>adjustResult</string>
+	<key>axisforscope</key>
+	<string>paddingtype</string>
+	<key>deferredpriority</key>
+	<string>staticPriority</string>
+	<key>euclideanVector</key>
+	<string>shouldKeepTask</string>
+	<key>granularSymbol</key>
+	<string>parseInjection</string>
+	<key>operationRate</key>
+	<string>contractionshade</string>
+</dict>
+</plist>

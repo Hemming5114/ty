@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectnearframework</key>
+	<string>baseParam</string>
+	<key>curveBehavior</key>
+	<string>gestureBehavior</string>
+	<key>numericalNotifier</key>
+	<string>overlayParameter</string>
+	<key>scalabilityTheme</key>
+	<string>permissiveComposition</string>
+</dict>
+</plist>

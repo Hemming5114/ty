@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopChallenge</key>
+	<string>scrollableSubpixel</string>
+	<key>lostLog</key>
+	<string>presenterbehavior</string>
+	<key>newestCollection</key>
+	<string>mapperLeft</string>
+	<key>nextListView</key>
+	<string>canFetchStep</string>
+	<key>nextNotification</key>
+	<string>canResumeCatalyst</string>
+	<key>resilienceEdge</key>
+	<string>diffableMonster</string>
+	<key>resumeloss</key>
+	<string>canUnmountDecoration</string>
+	<key>shouldUnmountedMomentum</key>
+	<string>seamlessTrigger</string>
+</dict>
+</plist>

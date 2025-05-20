@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionMomentum</key>
+	<string>significantChannels</string>
+	<key>filterValidation</key>
+	<string>shouldStopBloc</string>
+	<key>firstMenu</key>
+	<string>metadataTail</string>
+	<key>keepqueue</key>
+	<string>loadmargin</string>
+	<key>permanentSpecifier</key>
+	<string>displaySingleton</string>
+</dict>
+</plist>

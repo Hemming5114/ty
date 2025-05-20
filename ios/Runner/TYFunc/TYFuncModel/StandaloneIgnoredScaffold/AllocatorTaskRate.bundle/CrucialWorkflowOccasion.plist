@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivemetrics</key>
+	<string>alertforce</string>
+	<key>extensioninteraction</key>
+	<string>disabledTransformer</string>
+	<key>positionedHue</key>
+	<string>litecachevalidation</string>
+	<key>shouldDispatchReference</key>
+	<string>animatePageView</string>
+	<key>subscriptionversusmediator</key>
+	<string>eagerData</string>
+</dict>
+</plist>

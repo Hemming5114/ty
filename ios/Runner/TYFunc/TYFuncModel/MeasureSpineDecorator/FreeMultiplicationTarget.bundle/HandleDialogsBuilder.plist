@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioForce</key>
+	<string>asynchronousModel</string>
+	<key>clusterOpacity</key>
+	<string>completionEnvironment</string>
+	<key>cycleDuration</key>
+	<string>accelerateError</string>
+	<key>elasticSegue</key>
+	<string>largeSubscriber</string>
+	<key>interactiveRect</key>
+	<string>accessoryCenter</string>
+	<key>interactorresponse</key>
+	<string>threadFormat</string>
+	<key>shapeRotation</key>
+	<string>emitWorkflow</string>
+	<key>storyboardTransparency</key>
+	<string>activeShader</string>
+</dict>
+</plist>

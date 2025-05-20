@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTimeline</key>
+	<string>operationskewx</string>
+	<key>crudeLifecycle</key>
+	<string>shouldConnectCycle</string>
+	<key>currentObserver</key>
+	<string>canYieldTextField</string>
+	<key>fillproject</key>
+	<string>missedAperture</string>
+	<key>granularOption</key>
+	<string>mountedhash</string>
+	<key>granularQuaternion</key>
+	<string>spineProxy</string>
+	<key>intermediateProvider</key>
+	<string>visibleSession</string>
+	<key>materializerVelocity</key>
+	<string>textureDistance</string>
+	<key>reactiveDelegate</key>
+	<string>inheritedBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativereducer</key>
+	<string>rectifyCallback</string>
+	<key>flexibleReducer</key>
+	<string>standaloneOverlay</string>
+	<key>reactiveDescription</key>
+	<string>shouldPaintSlash</string>
+	<key>scenarioLeft</key>
+	<string>deliveryRight</string>
+	<key>shouldReplaceIndicator</key>
+	<string>sineMomentum</string>
+	<key>stampVelocity</key>
+	<string>missionOperation</string>
+	<key>ternaryName</key>
+	<string>similarConfiguration</string>
+	<key>textfieldCount</key>
+	<string>buildRoute</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationShape</key>
+	<string>linkerBrightness</string>
+	<key>denseBox</key>
+	<string>ascentType</string>
+	<key>loopTail</key>
+	<string>hierarchicalResponse</string>
+	<key>normalDescription</key>
+	<string>canBuildBaseline</string>
+	<key>radiohue</key>
+	<string>immediateBase</string>
+</dict>
+</plist>

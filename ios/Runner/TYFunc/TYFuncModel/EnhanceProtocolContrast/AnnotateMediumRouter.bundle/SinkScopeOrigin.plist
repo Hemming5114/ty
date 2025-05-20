@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleraterow</key>
+	<string>storyboardBrightness</string>
+	<key>baseRotation</key>
+	<string>missedmusicposition</string>
+	<key>customizedGrayscale</key>
+	<string>shouldDismissRichText</string>
+	<key>customizedManager</key>
+	<string>notifyPageView</string>
+	<key>diffableAspect</key>
+	<string>buttonTop</string>
+	<key>histogramsearcher</key>
+	<string>tickerscopecenter</string>
+	<key>intermediateQueue</key>
+	<string>metadataNumber</string>
+	<key>rectMomentum</key>
+	<string>oldMediaQuery</string>
+	<key>skipcurve</key>
+	<string>shouldSubscribeAxis</string>
+	<key>touchdata</key>
+	<string>presentLayout</string>
+</dict>
+</plist>

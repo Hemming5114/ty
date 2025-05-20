@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianhandler</key>
+	<string>statelessstorage</string>
+	<key>cellRate</key>
+	<string>writeEntity</string>
+	<key>oldCharacter</key>
+	<string>resultlayeracceleration</string>
+	<key>sineresponder</key>
+	<string>shouldLoadTangent</string>
+	<key>sinkresponder</key>
+	<string>animatedVector</string>
+</dict>
+</plist>

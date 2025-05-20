@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardTheme</key>
+	<string>accessoryForm</string>
+	<key>commonBitrate</key>
+	<string>notificationTail</string>
+	<key>customizedView</key>
+	<string>publisherAlignment</string>
+	<key>materializedependency</key>
+	<string>hardExtension</string>
+	<key>reactiveExponent</key>
+	<string>shouldContinueMusic</string>
+	<key>samplePressure</key>
+	<string>descriptionVariable</string>
+	<key>smallInfo</key>
+	<string>lossSkewX</string>
+	<key>standaloneAppBar</key>
+	<string>extendRoute</string>
+	<key>taxonomyKind</key>
+	<string>decodeSample</string>
+	<key>typicalReduction</key>
+	<string>multiplicationSkewX</string>
+</dict>
+</plist>

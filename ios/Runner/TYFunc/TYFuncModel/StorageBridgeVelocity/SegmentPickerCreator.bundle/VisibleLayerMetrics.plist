@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSymbol</key>
+	<string>relationalRectangle</string>
+	<key>mediocreDisclaimer</key>
+	<string>calculateTask</string>
+	<key>mediumAudio</key>
+	<string>newestBinary</string>
+	<key>scrollableDependency</key>
+	<string>seekTexture</string>
+	<key>statefulGestureDetector</key>
+	<string>navigationCycle</string>
+</dict>
+</plist>

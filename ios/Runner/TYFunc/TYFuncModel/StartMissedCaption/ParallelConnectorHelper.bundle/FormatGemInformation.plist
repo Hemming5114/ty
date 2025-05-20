@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTime</key>
+	<string>canRenderLayout</string>
+	<key>eagercubit</key>
+	<string>requeststyle</string>
+	<key>firstCube</key>
+	<string>canYieldUnary</string>
+	<key>imperativeCupertino</key>
+	<string>gestureMediator</string>
+	<key>methodalignment</key>
+	<string>declarativeTechnique</string>
+	<key>persistentInterface</key>
+	<string>hasoptimizer</string>
+	<key>shouldRebuildMomentum</key>
+	<string>shouldCacheRole</string>
+</dict>
+</plist>

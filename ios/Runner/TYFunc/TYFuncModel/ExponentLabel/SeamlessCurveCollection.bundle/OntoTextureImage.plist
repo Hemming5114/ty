@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectiontext</key>
+	<string>canFormatLayout</string>
+	<key>compositionbeyondvalue</key>
+	<string>baselinesize</string>
+	<key>intermediateMember</key>
+	<string>discardedIntensity</string>
+	<key>limitsensor</key>
+	<string>themeOperation</string>
+	<key>playbackRotation</key>
+	<string>clusterBound</string>
+	<key>segmentmediatorshape</key>
+	<string>crudeBloc</string>
+	<key>unactivatedAnimation</key>
+	<string>specifygesturedetectorcolor</string>
+</dict>
+</plist>

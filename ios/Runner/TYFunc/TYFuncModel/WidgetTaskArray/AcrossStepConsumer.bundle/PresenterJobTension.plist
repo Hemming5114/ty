@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailFrequency</key>
+	<string>shouldDeserializeChecklist</string>
+	<key>dropdownbuttonsingletontail</key>
+	<string>gemCommand</string>
+	<key>entropyvaluecoord</key>
+	<string>loaderDuration</string>
+	<key>giftvalidation</key>
+	<string>mutableInfo</string>
+	<key>intuitivemusiccontrast</key>
+	<string>subscribemodel</string>
+	<key>reliabilityStyle</key>
+	<string>nativePlate</string>
+	<key>requiredPicker</key>
+	<string>blocPosition</string>
+	<key>shouldDeserializePlate</key>
+	<string>polygonduration</string>
+</dict>
+</plist>

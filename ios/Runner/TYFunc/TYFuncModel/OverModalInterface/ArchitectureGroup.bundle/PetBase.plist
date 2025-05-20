@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleprovider</key>
+	<string>cosinecenter</string>
+	<key>addsink</key>
+	<string>shouldShowLabel</string>
+	<key>asynchronousPlayback</key>
+	<string>processBase</string>
+	<key>dialogsHead</key>
+	<string>shouldPushMusic</string>
+	<key>equivalentTop</key>
+	<string>batchStructure</string>
+	<key>fuseddrawersaturation</key>
+	<string>shouldRebuildTool</string>
+	<key>graindensity</key>
+	<string>canValidateScreen</string>
+	<key>lifecyclemode</key>
+	<string>offsetbuffer</string>
+	<key>mobileSubpixel</key>
+	<string>canUnbindPainter</string>
+	<key>shouldTrainCosine</key>
+	<string>sequentialCard</string>
+</dict>
+</plist>

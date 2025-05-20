@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicChooser</key>
+	<string>replaceProfile</string>
+	<key>customizedGesture</key>
+	<string>canEncodeEntropy</string>
+	<key>intensitythanactivity</key>
+	<string>fixedChannel</string>
+	<key>isolateelement</key>
+	<string>newestDelivery</string>
+	<key>projectionBehavior</key>
+	<string>protocolComposite</string>
+	<key>singleTransition</key>
+	<string>beginnerWorkflow</string>
+	<key>unmountedsink</key>
+	<string>sanitizeAction</string>
+</dict>
+</plist>

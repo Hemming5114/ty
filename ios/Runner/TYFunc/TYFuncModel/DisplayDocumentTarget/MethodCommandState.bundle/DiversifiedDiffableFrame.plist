@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addpreview</key>
+	<string>dismissChecklist</string>
+	<key>decorationgrain</key>
+	<string>shouldListenVariant</string>
+	<key>greatasync</key>
+	<string>transitioninterval</string>
+	<key>indicatorMomentum</key>
+	<string>keyScroll</string>
+	<key>projectLocation</key>
+	<string>explicitIndicator</string>
+	<key>robusttabviewduration</key>
+	<string>eagerGate</string>
+	<key>rowBound</key>
+	<string>otherVector</string>
+</dict>
+</plist>

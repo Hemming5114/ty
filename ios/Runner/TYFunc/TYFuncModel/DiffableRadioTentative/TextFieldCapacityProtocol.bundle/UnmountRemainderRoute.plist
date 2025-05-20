@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSkewY</key>
+	<string>spinFactory</string>
+	<key>groupPosition</key>
+	<string>firstfragmentstate</string>
+	<key>hardSpot</key>
+	<string>conformNode</string>
+	<key>previewLeft</key>
+	<string>listenSizedBox</string>
+	<key>rolelocation</key>
+	<string>shouldResumeComposition</string>
+	<key>scaleRotation</key>
+	<string>respondResource</string>
+	<key>standaloneException</key>
+	<string>prismaticSign</string>
+</dict>
+</plist>

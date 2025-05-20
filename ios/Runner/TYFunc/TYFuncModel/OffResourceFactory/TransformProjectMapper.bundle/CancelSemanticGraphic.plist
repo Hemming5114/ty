@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileThroughput</key>
+	<string>connectorScale</string>
+	<key>shouldSubscribeModal</key>
+	<string>rectObserver</string>
+	<key>sortedButton</key>
+	<string>groupRight</string>
+	<key>symmetricCompletion</key>
+	<string>crudeSymbol</string>
+	<key>wrapperSaturation</key>
+	<string>originalGraph</string>
+</dict>
+</plist>

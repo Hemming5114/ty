@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBullet</key>
+	<string>nativeItem</string>
+	<key>bulletimpression</key>
+	<string>canSerializeUsage</string>
+	<key>dedicatedChapter</key>
+	<string>pushBehavior</string>
+	<key>directlyThreshold</key>
+	<string>liteButton</string>
+	<key>finderDelay</key>
+	<string>shouldBindNotification</string>
+	<key>gestureTension</key>
+	<string>formatCompletion</string>
+	<key>materialTransformer</key>
+	<string>largeLayer</string>
+	<key>permissiveprovider</key>
+	<string>pageviewTheme</string>
+	<key>shouldRebuildTextField</key>
+	<string>statefullikemethod</string>
+</dict>
+</plist>

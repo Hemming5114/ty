@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsanimation</key>
+	<string>shouldEmitCurve</string>
+	<key>geometricSegue</key>
+	<string>cupertinoVisibility</string>
+	<key>granulartaskstate</key>
+	<string>canTrainStream</string>
+	<key>gridInterval</key>
+	<string>startGraphic</string>
+	<key>keyLifecycle</key>
+	<string>associatedBase</string>
+	<key>navigatoranalyzer</key>
+	<string>shouldSetStateCustomPaint</string>
+	<key>resizableVertex</key>
+	<string>shouldContinueConstraint</string>
+	<key>resizableaccessory</key>
+	<string>accessibleTraversal</string>
+	<key>widgetBehavior</key>
+	<string>symmetricConvolution</string>
+	<key>zoneindex</key>
+	<string>reducervisible</string>
+</dict>
+</plist>

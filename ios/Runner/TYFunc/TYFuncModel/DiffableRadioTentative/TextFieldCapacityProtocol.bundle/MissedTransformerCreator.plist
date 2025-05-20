@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCharacteristic</key>
+	<string>readBuilder</string>
+	<key>explicitSubscription</key>
+	<string>dropoutconsumer</string>
+	<key>granularScenario</key>
+	<string>cupertinoValidation</string>
+	<key>ignoredPicker</key>
+	<string>flexibleStroke</string>
+	<key>mobileamongactivity</key>
+	<string>elasticGridView</string>
+	<key>permissiveCoordinator</key>
+	<string>compositionalPresenter</string>
+	<key>reducerVisibility</key>
+	<string>canFinishAppBar</string>
+	<key>scrollableProjection</key>
+	<string>textfieldVar</string>
+</dict>
+</plist>

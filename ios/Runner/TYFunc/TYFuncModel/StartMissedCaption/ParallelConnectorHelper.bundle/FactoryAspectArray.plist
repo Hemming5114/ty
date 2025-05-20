@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityvisible</key>
+	<string>shouldPaintText</string>
+	<key>completerMode</key>
+	<string>sinkMargin</string>
+	<key>finderTension</key>
+	<string>characterObserver</string>
+	<key>ignoredWidget</key>
+	<string>canStartRow</string>
+	<key>inheritedSelector</key>
+	<string>independentCosine</string>
+	<key>largeTopic</key>
+	<string>stepAdapter</string>
+	<key>mobileCursor</key>
+	<string>dialogsLeft</string>
+	<key>rapidModulus</key>
+	<string>vectorizeWidget</string>
+	<key>smartTaxonomy</key>
+	<string>shouldRebuildPriority</string>
+</dict>
+</plist>

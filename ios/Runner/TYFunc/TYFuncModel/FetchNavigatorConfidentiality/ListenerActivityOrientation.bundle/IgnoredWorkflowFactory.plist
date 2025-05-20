@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customConverter</key>
+	<string>navigateDecoration</string>
+	<key>cycleDensity</key>
+	<string>scenarioShape</string>
+	<key>difficultPositioned</key>
+	<string>shouldKeepStack</string>
+	<key>equipmentparticle</key>
+	<string>typicalSlash</string>
+	<key>equivalentStyle</key>
+	<string>canPopSlider</string>
+	<key>keepreducer</key>
+	<string>observeSubpixel</string>
+	<key>mutablePlayback</key>
+	<string>arithmeticstateful</string>
+	<key>stackInset</key>
+	<string>skipContraction</string>
+</dict>
+</plist>

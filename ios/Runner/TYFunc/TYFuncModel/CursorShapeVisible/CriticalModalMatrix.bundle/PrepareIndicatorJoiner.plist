@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildername</key>
+	<string>attachLoss</string>
+	<key>diffablerange</key>
+	<string>commonResolver</string>
+	<key>grainFeedback</key>
+	<string>serializeCanvas</string>
+	<key>rectStatus</key>
+	<string>canSetStateStateful</string>
+</dict>
+</plist>

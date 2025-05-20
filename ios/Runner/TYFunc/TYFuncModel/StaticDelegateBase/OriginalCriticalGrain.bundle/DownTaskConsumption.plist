@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCompletion</key>
+	<string>shouldAnimateScale</string>
+	<key>aspectratioandfacade</key>
+	<string>endFuture</string>
+	<key>asynchronousPermutation</key>
+	<string>basicScalability</string>
+	<key>dataValidation</key>
+	<string>alertComposite</string>
+	<key>dispatchsingleton</key>
+	<string>crudeVertex</string>
+	<key>eventType</key>
+	<string>durationLevel</string>
+	<key>gramSaturation</key>
+	<string>canFormatCache</string>
+	<key>projectionprogressbar</key>
+	<string>appbarStrategy</string>
+	<key>sequentialController</key>
+	<string>shouldDispatchSpine</string>
+	<key>sustainableReliability</key>
+	<string>reusableBinder</string>
+</dict>
+</plist>

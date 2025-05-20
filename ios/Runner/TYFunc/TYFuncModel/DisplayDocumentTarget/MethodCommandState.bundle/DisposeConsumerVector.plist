@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAccessory</key>
+	<string>positionFramework</string>
+	<key>buildcache</key>
+	<string>backwardCard</string>
+	<key>deliveryRate</key>
+	<string>offsetTail</string>
+	<key>liteCaption</key>
+	<string>interfaceMode</string>
+	<key>mainTimer</key>
+	<string>localFormat</string>
+	<key>persistentResponse</key>
+	<string>notifymetadata</string>
+	<key>synchronouscanvaspadding</key>
+	<string>cosinelayerspeed</string>
+	<key>touchSkewX</key>
+	<string>instructionTag</string>
+</dict>
+</plist>

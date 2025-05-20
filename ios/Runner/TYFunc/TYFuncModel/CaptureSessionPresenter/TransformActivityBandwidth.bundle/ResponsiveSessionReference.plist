@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCallback</key>
+	<string>tweenOffset</string>
+	<key>animatedcontainerasync</key>
+	<string>toolasset</string>
+	<key>buffercombiner</key>
+	<string>composableDuration</string>
+	<key>connectorduration</key>
+	<string>processorDepth</string>
+	<key>imperativeRequest</key>
+	<string>canValidatePoint</string>
+	<key>pointfunctionappearance</key>
+	<string>routerskewy</string>
+	<key>prevThroughput</key>
+	<string>routerfrequency</string>
+	<key>shouldUnmountDocument</key>
+	<string>cruciallayoutdistance</string>
+</dict>
+</plist>

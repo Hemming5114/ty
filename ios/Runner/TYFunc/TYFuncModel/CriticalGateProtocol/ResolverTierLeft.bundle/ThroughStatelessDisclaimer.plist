@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionHandler</key>
+	<string>standaloneReference</string>
+	<key>checklistInterval</key>
+	<string>functionalMetrics</string>
+	<key>deserializechannel</key>
+	<string>startSlider</string>
+	<key>discardedElasticity</key>
+	<string>advancedNode</string>
+	<key>elasticanchor</key>
+	<string>temporaryAwait</string>
+	<key>imageformat</key>
+	<string>compositionalLoader</string>
+	<key>interactorInterval</key>
+	<string>regulatelabel</string>
+	<key>prismaticSize</key>
+	<string>cleanResult</string>
+	<key>publicClipper</key>
+	<string>menuthroughtype</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSign</key>
+	<string>receiveTitle</string>
+	<key>greattraversal</key>
+	<string>canTrainDelegate</string>
+	<key>shouldCancelPriority</key>
+	<string>emitterType</string>
+	<key>shouldNotifyCursor</key>
+	<string>intuitiveprojection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTolerance</key>
+	<string>shouldPopArithmetic</string>
+	<key>localFragment</key>
+	<string>shouldConnectBinary</string>
+	<key>nativemodal</key>
+	<string>sampleOperation</string>
+	<key>partitionresource</key>
+	<string>swiftFunction</string>
+	<key>resourceBehavior</key>
+	<string>arithmeticdespitestrategy</string>
+	<key>semanticSingleton</key>
+	<string>inheritedQuaternion</string>
+	<key>uniqueSound</key>
+	<string>statusVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectinsidetier</key>
+	<string>compareDuration</string>
+	<key>criticalVariant</key>
+	<string>marginVar</string>
+	<key>desktopModal</key>
+	<string>searchgraphic</string>
+	<key>directProvider</key>
+	<string>permanentTrajectory</string>
+	<key>publicFrame</key>
+	<string>heapPadding</string>
+	<key>sortedmember</key>
+	<string>materializerTop</string>
+</dict>
+</plist>

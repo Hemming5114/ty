@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerScalability</key>
+	<string>streamstorage</string>
+	<key>delegateindex</key>
+	<string>disconnectAlert</string>
+	<key>hasDescriptor</key>
+	<string>limitModel</string>
+	<key>materialMapper</key>
+	<string>splitterValidation</string>
+	<key>throughputSkewX</key>
+	<string>adaptiveinterface</string>
+	<key>utiloradapter</key>
+	<string>materialrestriction</string>
+</dict>
+</plist>

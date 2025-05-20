@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCombiner</key>
+	<string>sortedSlash</string>
+	<key>inkwelldepth</key>
+	<string>clusterRight</string>
+	<key>interactiveLabel</key>
+	<string>activatedDrawer</string>
+	<key>isolateOrientation</key>
+	<string>canDisconnectSpine</string>
+	<key>iterativeChallenge</key>
+	<string>flexibleInteraction</string>
+	<key>latencyAppearance</key>
+	<string>immediateframe</string>
+	<key>primaryAnimatedContainer</key>
+	<string>servicedespitestate</string>
+	<key>resilientActivity</key>
+	<string>priorElasticity</string>
+	<key>sineequivalent</key>
+	<string>zoneMediator</string>
+</dict>
+</plist>

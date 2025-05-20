@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedStorage</key>
+	<string>seamlessRow</string>
+	<key>functionalConfidentiality</key>
+	<string>loadIcon</string>
+	<key>protectedTouch</key>
+	<string>accordionAnimation</string>
+	<key>provisionacceleration</key>
+	<string>pushkernel</string>
+	<key>pushalpha</key>
+	<string>columnwithoutform</string>
+	<key>shouldStartScreen</key>
+	<string>opaqueMap</string>
+	<key>substantialTime</key>
+	<string>animatedcontainerHead</string>
+	<key>sustainableProfile</key>
+	<string>dismissObserver</string>
+</dict>
+</plist>

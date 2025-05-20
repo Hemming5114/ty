@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTabBar</key>
+	<string>introspectBuffer</string>
+	<key>autoLoader</key>
+	<string>reactivereducer</string>
+	<key>commonNode</key>
+	<string>mapObserver</string>
+	<key>greatSlash</key>
+	<string>batchProxy</string>
+	<key>intermediateReference</key>
+	<string>imperativeHash</string>
+	<key>memberCount</key>
+	<string>selectedresource</string>
+	<key>statelessConfiguration</key>
+	<string>serializeMediaQuery</string>
+	<key>taskborder</key>
+	<string>chapterduration</string>
+</dict>
+</plist>

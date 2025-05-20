@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushindex</key>
+	<string>oldBuilder</string>
+	<key>chartformat</key>
+	<string>signaturevelocity</string>
+	<key>draggableStep</key>
+	<string>deserializeBaseline</string>
+	<key>permanentThread</key>
+	<string>firstModal</string>
+	<key>resiliencebehavior</key>
+	<string>largeProvision</string>
+	<key>sequentialModule</key>
+	<string>publicContrast</string>
+	<key>shouldStartResource</key>
+	<string>exceptionLevel</string>
+</dict>
+</plist>

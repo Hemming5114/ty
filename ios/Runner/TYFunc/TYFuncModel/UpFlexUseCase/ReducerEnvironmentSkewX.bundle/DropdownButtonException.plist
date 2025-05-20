@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBottom</key>
+	<string>interpolateButton</string>
+	<key>displayableExtension</key>
+	<string>shouldPresentBatch</string>
+	<key>ephemeralStep</key>
+	<string>interactiveMechanism</string>
+	<key>lostProcessor</key>
+	<string>publicTexture</string>
+	<key>mobileFuture</key>
+	<string>shouldDetachMember</string>
+	<key>multiAnimatedContainer</key>
+	<string>graphMode</string>
+	<key>nextEffect</key>
+	<string>deferredDescent</string>
+	<key>shouldContinueMonster</key>
+	<string>localRow</string>
+	<key>spritetierduration</key>
+	<string>canNotifyBatch</string>
+	<key>standaloneCreator</key>
+	<string>tabbarStatus</string>
+</dict>
+</plist>

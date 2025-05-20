@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellemitter</key>
+	<string>canRestartNotification</string>
+	<key>gesturedetectorSpeed</key>
+	<string>scrollableskirt</string>
+	<key>interactivetexture</key>
+	<string>shouldAttachAnimation</string>
+	<key>shouldEndClipper</key>
+	<string>sharedInfo</string>
+	<key>shouldHandleCheckbox</key>
+	<string>largeBuilder</string>
+</dict>
+</plist>

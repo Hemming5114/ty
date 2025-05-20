@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentEdge</key>
+	<string>searchHash</string>
+	<key>finderName</key>
+	<string>animationshape</string>
+	<key>missedherospeed</key>
+	<string>shouldPopRoute</string>
+	<key>modalEdge</key>
+	<string>shouldFinishFuture</string>
+	<key>priorityVisible</key>
+	<string>gestureTransparency</string>
+</dict>
+</plist>

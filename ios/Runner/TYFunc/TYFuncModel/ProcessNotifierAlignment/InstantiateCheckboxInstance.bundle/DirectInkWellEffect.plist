@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralmaterialtype</key>
+	<string>intuitivePicker</string>
+	<key>protectedRole</key>
+	<string>shouldStartShader</string>
+	<key>shouldUnbindTransition</key>
+	<string>behaviorDirection</string>
+	<key>tasktype</key>
+	<string>canSaveProtocol</string>
+	<key>unmountederror</key>
+	<string>lastcontroller</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMap</key>
+	<string>shouldSerializeBinary</string>
+	<key>functionalCreator</key>
+	<string>canHandleCustomPaint</string>
+	<key>largeInteraction</key>
+	<string>isOverlay</string>
+	<key>profileInterval</key>
+	<string>positionedSkewY</string>
+	<key>relationalInterpolation</key>
+	<string>canRestartCompletion</string>
+	<key>repositorylayerinset</key>
+	<string>renderAnchor</string>
+	<key>shouldMountLabel</key>
+	<string>shouldObserveGradient</string>
+	<key>spotborder</key>
+	<string>buttonState</string>
+	<key>storageInset</key>
+	<string>titleColor</string>
+</dict>
+</plist>

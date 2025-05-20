@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureRotation</key>
+	<string>globalTransformer</string>
+	<key>flexibleSorter</key>
+	<string>impactVelocity</string>
+	<key>servicetiersaturation</key>
+	<string>canDispatchSizedBox</string>
+	<key>shouldConnectText</key>
+	<string>shouldLoadCursor</string>
+	<key>shouldDisposeMedia</key>
+	<string>completerCommand</string>
+	<key>shouldStopLabel</key>
+	<string>shouldSaveGram</string>
+	<key>signatureOrigin</key>
+	<string>customTimeline</string>
+</dict>
+</plist>

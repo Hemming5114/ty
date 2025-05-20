@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedBound</key>
+	<string>shouldRestartScale</string>
+	<key>ignoredPadding</key>
+	<string>prismatictransitionname</string>
+	<key>impressionRight</key>
+	<string>activeTechnique</string>
+	<key>moduleScale</key>
+	<string>smartdropdownbutton</string>
+	<key>publicCluster</key>
+	<string>shouldLayoutProject</string>
+	<key>shouldUnmountedMap</key>
+	<string>switchformhue</string>
+</dict>
+</plist>

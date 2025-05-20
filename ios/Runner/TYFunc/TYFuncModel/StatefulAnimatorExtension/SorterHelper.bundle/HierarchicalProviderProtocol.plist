@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMediaQuery</key>
+	<string>cardVisitor</string>
+	<key>aspectcolor</key>
+	<string>singletonstate</string>
+	<key>currentPolyfill</key>
+	<string>taxonomyTag</string>
+	<key>firstStateless</key>
+	<string>parseZone</string>
+	<key>greatspineskewx</key>
+	<string>liteLayout</string>
+	<key>heapoperation</key>
+	<string>multiChooser</string>
+	<key>occasionPosition</key>
+	<string>columnProcess</string>
+	<key>resizabletransformer</key>
+	<string>multiLayout</string>
+	<key>shouldDetachProjection</key>
+	<string>topicTransparency</string>
+	<key>shouldMountedAspect</key>
+	<string>validateDocument</string>
+</dict>
+</plist>

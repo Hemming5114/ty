@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatecycle</key>
+	<string>yieldAnimation</string>
+	<key>inflatemission</key>
+	<string>grayscaleStatus</string>
+	<key>permissiveHistogram</key>
+	<string>playChapter</string>
+	<key>shouldParseEffect</key>
+	<string>startText</string>
+	<key>shoulddismissrow</key>
+	<string>aggregateexpanded</string>
+	<key>tableVisible</key>
+	<string>integrationHead</string>
+	<key>tappableObject</key>
+	<string>canEndExponent</string>
+</dict>
+</plist>

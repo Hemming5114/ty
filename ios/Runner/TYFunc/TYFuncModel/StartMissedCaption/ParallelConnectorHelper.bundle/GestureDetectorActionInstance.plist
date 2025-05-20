@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledPager</key>
+	<string>beginnerNavigator</string>
+	<key>oldEmitter</key>
+	<string>canResumeGradient</string>
+	<key>shouldRestartOverlay</key>
+	<string>uniformPromise</string>
+	<key>similarReducer</key>
+	<string>canInflateClipper</string>
+	<key>typicalScroll</key>
+	<string>transpileUseCase</string>
+</dict>
+</plist>

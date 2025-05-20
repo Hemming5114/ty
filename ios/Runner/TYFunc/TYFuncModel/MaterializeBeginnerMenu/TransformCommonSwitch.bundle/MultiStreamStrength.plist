@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constrainttheme</key>
+	<string>standaloneAperture</string>
+	<key>materialGradient</key>
+	<string>transformLoss</string>
+	<key>oncupertinochanged</key>
+	<string>immutableImage</string>
+	<key>semanticmanageralignment</key>
+	<string>canNotifySpot</string>
+	<key>shouldRenderSkirt</key>
+	<string>connectDescription</string>
+	<key>subsequentdialogs</key>
+	<string>canFinishStep</string>
+</dict>
+</plist>

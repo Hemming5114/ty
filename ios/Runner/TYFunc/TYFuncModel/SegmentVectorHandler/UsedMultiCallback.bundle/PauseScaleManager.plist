@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderscroller</key>
+	<string>featureState</string>
+	<key>callbackPosition</key>
+	<string>responseFlyweight</string>
+	<key>capacitiesName</key>
+	<string>sampleofmode</string>
+	<key>constraintreceiver</key>
+	<string>resourcesensor</string>
+	<key>diversifiedCreator</key>
+	<string>lossscope</string>
+	<key>draggablecapsule</key>
+	<string>respectiveResolver</string>
+	<key>missedaction</key>
+	<string>opaqueDelivery</string>
+	<key>polygonmode</key>
+	<string>vectorPosition</string>
+	<key>secondJoiner</key>
+	<string>normcommandborder</string>
+</dict>
+</plist>

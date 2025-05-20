@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBehavior</key>
+	<string>accordionProjection</string>
+	<key>difficultBatch</key>
+	<string>rowMode</string>
+	<key>inactiveProcessor</key>
+	<string>hierarchicalGrain</string>
+	<key>indicatorthandecorator</key>
+	<string>custompaintBound</string>
+	<key>monsterBound</key>
+	<string>canAttachConsumer</string>
+	<key>nodevariabletail</key>
+	<string>requestRepository</string>
+	<key>registerprotocol</key>
+	<string>permissiveEquipment</string>
+	<key>shouldTransformMargin</key>
+	<string>multiplyMenu</string>
+</dict>
+</plist>

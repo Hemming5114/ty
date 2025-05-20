@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartworkbrightness</key>
+	<string>shouldRoutePlayback</string>
+	<key>disparateCoordinator</key>
+	<string>replaceImage</string>
+	<key>elasticTask</key>
+	<string>specifyIndicator</string>
+	<key>largeInkWell</key>
+	<string>requiredCaption</string>
+	<key>localizationefficiency</key>
+	<string>buildSign</string>
+	<key>optionreducer</key>
+	<string>specifyResilience</string>
+	<key>refactorchannel</key>
+	<string>staticEvent</string>
+	<key>spineutil</key>
+	<string>symmetricCurve</string>
+	<key>stackconstraint</key>
+	<string>promiseObserver</string>
+</dict>
+</plist>

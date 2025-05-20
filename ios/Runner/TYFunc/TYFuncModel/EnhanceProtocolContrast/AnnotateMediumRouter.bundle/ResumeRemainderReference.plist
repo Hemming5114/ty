@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicRect</key>
+	<string>canDetachInterpolation</string>
+	<key>lifecyclestatus</key>
+	<string>delicateaudio</string>
+	<key>onfuturechanged</key>
+	<string>splitterKind</string>
+	<key>operationrate</key>
+	<string>rangeTransparency</string>
+	<key>shouldtransformmusic</key>
+	<string>keyDescriptor</string>
+	<key>statefulSwitch</key>
+	<string>losstrajectory</string>
+	<key>subscribeawait</key>
+	<string>pausesingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScalability</key>
+	<string>queueParam</string>
+	<key>criticalHeap</key>
+	<string>paintThread</string>
+	<key>immutableProfile</key>
+	<string>computePopup</string>
+	<key>permanentSpot</key>
+	<string>declarativeSensor</string>
+	<key>shouldRebuildVariant</key>
+	<string>themecommandtail</string>
+	<key>spritePadding</key>
+	<string>loadEquipment</string>
+	<key>statelesscontractionbottom</key>
+	<string>hasSizedBox</string>
+	<key>traversalFormat</key>
+	<string>containeractivitysize</string>
+</dict>
+</plist>

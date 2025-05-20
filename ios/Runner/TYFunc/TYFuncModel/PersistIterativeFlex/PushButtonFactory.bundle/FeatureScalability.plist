@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioCount</key>
+	<string>appbarexceptlayer</string>
+	<key>explicitAnalyzer</key>
+	<string>shouldNotifyContainer</string>
+	<key>generatemargin</key>
+	<string>resilientRadius</string>
+	<key>hierarchicalTransition</key>
+	<string>normalSubscription</string>
+	<key>intermediateController</key>
+	<string>flexibleListener</string>
+	<key>resourcecount</key>
+	<string>normalRichText</string>
+	<key>semanticThread</key>
+	<string>tickerAcceleration</string>
+	<key>singletonright</key>
+	<string>persistentScale</string>
+	<key>triggerHue</key>
+	<string>concurrentGridView</string>
+</dict>
+</plist>

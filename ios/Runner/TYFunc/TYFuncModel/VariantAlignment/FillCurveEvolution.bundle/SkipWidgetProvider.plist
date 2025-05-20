@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderanalogy</key>
+	<string>canDecodeExpanded</string>
+	<key>flexslider</key>
+	<string>lastTitle</string>
+	<key>infrastructureScale</key>
+	<string>curveDepth</string>
+	<key>shouldBindSymbol</key>
+	<string>lostRestriction</string>
+	<key>shouldListenBloc</key>
+	<string>missedIntegrity</string>
+	<key>shouldNavigatePriority</key>
+	<string>decodeHash</string>
+</dict>
+</plist>

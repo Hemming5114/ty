@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedUtil</key>
+	<string>usedsensor</string>
+	<key>largeTabView</key>
+	<string>desktopCallback</string>
+	<key>positionDistance</key>
+	<string>standalonePresenter</string>
+	<key>richtextcontextdelay</key>
+	<string>shouldcontinueswitch</string>
+	<key>scopepressure</key>
+	<string>replicaCoord</string>
+	<key>signatureBorder</key>
+	<string>shouldPushExpanded</string>
+	<key>skirtResponse</key>
+	<string>petBottom</string>
+</dict>
+</plist>

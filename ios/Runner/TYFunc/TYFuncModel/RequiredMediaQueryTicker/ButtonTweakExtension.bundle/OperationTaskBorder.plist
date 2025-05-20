@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prismaticLoss</key>
+	<string>advancedController</string>
+	<key>selectedcatalyst</key>
+	<string>continueUsage</string>
+	<key>tabviewalignment</key>
+	<string>canProcessPlayback</string>
+	<key>typicalTabBar</key>
+	<string>reactivePlayback</string>
+</dict>
+</plist>

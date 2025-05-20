@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartbuilder</key>
+	<string>asynchronousefficiency</string>
+	<key>customResource</key>
+	<string>persistentCard</string>
+	<key>functionalSubscriber</key>
+	<string>animationCenter</string>
+	<key>granularMerger</key>
+	<string>shouldFormatAxis</string>
+	<key>missedMerger</key>
+	<string>directchannels</string>
+	<key>shouldUnbindMobile</key>
+	<string>mainExponent</string>
+	<key>shouldcachetextfield</key>
+	<string>enabledcellbrightness</string>
+	<key>shouldunbindworkflow</key>
+	<string>shouldobserveprecision</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultobserver</key>
+	<string>scaffoldDecorator</string>
+	<key>locatelocalization</key>
+	<string>similarCurve</string>
+	<key>materialAxis</key>
+	<string>pinchableConfiguration</string>
+	<key>shouldSubscribeNib</key>
+	<string>protectedIndicator</string>
+	<key>subtleModule</key>
+	<string>relationalThreshold</string>
+	<key>tweenorframework</key>
+	<string>dropoutSingleton</string>
+</dict>
+</plist>

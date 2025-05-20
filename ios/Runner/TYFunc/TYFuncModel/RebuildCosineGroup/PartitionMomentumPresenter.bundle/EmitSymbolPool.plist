@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oldItem</key>
+	<string>bufferOrientation</string>
+	<key>oldrowflags</key>
+	<string>undertakeSink</string>
+	<key>parallelCard</key>
+	<string>pinchableSingleton</string>
+	<key>rectFeedback</key>
+	<string>uniqueBloc</string>
+	<key>shouldBuildNavigation</key>
+	<string>smallLoss</string>
+	<key>shouldPauseTextField</key>
+	<string>smartView</string>
+</dict>
+</plist>

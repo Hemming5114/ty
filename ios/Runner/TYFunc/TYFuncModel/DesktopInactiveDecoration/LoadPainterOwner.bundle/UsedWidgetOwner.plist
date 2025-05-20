@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerOption</key>
+	<string>canHandleStack</string>
+	<key>euclideanlogarithm</key>
+	<string>shouldResumeScreen</string>
+	<key>explicitElasticity</key>
+	<string>cacheProjection</string>
+	<key>granularsemanticsmomentum</key>
+	<string>lazyEntropy</string>
+	<key>integrityIndex</key>
+	<string>parsesizedbox</string>
+	<key>notifyshader</key>
+	<string>resolveractionduration</string>
+	<key>reducerreliability</key>
+	<string>temporaryTrigger</string>
+	<key>shouldStreamMatrix</key>
+	<string>responsivePopup</string>
+	<key>storedepth</key>
+	<string>dedicatedDescription</string>
+</dict>
+</plist>

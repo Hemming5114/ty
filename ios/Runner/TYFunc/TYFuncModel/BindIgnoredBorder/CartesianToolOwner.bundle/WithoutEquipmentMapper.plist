@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesBound</key>
+	<string>specifierFrequency</string>
+	<key>completerbeyondstyle</key>
+	<string>subsequentresultcoord</string>
+	<key>groupVelocity</key>
+	<string>particleFrequency</string>
+	<key>lastContraction</key>
+	<string>sineFlags</string>
+	<key>latencyorientation</key>
+	<string>durationSkewX</string>
+	<key>nextLayout</key>
+	<string>minCapacities</string>
+	<key>profileloop</key>
+	<string>sceneScale</string>
+	<key>threadState</key>
+	<string>sizevisibility</string>
+</dict>
+</plist>

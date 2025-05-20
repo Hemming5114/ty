@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitRectangle</key>
+	<string>shouldFormatFlex</string>
+	<key>lifecycleTag</key>
+	<string>interactiveManager</string>
+	<key>pinchableTopic</key>
+	<string>opaqueNorm</string>
+	<key>shouldDispatchMusic</key>
+	<string>sorterCenter</string>
+	<key>shouldInflateDropdownButton</key>
+	<string>splitterMargin</string>
+</dict>
+</plist>

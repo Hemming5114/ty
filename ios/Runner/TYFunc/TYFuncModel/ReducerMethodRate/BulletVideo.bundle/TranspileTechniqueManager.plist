@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderoperationtail</key>
+	<string>detailVisibility</string>
+	<key>customProvision</key>
+	<string>topicParameter</string>
+	<key>desktopOptimizer</key>
+	<string>newestbulletappearance</string>
+	<key>diversifiedPicker</key>
+	<string>deserializeMovement</string>
+	<key>errorkind</key>
+	<string>sharedPreview</string>
+	<key>materializerFormat</key>
+	<string>benchmarkAwait</string>
+	<key>missedstoragestatus</key>
+	<string>activatedSample</string>
+	<key>permissiveRole</key>
+	<string>keySemantics</string>
+	<key>shouldResumeMaterial</key>
+	<string>nibSpeed</string>
+</dict>
+</plist>

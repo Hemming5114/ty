@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTransparency</key>
+	<string>routetempledistance</string>
+	<key>criticalinteractormode</key>
+	<string>plateinadapter</string>
+	<key>isKernel</key>
+	<string>sessionPhase</string>
+	<key>isolatealignment</key>
+	<string>canMountCache</string>
+	<key>nexteffectoffset</key>
+	<string>bindStep</string>
+	<key>rowskewy</key>
+	<string>concurrentSpine</string>
+	<key>shapeVisible</key>
+	<string>modalFrequency</string>
+</dict>
+</plist>

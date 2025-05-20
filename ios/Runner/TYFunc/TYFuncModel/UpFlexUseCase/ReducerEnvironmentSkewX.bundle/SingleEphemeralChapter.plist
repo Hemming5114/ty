@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStrength</key>
+	<string>presentContainer</string>
+	<key>firstQuaternion</key>
+	<string>usageSystem</string>
+	<key>geometricCurve</key>
+	<string>subpixelLevel</string>
+	<key>intuitiveCheckbox</key>
+	<string>disparateController</string>
+	<key>localTaxonomy</key>
+	<string>activeBandwidth</string>
+	<key>radiusviastate</key>
+	<string>futureProxy</string>
+	<key>significantAnimatedContainer</key>
+	<string>lastProcessor</string>
+</dict>
+</plist>

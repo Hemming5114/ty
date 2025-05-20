@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigateresource</key>
+	<string>efficiencySpacing</string>
+	<key>numericalVertex</key>
+	<string>multiTitle</string>
+	<key>resourcecompositepadding</key>
+	<string>operationdata</string>
+	<key>restrictionborder</key>
+	<string>mapperflags</string>
+	<key>shouldEncodeComposition</key>
+	<string>tickerMemento</string>
+	<key>shouldFetchReduction</key>
+	<string>viewSkewX</string>
+	<key>shouldValidateTangent</key>
+	<string>unaryOpacity</string>
+	<key>shouldtransformwidget</key>
+	<string>encodeMap</string>
+	<key>skintint</key>
+	<string>visibleRadius</string>
+</dict>
+</plist>

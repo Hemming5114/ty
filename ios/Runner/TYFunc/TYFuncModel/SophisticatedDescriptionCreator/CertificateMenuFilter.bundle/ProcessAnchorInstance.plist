@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedsegueduration</key>
+	<string>layoutBatch</string>
+	<key>compositionColor</key>
+	<string>displayableNavigation</string>
+	<key>concreteStoryboard</key>
+	<string>impressionCoord</string>
+	<key>dataTransparency</key>
+	<string>shouldResumeSubpixel</string>
+	<key>drawerstyle</key>
+	<string>futureMethod</string>
+	<key>inactiveCreator</key>
+	<string>fixedPainter</string>
+	<key>rectResponse</key>
+	<string>resumeView</string>
+	<key>symbolcallback</key>
+	<string>canTransformAspect</string>
+	<key>webPadding</key>
+	<string>canPauseIcon</string>
+</dict>
+</plist>

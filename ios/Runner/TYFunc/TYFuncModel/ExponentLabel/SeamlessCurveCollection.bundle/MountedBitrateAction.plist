@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewanimator</key>
+	<string>shouldProcessSession</string>
+	<key>layoutbehavior</key>
+	<string>oncardtap</string>
+	<key>mainVolume</key>
+	<string>shouldAnimateCosine</string>
+	<key>moduleOrientation</key>
+	<string>canSubscribeAnimation</string>
+	<key>presenterrotation</key>
+	<string>rectifyLayer</string>
+	<key>sortedDistinction</key>
+	<string>sampleshape</string>
+	<key>specifyDrawer</key>
+	<string>notifySwitch</string>
+	<key>subtlefragments</key>
+	<string>mountedAccessory</string>
+	<key>themefuture</key>
+	<string>semanticsAcceleration</string>
+	<key>widgetinproxy</key>
+	<string>decoderesource</string>
+</dict>
+</plist>

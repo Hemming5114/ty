@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCapacity</key>
+	<string>webConnector</string>
+	<key>directlyTexture</key>
+	<string>combinerContrast</string>
+	<key>draggableIndicator</key>
+	<string>allocatorspeed</string>
+	<key>persistentCycle</key>
+	<string>advancedScale</string>
+	<key>secondSlash</key>
+	<string>displayableObject</string>
+	<key>shouldParseSlash</key>
+	<string>statefulPageView</string>
+	<key>similarDetail</key>
+	<string>continueSkirt</string>
+</dict>
+</plist>

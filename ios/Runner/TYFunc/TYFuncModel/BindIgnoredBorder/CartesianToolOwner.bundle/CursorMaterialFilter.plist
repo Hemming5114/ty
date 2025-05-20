@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentInterval</key>
+	<string>publishgraph</string>
+	<key>deferredVariant</key>
+	<string>escalateGroup</string>
+	<key>desktopequalizationedge</key>
+	<string>expandedagainstnumber</string>
+	<key>progressbardelay</key>
+	<string>marshalMethod</string>
+	<key>radiusconverter</key>
+	<string>channelsSystem</string>
+	<key>shouldListenLoss</key>
+	<string>visibleActivity</string>
+	<key>shouldSubscribePrecision</key>
+	<string>sliderSkewY</string>
+</dict>
+</plist>

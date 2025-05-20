@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imagecyclevisible</key>
+	<string>inheritedTaxonomy</string>
+	<key>publishstoryboard</key>
+	<string>referenceindex</string>
+	<key>requiredCurve</key>
+	<string>shoulddeserializesegment</string>
+	<key>resolverBehavior</key>
+	<string>shouldPushHero</string>
+	<key>scrollStyle</key>
+	<string>observerContext</string>
+</dict>
+</plist>

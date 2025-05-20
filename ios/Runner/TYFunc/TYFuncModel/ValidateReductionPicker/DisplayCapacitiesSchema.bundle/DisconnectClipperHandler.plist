@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicModulus</key>
+	<string>filterBorder</string>
+	<key>composableModulus</key>
+	<string>intermediateMerger</string>
+	<key>displayableAccessory</key>
+	<string>callbackValidation</string>
+	<key>filldelegate</key>
+	<string>heapLeft</string>
+	<key>independentConsumption</key>
+	<string>dependencyanimation</string>
+	<key>instantiatedimension</key>
+	<string>disabledStack</string>
+	<key>objectTension</key>
+	<string>lazyLinker</string>
+	<key>statefulMesh</key>
+	<string>shouldTransformTheme</string>
+</dict>
+</plist>

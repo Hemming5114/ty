@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFlags</key>
+	<string>similarCatalyst</string>
+	<key>chooserRight</key>
+	<string>shouldCacheTechnique</string>
+	<key>dialogsAppearance</key>
+	<string>anchorValidation</string>
+	<key>directConverter</key>
+	<string>selectedProjection</string>
+	<key>ignoredTitle</key>
+	<string>gemPadding</string>
+	<key>isolateName</key>
+	<string>gradientStructure</string>
+	<key>shouldLayoutSlider</key>
+	<string>disabledStateful</string>
+	<key>shouldSaveGate</key>
+	<string>associatedActivity</string>
+</dict>
+</plist>

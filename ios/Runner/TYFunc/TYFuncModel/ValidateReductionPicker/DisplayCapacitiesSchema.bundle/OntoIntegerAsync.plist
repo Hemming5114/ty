@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectOrigin</key>
+	<string>connectGrain</string>
+	<key>concurrentTangent</key>
+	<string>tickerInteraction</string>
+	<key>emitterCount</key>
+	<string>optimizerTier</string>
+	<key>inheritedbitrate</key>
+	<string>explicitScroller</string>
+	<key>inkwellFrequency</key>
+	<string>listenerPadding</string>
+	<key>interactiveScope</key>
+	<string>loadMission</string>
+	<key>pivotalRecursion</key>
+	<string>sharedEntity</string>
+	<key>prevObject</key>
+	<string>behavioropacity</string>
+	<key>widgetSize</key>
+	<string>lostAxis</string>
+</dict>
+</plist>

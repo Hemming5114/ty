@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeusecase</key>
+	<string>temporaryMethod</string>
+	<key>composableNotation</key>
+	<string>iterativeUnary</string>
+	<key>presentgridview</key>
+	<string>evaluationOrientation</string>
+	<key>shouldBuildAspect</key>
+	<string>shouldRestartContainer</string>
+	<key>shouldYieldMovement</key>
+	<string>appbarActivity</string>
+	<key>sustainableTopic</key>
+	<string>diversifiedAppBar</string>
+</dict>
+</plist>

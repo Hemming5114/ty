@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryoutsidestate</key>
+	<string>arithmeticExpanded</string>
+	<key>delegateBorder</key>
+	<string>shouldshowmediaquery</string>
+	<key>interactiveSound</key>
+	<string>modalResponse</string>
+	<key>intuitiveListView</key>
+	<string>interactiveMission</string>
+	<key>replacegesturedetector</key>
+	<string>rapidTabBar</string>
+	<key>restartresource</key>
+	<string>smartGrain</string>
+</dict>
+</plist>

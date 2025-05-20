@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionSaturation</key>
+	<string>builderInset</string>
+	<key>composableDialogs</key>
+	<string>detachInkWell</string>
+	<key>dropdownbuttonbufferformat</key>
+	<string>newestStroke</string>
+	<key>otherQueue</key>
+	<string>fixedSelector</string>
+	<key>particleForce</key>
+	<string>replicaHue</string>
+	<key>threadstatus</key>
+	<string>currentGraphic</string>
+</dict>
+</plist>

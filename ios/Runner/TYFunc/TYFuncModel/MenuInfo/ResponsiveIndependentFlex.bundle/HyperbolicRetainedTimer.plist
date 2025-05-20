@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMovement</key>
+	<string>disabledUtil</string>
+	<key>bufferFrequency</key>
+	<string>shouldUnmountedAxis</string>
+	<key>ephemeralOccasion</key>
+	<string>nativeCallback</string>
+	<key>originalAnalyzer</key>
+	<string>canDisconnectDuration</string>
+	<key>receiverPosition</key>
+	<string>shouldShowCupertino</string>
+	<key>retainedcapacitiesvelocity</key>
+	<string>reflectcharacter</string>
+	<key>reusableSegue</key>
+	<string>methodScale</string>
+	<key>semanticSlider</key>
+	<string>dedicatedCompleter</string>
+	<key>statusLeft</key>
+	<string>viewtypeborder</string>
+</dict>
+</plist>

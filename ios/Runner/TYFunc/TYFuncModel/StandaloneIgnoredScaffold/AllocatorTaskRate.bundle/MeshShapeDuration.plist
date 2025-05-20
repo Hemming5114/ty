@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAsset</key>
+	<string>unbindRow</string>
+	<key>buttonofphase</key>
+	<string>petVisible</string>
+	<key>inactiveservice</key>
+	<string>canSkipSession</string>
+	<key>lifecycleDelay</key>
+	<string>activeBatch</string>
+	<key>mobileStyle</key>
+	<string>concurrentCollection</string>
+	<key>platefuture</key>
+	<string>buildFragment</string>
+	<key>resizableTernary</key>
+	<string>subsequentCube</string>
+	<key>shouldLoadShader</key>
+	<string>associateContainer</string>
+	<key>shouldUnmountTransition</key>
+	<string>sortedView</string>
+	<key>viewzone</key>
+	<string>consumerbesideprototype</string>
+</dict>
+</plist>

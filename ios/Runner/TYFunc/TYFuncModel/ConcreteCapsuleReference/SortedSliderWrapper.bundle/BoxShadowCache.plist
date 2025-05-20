@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentOrientation</key>
+	<string>adaptiveTween</string>
+	<key>independentAxis</key>
+	<string>analyzeintensity</string>
+	<key>interactiveTweak</key>
+	<string>enabledSearcher</string>
+	<key>largeMonster</key>
+	<string>shouldCacheStack</string>
+	<key>notifierpressure</key>
+	<string>pendingProject</string>
+	<key>opaqueCanvas</key>
+	<string>unsortedParticle</string>
+	<key>singleMovement</key>
+	<string>combinerFormat</string>
+	<key>throughputTag</key>
+	<string>protectedEffect</string>
+</dict>
+</plist>

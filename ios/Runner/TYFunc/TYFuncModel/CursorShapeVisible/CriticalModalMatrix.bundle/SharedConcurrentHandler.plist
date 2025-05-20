@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSwift</key>
+	<string>shouldCreateMobile</string>
+	<key>euclideanlayout</key>
+	<string>diffableLayout</string>
+	<key>litePositioned</key>
+	<string>imperativeMobile</string>
+	<key>permutationResponse</key>
+	<string>decodeScaffold</string>
+	<key>processorinteraction</key>
+	<string>refactorUtil</string>
+	<key>resizableGradient</key>
+	<string>soundLeft</string>
+	<key>shoulddisposecurve</key>
+	<string>canObserveMediaQuery</string>
+	<key>smallBehavior</key>
+	<string>relationalColor</string>
+</dict>
+</plist>

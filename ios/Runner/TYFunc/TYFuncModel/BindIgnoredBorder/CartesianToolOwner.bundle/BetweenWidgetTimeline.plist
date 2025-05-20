@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableResolver</key>
+	<string>discardedDescent</string>
+	<key>hasSign</key>
+	<string>maxCosine</string>
+	<key>shouldValidateOptimizer</key>
+	<string>shouldSetStatePlayback</string>
+	<key>storeShade</key>
+	<string>uniformTitle</string>
+</dict>
+</plist>

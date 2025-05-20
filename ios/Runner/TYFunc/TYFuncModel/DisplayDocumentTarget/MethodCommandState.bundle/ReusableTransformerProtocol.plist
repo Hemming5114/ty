@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAspect</key>
+	<string>canTransitionProtocol</string>
+	<key>resizableParticle</key>
+	<string>sustainableThroughput</string>
+	<key>responsiveResource</key>
+	<string>dispatchSwitch</string>
+	<key>routeVisibility</key>
+	<string>webHeap</string>
+</dict>
+</plist>

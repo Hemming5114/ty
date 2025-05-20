@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturekindtype</key>
+	<string>compositionalPageView</string>
+	<key>delicateTask</key>
+	<string>boxtext</string>
+	<key>shouldSerializeView</key>
+	<string>respectivepageview</string>
+	<key>uniquelabel</key>
+	<string>immediateExponent</string>
+</dict>
+</plist>

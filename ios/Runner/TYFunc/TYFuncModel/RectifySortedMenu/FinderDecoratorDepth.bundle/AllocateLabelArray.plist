@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultbehavior</key>
+	<string>bulletVisibility</string>
+	<key>deferredGesture</key>
+	<string>keyPermutation</string>
+	<key>euclideannotification</key>
+	<string>mainGrain</string>
+	<key>formatDistance</key>
+	<string>joinerAppearance</string>
+	<key>newestCard</key>
+	<string>connectSign</string>
+	<key>nextBinary</key>
+	<string>usedModel</string>
+	<key>numericalstreamhead</key>
+	<string>cartesianSubscriber</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMusic</key>
+	<string>shouldDispatchBullet</string>
+	<key>hardPet</key>
+	<string>animatedcontainerPlatform</string>
+	<key>mediaquerybound</key>
+	<string>canDecodeInkWell</string>
+	<key>notifyarithmetic</key>
+	<string>navigationLevel</string>
+	<key>selectorbehavior</key>
+	<string>publicPageView</string>
+	<key>shouldHandleCustomPaint</key>
+	<string>cardEnvironment</string>
+	<key>shouldupdatedropdownbutton</key>
+	<string>lostIntegration</string>
+	<key>statefulTrajectory</key>
+	<string>multiGrain</string>
+	<key>subsequentRadius</key>
+	<string>disabledImpact</string>
+</dict>
+</plist>

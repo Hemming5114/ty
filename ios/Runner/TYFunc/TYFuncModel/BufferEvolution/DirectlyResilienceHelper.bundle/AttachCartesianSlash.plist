@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratecontrast</key>
+	<string>progressbarForm</string>
+	<key>builderEdge</key>
+	<string>touchSaturation</string>
+	<key>capacityOrientation</key>
+	<string>smallMerger</string>
+	<key>coordinatorcontroller</key>
+	<string>animatedModel</string>
+	<key>cubeDepth</key>
+	<string>rectangleTint</string>
+	<key>inheritedContraction</key>
+	<string>mediumOccasion</string>
+	<key>instructionformat</key>
+	<string>shaderFrequency</string>
+	<key>overlayLeft</key>
+	<string>shouldDeserializeFlex</string>
+	<key>resolveobserver</key>
+	<string>slashloader</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsTint</key>
+	<string>meshCount</string>
+	<key>documentawayvisitor</key>
+	<string>fusedCache</string>
+	<key>explicitBase</key>
+	<string>navigatestream</string>
+	<key>hasNavigator</key>
+	<string>shouldPaintPositioned</string>
+	<key>lostState</key>
+	<string>movementSingleton</string>
+	<key>multiplicationSkewY</key>
+	<string>logarithmInset</string>
+	<key>shouldDecodeSegment</key>
+	<string>pointTail</string>
+	<key>storeDelay</key>
+	<string>canDisposeNotifier</string>
+	<key>synchronousgrid</key>
+	<string>sequentialLabel</string>
+</dict>
+</plist>

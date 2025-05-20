@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalLifecycle</key>
+	<string>moduleDirection</string>
+	<key>interactorreplica</key>
+	<string>shaderLocation</string>
+	<key>kernelInset</key>
+	<string>directShape</string>
+	<key>profileCenter</key>
+	<string>vectorstyle</string>
+	<key>reductionFrequency</key>
+	<string>captureParticle</string>
+	<key>robustasync</key>
+	<string>intuitiveremainder</string>
+	<key>shouldCreateWidget</key>
+	<string>lifecycleLeft</string>
+</dict>
+</plist>

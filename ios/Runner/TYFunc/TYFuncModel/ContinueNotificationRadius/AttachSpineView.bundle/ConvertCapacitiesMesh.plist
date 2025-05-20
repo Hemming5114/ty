@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncpatternappearance</key>
+	<string>convertCurve</string>
+	<key>evolutionStatus</key>
+	<string>executeParticle</string>
+	<key>mendAlignment</key>
+	<string>globalTextField</string>
+	<key>mobileConfiguration</key>
+	<string>dynamicKernel</string>
+	<key>navigationtime</key>
+	<string>segmenttitle</string>
+	<key>shouldEmitAspectRatio</key>
+	<string>canFetchPriority</string>
+	<key>temporaryzone</key>
+	<string>layoutRate</string>
+	<key>unactivatedPicker</key>
+	<string>dedicatedTimer</string>
+</dict>
+</plist>

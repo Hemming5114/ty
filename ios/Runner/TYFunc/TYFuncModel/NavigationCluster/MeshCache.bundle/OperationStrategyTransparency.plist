@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitdrawer</key>
+	<string>shouldFinishCanvas</string>
+	<key>channelsduration</key>
+	<string>priorScreen</string>
+	<key>currentPromise</key>
+	<string>clusterInteraction</string>
+	<key>logSkewY</key>
+	<string>materializerShade</string>
+	<key>multiplicationSpeed</key>
+	<string>usedSelector</string>
+	<key>statelessMapper</key>
+	<string>layoutOverlay</string>
+	<key>unsortedBloc</key>
+	<string>opaquereferencevisible</string>
+</dict>
+</plist>

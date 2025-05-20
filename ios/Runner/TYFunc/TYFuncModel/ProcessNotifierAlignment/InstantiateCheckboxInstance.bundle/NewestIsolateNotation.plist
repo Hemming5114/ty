@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicChooser</key>
+	<string>buttonPadding</string>
+	<key>basicfactoryoffset</key>
+	<string>dimensionthroughtemple</string>
+	<key>continueslash</key>
+	<string>mediocreSorter</string>
+	<key>inactiveHistogram</key>
+	<string>rendererType</string>
+	<key>responsiveAspectRatio</key>
+	<string>rowIndex</string>
+	<key>shouldRenderCapsule</key>
+	<string>adaptiveScalability</string>
+	<key>shouldRouteOption</key>
+	<string>shouldUnmountBase</string>
+</dict>
+</plist>

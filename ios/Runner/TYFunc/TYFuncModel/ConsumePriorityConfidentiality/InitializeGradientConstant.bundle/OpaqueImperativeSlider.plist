@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteCallback</key>
+	<string>resizablePosition</string>
+	<key>coordinatordelivery</key>
+	<string>titlePressure</string>
+	<key>fusedNotification</key>
+	<string>uniformChooser</string>
+	<key>hardBandwidth</key>
+	<string>intuitiveWidget</string>
+	<key>originalScreen</key>
+	<string>delicateSize</string>
+	<key>shoulddisconnectbaseline</key>
+	<string>pinchableMusic</string>
+	<key>taskandenvironment</key>
+	<string>convertResolver</string>
+	<key>zoneFormat</key>
+	<string>resolverinflyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialviewoffset</key>
+	<string>keepTable</string>
+	<key>directchannelsrate</key>
+	<string>defaultmaterial</string>
+	<key>distinctionfeedback</key>
+	<string>anchorEdge</string>
+	<key>hasprojection</key>
+	<string>eventKind</string>
+	<key>labelbottom</key>
+	<string>descriptionrestriction</string>
+	<key>shouldAnimateInkWell</key>
+	<string>previewParam</string>
+	<key>shouldContinueSpine</key>
+	<string>concreteSample</string>
+	<key>shouldPresentArithmetic</key>
+	<string>batchzone</string>
+	<key>tablecolor</key>
+	<string>executeResult</string>
+</dict>
+</plist>

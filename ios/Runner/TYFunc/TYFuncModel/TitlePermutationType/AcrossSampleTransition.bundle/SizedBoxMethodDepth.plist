@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaqueAsset</key>
+	<string>loopcenter</string>
+	<key>resultDistance</key>
+	<string>usageSkewY</string>
+	<key>seamlessslashoffset</key>
+	<string>priorTweak</string>
+	<key>specifierBound</key>
+	<string>cubitaspect</string>
+	<key>symmetricunaryspeed</key>
+	<string>nodelayershape</string>
+</dict>
+</plist>

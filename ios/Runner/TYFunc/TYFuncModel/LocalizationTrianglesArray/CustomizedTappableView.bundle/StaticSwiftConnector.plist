@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioInteraction</key>
+	<string>compilePreview</string>
+	<key>autoevolution</key>
+	<string>exponentAction</string>
+	<key>bloctransparency</key>
+	<string>fusedResilience</string>
+	<key>euclideanSensor</key>
+	<string>streamCycle</string>
+	<key>opaqueRole</key>
+	<string>shouldPaintSlash</string>
+	<key>persistentswift</key>
+	<string>dimensionDensity</string>
+	<key>synchronousLifecycle</key>
+	<string>destroyView</string>
+</dict>
+</plist>

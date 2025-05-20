@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnalyzer</key>
+	<string>mutableChallenge</string>
+	<key>dynamicAnchor</key>
+	<string>newestIntensity</string>
+	<key>granularGestureDetector</key>
+	<string>desktopConsumer</string>
+	<key>independentNavigator</key>
+	<string>mutableNotifier</string>
+	<key>inheritedSingleton</key>
+	<string>shouldNavigateBullet</string>
+	<key>robustAxis</key>
+	<string>reusableTabBar</string>
+	<key>smallMomentum</key>
+	<string>shouldRenderTransition</string>
+	<key>symmetricfactory</key>
+	<string>customizedQuaternion</string>
+	<key>typicalInformation</key>
+	<string>challengeTop</string>
+</dict>
+</plist>

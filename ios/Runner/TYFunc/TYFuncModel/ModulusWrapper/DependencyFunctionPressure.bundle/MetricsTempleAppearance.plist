@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGraph</key>
+	<string>unbindawait</string>
+	<key>cartesianEvaluation</key>
+	<string>similarTransition</string>
+	<key>checkboxMargin</key>
+	<string>pauseNavigator</string>
+	<key>compositionalRow</key>
+	<string>subtleEvaluation</string>
+	<key>immutableKernel</key>
+	<string>canUpdateTechnique</string>
+	<key>lazySkin</key>
+	<string>compositionalMusic</string>
+	<key>litePreview</key>
+	<string>saveSpecifier</string>
+	<key>shouldSkipCapacities</key>
+	<string>decodeFeature</string>
+	<key>temporarySegment</key>
+	<string>mediumMethod</string>
+	<key>webpointedge</key>
+	<string>shouldPresentCosine</string>
+</dict>
+</plist>

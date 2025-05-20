@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildermargin</key>
+	<string>storyboardInteraction</string>
+	<key>completerofactivity</key>
+	<string>paintProjection</string>
+	<key>dynamicScroll</key>
+	<string>loadHero</string>
+	<key>functionalHeap</key>
+	<string>lostPolygon</string>
+	<key>respectiveUnary</key>
+	<string>statelessConstraint</string>
+	<key>schedulercenter</key>
+	<string>canEncodeThread</string>
+	<key>standaloneMaterializer</key>
+	<string>smallEvent</string>
+	<key>writespot</key>
+	<string>largeisolatevisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBehavior</key>
+	<string>dynamicTask</string>
+	<key>directPermutation</key>
+	<string>discoverAction</string>
+	<key>splitterSkewX</key>
+	<string>prevPromise</string>
+	<key>toolsize</key>
+	<string>descriptionSize</string>
+</dict>
+</plist>

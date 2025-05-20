@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionreplica</key>
+	<string>sharedGrid</string>
+	<key>compositionalObserver</key>
+	<string>mechanismBrightness</string>
+	<key>inkwellplatformspacing</key>
+	<string>latencyBehavior</string>
+	<key>pivotalproject</key>
+	<string>computeLayer</string>
+	<key>textName</key>
+	<string>durationOrientation</string>
+</dict>
+</plist>

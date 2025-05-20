@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncaroundmediator</key>
+	<string>materialBehavior</string>
+	<key>directlySpecifier</key>
+	<string>rowforenvironment</string>
+	<key>infodistance</key>
+	<string>textBuffer</string>
+	<key>keyEmitter</key>
+	<string>shouldPushSpecifier</string>
+	<key>missedProtocol</key>
+	<string>sinkTail</string>
+	<key>popupStatus</key>
+	<string>synchronizeSink</string>
+	<key>prevLifecycle</key>
+	<string>ascentSpacing</string>
+	<key>retainedScope</key>
+	<string>iconStrategy</string>
+	<key>secondDocument</key>
+	<string>inheritedCache</string>
+</dict>
+</plist>

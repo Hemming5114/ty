@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserorientation</key>
+	<string>detectorBehavior</string>
+	<key>compositionright</key>
+	<string>converterColor</string>
+	<key>disposeprovider</key>
+	<string>rectangleFormat</string>
+	<key>shouldBuildSpot</key>
+	<string>restartSpecifier</string>
+	<key>statelessnode</key>
+	<string>disabledNotation</string>
+	<key>usedMission</key>
+	<string>reusablepager</string>
+</dict>
+</plist>

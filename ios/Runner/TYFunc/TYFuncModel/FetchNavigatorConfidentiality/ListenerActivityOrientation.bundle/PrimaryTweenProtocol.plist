@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisparticle</key>
+	<string>globalmetadata</string>
+	<key>bitrateOpacity</key>
+	<string>upgradeState</string>
+	<key>dialogsMode</key>
+	<string>timelineTag</string>
+	<key>gridviewTension</key>
+	<string>shouldPushMember</string>
+	<key>previewBottom</key>
+	<string>screenvisible</string>
+	<key>statefulInterface</key>
+	<string>protocolSpacing</string>
+	<key>tabviewTop</key>
+	<string>disparateLayer</string>
+</dict>
+</plist>

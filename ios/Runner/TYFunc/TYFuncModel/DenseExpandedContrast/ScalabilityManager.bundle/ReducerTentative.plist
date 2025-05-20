@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivecapacities</key>
+	<string>labelPadding</string>
+	<key>interactiveLayout</key>
+	<string>encodeRadio</string>
+	<key>processorType</key>
+	<string>connectMatrix</string>
+	<key>radiusdistance</key>
+	<string>thresholdAppearance</string>
+	<key>semanticsShade</key>
+	<string>calculateSingleton</string>
+	<key>vertexBottom</key>
+	<string>metadataCommand</string>
+</dict>
+</plist>

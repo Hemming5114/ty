@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerSkewX</key>
+	<string>cursorcontrast</string>
+	<key>detachtheme</key>
+	<string>completionFrequency</string>
+	<key>durationbrightness</key>
+	<string>temporaryNotifier</string>
+	<key>integrationScale</key>
+	<string>shouldStopNotifier</string>
+	<key>paddingFrequency</key>
+	<string>titledepth</string>
+	<key>permanentDisclaimer</key>
+	<string>implementcycle</string>
+	<key>profilerecursion</key>
+	<string>staticAnalogy</string>
+	<key>semanticElement</key>
+	<string>mountTabBar</string>
+</dict>
+</plist>

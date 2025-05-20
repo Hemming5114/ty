@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainDialogs</key>
+	<string>prepareallocator</string>
+	<key>matrixalignment</key>
+	<string>compilenotifier</string>
+	<key>numericalBorder</key>
+	<string>permissiveSizedBox</string>
+	<key>parallelView</key>
+	<string>globalTimeline</string>
+	<key>shouldCacheSwitch</key>
+	<string>activatedstepappearance</string>
+	<key>shouldPopScaffold</key>
+	<string>transpileDependency</string>
+	<key>transitionsingleton</key>
+	<string>managersaturation</string>
+</dict>
+</plist>

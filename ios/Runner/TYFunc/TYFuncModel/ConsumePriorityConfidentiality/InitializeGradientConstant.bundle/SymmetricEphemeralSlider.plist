@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSink</key>
+	<string>unsortedContainer</string>
+	<key>cardRate</key>
+	<string>ignoredCapacities</string>
+	<key>cartesianPresenter</key>
+	<string>liteUtil</string>
+	<key>clipperSaturation</key>
+	<string>canPresentIcon</string>
+	<key>declarativeAnalyzer</key>
+	<string>progressbarCoord</string>
+	<key>gridSaturation</key>
+	<string>serializeSegue</string>
+	<key>largefactory</key>
+	<string>skirtSaturation</string>
+	<key>reusableSample</key>
+	<string>independentSearcher</string>
+	<key>shouldTransitionSemantics</key>
+	<string>advancedCompleter</string>
+</dict>
+</plist>

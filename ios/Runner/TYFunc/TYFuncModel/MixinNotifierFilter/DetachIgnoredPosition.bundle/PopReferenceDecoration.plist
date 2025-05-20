@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferCoord</key>
+	<string>webAccessory</string>
+	<key>numericalTransition</key>
+	<string>sanitizeScene</string>
+	<key>shouldRouteAspectRatio</key>
+	<string>crucialBoxShadow</string>
+	<key>shouldSetStateCurve</key>
+	<string>controllerqueue</string>
+	<key>uniformCosine</key>
+	<string>onpositionedtap</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyInkWell</key>
+	<string>arithmeticGradient</string>
+	<key>lazyElement</key>
+	<string>ispadding</string>
+	<key>logAlignment</key>
+	<string>marginSkewY</string>
+	<key>pinchableDistinction</key>
+	<string>shouldlistendialogs</string>
+	<key>primaryEquivalent</key>
+	<string>opaquetouch</string>
+	<key>shouldListenUnary</key>
+	<string>timerorigin</string>
+	<key>shouldValidateSpecifier</key>
+	<string>largetransformer</string>
+	<key>subsequentMaster</key>
+	<string>moduleMode</string>
+</dict>
+</plist>

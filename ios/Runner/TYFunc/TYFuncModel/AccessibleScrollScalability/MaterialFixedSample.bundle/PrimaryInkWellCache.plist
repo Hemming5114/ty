@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetName</key>
+	<string>scaffoldmodepressure</string>
+	<key>baselineOrientation</key>
+	<string>uniqueListView</string>
+	<key>detectorOffset</key>
+	<string>secondActivity</string>
+	<key>rapidActivity</key>
+	<string>listenlayout</string>
+	<key>responseSpacing</key>
+	<string>popupStyle</string>
+	<key>similarStack</key>
+	<string>eagerLinker</string>
+	<key>uniqueDescriptor</key>
+	<string>shouldStartSkirt</string>
+</dict>
+</plist>

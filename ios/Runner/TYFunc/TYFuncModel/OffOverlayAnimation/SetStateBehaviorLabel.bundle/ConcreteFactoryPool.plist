@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTrigger</key>
+	<string>scalabilitySpeed</string>
+	<key>disabledImage</key>
+	<string>interpolationHue</string>
+	<key>granularMusic</key>
+	<string>concreteLocalization</string>
+	<key>notationFlags</key>
+	<string>beginnerContraction</string>
+	<key>playbackdistinction</key>
+	<string>presenterfilter</string>
+	<key>resizableMapper</key>
+	<string>connectGrayscale</string>
+	<key>resizableResource</key>
+	<string>equalizationSystem</string>
+	<key>sessioncontroller</key>
+	<string>subpixelStyle</string>
+	<key>specifyAccessory</key>
+	<string>replicaDensity</string>
+</dict>
+</plist>

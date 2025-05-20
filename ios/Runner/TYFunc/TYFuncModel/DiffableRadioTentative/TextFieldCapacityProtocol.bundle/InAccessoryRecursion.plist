@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugtask</key>
+	<string>shouldSkipProject</string>
+	<key>resizableExpanded</key>
+	<string>shouldStartBatch</string>
+	<key>seamlessSplitter</key>
+	<string>shouldSubscribeStream</string>
+	<key>skinvisitordensity</key>
+	<string>declarativeListener</string>
+	<key>subsequenttabviewduration</key>
+	<string>shouldDeserializeInteger</string>
+	<key>webConfiguration</key>
+	<string>canLayoutMusic</string>
+</dict>
+</plist>

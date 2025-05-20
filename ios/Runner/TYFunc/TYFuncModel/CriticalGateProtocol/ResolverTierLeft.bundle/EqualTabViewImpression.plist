@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularEvent</key>
+	<string>mobileslider</string>
+	<key>inactiveObserver</key>
+	<string>blockind</string>
+	<key>integerHue</key>
+	<string>singlePolygon</string>
+	<key>intuitiveVertex</key>
+	<string>declarativeCanvas</string>
+	<key>pinchableAperture</key>
+	<string>storeHead</string>
+	<key>projectContrast</key>
+	<string>canRestartDescriptor</string>
+	<key>shouldFinishGestureDetector</key>
+	<string>nativecatalyst</string>
+	<key>stampDuration</key>
+	<string>diffableStroke</string>
+</dict>
+</plist>

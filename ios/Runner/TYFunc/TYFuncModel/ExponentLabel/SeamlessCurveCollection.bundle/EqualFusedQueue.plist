@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associaterequest</key>
+	<string>shouldPersistBehavior</string>
+	<key>concreteFuture</key>
+	<string>diffableMaterial</string>
+	<key>maincontainer</key>
+	<string>firstSkirt</string>
+	<key>retainedEquipment</key>
+	<string>shouldMountCube</string>
+	<key>shouldTrainUnary</key>
+	<string>vectorshapealignment</string>
+	<key>uniqueBehavior</key>
+	<string>lostGift</string>
+</dict>
+</plist>

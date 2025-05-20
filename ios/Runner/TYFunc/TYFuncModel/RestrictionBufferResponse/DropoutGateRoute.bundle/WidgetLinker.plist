@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardgroup</key>
+	<string>unmountmission</string>
+	<key>basicUseCase</key>
+	<string>layoutSwitch</string>
+	<key>giftValidation</key>
+	<string>pivotalHero</string>
+	<key>localizationnearobserver</key>
+	<string>singleMatrix</string>
+	<key>pivotalThroughput</key>
+	<string>stackInteraction</string>
+	<key>shouldDispatchPlate</key>
+	<string>pivotalintensity</string>
+</dict>
+</plist>

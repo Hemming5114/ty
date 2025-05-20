@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAlignment</key>
+	<string>encodeScreen</string>
+	<key>asynctop</key>
+	<string>shouldInflateCupertino</string>
+	<key>attachcell</key>
+	<string>histogramRight</string>
+	<key>awaitshade</key>
+	<string>dependencyInteraction</string>
+	<key>backwardDisclaimer</key>
+	<string>prioritySpeed</string>
+	<key>handlerOpacity</key>
+	<string>previewKind</string>
+	<key>newestcompletion</key>
+	<string>transitionCommand</string>
+	<key>scenarioDistance</key>
+	<string>clipservice</string>
+</dict>
+</plist>

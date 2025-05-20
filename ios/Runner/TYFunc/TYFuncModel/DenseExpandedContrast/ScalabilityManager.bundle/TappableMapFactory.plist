@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocslider</key>
+	<string>responseRate</string>
+	<key>desktopradius</key>
+	<string>tableOperation</string>
+	<key>filloverlay</key>
+	<string>pausePet</string>
+	<key>interactorValidation</key>
+	<string>lastCatalyst</string>
+	<key>nativeWidget</key>
+	<string>eagerReducer</string>
+	<key>scrollBehavior</key>
+	<string>shearTitle</string>
+	<key>smallColumn</key>
+	<string>canCreateCustomPaint</string>
+	<key>typicalScaffold</key>
+	<string>seamlessgatevisibility</string>
+</dict>
+</plist>

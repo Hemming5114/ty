@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTrajectory</key>
+	<string>blocmementobound</string>
+	<key>explicitGestureDetector</key>
+	<string>flexibleDescription</string>
+	<key>liteModal</key>
+	<string>delegateTicker</string>
+	<key>mobileDialogs</key>
+	<string>geometricBitrate</string>
+	<key>priorData</key>
+	<string>spriteprovider</string>
+	<key>shouldAttachListView</key>
+	<string>inheritedEmitter</string>
+	<key>shouldObserveAnchor</key>
+	<string>currentmobiledirection</string>
+	<key>storyboardvector</key>
+	<string>defaultbitrate</string>
+</dict>
+</plist>

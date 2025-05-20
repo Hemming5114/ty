@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentProvision</key>
+	<string>progressbarmaterial</string>
+	<key>heroFrequency</key>
+	<string>taskBehavior</string>
+	<key>positionposition</key>
+	<string>diffableUseCase</string>
+	<key>seamlessManager</key>
+	<string>storefuture</string>
+</dict>
+</plist>

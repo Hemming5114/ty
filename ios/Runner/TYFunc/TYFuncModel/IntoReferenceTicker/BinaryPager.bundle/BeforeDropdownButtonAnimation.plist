@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildernumberleft</key>
+	<string>liteTask</string>
+	<key>directCursor</key>
+	<string>scaffoldDensity</string>
+	<key>easyRouter</key>
+	<string>clipLabel</string>
+	<key>shouldValidateRoute</key>
+	<string>loopStrategy</string>
+	<key>titleFrequency</key>
+	<string>impressionRight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDelay</key>
+	<string>singletonFunction</string>
+	<key>explicitReplica</key>
+	<string>pausestate</string>
+	<key>geometricImage</key>
+	<string>oldEntity</string>
+	<key>rectsize</key>
+	<string>inheritedInteractor</string>
+	<key>shaderColor</key>
+	<string>marshalIntensity</string>
+	<key>signtail</key>
+	<string>repositoryStage</string>
+	<key>symmetricResilience</key>
+	<string>basePressure</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAudio</key>
+	<string>customReliability</string>
+	<key>discardedBandwidth</key>
+	<string>retrieveTitle</string>
+	<key>disconnecttask</key>
+	<string>shouldLoadProjection</string>
+	<key>functionalOperation</key>
+	<string>shouldRoutePlayback</string>
+	<key>heapIndex</key>
+	<string>respectiveDialogs</string>
+	<key>keyTrajectory</key>
+	<string>permissiveSchema</string>
+	<key>managertop</key>
+	<string>euclideanKernel</string>
+	<key>missedMenu</key>
+	<string>sorterLocation</string>
+	<key>rowoffset</key>
+	<string>immutablethreadshade</string>
+</dict>
+</plist>

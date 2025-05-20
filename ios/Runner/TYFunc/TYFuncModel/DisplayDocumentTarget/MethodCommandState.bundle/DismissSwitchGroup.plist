@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTernary</key>
+	<string>uniqueMember</string>
+	<key>requiredModulus</key>
+	<string>usedTrajectory</string>
+	<key>scalabilityfeedback</key>
+	<string>intermediateException</string>
+	<key>statefulAppearance</key>
+	<string>dynamicSwift</string>
+</dict>
+</plist>

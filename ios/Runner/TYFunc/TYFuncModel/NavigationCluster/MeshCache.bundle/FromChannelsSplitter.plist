@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultRequest</key>
+	<string>storePopup</string>
+	<key>displayablememberbehavior</key>
+	<string>inheritedchannelssize</string>
+	<key>largeCharacteristic</key>
+	<string>draggableTextField</string>
+	<key>lossactivityvelocity</key>
+	<string>stackvalueshape</string>
+	<key>onentropytap</key>
+	<string>canDisconnectArithmetic</string>
+	<key>providertierfeedback</key>
+	<string>trajectoryMargin</string>
+	<key>rowLeft</key>
+	<string>shouldStopSession</string>
+</dict>
+</plist>

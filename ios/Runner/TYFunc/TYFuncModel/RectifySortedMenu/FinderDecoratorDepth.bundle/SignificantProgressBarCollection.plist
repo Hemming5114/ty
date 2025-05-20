@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiosingletonstatus</key>
+	<string>bitrateTask</string>
+	<key>delegateSaturation</key>
+	<string>quantizationLoop</string>
+	<key>directlylayer</key>
+	<string>customCapsule</string>
+	<key>discardedGradient</key>
+	<string>customizedpicker</string>
+	<key>immutableVideo</key>
+	<string>shouldPopDelegate</string>
+	<key>mediocreScheduler</key>
+	<string>enabledthememargin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledBandwidth</key>
+	<string>canShowResource</string>
+	<key>fetchutil</key>
+	<string>dispatchRichText</string>
+	<key>globalresult</key>
+	<string>navigateFuture</string>
+	<key>painterLeft</key>
+	<string>materialCanvas</string>
+	<key>replaceoffset</key>
+	<string>ephemeralLogarithm</string>
+	<key>shouldSkipDimension</key>
+	<string>evaluationResponse</string>
+</dict>
+</plist>

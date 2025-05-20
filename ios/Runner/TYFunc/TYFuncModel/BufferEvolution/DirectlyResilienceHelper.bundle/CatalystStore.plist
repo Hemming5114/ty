@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterasshape</key>
+	<string>fetchTask</string>
+	<key>collectioninterval</key>
+	<string>cubituntilbuffer</string>
+	<key>descriptionVelocity</key>
+	<string>captionTier</string>
+	<key>shouldUnbindBullet</key>
+	<string>limitLocalization</string>
+	<key>shouldpublishnotification</key>
+	<string>persistentbloctop</string>
+</dict>
+</plist>

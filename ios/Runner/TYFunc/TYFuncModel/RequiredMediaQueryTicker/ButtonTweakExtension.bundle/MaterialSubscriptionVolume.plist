@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileVector</key>
+	<string>equalizationDepth</string>
+	<key>associatedCombiner</key>
+	<string>transposeException</string>
+	<key>displayableAnimation</key>
+	<string>respondhistogram</string>
+	<key>lossHead</key>
+	<string>equalizationTag</string>
+	<key>shouldUnmountTable</key>
+	<string>shouldReplaceRole</string>
+</dict>
+</plist>

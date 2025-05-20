@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphataxonomy</key>
+	<string>matrixevolution</string>
+	<key>channelsservice</key>
+	<string>canEmitBase</string>
+	<key>compositionalTool</key>
+	<string>hardcurve</string>
+	<key>shouldformatsession</key>
+	<string>lostInteger</string>
+	<key>zoneTheme</key>
+	<string>immutableTextField</string>
+</dict>
+</plist>

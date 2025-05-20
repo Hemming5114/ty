@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableAsset</key>
+	<string>gemlikekind</string>
+	<key>exponentDistance</key>
+	<string>ignoredreducerborder</string>
+	<key>mediumTool</key>
+	<string>traintask</string>
+	<key>painterresponder</key>
+	<string>timelinename</string>
+	<key>shouldEndRole</key>
+	<string>contractionbuffer</string>
+	<key>subpixeltension</key>
+	<string>positionFeedback</string>
+</dict>
+</plist>

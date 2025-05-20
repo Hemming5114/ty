@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentTension</key>
+	<string>compositionflyweightvisibility</string>
+	<key>backwardproviderfrequency</key>
+	<string>intuitiveTween</string>
+	<key>boxshadowDensity</key>
+	<string>shouldPaintTool</string>
+	<key>composableState</key>
+	<string>signMode</string>
+	<key>interfaceinfo</key>
+	<string>webSignature</string>
+	<key>kernelmaterial</key>
+	<string>statefulTween</string>
+	<key>mutableInterpolation</key>
+	<string>shouldListenCertificate</string>
+	<key>semanticBox</key>
+	<string>analyzefactory</string>
+</dict>
+</plist>

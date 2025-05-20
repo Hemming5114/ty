@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardevaluation</key>
+	<string>unsortedEntity</string>
+	<key>consultativetransformer</key>
+	<string>delicateFinder</string>
+	<key>decouplefuture</key>
+	<string>certificatevalidation</string>
+	<key>hierarchicalStore</key>
+	<string>subsequentevent</string>
+	<key>prismaticMultiplication</key>
+	<string>defaultskin</string>
+	<key>shouldDispatchExtension</key>
+	<string>canPauseBatch</string>
+	<key>synchronousTheme</key>
+	<string>gesturedetectorTheme</string>
+</dict>
+</plist>

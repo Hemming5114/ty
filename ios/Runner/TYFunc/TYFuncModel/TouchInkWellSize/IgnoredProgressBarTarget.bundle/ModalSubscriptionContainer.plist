@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDelegate</key>
+	<string>deferredNotification</string>
+	<key>imageFlags</key>
+	<string>shouldBindModal</string>
+	<key>logLocation</key>
+	<string>pinchableTolerance</string>
+	<key>mediocreCaption</key>
+	<string>mobileAcceleration</string>
+	<key>monsterColor</key>
+	<string>canBuildAnimatedContainer</string>
+	<key>shouldFetchStamp</key>
+	<string>mediumdispatcher</string>
+	<key>smallGrayscale</key>
+	<string>typicalResponse</string>
+	<key>specifierInset</key>
+	<string>paintzone</string>
+	<key>strengthShape</key>
+	<string>threadSingleton</string>
+	<key>uniformview</key>
+	<string>receiverPosition</string>
+</dict>
+</plist>

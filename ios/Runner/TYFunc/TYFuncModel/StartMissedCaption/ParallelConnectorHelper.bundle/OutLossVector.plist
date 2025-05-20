@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxdistance</key>
+	<string>shouldRouteAspectRatio</string>
+	<key>delegateMargin</key>
+	<string>soundFeedback</string>
+	<key>mapEdge</key>
+	<string>shouldpushaspectratio</string>
+	<key>mobileforce</key>
+	<string>usageStyle</string>
+	<key>notifierVelocity</key>
+	<string>brushaction</string>
+	<key>shouldhandleobserver</key>
+	<string>shouldEmitBitrate</string>
+</dict>
+</plist>

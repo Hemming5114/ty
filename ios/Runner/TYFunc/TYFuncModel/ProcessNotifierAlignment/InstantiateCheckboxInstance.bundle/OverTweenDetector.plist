@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConnector</key>
+	<string>multiplyreference</string>
+	<key>efficiencyoffset</key>
+	<string>unsortedGestureDetector</string>
+	<key>layerstatus</key>
+	<string>rectifyOffset</string>
+	<key>nextCapsule</key>
+	<string>ignoredSubscriber</string>
+	<key>scalelayer</key>
+	<string>sliderObserver</string>
+	<key>selectedwidget</key>
+	<string>appendgem</string>
+	<key>serializeradius</key>
+	<string>fetchSpine</string>
+	<key>statefulCache</key>
+	<string>shouldEndOptimizer</string>
+</dict>
+</plist>

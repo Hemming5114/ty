@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateddropdownbuttonsize</key>
+	<string>symmetricAspect</string>
+	<key>compositionalmenu</key>
+	<string>signaturecenter</string>
+	<key>concurrentHandler</key>
+	<string>activeFragment</string>
+	<key>dropdownbuttonawaydecorator</key>
+	<string>concreteScalability</string>
+	<key>effectKind</key>
+	<string>shouldAttachOption</string>
+	<key>fixedCustomPaint</key>
+	<string>canProcessMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamiccycle</key>
+	<string>detectorTint</string>
+	<key>fixedPet</key>
+	<string>hasskin</string>
+	<key>interactiveTangent</key>
+	<string>convertNode</string>
+	<key>masterShade</key>
+	<string>buildChannels</string>
+	<key>multiRenderer</key>
+	<string>canDetachSegment</string>
+	<key>rapidDelegate</key>
+	<string>activeRadius</string>
+	<key>seguePosition</key>
+	<string>asyncagainstproxy</string>
+	<key>shouldPublishScroll</key>
+	<string>publishTabBar</string>
+	<key>shoulddeserializemap</key>
+	<string>skirtFlyweight</string>
+</dict>
+</plist>

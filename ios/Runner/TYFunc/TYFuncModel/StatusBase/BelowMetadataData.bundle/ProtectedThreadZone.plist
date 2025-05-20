@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorKind</key>
+	<string>hasmargin</string>
+	<key>gesturedetectorcluster</key>
+	<string>navigationEdge</string>
+	<key>intuitivePromise</key>
+	<string>usedBuffer</string>
+	<key>invisibleUtil</key>
+	<string>hierarchicalEmitter</string>
+	<key>keyCapsule</key>
+	<string>protectedstoryboardrate</string>
+	<key>newestsinkformat</key>
+	<string>shouldPopStateful</string>
+	<key>nextConsumer</key>
+	<string>utilwrapper</string>
+	<key>nodeinformation</key>
+	<string>arithmeticAccessory</string>
+	<key>subtleLayout</key>
+	<string>mediocreSensor</string>
+	<key>subtleResilience</key>
+	<string>exponentcontainkind</string>
+</dict>
+</plist>

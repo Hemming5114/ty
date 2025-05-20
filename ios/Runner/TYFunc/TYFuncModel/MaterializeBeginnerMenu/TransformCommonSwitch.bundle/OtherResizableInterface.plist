@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleimage</key>
+	<string>significantAsync</string>
+	<key>memberAppearance</key>
+	<string>deserializeRepository</string>
+	<key>radiusTint</key>
+	<string>viewstyle</string>
+	<key>rendererShape</key>
+	<string>controllerBehavior</string>
+	<key>retrieveoption</key>
+	<string>presenterinterval</string>
+	<key>singlerow</key>
+	<string>temporaryNib</string>
+	<key>specifierpolyfill</key>
+	<string>adaptiveLoader</string>
+	<key>typicalevent</key>
+	<string>responsivesize</string>
+</dict>
+</plist>

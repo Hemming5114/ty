@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcenter</key>
+	<string>dialogsTransparency</string>
+	<key>nativeVolume</key>
+	<string>originalNotation</string>
+	<key>navigatormargin</key>
+	<string>factoryVar</string>
+	<key>primaryDetector</key>
+	<string>compositionHue</string>
+	<key>selectedbox</key>
+	<string>mediummenuskewy</string>
+	<key>shouldCacheIndicator</key>
+	<string>normSkewX</string>
+	<key>shouldDetachFuture</key>
+	<string>entityRight</string>
+</dict>
+</plist>

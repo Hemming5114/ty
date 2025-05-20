@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetVisible</key>
+	<string>assetskewx</string>
+	<key>diversifiedGestureDetector</key>
+	<string>defaultscaffold</string>
+	<key>hardTangent</key>
+	<string>finderValidation</string>
+	<key>mediaqueryBottom</key>
+	<string>oldTicker</string>
+	<key>navigationbehavior</key>
+	<string>multiAsync</string>
+	<key>screenedge</key>
+	<string>parallelPicker</string>
+	<key>standaloneprotocolshade</key>
+	<string>composableGram</string>
+</dict>
+</plist>

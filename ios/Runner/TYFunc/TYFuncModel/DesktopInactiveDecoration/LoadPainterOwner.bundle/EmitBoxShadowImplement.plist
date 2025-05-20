@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsaspect</key>
+	<string>defaultUsage</string>
+	<key>immediateprotocoltype</key>
+	<string>expandedValidation</string>
+	<key>impressionOffset</key>
+	<string>canYieldMobile</string>
+	<key>intensityBrightness</key>
+	<string>agileThreshold</string>
+	<key>lifecycleType</key>
+	<string>seamlessmechanism</string>
+	<key>responderInset</key>
+	<string>customAnalogy</string>
+	<key>statefulLocation</key>
+	<string>executeIsolate</string>
+</dict>
+</plist>

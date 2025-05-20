@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentrotation</key>
+	<string>scenarioborder</string>
+	<key>callbackorparameter</key>
+	<string>quaterniondirection</string>
+	<key>greatIsolate</key>
+	<string>canDispatchBox</string>
+	<key>inheritedHeap</key>
+	<string>difficultAnimator</string>
+	<key>promiseborder</key>
+	<string>lostCaption</string>
+	<key>shouldCacheSine</key>
+	<string>musicshapesaturation</string>
+	<key>storyboardCount</key>
+	<string>decorationAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturestate</key>
+	<string>sequentialEquipment</string>
+	<key>autoRecursion</key>
+	<string>chapterIndex</string>
+	<key>captionAppearance</key>
+	<string>accordionBandwidth</string>
+	<key>colortheme</key>
+	<string>vectorValue</string>
+	<key>exceptionversusbridge</key>
+	<string>radioDepth</string>
+	<key>similarRow</key>
+	<string>presentSample</string>
+	<key>usedasync</key>
+	<string>shouldResumeProfile</string>
+</dict>
+</plist>

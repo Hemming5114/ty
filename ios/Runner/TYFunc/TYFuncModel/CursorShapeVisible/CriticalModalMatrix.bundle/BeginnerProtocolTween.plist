@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalBloc</key>
+	<string>shouldDecodeStoryboard</string>
+	<key>currentInteraction</key>
+	<string>resilientTheme</string>
+	<key>immediateSample</key>
+	<string>shouldRebuildLabel</string>
+	<key>inactiveView</key>
+	<string>mediumnotificationrotation</string>
+	<key>similarprotocol</key>
+	<string>canBindNotification</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertradius</key>
+	<string>hierarchicalTabBar</string>
+	<key>capturerow</key>
+	<string>introspectChart</string>
+	<key>delegatepermutation</key>
+	<string>presenterTask</string>
+	<key>navigatorstructurefrequency</key>
+	<string>refactorMenu</string>
+	<key>othertransitionedge</key>
+	<string>yieldBloc</string>
+	<key>skirtDensity</key>
+	<string>semanticSkirt</string>
+</dict>
+</plist>

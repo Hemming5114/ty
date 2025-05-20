@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousProvider</key>
+	<string>respondAction</string>
+	<key>deprecatesink</key>
+	<string>draggableDelegate</string>
+	<key>mapCoord</key>
+	<string>shouldPersistSession</string>
+	<key>materializetabbar</key>
+	<string>emitterhue</string>
+	<key>particleRate</key>
+	<string>animatedcontainerinset</string>
+	<key>toolTension</key>
+	<string>unmountedchannel</string>
+</dict>
+</plist>

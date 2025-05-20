@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileparticle</key>
+	<string>errorSingleton</string>
+	<key>assetState</key>
+	<string>shouldSetStatePageView</string>
+	<key>directlyChannels</key>
+	<string>baselinescope</string>
+	<key>eagerDocument</key>
+	<string>animatedVector</string>
+	<key>imperativechannelbottom</key>
+	<string>uniqueSkin</string>
+	<key>persistentAnchor</key>
+	<string>textfieldAppearance</string>
+	<key>shouldPersistWorkflow</key>
+	<string>unactivatedMaterializer</string>
+	<key>sortedGrayscale</key>
+	<string>queueContext</string>
+	<key>tickerTension</key>
+	<string>invokeChannel</string>
+</dict>
+</plist>

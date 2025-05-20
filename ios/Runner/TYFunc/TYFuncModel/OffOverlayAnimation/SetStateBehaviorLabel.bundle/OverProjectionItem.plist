@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnchor</key>
+	<string>activeCupertino</string>
+	<key>commonStorage</key>
+	<string>interceptChannel</string>
+	<key>prismaticProtocol</key>
+	<string>numericalProvider</string>
+</dict>
+</plist>

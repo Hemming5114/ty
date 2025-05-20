@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStore</key>
+	<string>advancedInterpolation</string>
+	<key>coordinatorworkspeed</key>
+	<string>allocatordetector</string>
+	<key>replicaDuration</key>
+	<string>receiveAlignment</string>
+	<key>shouldValidateDropdownButton</key>
+	<string>basicRenderer</string>
+	<key>spinconfiguration</key>
+	<string>integrationFormat</string>
+	<key>statefulUtil</key>
+	<string>streamContext</string>
+	<key>substantialAnimation</key>
+	<string>reusableintensity</string>
+	<key>substantialBox</key>
+	<string>usedPolyfill</string>
+	<key>workflowLeft</key>
+	<string>displayablereferenceborder</string>
+</dict>
+</plist>

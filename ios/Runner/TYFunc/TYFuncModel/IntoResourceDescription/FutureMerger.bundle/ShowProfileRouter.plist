@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easystream</key>
+	<string>adaptiveAscent</string>
+	<key>emitscale</key>
+	<string>operationSaturation</string>
+	<key>labelskewy</key>
+	<string>transformerflags</string>
+	<key>localWrapper</key>
+	<string>disclaimerScale</string>
+	<key>permissivestateless</key>
+	<string>shouldLoadGrayscale</string>
+	<key>rapidBase</key>
+	<string>uniqueVideo</string>
+	<key>roleTail</key>
+	<string>opaqueResilience</string>
+	<key>tentativeTransparency</key>
+	<string>normalGraph</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleTint</key>
+	<string>cursordistance</string>
+	<key>removebrush</key>
+	<string>integerdescription</string>
+	<key>shouldDisposeTable</key>
+	<string>shouldroutemedia</string>
+	<key>shouldPopMember</key>
+	<string>maxUnary</string>
+	<key>subtleCustomPaint</key>
+	<string>interfaceborder</string>
+	<key>webPresenter</key>
+	<string>shouldPushExponent</string>
+</dict>
+</plist>

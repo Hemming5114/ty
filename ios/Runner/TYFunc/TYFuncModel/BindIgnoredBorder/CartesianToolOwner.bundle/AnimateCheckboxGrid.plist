@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintstatus</key>
+	<string>retainedAlert</string>
+	<key>containermesh</key>
+	<string>usedDropdownButton</string>
+	<key>escalateinteractor</key>
+	<string>sizeMediator</string>
+	<key>notificationsorter</key>
+	<string>shouldContinueOperation</string>
+	<key>polyfillbrightness</key>
+	<string>canLoadDelegate</string>
+	<key>shouldProcessConstraint</key>
+	<string>retainedCustomPaint</string>
+	<key>toolDirection</key>
+	<string>composableMonster</string>
+</dict>
+</plist>

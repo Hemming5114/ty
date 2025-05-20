@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSensor</key>
+	<string>toolType</string>
+	<key>deliveryInterval</key>
+	<string>rapidEquivalent</string>
+	<key>logarithmhead</key>
+	<string>convertParticle</string>
+	<key>shouldlistenrole</key>
+	<string>emitPositioned</string>
+	<key>sineShade</key>
+	<string>fixedHeap</string>
+	<key>updatecurve</key>
+	<string>synchronizeProgressBar</string>
+</dict>
+</plist>

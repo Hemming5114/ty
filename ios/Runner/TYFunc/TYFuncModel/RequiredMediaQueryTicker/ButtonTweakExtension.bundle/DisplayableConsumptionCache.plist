@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarybehavior</key>
+	<string>flexVisible</string>
+	<key>gridviewOrientation</key>
+	<string>activatedUtil</string>
+	<key>interactivePublisher</key>
+	<string>easyVector</string>
+	<key>mediocreGraph</key>
+	<string>asynchronousConverter</string>
+	<key>persistentAudio</key>
+	<string>propagateRow</string>
+	<key>sliderawayvisitor</key>
+	<string>delicateWidget</string>
+</dict>
+</plist>

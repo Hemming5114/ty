@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableExtension</key>
+	<string>defaultappbar</string>
+	<key>delegatecount</key>
+	<string>mountsession</string>
+	<key>delicateInstruction</key>
+	<string>canFetchFragment</string>
+	<key>fragmentsLocation</key>
+	<string>columnColor</string>
+	<key>functionalState</key>
+	<string>bitratescene</string>
+	<key>hierarchicalsliderrate</key>
+	<string>liteAnalogy</string>
+	<key>immutableGraphic</key>
+	<string>canUnbindLog</string>
+	<key>keyBinder</key>
+	<string>extendAlignment</string>
+	<key>richtextflags</key>
+	<string>interceptStore</string>
+</dict>
+</plist>

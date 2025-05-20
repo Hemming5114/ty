@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedScenario</key>
+	<string>retrieveOffset</string>
+	<key>evolutionValidation</key>
+	<string>gridviewIndex</string>
+	<key>interfaceAppearance</key>
+	<string>exponentAdapter</string>
+	<key>positionmaterializer</key>
+	<string>finishCollection</string>
+	<key>relationalProcessor</key>
+	<string>lastGrayscale</string>
+	<key>significantScroller</key>
+	<string>listviewSaturation</string>
+	<key>textureScale</key>
+	<string>basicIsolate</string>
+	<key>transformerTheme</key>
+	<string>canStopGem</string>
+	<key>variantInteraction</key>
+	<string>referencePosition</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionMomentum</key>
+	<string>unsortedCanvas</string>
+	<key>backwardSubscription</key>
+	<string>shouldInflateBoxShadow</string>
+	<key>deliveryPadding</key>
+	<string>reusableEqualization</string>
+	<key>interfaceResponse</key>
+	<string>diffableTriangles</string>
+	<key>missedscaffold</key>
+	<string>shouldUnbindDialogs</string>
+	<key>sharedTexture</key>
+	<string>greatusagesaturation</string>
+	<key>shouldEndLoss</key>
+	<string>singleStore</string>
+	<key>shouldUpdatePainter</key>
+	<string>unmarshalReducer</string>
+	<key>skincontroller</key>
+	<string>replaceProgressBar</string>
+	<key>transpilesink</key>
+	<string>canMountedChecklist</string>
+</dict>
+</plist>

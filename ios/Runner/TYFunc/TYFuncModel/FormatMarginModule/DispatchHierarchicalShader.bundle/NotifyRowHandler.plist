@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedLoss</key>
+	<string>persistentMesh</string>
+	<key>imageLeft</key>
+	<string>secondController</string>
+	<key>normState</key>
+	<string>delegateTop</string>
+	<key>replacetexture</key>
+	<string>dialogsfinder</string>
+</dict>
+</plist>

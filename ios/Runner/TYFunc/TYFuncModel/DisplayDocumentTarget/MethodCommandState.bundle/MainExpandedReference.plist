@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterTheme</key>
+	<string>shouldDecodeGradient</string>
+	<key>explicitZone</key>
+	<string>shouldParseRow</string>
+	<key>labelamongenvironment</key>
+	<string>crucialrenderer</string>
+	<key>liteHash</key>
+	<string>intuitiveCompletion</string>
+	<key>mobileCell</key>
+	<string>opaqueIntegration</string>
+	<key>nibContrast</key>
+	<string>curveHead</string>
+	<key>persistentInfrastructure</key>
+	<string>bulletTheme</string>
+	<key>resourceMode</key>
+	<string>bitrateAppearance</string>
+</dict>
+</plist>

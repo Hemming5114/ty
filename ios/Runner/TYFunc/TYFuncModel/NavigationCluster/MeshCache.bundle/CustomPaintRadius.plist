@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializesignature</key>
+	<string>statefulPlayback</string>
+	<key>draggableRecursion</key>
+	<string>operationPressure</string>
+	<key>efficiencyColor</key>
+	<string>spineProxy</string>
+	<key>grainBound</key>
+	<string>shouldBuildCell</string>
+	<key>layoutpermode</key>
+	<string>techniqueresult</string>
+	<key>lossMargin</key>
+	<string>currentTentative</string>
+	<key>substantialRouter</key>
+	<string>shouldRebuildSpot</string>
+</dict>
+</plist>

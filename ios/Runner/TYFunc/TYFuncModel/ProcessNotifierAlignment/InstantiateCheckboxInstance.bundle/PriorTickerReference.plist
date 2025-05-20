@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProgressBar</key>
+	<string>shouldBindScaffold</string>
+	<key>boxDepth</key>
+	<string>progressbarorientation</string>
+	<key>criticalTexture</key>
+	<string>minLabel</string>
+	<key>flexBehavior</key>
+	<string>shouldHandleAccessory</string>
+	<key>grouplocation</key>
+	<string>canDisposeNavigation</string>
+	<key>ignoredMission</key>
+	<string>navigateRect</string>
+	<key>listenstore</key>
+	<string>minInstruction</string>
+	<key>methodTransparency</key>
+	<string>temporaryElasticity</string>
+	<key>sorterBottom</key>
+	<string>textureState</string>
+	<key>uniqueBorder</key>
+	<string>skirtFunction</string>
+</dict>
+</plist>

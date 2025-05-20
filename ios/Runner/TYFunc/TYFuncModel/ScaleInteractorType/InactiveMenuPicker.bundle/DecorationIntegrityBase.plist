@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentthanplatform</key>
+	<string>shadercycletop</string>
+	<key>ascentinteraction</key>
+	<string>reusableeventcontrast</string>
+	<key>localcellstate</key>
+	<string>divideerror</string>
+	<key>mobilephasehue</key>
+	<string>emitpainter</string>
+	<key>subsequentBandwidth</key>
+	<string>canSubscribeMedia</string>
+</dict>
+</plist>

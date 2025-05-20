@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleView</key>
+	<string>continueCharacter</string>
+	<key>columntop</key>
+	<string>graphMemento</string>
+	<key>logarithmdirection</key>
+	<string>activeAnimator</string>
+	<key>movementMode</key>
+	<string>canInflateProtocol</string>
+	<key>shouldEncodeCharacter</key>
+	<string>shouldStartModal</string>
+	<key>titleInset</key>
+	<string>tappableMerger</string>
+</dict>
+</plist>

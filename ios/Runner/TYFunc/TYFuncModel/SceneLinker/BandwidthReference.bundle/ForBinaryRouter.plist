@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedfilter</key>
+	<string>replacecosine</string>
+	<key>builderMode</key>
+	<string>extensionProxy</string>
+	<key>customizedExtension</key>
+	<string>singlesingletonsaturation</string>
+	<key>enabledColor</key>
+	<string>generateNavigator</string>
+	<key>entityfacadeflags</key>
+	<string>notifyReducer</string>
+	<key>informationRate</key>
+	<string>secondWidget</string>
+	<key>shouldDecodeMusic</key>
+	<string>cardcommanddelay</string>
+	<key>shouldParseCursor</key>
+	<string>lazyStack</string>
+	<key>statefulBaseline</key>
+	<string>elasticityVisibility</string>
+	<key>sustainableSearcher</key>
+	<string>optimizerqueue</string>
+</dict>
+</plist>

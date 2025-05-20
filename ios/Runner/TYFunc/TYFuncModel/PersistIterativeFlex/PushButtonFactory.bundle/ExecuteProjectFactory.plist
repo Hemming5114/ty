@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchormesh</key>
+	<string>delicateProcessor</string>
+	<key>cupertinoSymbol</key>
+	<string>capsulegraph</string>
+	<key>markmanager</key>
+	<string>fixedPicker</string>
+	<key>robustConstant</key>
+	<string>adaptivelabel</string>
+	<key>selectedcontainer</key>
+	<string>intensityvisible</string>
+	<key>statefunctionscale</key>
+	<string>hierarchicalGate</string>
+	<key>usedTextField</key>
+	<string>exitSingleton</string>
+</dict>
+</plist>

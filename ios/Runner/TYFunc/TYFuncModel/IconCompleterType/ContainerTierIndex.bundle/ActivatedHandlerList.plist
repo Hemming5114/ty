@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEquipment</key>
+	<string>decodeSkirt</string>
+	<key>multiIcon</key>
+	<string>enabledPageView</string>
+	<key>pinchableRoute</key>
+	<string>decodeManager</string>
+	<key>symmetricModel</key>
+	<string>localanchorrotation</string>
+	<key>unmountederror</key>
+	<string>canLoadTool</string>
+</dict>
+</plist>

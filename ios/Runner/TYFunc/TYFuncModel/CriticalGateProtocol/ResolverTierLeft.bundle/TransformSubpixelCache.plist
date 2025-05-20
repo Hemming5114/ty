@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInkWell</key>
+	<string>updateDuration</string>
+	<key>loadprecision</key>
+	<string>scrollableConfiguration</string>
+	<key>permissiveScroll</key>
+	<string>dissociateButton</string>
+	<key>promiseconsumer</key>
+	<string>resumeBase</string>
+	<key>publishtransition</key>
+	<string>inflateQueue</string>
+	<key>schedulerContrast</key>
+	<string>samplePadding</string>
+	<key>shouldReplaceTheme</key>
+	<string>projectionCommand</string>
+	<key>subtleScheduler</key>
+	<string>restoreController</string>
+</dict>
+</plist>

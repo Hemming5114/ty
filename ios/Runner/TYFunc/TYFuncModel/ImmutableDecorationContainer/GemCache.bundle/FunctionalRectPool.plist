@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTrajectory</key>
+	<string>subtleCheckbox</string>
+	<key>activepointtail</key>
+	<string>comprehensivesingletoninset</string>
+	<key>concurrentTimeline</key>
+	<string>widgetJob</string>
+	<key>directlyArithmetic</key>
+	<string>seamlessSign</string>
+	<key>independentResolver</key>
+	<string>shouldStopListView</string>
+	<key>shouldFormatDimension</key>
+	<string>usageInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentthanfacade</key>
+	<string>restoreWidget</string>
+	<key>greatButton</key>
+	<string>moveDependency</string>
+	<key>liteSpecifier</key>
+	<string>disabledbitrate</string>
+	<key>positionInteraction</key>
+	<string>navigatorSaturation</string>
+	<key>requiredTechnique</key>
+	<string>semanticsTail</string>
+</dict>
+</plist>

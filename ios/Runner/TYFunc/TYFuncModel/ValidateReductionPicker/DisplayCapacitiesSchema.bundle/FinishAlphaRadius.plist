@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheresolver</key>
+	<string>connectOverlay</string>
+	<key>concurrentMaterial</key>
+	<string>shoulddismissspine</string>
+	<key>defaultaxis</key>
+	<string>shouldShowSemantics</string>
+	<key>multiChart</key>
+	<string>originalEmitter</string>
+	<key>oldgrain</key>
+	<string>storyboardPattern</string>
+	<key>presentmodal</key>
+	<string>elasticBoxShadow</string>
+	<key>traversalCoord</key>
+	<string>navigateCubit</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorbyparameter</key>
+	<string>interfaceCenter</string>
+	<key>asynchronousScalability</key>
+	<string>shouldlistengesture</string>
+	<key>inflatevector</key>
+	<string>visibleResult</string>
+	<key>nativeeventlocation</key>
+	<string>seamlessbuilder</string>
+	<key>projectionColor</key>
+	<string>gateHue</string>
+	<key>statefulSkewY</key>
+	<string>connectorValidation</string>
+</dict>
+</plist>

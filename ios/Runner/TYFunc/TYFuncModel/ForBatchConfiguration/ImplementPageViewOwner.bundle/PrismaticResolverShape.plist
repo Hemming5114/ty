@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocpercycle</key>
+	<string>histogramContext</string>
+	<key>compositionMode</key>
+	<string>mainCharacter</string>
+	<key>decorationState</key>
+	<string>evolutionindex</string>
+	<key>functionalCallback</key>
+	<string>shouldReplaceOperation</string>
+	<key>moduluslatency</key>
+	<string>nextStore</string>
+	<key>resilientEvent</key>
+	<string>painterActivity</string>
+</dict>
+</plist>

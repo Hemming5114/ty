@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedOperation</key>
+	<string>tappableEmitter</string>
+	<key>analogyfeedback</key>
+	<string>makecustompaint</string>
+	<key>drawerInterval</key>
+	<string>statelessBehavior</string>
+	<key>ignoredObserver</key>
+	<string>brushBorder</string>
+	<key>layoutState</key>
+	<string>priorEvolution</string>
+	<key>metricsresponse</key>
+	<string>delegateframe</string>
+	<key>prioraperturehead</key>
+	<string>asyncResponse</string>
+	<key>shouldPopButton</key>
+	<string>equalizationrect</string>
+	<key>significantExtension</key>
+	<string>observeVector</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProjection</key>
+	<string>replaceHash</string>
+	<key>appbarSpacing</key>
+	<string>granularscope</string>
+	<key>builderbound</key>
+	<string>renderProfile</string>
+	<key>custompaintTransparency</key>
+	<string>pointAction</string>
+	<key>immutableHandler</key>
+	<string>saveMargin</string>
+	<key>queuecontrast</key>
+	<string>stringifyProgressBar</string>
+	<key>standaloneMaterial</key>
+	<string>objectValidation</string>
+	<key>statelessTweak</key>
+	<string>updateRadius</string>
+	<key>trianglesskewy</key>
+	<string>nodeedge</string>
+</dict>
+</plist>

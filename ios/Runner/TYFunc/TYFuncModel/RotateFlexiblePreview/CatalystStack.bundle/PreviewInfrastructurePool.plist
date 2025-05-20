@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filterBrightness</key>
+	<string>sharedgraphorientation</string>
+	<key>listenerCoord</key>
+	<string>requiredPolygon</string>
+	<key>scrollabletransition</key>
+	<string>declarativeequivalent</string>
+	<key>shouldRouteDialogs</key>
+	<string>rectifyFactory</string>
+</dict>
+</plist>

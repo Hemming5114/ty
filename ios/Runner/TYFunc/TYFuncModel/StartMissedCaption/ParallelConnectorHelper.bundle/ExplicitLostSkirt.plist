@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzewidget</key>
+	<string>relationalSelector</string>
+	<key>diffableCompletion</key>
+	<string>canResumeScroll</string>
+	<key>injectlistener</key>
+	<string>reductionsearcher</string>
+	<key>scrollablematrix</key>
+	<string>chartSystem</string>
+	<key>utiltail</key>
+	<string>shouldunbindnavigation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryFrequency</key>
+	<string>routeCapacities</string>
+	<key>concretetimer</key>
+	<string>infrastructureFrequency</string>
+	<key>modulusdespiteaction</key>
+	<string>effectHue</string>
+	<key>originalTimeline</key>
+	<string>accessibleContainer</string>
+	<key>shouldKeepSubpixel</key>
+	<string>canUpdateArithmetic</string>
+	<key>shouldReplaceTask</key>
+	<string>shouldYieldSegue</string>
+	<key>shouldUnmountedCanvas</key>
+	<string>adaptiveSize</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedvolume</key>
+	<string>sampleVariable</string>
+	<key>globalDescription</key>
+	<string>canPrepareCube</string>
+	<key>resilienceTheme</key>
+	<string>endLabel</string>
+	<key>shoulddisposedescriptor</key>
+	<string>lazyUsage</string>
+	<key>signlocation</key>
+	<string>canEmitNavigation</string>
+	<key>stackDelay</key>
+	<string>disparatepopupdepth</string>
+	<key>substantialStoryboard</key>
+	<string>smartDelegate</string>
+	<key>unactivatedMission</key>
+	<string>shouldNavigateLayout</string>
+</dict>
+</plist>

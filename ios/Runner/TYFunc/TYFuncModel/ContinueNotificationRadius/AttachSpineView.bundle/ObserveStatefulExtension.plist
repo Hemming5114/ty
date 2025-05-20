@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marshalrichtext</key>
+	<string>reductionlikevariable</string>
+	<key>menuformat</key>
+	<string>collectionMargin</string>
+	<key>missedCapacities</key>
+	<string>scaleName</string>
+	<key>persistentReference</key>
+	<string>shouldpublishproject</string>
+	<key>shouldMountContainer</key>
+	<string>resetconfiguration</string>
+	<key>shouldnotifybaseline</key>
+	<string>similarscreen</string>
+	<key>transformerBound</key>
+	<string>grainactionflags</string>
+	<key>unactivatedStoryboard</key>
+	<string>maxAccessory</string>
+</dict>
+</plist>

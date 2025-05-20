@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLayer</key>
+	<string>sophisticatedMember</string>
+	<key>creatorForce</key>
+	<string>hashformat</string>
+	<key>loadtask</key>
+	<string>catalystcallback</string>
+	<key>overridenavigator</key>
+	<string>reusableZone</string>
+</dict>
+</plist>

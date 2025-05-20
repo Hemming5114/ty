@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCapacity</key>
+	<string>similarAccessory</string>
+	<key>layoutaroundstyle</key>
+	<string>discoverSlider</string>
+	<key>managerSpeed</key>
+	<string>adaptiveView</string>
+	<key>movebrush</key>
+	<string>skinexceptmethod</string>
+	<key>oldBaseline</key>
+	<string>gesturedetectorSpacing</string>
+	<key>smallChannel</key>
+	<string>borderCenter</string>
+</dict>
+</plist>

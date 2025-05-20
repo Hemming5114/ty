@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonState</key>
+	<string>deploySingleton</string>
+	<key>dynamicReducer</key>
+	<string>vectorFlags</string>
+	<key>imperativeBloc</key>
+	<string>intuitiveAscent</string>
+	<key>quaternionOrigin</key>
+	<string>usecaseActivity</string>
+</dict>
+</plist>

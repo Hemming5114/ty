@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedKernel</key>
+	<string>workflowFrequency</string>
+	<key>baselinestateorigin</key>
+	<string>primaryRepository</string>
+	<key>eventIndex</key>
+	<string>batchSingleton</string>
+	<key>recursionBehavior</key>
+	<string>interfacerectangle</string>
+	<key>relationalTheme</key>
+	<string>bufferVar</string>
+	<key>responsestatus</key>
+	<string>canDismissImage</string>
+	<key>seamlessNotification</key>
+	<string>visibleRoute</string>
+	<key>sessionTheme</key>
+	<string>mountedScale</string>
+	<key>shouldBindLogarithm</key>
+	<string>shouldMountShader</string>
+	<key>sinkResponse</key>
+	<string>specifySample</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFrame</key>
+	<string>hardObserver</string>
+	<key>basicSelector</key>
+	<string>detachTexture</string>
+	<key>handlerDistance</key>
+	<string>offsetStream</string>
+	<key>isolateVelocity</key>
+	<string>cycleScope</string>
+	<key>priorCharacteristic</key>
+	<string>dataappearance</string>
+	<key>priorPriority</key>
+	<string>infoColor</string>
+	<key>responderEdge</key>
+	<string>addMethod</string>
+	<key>semanticSize</key>
+	<string>sortedData</string>
+	<key>timeFormat</key>
+	<string>visibleDetector</string>
+</dict>
+</plist>

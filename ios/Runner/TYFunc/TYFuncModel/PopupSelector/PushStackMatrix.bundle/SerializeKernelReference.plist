@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableView</key>
+	<string>inactiveSize</string>
+	<key>lastDelegate</key>
+	<string>queueHead</string>
+	<key>normalRemediation</key>
+	<string>usageSpacing</string>
+	<key>requestSize</key>
+	<string>yieldCache</string>
+	<key>retainedImpact</key>
+	<string>displayableDialogs</string>
+	<key>shouldPauseProjection</key>
+	<string>disconnectNavigator</string>
+	<key>shouldStopModal</key>
+	<string>variantMargin</string>
+	<key>statelessCursor</key>
+	<string>layoutmetadata</string>
+</dict>
+</plist>

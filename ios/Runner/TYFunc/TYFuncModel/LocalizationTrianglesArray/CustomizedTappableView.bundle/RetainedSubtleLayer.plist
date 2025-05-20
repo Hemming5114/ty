@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoplate</key>
+	<string>decodeRepository</string>
+	<key>labelandoperation</key>
+	<string>validateExtension</string>
+	<key>responserate</key>
+	<string>parseHero</string>
+	<key>scrollableListView</key>
+	<string>semanticcheckboxdepth</string>
+	<key>shouldSetStateSignature</key>
+	<string>uniformBase</string>
+	<key>singleResource</key>
+	<string>shouldAnimateText</string>
+	<key>synchronousNib</key>
+	<string>exponentVar</string>
+</dict>
+</plist>

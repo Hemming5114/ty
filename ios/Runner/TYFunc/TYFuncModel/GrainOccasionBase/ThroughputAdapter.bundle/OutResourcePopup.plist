@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencycontainfacade</key>
+	<string>finishConstraint</string>
+	<key>mobileItem</key>
+	<string>subtleInteraction</string>
+	<key>quaternionCount</key>
+	<string>firstPreview</string>
+	<key>resolvertheme</key>
+	<string>canDisconnectTernary</string>
+	<key>shouldBindProtocol</key>
+	<string>bindProtocol</string>
+	<key>shouldCacheExtension</key>
+	<string>subtleLayer</string>
+	<key>symmetricNorm</key>
+	<string>compositionalelement</string>
+	<key>validatecapacities</key>
+	<string>accelerateMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDistance</key>
+	<string>temporaryDecoration</string>
+	<key>createalpha</key>
+	<string>clearcupertino</string>
+	<key>deferredEqualization</key>
+	<string>routertype</string>
+	<key>dynamicNib</key>
+	<string>allocateIsolate</string>
+	<key>effectmodel</key>
+	<string>deactivateController</string>
+	<key>permanentUsage</key>
+	<string>immediateTransition</string>
+	<key>sequentialProgressBar</key>
+	<string>pushtopic</string>
+	<key>vectorizebaseline</key>
+	<string>explicitPlate</string>
+</dict>
+</plist>

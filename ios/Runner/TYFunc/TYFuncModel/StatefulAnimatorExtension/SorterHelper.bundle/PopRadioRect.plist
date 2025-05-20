@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatConnector</key>
+	<string>cartesianFrame</string>
+	<key>momentumthroughput</key>
+	<string>rectDensity</string>
+	<key>mutableMaterializer</key>
+	<string>eraseSlider</string>
+	<key>shouldSerializeAnimation</key>
+	<string>segmentHead</string>
+	<key>webNotification</key>
+	<string>painterresult</string>
+</dict>
+</plist>

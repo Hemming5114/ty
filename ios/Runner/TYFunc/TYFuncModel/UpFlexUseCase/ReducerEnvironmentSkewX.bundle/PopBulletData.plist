@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesgroup</key>
+	<string>mutableView</string>
+	<key>cardOffset</key>
+	<string>similarSubpixel</string>
+	<key>currentdependency</key>
+	<string>canBindCard</string>
+	<key>recursionName</key>
+	<string>profiledelivery</string>
+	<key>robustReplica</key>
+	<string>pageviewMode</string>
+	<key>shouldNotifySegment</key>
+	<string>analogyTint</string>
+	<key>shouldProcessReduction</key>
+	<string>defaultBuilder</string>
+	<key>shouldSerializeChannels</key>
+	<string>shouldHandleInteger</string>
+	<key>smallAlert</key>
+	<string>framefactory</string>
+</dict>
+</plist>

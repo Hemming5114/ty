@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectCoord</key>
+	<string>sensorBound</string>
+	<key>moveservice</key>
+	<string>blocbeyondstyle</string>
+	<key>nodetriangles</key>
+	<string>litePicker</string>
+	<key>notifierorientation</key>
+	<string>routeScroll</string>
+	<key>protectedTexture</key>
+	<string>backwardpresenter</string>
+</dict>
+</plist>

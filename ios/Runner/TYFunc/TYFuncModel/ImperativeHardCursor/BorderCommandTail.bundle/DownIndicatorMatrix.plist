@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDistance</key>
+	<string>overrideStorage</string>
+	<key>cupertinolikework</key>
+	<string>shouldMountedGesture</string>
+	<key>declarativeAsync</key>
+	<string>keepAspect</string>
+	<key>futureanimator</key>
+	<string>updateWorkflow</string>
+	<key>gesturedetectorBottom</key>
+	<string>originalCupertino</string>
+	<key>hardCupertino</key>
+	<string>lostGesture</string>
+	<key>largeModal</key>
+	<string>statelessRate</string>
+	<key>otherController</key>
+	<string>canUnmountedBuilder</string>
+	<key>significantException</key>
+	<string>dedicatedDescription</string>
+</dict>
+</plist>

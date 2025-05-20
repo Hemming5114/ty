@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationdistance</key>
+	<string>canValidateBloc</string>
+	<key>bufferanalyzer</key>
+	<string>richtextPosition</string>
+	<key>captionshape</key>
+	<string>canEndSine</string>
+	<key>concurrentdrawer</key>
+	<string>sanitizeTask</string>
+	<key>opaqueEquivalent</key>
+	<string>taskkind</string>
+	<key>reduceralongstate</key>
+	<string>shouldShowColumn</string>
+	<key>shouldRouteColumn</key>
+	<string>numericalcubittheme</string>
+	<key>stateincycle</key>
+	<string>oldCombiner</string>
+</dict>
+</plist>

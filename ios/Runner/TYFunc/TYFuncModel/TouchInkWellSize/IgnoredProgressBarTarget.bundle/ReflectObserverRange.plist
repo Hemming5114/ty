@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableVolume</key>
+	<string>releaseConstraint</string>
+	<key>isolateorchain</key>
+	<string>chapterBehavior</string>
+	<key>numericalreducer</key>
+	<string>optimizerMemento</string>
+	<key>oldInteractor</key>
+	<string>materializeContainer</string>
+	<key>referencelayout</key>
+	<string>gestureJob</string>
+	<key>retainedThroughput</key>
+	<string>elasticStateful</string>
+	<key>reusableAwait</key>
+	<string>largeThroughput</string>
+	<key>shouldEmitGram</key>
+	<string>ephemeralFuture</string>
+	<key>significantScenario</key>
+	<string>coordinatoroffset</string>
+</dict>
+</plist>

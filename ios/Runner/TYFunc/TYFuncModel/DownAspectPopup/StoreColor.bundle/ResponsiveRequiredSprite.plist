@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicstamp</key>
+	<string>euclideansplitter</string>
+	<key>blocLeft</key>
+	<string>usageTint</string>
+	<key>localizationaboutform</key>
+	<string>contrastSize</string>
+	<key>reusableSemantics</key>
+	<string>statefulVariable</string>
+	<key>shouldPopMember</key>
+	<string>isBehavior</string>
+	<key>shouldpaintarithmetic</key>
+	<string>positionedType</string>
+	<key>tweeninteraction</key>
+	<string>explicitTolerance</string>
+</dict>
+</plist>

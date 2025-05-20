@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushreducer</key>
+	<string>capacitiesRate</string>
+	<key>keyAmortization</key>
+	<string>mixincurve</string>
+	<key>similarGram</key>
+	<string>layoutSensor</string>
+	<key>streamMode</key>
+	<string>concreteCheckbox</string>
+</dict>
+</plist>

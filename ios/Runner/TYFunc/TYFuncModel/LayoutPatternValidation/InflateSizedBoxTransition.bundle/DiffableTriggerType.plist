@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblebaseforce</key>
+	<string>canMountChecklist</string>
+	<key>beginnerCubit</key>
+	<string>currentCubit</string>
+	<key>blocoutsidecomposite</key>
+	<string>interceptSubscription</string>
+	<key>easyJoiner</key>
+	<string>sizeStage</string>
+	<key>elasticityCount</key>
+	<string>compositionallabelspeed</string>
+	<key>imperativeOffset</key>
+	<string>pinchableListener</string>
+	<key>newestCombiner</key>
+	<string>retrieveLayout</string>
+	<key>robustbuilder</key>
+	<string>debugFeature</string>
+</dict>
+</plist>

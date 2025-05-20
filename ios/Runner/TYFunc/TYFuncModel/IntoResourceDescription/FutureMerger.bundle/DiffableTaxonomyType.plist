@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeActivity</key>
+	<string>inheritedBuilder</string>
+	<key>constraintbesidecomposite</key>
+	<string>semanticFilter</string>
+	<key>interactionresponse</key>
+	<string>shouldDispatchEntropy</string>
+	<key>interactiveConsumption</key>
+	<string>observePrecision</string>
+	<key>nextCustomPaint</key>
+	<string>tweakBehavior</string>
+	<key>optionleft</key>
+	<string>prepareResource</string>
+	<key>scrollCoord</key>
+	<string>maxRadio</string>
+	<key>shouldFormatUsage</key>
+	<string>shouldPrepareCache</string>
+</dict>
+</plist>

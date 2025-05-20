@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerDistance</key>
+	<string>rectangleState</string>
+	<key>heapframe</key>
+	<string>resourcejoiner</string>
+	<key>integerstate</key>
+	<string>aspectPlatform</string>
+	<key>modalRight</key>
+	<string>shouldSetStateGradient</string>
+	<key>requiredNavigator</key>
+	<string>secondConfiguration</string>
+	<key>responsiveGem</key>
+	<string>allocatorname</string>
+	<key>retainedDialogs</key>
+	<string>diffablelistener</string>
+	<key>tappableHistogram</key>
+	<string>equalPopup</string>
+	<key>timelineBorder</key>
+	<string>crudeSlider</string>
+</dict>
+</plist>

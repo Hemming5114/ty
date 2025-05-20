@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticReducer</key>
+	<string>updateTransformer</string>
+	<key>benchmarkdropdownbutton</key>
+	<string>wrapResolver</string>
+	<key>connectorScale</key>
+	<string>materialCanvas</string>
+	<key>cupertinoGrain</key>
+	<string>multiAsset</string>
+	<key>firstScalability</key>
+	<string>sizedboxMediator</string>
+	<key>multiResolver</key>
+	<string>timeVisibility</string>
+	<key>nativepriority</key>
+	<string>shaderMemento</string>
+	<key>normalmusicfrequency</key>
+	<string>clusterSize</string>
+	<key>parsecoordinator</key>
+	<string>lossborder</string>
+	<key>publishscene</key>
+	<string>servicebridgeorigin</string>
+</dict>
+</plist>

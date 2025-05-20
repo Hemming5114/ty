@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeasset</key>
+	<string>canObserveProvider</string>
+	<key>permissiveAspect</key>
+	<string>missedAperture</string>
+	<key>robustLayer</key>
+	<string>shouldHandleSegment</string>
+	<key>substantialtrigger</key>
+	<string>discardedRemediation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBatch</key>
+	<string>assethue</string>
+	<key>batchDistance</key>
+	<string>isolateParameter</string>
+	<key>difficultcosineposition</key>
+	<string>widgetTag</string>
+	<key>disabledService</key>
+	<string>aggregateReducer</string>
+	<key>explicitReference</key>
+	<string>viewContext</string>
+	<key>mediaqueryMargin</key>
+	<string>shouldShowPlayback</string>
+	<key>sequentialEvolution</key>
+	<string>hasview</string>
+	<key>shouldStartExpanded</key>
+	<string>quantizationstream</string>
+	<key>singleCapacities</key>
+	<string>canPrepareNavigator</string>
+</dict>
+</plist>

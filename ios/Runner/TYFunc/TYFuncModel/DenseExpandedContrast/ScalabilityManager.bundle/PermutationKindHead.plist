@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteOperation</key>
+	<string>isolateprototypecoord</string>
+	<key>lazyIntegration</key>
+	<string>compositionalAnimatedContainer</string>
+	<key>liteSine</key>
+	<string>opaqueScalability</string>
+	<key>resilientFactory</key>
+	<string>collectionSystem</string>
+	<key>sortedSlash</key>
+	<string>commonMesh</string>
+	<key>tentativeFormat</key>
+	<string>enumerateRow</string>
+</dict>
+</plist>

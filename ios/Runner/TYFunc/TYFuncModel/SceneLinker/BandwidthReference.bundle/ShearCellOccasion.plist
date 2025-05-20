@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorpolyfill</key>
+	<string>attachCurve</string>
+	<key>crudeAnalyzer</key>
+	<string>disposeProtocol</string>
+	<key>currentnib</key>
+	<string>componentBrightness</string>
+	<key>iterativeTechnique</key>
+	<string>combinerLocation</string>
+	<key>subsequentRichText</key>
+	<string>dismissExponent</string>
+	<key>videoFormat</key>
+	<string>discoverTimer</string>
+</dict>
+</plist>

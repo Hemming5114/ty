@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoIntegrity</key>
+	<string>animatedanchorposition</string>
+	<key>inactiveAllocator</key>
+	<string>processdescription</string>
+	<key>interactivecoordinatorcenter</key>
+	<string>canAnimateRole</string>
+	<key>multiGridView</key>
+	<string>petResponse</string>
+	<key>mutableModule</key>
+	<string>otherFactory</string>
+	<key>shouldRenderModal</key>
+	<string>buildBitrate</string>
+</dict>
+</plist>

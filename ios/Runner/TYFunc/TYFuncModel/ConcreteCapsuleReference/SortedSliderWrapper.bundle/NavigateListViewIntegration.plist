@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleKernel</key>
+	<string>elasticInfo</string>
+	<key>mainAperture</key>
+	<string>factoryvolume</string>
+	<key>resizableOverlay</key>
+	<string>moveLocalization</string>
+	<key>respectiveScroller</key>
+	<string>protocoltransparency</string>
+	<key>statebound</key>
+	<string>inactiveSound</string>
+</dict>
+</plist>

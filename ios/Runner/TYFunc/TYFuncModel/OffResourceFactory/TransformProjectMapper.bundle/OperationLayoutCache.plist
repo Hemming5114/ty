@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionReducer</key>
+	<string>basicBinder</string>
+	<key>cartesianResult</key>
+	<string>lazyFormat</string>
+	<key>concreteScheduler</key>
+	<string>shouldHandleLayout</string>
+	<key>concurrentGrid</key>
+	<string>marginKind</string>
+	<key>graphictweak</key>
+	<string>granularFuture</string>
+	<key>lossvarresponse</key>
+	<string>functionalNotifier</string>
+	<key>strengthLeft</key>
+	<string>assetname</string>
+	<key>tentativeSpacing</key>
+	<string>progressbarStyle</string>
+	<key>usedModal</key>
+	<string>protectedEmitter</string>
+</dict>
+</plist>

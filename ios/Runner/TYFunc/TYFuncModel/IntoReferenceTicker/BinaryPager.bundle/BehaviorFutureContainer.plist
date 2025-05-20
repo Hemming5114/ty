@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEntity</key>
+	<string>discoverFrame</string>
+	<key>capsulefromflyweight</key>
+	<string>canPublishAnimatedContainer</string>
+	<key>gridDensity</key>
+	<string>decorationstrategyalignment</string>
+	<key>liteMovement</key>
+	<string>shouldPresentTool</string>
+	<key>otherTweak</key>
+	<string>deferredTime</string>
+	<key>popupviaprocess</key>
+	<string>shouldLoadLogarithm</string>
+	<key>scaleSkewX</key>
+	<string>storyboardAppearance</string>
+</dict>
+</plist>

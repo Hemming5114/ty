@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledTheme</key>
+	<string>persistlabel</string>
+	<key>hardReliability</key>
+	<string>sustainableScalability</string>
+	<key>permanentIsolate</key>
+	<string>gridviewSkewX</string>
+	<key>shouldEmitIcon</key>
+	<string>prepareCheckbox</string>
+	<key>specifydurationindex</key>
+	<string>shouldReplaceBox</string>
+</dict>
+</plist>

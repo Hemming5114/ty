@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseInteraction</key>
+	<string>timerskewy</string>
+	<key>customizedProvider</key>
+	<string>unscheduleSingleton</string>
+	<key>iconcreator</key>
+	<string>checkboxFlyweight</string>
+	<key>imageinteraction</key>
+	<string>renamenotifier</string>
+	<key>methodinformation</key>
+	<string>consumerAction</string>
+	<key>rangeBrightness</key>
+	<string>managerType</string>
+	<key>sortedInfo</key>
+	<string>usedTweak</string>
+	<key>tangentsaturation</key>
+	<string>unsortedframevalidation</string>
+</dict>
+</plist>

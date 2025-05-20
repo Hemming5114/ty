@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicFrequency</key>
+	<string>wrapperLocation</string>
+	<key>converterkind</key>
+	<string>nibRight</string>
+	<key>coordinatorCoord</key>
+	<string>stepTag</string>
+	<key>keyTransformer</key>
+	<string>tappableData</string>
+	<key>numericalCosine</key>
+	<string>shouldFetchStep</string>
+	<key>receivertransparency</key>
+	<string>observerObserver</string>
+	<key>singlePainter</key>
+	<string>shouldAttachText</string>
+	<key>smartbox</key>
+	<string>accessoryreducer</string>
+	<key>sorterOrientation</key>
+	<string>canBindOperation</string>
+</dict>
+</plist>

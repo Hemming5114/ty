@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCard</key>
+	<string>createCard</string>
+	<key>challengeDelay</key>
+	<string>traincallback</string>
+	<key>explicitcapsulestatus</key>
+	<string>tweakTint</string>
+	<key>intuitiveisolate</key>
+	<string>canMountBloc</string>
+	<key>respectiveMaterial</key>
+	<string>permissiveEfficiency</string>
+	<key>sharedModule</key>
+	<string>canCancelDelegate</string>
+	<key>shouldDisposeCurve</key>
+	<string>semanticsproxyvalidation</string>
+	<key>shouldReplaceAxis</key>
+	<string>synchronizeRouter</string>
+	<key>shouldStreamProject</key>
+	<string>channelsBrightness</string>
+	<key>zoneSpacing</key>
+	<string>hasbox</string>
+</dict>
+</plist>

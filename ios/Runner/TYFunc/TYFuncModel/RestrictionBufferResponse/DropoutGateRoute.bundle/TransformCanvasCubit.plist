@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchparticle</key>
+	<string>robustcoordinator</string>
+	<key>colorAcceleration</key>
+	<string>taskIndex</string>
+	<key>shouldFetchSpecifier</key>
+	<string>protectedStateless</string>
+	<key>shouldStartCache</key>
+	<string>asyncFramework</string>
+	<key>shouldyieldimage</key>
+	<string>convolutionAlignment</string>
+</dict>
+</plist>

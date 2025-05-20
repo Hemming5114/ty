@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentwrapper</key>
+	<string>compositionalSign</string>
+	<key>inkwellhandler</key>
+	<string>challengephasebottom</string>
+	<key>lostSpot</key>
+	<string>delicateBinder</string>
+	<key>opaqueResilience</key>
+	<string>serializeTool</string>
+	<key>requestmodel</key>
+	<string>materializeParticle</string>
+	<key>requiredAsset</key>
+	<string>rotateTransition</string>
+	<key>timelineTop</key>
+	<string>canDetachPoint</string>
+	<key>widgetpressure</key>
+	<string>constantState</string>
+</dict>
+</plist>

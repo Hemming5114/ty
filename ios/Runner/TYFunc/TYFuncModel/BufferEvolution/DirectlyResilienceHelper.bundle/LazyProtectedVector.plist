@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledparticlecoord</key>
+	<string>transformActivity</string>
+	<key>newestcolor</key>
+	<string>secondSprite</string>
+	<key>radiusHead</key>
+	<string>decorationMargin</string>
+	<key>sceneconstant</key>
+	<string>positionState</string>
+	<key>slidertypecenter</key>
+	<string>cursorTask</string>
+</dict>
+</plist>

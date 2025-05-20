@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRecursion</key>
+	<string>pageviewIndex</string>
+	<key>nextcapacities</key>
+	<string>shouldrestartduration</string>
+	<key>shouldFetchTextField</key>
+	<string>repositoryFrequency</string>
+	<key>sineforce</key>
+	<string>segmentMediator</string>
+	<key>smartCapacity</key>
+	<string>joinerEdge</string>
+	<key>staticSubscription</key>
+	<string>canUnmountedExponent</string>
+</dict>
+</plist>

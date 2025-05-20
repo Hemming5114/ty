@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineskewy</key>
+	<string>reactiveEqualization</string>
+	<key>interactiveBuilder</key>
+	<string>lazyModal</string>
+	<key>radiosink</key>
+	<string>dynamicFilter</string>
+</dict>
+</plist>

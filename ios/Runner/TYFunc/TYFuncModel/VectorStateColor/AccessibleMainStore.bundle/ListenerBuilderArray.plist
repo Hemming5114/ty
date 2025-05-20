@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorymode</key>
+	<string>typicalMaster</string>
+	<key>intermediateCallback</key>
+	<string>isActivity</string>
+	<key>remainderSaturation</key>
+	<string>canStartCupertino</string>
+	<key>synchronousBox</key>
+	<string>performDependency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentPlayback</key>
+	<string>persistenteventdirection</string>
+	<key>prismaticFragments</key>
+	<string>parallelConstraint</string>
+	<key>resilientRouter</key>
+	<string>handleIntensity</string>
+	<key>shouldunbindrole</key>
+	<string>shouldValidateMobile</string>
+	<key>sortedFactory</key>
+	<string>fillCurve</string>
+	<key>timelineOpacity</key>
+	<string>semanticCheckbox</string>
+</dict>
+</plist>

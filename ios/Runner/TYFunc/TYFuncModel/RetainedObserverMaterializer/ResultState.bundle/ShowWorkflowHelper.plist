@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultUseCase</key>
+	<string>responseFlags</string>
+	<key>hasvariant</key>
+	<string>bulletshapeshade</string>
+	<key>ignoredtentative</key>
+	<string>hierarchicaldocumentindex</string>
+	<key>mutableTween</key>
+	<string>threadName</string>
+	<key>pickerSaturation</key>
+	<string>draggableScene</string>
+	<key>remaindersensor</key>
+	<string>grainSaturation</string>
+	<key>selectedTheme</key>
+	<string>compositionValue</string>
+	<key>shouldStopModal</key>
+	<string>shouldPrepareRoute</string>
+	<key>significantTechnique</key>
+	<string>permissiveModel</string>
+	<key>webException</key>
+	<string>notifierDensity</string>
+</dict>
+</plist>

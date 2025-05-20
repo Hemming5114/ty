@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSymbol</key>
+	<string>canCancelSlider</string>
+	<key>audioAlignment</key>
+	<string>stateColor</string>
+	<key>discardedTabView</key>
+	<string>rapidStateless</string>
+	<key>instantiateoffset</key>
+	<string>sharedSegue</string>
+	<key>isolateVelocity</key>
+	<string>shouldProcessConsumer</string>
+	<key>optimizerSkewY</key>
+	<string>nibInset</string>
+	<key>selectedTabBar</key>
+	<string>displayCubit</string>
+	<key>statelessTriangles</key>
+	<string>unregisterLayout</string>
+</dict>
+</plist>

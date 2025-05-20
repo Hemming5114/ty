@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCube</key>
+	<string>titleShade</string>
+	<key>catalystLocation</key>
+	<string>controllerexceptvalue</string>
+	<key>hasBatch</key>
+	<string>seamlessEqualization</string>
+	<key>mutableCurve</key>
+	<string>singleNib</string>
+	<key>nodesaturation</key>
+	<string>routebydecorator</string>
+	<key>pivotalTransition</key>
+	<string>lostView</string>
+	<key>timelineKind</key>
+	<string>canSkipSkin</string>
+	<key>timerdespiteadapter</key>
+	<string>yieldExponent</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordiontopicdelay</key>
+	<string>streamtransition</string>
+	<key>lastEvaluation</key>
+	<string>canStopAppBar</string>
+	<key>shouldCancelSpine</key>
+	<string>latencySkewX</string>
+	<key>workflowDepth</key>
+	<string>canUnmountedAccessory</string>
+</dict>
+</plist>

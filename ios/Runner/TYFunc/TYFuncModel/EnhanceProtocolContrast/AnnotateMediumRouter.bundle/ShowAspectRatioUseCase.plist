@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTimeline</key>
+	<string>listencosine</string>
+	<key>invisibleMargin</key>
+	<string>associatedOffset</string>
+	<key>requiredPermutation</key>
+	<string>primaryWrapper</string>
+	<key>routerSize</key>
+	<string>listenDescription</string>
+	<key>shouldFormatText</key>
+	<string>sustainableItem</string>
+	<key>shouldSkipMap</key>
+	<string>explicitMapper</string>
+	<key>subscriberCenter</key>
+	<string>storehash</string>
+</dict>
+</plist>

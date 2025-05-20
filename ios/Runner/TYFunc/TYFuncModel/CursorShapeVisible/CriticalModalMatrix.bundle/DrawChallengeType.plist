@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionmodelposition</key>
+	<string>interpolateMenu</string>
+	<key>geometricImage</key>
+	<string>hasButton</string>
+	<key>lostSubscription</key>
+	<string>constraintHue</string>
+	<key>shouldBindPlayback</key>
+	<string>statefulOrigin</string>
+	<key>shouldFetchBloc</key>
+	<string>equalizationComposite</string>
+	<key>symmetricTrajectory</key>
+	<string>canSkipDropdownButton</string>
+</dict>
+</plist>

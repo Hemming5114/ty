@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralNavigator</key>
+	<string>resizabledata</string>
+	<key>ignoredHistogram</key>
+	<string>responseDecorator</string>
+	<key>shouldAttachPadding</key>
+	<string>capacitiesPrototype</string>
+	<key>tweenaroundobserver</key>
+	<string>lazyInteger</string>
+</dict>
+</plist>

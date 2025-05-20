@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionscenario</key>
+	<string>inheritedChart</string>
+	<key>customRadio</key>
+	<string>shouldStopTool</string>
+	<key>desktopSubscriber</key>
+	<string>processScaffold</string>
+	<key>dialogsSpacing</key>
+	<string>cycleAlignment</string>
+	<key>eagerLocalization</key>
+	<string>consultativeInformation</string>
+	<key>imperativePermutation</key>
+	<string>delicateTask</string>
+	<key>independentConfiguration</key>
+	<string>canUnmountedBrush</string>
+	<key>projectiondispatcher</key>
+	<string>infrastructureVisible</string>
+	<key>shouldroutecontainer</key>
+	<string>canCreateGram</string>
+	<key>tensorSwitch</key>
+	<string>shouldFinishSkirt</string>
+</dict>
+</plist>

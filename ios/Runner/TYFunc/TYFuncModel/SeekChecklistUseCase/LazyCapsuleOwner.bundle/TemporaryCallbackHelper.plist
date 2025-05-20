@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultrole</key>
+	<string>comprehensivecontraction</string>
+	<key>densePolygon</key>
+	<string>animatefuture</string>
+	<key>frameBehavior</key>
+	<string>interactionIndex</string>
+	<key>requeststatus</key>
+	<string>renderStamp</string>
+	<key>stateskewy</key>
+	<string>tweendistance</string>
+	<key>taskproxyopacity</key>
+	<string>scenarioShade</string>
+	<key>uniquechapterinset</key>
+	<string>cupertinoFactory</string>
+</dict>
+</plist>

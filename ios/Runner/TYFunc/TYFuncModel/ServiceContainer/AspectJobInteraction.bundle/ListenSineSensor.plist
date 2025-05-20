@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLayer</key>
+	<string>toolrect</string>
+	<key>disconnectcatalyst</key>
+	<string>histogramName</string>
+	<key>shouldAnimateMusic</key>
+	<string>canRenderContainer</string>
+	<key>shouldDispatchConsumer</key>
+	<string>shoulddisposeswift</string>
+	<key>shouldMountedOperation</key>
+	<string>detachBatch</string>
+	<key>smartNode</key>
+	<string>optimizerAlignment</string>
+	<key>widgetDistance</key>
+	<string>searchgrid</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvascontainer</key>
+	<string>cancelAspect</string>
+	<key>entityAppearance</key>
+	<string>scalebyobserver</string>
+	<key>kernelmodeforce</key>
+	<string>statefulStack</string>
+	<key>markentity</key>
+	<string>popRect</string>
+	<key>retainasset</key>
+	<string>convertMetadata</string>
+	<key>shouldUnbindTool</key>
+	<string>uniquecustompaintlocation</string>
+	<key>sinkAcceleration</key>
+	<string>movementProcess</string>
+	<key>sophisticatedMaterializer</key>
+	<string>subtleSelector</string>
+	<key>synchronousSkirt</key>
+	<string>intuitivequeueindex</string>
+	<key>synchronousrowscale</key>
+	<string>shouldUnbindPainter</string>
+</dict>
+</plist>

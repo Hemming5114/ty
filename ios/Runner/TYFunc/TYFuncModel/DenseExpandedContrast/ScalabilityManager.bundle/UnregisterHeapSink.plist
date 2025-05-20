@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintMode</key>
+	<string>disabledChannels</string>
+	<key>globalHero</key>
+	<string>equipmentBound</string>
+	<key>lastIcon</key>
+	<string>navigatecontroller</string>
+	<key>notifierBottom</key>
+	<string>taskAppearance</string>
+	<key>rectangleDistance</key>
+	<string>shouldRestartContraction</string>
+	<key>smallSlash</key>
+	<string>transformerinset</string>
+	<key>sortedNode</key>
+	<string>comparespot</string>
+</dict>
+</plist>

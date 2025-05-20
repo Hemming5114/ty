@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBatch</key>
+	<string>compositionTension</string>
+	<key>equalmetadata</key>
+	<string>formatOrigin</string>
+	<key>impactMargin</key>
+	<string>positionedPosition</string>
+	<key>permissiveTabBar</key>
+	<string>uniformStack</string>
+	<key>plateMargin</key>
+	<string>secondReference</string>
+	<key>shouldResumeStateful</key>
+	<string>materializeView</string>
+</dict>
+</plist>

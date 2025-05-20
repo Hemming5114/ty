@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioFlags</key>
+	<string>interactorpadding</string>
+	<key>custompaintpublisher</key>
+	<string>explicitLoss</string>
+	<key>delicateUseCase</key>
+	<string>currentdialogs</string>
+	<key>meshSpacing</key>
+	<string>resilientCluster</string>
+	<key>multiplicationEdge</key>
+	<string>constantTransparency</string>
+	<key>shouldMountedSession</key>
+	<string>functionalTexture</string>
+	<key>temporaryPadding</key>
+	<string>canDeserializeCapsule</string>
+</dict>
+</plist>

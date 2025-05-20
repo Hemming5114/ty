@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedComponent</key>
+	<string>scaletypetension</string>
+	<key>aspectAlignment</key>
+	<string>canParseChannels</string>
+	<key>customSplitter</key>
+	<string>nibSkewX</string>
+	<key>deserializescene</key>
+	<string>entityJob</string>
+	<key>localroutevalidation</key>
+	<string>pushInjection</string>
+	<key>mediaDepth</key>
+	<string>smallExpanded</string>
+	<key>shouldObserveCosine</key>
+	<string>curvefunctionscale</string>
+	<key>shouldfinishchannels</key>
+	<string>endSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTag</key>
+	<string>persistentstorageskewx</string>
+	<key>firstGroup</key>
+	<string>animatedcontainerAction</string>
+	<key>reusableinjectionopacity</key>
+	<string>observerchaincoord</string>
+	<key>shouldSerializeProtocol</key>
+	<string>canAttachBatch</string>
+	<key>subscribeasset</key>
+	<string>completedAlpha</string>
+</dict>
+</plist>

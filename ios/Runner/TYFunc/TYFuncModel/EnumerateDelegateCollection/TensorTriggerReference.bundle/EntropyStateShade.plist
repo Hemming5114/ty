@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProjection</key>
+	<string>tickerInterpreter</string>
+	<key>asynchronousAsset</key>
+	<string>layoutcanvas</string>
+	<key>criticalMonster</key>
+	<string>clipResolver</string>
+	<key>dependencyasinterpreter</key>
+	<string>tensorappbar</string>
+	<key>publicSegment</key>
+	<string>shouldinflatepositioned</string>
+	<key>recursionAlignment</key>
+	<string>multicubitdistance</string>
+	<key>sortedSine</key>
+	<string>diffableMapper</string>
+	<key>tappableOperation</key>
+	<string>composableresolver</string>
+</dict>
+</plist>

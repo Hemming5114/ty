@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogySpeed</key>
+	<string>stepLeft</string>
+	<key>elasticSearcher</key>
+	<string>textFlags</string>
+	<key>enabledProcessor</key>
+	<string>measureException</string>
+	<key>scaleBorder</key>
+	<string>nativeScene</string>
+	<key>tappableInjection</key>
+	<string>asyncSpeed</string>
+</dict>
+</plist>

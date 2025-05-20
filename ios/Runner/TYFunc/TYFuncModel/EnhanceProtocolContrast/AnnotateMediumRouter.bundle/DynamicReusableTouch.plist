@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachesprite</key>
+	<string>accordionObject</string>
+	<key>dependencySpacing</key>
+	<string>interactiveMission</string>
+	<key>graphforce</key>
+	<string>buildlocalization</string>
+	<key>ignoredCertificate</key>
+	<string>basicReceiver</string>
+	<key>materialConsumption</key>
+	<string>opaqueLoss</string>
+	<key>optimizertolerance</key>
+	<string>gestureasync</string>
+	<key>reducertweak</key>
+	<string>shouldCacheBehavior</string>
+	<key>secondHero</key>
+	<string>particlepermemento</string>
+	<key>shouldparsecycle</key>
+	<string>animatedSession</string>
+	<key>uniformTopic</key>
+	<string>variantsingletonmode</string>
+</dict>
+</plist>

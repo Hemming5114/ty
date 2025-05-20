@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorMode</key>
+	<string>sortedContainer</string>
+	<key>configurationResponse</key>
+	<string>deflateParticle</string>
+	<key>defaultscreen</key>
+	<string>taskSpeed</string>
+	<key>draggableResource</key>
+	<string>otherModel</string>
+	<key>hardbehavior</key>
+	<string>compositionTail</string>
+	<key>imperativeChannel</key>
+	<string>navigatorLevel</string>
+	<key>responsiveSelector</key>
+	<string>signaturePressure</string>
+	<key>shouldSkipEquipment</key>
+	<string>tickerBridge</string>
+</dict>
+</plist>

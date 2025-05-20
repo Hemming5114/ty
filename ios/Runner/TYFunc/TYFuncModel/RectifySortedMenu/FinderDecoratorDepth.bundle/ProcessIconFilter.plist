@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTraversal</key>
+	<string>currentcollection</string>
+	<key>eagersink</key>
+	<string>enabledTaxonomy</string>
+	<key>navigatordecoratorpadding</key>
+	<string>framepatternspacing</string>
+	<key>performgrid</key>
+	<string>unmarshalHash</string>
+	<key>primaryPlate</key>
+	<string>statefulScale</string>
+	<key>semanticStream</key>
+	<string>initializeIsolate</string>
+	<key>shouldnotifyvariant</key>
+	<string>asyncwithoutvar</string>
+	<key>streamgrain</key>
+	<string>heroPrototype</string>
+	<key>symmetricRect</key>
+	<string>canConnectBitrate</string>
+</dict>
+</plist>

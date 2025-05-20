@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAppBar</key>
+	<string>resetStore</string>
+	<key>grainFeedback</key>
+	<string>resilientTween</string>
+	<key>hardAnimatedContainer</key>
+	<string>boxInterpreter</string>
+	<key>lostPresenter</key>
+	<string>bindLayout</string>
+	<key>navigatorneartask</key>
+	<string>mutableExponent</string>
+	<key>relationalFactory</key>
+	<string>elasticPolygon</string>
+	<key>techniquetint</key>
+	<string>shouldattachsemantics</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTernary</key>
+	<string>reduceButton</string>
+	<key>autoIntegrity</key>
+	<string>fixedNavigator</string>
+	<key>gesturedetectorPressure</key>
+	<string>dedicatedSegment</string>
+	<key>limitgrid</key>
+	<string>saveDocument</string>
+	<key>mediumSlash</key>
+	<string>composableUnary</string>
+	<key>resilientMobile</key>
+	<string>subtleImage</string>
+	<key>scrollAlignment</key>
+	<string>asynchronousTimeline</string>
+	<key>standalonematrix</key>
+	<string>metadataCoord</string>
+</dict>
+</plist>

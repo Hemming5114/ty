@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousConverter</key>
+	<string>transformerlevelborder</string>
+	<key>brushthroughfunction</key>
+	<string>sequentialWorkflow</string>
+	<key>hyperbolicProcessor</key>
+	<string>asynchronousSession</string>
+	<key>loopMargin</key>
+	<string>scopeBehavior</string>
+	<key>resilientMend</key>
+	<string>publicBuffer</string>
+	<key>selectorFlags</key>
+	<string>cancelPainter</string>
+	<key>shapeInterval</key>
+	<string>borderInset</string>
+	<key>shouldNavigateOptimizer</key>
+	<string>protectedProject</string>
+	<key>shouldTransitionController</key>
+	<string>memberspacing</string>
+</dict>
+</plist>

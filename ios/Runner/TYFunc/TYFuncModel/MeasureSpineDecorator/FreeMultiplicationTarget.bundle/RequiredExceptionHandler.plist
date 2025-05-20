@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableVariant</key>
+	<string>buildSegue</string>
+	<key>exceptionmodule</key>
+	<string>endPlayback</string>
+	<key>lostAmortization</key>
+	<string>readAnimation</string>
+	<key>nodebridgeorientation</key>
+	<string>dialogsType</string>
+	<key>originalOptimizer</key>
+	<string>significantcursorresponse</string>
+	<key>widgetagainstinterpreter</key>
+	<string>shouldEndHeap</string>
+</dict>
+</plist>

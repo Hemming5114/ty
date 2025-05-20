@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentcontroller</key>
+	<string>aggregateError</string>
+	<key>euclideanCollection</key>
+	<string>projectVelocity</string>
+	<key>keyObserver</key>
+	<string>requiredState</string>
+	<key>largeasync</key>
+	<string>onmomentumtap</string>
+	<key>shouldPublishCurve</key>
+	<string>concurrentLoader</string>
+	<key>updatestep</key>
+	<string>reusableSymbol</string>
+</dict>
+</plist>

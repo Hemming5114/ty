@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyRectangle</key>
+	<string>presentAlpha</string>
+	<key>marksemantics</key>
+	<string>restartMission</string>
+	<key>shouldRebuildModal</key>
+	<string>collectionCommand</string>
+	<key>shouldtransitionprotocol</key>
+	<string>scenePressure</string>
+	<key>sustainableSprite</key>
+	<string>shouldPushView</string>
+	<key>tickercolor</key>
+	<string>asynchronousSink</string>
+</dict>
+</plist>

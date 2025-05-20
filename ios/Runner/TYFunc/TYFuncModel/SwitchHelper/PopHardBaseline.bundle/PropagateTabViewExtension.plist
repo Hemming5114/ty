@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardGraph</key>
+	<string>immediateCoordinator</string>
+	<key>indicatorDirection</key>
+	<string>bulletSize</string>
+	<key>materialFlags</key>
+	<string>shouldencodegrayscale</string>
+	<key>mobilecheckboxdelay</key>
+	<string>mobileChannels</string>
+	<key>opaqueReducer</key>
+	<string>shouldPaintMaterial</string>
+	<key>seamlessEfficiency</key>
+	<string>restoreMethod</string>
+	<key>shouldbindpoint</key>
+	<string>firstTween</string>
+	<key>signatureOpacity</key>
+	<string>gramagainstenvironment</string>
+	<key>viewstructuretransparency</key>
+	<string>delegatesymbol</string>
+</dict>
+</plist>

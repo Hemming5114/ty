@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeElement</key>
+	<string>basicCell</string>
+	<key>asynchronousAscent</key>
+	<string>rowFeedback</string>
+	<key>fixedScroller</key>
+	<string>assetObserver</string>
+	<key>heapEdge</key>
+	<string>pauseMaterial</string>
+	<key>loopTop</key>
+	<string>iconObserver</string>
+	<key>recursionBrightness</key>
+	<string>prismaticIntegrity</string>
+	<key>shouldlayoutmedia</key>
+	<string>prepareequalization</string>
+	<key>storelayercount</key>
+	<string>particleDepth</string>
+</dict>
+</plist>

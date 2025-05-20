@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLoader</key>
+	<string>canBindEqualization</string>
+	<key>commonHash</key>
+	<string>canObserveInterpolation</string>
+	<key>displayableAnalogy</key>
+	<string>accordionSample</string>
+	<key>fixedScope</key>
+	<string>canNotifyMedia</string>
+	<key>mapResponse</key>
+	<string>insteadpresenter</string>
+	<key>materialdimension</key>
+	<string>canSubscribeNib</string>
+	<key>numericalMethod</key>
+	<string>servicebeyondphase</string>
+	<key>scaffoldCoord</key>
+	<string>rapidPosition</string>
+	<key>texturetype</key>
+	<string>deserializeProject</string>
+</dict>
+</plist>

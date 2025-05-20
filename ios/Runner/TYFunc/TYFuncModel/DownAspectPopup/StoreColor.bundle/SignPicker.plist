@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isCoordinator</key>
+	<string>layoutvertex</string>
+	<key>menustate</key>
+	<string>sharedEquivalent</string>
+	<key>promiseBehavior</key>
+	<string>canStopImage</string>
+	<key>shouldAnimateDescriptor</key>
+	<string>shouldSkipCurve</string>
+	<key>shouldDismissSensor</key>
+	<string>animationFormat</string>
+	<key>shouldPresentGridView</key>
+	<string>prevStamp</string>
+	<key>sliderSaturation</key>
+	<string>substantialBatch</string>
+	<key>subsequentcertificatecount</key>
+	<string>transitionTransparency</string>
+</dict>
+</plist>

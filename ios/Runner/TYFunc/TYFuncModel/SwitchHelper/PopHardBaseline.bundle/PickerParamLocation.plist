@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredProtocol</key>
+	<string>activeBoxShadow</string>
+	<key>indicatorBrightness</key>
+	<string>transitionStateful</string>
+	<key>mainTrigger</key>
+	<string>shouldDisposeSegment</string>
+	<key>pivotalRadius</key>
+	<string>inactiveLocalization</string>
+	<key>receiverOrientation</key>
+	<string>canPersistEquipment</string>
+	<key>resilientAsync</key>
+	<string>nodeincycle</string>
+	<key>shouldFinishButton</key>
+	<string>hastransition</string>
+	<key>significantVolume</key>
+	<string>seamlessAspect</string>
+</dict>
+</plist>

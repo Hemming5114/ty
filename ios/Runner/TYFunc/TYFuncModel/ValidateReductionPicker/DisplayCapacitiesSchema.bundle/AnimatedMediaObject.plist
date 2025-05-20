@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledGem</key>
+	<string>controllerShape</string>
+	<key>enabledSine</key>
+	<string>routepresenter</string>
+	<key>exceptionmechanism</key>
+	<string>crudeTolerance</string>
+	<key>independentCache</key>
+	<string>commonChallenge</string>
+	<key>intermediateObject</key>
+	<string>reactiveIcon</string>
+	<key>permissiveTriangles</key>
+	<string>rowBehavior</string>
+	<key>resizableconfiguration</key>
+	<string>shouldPaintActivity</string>
+	<key>shouldConnectFlex</key>
+	<string>animatedUseCase</string>
+	<key>shouldFormatBloc</key>
+	<string>wrapSprite</string>
+	<key>unmountsink</key>
+	<string>resizableRole</string>
+</dict>
+</plist>

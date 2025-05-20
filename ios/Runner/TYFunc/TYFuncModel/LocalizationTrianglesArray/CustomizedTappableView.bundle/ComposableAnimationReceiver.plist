@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constructspot</key>
+	<string>drawerpressure</string>
+	<key>discardedLocalization</key>
+	<string>shouldPrepareEntropy</string>
+	<key>mediaqueryStatus</key>
+	<string>boxresponder</string>
+	<key>persistentDrawer</key>
+	<string>checkboxPosition</string>
+	<key>resilientRectangle</key>
+	<string>modalPhase</string>
+	<key>routedecoration</key>
+	<string>shouldDismissTabView</string>
+	<key>shouldSubscribeCupertino</key>
+	<string>widgetValue</string>
+	<key>streamMomentum</key>
+	<string>difficultRepository</string>
+	<key>substantiallistenerdensity</key>
+	<string>parallelLayout</string>
+</dict>
+</plist>

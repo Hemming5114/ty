@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCoordinator</key>
+	<string>protocolRate</string>
+	<key>basicMethod</key>
+	<string>hierarchicalSlider</string>
+	<key>mobilescale</key>
+	<string>deserializeProgressBar</string>
+	<key>parallelFlex</key>
+	<string>uniformconverter</string>
+	<key>resizableScenario</key>
+	<string>standaloneSpecifier</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeOffset</key>
+	<string>respectiveGraphic</string>
+	<key>endaction</key>
+	<string>projectname</string>
+	<key>inkwellOrientation</key>
+	<string>shouldResumeCustomPaint</string>
+	<key>profileFlags</key>
+	<string>robustThread</string>
+	<key>shouldProcessMultiplication</key>
+	<string>restartEntropy</string>
+</dict>
+</plist>

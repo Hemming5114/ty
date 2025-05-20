@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatemobile</key>
+	<string>dispatchComposition</string>
+	<key>declarativeBandwidth</key>
+	<string>viewPhase</string>
+	<key>disconnectaspect</key>
+	<string>tickerequivalent</string>
+	<key>hardCombiner</key>
+	<string>activePageView</string>
+	<key>mutableInkWell</key>
+	<string>mutablemembervisible</string>
+	<key>shouldRouteCollection</key>
+	<string>loaderHue</string>
+	<key>volumeRotation</key>
+	<string>touchAsync</string>
+</dict>
+</plist>

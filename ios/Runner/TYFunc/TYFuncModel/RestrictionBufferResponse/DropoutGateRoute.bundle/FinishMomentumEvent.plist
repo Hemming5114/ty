@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyOrientation</key>
+	<string>canRestartIcon</string>
+	<key>aspectratiodelay</key>
+	<string>missedPlate</string>
+	<key>discardedReference</key>
+	<string>canConnectRemainder</string>
+	<key>explicitskirt</key>
+	<string>concreteGraph</string>
+	<key>layerbehavior</key>
+	<string>canSkipTask</string>
+	<key>mapperSkewX</key>
+	<string>declarativeDisclaimer</string>
+	<key>musicCount</key>
+	<string>resolveCallback</string>
+	<key>shouldPopWorkflow</key>
+	<string>dismissState</string>
+	<key>spriteimpact</key>
+	<string>giftPosition</string>
+</dict>
+</plist>

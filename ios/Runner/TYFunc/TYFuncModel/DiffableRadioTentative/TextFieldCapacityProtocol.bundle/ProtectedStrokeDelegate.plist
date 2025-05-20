@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellInteraction</key>
+	<string>nextSearcher</string>
+	<key>iterativePrecision</key>
+	<string>canLoadCursor</string>
+	<key>keepcoordinator</key>
+	<string>eventParam</string>
+	<key>litePosition</key>
+	<string>accessiblealignment</string>
+	<key>movementRight</key>
+	<string>canPaintStateless</string>
+	<key>reactiveIntensity</key>
+	<string>optimizeIntensity</string>
+	<key>shouldPublishBullet</key>
+	<string>primarychecklist</string>
+	<key>widgetLeft</key>
+	<string>channelsbeyondlayer</string>
+</dict>
+</plist>

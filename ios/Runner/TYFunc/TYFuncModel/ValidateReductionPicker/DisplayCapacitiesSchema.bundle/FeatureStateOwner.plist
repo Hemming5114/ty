@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPositioned</key>
+	<string>unactivatedProject</string>
+	<key>disabledListener</key>
+	<string>lossTheme</string>
+	<key>hardCharacter</key>
+	<string>durationphasepressure</string>
+	<key>showslider</key>
+	<string>menufrequency</string>
+	<key>themeCenter</key>
+	<string>compareBuffer</string>
+	<key>thresholdPressure</key>
+	<string>attachTernary</string>
+</dict>
+</plist>

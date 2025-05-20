@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeOptimizer</key>
+	<string>tableHue</string>
+	<key>immutableEvent</key>
+	<string>resourceBound</string>
+	<key>largeDetail</key>
+	<string>operationCoord</string>
+	<key>layerDensity</key>
+	<string>equalError</string>
+	<key>navigatelocalization</key>
+	<string>subpixelTop</string>
+	<key>numericalChart</key>
+	<string>hardsubscriptionrotation</string>
+	<key>permissiveRectangle</key>
+	<string>equivalentcount</string>
+	<key>petposition</key>
+	<string>completerdistance</string>
+	<key>statusState</key>
+	<string>compositionalInteger</string>
+	<key>symmetricPosition</key>
+	<string>shouldInflateStateless</string>
+</dict>
+</plist>

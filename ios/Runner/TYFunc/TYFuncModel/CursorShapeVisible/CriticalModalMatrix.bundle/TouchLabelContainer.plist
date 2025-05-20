@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAccessory</key>
+	<string>mediumSound</string>
+	<key>drawerDepth</key>
+	<string>pickertension</string>
+	<key>dropdownbuttonDistance</key>
+	<string>asyncNumber</string>
+	<key>imagealignment</key>
+	<string>canPersistNotification</string>
+	<key>modalcontainer</key>
+	<string>semanticVideo</string>
+	<key>shouldObserveSensor</key>
+	<string>statelessPainter</string>
+	<key>shouldPopColumn</key>
+	<string>canObserveGesture</string>
+</dict>
+</plist>

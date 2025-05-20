@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDuration</key>
+	<string>shouldPrepareCursor</string>
+	<key>formatmethod</key>
+	<string>canFormatGrayscale</string>
+	<key>replicatestateless</key>
+	<string>canSaveBrush</string>
+	<key>reusableLifecycle</key>
+	<string>limitAnimation</string>
+	<key>shouldDisconnectDialogs</key>
+	<string>prepareSubpixel</string>
+	<key>smartProcessor</key>
+	<string>opaqueStorage</string>
+	<key>symmetricoccasion</key>
+	<string>propagateQueue</string>
+	<key>temporaryConvolution</key>
+	<string>shouldContinueDimension</string>
+	<key>workflowState</key>
+	<string>precisionselector</string>
+</dict>
+</plist>

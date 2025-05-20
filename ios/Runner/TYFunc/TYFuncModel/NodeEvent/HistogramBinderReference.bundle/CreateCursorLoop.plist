@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedParticle</key>
+	<string>resumeWidget</string>
+	<key>alertResponse</key>
+	<string>richtextContext</string>
+	<key>assetthroughput</key>
+	<string>consumerContrast</string>
+	<key>gesturedetectorTag</key>
+	<string>parallelContrast</string>
+	<key>gridpolygon</key>
+	<string>subscriberName</string>
+	<key>integerlevelmargin</key>
+	<string>graphBrightness</string>
+	<key>numericalVertex</key>
+	<string>emitObserver</string>
+	<key>originalProjection</key>
+	<string>visualizeDecoration</string>
+	<key>pivotalReduction</key>
+	<string>geometricNavigation</string>
+</dict>
+</plist>

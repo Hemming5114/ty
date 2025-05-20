@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDirection</key>
+	<string>screenbutton</string>
+	<key>immutableElement</key>
+	<string>cubitType</string>
+	<key>nativeRoute</key>
+	<string>newestEfficiency</string>
+	<key>shouldRenderAnchor</key>
+	<string>cursoraroundbuffer</string>
+	<key>subsequentFactory</key>
+	<string>associatedstate</string>
+</dict>
+</plist>

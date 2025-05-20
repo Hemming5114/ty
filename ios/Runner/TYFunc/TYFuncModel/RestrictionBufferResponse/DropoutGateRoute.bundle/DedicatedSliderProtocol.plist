@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncstyle</key>
+	<string>dynamicGift</string>
+	<key>clusterInteraction</key>
+	<string>shouldCreateComposition</string>
+	<key>comprehensivedescriptor</key>
+	<string>shouldSkipCustomPaint</string>
+	<key>constraintoperationinset</key>
+	<string>formatContainer</string>
+	<key>invisiblesingleton</key>
+	<string>augmentButton</string>
+	<key>modelscroller</key>
+	<string>descriptorversusaction</string>
+	<key>protectedProgressBar</key>
+	<string>shouldSaveSignature</string>
+	<key>shouldUnbindSlider</key>
+	<string>objectstate</string>
+	<key>usedBox</key>
+	<string>sortedVertex</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPressure</key>
+	<string>workflowEnvironment</string>
+	<key>defaultOperation</key>
+	<string>paintSpecifier</string>
+	<key>extensionValidation</key>
+	<string>embraceTicker</string>
+	<key>globalduration</key>
+	<string>renderstamp</string>
+	<key>monsterOffset</key>
+	<string>permissiveAccessory</string>
+	<key>seamlessScope</key>
+	<string>partitionloop</string>
+	<key>shouldEmitAnimation</key>
+	<string>customIsolate</string>
+	<key>shouldUnmountStream</key>
+	<string>tappableBullet</string>
+	<key>touchreducer</key>
+	<string>cartesianScale</string>
+</dict>
+</plist>

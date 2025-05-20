@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablemultiplication</key>
+	<string>updateSprite</string>
+	<key>flexibleStroke</key>
+	<string>chartFlags</string>
+	<key>interfaceprocessposition</key>
+	<string>recursiontransparency</string>
+	<key>shouldEmitAxis</key>
+	<string>shouldprocessmedia</string>
+	<key>showcontroller</key>
+	<string>iterativeProvider</string>
+</dict>
+</plist>

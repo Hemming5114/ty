@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVisibility</key>
+	<string>holdSink</string>
+	<key>adaptiveconsumerkind</key>
+	<string>shouldSerializeDrawer</string>
+	<key>agileIndicator</key>
+	<string>resumeMusic</string>
+	<key>basicMonster</key>
+	<string>loadKernel</string>
+	<key>completerStyle</key>
+	<string>decorationflags</string>
+	<key>keySpecifier</key>
+	<string>canTransformDialogs</string>
+	<key>shouldDisconnectOptimizer</key>
+	<string>canFetchPainter</string>
+	<key>visibledescription</key>
+	<string>scaffoldSystem</string>
+</dict>
+</plist>

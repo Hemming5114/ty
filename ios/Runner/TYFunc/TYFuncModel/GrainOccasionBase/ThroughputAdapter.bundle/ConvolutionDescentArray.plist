@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxplatformbound</key>
+	<string>logvalidation</string>
+	<key>collectionFrequency</key>
+	<string>singleMaterializer</string>
+	<key>customizedCapsule</key>
+	<string>sharedLoop</string>
+	<key>inheritedElasticity</key>
+	<string>embraceRow</string>
+	<key>missioncontrast</key>
+	<string>optimizerforshape</string>
+	<key>receiverDirection</key>
+	<string>dedicatedMember</string>
+	<key>shouldAnimateLabel</key>
+	<string>exitVector</string>
+</dict>
+</plist>

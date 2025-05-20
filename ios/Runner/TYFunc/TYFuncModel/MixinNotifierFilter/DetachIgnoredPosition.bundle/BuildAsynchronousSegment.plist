@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAnimator</key>
+	<string>eventMemento</string>
+	<key>geometricoffset</key>
+	<string>customSorter</string>
+	<key>newestTimeline</key>
+	<string>adaptiveTaxonomy</string>
+	<key>observerdepth</key>
+	<string>popTitle</string>
+	<key>robustAppBar</key>
+	<string>shouldNavigateNotifier</string>
+	<key>subtleBandwidth</key>
+	<string>resourceType</string>
+	<key>unactivatedIntensity</key>
+	<string>canUpdateCoordinator</string>
+</dict>
+</plist>

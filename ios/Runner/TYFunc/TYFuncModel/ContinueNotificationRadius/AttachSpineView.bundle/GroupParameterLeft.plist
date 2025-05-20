@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveScenario</key>
+	<string>synchronizeAction</string>
+	<key>gestureOrientation</key>
+	<string>processChannels</string>
+	<key>groupdistance</key>
+	<string>navigatelabel</string>
+	<key>intermediateInteractor</key>
+	<string>inheritedQuaternion</string>
+	<key>requiredBitrate</key>
+	<string>canReplaceSwitch</string>
+	<key>tensorDependency</key>
+	<string>unactivatedOverlay</string>
+</dict>
+</plist>

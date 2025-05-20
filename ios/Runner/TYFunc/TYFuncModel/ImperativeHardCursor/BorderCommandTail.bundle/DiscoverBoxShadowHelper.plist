@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationaroundtier</key>
+	<string>synchronizeFeature</string>
+	<key>geometricMetadata</key>
+	<string>syncLabel</string>
+	<key>scenarioContrast</key>
+	<string>reducerDepth</string>
+	<key>shouldpushmap</key>
+	<string>enumeratesession</string>
+	<key>trianglesDistance</key>
+	<string>masterBorder</string>
+</dict>
+</plist>

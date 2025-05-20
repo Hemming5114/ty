@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDispatcher</key>
+	<string>canCreateProvider</string>
+	<key>graphicBound</key>
+	<string>animatedItem</string>
+	<key>gridscale</key>
+	<string>concurrentUnary</string>
+	<key>independentAlpha</key>
+	<string>cancelPageView</string>
+	<key>liteProcessor</key>
+	<string>inflateTask</string>
+	<key>parallelMediaQuery</key>
+	<string>movementrow</string>
+	<key>prismaticrequest</key>
+	<string>shouldEncodeNavigation</string>
+</dict>
+</plist>

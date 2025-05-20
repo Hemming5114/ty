@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedJoiner</key>
+	<string>pivotalAlpha</string>
+	<key>effectAlignment</key>
+	<string>webController</string>
+	<key>ignoredPromise</key>
+	<string>cardskewy</string>
+	<key>liteDimension</key>
+	<string>promiseBehavior</string>
+	<key>mobileFeedback</key>
+	<string>canvasComposite</string>
+	<key>scrollableCapsule</key>
+	<string>canTransformRow</string>
+	<key>shouldRestartController</key>
+	<string>radiusName</string>
+	<key>singleObserver</key>
+	<string>gesturedetectorForm</string>
+	<key>tabbarTheme</key>
+	<string>unaryoperation</string>
+</dict>
+</plist>

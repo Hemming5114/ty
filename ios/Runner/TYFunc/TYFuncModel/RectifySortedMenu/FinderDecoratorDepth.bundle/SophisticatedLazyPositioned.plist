@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerLocation</key>
+	<string>newestequivalent</string>
+	<key>geometricTaxonomy</key>
+	<string>retainedSelector</string>
+	<key>observerperplatform</key>
+	<string>handleSwitch</string>
+	<key>originalsession</key>
+	<string>canRenderCapsule</string>
+	<key>scrollerFeedback</key>
+	<string>usedRole</string>
+	<key>shouldAttachInterpolation</key>
+	<string>localGrayscale</string>
+	<key>shouldPresentLog</key>
+	<string>cubitaudio</string>
+	<key>spineLeft</key>
+	<string>smartEmitter</string>
+	<key>viewconsumer</key>
+	<string>fillDescription</string>
+</dict>
+</plist>

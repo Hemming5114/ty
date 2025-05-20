@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineOrientation</key>
+	<string>unmountedConstraint</string>
+	<key>fixedArchitecture</key>
+	<string>shouldbindtabview</string>
+	<key>granularAction</key>
+	<string>capsuleEdge</string>
+	<key>interactionSkewY</key>
+	<string>reusableDelegate</string>
+	<key>mediaqueryincludeprocess</key>
+	<string>sharedProtocol</string>
+	<key>titleofmediator</key>
+	<string>emitIndicator</string>
+</dict>
+</plist>

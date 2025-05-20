@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInterface</key>
+	<string>augmentChapter</string>
+	<key>greatAxis</key>
+	<string>vectorizeInterface</string>
+	<key>mountedcosine</key>
+	<string>batchPrototype</string>
+	<key>processobserver</key>
+	<string>controllerlabel</string>
+	<key>profileFeedback</key>
+	<string>significantVolume</string>
+	<key>shouldUnmountImage</key>
+	<string>reusableslider</string>
+	<key>statusRotation</key>
+	<string>pushSink</string>
+</dict>
+</plist>

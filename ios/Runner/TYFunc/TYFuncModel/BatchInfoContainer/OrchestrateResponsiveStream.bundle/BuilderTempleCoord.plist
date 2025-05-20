@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorSpacing</key>
+	<string>topicStatus</string>
+	<key>bulletCenter</key>
+	<string>dispatchOverlay</string>
+	<key>inactiveTrajectory</key>
+	<string>canContinueAperture</string>
+	<key>layoutmap</key>
+	<string>topicResponse</string>
+	<key>masterDelay</key>
+	<string>startSpot</string>
+	<key>multiTentative</key>
+	<string>componentPadding</string>
+	<key>shouldUpdateNib</key>
+	<string>mediocreLogarithm</string>
+	<key>substantialAnalogy</key>
+	<string>extensiondetector</string>
+	<key>transformerstrength</key>
+	<string>fetchStoryboard</string>
+	<key>uniqueMethod</key>
+	<string>activeProtocol</string>
+</dict>
+</plist>

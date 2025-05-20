@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentVertex</key>
+	<string>storyboardVisibility</string>
+	<key>customizedchapter</key>
+	<string>fixedPolyfill</string>
+	<key>fusedFeature</key>
+	<string>shouldUnmountedVariant</string>
+	<key>impactRate</key>
+	<string>activatedCapacity</string>
+	<key>invisibleRemediation</key>
+	<string>constraintTint</string>
+	<key>previewDensity</key>
+	<string>shouldPersistCertificate</string>
+	<key>shouldemitcontroller</key>
+	<string>diversifiedNib</string>
+	<key>transitionandvalue</key>
+	<string>minPlate</string>
+</dict>
+</plist>

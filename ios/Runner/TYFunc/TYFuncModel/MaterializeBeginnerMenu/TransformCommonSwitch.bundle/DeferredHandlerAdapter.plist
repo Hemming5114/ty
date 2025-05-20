@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSizedBox</key>
+	<string>dismissEntity</string>
+	<key>decouplecursor</key>
+	<string>renameLabel</string>
+	<key>granularThread</key>
+	<string>builderflags</string>
+	<key>localizationRight</key>
+	<string>modelSkewX</string>
+	<key>subsequentResponse</key>
+	<string>reductionlistener</string>
+</dict>
+</plist>

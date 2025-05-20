@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTint</key>
+	<string>contractionAction</string>
+	<key>cupertinoNavigator</key>
+	<string>injectionSingleton</string>
+	<key>intuitivegesturedetector</key>
+	<string>dynamicservice</string>
+	<key>mainAnalogy</key>
+	<string>exceptionDensity</string>
+	<key>projectionagainststyle</key>
+	<string>diffableAction</string>
+	<key>reusablecontainer</key>
+	<string>registerZone</string>
+	<key>shouldLayoutBorder</key>
+	<string>oldDrawer</string>
+	<key>specifySizedBox</key>
+	<string>stackBottom</string>
+	<key>visibleLogarithm</key>
+	<string>lifecycleBehavior</string>
+</dict>
+</plist>

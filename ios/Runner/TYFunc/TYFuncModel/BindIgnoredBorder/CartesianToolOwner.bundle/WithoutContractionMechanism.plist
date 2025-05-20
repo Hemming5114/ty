@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationIndex</key>
+	<string>activeNib</string>
+	<key>futurevalueorigin</key>
+	<string>setstateHero</string>
+	<key>lastTrajectory</key>
+	<string>builderBuffer</string>
+	<key>respectiveTweak</key>
+	<string>prepareStoryboard</string>
+	<key>visibledisclaimer</key>
+	<string>queueOpacity</string>
+</dict>
+</plist>

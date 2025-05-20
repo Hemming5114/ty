@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceinterface</key>
+	<string>subscribeMediaQuery</string>
+	<key>localizationsinceproxy</key>
+	<string>primarycanvas</string>
+	<key>shouldBuildProvider</key>
+	<string>currentanimationposition</string>
+	<key>shouldPopIcon</key>
+	<string>maintainAction</string>
+	<key>shouldShowCard</key>
+	<string>effectHead</string>
+	<key>signForce</key>
+	<string>seamlessGradient</string>
+	<key>unsortedHistogram</key>
+	<string>adaptiveTabView</string>
+</dict>
+</plist>

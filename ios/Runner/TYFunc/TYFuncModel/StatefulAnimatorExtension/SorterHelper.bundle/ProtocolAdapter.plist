@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAlignment</key>
+	<string>similarProtocol</string>
+	<key>concreteInfo</key>
+	<string>heapStrategy</string>
+	<key>consumeswift</key>
+	<string>shouldEncodeCell</string>
+	<key>directNib</key>
+	<string>cloneTicker</string>
+	<key>disabledInstruction</key>
+	<string>seekSlider</string>
+</dict>
+</plist>

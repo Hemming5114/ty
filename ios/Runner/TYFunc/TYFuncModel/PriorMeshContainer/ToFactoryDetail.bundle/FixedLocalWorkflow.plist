@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxtransparency</key>
+	<string>splitterStatus</string>
+	<key>discardedBox</key>
+	<string>configureSingleton</string>
+	<key>latencyright</key>
+	<string>notificationkindinterval</string>
+	<key>multiResolver</key>
+	<string>aspectratioStage</string>
+	<key>navigationCenter</key>
+	<string>emitBuilder</string>
+	<key>previewversusparameter</key>
+	<string>temporaryprojectborder</string>
+	<key>rectstructurecount</key>
+	<string>optimizeAction</string>
+	<key>requiredDescriptor</key>
+	<string>provideSize</string>
+	<key>specifyItem</key>
+	<string>newestmissiondistance</string>
+	<key>tickercontextspeed</key>
+	<string>canSaveOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyrect</key>
+	<string>logarithmFacade</string>
+	<key>invisibleTween</key>
+	<string>respondState</string>
+	<key>pointvelocity</key>
+	<string>pointSkewX</string>
+	<key>selectedstamp</key>
+	<string>publishloop</string>
+	<key>shouldNavigateBox</key>
+	<string>shouldFinishSlider</string>
+	<key>shouldPaintExpanded</key>
+	<string>singletonEnvironment</string>
+	<key>storageframeworkinset</key>
+	<string>shouldUnmountCanvas</string>
+</dict>
+</plist>

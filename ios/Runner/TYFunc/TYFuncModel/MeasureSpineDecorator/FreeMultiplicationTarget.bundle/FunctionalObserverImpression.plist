@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticstoragetransparency</key>
+	<string>semanticscount</string>
+	<key>constraintduration</key>
+	<string>shouldParseNotification</string>
+	<key>deferredAlpha</key>
+	<string>scaffoldright</string>
+	<key>directlyPainter</key>
+	<string>replaceBuilder</string>
+	<key>easyStroke</key>
+	<string>intermediateTangent</string>
+	<key>intermediateView</key>
+	<string>ignoredService</string>
+	<key>latencyAcceleration</key>
+	<string>replicateTicker</string>
+	<key>specifierscale</key>
+	<string>significantSound</string>
+	<key>sustainableAnchor</key>
+	<string>asynchronousbordermargin</string>
+</dict>
+</plist>

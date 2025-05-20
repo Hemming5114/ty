@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatSkewX</key>
+	<string>canNotifyDocument</string>
+	<key>mendVisibility</key>
+	<string>opaqueCharacteristic</string>
+	<key>prevGridView</key>
+	<string>geometricReduction</string>
+	<key>secondgemcenter</key>
+	<string>ignoredGem</string>
+	<key>specifypromisefrequency</key>
+	<string>notationOrientation</string>
+	<key>synchronousLoader</key>
+	<string>ignoredStamp</string>
+	<key>topicFeedback</key>
+	<string>specifyScroller</string>
+</dict>
+</plist>

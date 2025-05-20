@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGraph</key>
+	<string>protocolshape</string>
+	<key>asynchronousThreshold</key>
+	<string>canAttachIcon</string>
+	<key>checkdecoration</key>
+	<string>shouldLoadCheckbox</string>
+	<key>diffableInformation</key>
+	<string>descriptorWork</string>
+	<key>drawerLocation</key>
+	<string>deployFuture</string>
+	<key>reducetask</key>
+	<string>canYieldGate</string>
+	<key>sharedDetector</key>
+	<string>radioTop</string>
+	<key>shouldDecodePadding</key>
+	<string>queueStage</string>
+</dict>
+</plist>

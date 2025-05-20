@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousUsage</key>
+	<string>consumerScale</string>
+	<key>controllerstrategyedge</key>
+	<string>dimensionconnector</string>
+	<key>durationPressure</key>
+	<string>shouldBuildInkWell</string>
+</dict>
+</plist>

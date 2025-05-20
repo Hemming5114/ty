@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorTint</key>
+	<string>directSegment</string>
+	<key>crucialConstraint</key>
+	<string>modelColor</string>
+	<key>immutableMenu</key>
+	<string>otherCache</string>
+	<key>multiplicationcolor</key>
+	<string>touchPlatform</string>
+	<key>pivotalGradient</key>
+	<string>checkboxValue</string>
+</dict>
+</plist>

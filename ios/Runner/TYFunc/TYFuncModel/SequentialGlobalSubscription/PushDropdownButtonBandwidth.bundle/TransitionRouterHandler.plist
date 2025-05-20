@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicLatency</key>
+	<string>popupsensor</string>
+	<key>diversifiedLifecycle</key>
+	<string>shouldRestartStateless</string>
+	<key>exponentInteraction</key>
+	<string>statefulTitle</string>
+	<key>lossBottom</key>
+	<string>mediaqueryinsidedecorator</string>
+	<key>shouldpersistinteger</key>
+	<string>canRouteNotification</string>
+	<key>standaloneProvision</key>
+	<string>fragmentDelay</string>
+	<key>stopbloc</key>
+	<string>callbackFeedback</string>
+	<key>techniqueright</key>
+	<string>multiPrecision</string>
+	<key>uniqueapertureflags</key>
+	<string>imperativeDispatcher</string>
+</dict>
+</plist>

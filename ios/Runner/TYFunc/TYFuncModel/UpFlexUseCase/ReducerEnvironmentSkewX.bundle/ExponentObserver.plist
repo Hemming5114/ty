@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTail</key>
+	<string>completerVelocity</string>
+	<key>commonProvider</key>
+	<string>desktopresultfrequency</string>
+	<key>detachrequest</key>
+	<string>canDispatchSymbol</string>
+	<key>enabledGrain</key>
+	<string>multiFilter</string>
+	<key>globalMomentum</key>
+	<string>dimensionTail</string>
+	<key>inactiveCanvas</key>
+	<string>shouldProcessAnimation</string>
+	<key>oldTitle</key>
+	<string>rapidExpanded</string>
+	<key>polygonname</key>
+	<string>diversifiedClipper</string>
+	<key>shouldFinishAspectRatio</key>
+	<string>sizedboxoffset</string>
+</dict>
+</plist>

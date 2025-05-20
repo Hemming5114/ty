@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxSpeed</key>
+	<string>consultativeRemainder</string>
+	<key>consultativeFilter</key>
+	<string>fetchGridView</string>
+	<key>fetchthread</key>
+	<string>shouldRestartInterpolation</string>
+	<key>hyperbolicCompletion</key>
+	<string>mutablePermutation</string>
+	<key>integrationRate</key>
+	<string>shouldNotifySpine</string>
+	<key>mediasize</key>
+	<string>buildcolumn</string>
+	<key>respectivePresenter</key>
+	<string>cubittype</string>
+	<key>shouldEmitInstruction</key>
+	<string>pinchableswiftbrightness</string>
+	<key>toleranceSaturation</key>
+	<string>backwardLocalization</string>
+</dict>
+</plist>

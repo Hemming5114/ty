@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilecube</key>
+	<string>activeTextField</string>
+	<key>crudeReceiver</key>
+	<string>histogramAction</string>
+	<key>framecontroller</key>
+	<string>granularIntensity</string>
+	<key>hardModal</key>
+	<string>inflateCube</string>
+	<key>informationVelocity</key>
+	<string>requiredTentative</string>
+	<key>scenarioPressure</key>
+	<string>canUpdateRole</string>
+</dict>
+</plist>

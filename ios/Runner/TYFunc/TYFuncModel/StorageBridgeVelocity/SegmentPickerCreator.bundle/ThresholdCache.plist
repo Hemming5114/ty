@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardgroup</key>
+	<string>dynamicobserver</string>
+	<key>intuitiveBandwidth</key>
+	<string>connectCustomPaint</string>
+	<key>promiseContrast</key>
+	<string>shouldReplaceHeap</string>
+	<key>selectednotifier</key>
+	<string>shouldmountedbehavior</string>
+	<key>shouldContinueAnchor</key>
+	<string>liteLinker</string>
+</dict>
+</plist>

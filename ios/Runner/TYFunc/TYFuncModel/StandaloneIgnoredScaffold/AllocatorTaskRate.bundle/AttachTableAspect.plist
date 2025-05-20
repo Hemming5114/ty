@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGestureDetector</key>
+	<string>bindBehavior</string>
+	<key>boxshadowLocation</key>
+	<string>deactivateMenu</string>
+	<key>catalystSpacing</key>
+	<string>smartScheduler</string>
+	<key>customizedanalyzer</key>
+	<string>priorAperture</string>
+	<key>dispatchcheckbox</key>
+	<string>equalizationduration</string>
+	<key>mediocreRepository</key>
+	<string>tabviewShape</string>
+	<key>shouldMountBehavior</key>
+	<string>delicateJoiner</string>
+	<key>subscriberShade</key>
+	<string>videoSkewY</string>
+</dict>
+</plist>

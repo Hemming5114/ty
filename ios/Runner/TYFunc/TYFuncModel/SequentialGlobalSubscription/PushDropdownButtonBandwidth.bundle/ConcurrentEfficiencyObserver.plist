@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMechanism</key>
+	<string>canPushBinary</string>
+	<key>autoInstruction</key>
+	<string>playbackFlyweight</string>
+	<key>buttonphasedepth</key>
+	<string>intermediateNorm</string>
+	<key>denseColor</key>
+	<string>marginFlags</string>
+	<key>discardedswitch</key>
+	<string>retainedConsumer</string>
+	<key>flexibleconstant</key>
+	<string>pinchablePosition</string>
+	<key>integrityInterval</key>
+	<string>hardLatency</string>
+	<key>managerscope</key>
+	<string>shouldsetstatesegment</string>
+	<key>responderName</key>
+	<string>activatedAwait</string>
+	<key>seamlessConvolution</key>
+	<string>canvasOffset</string>
+</dict>
+</plist>

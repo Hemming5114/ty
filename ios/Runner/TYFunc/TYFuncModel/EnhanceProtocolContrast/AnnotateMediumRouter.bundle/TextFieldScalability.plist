@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTaxonomy</key>
+	<string>enabledLoader</string>
+	<key>documentCount</key>
+	<string>staticIntegration</string>
+	<key>dynamicBandwidth</key>
+	<string>reactiveStateful</string>
+	<key>globalAlert</key>
+	<string>selectedBitrate</string>
+	<key>iterativeTween</key>
+	<string>evaluateObserver</string>
+	<key>numericalRadius</key>
+	<string>slashdespitelevel</string>
+	<key>optionTint</key>
+	<string>mutableconvolutionbound</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewparamopacity</key>
+	<string>requiredInfo</string>
+	<key>invisibleWidget</key>
+	<string>tableVisibility</string>
+	<key>memberInset</key>
+	<string>shouldPresentCatalyst</string>
+	<key>shouldSetStateMovement</key>
+	<string>canStreamMovement</string>
+	<key>shouldStopContainer</key>
+	<string>formatProfile</string>
+</dict>
+</plist>

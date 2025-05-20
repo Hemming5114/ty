@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionVisible</key>
+	<string>shouldKeepBrush</string>
+	<key>liteButton</key>
+	<string>hyperbolicSingleton</string>
+	<key>multiAnimator</key>
+	<string>nextGate</string>
+</dict>
+</plist>

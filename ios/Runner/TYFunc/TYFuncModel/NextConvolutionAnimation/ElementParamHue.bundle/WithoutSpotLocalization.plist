@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScheduler</key>
+	<string>hashinteraction</string>
+	<key>dataTop</key>
+	<string>handlerCommand</string>
+	<key>deferredTexture</key>
+	<string>ternaryDistance</string>
+	<key>dynamicAspect</key>
+	<string>offsetTail</string>
+	<key>tappableSplitter</key>
+	<string>metadataEnvironment</string>
+	<key>timelineindex</key>
+	<string>startBaseline</string>
+</dict>
+</plist>

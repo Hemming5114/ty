@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachestylestate</key>
+	<string>smallTween</string>
+	<key>ignoredBaseline</key>
+	<string>selectedoperation</string>
+	<key>newestDetail</key>
+	<string>canDismissAnimatedContainer</string>
+	<key>resolvertolerance</key>
+	<string>heapmanager</string>
+	<key>selectedSlider</key>
+	<string>similarProfile</string>
+	<key>sizedboxDuration</key>
+	<string>axisobserver</string>
+	<key>tweenSkewX</key>
+	<string>reusableBullet</string>
+	<key>uniformConstant</key>
+	<string>nativeBaseline</string>
+</dict>
+</plist>

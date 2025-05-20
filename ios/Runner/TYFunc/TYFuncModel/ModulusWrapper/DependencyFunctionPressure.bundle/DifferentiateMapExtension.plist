@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycletag</key>
+	<string>cartesianFragment</string>
+	<key>normalCallback</key>
+	<string>shouldrebuildlayout</string>
+	<key>prevNode</key>
+	<string>gradientcontrast</string>
+	<key>shouldSubscribeTechnique</key>
+	<string>primaryProvision</string>
+	<key>shouldpresentgram</key>
+	<string>fixedSink</string>
+	<key>similarStateless</key>
+	<string>localizationTag</string>
+	<key>statefulsystemmode</key>
+	<string>mediaOperation</string>
+	<key>tensorBuilder</key>
+	<string>tappableGraph</string>
+</dict>
+</plist>

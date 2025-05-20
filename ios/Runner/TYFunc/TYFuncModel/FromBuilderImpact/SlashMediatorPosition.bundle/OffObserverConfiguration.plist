@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRole</key>
+	<string>graindistance</string>
+	<key>beginnerSink</key>
+	<string>protectedRange</string>
+	<key>delicateMend</key>
+	<string>canNavigateCursor</string>
+	<key>descriptionlayercolor</key>
+	<string>basicStrength</string>
+	<key>handletextfield</key>
+	<string>catalystFlyweight</string>
+	<key>impactHue</key>
+	<string>disposeDimension</string>
+	<key>lastTime</key>
+	<string>canStartText</string>
+	<key>layoutresponder</key>
+	<string>shouldEmitScaffold</string>
+	<key>richtextBehavior</key>
+	<string>retainedEquivalent</string>
+</dict>
+</plist>

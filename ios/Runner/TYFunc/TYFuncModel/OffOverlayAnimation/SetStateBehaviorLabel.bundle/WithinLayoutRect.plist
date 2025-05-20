@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateSaturation</key>
+	<string>accessoryEnvironment</string>
+	<key>displayableManager</key>
+	<string>observeractionorigin</string>
+	<key>evolutionAppearance</key>
+	<string>animategridview</string>
+	<key>nextAllocator</key>
+	<string>uniformAspectRatio</string>
+	<key>restrictiontransparency</key>
+	<string>prismaticTransition</string>
+	<key>significantBrush</key>
+	<string>baseLocation</string>
+	<key>usagewithdecorator</key>
+	<string>enabledCallback</string>
+</dict>
+</plist>

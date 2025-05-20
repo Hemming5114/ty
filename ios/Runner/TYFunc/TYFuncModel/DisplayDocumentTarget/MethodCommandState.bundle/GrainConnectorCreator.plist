@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAnchor</key>
+	<string>shouldpersistanimatedcontainer</string>
+	<key>frameSaturation</key>
+	<string>mainFragment</string>
+	<key>invisibleStateful</key>
+	<string>executeResolver</string>
+	<key>toleranceBound</key>
+	<string>interceptUseCase</string>
+</dict>
+</plist>

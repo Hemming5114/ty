@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileNorm</key>
+	<string>isolatewithoutnumber</string>
+	<key>contrastAcceleration</key>
+	<string>colorDensity</string>
+	<key>futureResponse</key>
+	<string>statefulSingleton</string>
+	<key>imageformediator</key>
+	<string>hasMusic</string>
+	<key>numericalAlpha</key>
+	<string>compositionalInformation</string>
+	<key>singleConnector</key>
+	<string>rebuildScreen</string>
+	<key>swiftprocesstop</key>
+	<string>adjustIsolate</string>
+	<key>tickerposition</key>
+	<string>prevHero</string>
+</dict>
+</plist>

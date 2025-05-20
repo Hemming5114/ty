@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerDelivery</key>
+	<string>latencyBottom</string>
+	<key>effecttween</key>
+	<string>completionnode</string>
+	<key>firstDescriptor</key>
+	<string>shouldDisconnectNib</string>
+	<key>granularWrapper</key>
+	<string>lazyDuration</string>
+	<key>multiMedia</key>
+	<string>customizedconsumercontrast</string>
+	<key>permissiveEqualization</key>
+	<string>menuRotation</string>
+	<key>seamlessColumn</key>
+	<string>elasticcallbacktint</string>
+	<key>shouldProcessPoint</key>
+	<string>accordionMap</string>
+</dict>
+</plist>

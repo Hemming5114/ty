@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorFeedback</key>
+	<string>projectFlyweight</string>
+	<key>disabledplayback</key>
+	<string>scrollableThreshold</string>
+	<key>draggableFlex</key>
+	<string>shouldendcycle</string>
+	<key>interfaceworkshade</key>
+	<string>aggregatecallback</string>
+	<key>loaderStyle</key>
+	<string>diversifiedMaterializer</string>
+	<key>spinmusic</key>
+	<string>shouldlistendimension</string>
+	<key>usedRoute</key>
+	<string>otherusecase</string>
+</dict>
+</plist>

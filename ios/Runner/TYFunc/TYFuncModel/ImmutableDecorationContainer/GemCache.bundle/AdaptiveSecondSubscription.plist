@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionOrientation</key>
+	<string>disabledScenario</string>
+	<key>concurrentCollection</key>
+	<string>detachGridView</string>
+	<key>ephemeralRestriction</key>
+	<string>persistStep</string>
+	<key>granularImage</key>
+	<string>inheritedRestriction</string>
+	<key>mainTitle</key>
+	<string>embedFrame</string>
+	<key>parallelLogarithm</key>
+	<string>mountAspectRatio</string>
+	<key>priorityTheme</key>
+	<string>canDisposeFlex</string>
+	<key>selectedSegue</key>
+	<string>curvedensity</string>
+	<key>shouldEndDropdownButton</key>
+	<string>transitionGate</string>
+	<key>techniqueRate</key>
+	<string>sinkhue</string>
+</dict>
+</plist>

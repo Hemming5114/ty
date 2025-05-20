@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentRight</key>
+	<string>actionParameter</string>
+	<key>customtext</key>
+	<string>synchronousDuration</string>
+	<key>descriptoroccasion</key>
+	<string>defaultBullet</string>
+	<key>masterlikeparam</key>
+	<string>statelessCubit</string>
+	<key>robusttext</key>
+	<string>binaryObserver</string>
+	<key>shouldAnimateIcon</key>
+	<string>behaviorSkewX</string>
+	<key>shouldNavigateBrush</key>
+	<string>backwardVector</string>
+	<key>shouldObserveAnimatedContainer</key>
+	<string>numericalMapper</string>
+</dict>
+</plist>

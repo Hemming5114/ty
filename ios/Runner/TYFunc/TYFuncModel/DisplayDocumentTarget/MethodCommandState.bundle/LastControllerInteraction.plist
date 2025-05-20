@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedArithmetic</key>
+	<string>toolParameter</string>
+	<key>displayableinteger</key>
+	<string>joinerScale</string>
+	<key>infoOffset</key>
+	<string>metadataDecorator</string>
+	<key>litebloctension</key>
+	<string>taskComposite</string>
+	<key>mutableUtil</key>
+	<string>persistentController</string>
+	<key>presenterVisible</key>
+	<string>immediateClipper</string>
+	<key>shouldCacheAccessory</key>
+	<string>missionForm</string>
+	<key>shouldSkipDropdownButton</key>
+	<string>immutableState</string>
+	<key>statelessAudio</key>
+	<string>spineInset</string>
+</dict>
+</plist>

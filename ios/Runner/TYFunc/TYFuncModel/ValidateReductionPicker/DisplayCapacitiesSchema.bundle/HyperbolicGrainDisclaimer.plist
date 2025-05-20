@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetaroundkind</key>
+	<string>iterativeAccessory</string>
+	<key>associatedTimeline</key>
+	<string>opaqueStorage</string>
+	<key>contrastContrast</key>
+	<string>modalborder</string>
+	<key>desktopCaption</key>
+	<string>weberror</string>
+	<key>ephemeralLoss</key>
+	<string>combinerTheme</string>
+	<key>publicRect</key>
+	<string>usedCharacter</string>
+	<key>shouldStartPriority</key>
+	<string>notationVisibility</string>
+	<key>significantWidget</key>
+	<string>canNotifyGridView</string>
+	<key>sortedNotifier</key>
+	<string>shouldPersistSignature</string>
+</dict>
+</plist>

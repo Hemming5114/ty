@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedResponse</key>
+	<string>permanentSensor</string>
+	<key>immutableExponent</key>
+	<string>createMovement</string>
+	<key>layerBorder</key>
+	<string>unactivatedLayer</string>
+	<key>mediumHandler</key>
+	<string>shouldHandleArithmetic</string>
+	<key>radiusTag</key>
+	<string>storeProxy</string>
+	<key>responsiveModel</key>
+	<string>lostDistinction</string>
+	<key>sequentialChart</key>
+	<string>shouldPushGestureDetector</string>
+	<key>smartChecklist</key>
+	<string>hierarchicalQuaternion</string>
+</dict>
+</plist>

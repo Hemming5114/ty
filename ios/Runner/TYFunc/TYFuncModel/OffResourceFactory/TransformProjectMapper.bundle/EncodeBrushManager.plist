@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxmodelocation</key>
+	<string>listenerPadding</string>
+	<key>euclideanGridView</key>
+	<string>sensorShape</string>
+	<key>floatclipper</key>
+	<string>discardedInkWell</string>
+	<key>keyevent</key>
+	<string>receiveReducer</string>
+	<key>numericaltimerrotation</key>
+	<string>shouldNotifySkirt</string>
+	<key>shouldMountedOptimizer</key>
+	<string>axispressure</string>
+	<key>shouldpushsensor</key>
+	<string>cupertinochapteroffset</string>
+	<key>sophisticatedPet</key>
+	<string>isolateWork</string>
+</dict>
+</plist>

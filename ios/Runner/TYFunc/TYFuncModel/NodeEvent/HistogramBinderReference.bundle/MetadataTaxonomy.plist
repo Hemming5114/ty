@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventSpeed</key>
+	<string>histogramContext</string>
+	<key>lossstate</key>
+	<string>defaultProject</string>
+	<key>originalAnalyzer</key>
+	<string>captureAsset</string>
+	<key>shouldKeepSkirt</key>
+	<string>createskin</string>
+	<key>shouldcachecolumn</key>
+	<string>shouldUnbindShader</string>
+	<key>topicLocation</key>
+	<string>beginnernotificationbottom</string>
+	<key>usedMetrics</key>
+	<string>shouldFormatFlex</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteMerger</key>
+	<string>synchronoussubscription</string>
+	<key>dedicatedCombiner</key>
+	<string>canShowOptimizer</string>
+	<key>handlerbound</key>
+	<string>symmetricEquivalent</string>
+	<key>newestGram</key>
+	<string>resizabletransformer</string>
+	<key>promisecomponent</key>
+	<string>relationalCombiner</string>
+	<key>quaternionPadding</key>
+	<string>largelayer</string>
+	<key>reactivePolyfill</key>
+	<string>shouldValidateSizedBox</string>
+	<key>timelineBehavior</key>
+	<string>multiAspectRatio</string>
+</dict>
+</plist>

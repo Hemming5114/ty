@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendcallback</key>
+	<string>lostOccasion</string>
+	<key>discardedAlert</key>
+	<string>enhanceRect</string>
+	<key>instructionSize</key>
+	<string>bulletName</string>
+	<key>normalChannel</key>
+	<string>priorHandler</string>
+	<key>painterLeft</key>
+	<string>aspectStatus</string>
+	<key>shouldsubscribecollection</key>
+	<string>quantizerGrain</string>
+	<key>similarNotification</key>
+	<string>infrastructurePressure</string>
+	<key>sinkScale</key>
+	<string>bundleLabel</string>
+</dict>
+</plist>

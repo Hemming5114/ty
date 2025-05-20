@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAlignment</key>
+	<string>disconnectMethod</string>
+	<key>efficiencyDelay</key>
+	<string>localLatency</string>
+	<key>functionalheapskewy</key>
+	<string>clipperexceptaction</string>
+	<key>globalLocalization</key>
+	<string>scaffoldBehavior</string>
+	<key>inactiveReliability</key>
+	<string>unsortedAsync</string>
+	<key>permanentSpot</key>
+	<string>scrolltail</string>
+	<key>shouldAnimateCard</key>
+	<string>substantialConstraint</string>
+	<key>startmomentum</key>
+	<string>significantComponent</string>
+	<key>topicmodel</key>
+	<string>canKeepMatrix</string>
+</dict>
+</plist>

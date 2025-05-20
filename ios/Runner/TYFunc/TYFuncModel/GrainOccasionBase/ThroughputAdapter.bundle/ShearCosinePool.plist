@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDialogs</key>
+	<string>shouldPopPet</string>
+	<key>easyTicker</key>
+	<string>greatstate</string>
+	<key>fragmentascent</key>
+	<string>executeFrame</string>
+	<key>injectionCenter</key>
+	<string>shouldDisposeObserver</string>
+	<key>linkerCoord</key>
+	<string>shouldcreateicon</string>
+	<key>mountactivity</key>
+	<string>publishTheme</string>
+	<key>serializerichtext</key>
+	<string>parallelDispatcher</string>
+	<key>sizeoutsideparameter</key>
+	<string>unregistercomposition</string>
+	<key>specifierLeft</key>
+	<string>splitterEdge</string>
+</dict>
+</plist>

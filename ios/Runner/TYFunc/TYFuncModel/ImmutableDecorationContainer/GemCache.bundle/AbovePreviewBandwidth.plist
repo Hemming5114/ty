@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinebypattern</key>
+	<string>vectorResponse</string>
+	<key>graphicHead</key>
+	<string>pinchablePicker</string>
+	<key>keyCompletion</key>
+	<string>reusableStore</string>
+	<key>parallelSignature</key>
+	<string>publicStore</string>
+	<key>remainderSkewY</key>
+	<string>queueOffset</string>
+	<key>smallHero</key>
+	<string>resourceTag</string>
+	<key>statefulduringjob</key>
+	<string>compositionalscope</string>
+	<key>tappableRemediation</key>
+	<string>smallunaryfrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentGrid</key>
+	<string>singleTweak</string>
+	<key>ignoredConstraint</key>
+	<string>hashLayer</string>
+	<key>lazySegment</key>
+	<string>shouldEncodeSlash</string>
+	<key>mainMovement</key>
+	<string>shouldBindEqualization</string>
+	<key>mediaBottom</key>
+	<string>canBuildStep</string>
+	<key>prevDescent</key>
+	<string>scalePosition</string>
+	<key>profiledelivery</key>
+	<string>kernelHead</string>
+	<key>providermediatorright</key>
+	<string>setstateExpanded</string>
+</dict>
+</plist>

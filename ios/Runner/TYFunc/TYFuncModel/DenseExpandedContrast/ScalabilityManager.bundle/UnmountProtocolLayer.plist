@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyduration</key>
+	<string>limitposition</string>
+	<key>keycluster</key>
+	<string>animatedData</string>
+	<key>loopparameterresponse</key>
+	<string>tangentCenter</string>
+	<key>scrollstate</key>
+	<string>replacefactory</string>
+	<key>showcurve</key>
+	<string>binaryitem</string>
+	<key>singleExponent</key>
+	<string>onsubpixeltap</string>
+</dict>
+</plist>

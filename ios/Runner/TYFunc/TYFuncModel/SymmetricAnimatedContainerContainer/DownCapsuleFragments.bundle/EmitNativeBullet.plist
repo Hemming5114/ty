@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionbehavior</key>
+	<string>transformAccessory</string>
+	<key>mapperDelay</key>
+	<string>yieldInteger</string>
+	<key>nibdepth</key>
+	<string>hyperbolicChannel</string>
+	<key>processorPadding</key>
+	<string>mobileResource</string>
+	<key>resilientProtocol</key>
+	<string>shouldNavigateConsumer</string>
+	<key>tensorpetshape</key>
+	<string>channelobserver</string>
+	<key>textvelocity</key>
+	<string>exponentcoordinator</string>
+</dict>
+</plist>

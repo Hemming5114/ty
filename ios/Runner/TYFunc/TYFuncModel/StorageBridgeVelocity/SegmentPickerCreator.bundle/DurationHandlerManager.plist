@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentArithmetic</key>
+	<string>radioTail</string>
+	<key>flexibleInteger</key>
+	<string>equalizationCoord</string>
+	<key>indicatorright</key>
+	<string>animatorBorder</string>
+	<key>requiredAxis</key>
+	<string>shouldemitaspectratio</string>
+	<key>shouldMountedCapacities</key>
+	<string>canPopDocument</string>
+	<key>singleSink</key>
+	<string>firstEvent</string>
+	<key>sizedboxvideo</key>
+	<string>liteChapter</string>
+</dict>
+</plist>

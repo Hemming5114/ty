@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletPadding</key>
+	<string>deflateAnimation</string>
+	<key>commonConstraint</key>
+	<string>buildcallback</string>
+	<key>composableConsumer</key>
+	<string>introspectController</string>
+	<key>displayableTabView</key>
+	<string>actionObserver</string>
+	<key>dynamicSegment</key>
+	<string>canNotifyConsumer</string>
+	<key>effectdensity</key>
+	<string>secondPositioned</string>
+	<key>modalContrast</key>
+	<string>processLayer</string>
+	<key>pagerOffset</key>
+	<string>cosineState</string>
+	<key>relationallistener</key>
+	<string>flexibleEvaluation</string>
+	<key>semanticqueueformat</key>
+	<string>disposeMobile</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSink</key>
+	<string>routeHistogram</string>
+	<key>backwardRequest</key>
+	<string>checkboxPadding</string>
+	<key>composableBatch</key>
+	<string>transpileCompleter</string>
+	<key>enabledSound</key>
+	<string>seamlessHandler</string>
+	<key>exponentevent</key>
+	<string>custompaintforproxy</string>
+	<key>functionalTable</key>
+	<string>normalFormat</string>
+	<key>responderName</key>
+	<string>effectName</string>
+	<key>shouldPersistSlash</key>
+	<string>concreteColumn</string>
+	<key>webChannels</key>
+	<string>lostmusic</string>
+	<key>webPriority</key>
+	<string>escalatesize</string>
+</dict>
+</plist>

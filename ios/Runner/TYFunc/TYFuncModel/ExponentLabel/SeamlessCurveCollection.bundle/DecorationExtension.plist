@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledTextField</key>
+	<string>completerTransparency</string>
+	<key>ephemeralSchema</key>
+	<string>visibleTime</string>
+	<key>fusedAnalogy</key>
+	<string>navigateService</string>
+	<key>lostpetvalidation</key>
+	<string>canUnmountMedia</string>
+	<key>mediumJoiner</key>
+	<string>liteResilience</string>
+	<key>missedShader</key>
+	<string>composableNotifier</string>
+	<key>prevSelector</key>
+	<string>texttheme</string>
+	<key>statefuleffect</key>
+	<string>reactiveScene</string>
+	<key>synchronousspotcolor</key>
+	<string>sophisticatedMission</string>
+</dict>
+</plist>

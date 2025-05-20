@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerFlags</key>
+	<string>connectLabel</string>
+	<key>keytweeninset</key>
+	<string>graphLayer</string>
+	<key>loglayout</key>
+	<string>shouldResumePositioned</string>
+	<key>priorTaxonomy</key>
+	<string>animateAlpha</string>
+	<key>reactiveSwitch</key>
+	<string>combineUseCase</string>
+	<key>respectiveEquivalent</key>
+	<string>compositionalgraphinset</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedCursor</key>
+	<string>audioorigin</string>
+	<key>exitanimation</key>
+	<string>singletonSkewY</string>
+	<key>integerScale</key>
+	<string>associatedChannel</string>
+	<key>loaderDirection</key>
+	<string>projectionInteraction</string>
+	<key>mobileConsumer</key>
+	<string>restartExponent</string>
+	<key>othermapappearance</key>
+	<string>painterspacing</string>
+	<key>shouldMountedCycle</key>
+	<string>currentOption</string>
+	<key>shouldnavigatehero</key>
+	<string>animatedConstraint</string>
+	<key>synchronousThread</key>
+	<string>basicMission</string>
+	<key>uniqueGem</key>
+	<string>monsterVisibility</string>
+</dict>
+</plist>

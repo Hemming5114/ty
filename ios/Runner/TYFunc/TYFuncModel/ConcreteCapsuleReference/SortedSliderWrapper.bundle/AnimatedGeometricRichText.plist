@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstCard</key>
+	<string>composablesine</string>
+	<key>shouldPresentMediaQuery</key>
+	<string>popTouch</string>
+	<key>shouldStartController</key>
+	<string>rendererFlags</string>
+</dict>
+</plist>

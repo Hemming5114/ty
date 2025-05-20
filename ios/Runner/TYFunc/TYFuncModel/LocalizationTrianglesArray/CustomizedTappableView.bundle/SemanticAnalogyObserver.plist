@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeGem</key>
+	<string>requestStream</string>
+	<key>lastTimer</key>
+	<string>lazyRouter</string>
+	<key>limitlayout</key>
+	<string>shouldTrainCycle</string>
+	<key>mobileAction</key>
+	<string>gateparameterorientation</string>
+	<key>persistentGridView</key>
+	<string>mechanismvisible</string>
+	<key>shouldPauseEqualization</key>
+	<string>intermediateMomentum</string>
+	<key>shouldTrainEqualization</key>
+	<string>smartTitle</string>
+	<key>uniformProtocol</key>
+	<string>streampatterninterval</string>
+</dict>
+</plist>

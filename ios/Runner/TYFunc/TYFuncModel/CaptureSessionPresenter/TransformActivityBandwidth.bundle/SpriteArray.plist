@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFilter</key>
+	<string>brushSize</string>
+	<key>autoAction</key>
+	<string>routeIndex</string>
+	<key>latencyDuration</key>
+	<string>semanticPosition</string>
+	<key>localizationSpacing</key>
+	<string>semanticsRate</string>
+	<key>logarithmRate</key>
+	<string>statefulOverlay</string>
+	<key>sharedPlate</key>
+	<string>smartChannel</string>
+	<key>shoulddecodedescriptor</key>
+	<string>layoutRate</string>
+	<key>timebehavior</key>
+	<string>impactFrequency</string>
+</dict>
+</plist>

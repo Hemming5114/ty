@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedService</key>
+	<string>unmountedWorkflow</string>
+	<key>notificationstyle</key>
+	<string>canStopProject</string>
+	<key>optionSpeed</key>
+	<string>storageright</string>
+	<key>shouldFinishBox</key>
+	<string>rotateDuration</string>
+	<key>statelessLocation</key>
+	<string>confidentialityInteraction</string>
+</dict>
+</plist>

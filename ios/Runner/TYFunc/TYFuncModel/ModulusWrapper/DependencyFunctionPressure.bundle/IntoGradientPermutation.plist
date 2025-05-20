@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousScaffold</key>
+	<string>performMethod</string>
+	<key>dividespine</key>
+	<string>storyboardLayer</string>
+	<key>globalFrame</key>
+	<string>cupertinoConnector</string>
+	<key>radiusthanform</key>
+	<string>compositionalView</string>
+	<key>shouldPresentFuture</key>
+	<string>resilientDelegate</string>
+	<key>storageBound</key>
+	<string>shouldvalidateactivity</string>
+	<key>volumeShape</key>
+	<string>intermediateChallenge</string>
+</dict>
+</plist>

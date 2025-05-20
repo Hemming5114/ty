@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorplatformorientation</key>
+	<string>transitionSize</string>
+	<key>factoryLocation</key>
+	<string>deactivateDuration</string>
+	<key>futurethroughobserver</key>
+	<string>assetmomentum</string>
+	<key>isolateTransparency</key>
+	<string>widgetscroller</string>
+	<key>permissivebehaviortail</key>
+	<string>canCreateColumn</string>
+	<key>semanticPainter</key>
+	<string>canStartClipper</string>
+	<key>shouldKeepCertificate</key>
+	<string>preparebuffer</string>
+</dict>
+</plist>

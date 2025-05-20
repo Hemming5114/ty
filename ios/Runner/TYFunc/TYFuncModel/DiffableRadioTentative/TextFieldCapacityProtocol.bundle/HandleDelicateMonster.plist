@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activemetrics</key>
+	<string>shouldtrainmobile</string>
+	<key>currentChannels</key>
+	<string>mitigateConstraint</string>
+	<key>mixinusage</key>
+	<string>shouldnavigatehistogram</string>
+	<key>routenearbridge</key>
+	<string>shouldKeepRadio</string>
+	<key>shouldDeserializeLoss</key>
+	<string>buildPainter</string>
+	<key>unsortedBrush</key>
+	<string>compositionalZone</string>
+</dict>
+</plist>

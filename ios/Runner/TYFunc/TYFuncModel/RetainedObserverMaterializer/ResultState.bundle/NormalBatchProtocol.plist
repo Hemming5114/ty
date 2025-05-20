@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProvider</key>
+	<string>movementfrequency</string>
+	<key>draggableMaterializer</key>
+	<string>canProcessRadio</string>
+	<key>gradientrequest</key>
+	<string>onpaintertap</string>
+	<key>mediumImpression</key>
+	<string>handlerow</string>
+	<key>mobilepressure</key>
+	<string>gramMediator</string>
+	<key>providerDensity</key>
+	<string>sharedPermutation</string>
+	<key>unaryState</key>
+	<string>sceneresponder</string>
+</dict>
+</plist>

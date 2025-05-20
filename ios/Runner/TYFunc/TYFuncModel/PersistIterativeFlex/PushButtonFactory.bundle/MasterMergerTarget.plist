@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectOrientation</key>
+	<string>layoutAspect</string>
+	<key>hardFuture</key>
+	<string>lastSplitter</string>
+	<key>integerDensity</key>
+	<string>subsequentTabBar</string>
+	<key>layoutmetadata</key>
+	<string>topicInterval</string>
+	<key>loopStyle</key>
+	<string>fragmentActivity</string>
+	<key>metadatakind</key>
+	<string>cupertinoOrigin</string>
+	<key>shouldpaintbrush</key>
+	<string>referencePattern</string>
+</dict>
+</plist>

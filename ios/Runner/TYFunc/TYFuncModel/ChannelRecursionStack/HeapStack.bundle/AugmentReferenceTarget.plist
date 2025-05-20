@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateTopic</key>
+	<string>extendService</string>
+	<key>draggableStack</key>
+	<string>concurrentRichText</string>
+	<key>ephemeralshape</key>
+	<string>immediateBox</string>
+	<key>keyBullet</key>
+	<string>trainCupertino</string>
+	<key>mergertag</key>
+	<string>imperativeTrigger</string>
+	<key>shouldcreatelog</key>
+	<string>specifyInfo</string>
+	<key>transitionactivity</key>
+	<string>entityVisible</string>
+	<key>usedScenario</key>
+	<string>shouldDismissCapacities</string>
+</dict>
+</plist>

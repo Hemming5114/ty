@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionPressure</key>
+	<string>allocateresource</string>
+	<key>declarativeEmitter</key>
+	<string>uniquedurationvisible</string>
+	<key>elasticaction</key>
+	<string>renderPadding</string>
+	<key>globalMenu</key>
+	<string>scrollableIsolate</string>
+	<key>hardReceiver</key>
+	<string>createGridView</string>
+	<key>mutableColumn</key>
+	<string>canNavigateFlex</string>
+	<key>prevQuaternion</key>
+	<string>framevarforce</string>
+	<key>usedmovement</key>
+	<string>nativeIntensity</string>
+	<key>validateevent</key>
+	<string>canCancelSensor</string>
+</dict>
+</plist>

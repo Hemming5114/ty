@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMesh</key>
+	<string>declarativeAnalyzer</string>
+	<key>entropyAcceleration</key>
+	<string>processGraph</string>
+	<key>imageawaypattern</key>
+	<string>shouldcontinuecustompaint</string>
+	<key>isCache</key>
+	<string>diversifiedFrame</string>
+	<key>pickerTint</key>
+	<string>tabviewName</string>
+	<key>primarynavigator</key>
+	<string>localSpot</string>
+	<key>prismaticRouter</key>
+	<string>shoulddetachpriority</string>
+	<key>sorterIndex</key>
+	<string>shouldTransformAnimatedContainer</string>
+	<key>uniformSensor</key>
+	<string>pinchableRoute</string>
+</dict>
+</plist>

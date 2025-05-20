@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBinder</key>
+	<string>parallelGesture</string>
+	<key>baseVisibility</key>
+	<string>shouldSubscribeConstraint</string>
+	<key>compositionalSwitch</key>
+	<string>retainBuilder</string>
+</dict>
+</plist>

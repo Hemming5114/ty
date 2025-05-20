@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleappbarborder</key>
+	<string>pickerTransparency</string>
+	<key>animatedConfidentiality</key>
+	<string>compositionTask</string>
+	<key>concretelabelappearance</key>
+	<string>refactorResolver</string>
+	<key>customizeddelegate</key>
+	<string>shouldInflateBitrate</string>
+	<key>desktopAnalogy</key>
+	<string>oldSprite</string>
+	<key>disparateProvision</key>
+	<string>descriptorResponse</string>
+	<key>elasticSegue</key>
+	<string>stampoffset</string>
+	<key>numericalException</key>
+	<string>subsequentCompletion</string>
+	<key>pointright</key>
+	<string>semanticUseCase</string>
+	<key>shouldFinishEntropy</key>
+	<string>scenarioDensity</string>
+</dict>
+</plist>

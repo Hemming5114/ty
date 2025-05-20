@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerCenter</key>
+	<string>isRow</string>
+	<key>immediateRadius</key>
+	<string>independentSample</string>
+	<key>nextPermutation</key>
+	<string>pinchableItem</string>
+	<key>optionSize</key>
+	<string>timeBorder</string>
+	<key>permanentTangent</key>
+	<string>geometricawait</string>
+	<key>shouldNavigateMultiplication</key>
+	<string>seamlessSwitch</string>
+	<key>shouldSubscribeSegue</key>
+	<string>radiusbound</string>
+</dict>
+</plist>

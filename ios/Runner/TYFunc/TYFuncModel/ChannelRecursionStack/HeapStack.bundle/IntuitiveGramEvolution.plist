@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachbuffer</key>
+	<string>processprogressbar</string>
+	<key>basicRectangle</key>
+	<string>backwardgraphinteraction</string>
+	<key>consumptionbound</key>
+	<string>enabledcompletionfeedback</string>
+	<key>cubeTransparency</key>
+	<string>intermediateLinker</string>
+	<key>delicateSchema</key>
+	<string>releaseInteractor</string>
+	<key>enabledVideo</key>
+	<string>missedStateful</string>
+	<key>normalAllocator</key>
+	<string>tweenconnector</string>
+	<key>resizablePresenter</key>
+	<string>lostProjection</string>
+	<key>shouldPopActivity</key>
+	<string>canEmitCatalyst</string>
+</dict>
+</plist>

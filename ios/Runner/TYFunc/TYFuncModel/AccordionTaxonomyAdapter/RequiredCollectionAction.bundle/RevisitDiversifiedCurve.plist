@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableLayout</key>
+	<string>accelerateGraph</string>
+	<key>requiredDialogs</key>
+	<string>missedScaffold</string>
+	<key>sineflyweightcenter</key>
+	<string>hierarchicalscene</string>
+</dict>
+</plist>

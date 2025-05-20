@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVelocity</key>
+	<string>bindRole</string>
+	<key>computestamp</key>
+	<string>buttonValidation</string>
+	<key>displayableThreshold</key>
+	<string>sizedboxRotation</string>
+	<key>graphdelivery</key>
+	<string>layerSpeed</string>
+	<key>logarithmCoord</key>
+	<string>transformCubit</string>
+	<key>nativeBorder</key>
+	<string>rectangleBound</string>
+	<key>responsivesubpixel</key>
+	<string>interactorPattern</string>
+</dict>
+</plist>

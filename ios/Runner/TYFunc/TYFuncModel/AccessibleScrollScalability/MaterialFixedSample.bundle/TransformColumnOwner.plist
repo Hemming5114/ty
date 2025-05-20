@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyCount</key>
+	<string>maintainRequest</string>
+	<key>instructionstyleinset</key>
+	<string>protectedSprite</string>
+	<key>observerduration</key>
+	<string>presentTransition</string>
+	<key>smallComposition</key>
+	<string>measureModel</string>
+	<key>tickerduringform</key>
+	<string>protectedTool</string>
+	<key>uniqueReceiver</key>
+	<string>parallelNode</string>
+</dict>
+</plist>

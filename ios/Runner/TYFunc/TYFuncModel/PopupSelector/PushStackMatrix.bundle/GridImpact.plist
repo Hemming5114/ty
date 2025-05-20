@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLocalization</key>
+	<string>draggableMapper</string>
+	<key>callbackScale</key>
+	<string>monsterparameteropacity</string>
+	<key>customizedScene</key>
+	<string>observeSpot</string>
+	<key>detectorTension</key>
+	<string>navigatorObserver</string>
+	<key>movementBehavior</key>
+	<string>animateEntropy</string>
+	<key>nextaperture</key>
+	<string>sophisticatedWorkflow</string>
+	<key>otherEquipment</key>
+	<string>shouldReplaceRemainder</string>
+	<key>rapidCombiner</key>
+	<string>canPresentStack</string>
+	<key>widgetLocation</key>
+	<string>streamBehavior</string>
+</dict>
+</plist>

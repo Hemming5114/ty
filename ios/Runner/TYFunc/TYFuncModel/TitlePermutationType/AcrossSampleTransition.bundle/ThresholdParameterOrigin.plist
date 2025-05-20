@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitycount</key>
+	<string>collectionSpeed</string>
+	<key>clusterborder</key>
+	<string>resetButton</string>
+	<key>configurationOpacity</key>
+	<string>unmountedFlex</string>
+	<key>containermapper</key>
+	<string>autocombiner</string>
+	<key>flexInteraction</key>
+	<string>taxonomyshape</string>
+	<key>relationalcurvetag</key>
+	<string>futurereducer</string>
+	<key>scopeflags</key>
+	<string>normalFilter</string>
+	<key>specifiercontextindex</key>
+	<string>metadataBound</string>
+	<key>standaloneComponent</key>
+	<string>rotategrain</string>
+</dict>
+</plist>

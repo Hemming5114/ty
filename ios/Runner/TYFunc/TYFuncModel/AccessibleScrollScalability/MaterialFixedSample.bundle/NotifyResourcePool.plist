@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitmode</key>
+	<string>sustainableconfidentiality</string>
+	<key>reactiveScene</key>
+	<string>shouldDisconnectSkin</string>
+	<key>seamlessInjection</key>
+	<string>largeInjection</string>
+	<key>shouldAnimateDocument</key>
+	<string>numericalVector</string>
+	<key>shouldRestartLoss</key>
+	<string>freeRadius</string>
+	<key>spriteabouttask</key>
+	<string>cartesianimpression</string>
+</dict>
+</plist>

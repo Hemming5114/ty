@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveGrayscale</key>
+	<string>timerloader</string>
+	<key>masternearpattern</key>
+	<string>cursorPadding</string>
+	<key>profilehue</key>
+	<string>floatFrame</string>
+	<key>shouldFetchThread</key>
+	<string>responsiveModulus</string>
+	<key>synchronousSpine</key>
+	<string>canNavigateReduction</string>
+</dict>
+</plist>

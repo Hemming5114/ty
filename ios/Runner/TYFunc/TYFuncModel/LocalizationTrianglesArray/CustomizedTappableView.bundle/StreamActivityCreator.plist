@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellSpeed</key>
+	<string>quaternionType</string>
+	<key>sharedDescription</key>
+	<string>amortizationContrast</string>
+	<key>shouldReplaceBinary</key>
+	<string>shouldvalidatecustompaint</string>
+	<key>streamFrequency</key>
+	<string>animationCount</string>
+</dict>
+</plist>

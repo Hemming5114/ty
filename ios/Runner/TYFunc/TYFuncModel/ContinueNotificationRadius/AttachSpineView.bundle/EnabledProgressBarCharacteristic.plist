@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldDetachGate</key>
+	<string>consumeResponse</string>
+	<key>shouldPauseDocument</key>
+	<string>allocatorOrientation</string>
+	<key>statelessProject</key>
+	<string>visibletextfield</string>
+</dict>
+</plist>

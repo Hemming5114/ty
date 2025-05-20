@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionvariablebottom</key>
+	<string>dedicatedRoute</string>
+	<key>associatedstream</key>
+	<string>semanticAnimation</string>
+	<key>bindnavigator</key>
+	<string>shouldKeepStateless</string>
+	<key>criticalGroup</key>
+	<string>resolverelement</string>
+	<key>deflateexception</key>
+	<string>concreteLayer</string>
+	<key>explicitallocator</key>
+	<string>movementsinceshape</string>
+	<key>finderOrientation</key>
+	<string>responsiveScheduler</string>
+	<key>referenceinteraction</key>
+	<string>declarativeTimeline</string>
+	<key>sortedSubscription</key>
+	<string>storedepth</string>
+	<key>unlocklistview</key>
+	<string>reusableStateless</string>
+</dict>
+</plist>

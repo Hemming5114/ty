@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autofragments</key>
+	<string>selectedswitch</string>
+	<key>shouldBuildAlpha</key>
+	<string>pickerPosition</string>
+	<key>transformerfrominterpreter</key>
+	<string>interactorcreator</string>
+</dict>
+</plist>

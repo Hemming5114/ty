@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapperVisible</key>
+	<string>permissiveSample</string>
+	<key>materialLabel</key>
+	<string>synchronizeTimer</string>
+	<key>navigationMode</key>
+	<string>canSkipActivity</string>
+	<key>reductionactionbehavior</key>
+	<string>shouldPaintGraphic</string>
+</dict>
+</plist>

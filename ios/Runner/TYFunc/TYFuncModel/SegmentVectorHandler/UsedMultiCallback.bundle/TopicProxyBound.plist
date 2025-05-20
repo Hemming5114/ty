@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeIntegration</key>
+	<string>crucialMovement</string>
+	<key>alphaColor</key>
+	<string>parallelGraph</string>
+	<key>directCache</key>
+	<string>localizationAcceleration</string>
+	<key>localizationscope</key>
+	<string>canKeepBorder</string>
+	<key>rendererResponse</key>
+	<string>shouldMountScroll</string>
+	<key>retainedlayer</key>
+	<string>basicText</string>
+	<key>shouldRebuildOperation</key>
+	<string>mixinConfiguration</string>
+	<key>shouldpublishprotocol</key>
+	<string>formatStamp</string>
+	<key>showfragment</key>
+	<string>statefulconfidentiality</string>
+</dict>
+</plist>

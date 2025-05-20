@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedRequest</key>
+	<string>canPublishExponent</string>
+	<key>explicitRow</key>
+	<string>shouldRenderCell</string>
+	<key>fixedSymbol</key>
+	<string>canNavigateMedia</string>
+	<key>loaderCenter</key>
+	<string>characterContext</string>
+	<key>permissiveAspect</key>
+	<string>convolutionLayer</string>
+	<key>resilientTabView</key>
+	<string>shouldListenEqualization</string>
+	<key>shouldSaveScroll</key>
+	<string>mediumnotificationskewx</string>
+	<key>similarComposition</key>
+	<string>activeSession</string>
+</dict>
+</plist>

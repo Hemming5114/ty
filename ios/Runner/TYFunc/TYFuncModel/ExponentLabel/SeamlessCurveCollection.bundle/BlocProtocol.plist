@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalasyncfeedback</key>
+	<string>zoneSaturation</string>
+	<key>inheritedRouter</key>
+	<string>clusterDuration</string>
+	<key>intuitiveSprite</key>
+	<string>listenTool</string>
+	<key>liteTransition</key>
+	<string>remainderpatterninset</string>
+	<key>metadataquaternion</key>
+	<string>hardDescription</string>
+	<key>primaryevolution</key>
+	<string>mainOptimizer</string>
+	<key>resulttemplesize</key>
+	<string>startOperation</string>
+</dict>
+</plist>

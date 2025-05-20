@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeConfiguration</key>
+	<string>heroRate</string>
+	<key>deferredCapsule</key>
+	<string>canConnectBorder</string>
+	<key>difficultTabBar</key>
+	<string>shouldTrainBinary</string>
+	<key>disparateSingleton</key>
+	<string>asynchronousPublisher</string>
+	<key>entityacceleration</key>
+	<string>largeCollection</string>
+	<key>projectname</key>
+	<string>exitQueue</string>
+	<key>rapidAction</key>
+	<string>variantinsidecomposite</string>
+	<key>shouldDisconnectTabBar</key>
+	<string>activatedVideo</string>
+</dict>
+</plist>

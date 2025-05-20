@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAlignment</key>
+	<string>nodeContext</string>
+	<key>compositionbridgelocation</key>
+	<string>mutableTween</string>
+	<key>convolutionShape</key>
+	<string>boxMemento</string>
+	<key>decouplebutton</key>
+	<string>nativeComponent</string>
+	<key>integrityIndex</key>
+	<string>behaviorDelay</string>
+	<key>permissiveanchorindex</key>
+	<string>layerSkewY</string>
+	<key>shouldLayoutText</key>
+	<string>transpileSubscription</string>
+	<key>sustainableModel</key>
+	<string>cosineVisible</string>
+</dict>
+</plist>

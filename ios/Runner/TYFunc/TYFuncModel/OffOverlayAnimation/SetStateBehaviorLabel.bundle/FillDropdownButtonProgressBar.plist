@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicanimationscale</key>
+	<string>dispatchresource</string>
+	<key>bufferFlags</key>
+	<string>comprehensivemap</string>
+	<key>relationalStateless</key>
+	<string>canMountRadio</string>
+	<key>resolverDirection</key>
+	<string>isLabel</string>
+	<key>scrollerOffset</key>
+	<string>textMethod</string>
+	<key>singleMobile</key>
+	<string>nibsprite</string>
+</dict>
+</plist>

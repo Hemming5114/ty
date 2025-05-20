@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupleft</key>
+	<string>concurrentrow</string>
+	<key>inactiveBandwidth</key>
+	<string>handlecharacter</string>
+	<key>mendsize</key>
+	<string>associatedGraph</string>
+	<key>renamegroup</key>
+	<string>requestShade</string>
+</dict>
+</plist>

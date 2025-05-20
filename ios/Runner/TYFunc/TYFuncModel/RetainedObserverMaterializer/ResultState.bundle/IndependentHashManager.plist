@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLayout</key>
+	<string>navigateActivity</string>
+	<key>deflateresource</key>
+	<string>nativePet</string>
+	<key>gramobserverposition</key>
+	<string>opaqueStep</string>
+	<key>nibOrientation</key>
+	<string>heapContrast</string>
+	<key>shouldRebuildMission</key>
+	<string>shouldSkipDecoration</string>
+	<key>smartLoop</key>
+	<string>sustainablesegue</string>
+	<key>subscriberFrequency</key>
+	<string>sliderlikejob</string>
+</dict>
+</plist>

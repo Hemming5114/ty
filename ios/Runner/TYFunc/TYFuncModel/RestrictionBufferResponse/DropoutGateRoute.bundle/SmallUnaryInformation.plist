@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatebloc</key>
+	<string>enumerateGrain</string>
+	<key>oldFragment</key>
+	<string>assetinterval</string>
+	<key>primaryDropdownButton</key>
+	<string>advancedrichtextkind</string>
+	<key>projectioncompositecoord</key>
+	<string>canFinishAlert</string>
+	<key>requestInteraction</key>
+	<string>canLoadBoxShadow</string>
+	<key>respectiveCombiner</key>
+	<string>buildController</string>
+	<key>subsequentstoryboardshape</key>
+	<string>formatEquipment</string>
+	<key>uniformInfo</key>
+	<string>shouldInflateContraction</string>
+	<key>unregisterpromise</key>
+	<string>shouldlayoutmediaquery</string>
+</dict>
+</plist>

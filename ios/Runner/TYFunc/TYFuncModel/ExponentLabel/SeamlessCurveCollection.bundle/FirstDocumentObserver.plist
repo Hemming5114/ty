@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteResolver</key>
+	<string>descriptionleft</string>
+	<key>flexibledimensionstyle</key>
+	<string>updateGradient</string>
+	<key>lostSession</key>
+	<string>shouldMountGesture</string>
+	<key>shouldUnmountSample</key>
+	<string>threadlikestrategy</string>
+	<key>statusBrightness</key>
+	<string>annotatecertificate</string>
+	<key>storyboardRight</key>
+	<string>shouldSetStateConvolution</string>
+	<key>substantialHeap</key>
+	<string>canDispatchEffect</string>
+</dict>
+</plist>

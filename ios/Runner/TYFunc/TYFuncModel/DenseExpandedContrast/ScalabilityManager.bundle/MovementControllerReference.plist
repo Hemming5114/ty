@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOperation</key>
+	<string>expandedMethod</string>
+	<key>displayableFeature</key>
+	<string>canCreateTransition</string>
+	<key>materialRepository</key>
+	<string>decodePreview</string>
+	<key>shouldDecodeTangent</key>
+	<string>subtleBinder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedVector</key>
+	<string>fusedEffect</string>
+	<key>controllerduringchain</key>
+	<string>continueGesture</string>
+	<key>directShape</key>
+	<string>spriteParameter</string>
+	<key>mutableexception</key>
+	<string>canDeserializeCursor</string>
+	<key>relationalproviderbound</key>
+	<string>interactiveAscent</string>
+</dict>
+</plist>

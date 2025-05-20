@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvelayermomentum</key>
+	<string>responsiveController</string>
+	<key>dataVisibility</key>
+	<string>rapidMusic</string>
+	<key>inkwellreliability</key>
+	<string>relationalmodel</string>
+	<key>lastsubpixeltag</key>
+	<string>showCustomPaint</string>
+	<key>tabviewselector</key>
+	<string>canDismissButton</string>
+	<key>unsortedOperation</key>
+	<string>keepstateless</string>
+</dict>
+</plist>

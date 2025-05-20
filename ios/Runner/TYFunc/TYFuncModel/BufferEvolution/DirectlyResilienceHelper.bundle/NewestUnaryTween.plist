@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evolutionForce</key>
+	<string>navigationInteraction</string>
+	<key>nativeException</key>
+	<string>reliabilityDuration</string>
+	<key>nodetierduration</key>
+	<string>touchService</string>
+	<key>previewSpacing</key>
+	<string>loaderSpeed</string>
+	<key>shouldDecodeThread</key>
+	<string>checkDecoration</string>
+	<key>shouldUnmountedTheme</key>
+	<string>equalObserver</string>
+	<key>statelessHistogram</key>
+	<string>delicateFormat</string>
+	<key>unactivatedThreshold</key>
+	<string>unscheduleError</string>
+</dict>
+</plist>

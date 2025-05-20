@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPosition</key>
+	<string>selectedSensor</string>
+	<key>hasCycle</key>
+	<string>statevelocity</string>
+	<key>intuitiveNorm</key>
+	<string>shouldStopDelegate</string>
+	<key>relationalDialogs</key>
+	<string>defaultNotification</string>
+	<key>shouldUpdateReduction</key>
+	<string>shearText</string>
+</dict>
+</plist>

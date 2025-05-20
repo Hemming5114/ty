@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChallenge</key>
+	<string>persistentFrame</string>
+	<key>dataVisibility</key>
+	<string>renderCustomPaint</string>
+	<key>dedicatedPriority</key>
+	<string>hierarchicalInfo</string>
+	<key>dimensionInterval</key>
+	<string>cellrate</string>
+	<key>frameEdge</key>
+	<string>workflowpermutation</string>
+	<key>largeImage</key>
+	<string>frameColor</string>
+	<key>otherCertificate</key>
+	<string>comprehensiveTitle</string>
+	<key>primaryRouter</key>
+	<string>replaceView</string>
+	<key>responsecontextvisibility</key>
+	<string>substantialNode</string>
+	<key>responsiveSink</key>
+	<string>intermediateReceiver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutarithmetic</key>
+	<string>canPublishGem</string>
+	<key>fusedMerger</key>
+	<string>analyzeDependency</string>
+	<key>isPriority</key>
+	<string>requiredFeature</string>
+	<key>modelScale</key>
+	<string>tweakColor</string>
+	<key>priorityShade</key>
+	<string>criticalSlash</string>
+	<key>responsiveAction</key>
+	<string>rapidCompleter</string>
+	<key>temporarySplitter</key>
+	<string>primaryLogarithm</string>
+</dict>
+</plist>

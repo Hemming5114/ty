@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectnavigator</key>
+	<string>generateSlider</string>
+	<key>commonStamp</key>
+	<string>loadGradient</string>
+	<key>detectorRight</key>
+	<string>sceneFormat</string>
+	<key>errorfragments</key>
+	<string>singleInformation</string>
+	<key>nodeDuration</key>
+	<string>draggableChooser</string>
+	<key>uniformAnimation</key>
+	<string>encodeBullet</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturenearmethod</key>
+	<string>resizablemusic</string>
+	<key>cupertinoSkewX</key>
+	<string>enumerateCallback</string>
+	<key>desktopPermutation</key>
+	<string>giftInset</string>
+	<key>functionalScreen</key>
+	<string>arithmeticfrequency</string>
+	<key>priorpicker</key>
+	<string>canUpdateWidget</string>
+	<key>projectionborder</key>
+	<string>liteScale</string>
+	<key>reusableGraph</key>
+	<string>bufferAcceleration</string>
+	<key>semanticsRotation</key>
+	<string>scaffoldofstyle</string>
+	<key>semantictransformer</key>
+	<string>mutableModule</string>
+	<key>sinktheme</key>
+	<string>awaitOffset</string>
+</dict>
+</plist>

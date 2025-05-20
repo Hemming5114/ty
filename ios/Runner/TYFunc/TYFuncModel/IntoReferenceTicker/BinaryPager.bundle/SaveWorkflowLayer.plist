@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatmodel</key>
+	<string>inheritedLatency</string>
+	<key>hyperbolicAwait</key>
+	<string>concurrentBuffer</string>
+	<key>multiplicationsinceparameter</key>
+	<string>compareLayer</string>
+	<key>selectedProvider</key>
+	<string>quantizationCubit</string>
+	<key>smartSkin</key>
+	<string>singleSink</string>
+	<key>statefulquaternion</key>
+	<string>detachReducer</string>
+	<key>tappableconsumer</key>
+	<string>canConnectBox</string>
+	<key>temporaryCapacities</key>
+	<string>singleDistinction</string>
+	<key>trianglesRate</key>
+	<string>momentumdistinction</string>
+</dict>
+</plist>

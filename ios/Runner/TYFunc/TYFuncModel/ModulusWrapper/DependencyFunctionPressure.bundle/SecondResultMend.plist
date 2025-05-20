@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticTable</key>
+	<string>containerwithmemento</string>
+	<key>equipmentBound</key>
+	<string>elasticCard</string>
+	<key>gestureValidation</key>
+	<string>selectedFuture</string>
+	<key>invisibleCustomPaint</key>
+	<string>listviewShape</string>
+	<key>lostSize</key>
+	<string>unactivatedCheckbox</string>
+	<key>materialTransition</key>
+	<string>substantialAlert</string>
+	<key>publicCluster</key>
+	<string>basicOptimizer</string>
+	<key>shouldPresentDecoration</key>
+	<string>canPauseAnimatedContainer</string>
+	<key>textdisclaimer</key>
+	<string>hyperbolicDescription</string>
+	<key>unaryLeft</key>
+	<string>criticalSession</string>
+</dict>
+</plist>

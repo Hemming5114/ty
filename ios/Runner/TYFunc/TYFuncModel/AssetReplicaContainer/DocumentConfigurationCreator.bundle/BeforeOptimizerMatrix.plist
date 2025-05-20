@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRecursion</key>
+	<string>webOverlay</string>
+	<key>desktopIntegration</key>
+	<string>convertSubscription</string>
+	<key>dynamicLoop</key>
+	<string>retainedTopic</string>
+	<key>permanentStroke</key>
+	<string>advancedgrain</string>
+	<key>resizableVector</key>
+	<string>cycledescription</string>
+	<key>seamlessDescriptor</key>
+	<string>alertChain</string>
+	<key>shouldPaintMember</key>
+	<string>notifierequivalent</string>
+</dict>
+</plist>

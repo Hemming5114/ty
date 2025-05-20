@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlecaption</key>
+	<string>directlyOption</string>
+	<key>handlerFormat</key>
+	<string>independentPolygon</string>
+	<key>prismaticGradient</key>
+	<string>semanticShader</string>
+	<key>projectFlags</key>
+	<string>constraintKind</string>
+	<key>secondLatency</key>
+	<string>localizationTension</string>
+	<key>shouldRebuildCaption</key>
+	<string>shouldUnmountedAppBar</string>
+	<key>textTop</key>
+	<string>oncharacterchanged</string>
+</dict>
+</plist>

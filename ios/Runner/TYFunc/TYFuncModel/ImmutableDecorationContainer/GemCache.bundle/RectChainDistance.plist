@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeBaseline</key>
+	<string>disconnectmonster</string>
+	<key>descentVisible</key>
+	<string>provideSize</string>
+	<key>durationInterval</key>
+	<string>setstateAnimation</string>
+	<key>permanentMovement</key>
+	<string>respectivethreshold</string>
+	<key>permissiveZone</key>
+	<string>retainedMerger</string>
+	<key>protectedZone</key>
+	<string>cacheIndicator</string>
+	<key>shouldPresentCharacter</key>
+	<string>shouldMountBuilder</string>
+	<key>shouldStopModulus</key>
+	<string>paintOverlay</string>
+	<key>sortedReduction</key>
+	<string>shouldSubscribeCapsule</string>
+	<key>unsortedlabelspeed</key>
+	<string>contractionTag</string>
+</dict>
+</plist>

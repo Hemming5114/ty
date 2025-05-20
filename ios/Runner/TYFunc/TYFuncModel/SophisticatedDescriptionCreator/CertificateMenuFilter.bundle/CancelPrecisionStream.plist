@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystAppearance</key>
+	<string>transitionresult</string>
+	<key>quitscreen</key>
+	<string>enhanceAllocator</string>
+	<key>requiredBrush</key>
+	<string>asynchronousHash</string>
+	<key>reusablePromise</key>
+	<string>canUnmountedChecklist</string>
+	<key>shouldListenTernary</key>
+	<string>hyperbolicText</string>
+	<key>substantiallayout</key>
+	<string>slashStyle</string>
+	<key>undertakelabel</key>
+	<string>disabledInfrastructure</string>
+</dict>
+</plist>

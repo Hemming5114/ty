@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableTraversal</key>
+	<string>eagerResilience</string>
+	<key>gemimpression</key>
+	<string>invisibleHeap</string>
+	<key>navigationContrast</key>
+	<string>grayscaleCount</string>
+	<key>shouldDisposeAspect</key>
+	<string>transformerscale</string>
+	<key>smartScenario</key>
+	<string>mobileEdge</string>
+	<key>sophisticatedInteractor</key>
+	<string>tabviewAction</string>
+	<key>subpixelposition</key>
+	<string>delicateTicker</string>
+	<key>transitionthreshold</key>
+	<string>interactoroffset</string>
+</dict>
+</plist>

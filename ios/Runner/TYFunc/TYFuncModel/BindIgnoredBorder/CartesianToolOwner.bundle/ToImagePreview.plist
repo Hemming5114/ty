@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterspeed</key>
+	<string>offsetScene</string>
+	<key>gemexception</key>
+	<string>encodeGrayscale</string>
+	<key>hyperbolicInteraction</key>
+	<string>scheduleHandler</string>
+	<key>prevMonster</key>
+	<string>framecontainstructure</string>
+	<key>significantHash</key>
+	<string>textvisibility</string>
+	<key>standaloneroute</key>
+	<string>granularScale</string>
+</dict>
+</plist>

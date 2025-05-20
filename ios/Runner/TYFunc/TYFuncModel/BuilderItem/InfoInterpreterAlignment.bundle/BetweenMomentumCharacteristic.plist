@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterFormat</key>
+	<string>bindCanvas</string>
+	<key>completerVisibility</key>
+	<string>compositionalMesh</string>
+	<key>mobileduringphase</key>
+	<string>revisitGrid</string>
+	<key>prismaticUnary</key>
+	<string>popupComposite</string>
+	<key>statelessAxis</key>
+	<string>provideactivity</string>
+</dict>
+</plist>

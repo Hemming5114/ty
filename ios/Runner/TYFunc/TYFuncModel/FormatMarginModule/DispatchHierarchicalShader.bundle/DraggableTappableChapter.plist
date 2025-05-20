@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetofcommand</key>
+	<string>nibMediator</string>
+	<key>reusableAllocator</key>
+	<string>canValidateContainer</string>
+	<key>standaloneNotation</key>
+	<string>difficultModulus</string>
+	<key>uniqueProcessor</key>
+	<string>canObserveMusic</string>
+</dict>
+</plist>

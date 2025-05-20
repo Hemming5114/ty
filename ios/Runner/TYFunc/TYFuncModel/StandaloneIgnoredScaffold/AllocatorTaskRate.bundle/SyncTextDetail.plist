@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuerepository</key>
+	<string>usecaseStyle</string>
+	<key>dedicatedresourcecontrast</key>
+	<string>subscriptionacceleration</string>
+	<key>difficultPlayback</key>
+	<string>oldEvent</string>
+	<key>geometricTransition</key>
+	<string>rectifysink</string>
+	<key>interactiveOperation</key>
+	<string>errorFlyweight</string>
+	<key>invisibleTraversal</key>
+	<string>integrityMode</string>
+	<key>mediumInfrastructure</key>
+	<string>brushTheme</string>
+	<key>shouldStreamRoute</key>
+	<string>mutableConsumer</string>
+</dict>
+</plist>

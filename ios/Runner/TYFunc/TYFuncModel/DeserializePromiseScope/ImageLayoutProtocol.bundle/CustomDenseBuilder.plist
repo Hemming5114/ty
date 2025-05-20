@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDocument</key>
+	<string>receiverRotation</string>
+	<key>discardedPageView</key>
+	<string>rapidConsumer</string>
+	<key>pinchableEmitter</key>
+	<string>pushusecase</string>
+	<key>sophisticatedAnalyzer</key>
+	<string>navigationTask</string>
+</dict>
+</plist>

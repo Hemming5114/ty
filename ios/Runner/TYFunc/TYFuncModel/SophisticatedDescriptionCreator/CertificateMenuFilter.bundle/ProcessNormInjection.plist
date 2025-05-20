@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackawaywork</key>
+	<string>shouldShowUsage</string>
+	<key>criticalDrawer</key>
+	<string>elasticmusic</string>
+	<key>easySlider</key>
+	<string>oldEvaluation</string>
+	<key>ephemeralChannel</key>
+	<string>sustainableMaterializer</string>
+	<key>matrixincludeshape</key>
+	<string>shouldResumeBrush</string>
+	<key>petviashape</key>
+	<string>receiveAction</string>
+	<key>rapidNavigator</key>
+	<string>tabviewimpression</string>
+	<key>reusableConvolution</key>
+	<string>positionedDecorator</string>
+	<key>synchronousTernary</key>
+	<string>optionParam</string>
+</dict>
+</plist>

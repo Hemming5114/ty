@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEfficiency</key>
+	<string>promiseCoord</string>
+	<key>catalystOrientation</key>
+	<string>sizedboxStage</string>
+	<key>diffableMedia</key>
+	<string>shouldLoadSubpixel</string>
+	<key>inheritedScreen</key>
+	<string>inheritedQueue</string>
+	<key>normphasecontrast</key>
+	<string>hascache</string>
+	<key>paddingInterval</key>
+	<string>buildCell</string>
+	<key>profilechannel</key>
+	<string>rowconnector</string>
+	<key>reusableEvolution</key>
+	<string>showpet</string>
+	<key>shouldmountflex</key>
+	<string>cancelAlert</string>
+</dict>
+</plist>

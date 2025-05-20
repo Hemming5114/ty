@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedItem</key>
+	<string>insteadZone</string>
+	<key>dynamicDrawer</key>
+	<string>reactiveLocalization</string>
+	<key>gesturedetectorusecase</key>
+	<string>heapBorder</string>
+	<key>graphDelay</key>
+	<string>dimensionLevel</string>
+	<key>intuitiveroutevisible</key>
+	<string>sharedTimeline</string>
+	<key>mediumtopicinteraction</key>
+	<string>canNotifyUsage</string>
+	<key>overlayincludejob</key>
+	<string>subsequentTable</string>
+</dict>
+</plist>

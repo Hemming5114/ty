@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaithue</key>
+	<string>canSerializeStateful</string>
+	<key>constrainttraversal</key>
+	<string>singlegridname</string>
+	<key>fetchzone</key>
+	<string>listenermargin</string>
+	<key>iterativescrollorientation</key>
+	<string>adaptiveMovement</string>
+	<key>multiService</key>
+	<string>accessibleAllocator</string>
+	<key>nextSingleton</key>
+	<string>buttonstate</string>
+	<key>parallelChannel</key>
+	<string>crucialPadding</string>
+	<key>shouldSubscribeMargin</key>
+	<string>mountdecoration</string>
+	<key>shouldValidateProjection</key>
+	<string>embracePresenter</string>
+</dict>
+</plist>

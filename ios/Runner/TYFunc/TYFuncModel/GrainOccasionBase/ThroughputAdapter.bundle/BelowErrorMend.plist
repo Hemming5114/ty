@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBox</key>
+	<string>specifyTitle</string>
+	<key>isfragment</key>
+	<string>shouldUnbindTool</string>
+	<key>lastMap</key>
+	<string>shouldEndSpine</string>
+	<key>mobileAlert</key>
+	<string>shouldDisposeTable</string>
+	<key>playinterpolation</key>
+	<string>respectiveElasticity</string>
+	<key>shouldPauseMember</key>
+	<string>refactorSprite</string>
+	<key>shouldSetStateCupertino</key>
+	<string>dropdownbuttonSystem</string>
+	<key>unsortedTexture</key>
+	<string>intuitiveTexture</string>
+	<key>usedPet</key>
+	<string>statefulColumn</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionactionopacity</key>
+	<string>respondbuilder</string>
+	<key>hyperbolicNotification</key>
+	<string>visitSink</string>
+	<key>imageEdge</key>
+	<string>smallClipper</string>
+	<key>optimizerDirection</key>
+	<string>canBindMargin</string>
+	<key>optionEdge</key>
+	<string>canPauseMargin</string>
+	<key>pivotalTraversal</key>
+	<string>checkAnimation</string>
+	<key>publicScope</key>
+	<string>statefulUsage</string>
+	<key>trajectoryTop</key>
+	<string>stackVar</string>
+</dict>
+</plist>

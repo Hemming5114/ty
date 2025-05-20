@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedResponder</key>
+	<string>observeSegue</string>
+	<key>chartequivalent</key>
+	<string>accessoryHead</string>
+	<key>controllerstyle</key>
+	<string>observeDependency</string>
+	<key>decodefuture</key>
+	<string>mutableTheme</string>
+	<key>integrationHue</key>
+	<string>slidermomentum</string>
+	<key>overridecollection</key>
+	<string>canRebuildFlex</string>
+	<key>semanticsTop</key>
+	<string>buildScroll</string>
+	<key>shouldPrepareCatalyst</key>
+	<string>priorstatefulinset</string>
+	<key>temporaryNotifier</key>
+	<string>effectMemento</string>
+</dict>
+</plist>

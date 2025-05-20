@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCenter</key>
+	<string>semanticsEnvironment</string>
+	<key>currentProcessor</key>
+	<string>multiService</string>
+	<key>navigationtask</key>
+	<string>mediachaincolor</string>
+	<key>queuecreator</key>
+	<string>canTransitionConsumer</string>
+	<key>rapidAnimator</key>
+	<string>modalChain</string>
+	<key>uniformJoiner</key>
+	<string>substantialbuilder</string>
+</dict>
+</plist>

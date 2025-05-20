@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyThread</key>
+	<string>coordinatorObserver</string>
+	<key>shouldCancelRemainder</key>
+	<string>tappableStore</string>
+	<key>shouldShowDescriptor</key>
+	<string>shouldTrainWidget</string>
+	<key>shouldskipscreen</key>
+	<string>shouldInflateBrush</string>
+	<key>tappableMediaQuery</key>
+	<string>limitgrid</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAnimator</key>
+	<string>durationMargin</string>
+	<key>defaultTextField</key>
+	<string>shouldStreamAlpha</string>
+	<key>iterativeTopic</key>
+	<string>shouldPrepareSwift</string>
+	<key>keyEntropy</key>
+	<string>bindMaterial</string>
+	<key>movementrestriction</key>
+	<string>revisitManager</string>
+	<key>multiscalability</key>
+	<string>navigatoruntilfunction</string>
+	<key>shouldMountProject</key>
+	<string>parseReduction</string>
+	<key>shouldStreamCatalyst</key>
+	<string>disabledReduction</string>
+	<key>sortedExponent</key>
+	<string>scrollableMetadata</string>
+	<key>wrapservice</key>
+	<string>mountAnimatedContainer</string>
+</dict>
+</plist>

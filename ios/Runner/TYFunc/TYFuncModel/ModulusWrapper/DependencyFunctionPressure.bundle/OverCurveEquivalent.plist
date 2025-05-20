@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imagebrightness</key>
+	<string>shouldTrainAxis</string>
+	<key>numericalPositioned</key>
+	<string>resizesegment</string>
+	<key>originalFragment</key>
+	<string>sequentialVolume</string>
+	<key>prevText</key>
+	<string>canObserveOptimizer</string>
+	<key>projectionRate</key>
+	<string>samplemementoappearance</string>
+</dict>
+</plist>

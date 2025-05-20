@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperSkewY</key>
+	<string>elasticMethod</string>
+	<key>easyIndicator</key>
+	<string>canRebuildDuration</string>
+	<key>hardRow</key>
+	<string>canTransitionMovement</string>
+	<key>interactiveInformation</key>
+	<string>selectedSine</string>
+	<key>polyfillSkewY</key>
+	<string>dynamicView</string>
+	<key>robustOption</key>
+	<string>accordionAnimatedContainer</string>
+	<key>routerForce</key>
+	<string>canDeserializeColumn</string>
+	<key>shouldHandleNib</key>
+	<string>renderContainer</string>
+	<key>transitionstrategysize</key>
+	<string>interceptContainer</string>
+</dict>
+</plist>

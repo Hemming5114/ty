@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateElasticity</key>
+	<string>keepDrawer</string>
+	<key>enabledReference</key>
+	<string>backwardRichText</string>
+	<key>mobileAppBar</key>
+	<string>greatAspect</string>
+	<key>primaryDetail</key>
+	<string>delegatedelay</string>
+	<key>priorcurve</key>
+	<string>previewPattern</string>
+	<key>reducerstate</key>
+	<string>rapidMapper</string>
+	<key>shouldStopMonster</key>
+	<string>setstateEquipment</string>
+	<key>shouldYieldOption</key>
+	<string>containerchooser</string>
+	<key>streamamongscope</key>
+	<string>gridvarhue</string>
+</dict>
+</plist>

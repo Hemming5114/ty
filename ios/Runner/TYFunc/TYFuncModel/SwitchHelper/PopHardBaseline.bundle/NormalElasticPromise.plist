@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>scrollableCustomPaint</key>
+	<string>canProcessPageView</string>
+	<key>sharedSink</key>
+	<string>fetchConvolution</string>
+	<key>webButton</key>
+	<string>routeCount</string>
+</dict>
+</plist>

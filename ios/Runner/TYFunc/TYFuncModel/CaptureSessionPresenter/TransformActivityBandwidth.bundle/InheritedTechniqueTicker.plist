@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticIntegrity</key>
+	<string>requiredFrame</string>
+	<key>hardActivity</key>
+	<string>shouldProcessDescriptor</string>
+	<key>shouldReplaceIndicator</key>
+	<string>canvasFramework</string>
+	<key>shouldSaveMap</key>
+	<string>retainRequest</string>
+</dict>
+</plist>

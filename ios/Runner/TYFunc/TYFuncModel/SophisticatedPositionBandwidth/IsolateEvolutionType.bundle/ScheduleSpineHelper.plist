@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containergraph</key>
+	<string>animationPattern</string>
+	<key>detectorFormat</key>
+	<string>fetchController</string>
+	<key>intuitiveAnalyzer</key>
+	<string>reliabilityTheme</string>
+	<key>processorappearance</key>
+	<string>apertureTail</string>
+</dict>
+</plist>

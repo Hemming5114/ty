@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCard</key>
+	<string>movementTop</string>
+	<key>injectionmaterial</key>
+	<string>mobileSign</string>
+	<key>inkwellcontroller</key>
+	<string>layerbeyondbridge</string>
+	<key>intuitiveMobile</key>
+	<string>selectedAnimatedContainer</string>
+	<key>parsemaster</key>
+	<string>easyReduction</string>
+	<key>shouldUnmountListView</key>
+	<string>largeIndicator</string>
+	<key>themeTag</key>
+	<string>subscribeconfiguration</string>
+</dict>
+</plist>

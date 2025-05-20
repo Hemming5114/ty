@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAudio</key>
+	<string>prepareDuration</string>
+	<key>denseVideo</key>
+	<string>sizeSystem</string>
+	<key>multiConsumer</key>
+	<string>shouldParseBloc</string>
+	<key>shouldSerializeHistogram</key>
+	<string>standaloneBehavior</string>
+	<key>statefulHistogram</key>
+	<string>shouldConnectStack</string>
+	<key>symbolAlignment</key>
+	<string>multiGrayscale</string>
+</dict>
+</plist>

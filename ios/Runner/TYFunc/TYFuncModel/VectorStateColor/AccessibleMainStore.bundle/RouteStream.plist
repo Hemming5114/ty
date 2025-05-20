@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPrecision</key>
+	<string>checkboxcoord</string>
+	<key>fixedRequest</key>
+	<string>queueuntilstrategy</string>
+	<key>formatduration</key>
+	<string>extensionnearstage</string>
+	<key>immutableGrain</key>
+	<string>encodecanvas</string>
+	<key>nativemobilevisibility</key>
+	<string>processstorage</string>
+	<key>notationMargin</key>
+	<string>priortweak</string>
+	<key>resizableCompletion</key>
+	<string>canStartOperation</string>
+	<key>shouldContinueCompletion</key>
+	<string>inactiveAwait</string>
+	<key>shouldPaintComposition</key>
+	<string>remainderTask</string>
+	<key>storyboardDirection</key>
+	<string>stateCommand</string>
+</dict>
+</plist>

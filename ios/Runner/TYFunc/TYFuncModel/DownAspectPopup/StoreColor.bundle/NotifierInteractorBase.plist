@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoModulus</key>
+	<string>appendError</string>
+	<key>bufferRotation</key>
+	<string>shouldResumeHero</string>
+	<key>desktopGestureDetector</key>
+	<string>sophisticatedActivity</string>
+	<key>diffableTitle</key>
+	<string>currentColor</string>
+	<key>equivalentcolor</key>
+	<string>protectedLog</string>
+	<key>inkwellamongcontext</key>
+	<string>interactiveCluster</string>
+	<key>kernelOrientation</key>
+	<string>sortedResolver</string>
+	<key>normalPresenter</key>
+	<string>animateGate</string>
+	<key>standalonePlayback</key>
+	<string>holdUseCase</string>
+</dict>
+</plist>

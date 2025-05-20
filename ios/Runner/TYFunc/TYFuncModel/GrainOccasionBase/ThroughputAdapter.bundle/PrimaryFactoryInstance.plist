@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedExponent</key>
+	<string>shouldTransitionNib</string>
+	<key>colorColor</key>
+	<string>disposescroll</string>
+	<key>euclideanAsync</key>
+	<string>shouldRouteConstraint</string>
+	<key>rendertext</key>
+	<string>usecasejoiner</string>
+	<key>responsivebullet</key>
+	<string>shouldStartCompletion</string>
+	<key>shouldDetachGem</key>
+	<string>taskSpeed</string>
+	<key>shouldPersistProvider</key>
+	<string>ignoredBloc</string>
+	<key>shouldPublishScale</key>
+	<string>sizeOrientation</string>
+</dict>
+</plist>

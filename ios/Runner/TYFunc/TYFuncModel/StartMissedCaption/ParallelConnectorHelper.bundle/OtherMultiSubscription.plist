@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseNode</key>
+	<string>commonLayer</string>
+	<key>independentNavigation</key>
+	<string>cellFeedback</string>
+	<key>independentText</key>
+	<string>iconInteraction</string>
+	<key>intuitiveConsumption</key>
+	<string>canShowVariant</string>
+	<key>listenerphaseleft</key>
+	<string>agileMediaQuery</string>
+	<key>sortedemitter</key>
+	<string>robustGrayscale</string>
+	<key>symbolOffset</key>
+	<string>globalPadding</string>
+	<key>uniqueCanvas</key>
+	<string>canPersistNavigator</string>
+</dict>
+</plist>

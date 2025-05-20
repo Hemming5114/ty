@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyMethod</key>
+	<string>movementVelocity</string>
+	<key>gestureFormat</key>
+	<string>processintensity</string>
+	<key>mutableCanvas</key>
+	<string>parseBuffer</string>
+	<key>numericalDocument</key>
+	<string>pageviewRate</string>
+	<key>reactiveTabBar</key>
+	<string>graphicName</string>
+	<key>tappableMerger</key>
+	<string>deactivategrid</string>
+</dict>
+</plist>

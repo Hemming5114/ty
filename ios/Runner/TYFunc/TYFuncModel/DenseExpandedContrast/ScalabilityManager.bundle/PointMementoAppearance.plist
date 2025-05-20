@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataOrigin</key>
+	<string>shouldCreateText</string>
+	<key>invisibleRenderer</key>
+	<string>integerCommand</string>
+	<key>parallelContrast</key>
+	<string>significantbutton</string>
+	<key>shouldRebuildBloc</key>
+	<string>canUnmountedSpine</string>
+	<key>tableSize</key>
+	<string>analyzeFactory</string>
+</dict>
+</plist>

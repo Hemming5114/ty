@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBottom</key>
+	<string>intermediateButton</string>
+	<key>alignmentpressure</key>
+	<string>replicatePosition</string>
+	<key>componentBorder</key>
+	<string>otherTime</string>
+	<key>scrollableGrayscale</key>
+	<string>previewBehavior</string>
+	<key>shouldUnmountHeap</key>
+	<string>instructionCount</string>
+	<key>strokePadding</key>
+	<string>commonnavigator</string>
+	<key>symmetricColumn</key>
+	<string>oldConnector</string>
+	<key>utiloutsidestructure</key>
+	<string>receiverSkewY</string>
+</dict>
+</plist>

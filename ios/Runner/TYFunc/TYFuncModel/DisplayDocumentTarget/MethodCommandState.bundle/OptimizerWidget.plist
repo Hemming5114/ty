@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generatestamp</key>
+	<string>seekButton</string>
+	<key>interfacemetrics</key>
+	<string>shouldRenderColumn</string>
+	<key>positionkind</key>
+	<string>canPersistScaffold</string>
+	<key>shouldCreateGrayscale</key>
+	<string>screenfinder</string>
+	<key>shouldDetachPoint</key>
+	<string>exceptionCenter</string>
+	<key>shouldListenTable</key>
+	<string>shouldTransitionExpanded</string>
+</dict>
+</plist>

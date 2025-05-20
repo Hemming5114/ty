@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblelayoutbound</key>
+	<string>lockAllocator</string>
+	<key>customizedAudio</key>
+	<string>mendVelocity</string>
+	<key>customizedAwait</key>
+	<string>temporaryReference</string>
+	<key>exceptionorigin</key>
+	<string>durationSingleton</string>
+	<key>hyperbolicScheduler</key>
+	<string>normalBoxShadow</string>
+	<key>interpolationawaytype</key>
+	<string>fixedSlash</string>
+	<key>pivotalShape</key>
+	<string>ephemeralMethod</string>
+	<key>playbackmetadata</key>
+	<string>pendingComposition</string>
+	<key>shouldReplacePet</key>
+	<string>oncapacitieschanged</string>
+	<key>statefulMend</key>
+	<string>activeEfficiency</string>
+</dict>
+</plist>

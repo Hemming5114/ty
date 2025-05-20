@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisslistener</key>
+	<string>setupview</string>
+	<key>disparatePresenter</key>
+	<string>sophisticatedDrawer</string>
+	<key>dynamicAmortization</key>
+	<string>timeLocation</string>
+	<key>listenerleft</key>
+	<string>originalTable</string>
+	<key>mobilePager</key>
+	<string>detachPoint</string>
+	<key>relationalNib</key>
+	<string>pushsprite</string>
+	<key>shouldDecodeGridView</key>
+	<string>controllerMomentum</string>
+</dict>
+</plist>

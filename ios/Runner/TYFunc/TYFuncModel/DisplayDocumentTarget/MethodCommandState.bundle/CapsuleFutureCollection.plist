@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPainter</key>
+	<string>declarativeSlash</string>
+	<key>checklistlocation</key>
+	<string>ternaryjobcolor</string>
+	<key>constraintincludeadapter</key>
+	<string>liteGraphic</string>
+	<key>discoversine</key>
+	<string>nativeTicker</string>
+	<key>displayableutilinset</key>
+	<string>informationShape</string>
+	<key>methodType</key>
+	<string>canUnmountNotifier</string>
+	<key>tangentLocation</key>
+	<string>shouldRebuildCosine</string>
+</dict>
+</plist>

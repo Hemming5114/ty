@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customTabView</key>
+	<string>retainedMonster</string>
+	<key>delicateInteraction</key>
+	<string>vectorizeSingleton</string>
+	<key>draggableConverter</key>
+	<string>shouldreplacespine</string>
+	<key>factorytheme</key>
+	<string>diffableNode</string>
+	<key>reactiveInfo</key>
+	<string>shouldStartProtocol</string>
+	<key>sequentialObject</key>
+	<string>clearView</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseposition</key>
+	<string>initializeZone</string>
+	<key>convolutionOrigin</key>
+	<string>priorityTemple</string>
+	<key>implementcontainer</key>
+	<string>publicCompleter</string>
+	<key>lostAnimator</key>
+	<string>skirtStructure</string>
+	<key>protectedsplitter</key>
+	<string>resourcebyvalue</string>
+	<key>vectorfeedback</key>
+	<string>mutableJoiner</string>
+</dict>
+</plist>

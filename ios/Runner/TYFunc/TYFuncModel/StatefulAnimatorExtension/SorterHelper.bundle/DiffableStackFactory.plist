@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateedge</key>
+	<string>grainAction</string>
+	<key>diversifiedTweak</key>
+	<string>scrollableSubpixel</string>
+	<key>ephemeralNavigation</key>
+	<string>semanticLocalization</string>
+	<key>hyperbolicPermutation</key>
+	<string>otherAction</string>
+	<key>otherNib</key>
+	<string>threadTier</string>
+	<key>reducerTint</key>
+	<string>divideScene</string>
+	<key>routeBound</key>
+	<string>presentTouch</string>
+	<key>slashamortization</key>
+	<string>cardappearance</string>
+	<key>tabbarsearcher</key>
+	<string>setstateBuilder</string>
+	<key>uniformOffset</key>
+	<string>canEncodeScreen</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentClipper</key>
+	<string>statefulClipper</string>
+	<key>renamefeature</key>
+	<string>significantremaindertype</string>
+	<key>shouldMountedCustomPaint</key>
+	<string>alphaSpacing</string>
+	<key>standaloneLabel</key>
+	<string>saveLoss</string>
+</dict>
+</plist>

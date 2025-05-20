@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePolygon</key>
+	<string>hardTask</string>
+	<key>advancedBoxShadow</key>
+	<string>canUnmountedNotification</string>
+	<key>capsuleInterval</key>
+	<string>priorStateful</string>
+	<key>hardAlpha</key>
+	<string>shouldAttachFragment</string>
+	<key>musicInterval</key>
+	<string>unmountModulus</string>
+	<key>mutablePainter</key>
+	<string>checklistObserver</string>
+</dict>
+</plist>

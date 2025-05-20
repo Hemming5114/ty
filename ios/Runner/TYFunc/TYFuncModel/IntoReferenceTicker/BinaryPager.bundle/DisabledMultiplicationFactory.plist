@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultGradient</key>
+	<string>primaryMap</string>
+	<key>deferredDrawer</key>
+	<string>rangeMargin</string>
+	<key>keyFactory</key>
+	<string>shouldListenCycle</string>
+	<key>robustLoader</key>
+	<string>mediumTransformer</string>
+	<key>routereliability</key>
+	<string>shouldstreamcupertino</string>
+	<key>typicalprofile</key>
+	<string>fusedMobile</string>
+</dict>
+</plist>

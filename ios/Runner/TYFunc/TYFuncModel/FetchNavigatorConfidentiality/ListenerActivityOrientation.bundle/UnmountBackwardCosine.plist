@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCoord</key>
+	<string>priorEquivalent</string>
+	<key>hashfacadeorientation</key>
+	<string>intermediatePadding</string>
+	<key>mediumDispatcher</key>
+	<string>shouldKeepGridView</string>
+	<key>primaryCanvas</key>
+	<string>shouldPrepareSample</string>
+	<key>priorFactory</key>
+	<string>pendingGridView</string>
+	<key>restoremanager</key>
+	<string>characterinterval</string>
+	<key>shouldHandleDocument</key>
+	<string>anchorstructureskewx</string>
+	<key>shouldvalidatetask</key>
+	<string>delicateAnimation</string>
+</dict>
+</plist>

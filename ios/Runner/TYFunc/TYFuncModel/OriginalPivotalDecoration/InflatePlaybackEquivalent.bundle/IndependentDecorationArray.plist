@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPosition</key>
+	<string>skinBorder</string>
+	<key>loadstore</key>
+	<string>newestReceiver</string>
+	<key>navigatorright</key>
+	<string>consumecolumn</string>
+	<key>pivotalBatch</key>
+	<string>canPrepareTextField</string>
+	<key>smallRadius</key>
+	<string>binaryCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativefuture</key>
+	<string>modalStructure</string>
+	<key>declarativeInteraction</key>
+	<string>mediaquerythroughput</string>
+	<key>globalSound</key>
+	<string>rebuildCell</string>
+	<key>materializerMode</key>
+	<string>originalMap</string>
+	<key>persistentrecursion</key>
+	<string>isNorm</string>
+	<key>provideloop</key>
+	<string>newestFormat</string>
+	<key>rectcontrast</key>
+	<string>synchronousPoint</string>
+	<key>temporaryAudio</key>
+	<string>canUnbindPadding</string>
+</dict>
+</plist>

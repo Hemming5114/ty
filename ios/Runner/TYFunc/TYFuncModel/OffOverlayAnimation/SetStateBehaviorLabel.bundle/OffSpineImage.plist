@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGroup</key>
+	<string>blockind</string>
+	<key>basenavigator</key>
+	<string>smallUnary</string>
+	<key>consultativegembottom</key>
+	<string>poolDescription</string>
+	<key>elasticException</key>
+	<string>fillRow</string>
+	<key>missedTrigger</key>
+	<string>mountedRichText</string>
+	<key>optionconstraint</key>
+	<string>checkboxVisitor</string>
+	<key>resizableAction</key>
+	<string>freeMenu</string>
+	<key>shouldPrepareMaster</key>
+	<string>flexibleMatrix</string>
+	<key>sophisticatedgrain</key>
+	<string>canFetchAxis</string>
+</dict>
+</plist>

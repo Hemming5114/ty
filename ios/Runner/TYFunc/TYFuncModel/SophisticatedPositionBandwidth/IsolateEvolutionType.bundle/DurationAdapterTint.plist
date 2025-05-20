@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOrigin</key>
+	<string>shouldStopMaster</string>
+	<key>eventparameterdepth</key>
+	<string>reflectAsset</string>
+	<key>mutableArithmetic</key>
+	<string>readsymbol</string>
+	<key>promisechooser</key>
+	<string>rendereredge</string>
+	<key>rendererRotation</key>
+	<string>completionFlags</string>
+	<key>requiredpolyfill</key>
+	<string>fusedOptimizer</string>
+	<key>scalecluster</key>
+	<string>tensorPosition</string>
+	<key>shouldRestartCanvas</key>
+	<string>streamHead</string>
+	<key>webUtil</key>
+	<string>mapInteraction</string>
+</dict>
+</plist>

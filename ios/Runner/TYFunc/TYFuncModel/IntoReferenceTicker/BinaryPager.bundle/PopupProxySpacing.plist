@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationSaturation</key>
+	<string>hashInset</string>
+	<key>declarativeConfiguration</key>
+	<string>singletondirection</string>
+	<key>popupDelay</key>
+	<string>hierarchicalPromise</string>
+	<key>priorIntensity</key>
+	<string>fetchAppBar</string>
+	<key>requestHue</key>
+	<string>denseException</string>
+	<key>resilientStateless</key>
+	<string>cacheconstraint</string>
+	<key>standalonestate</key>
+	<string>assetAlignment</string>
+</dict>
+</plist>

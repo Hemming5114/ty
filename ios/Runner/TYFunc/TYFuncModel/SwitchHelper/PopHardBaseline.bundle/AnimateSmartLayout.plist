@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateobserver</key>
+	<string>providerinsidevariable</string>
+	<key>denseAllocator</key>
+	<string>mobileevent</string>
+	<key>deserializestream</key>
+	<string>navigatorprototypeopacity</string>
+	<key>nextPositioned</key>
+	<string>architectureshade</string>
+	<key>overridezone</key>
+	<string>animationChain</string>
+	<key>recttriangles</key>
+	<string>logAppearance</string>
+	<key>robustCube</key>
+	<string>rangeDirection</string>
+	<key>shouldMountedRadio</key>
+	<string>mediaBridge</string>
+	<key>shouldPublishGrayscale</key>
+	<string>shouldSaveMonster</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectjobinteraction</key>
+	<string>canPopTabView</string>
+	<key>ignoredTolerance</key>
+	<string>displayableHash</string>
+	<key>inheriteddrawervelocity</key>
+	<string>resizablehashfrequency</string>
+	<key>intuitiveComposition</key>
+	<string>selectedaxis</string>
+	<key>mediaqueryplatformbottom</key>
+	<string>soundresponse</string>
+	<key>previewbehavior</key>
+	<string>visibleSensor</string>
+	<key>shapeInterval</key>
+	<string>singleDuration</string>
+	<key>shouldDismissChecklist</key>
+	<string>euclideanConvolution</string>
+	<key>shouldPrepareCosine</key>
+	<string>framehead</string>
+	<key>streamstatus</key>
+	<string>semanticsDepth</string>
+</dict>
+</plist>

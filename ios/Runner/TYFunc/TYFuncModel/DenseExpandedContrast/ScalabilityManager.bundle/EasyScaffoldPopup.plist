@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredActivity</key>
+	<string>builderandvariable</string>
+	<key>offsetmobile</key>
+	<string>consumeMetadata</string>
+	<key>permanentMaterial</key>
+	<string>persistPageView</string>
+	<key>petLeft</key>
+	<string>canUnmountedView</string>
+	<key>shouldMountAppBar</key>
+	<string>cancelMember</string>
+</dict>
+</plist>

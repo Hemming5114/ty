@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyMenu</key>
+	<string>reusableHistogram</string>
+	<key>globalRemediation</key>
+	<string>shouldYieldOverlay</string>
+	<key>loadstate</key>
+	<string>staticPresenter</string>
+	<key>selectedGate</key>
+	<string>disconnectSkin</string>
+	<key>shouldResumeBehavior</key>
+	<string>connectmatrix</string>
+	<key>shouldStartDimension</key>
+	<string>timerTier</string>
+	<key>shouldformatanchor</key>
+	<string>respectiveConvolution</string>
+</dict>
+</plist>

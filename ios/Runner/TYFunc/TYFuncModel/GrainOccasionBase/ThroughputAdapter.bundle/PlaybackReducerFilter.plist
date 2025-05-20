@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitNib</key>
+	<string>screenVisibility</string>
+	<key>lazyDelivery</key>
+	<string>giftcontainmemento</string>
+	<key>offsetEdge</key>
+	<string>ephemeralStateless</string>
+	<key>readtabview</key>
+	<string>stateOrientation</string>
+	<key>staticBandwidth</key>
+	<string>usedMesh</string>
+	<key>symbolleft</key>
+	<string>disposeAlert</string>
+	<key>tweakBottom</key>
+	<string>unactivatedCompletion</string>
+</dict>
+</plist>

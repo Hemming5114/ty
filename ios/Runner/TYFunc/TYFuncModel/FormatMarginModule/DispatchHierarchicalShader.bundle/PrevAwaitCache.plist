@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapnearinterpreter</key>
+	<string>cubeSkewX</string>
+	<key>markservice</key>
+	<string>characteristicDensity</string>
+	<key>mobileCube</key>
+	<string>lostMapper</string>
+	<key>permissiveCoordinator</key>
+	<string>shouldConnectCursor</string>
+	<key>resiliencedistance</key>
+	<string>renderAxis</string>
+	<key>shouldUnbindChallenge</key>
+	<string>sizedboxrate</string>
+	<key>singlepainter</key>
+	<string>shouldMountedVariant</string>
+</dict>
+</plist>

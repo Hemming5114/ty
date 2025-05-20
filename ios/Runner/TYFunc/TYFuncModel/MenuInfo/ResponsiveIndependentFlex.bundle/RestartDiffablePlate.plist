@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSplitter</key>
+	<string>shouldCancelTabView</string>
+	<key>apertureCenter</key>
+	<string>graphDistance</string>
+	<key>bloccoord</key>
+	<string>tangentBound</string>
+	<key>intensitysound</key>
+	<string>addTransition</string>
+	<key>liteInfrastructure</key>
+	<string>distinctionVisible</string>
+	<key>scalabilityFlags</key>
+	<string>shouldPushImage</string>
+	<key>shouldCacheNib</key>
+	<string>durationshader</string>
+	<key>transitionspot</key>
+	<string>wrapEntity</string>
+	<key>vectorizealignment</key>
+	<string>disconnecttween</string>
+</dict>
+</plist>

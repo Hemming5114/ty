@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentDrawer</key>
+	<string>localizationCount</string>
+	<key>displayableContainer</key>
+	<string>difficultEmitter</string>
+	<key>draweracceleration</key>
+	<string>invisibleExpanded</string>
+	<key>subtleShader</key>
+	<string>methodKind</string>
+</dict>
+</plist>

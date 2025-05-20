@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveprojection</key>
+	<string>rapidTool</string>
+	<key>captionStyle</key>
+	<string>shouldUnbindSample</string>
+	<key>composableLocalization</key>
+	<string>deferredModule</string>
+	<key>dedicatedrow</key>
+	<string>paintMonster</string>
+	<key>fixedQueue</key>
+	<string>shouldPersistResource</string>
+	<key>lifecycleSaturation</key>
+	<string>limitFuture</string>
+	<key>navigationAcceleration</key>
+	<string>managerdensity</string>
+	<key>priorOption</key>
+	<string>canDispatchAppBar</string>
+	<key>shouldBuildIcon</key>
+	<string>validateHero</string>
+</dict>
+</plist>

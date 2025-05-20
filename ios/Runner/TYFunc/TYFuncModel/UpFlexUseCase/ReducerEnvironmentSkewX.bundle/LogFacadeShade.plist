@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCollection</key>
+	<string>beginnerScroll</string>
+	<key>declarativeoffsetlocation</key>
+	<string>checkboxPlatform</string>
+	<key>disclaimerSize</key>
+	<string>scaffoldShape</string>
+	<key>erasemodulus</key>
+	<string>resilientAnimator</string>
+	<key>greatdata</key>
+	<string>canTransitionPainter</string>
+	<key>hardTolerance</key>
+	<string>parallelPlayback</string>
+	<key>ongatechanged</key>
+	<string>memberForce</string>
+	<key>resilienceFlags</key>
+	<string>transformDependency</string>
+	<key>shouldSaveSpot</key>
+	<string>localMomentum</string>
+	<key>shouldcachecapacities</key>
+	<string>nativeGestureDetector</string>
+</dict>
+</plist>

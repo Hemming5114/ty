@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directRoute</key>
+	<string>shouldTransformEqualization</string>
+	<key>hardBinder</key>
+	<string>canDisposeStack</string>
+	<key>inheritedSegue</key>
+	<string>giftChain</string>
+	<key>shouldPushCollection</key>
+	<string>reductionProxy</string>
+	<key>unactivatedFrame</key>
+	<string>responsiveMesh</string>
+</dict>
+</plist>

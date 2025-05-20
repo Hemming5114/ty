@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendworkflow</key>
+	<string>symmetricCluster</string>
+	<key>effectformskewx</key>
+	<string>shouldprocessnotification</string>
+	<key>impressionForce</key>
+	<string>multiplicationVisibility</string>
+	<key>pageviewIndex</key>
+	<string>pinchableStateless</string>
+	<key>shouldDetachView</key>
+	<string>typicalImage</string>
+	<key>shouldProcessMargin</key>
+	<string>scalabilitySkewX</string>
+	<key>toolexceptproxy</key>
+	<string>sorterVelocity</string>
+	<key>zonedecoratorposition</key>
+	<string>persistentScroll</string>
+</dict>
+</plist>

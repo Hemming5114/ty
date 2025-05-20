@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionInterval</key>
+	<string>multiAperture</string>
+	<key>constraintTail</key>
+	<string>elasticCaption</string>
+	<key>itemMargin</key>
+	<string>localizationnumbertag</string>
+	<key>mainMaterial</key>
+	<string>factoryindex</string>
+	<key>paintmenu</key>
+	<string>vectorizeInteractor</string>
+	<key>prismaticElasticity</key>
+	<string>dispatcherAcceleration</string>
+	<key>unmountedsprite</key>
+	<string>shouldtrainactivity</string>
+	<key>visiblerange</key>
+	<string>deferredStroke</string>
+</dict>
+</plist>

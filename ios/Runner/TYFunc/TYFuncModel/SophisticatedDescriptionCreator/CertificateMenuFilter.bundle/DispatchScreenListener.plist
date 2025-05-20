@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesTag</key>
+	<string>actionAcceleration</string>
+	<key>curvehead</key>
+	<string>nodeFeedback</string>
+	<key>draggableIcon</key>
+	<string>prismaticActivity</string>
+	<key>popupconnector</key>
+	<string>shouldConnectSpecifier</string>
+	<key>temporaryMultiplication</key>
+	<string>euclideanCard</string>
+	<key>toleranceForce</key>
+	<string>staticModulus</string>
+	<key>viewFlags</key>
+	<string>allocatorFramework</string>
+</dict>
+</plist>

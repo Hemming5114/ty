@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrequency</key>
+	<string>themevelocity</string>
+	<key>completerascent</key>
+	<string>bulletParam</string>
+	<key>deferredGridView</key>
+	<string>canBindView</string>
+	<key>elasticityShape</key>
+	<string>visitInteractor</string>
+	<key>prevDispatcher</key>
+	<string>prepareBase</string>
+	<key>providesession</key>
+	<string>originalCoordinator</string>
+	<key>startbuilder</key>
+	<string>controllersingletonvalidation</string>
+	<key>subscriptionproxymode</key>
+	<string>canTransitionCustomPaint</string>
+</dict>
+</plist>

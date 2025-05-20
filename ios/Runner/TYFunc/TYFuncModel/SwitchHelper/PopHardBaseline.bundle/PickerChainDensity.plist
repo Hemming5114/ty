@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAudio</key>
+	<string>formatSpine</string>
+	<key>dimensionCenter</key>
+	<string>interactiveDispatcher</string>
+	<key>discardedUtil</key>
+	<string>chapterResponse</string>
+	<key>lostTween</key>
+	<string>onfragmentchanged</string>
+	<key>rangeRotation</key>
+	<string>gestureSingleton</string>
+	<key>shouldResumeIcon</key>
+	<string>shouldReplaceStateful</string>
+	<key>shouldhandlecatalyst</key>
+	<string>significantDrawer</string>
+</dict>
+</plist>

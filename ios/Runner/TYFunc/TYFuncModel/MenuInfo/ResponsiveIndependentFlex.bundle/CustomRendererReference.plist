@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>priorityBottom</key>
+	<string>transpileMethod</string>
+	<key>protectedChallenge</key>
+	<string>compositionalChooser</string>
+	<key>robustgesturedetector</key>
+	<string>imageSkewY</string>
+	<key>smallTime</key>
+	<string>textProcess</string>
+	<key>textureDensity</key>
+	<string>alignmenttension</string>
+	<key>transitionvaluecenter</key>
+	<string>oldReduction</string>
+</dict>
+</plist>

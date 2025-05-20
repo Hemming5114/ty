@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderMargin</key>
+	<string>retainedPolygon</string>
+	<key>customizedTrajectory</key>
+	<string>usedCapacities</string>
+	<key>lostcompletion</key>
+	<string>reliabilityTop</string>
+	<key>mountedstoryboard</key>
+	<string>canSerializeCoordinator</string>
+	<key>tentativeBound</key>
+	<string>canPopCanvas</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCenter</key>
+	<string>schemaLeft</string>
+	<key>componentLeft</key>
+	<string>connectorOrigin</string>
+	<key>concurrentSlider</key>
+	<string>shouldLoadLog</string>
+	<key>containeraudio</key>
+	<string>cubitState</string>
+	<key>dedicatedResponse</key>
+	<string>baselineinteractor</string>
+	<key>descriptionTransparency</key>
+	<string>primaryDimension</string>
+	<key>loopSpacing</key>
+	<string>permissiveTransformer</string>
+	<key>shouldUpdateBinary</key>
+	<string>canResumeSine</string>
+	<key>uniformPainter</key>
+	<string>shouldserializestamp</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushfromform</key>
+	<string>mutablesegmentinset</string>
+	<key>constantDensity</key>
+	<string>canFormatBox</string>
+	<key>crucialBullet</key>
+	<string>constantHue</string>
+	<key>crudeEqualization</key>
+	<string>publicEquivalent</string>
+	<key>diffableColor</key>
+	<string>smartChannel</string>
+	<key>missedEvent</key>
+	<string>reusableRectangle</string>
+	<key>pinchableColumn</key>
+	<string>nodeContext</string>
+	<key>widgettype</key>
+	<string>missionscope</string>
+</dict>
+</plist>

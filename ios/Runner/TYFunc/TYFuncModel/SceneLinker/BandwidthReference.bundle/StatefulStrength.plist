@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumBaseline</key>
+	<string>showInkWell</string>
+	<key>pauseresult</key>
+	<string>durationoutsideoperation</string>
+	<key>rectinformation</key>
+	<string>adjustSize</string>
+	<key>relationalTrajectory</key>
+	<string>embracescene</string>
+	<key>shouldPresentRoute</key>
+	<string>canNavigateBullet</string>
+	<key>temporaryBehavior</key>
+	<string>textTransparency</string>
+</dict>
+</plist>

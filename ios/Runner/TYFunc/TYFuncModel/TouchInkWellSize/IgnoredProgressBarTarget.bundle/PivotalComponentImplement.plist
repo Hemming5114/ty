@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeScreen</key>
+	<string>difficultPadding</string>
+	<key>cursorHead</key>
+	<string>flexibleSpecifier</string>
+	<key>delegateSpeed</key>
+	<string>richtextTheme</string>
+	<key>disconnectdrawer</key>
+	<string>modalCommand</string>
+	<key>imperativeTween</key>
+	<string>temporaryMomentum</string>
+	<key>sizedboxtail</key>
+	<string>captionMethod</string>
+	<key>skinDistance</key>
+	<string>reducerTransparency</string>
+	<key>synchronousSample</key>
+	<string>notationAppearance</string>
+	<key>transposeduration</key>
+	<string>specifytentative</string>
+</dict>
+</plist>

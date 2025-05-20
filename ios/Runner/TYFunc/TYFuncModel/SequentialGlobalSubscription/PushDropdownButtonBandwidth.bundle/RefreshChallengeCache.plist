@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addradius</key>
+	<string>independentColumn</string>
+	<key>equipmentdensity</key>
+	<string>sequentialProgressBar</string>
+	<key>responsiveinjection</key>
+	<string>canCreateVariant</string>
+	<key>taxonomyShade</key>
+	<string>draggableAscent</string>
+</dict>
+</plist>

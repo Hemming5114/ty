@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcapacity</key>
+	<string>desktopBox</string>
+	<key>confidentialityPadding</key>
+	<string>invisibleAspect</string>
+	<key>granularScene</key>
+	<string>stateTask</string>
+	<key>shouldloaddrawer</key>
+	<string>canStreamMobile</string>
+</dict>
+</plist>

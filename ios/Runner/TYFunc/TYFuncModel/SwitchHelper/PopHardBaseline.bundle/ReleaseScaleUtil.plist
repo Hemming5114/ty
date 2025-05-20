@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitstageposition</key>
+	<string>checkModel</string>
+	<key>difficultTolerance</key>
+	<string>markSink</string>
+	<key>geometricLabel</key>
+	<string>typicallayoutcount</string>
+	<key>shouldContinueAppBar</key>
+	<string>thresholdCoord</string>
+	<key>shouldCreateNib</key>
+	<string>strokeAlignment</string>
+	<key>shouldResumeSkirt</key>
+	<string>restartExpanded</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>optionAppearance</key>
+	<string>onslidertap</string>
+	<key>primaryInkWell</key>
+	<string>pageviewVar</string>
+	<key>protectedProfile</key>
+	<string>escalateMenu</string>
+	<key>shouldrebuildalpha</key>
+	<string>ephemeralStorage</string>
+	<key>singleOverlay</key>
+	<string>subscriptionnearparam</string>
+	<key>timelineForce</key>
+	<string>isexpanded</string>
+</dict>
+</plist>

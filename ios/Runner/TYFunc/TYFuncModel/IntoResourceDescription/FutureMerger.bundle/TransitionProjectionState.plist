@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionSize</key>
+	<string>symbolMargin</string>
+	<key>directlyDelivery</key>
+	<string>equalizationbound</string>
+	<key>greatColor</key>
+	<string>gestureLeft</string>
+	<key>impressiontype</key>
+	<string>slidertag</string>
+	<key>materialHash</key>
+	<string>selectedprovider</string>
+	<key>projectionborder</key>
+	<string>pointCoord</string>
+	<key>shouldBuildEffect</key>
+	<string>progressbarEdge</string>
+</dict>
+</plist>

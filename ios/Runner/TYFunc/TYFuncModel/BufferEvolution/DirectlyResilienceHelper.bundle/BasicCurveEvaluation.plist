@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPageView</key>
+	<string>documentvalidation</string>
+	<key>bindchecklist</key>
+	<string>dynamicLayer</string>
+	<key>cartesianContainer</key>
+	<string>intensityMemento</string>
+	<key>commonskinstatus</key>
+	<string>canBuildClipper</string>
+	<key>comprehensiveEntity</key>
+	<string>largeDetector</string>
+	<key>displayableImpact</key>
+	<string>shouldUnmountedConsumer</string>
+	<key>searcherstatus</key>
+	<string>shouldValidateBehavior</string>
+	<key>shouldPresentHistogram</key>
+	<string>parsesizedbox</string>
+	<key>shoulddetachmultiplication</key>
+	<string>drawerPlatform</string>
+	<key>unmountsample</key>
+	<string>lostManager</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGate</key>
+	<string>canProcessTernary</string>
+	<key>assetbehavior</key>
+	<string>canDismissCache</string>
+	<key>gateappearance</key>
+	<string>numericalDocument</string>
+	<key>gridviewStatus</key>
+	<string>buttonInterpreter</string>
+	<key>largeRemediation</key>
+	<string>compositionalThreshold</string>
+	<key>parselocalization</key>
+	<string>directMaterializer</string>
+	<key>usedElasticity</key>
+	<string>remediationfeedback</string>
+</dict>
+</plist>

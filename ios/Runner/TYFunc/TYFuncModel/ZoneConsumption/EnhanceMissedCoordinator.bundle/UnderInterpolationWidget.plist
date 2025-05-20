@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionincludelayer</key>
+	<string>shouldEmitArithmetic</string>
+	<key>generatetask</key>
+	<string>compositionalEvent</string>
+	<key>interactionDuration</key>
+	<string>sophisticatedSprite</string>
+	<key>widgetstyle</key>
+	<string>presentEffect</string>
+</dict>
+</plist>

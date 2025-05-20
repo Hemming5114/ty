@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionevent</key>
+	<string>activeListener</string>
+	<key>denseDocument</key>
+	<string>fragmentEdge</string>
+	<key>dynamicCompletion</key>
+	<string>multiRectangle</string>
+	<key>explicitUsage</key>
+	<string>markUtil</string>
+	<key>shouldPersistController</key>
+	<string>stepOpacity</string>
+	<key>tappableReliability</key>
+	<string>tablePattern</string>
+	<key>textfieldposition</key>
+	<string>sharedRestriction</string>
+</dict>
+</plist>

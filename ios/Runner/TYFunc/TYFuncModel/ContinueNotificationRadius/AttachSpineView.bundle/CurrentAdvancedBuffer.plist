@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteConstraint</key>
+	<string>concurrentMapper</string>
+	<key>intuitiveTheme</key>
+	<string>moveResponse</string>
+	<key>permanentsinecolor</key>
+	<string>slidercoordinator</string>
+	<key>shouldPresentBuilder</key>
+	<string>smartlooptension</string>
+	<key>smallRenderer</key>
+	<string>resultSkewX</string>
+</dict>
+</plist>

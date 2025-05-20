@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerListener</key>
+	<string>observercoord</string>
+	<key>consumegroup</key>
+	<string>publishOptimizer</string>
+	<key>eagerAsset</key>
+	<string>crudeCupertino</string>
+	<key>largeallocator</key>
+	<string>shouldSaveGraphic</string>
+	<key>methodflags</key>
+	<string>respectivePager</string>
+	<key>momentumRate</key>
+	<string>requestInjection</string>
+	<key>reactiveQueue</key>
+	<string>revisitTransition</string>
+	<key>shouldMountedAnchor</key>
+	<string>shouldMountSegue</string>
+	<key>tangentMomentum</key>
+	<string>materialTransition</string>
+</dict>
+</plist>

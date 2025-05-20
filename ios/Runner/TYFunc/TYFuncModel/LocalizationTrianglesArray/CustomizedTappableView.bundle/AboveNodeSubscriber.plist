@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basesaturation</key>
+	<string>replaceDimension</string>
+	<key>infrastructureSpeed</key>
+	<string>navigatorDirection</string>
+	<key>invisibleBullet</key>
+	<string>persistentTernary</string>
+	<key>iterativehashflags</key>
+	<string>looptransparency</string>
+	<key>lostEqualization</key>
+	<string>dedicatedSizedBox</string>
+	<key>shouldcacheflex</key>
+	<string>specifieroutsidestrategy</string>
+</dict>
+</plist>

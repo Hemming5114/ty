@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAlignment</key>
+	<string>exponentflyweightinteraction</string>
+	<key>discardedVolume</key>
+	<string>listviewInteraction</string>
+	<key>elasticLifecycle</key>
+	<string>createAlpha</string>
+	<key>greatCycle</key>
+	<string>futureMemento</string>
+	<key>marginOrigin</key>
+	<string>canCreateBox</string>
+	<key>optionVisibility</key>
+	<string>autoDelivery</string>
+	<key>schemaInterval</key>
+	<string>playbackfuture</string>
+	<key>segmentwrapper</key>
+	<string>binderShape</string>
+	<key>standaloneElasticity</key>
+	<string>animateException</string>
+	<key>usedMechanism</key>
+	<string>bandwidthBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectTint</key>
+	<string>statelessFeature</string>
+	<key>columnDuration</key>
+	<string>beginnerDrawer</string>
+	<key>intuitiveBaseline</key>
+	<string>graphicNumber</string>
+	<key>largeEmitter</key>
+	<string>smallOptimizer</string>
+	<key>missedCharacter</key>
+	<string>adaptiveConfiguration</string>
+	<key>permanentcollection</key>
+	<string>canProcessTool</string>
+	<key>rapidCache</key>
+	<string>spriterect</string>
+	<key>tensorScroller</key>
+	<string>opaqueCluster</string>
+	<key>vectorFrequency</key>
+	<string>positionMethod</string>
+</dict>
+</plist>

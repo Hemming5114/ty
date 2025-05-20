@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionName</key>
+	<string>listeneroperationbound</string>
+	<key>notifierSize</key>
+	<string>endBitrate</string>
+	<key>scrollableMedia</key>
+	<string>aspectvisibility</string>
+	<key>trainoffset</key>
+	<string>sustainableShape</string>
+</dict>
+</plist>

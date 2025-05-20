@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseforsingleton</key>
+	<string>easyMechanism</string>
+	<key>descriptorFormat</key>
+	<string>statelessThroughput</string>
+	<key>extensionValidation</key>
+	<string>endAnimation</string>
+	<key>intermediateCell</key>
+	<string>delegateTween</string>
+	<key>numericallogshade</key>
+	<string>gesturedetectorInset</string>
+	<key>revisitintensity</key>
+	<string>documentspacing</string>
+	<key>routescalability</key>
+	<string>desktoplayer</string>
+	<key>shouldLayoutKernel</key>
+	<string>liteTicker</string>
+</dict>
+</plist>

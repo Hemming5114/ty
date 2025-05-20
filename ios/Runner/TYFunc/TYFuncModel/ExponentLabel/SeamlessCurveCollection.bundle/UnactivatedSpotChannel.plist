@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSize</key>
+	<string>explicitStateful</string>
+	<key>basicConsumer</key>
+	<string>deactivateButton</string>
+	<key>diversifiedReceiver</key>
+	<string>canDeserializeChannels</string>
+	<key>drawerValidation</key>
+	<string>canShowBorder</string>
+	<key>nextInjection</key>
+	<string>replaceStore</string>
+	<key>oldPainter</key>
+	<string>embedEvent</string>
+	<key>sceneLeft</key>
+	<string>persistentCapacity</string>
+	<key>seamlessSwitch</key>
+	<string>obtainProvider</string>
+	<key>sophisticatedInterface</key>
+	<string>streamSensor</string>
+	<key>uniformComponent</key>
+	<string>resultShade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarbeyondmode</key>
+	<string>transitiontabbar</string>
+	<key>canvasoutsidescope</key>
+	<string>routeasframework</string>
+	<key>clippergrain</key>
+	<string>retainedRemediation</string>
+	<key>immutableKernel</key>
+	<string>projectParam</string>
+	<key>multiplicationLocation</key>
+	<string>prevLoop</string>
+	<key>semanticDialogs</key>
+	<string>scrollablePermutation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderCoord</key>
+	<string>textplatformcolor</string>
+	<key>gestureLeft</key>
+	<string>declarativeTool</string>
+	<key>projectState</key>
+	<string>topicBound</string>
+	<key>seamlessTransition</key>
+	<string>directlyImpact</string>
+	<key>shouldAttachContraction</key>
+	<string>shouldHandleTextField</string>
+	<key>shouldBindSignature</key>
+	<string>fixedModel</string>
+</dict>
+</plist>

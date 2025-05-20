@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioDirection</key>
+	<string>canDetachCustomPaint</string>
+	<key>behaviorDuration</key>
+	<string>shouldNavigateCanvas</string>
+	<key>disabledSpine</key>
+	<string>persistSegue</string>
+	<key>dropdownbuttonShade</key>
+	<string>behaviorRate</string>
+	<key>equivalentDistance</key>
+	<string>workflowbridgealignment</string>
+	<key>imperativeSample</key>
+	<string>missedMapper</string>
+	<key>independentutiltension</key>
+	<string>equalizationspacing</string>
+	<key>localizationframe</key>
+	<string>shouldPopColumn</string>
+	<key>recursionFlags</key>
+	<string>presenterLayer</string>
+	<key>shouldValidateBorder</key>
+	<string>canContinueMultiplication</string>
+</dict>
+</plist>

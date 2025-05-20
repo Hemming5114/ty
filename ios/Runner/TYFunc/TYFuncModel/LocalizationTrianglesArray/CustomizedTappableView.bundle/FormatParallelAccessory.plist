@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachetypevelocity</key>
+	<string>canTransformMobile</string>
+	<key>characteristicFormat</key>
+	<string>restartnavigation</string>
+	<key>cupertinobridgeresponse</key>
+	<string>diversifiedRepository</string>
+	<key>requirednode</key>
+	<string>semanticTween</string>
+	<key>resizableSegment</key>
+	<string>animateMenu</string>
+	<key>responsequaternion</key>
+	<string>statusdepth</string>
+	<key>responsiveinjection</key>
+	<string>resilientNib</string>
+	<key>shouldUnmountedIndicator</key>
+	<string>mainLocalization</string>
+</dict>
+</plist>

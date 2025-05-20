@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartedge</key>
+	<string>disposeSegment</string>
+	<key>dispatchermode</key>
+	<string>navigateDescriptor</string>
+	<key>ephemeralTopic</key>
+	<string>characteristicTension</string>
+	<key>opaqueresilience</key>
+	<string>prepareKernel</string>
+</dict>
+</plist>

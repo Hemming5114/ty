@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewFlags</key>
+	<string>hardSubpixel</string>
+	<key>originalMenu</key>
+	<string>deflateReducer</string>
+	<key>respectiveInterface</key>
+	<string>onseguechanged</string>
+	<key>specifyLayer</key>
+	<string>musicjobdistance</string>
+</dict>
+</plist>

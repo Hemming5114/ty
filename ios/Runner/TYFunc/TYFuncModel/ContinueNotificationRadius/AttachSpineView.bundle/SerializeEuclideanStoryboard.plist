@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSlider</key>
+	<string>saveStoryboard</string>
+	<key>customizedInjection</key>
+	<string>synchronizemobile</string>
+	<key>persistentproviderstate</key>
+	<string>globalMaster</string>
+	<key>publicDialogs</key>
+	<string>benchmarkasset</string>
+	<key>routerviaobserver</key>
+	<string>toolParam</string>
+	<key>shouldcanceloverlay</key>
+	<string>popupCommand</string>
+	<key>skipstate</key>
+	<string>declarativeSelector</string>
+	<key>smallDelegate</key>
+	<string>smallSelector</string>
+	<key>temporarySchema</key>
+	<string>shouldBindModulus</string>
+</dict>
+</plist>

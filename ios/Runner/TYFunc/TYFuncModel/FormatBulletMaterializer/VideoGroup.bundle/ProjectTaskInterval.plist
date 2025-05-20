@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledReceiver</key>
+	<string>detachskirt</string>
+	<key>grainTag</key>
+	<string>canAttachTask</string>
+	<key>independentModal</key>
+	<string>semanticScope</string>
+	<key>lastPreview</key>
+	<string>temporaryNotation</string>
+	<key>pinchablegridpressure</key>
+	<string>streamOperation</string>
+	<key>popupLeft</key>
+	<string>canvasconstant</string>
+	<key>requiredAnimator</key>
+	<string>adaptiveProvider</string>
+	<key>scaleTension</key>
+	<string>directRadio</string>
+</dict>
+</plist>

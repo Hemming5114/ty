@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapDensity</key>
+	<string>flexibleMerger</string>
+	<key>shouldContinueGrayscale</key>
+	<string>tabviewCommand</string>
+	<key>shouldProcessCell</key>
+	<string>missedBaseline</string>
+	<key>standaloneRoute</key>
+	<string>shouldMountedStep</string>
+</dict>
+</plist>

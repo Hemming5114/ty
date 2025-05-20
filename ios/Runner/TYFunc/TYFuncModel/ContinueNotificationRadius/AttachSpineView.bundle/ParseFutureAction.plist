@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPriority</key>
+	<string>statelessstate</string>
+	<key>cacheInterval</key>
+	<string>constanttransparency</string>
+	<key>eagerDisclaimer</key>
+	<string>shouldResumeChannels</string>
+	<key>prevRichText</key>
+	<string>rebuildSkin</string>
+	<key>secondResolver</key>
+	<string>sustainableVideo</string>
+	<key>semanticposition</key>
+	<string>emitOptimizer</string>
+	<key>tensorProgressBar</key>
+	<string>diversifiedCompleter</string>
+	<key>visibleInjection</key>
+	<string>transitionMediator</string>
+	<key>visiblePainter</key>
+	<string>rapidSensor</string>
+</dict>
+</plist>

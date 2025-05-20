@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseSignature</key>
+	<string>canPersistStep</string>
+	<key>fixedFilter</key>
+	<string>functionalMargin</string>
+	<key>hardProject</key>
+	<string>canCreateModal</string>
+	<key>listviewRight</key>
+	<string>displayabletentative</string>
+	<key>navigationPadding</key>
+	<string>flexOrigin</string>
+	<key>parallelproviderappearance</key>
+	<string>publishRadio</string>
+	<key>respectiveLinker</key>
+	<string>viewNumber</string>
+	<key>shouldPublishTabView</key>
+	<string>signPressure</string>
+	<key>symmetricRecursion</key>
+	<string>measureService</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerArchitecture</key>
+	<string>sessionOrigin</string>
+	<key>compositionalGrain</key>
+	<string>retaincurve</string>
+	<key>decouplenavigation</key>
+	<string>relationalArchitecture</string>
+	<key>impactStyle</key>
+	<string>composableUsage</string>
+	<key>inactiveelement</key>
+	<string>profileCurve</string>
+	<key>prismaticFilter</key>
+	<string>arithmeticFunction</string>
+	<key>sharedresponse</key>
+	<string>seamlessMetrics</string>
+	<key>threadAlignment</key>
+	<string>concurrentGate</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materializerShade</key>
+	<string>custompaintdata</string>
+	<key>opaquetexture</key>
+	<string>occasionkind</string>
+	<key>respectiveConsumption</key>
+	<string>saveContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataPosition</key>
+	<string>trajectorybehavior</string>
+	<key>intuitiveClipper</key>
+	<string>iterativeLogarithm</string>
+	<key>persistgraph</key>
+	<string>errorspeed</string>
+	<key>transformerSkewX</key>
+	<string>timerMode</string>
+	<key>usageVelocity</key>
+	<string>publicPreview</string>
+	<key>usecasefacadebehavior</key>
+	<string>columnPadding</string>
+</dict>
+</plist>

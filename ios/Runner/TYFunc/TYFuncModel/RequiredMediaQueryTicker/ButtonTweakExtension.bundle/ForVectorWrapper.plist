@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengefeature</key>
+	<string>requestDensity</string>
+	<key>discardedStateful</key>
+	<string>canPersistHero</string>
+	<key>greatstore</key>
+	<string>spineSaturation</string>
+	<key>shouldunmountgesturedetector</key>
+	<string>shouldHandleResource</string>
+	<key>titledespitestyle</key>
+	<string>concreteResolver</string>
+</dict>
+</plist>

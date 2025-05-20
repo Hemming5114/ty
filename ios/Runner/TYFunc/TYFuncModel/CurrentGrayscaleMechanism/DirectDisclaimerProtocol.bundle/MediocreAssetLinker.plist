@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSine</key>
+	<string>commonPager</string>
+	<key>bitrateStyle</key>
+	<string>renderMultiplication</string>
+	<key>curveshape</key>
+	<string>columnCount</string>
+	<key>directlySample</key>
+	<string>permissiveCompleter</string>
+	<key>grayscaleTransparency</key>
+	<string>multidecorationcenter</string>
+	<key>imperativeCustomPaint</key>
+	<string>priorCustomPaint</string>
+	<key>priorityFormat</key>
+	<string>canRenderSubpixel</string>
+	<key>robustTabView</key>
+	<string>canProcessReduction</string>
+	<key>unactivatedawait</key>
+	<string>compositionalCheckbox</string>
+</dict>
+</plist>

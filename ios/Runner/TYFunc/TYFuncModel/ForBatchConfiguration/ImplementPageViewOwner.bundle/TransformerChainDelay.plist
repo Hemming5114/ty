@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledMapper</key>
+	<string>showMediaQuery</string>
+	<key>flexibleLatency</key>
+	<string>canStartChecklist</string>
+	<key>isspine</key>
+	<string>interactiveSubscription</string>
+	<key>publisherHead</key>
+	<string>dedicatedanimation</string>
+	<key>selectedIcon</key>
+	<string>concreteMedia</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSorter</key>
+	<string>awaitBehavior</string>
+	<key>enabledInteger</key>
+	<string>shouldBindDecoration</string>
+	<key>mainGraphic</key>
+	<string>visibleCatalyst</string>
+	<key>recursionLocation</key>
+	<string>paintLog</string>
+	<key>rolePressure</key>
+	<string>labelsplitter</string>
+	<key>shouldKeepGridView</key>
+	<string>fusedCursor</string>
+	<key>shouldUnmountedEqualization</key>
+	<string>beginnerModulus</string>
+	<key>uniformBinder</key>
+	<string>eagerManager</string>
+</dict>
+</plist>

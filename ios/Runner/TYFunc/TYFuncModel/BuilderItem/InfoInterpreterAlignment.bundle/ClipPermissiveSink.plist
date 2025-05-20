@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDuration</key>
+	<string>seamlessCupertino</string>
+	<key>iterativeGradient</key>
+	<string>shouldRestartSlash</string>
+	<key>keyArithmetic</key>
+	<string>asynchronousOption</string>
+	<key>logarithmFeedback</key>
+	<string>positionconstant</string>
+	<key>musicSize</key>
+	<string>disabledRectangle</string>
+</dict>
+</plist>

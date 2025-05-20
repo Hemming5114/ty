@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>itemVisibility</key>
+	<string>commonCube</string>
+	<key>pinchableRenderer</key>
+	<string>storageresponse</string>
+	<key>shouldInflateGestureDetector</key>
+	<string>numericalMaterializer</string>
+	<key>shouldPrepareAlert</key>
+	<string>euclideanmetrics</string>
+	<key>shouldPushThread</key>
+	<string>permissiveInterpolation</string>
+	<key>writeinteractor</key>
+	<string>canSaveNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSprite</key>
+	<string>provisionBorder</string>
+	<key>inactiveRadio</key>
+	<string>canAnimateMember</string>
+	<key>optionskewy</key>
+	<string>durationdata</string>
+	<key>shouldPublishMonster</key>
+	<string>canParseLog</string>
+	<key>shouldstreamsign</key>
+	<string>skirtBridge</string>
+	<key>trianglesBorder</key>
+	<string>secondRadius</string>
+	<key>uniformEvent</key>
+	<string>layoutArithmetic</string>
+</dict>
+</plist>

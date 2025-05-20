@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablemerger</key>
+	<string>alignmentInteraction</string>
+	<key>fetchresult</key>
+	<string>draggableFrame</string>
+	<key>hascompletion</key>
+	<string>inheritedGroup</string>
+	<key>permanentSubscription</key>
+	<string>gemRotation</string>
+	<key>protectedFragment</key>
+	<string>impactBound</string>
+	<key>shouldConnectSymbol</key>
+	<string>transformerDelay</string>
+	<key>shouldtrainindicator</key>
+	<string>parseSpecifier</string>
+	<key>vectorForce</key>
+	<string>shouldSerializeSegment</string>
+</dict>
+</plist>

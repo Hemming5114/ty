@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorformcolor</key>
+	<string>dropoutService</string>
+	<key>asynchronousAwait</key>
+	<string>canLayoutChecklist</string>
+	<key>commonExpanded</key>
+	<string>deflateProgressBar</string>
+	<key>graphicmetrics</key>
+	<string>isBinary</string>
+	<key>imperativeLocalization</key>
+	<string>flexibleBaseline</string>
+	<key>priorBoxShadow</key>
+	<string>canLayoutModal</string>
+	<key>scrollselector</key>
+	<string>euclideanAnchor</string>
+	<key>shouldValidateEntropy</key>
+	<string>significantTime</string>
+	<key>significantLayout</key>
+	<string>baseColor</string>
+</dict>
+</plist>

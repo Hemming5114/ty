@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCard</key>
+	<string>normalContraction</string>
+	<key>cursorOpacity</key>
+	<string>globalElement</string>
+	<key>repositorythanmode</key>
+	<string>subsequentResult</string>
+	<key>shouldCreateGridView</key>
+	<string>shouldsetstatematrix</string>
+	<key>shouldListenContainer</key>
+	<string>yieldallocator</string>
+</dict>
+</plist>

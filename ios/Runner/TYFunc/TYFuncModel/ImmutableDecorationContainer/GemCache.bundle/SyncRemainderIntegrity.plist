@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralfragmentstyle</key>
+	<string>decorationAction</string>
+	<key>playsink</key>
+	<string>synchronousTicker</string>
+	<key>providertint</key>
+	<string>seamlessQueue</string>
+	<key>statelessGesture</key>
+	<string>vectorplatformformat</string>
+	<key>staticObject</key>
+	<string>directlyAxis</string>
+	<key>tabbarScale</key>
+	<string>dataSkewX</string>
+</dict>
+</plist>

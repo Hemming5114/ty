@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTail</key>
+	<string>concreteNotation</string>
+	<key>beginnerFeature</key>
+	<string>sinedetector</string>
+	<key>capturetransition</key>
+	<string>canFinishBox</string>
+	<key>composableMenu</key>
+	<string>trainKernel</string>
+	<key>customizedNavigation</key>
+	<string>canPersistGestureDetector</string>
+	<key>futureVisible</key>
+	<string>channelsOpacity</string>
+	<key>materialObject</key>
+	<string>desktopTransition</string>
+	<key>nextDrawer</key>
+	<string>sineScope</string>
+	<key>shouldBuildSemantics</key>
+	<string>priorTangent</string>
+	<key>shouldStopReduction</key>
+	<string>timeSize</string>
+</dict>
+</plist>

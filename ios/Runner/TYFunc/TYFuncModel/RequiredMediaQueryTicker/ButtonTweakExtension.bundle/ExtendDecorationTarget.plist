@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeInterpolation</key>
+	<string>consultativeEqualization</string>
+	<key>delegateprocesstag</key>
+	<string>functionalElement</string>
+	<key>navigationLocation</key>
+	<string>spriteCommand</string>
+	<key>shouldDeserializeSine</key>
+	<string>denseCupertino</string>
+	<key>videoStyle</key>
+	<string>missedEntropy</string>
+</dict>
+</plist>

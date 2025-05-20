@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSegue</key>
+	<string>objectFormat</string>
+	<key>difficultTrigger</key>
+	<string>progressbarstroke</string>
+	<key>displayableEvent</key>
+	<string>shouldStreamDocument</string>
+	<key>ephemeralScenario</key>
+	<string>kernelVar</string>
+	<key>seamlessLoop</key>
+	<string>shouldPresentOptimizer</string>
+	<key>sequentialService</key>
+	<string>clipperRight</string>
+</dict>
+</plist>

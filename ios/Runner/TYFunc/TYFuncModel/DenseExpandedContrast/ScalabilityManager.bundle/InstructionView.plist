@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferatadapter</key>
+	<string>yieldExponent</string>
+	<key>independentRect</key>
+	<string>canConnectColumn</string>
+	<key>interactiveMediaQuery</key>
+	<string>limitscroll</string>
+	<key>multioverlaypadding</key>
+	<string>uniqueNorm</string>
+	<key>shouldNotifyBrush</key>
+	<string>uniqueExpanded</string>
+	<key>shouldSetStateGestureDetector</key>
+	<string>resourceconsumption</string>
+	<key>tweakRotation</key>
+	<string>disconnectCanvas</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerChooser</key>
+	<string>canEmitBase</string>
+	<key>equivalentSkewY</key>
+	<string>shouldpreparelayout</string>
+	<key>flexibleUnary</key>
+	<string>promiseSpacing</string>
+	<key>graphiclocation</key>
+	<string>secondResponder</string>
+	<key>locktitle</key>
+	<string>secondSelector</string>
+	<key>respectiveMaterial</key>
+	<string>flexPhase</string>
+</dict>
+</plist>

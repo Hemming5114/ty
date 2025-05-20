@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionKind</key>
+	<string>orchestrateRoute</string>
+	<key>gramAppearance</key>
+	<string>textfieldBound</string>
+	<key>parallelInteraction</key>
+	<string>tangentShape</string>
+	<key>retainedTangent</key>
+	<string>commonLayer</string>
+	<key>shouldPublishStateful</key>
+	<string>documentTint</string>
+	<key>shouldTrainCursor</key>
+	<string>mediocreConfiguration</string>
+	<key>splitterColor</key>
+	<string>sortedcontraction</string>
+</dict>
+</plist>

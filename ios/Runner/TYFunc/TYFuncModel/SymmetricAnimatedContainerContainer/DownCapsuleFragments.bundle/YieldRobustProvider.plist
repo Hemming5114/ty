@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldDecodeConsumer</key>
+	<string>sustainablemodule</string>
+	<key>shouldDismissOptimizer</key>
+	<string>resolveProgressBar</string>
+	<key>shouldKeepMaster</key>
+	<string>handlePriority</string>
+	<key>shouldcancelsegue</key>
+	<string>connectcache</string>
+</dict>
+</plist>

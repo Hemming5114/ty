@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableClipper</key>
+	<string>shouldAnimateBuilder</string>
+	<key>denseImage</key>
+	<string>bundleReducer</string>
+	<key>nextChapter</key>
+	<string>publicConverter</string>
+	<key>shouldLayoutPet</key>
+	<string>greatPolyfill</string>
+	<key>timeCount</key>
+	<string>particleFunction</string>
+</dict>
+</plist>

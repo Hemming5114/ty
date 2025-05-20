@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativecubefeedback</key>
+	<string>configureOffset</string>
+	<key>diffableprovider</key>
+	<string>sizedboxScope</string>
+	<key>fusedSizedBox</key>
+	<string>activeFrame</string>
+	<key>missedVideo</key>
+	<string>attachMethod</string>
+	<key>persistentModal</key>
+	<string>shouldCreateAlpha</string>
+</dict>
+</plist>

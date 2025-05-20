@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintorplatform</key>
+	<string>skipBaseline</string>
+	<key>methodstylecolor</key>
+	<string>tangentDecorator</string>
+	<key>objectDensity</key>
+	<string>mainReplica</string>
+	<key>observerDuration</key>
+	<string>startMonster</string>
+	<key>routetail</key>
+	<string>precisionLocation</string>
+	<key>scaffoldorfacade</key>
+	<string>statelessStorage</string>
+	<key>servicepicker</key>
+	<string>canSkipProject</string>
+	<key>shouldEndArithmetic</key>
+	<string>deserializeOption</string>
+	<key>shouldStreamPlayback</key>
+	<string>comprehensiveNotation</string>
+</dict>
+</plist>

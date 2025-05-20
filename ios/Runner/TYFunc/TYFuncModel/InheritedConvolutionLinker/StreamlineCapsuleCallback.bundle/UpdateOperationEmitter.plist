@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturerate</key>
+	<string>lockstore</string>
+	<key>callbackbuffertag</key>
+	<string>canBindButton</string>
+	<key>ephemeralLoss</key>
+	<string>materialshape</string>
+	<key>intuitiveAnalyzer</key>
+	<string>reflectmatrix</string>
+	<key>multiplicationRotation</key>
+	<string>responsiveInfrastructure</string>
+	<key>shouldYieldConsumer</key>
+	<string>normTask</string>
+</dict>
+</plist>

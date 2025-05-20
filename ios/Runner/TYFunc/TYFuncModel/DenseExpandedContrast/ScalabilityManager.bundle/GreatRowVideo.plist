@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChannel</key>
+	<string>selectedcell</string>
+	<key>consultativeScaffold</key>
+	<string>asynchronousProfile</string>
+	<key>disclaimerFeedback</key>
+	<string>popupComposite</string>
+	<key>elementBound</key>
+	<string>cursorlabel</string>
+	<key>extensionflyweightrotation</key>
+	<string>graindecoratorresponse</string>
+	<key>materialTriangles</key>
+	<string>subpixelalignment</string>
+	<key>mediumpolygon</key>
+	<string>shouldStreamReduction</string>
+	<key>shouldUnmountButton</key>
+	<string>semanticsLayer</string>
+</dict>
+</plist>

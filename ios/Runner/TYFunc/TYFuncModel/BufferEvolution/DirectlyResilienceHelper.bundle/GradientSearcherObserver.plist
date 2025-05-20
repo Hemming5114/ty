@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyValidation</key>
+	<string>restoreAwait</string>
+	<key>commonElasticity</key>
+	<string>shouldStartContraction</string>
+	<key>convertanimation</key>
+	<string>texturemode</string>
+	<key>detachutil</key>
+	<string>handleHero</string>
+	<key>histogramamonglayer</key>
+	<string>multiplyDecoration</string>
+	<key>standaloneNotifier</key>
+	<string>relationalBehavior</string>
+</dict>
+</plist>

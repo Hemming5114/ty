@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableMesh</key>
+	<string>tabbarProxy</string>
+	<key>enabledResolver</key>
+	<string>canCancelMultiplication</string>
+	<key>integertaxonomy</key>
+	<string>ignoredTaxonomy</string>
+	<key>normalTransformer</key>
+	<string>cacheStamp</string>
+	<key>numericalfuturescale</key>
+	<string>responseborder</string>
+	<key>staticTimer</key>
+	<string>denseReceiver</string>
+	<key>symbolinflyweight</key>
+	<string>makeskin</string>
+	<key>updatesession</key>
+	<string>computeScene</string>
+</dict>
+</plist>

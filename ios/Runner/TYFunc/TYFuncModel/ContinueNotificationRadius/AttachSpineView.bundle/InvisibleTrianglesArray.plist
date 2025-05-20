@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectorientation</key>
+	<string>canInflateObserver</string>
+	<key>axisadapterstate</key>
+	<string>unsortednotificationshape</string>
+	<key>enabledcoordinator</key>
+	<string>shouldKeepHistogram</string>
+	<key>euclideanCapacities</key>
+	<string>storeHue</string>
+	<key>flexibleResponse</key>
+	<string>requiredView</string>
+	<key>replicatereference</key>
+	<string>presentGram</string>
+	<key>resizableItem</key>
+	<string>rapidColor</string>
+	<key>shearindicator</key>
+	<string>iterativeCache</string>
+	<key>shouldBindNavigator</key>
+	<string>canPublishObserver</string>
+	<key>storeaspattern</key>
+	<string>poolVector</string>
+</dict>
+</plist>

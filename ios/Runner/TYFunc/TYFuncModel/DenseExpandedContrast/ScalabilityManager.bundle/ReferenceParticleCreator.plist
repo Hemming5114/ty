@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphagainstcommand</key>
+	<string>keepCompletion</string>
+	<key>handlerCenter</key>
+	<string>asynchronousLogarithm</string>
+	<key>interactiveMaster</key>
+	<string>infoColor</string>
+	<key>latencyBound</key>
+	<string>sceneStage</string>
+	<key>pageviewFeedback</key>
+	<string>shouldCancelStateful</string>
+	<key>provisionOffset</key>
+	<string>cursorlocation</string>
+	<key>shouldDetachGift</key>
+	<string>bindRichText</string>
+</dict>
+</plist>

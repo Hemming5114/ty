@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graintail</key>
+	<string>symmetricSemantics</string>
+	<key>imagetexture</key>
+	<string>vectorizePresenter</string>
+	<key>oldArchitecture</key>
+	<string>shouldSubscribeGrayscale</string>
+	<key>operationShape</key>
+	<string>routeMediaQuery</string>
+	<key>pinchableAppBar</key>
+	<string>commonInterface</string>
+	<key>projectionactivityskewy</key>
+	<string>encapsulateMetadata</string>
+	<key>shouldStreamMaster</key>
+	<string>rapidTopic</string>
+	<key>singleHandler</key>
+	<string>shouldObserveStream</string>
+	<key>usagealignment</key>
+	<string>movementedge</string>
+</dict>
+</plist>

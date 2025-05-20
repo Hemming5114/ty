@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTweak</key>
+	<string>shouldAnimateReference</string>
+	<key>cubitResponse</key>
+	<string>widgetworkborder</string>
+	<key>delicateMediaQuery</key>
+	<string>captionvisibility</string>
+	<key>gridviewTension</key>
+	<string>missedScene</string>
+	<key>injectionmesh</key>
+	<string>storyboardParam</string>
+	<key>lazyTriangles</key>
+	<string>shouldsubscribeaspectratio</string>
+	<key>mobileFlex</key>
+	<string>normLevel</string>
+	<key>robustMatrix</key>
+	<string>shouldUnmountPlate</string>
+</dict>
+</plist>

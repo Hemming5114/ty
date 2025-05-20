@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTitle</key>
+	<string>remediationType</string>
+	<key>asynctint</key>
+	<string>shouldPopEqualization</string>
+	<key>curveskewx</key>
+	<string>startAspect</string>
+	<key>discardedBinary</key>
+	<string>encodeListener</string>
+	<key>heroVelocity</key>
+	<string>tangentmodel</string>
+	<key>managerLeft</key>
+	<string>blocBehavior</string>
+</dict>
+</plist>

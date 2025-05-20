@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSelector</key>
+	<string>interceptContainer</string>
+	<key>analyzerColor</key>
+	<string>parallelpreview</string>
+	<key>collectionuntilprototype</key>
+	<string>semanticInfrastructure</string>
+	<key>draggableBullet</key>
+	<string>rowcompositemargin</string>
+	<key>greatTicker</key>
+	<string>beginnerButton</string>
+</dict>
+</plist>

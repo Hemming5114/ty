@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerscroller</key>
+	<string>updatemusic</string>
+	<key>conformcycle</key>
+	<string>vectorizeQueue</string>
+	<key>greatFragment</key>
+	<string>newestproviderduration</string>
+	<key>inheritedNotification</key>
+	<string>maxModal</string>
+	<key>recursionoffset</key>
+	<string>canDisconnectNavigation</string>
+	<key>unmountedstateful</key>
+	<string>interpolateTicker</string>
+</dict>
+</plist>

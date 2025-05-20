@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTail</key>
+	<string>copydelegate</string>
+	<key>copydocument</key>
+	<string>canPopScreen</string>
+	<key>detachutil</key>
+	<string>canLoadObserver</string>
+	<key>mobileStack</key>
+	<string>shouldSerializeNotifier</string>
+	<key>repositoryvelocity</key>
+	<string>singleDependency</string>
+	<key>retainedInkWell</key>
+	<string>reactiveVector</string>
+	<key>significantRectangle</key>
+	<string>endEntropy</string>
+	<key>similarDuration</key>
+	<string>canBuildPlate</string>
+</dict>
+</plist>

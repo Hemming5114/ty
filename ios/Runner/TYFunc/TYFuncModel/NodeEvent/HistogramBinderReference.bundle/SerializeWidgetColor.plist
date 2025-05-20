@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorstyleskewx</key>
+	<string>methodinsideform</string>
+	<key>crudemanagerrotation</key>
+	<string>buildmanager</string>
+	<key>fetchcontainer</key>
+	<string>specifierProxy</string>
+	<key>normalTable</key>
+	<string>promisespeed</string>
+	<key>pinchableStateless</key>
+	<string>saveSwift</string>
+	<key>shouldInflateEntropy</key>
+	<string>responsiveCaption</string>
+	<key>streambeyondvar</key>
+	<string>declarativeRouter</string>
+</dict>
+</plist>

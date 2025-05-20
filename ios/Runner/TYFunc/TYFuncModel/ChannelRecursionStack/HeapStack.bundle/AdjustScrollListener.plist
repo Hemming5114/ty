@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblesemantics</key>
+	<string>loaderSpacing</string>
+	<key>beginnerDialogs</key>
+	<string>staticVertex</string>
+	<key>difficultnotification</key>
+	<string>performtabbar</string>
+	<key>modulusState</key>
+	<string>replaceAsync</string>
+	<key>parallelIcon</key>
+	<string>fixedUseCase</string>
+	<key>shouldLoadInterpolation</key>
+	<string>canCreatePositioned</string>
+	<key>specifyMedia</key>
+	<string>hierarchicalConstant</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentCertificate</key>
+	<string>connectTicker</string>
+	<key>descriptionshapetail</key>
+	<string>shouldPublishRadio</string>
+	<key>immediateInkWell</key>
+	<string>notifyOperation</string>
+	<key>impressiontail</key>
+	<string>characteristicFrequency</string>
+	<key>repositoryDirection</key>
+	<string>missionShape</string>
+	<key>shouldAnimateSlash</key>
+	<string>holdScene</string>
+	<key>standaloneCell</key>
+	<string>inactiveLifecycle</string>
+</dict>
+</plist>

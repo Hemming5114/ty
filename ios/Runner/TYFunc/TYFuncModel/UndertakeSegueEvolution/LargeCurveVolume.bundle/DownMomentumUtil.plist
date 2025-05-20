@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentbylevel</key>
+	<string>composableDimension</string>
+	<key>lazyStatus</key>
+	<string>unsortedText</string>
+	<key>resilientSingleton</key>
+	<string>benchmarkConfiguration</string>
+	<key>resilientStorage</key>
+	<string>builderexcepttemple</string>
+	<key>shouldPresentAlpha</key>
+	<string>requiredElasticity</string>
+	<key>usecaseamongform</key>
+	<string>registerOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSample</key>
+	<string>singleButton</string>
+	<key>crudeNib</key>
+	<string>mediocreResource</string>
+	<key>dynamicDescriptor</key>
+	<string>allocatortimeline</string>
+	<key>nativeInfrastructure</key>
+	<string>hierarchicalHistogram</string>
+	<key>projectAppearance</key>
+	<string>monsterSpeed</string>
+	<key>sustainableSign</key>
+	<string>modulusBottom</string>
+</dict>
+</plist>

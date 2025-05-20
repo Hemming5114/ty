@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitRate</key>
+	<string>formatPosition</string>
+	<key>directlyDependency</key>
+	<string>shouldShowInstruction</string>
+	<key>directlyRadius</key>
+	<string>sharedConverter</string>
+	<key>inactiveOperation</key>
+	<string>shouldNavigateModal</string>
+	<key>newestDuration</key>
+	<string>rendererFrequency</string>
+	<key>permanentMesh</key>
+	<string>interactiveSensor</string>
+	<key>permissiveTask</key>
+	<string>reliabilityHead</string>
+	<key>playspine</key>
+	<string>ignoredAlignment</string>
+</dict>
+</plist>

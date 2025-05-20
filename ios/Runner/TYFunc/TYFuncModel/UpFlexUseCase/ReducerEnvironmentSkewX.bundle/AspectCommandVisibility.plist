@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicError</key>
+	<string>unactivatedCheckbox</string>
+	<key>consultativeTexture</key>
+	<string>providerState</string>
+	<key>hasBehavior</key>
+	<string>parseEquipment</string>
+	<key>processorAppearance</key>
+	<string>shouldPresentShader</string>
+	<key>shouldSkipStateful</key>
+	<string>particleDepth</string>
+	<key>synchronousGrayscale</key>
+	<string>shouldBuildCell</string>
+	<key>uniformSchema</key>
+	<string>dependencyAction</string>
+	<key>usecasebesidenumber</key>
+	<string>rapidEquivalent</string>
+	<key>usedTechnique</key>
+	<string>tabviewTag</string>
+</dict>
+</plist>

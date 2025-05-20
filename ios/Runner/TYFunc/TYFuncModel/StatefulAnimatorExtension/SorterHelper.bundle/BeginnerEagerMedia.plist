@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationPressure</key>
+	<string>buildNotification</string>
+	<key>baselinefunctionformat</key>
+	<string>maintainWidget</string>
+	<key>invisibleVolume</key>
+	<string>triggerSpeed</string>
+	<key>materialLoss</key>
+	<string>deserializeGestureDetector</string>
+	<key>nativePainter</key>
+	<string>reusableCompletion</string>
+	<key>pickerspacing</key>
+	<string>musicPlatform</string>
+	<key>polygonRight</key>
+	<string>prepareCanvas</string>
+	<key>responsivemanager</key>
+	<string>robustTentative</string>
+</dict>
+</plist>

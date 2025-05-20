@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicState</key>
+	<string>restartRoute</string>
+	<key>chapterproxyorigin</key>
+	<string>paddingInterval</string>
+	<key>customizedTrajectory</key>
+	<string>similarPublisher</string>
+	<key>ephemeralCluster</key>
+	<string>ephemeralSize</string>
+	<key>priorOverlay</key>
+	<string>discardedRenderer</string>
+	<key>projectionPadding</key>
+	<string>shouldStreamConsumer</string>
+	<key>shoulddisconnectview</key>
+	<string>hierarchicalRichText</string>
+	<key>skinoutsideparam</key>
+	<string>endprovider</string>
+	<key>temporaryEvent</key>
+	<string>detachTexture</string>
+	<key>viewshape</key>
+	<string>canUnbindAnimatedContainer</string>
+</dict>
+</plist>

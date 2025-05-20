@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMetrics</key>
+	<string>keysample</string>
+	<key>brushShade</key>
+	<string>makeModel</string>
+	<key>hierarchicalrowlocation</key>
+	<string>fixedChapter</string>
+	<key>iconDelay</key>
+	<string>canEmitMusic</string>
+	<key>inheritedGestureDetector</key>
+	<string>functionalprecisiondistance</string>
+	<key>shouldTransformColumn</key>
+	<string>unmountedBullet</string>
+	<key>shouldValidateSine</key>
+	<string>tabviewDirection</string>
+	<key>webEmitter</key>
+	<string>directPromise</string>
+	<key>zoneSpacing</key>
+	<string>tensorException</string>
+</dict>
+</plist>

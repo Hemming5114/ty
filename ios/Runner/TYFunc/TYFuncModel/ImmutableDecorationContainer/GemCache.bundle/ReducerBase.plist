@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoArithmetic</key>
+	<string>providerRotation</string>
+	<key>executescaffold</key>
+	<string>contractionComposite</string>
+	<key>gemShape</key>
+	<string>timeRotation</string>
+	<key>hasWidget</key>
+	<string>shouldkeepcompletion</string>
+	<key>loadradio</key>
+	<string>transformThread</string>
+	<key>materialBullet</key>
+	<string>oldimagetint</string>
+	<key>subsequentDialogs</key>
+	<string>sceneborder</string>
+</dict>
+</plist>

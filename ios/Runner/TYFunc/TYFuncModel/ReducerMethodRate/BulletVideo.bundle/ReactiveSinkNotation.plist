@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCell</key>
+	<string>compositionPosition</string>
+	<key>criticalInteraction</key>
+	<string>canRestartPromise</string>
+	<key>cupertinoSession</key>
+	<string>statefulinstruction</string>
+	<key>geometricdescriptor</key>
+	<string>mediumFilter</string>
+	<key>intuitiveMesh</key>
+	<string>consumptionInterval</string>
+	<key>metricsinteraction</key>
+	<string>swiftagainstcycle</string>
+	<key>missedFragments</key>
+	<string>topicvialayer</string>
+	<key>newestSymbol</key>
+	<string>canDisconnectAnimatedContainer</string>
+	<key>onmomentumchanged</key>
+	<string>exitCompleter</string>
+</dict>
+</plist>

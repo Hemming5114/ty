@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedAction</key>
+	<string>storeSprite</string>
+	<key>diversifiedPosition</key>
+	<string>parallelEffect</string>
+	<key>granularButton</key>
+	<string>canSerializeAxis</string>
+	<key>litealignment</key>
+	<string>utilValue</string>
+	<key>rowOrigin</key>
+	<string>globalLoader</string>
+	<key>shouldBindSlider</key>
+	<string>videoInteraction</string>
+	<key>smallBloc</key>
+	<string>cartesianTheme</string>
+	<key>sustainableIsolate</key>
+	<string>typicalSchema</string>
+</dict>
+</plist>

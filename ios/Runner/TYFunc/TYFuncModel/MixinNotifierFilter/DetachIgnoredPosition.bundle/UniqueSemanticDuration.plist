@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedImage</key>
+	<string>uniquewidgetcount</string>
+	<key>arithmeticnearnumber</key>
+	<string>crudeSpot</string>
+	<key>immediateFlex</key>
+	<string>numericalScheduler</string>
+	<key>iterativeGraphic</key>
+	<string>shouldResumeLog</string>
+	<key>layerinteraction</key>
+	<string>shouldCancelCache</string>
+	<key>liteCharacter</key>
+	<string>curveasvariable</string>
+	<key>responseBrightness</key>
+	<string>ignoredNavigator</string>
+	<key>retainedActivity</key>
+	<string>decouplecompleter</string>
+	<key>seguePressure</key>
+	<string>polyfilldensity</string>
+</dict>
+</plist>

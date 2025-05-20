@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentFrame</key>
+	<string>dispatchposition</string>
+	<key>eagerRow</key>
+	<string>accessiblestateorigin</string>
+	<key>explicitbinder</key>
+	<string>tablenavigator</string>
+	<key>mediumPicker</key>
+	<string>assetactivityvalidation</string>
+	<key>mobileRouter</key>
+	<string>compositionalCard</string>
+	<key>seamlessMovement</key>
+	<string>compositionaldimensionindex</string>
+	<key>semantictopicformat</key>
+	<string>shouldEmitLayout</string>
+	<key>shouldValidateSpot</key>
+	<string>heroAction</string>
+</dict>
+</plist>

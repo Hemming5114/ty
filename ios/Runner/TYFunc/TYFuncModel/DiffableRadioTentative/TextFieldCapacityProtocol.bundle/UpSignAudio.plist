@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResponse</key>
+	<string>isolateEdge</string>
+	<key>animationScale</key>
+	<string>introspectTimer</string>
+	<key>autoCustomPaint</key>
+	<string>processorSpeed</string>
+	<key>dependencyfinder</key>
+	<string>consumerOrientation</string>
+	<key>kernelskewy</key>
+	<string>layouthistogram</string>
+	<key>resourcecontainkind</key>
+	<string>shouldObserveChannels</string>
+	<key>visibleCreator</key>
+	<string>shaderMargin</string>
+</dict>
+</plist>

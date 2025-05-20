@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardChooser</key>
+	<string>swiftMomentum</string>
+	<key>compositionTransparency</key>
+	<string>masterMemento</string>
+	<key>interceptresource</key>
+	<string>directNavigation</string>
+	<key>shouldUnbindCurve</key>
+	<string>selectedCatalyst</string>
+</dict>
+</plist>

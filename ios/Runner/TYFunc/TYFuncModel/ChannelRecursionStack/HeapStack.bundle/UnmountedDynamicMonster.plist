@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appenddelegate</key>
+	<string>retainEvent</string>
+	<key>draggableTool</key>
+	<string>canContinueStateless</string>
+	<key>elasticDetector</key>
+	<string>hashaboutstate</string>
+	<key>flexibleSpine</key>
+	<string>tweakname</string>
+	<key>gestureOrientation</key>
+	<string>buildChecklist</string>
+	<key>mitigatenode</key>
+	<string>publicdurationoffset</string>
+	<key>modelobserverdepth</key>
+	<string>defaultOperation</string>
+	<key>positionmaterializer</key>
+	<string>connectorInteraction</string>
+	<key>scalabilityCenter</key>
+	<string>canFetchTabView</string>
+	<key>shouldAnimateAnchor</key>
+	<string>lazyNode</string>
+</dict>
+</plist>

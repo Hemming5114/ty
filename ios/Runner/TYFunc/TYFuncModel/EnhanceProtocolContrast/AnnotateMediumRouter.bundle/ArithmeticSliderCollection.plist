@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMend</key>
+	<string>denseEvaluation</string>
+	<key>currentBaseline</key>
+	<string>typicalremediation</string>
+	<key>explicitStatus</key>
+	<string>loadchart</string>
+	<key>shouldContinueTouch</key>
+	<string>localCallback</string>
+	<key>signatureleft</key>
+	<string>sliderInteraction</string>
+</dict>
+</plist>

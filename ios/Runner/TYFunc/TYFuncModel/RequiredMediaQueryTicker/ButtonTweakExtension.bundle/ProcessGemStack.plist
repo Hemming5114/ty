@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGroup</key>
+	<string>gifthead</string>
+	<key>concreteTentative</key>
+	<string>mediumCompleter</string>
+	<key>radioascent</key>
+	<string>commonView</string>
+	<key>searcherSaturation</key>
+	<string>transpileAsset</string>
+	<key>shouldLayoutProject</key>
+	<string>shouldSkipCapacities</string>
+	<key>shouldPaintShader</key>
+	<string>canFormatAlpha</string>
+	<key>standaloneEvolution</key>
+	<string>actionrate</string>
+</dict>
+</plist>

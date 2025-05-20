@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customNib</key>
+	<string>inkwelllabel</string>
+	<key>delicateTransformer</key>
+	<string>serializeOverlay</string>
+	<key>durationTop</key>
+	<string>formattransformer</string>
+	<key>easyMechanism</key>
+	<string>presenterphasebehavior</string>
+	<key>gridColor</key>
+	<string>tabbarresponder</string>
+	<key>segmentmementointerval</key>
+	<string>aggregateZone</string>
+	<key>serviceTransparency</key>
+	<string>fragmentDecorator</string>
+	<key>themeincludecommand</key>
+	<string>priorityHue</string>
+</dict>
+</plist>

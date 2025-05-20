@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioCenter</key>
+	<string>reactiveAnimation</string>
+	<key>containeraspect</key>
+	<string>mediumDocument</string>
+	<key>linkerBound</key>
+	<string>reflectNode</string>
+	<key>optimizerrate</key>
+	<string>mediocreImage</string>
+	<key>receiverSpeed</key>
+	<string>refreshPosition</string>
+	<key>reusableStore</key>
+	<string>optionPhase</string>
+	<key>shouldRenderPainter</key>
+	<string>shouldProcessDescriptor</string>
+</dict>
+</plist>

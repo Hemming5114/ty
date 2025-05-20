@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiessingletonorientation</key>
+	<string>storestyleinset</string>
+	<key>coordinatorContrast</key>
+	<string>popInteractor</string>
+	<key>currentDropdownButton</key>
+	<string>polyfillCenter</string>
+	<key>defaultpriority</key>
+	<string>benchmarkService</string>
+	<key>dynamicDecoration</key>
+	<string>publicExponent</string>
+	<key>nativePlayback</key>
+	<string>shouldStreamRichText</string>
+</dict>
+</plist>

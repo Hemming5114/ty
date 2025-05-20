@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticmesh</key>
+	<string>currentmission</string>
+	<key>isloss</key>
+	<string>gradientRight</string>
+	<key>pivotalMap</key>
+	<string>shouldTransformColumn</string>
+	<key>playbackrouter</key>
+	<string>decodeEffect</string>
+	<key>respectiveMenu</key>
+	<string>compositionalSubpixel</string>
+	<key>scrollerSkewY</key>
+	<string>displayChapter</string>
+	<key>sortedFrame</key>
+	<string>canContinueSpecifier</string>
+</dict>
+</plist>

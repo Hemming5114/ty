@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainershape</key>
+	<string>shouldMountBoxShadow</string>
+	<key>beginnerSizedBox</key>
+	<string>gatemenu</string>
+	<key>fusedCapacity</key>
+	<string>popupFeedback</string>
+	<key>handlerInset</key>
+	<string>formatSkin</string>
+	<key>localChooser</key>
+	<string>agileGram</string>
+	<key>mediumactivity</key>
+	<string>signatureMediator</string>
+	<key>routetype</key>
+	<string>canListenCheckbox</string>
+	<key>schemabottom</key>
+	<string>augmentStorage</string>
+	<key>unsortedWidget</key>
+	<string>flexiblegrid</string>
+</dict>
+</plist>

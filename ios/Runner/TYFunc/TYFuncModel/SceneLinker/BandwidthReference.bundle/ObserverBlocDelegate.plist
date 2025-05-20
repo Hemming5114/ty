@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builddecoration</key>
+	<string>framefeedback</string>
+	<key>directDescription</key>
+	<string>sharedBox</string>
+	<key>pivotalPositioned</key>
+	<string>shouldCreateMediaQuery</string>
+	<key>sophisticatedtexture</key>
+	<string>shouldEmitHistogram</string>
+	<key>threadinfo</key>
+	<string>sophisticatedstrength</string>
+	<key>triggerstyle</key>
+	<string>materialBrightness</string>
+</dict>
+</plist>

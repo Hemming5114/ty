@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentbyplatform</key>
+	<string>concurrentSession</string>
+	<key>anchorforce</key>
+	<string>previewParameter</string>
+	<key>binderDirection</key>
+	<string>storageincludeparam</string>
+	<key>dedicatedTool</key>
+	<string>gesturedetectorFormat</string>
+	<key>directlyMaterial</key>
+	<string>persistBrush</string>
+	<key>mendVisible</key>
+	<string>awaitOffset</string>
+	<key>primarySprite</key>
+	<string>mapVisibility</string>
+	<key>symbollikefunction</key>
+	<string>restartPriority</string>
+</dict>
+</plist>

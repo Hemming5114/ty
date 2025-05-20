@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldFetchEffect</key>
+	<string>capsuleEnvironment</string>
+	<key>shouldUpdateResource</key>
+	<string>specifyOccasion</string>
+	<key>shouldunbindcharacter</key>
+	<string>pagerFlags</string>
+	<key>shouldunbindtheme</key>
+	<string>opaqueequipmentdirection</string>
+</dict>
+</plist>

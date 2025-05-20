@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateticker</key>
+	<string>crucialasyncsize</string>
+	<key>resizablesink</key>
+	<string>alignmentTag</string>
+	<key>shouldDismissController</key>
+	<string>dismissResponse</string>
+	<key>shouldSetStateTheme</key>
+	<string>checkException</string>
+</dict>
+</plist>

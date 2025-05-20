@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatefinder</key>
+	<string>dispatchInterpolation</string>
+	<key>fetchparticle</key>
+	<string>shouldFetchPadding</string>
+	<key>greatParticle</key>
+	<string>storyboardName</string>
+	<key>invisibleCoordinator</key>
+	<string>displayResource</string>
+	<key>shouldKeepVariant</key>
+	<string>standalonesize</string>
+</dict>
+</plist>

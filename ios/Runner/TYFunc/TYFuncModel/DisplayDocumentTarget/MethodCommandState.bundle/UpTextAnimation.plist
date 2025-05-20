@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedAnimatedContainer</key>
+	<string>listviewcenter</string>
+	<key>enableddecoration</key>
+	<string>refreshcompleter</string>
+	<key>gestureTheme</key>
+	<string>shouldPresentInteger</string>
+	<key>navigationOpacity</key>
+	<string>animatedcontainerContext</string>
+	<key>smallScope</key>
+	<string>easyLoader</string>
+	<key>sustainableDrawer</key>
+	<string>shouldFinishOptimizer</string>
+</dict>
+</plist>

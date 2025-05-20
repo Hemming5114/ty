@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitydata</key>
+	<string>requestGrid</string>
+	<key>composableResolver</key>
+	<string>checkAsset</string>
+	<key>confidentialityInset</key>
+	<string>monsterFramework</string>
+	<key>eagerCompletion</key>
+	<string>crucialGraph</string>
+	<key>lazypolyfill</key>
+	<string>geometricTicker</string>
+	<key>schedulerTop</key>
+	<string>elementinset</string>
+	<key>shouldUnmountMultiplication</key>
+	<string>makeSink</string>
+</dict>
+</plist>

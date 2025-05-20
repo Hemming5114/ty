@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectpatternlocation</key>
+	<string>infoHead</string>
+	<key>dispatcherResponse</key>
+	<string>delicateTicker</string>
+	<key>draggableScroll</key>
+	<string>directSegment</string>
+	<key>iterativeSelector</key>
+	<string>draggablenotificationdensity</string>
+	<key>navigatorDistance</key>
+	<string>shouldBuildAperture</string>
+	<key>sharedFragments</key>
+	<string>specifyChannels</string>
+	<key>shouldPublishAnchor</key>
+	<string>lazyAudio</string>
+	<key>similarConstraint</key>
+	<string>smartIndicator</string>
+	<key>statefulSlider</key>
+	<string>wrapProvider</string>
+	<key>visibleAnimator</key>
+	<string>intermediateError</string>
+</dict>
+</plist>

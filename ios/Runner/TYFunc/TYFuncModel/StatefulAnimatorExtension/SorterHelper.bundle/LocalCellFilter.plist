@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorstatetop</key>
+	<string>agileMedia</string>
+	<key>elasticEvent</key>
+	<string>compilelayout</string>
+	<key>listenerbehavior</key>
+	<string>custompaintDensity</string>
+	<key>materialindex</key>
+	<string>deferredImpression</string>
+	<key>selectedalert</key>
+	<string>hardConstraint</string>
+	<key>shouldDisconnectGestureDetector</key>
+	<string>canContinuePadding</string>
+	<key>singletonSpeed</key>
+	<string>robustScaffold</string>
+	<key>tensorsizedbox</key>
+	<string>streamlineChapter</string>
+	<key>triggershape</key>
+	<string>permanentChannel</string>
+</dict>
+</plist>

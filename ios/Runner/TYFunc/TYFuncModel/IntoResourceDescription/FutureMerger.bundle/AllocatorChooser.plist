@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindresource</key>
+	<string>primaryRect</string>
+	<key>constantTop</key>
+	<string>limitAlignment</string>
+	<key>crudeIntegration</key>
+	<string>canDeserializeView</string>
+	<key>elementInterval</key>
+	<string>dialogsParameter</string>
+	<key>histogramsaturation</key>
+	<string>symbolHead</string>
+	<key>permissiveChecklist</key>
+	<string>unsortedDropdownButton</string>
+	<key>shouldAnimateExponent</key>
+	<string>ignoredTransition</string>
+	<key>tensorCoordinator</key>
+	<string>gridAlignment</string>
+</dict>
+</plist>

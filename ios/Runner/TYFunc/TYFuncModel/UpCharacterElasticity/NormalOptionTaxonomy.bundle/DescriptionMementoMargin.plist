@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectalpha</key>
+	<string>loopLocation</string>
+	<key>dedicatedStream</key>
+	<string>accessibleTechnique</string>
+	<key>keydurationappearance</key>
+	<string>rapidDuration</string>
+	<key>loadticker</key>
+	<string>replaceStoryboard</string>
+	<key>nibBorder</key>
+	<string>processlabel</string>
+	<key>notifiervisible</key>
+	<string>mountColumn</string>
+	<key>retainspot</key>
+	<string>effectabouttier</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonpainter</key>
+	<string>shouldPauseStack</string>
+	<key>columnHue</key>
+	<string>animatedOverlay</string>
+	<key>compositionalProtocol</key>
+	<string>directlyUnary</string>
+	<key>geometricTimer</key>
+	<string>impressionBrightness</string>
+	<key>publicBoxShadow</key>
+	<string>multiSearcher</string>
+	<key>rebuildpoint</key>
+	<string>matrixTransparency</string>
+	<key>sharedRestriction</key>
+	<string>startDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionadapterappearance</key>
+	<string>canConnectPlayback</string>
+	<key>robustAppBar</key>
+	<string>listviewType</string>
+	<key>robustInfrastructure</key>
+	<string>materialAspectRatio</string>
+	<key>semanticsDuration</key>
+	<string>factoryTag</string>
+</dict>
+</plist>

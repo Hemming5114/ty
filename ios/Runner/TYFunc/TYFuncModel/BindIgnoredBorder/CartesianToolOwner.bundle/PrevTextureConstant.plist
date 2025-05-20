@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicmusic</key>
+	<string>canSkipGesture</string>
+	<key>coordinatorrect</key>
+	<string>shouldNavigateSlider</string>
+	<key>entitystrategyforce</key>
+	<string>canRenderOption</string>
+	<key>initializetextfield</key>
+	<string>delicateGem</string>
+	<key>liteoperation</key>
+	<string>directlyMerger</string>
+	<key>lostPresenter</key>
+	<string>stopvariant</string>
+	<key>mediocreBullet</key>
+	<string>nativeUseCase</string>
+	<key>sharedcontrollerborder</key>
+	<string>asynchronousTitle</string>
+	<key>shouldResumeObserver</key>
+	<string>sustainableTechnique</string>
+	<key>spineAppearance</key>
+	<string>invisibleIntegration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAppearance</key>
+	<string>usedRange</string>
+	<key>basicstrength</key>
+	<string>reactiveIndicator</string>
+	<key>constraintShape</key>
+	<string>curveProxy</string>
+	<key>dividesegue</key>
+	<string>concatenateObserver</string>
+	<key>layoutwithoutmode</key>
+	<string>respectiveResource</string>
+	<key>lossDirection</key>
+	<string>resolverPressure</string>
+	<key>radiusaspattern</key>
+	<string>timelinedepth</string>
+	<key>shouldDecodePlate</key>
+	<string>variantPadding</string>
+	<key>subtleDialogs</key>
+	<string>uniqueService</string>
+</dict>
+</plist>

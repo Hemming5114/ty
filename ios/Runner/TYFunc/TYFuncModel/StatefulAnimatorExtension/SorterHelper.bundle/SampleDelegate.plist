@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerScale</key>
+	<string>navigatorshader</string>
+	<key>deflategift</key>
+	<string>requiredDrawer</string>
+	<key>reusableElasticity</key>
+	<string>momentumcoordinator</string>
+	<key>shouldPaintCheckbox</key>
+	<string>mapType</string>
+	<key>visibleAlignment</key>
+	<string>selectedContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedLoop</key>
+	<string>intuitiveSwift</string>
+	<key>deferredAppBar</key>
+	<string>canTransitionAlert</string>
+	<key>draggableDelivery</key>
+	<string>scenarioBorder</string>
+	<key>hardanalogy</key>
+	<string>spriteTail</string>
+	<key>hasWorkflow</key>
+	<string>shouldValidateCube</string>
+	<key>originalView</key>
+	<string>presentStateless</string>
+	<key>parallelstacktheme</key>
+	<string>localContrast</string>
+	<key>shouldFormatInteger</key>
+	<string>shouldLoadSwift</string>
+	<key>shouldNotifyGrayscale</key>
+	<string>completedSubpixel</string>
+	<key>toleranceHue</key>
+	<string>architectureFlags</string>
+</dict>
+</plist>

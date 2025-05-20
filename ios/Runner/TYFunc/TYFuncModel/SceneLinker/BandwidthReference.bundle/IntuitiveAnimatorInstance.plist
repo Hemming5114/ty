@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxcubit</key>
+	<string>viewforce</string>
+	<key>deferredframedepth</key>
+	<string>canRenderBullet</string>
+	<key>shouldStartEqualization</key>
+	<string>playbackkind</string>
+	<key>sustainableObject</key>
+	<string>permissiveEqualization</string>
+	<key>usedInteger</key>
+	<string>priorInfo</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledFactory</key>
+	<string>attachGraphic</string>
+	<key>gridviewFeedback</key>
+	<string>completerChain</string>
+	<key>registerbaseline</key>
+	<string>associatedColumn</string>
+	<key>requestvelocity</key>
+	<string>alertenvironmentleft</string>
+	<key>shouldDisconnectSemantics</key>
+	<string>stampParameter</string>
+	<key>shouldDisconnectStateless</key>
+	<string>desktopAlignment</string>
+	<key>shouldDispatchResource</key>
+	<string>writeTicker</string>
+	<key>shouldreplacecosine</key>
+	<string>materializerInteraction</string>
+</dict>
+</plist>

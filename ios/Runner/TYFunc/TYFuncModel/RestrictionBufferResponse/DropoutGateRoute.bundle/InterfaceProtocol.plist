@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialOpacity</key>
+	<string>dedicatedTriangles</string>
+	<key>observeicon</key>
+	<string>spinConfiguration</string>
+	<key>oldTime</key>
+	<string>canStopAlpha</string>
+	<key>responsiveNavigation</key>
+	<string>axisHue</string>
+	<key>synchronousConnector</key>
+	<string>shouldHandleSpecifier</string>
+	<key>uniqueZone</key>
+	<string>cacheTheme</string>
+</dict>
+</plist>

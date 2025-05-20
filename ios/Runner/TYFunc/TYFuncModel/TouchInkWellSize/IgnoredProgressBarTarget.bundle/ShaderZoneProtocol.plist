@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonduration</key>
+	<string>canPrepareNorm</string>
+	<key>directBatch</key>
+	<string>mixinView</string>
+	<key>dynamicSchema</key>
+	<string>delegateMode</string>
+	<key>explicitEntity</key>
+	<string>bulletPattern</string>
+	<key>memberFrequency</key>
+	<string>activeUseCase</string>
+	<key>shouldSaveNorm</key>
+	<string>delegateAlignment</string>
+	<key>shouldpublishspot</key>
+	<string>singletonNumber</string>
+	<key>smartmaterialresponse</key>
+	<string>exponentvelocity</string>
+	<key>synchronousCoordinator</key>
+	<string>dimensionTension</string>
+	<key>webSkin</key>
+	<string>liteHistogram</string>
+</dict>
+</plist>

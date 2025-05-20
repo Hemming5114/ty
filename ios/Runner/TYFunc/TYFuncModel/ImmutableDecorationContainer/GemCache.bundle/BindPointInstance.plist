@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCharacter</key>
+	<string>searchRoute</string>
+	<key>handletransformer</key>
+	<string>statefulStage</string>
+	<key>otherUtil</key>
+	<string>bindPadding</string>
+	<key>updatemember</key>
+	<string>newestMovement</string>
+</dict>
+</plist>

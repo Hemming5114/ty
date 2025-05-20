@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileModule</key>
+	<string>deactivateRouter</string>
+	<key>autoAlpha</key>
+	<string>projectrotation</string>
+	<key>declarativeBinary</key>
+	<string>debugTask</string>
+	<key>denseSelector</key>
+	<string>marshalPreview</string>
+	<key>fetchanimatedcontainer</key>
+	<string>scalabilitySkewX</string>
+	<key>globalTransformer</key>
+	<string>shouldTransitionCursor</string>
+	<key>mutableCurve</key>
+	<string>canNotifyPoint</string>
+	<key>renderbox</key>
+	<string>canRestartMaster</string>
+	<key>sizedboxSkewX</key>
+	<string>reducerTail</string>
+</dict>
+</plist>

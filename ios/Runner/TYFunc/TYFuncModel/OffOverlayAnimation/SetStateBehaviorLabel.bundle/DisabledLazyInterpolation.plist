@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetbottom</key>
+	<string>deferredTrigger</string>
+	<key>liteEquipment</key>
+	<string>isequalization</string>
+	<key>nodeStyle</key>
+	<string>canPaintDialogs</string>
+	<key>numericalLinker</key>
+	<string>missionvisibility</string>
+	<key>permanentPageView</key>
+	<string>descriptorPressure</string>
+	<key>positionedInterval</key>
+	<string>mediocreRenderer</string>
+	<key>screenrotation</key>
+	<string>discoverNavigator</string>
+	<key>zonespacing</key>
+	<string>shouldBuildTabBar</string>
+</dict>
+</plist>

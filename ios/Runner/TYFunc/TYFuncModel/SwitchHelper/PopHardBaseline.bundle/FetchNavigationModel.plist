@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalPager</key>
+	<string>displayableConstraint</string>
+	<key>endcapacities</key>
+	<string>soundAcceleration</string>
+	<key>instantiatealert</key>
+	<string>materialObserver</string>
+	<key>isColumn</key>
+	<string>shouldTransformMember</string>
+	<key>polygonBrightness</key>
+	<string>uniformerror</string>
+	<key>recursionInterval</key>
+	<string>canEmitDecoration</string>
+	<key>reliabilityskewy</key>
+	<string>gesturedetectorBorder</string>
+	<key>smallProcessor</key>
+	<string>shouldMountGridView</string>
+	<key>storageAcceleration</key>
+	<string>skipPet</string>
+</dict>
+</plist>

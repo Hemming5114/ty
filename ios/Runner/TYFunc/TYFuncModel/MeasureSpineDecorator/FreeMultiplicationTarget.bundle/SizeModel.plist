@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorScale</key>
+	<string>parseFlex</string>
+	<key>bordertransparency</key>
+	<string>shouldPublishHero</string>
+	<key>declarativeInteractor</key>
+	<string>synchronousCurve</string>
+	<key>declarativeaccessory</key>
+	<string>semanticNotation</string>
+	<key>displayablePermutation</key>
+	<string>invisiblepresenter</string>
+	<key>granularAnchor</key>
+	<string>canTrainCustomPaint</string>
+	<key>oldCombiner</key>
+	<string>elasticImage</string>
+	<key>semanticcheckboxdistance</key>
+	<string>scrollmethodrate</string>
+	<key>streamsaturation</key>
+	<string>inheritedResult</string>
+</dict>
+</plist>

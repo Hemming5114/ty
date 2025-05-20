@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlesensor</key>
+	<string>resilientMobile</string>
+	<key>injectlabel</key>
+	<string>shouldFormatNib</string>
+	<key>lostInterpolation</key>
+	<string>currentDetector</string>
+	<key>opaquecallbackname</key>
+	<string>canvasProcess</string>
+	<key>scenetop</key>
+	<string>offsetascycle</string>
+	<key>sophisticatedFeature</key>
+	<string>publicAllocator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinedespiteparameter</key>
+	<string>criticalTable</string>
+	<key>dynamicCoordinator</key>
+	<string>intuitiveTween</string>
+	<key>filterAppearance</key>
+	<string>canParseImage</string>
+	<key>nodeVisibility</key>
+	<string>semanticBox</string>
+	<key>publicReference</key>
+	<string>checklistTension</string>
+	<key>rotateclipper</key>
+	<string>restoreText</string>
+	<key>sampleLeft</key>
+	<string>masterSkewX</string>
+	<key>signAppearance</key>
+	<string>benchmarkException</string>
+	<key>usageValidation</key>
+	<string>mitigateResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartsubscriber</key>
+	<string>parseProfile</string>
+	<key>reactiveMapper</key>
+	<string>menuinsidebuffer</string>
+	<key>segmentlikechain</key>
+	<string>showFragment</string>
+	<key>shouldReplaceFragment</key>
+	<string>observertaxonomy</string>
+	<key>shouldSubscribeOptimizer</key>
+	<string>vertexEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxSize</key>
+	<string>optimizerVisitor</string>
+	<key>compositionFrequency</key>
+	<string>graphicMediator</string>
+	<key>interactiveAnimation</key>
+	<string>flexiblenotation</string>
+	<key>layerSkewX</key>
+	<string>resourceStrategy</string>
+	<key>pinchableNotation</key>
+	<string>channelsvarleft</string>
+	<key>prevProgressBar</key>
+	<string>compositionalTicker</string>
+	<key>shouldPresentLabel</key>
+	<string>missionRate</string>
+</dict>
+</plist>

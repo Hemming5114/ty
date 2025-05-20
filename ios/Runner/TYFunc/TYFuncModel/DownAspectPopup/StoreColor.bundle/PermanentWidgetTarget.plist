@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionlayer</key>
+	<string>rotateSubscription</string>
+	<key>defaultcontroller</key>
+	<string>canUnmountedGift</string>
+	<key>interactivepermutation</key>
+	<string>searcheredge</string>
+	<key>pointvisible</key>
+	<string>shouldContinueMatrix</string>
+	<key>polygontail</key>
+	<string>uniformcharacteristic</string>
+	<key>resourcetension</key>
+	<string>shouldDispatchSession</string>
+	<key>shouldDetachSegue</key>
+	<string>shouldStartCustomPaint</string>
+</dict>
+</plist>

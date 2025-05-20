@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalNotification</key>
+	<string>gemdistinction</string>
+	<key>nextTransformer</key>
+	<string>textureshape</string>
+	<key>shouldPushSlider</key>
+	<string>adaptiveAxis</string>
+	<key>shouldYieldAlert</key>
+	<string>ternaryCoord</string>
+	<key>signaturevelocity</key>
+	<string>onmodulustap</string>
+	<key>sorterType</key>
+	<string>singletonScale</string>
+	<key>statefulDepth</key>
+	<string>subscriptionofframework</string>
+	<key>unsortedDescriptor</key>
+	<string>switchBottom</string>
+</dict>
+</plist>

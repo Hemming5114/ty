@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblestep</key>
+	<string>interactiveTrajectory</string>
+	<key>inactiveScaffold</key>
+	<string>matrixAppearance</string>
+	<key>mobileScope</key>
+	<string>writeIsolate</string>
+	<key>normalHero</key>
+	<string>onternarychanged</string>
+	<key>parallelSound</key>
+	<string>tweenVar</string>
+	<key>retainedGestureDetector</key>
+	<string>hierarchicalCoordinator</string>
+	<key>sharedBandwidth</key>
+	<string>sliderVisible</string>
+	<key>shouldListenActivity</key>
+	<string>grainawayparameter</string>
+	<key>shouldMountedDescriptor</key>
+	<string>joinerLeft</string>
+</dict>
+</plist>

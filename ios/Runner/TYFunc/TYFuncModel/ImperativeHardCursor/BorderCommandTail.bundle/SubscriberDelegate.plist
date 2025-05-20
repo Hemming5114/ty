@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityBehavior</key>
+	<string>smallSpine</string>
+	<key>delicateAction</key>
+	<string>canPushCatalyst</string>
+	<key>integerFeedback</key>
+	<string>radiotriangles</string>
+	<key>intermediateRepository</key>
+	<string>cacheConvolution</string>
+	<key>poprouter</key>
+	<string>priorShape</string>
+	<key>protectedActivity</key>
+	<string>euclideanswitch</string>
+	<key>shouldPaintPriority</key>
+	<string>rectVelocity</string>
+	<key>temporaryTouch</key>
+	<string>layoutTint</string>
+</dict>
+</plist>

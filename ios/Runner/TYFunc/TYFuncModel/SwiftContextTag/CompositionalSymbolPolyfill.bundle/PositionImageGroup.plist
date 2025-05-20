@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSink</key>
+	<string>registerDecoration</string>
+	<key>columnSpeed</key>
+	<string>tweenDelay</string>
+	<key>currentChannels</key>
+	<string>responsiveRange</string>
+	<key>layoutDepth</key>
+	<string>screenVar</string>
+	<key>materialbuffer</key>
+	<string>queueMediator</string>
+	<key>responsiveMatrix</key>
+	<string>shouldStartCurve</string>
+	<key>shouldUpdatePageView</key>
+	<string>spotVariable</string>
+	<key>techniqueOrigin</key>
+	<string>navigatorinset</string>
+</dict>
+</plist>

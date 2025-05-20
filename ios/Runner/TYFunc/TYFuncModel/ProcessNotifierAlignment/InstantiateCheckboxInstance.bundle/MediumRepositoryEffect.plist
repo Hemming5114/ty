@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publicAperture</key>
+	<string>taxonomySpacing</string>
+	<key>publicaspectvalidation</key>
+	<string>greatSorter</string>
+	<key>responsiveIntegration</key>
+	<string>lossContrast</string>
+	<key>shouldShowGram</key>
+	<string>symmetricRenderer</string>
+	<key>shouldUnmountedPadding</key>
+	<string>transformsingleton</string>
+	<key>showstoryboard</key>
+	<string>seamlessRestriction</string>
+</dict>
+</plist>

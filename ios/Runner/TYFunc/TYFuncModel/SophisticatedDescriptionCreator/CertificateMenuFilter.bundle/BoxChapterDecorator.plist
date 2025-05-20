@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertColor</key>
+	<string>temporarySession</string>
+	<key>elementTag</key>
+	<string>displayPresenter</string>
+	<key>shouldDetachTouch</key>
+	<string>providerDuration</string>
+	<key>shouldFetchTask</key>
+	<string>semanticTicker</string>
+	<key>shouldKeepCollection</key>
+	<string>liteOverlay</string>
+	<key>sizedboxStyle</key>
+	<string>resolveLayout</string>
+	<key>textalonginterpreter</key>
+	<string>modalsize</string>
+	<key>uniformservicecolor</key>
+	<string>popSpecifier</string>
+</dict>
+</plist>

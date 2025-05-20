@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalIntegration</key>
+	<string>textScope</string>
+	<key>instantiatetransition</key>
+	<string>compositionalInterface</string>
+	<key>latencyfeedback</key>
+	<string>unmarshalmenu</string>
+	<key>protectedInfrastructure</key>
+	<string>mutableShader</string>
+	<key>statefulvectortint</key>
+	<string>createBase</string>
+</dict>
+</plist>

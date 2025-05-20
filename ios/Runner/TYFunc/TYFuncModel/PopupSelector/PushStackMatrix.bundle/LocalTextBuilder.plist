@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorBottom</key>
+	<string>setupController</string>
+	<key>dedicatedLoss</key>
+	<string>shouldemitcell</string>
+	<key>herocontainsingleton</key>
+	<string>smallShader</string>
+	<key>invisibleStack</key>
+	<string>shouldpresentaxis</string>
+	<key>mainResilience</key>
+	<string>largepriorityappearance</string>
+	<key>nextScheduler</key>
+	<string>cupertinoTool</string>
+	<key>schemaCoord</key>
+	<string>stepInteraction</string>
+	<key>sophisticatedResolver</key>
+	<string>providerForce</string>
+	<key>statelessDialogs</key>
+	<string>quitUtil</string>
+	<key>threadFrequency</key>
+	<string>showMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnacceleration</key>
+	<string>transformMedia</string>
+	<key>decouplenavigation</key>
+	<string>basicBase</string>
+	<key>densegemacceleration</key>
+	<string>defaultmusic</string>
+	<key>deploymetadata</key>
+	<string>pointStatus</string>
+	<key>intuitivetabview</key>
+	<string>retainedProtocol</string>
+	<key>visitmusic</key>
+	<string>initializeNode</string>
+	<key>webVolume</key>
+	<string>eagerRectangle</string>
+</dict>
+</plist>

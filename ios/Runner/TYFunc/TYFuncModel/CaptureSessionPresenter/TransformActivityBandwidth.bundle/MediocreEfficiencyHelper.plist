@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphametadata</key>
+	<string>selectorpadding</string>
+	<key>certificatevartail</key>
+	<string>inkwellelement</string>
+	<key>crudeRequest</key>
+	<string>combinerFlags</string>
+	<key>descriptorvalidation</key>
+	<string>euclideanTrajectory</string>
+	<key>interactiveCollection</key>
+	<string>positiontransformer</string>
+	<key>intermediateStream</key>
+	<string>iterativeProvision</string>
+	<key>nativebaselineright</key>
+	<string>canSkipConsumer</string>
+	<key>permissiveProvider</key>
+	<string>canAnimateText</string>
+	<key>sequentialPainter</key>
+	<string>sanitizeProgressBar</string>
+	<key>usageanimator</key>
+	<string>servicevalidation</string>
+</dict>
+</plist>

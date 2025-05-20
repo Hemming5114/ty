@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchfragments</key>
+	<string>oldStoryboard</string>
+	<key>intensitymodeshape</key>
+	<string>maintainFactory</string>
+	<key>newestParticle</key>
+	<string>canKeepCosine</string>
+	<key>normalChecklist</key>
+	<string>timelineForce</string>
+	<key>reusableRectangle</key>
+	<string>oldAnalogy</string>
+	<key>shouldPrepareWorkflow</key>
+	<string>canPushSample</string>
+	<key>timeBehavior</key>
+	<string>shouldPushSegment</string>
+</dict>
+</plist>

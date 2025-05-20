@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>orchestrateskin</key>
+	<string>contractionorientation</string>
+	<key>shouldSkipStep</key>
+	<string>canDisconnectBaseline</string>
+	<key>shouldStreamMonster</key>
+	<string>isMember</string>
+	<key>statelessMaster</key>
+	<string>reducerOperation</string>
+	<key>storageDirection</key>
+	<string>recursionAlignment</string>
+</dict>
+</plist>

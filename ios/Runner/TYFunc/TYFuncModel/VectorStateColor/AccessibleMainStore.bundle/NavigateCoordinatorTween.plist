@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianconverter</key>
+	<string>reusableOption</string>
+	<key>flexibleStream</key>
+	<string>skirtSaturation</string>
+	<key>gesturePressure</key>
+	<string>actionfrequency</string>
+	<key>globalTimeline</key>
+	<string>alphaValue</string>
+	<key>inheritedBorder</key>
+	<string>uniformExtension</string>
+	<key>mediocreReference</key>
+	<string>invokeSlider</string>
+	<key>pushvector</key>
+	<string>numericalMatrix</string>
+	<key>statictooloffset</key>
+	<string>canDisconnectLoss</string>
+	<key>uniformPolygon</key>
+	<string>fetchEquipment</string>
+</dict>
+</plist>

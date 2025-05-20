@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasbufferhead</key>
+	<string>smartPresenter</string>
+	<key>eagerProcessor</key>
+	<string>mixingraph</string>
+	<key>granularPrecision</key>
+	<string>deflateEvent</string>
+	<key>lostConverter</key>
+	<string>sustainablePet</string>
+	<key>notificationfeedback</key>
+	<string>lazyCard</string>
+	<key>rapidMatrix</key>
+	<string>rectifyFuture</string>
+	<key>resultPressure</key>
+	<string>drawerstorage</string>
+</dict>
+</plist>

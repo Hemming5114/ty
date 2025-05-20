@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCallback</key>
+	<string>arithmeticbinder</string>
+	<key>colorSize</key>
+	<string>shoulddetachprotocol</string>
+	<key>directlyIntegration</key>
+	<string>freethread</string>
+	<key>fixedWorkflow</key>
+	<string>techniqueJob</string>
+	<key>priorDescription</key>
+	<string>textfieldflags</string>
+	<key>shouldPresentGradient</key>
+	<string>showGradient</string>
+	<key>vertexForce</key>
+	<string>lossMargin</string>
+</dict>
+</plist>

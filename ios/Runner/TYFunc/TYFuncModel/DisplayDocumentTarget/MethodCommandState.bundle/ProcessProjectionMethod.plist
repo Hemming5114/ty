@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionStyle</key>
+	<string>diversifiedScroll</string>
+	<key>defaultCanvas</key>
+	<string>geometricReceiver</string>
+	<key>intermediateisolate</key>
+	<string>lastCycle</string>
+	<key>layoutinadapter</key>
+	<string>canUpdateTask</string>
+	<key>listenerhue</key>
+	<string>gridviewState</string>
+	<key>pivotalMovement</key>
+	<string>autoGroup</string>
+	<key>tabbarStatus</key>
+	<string>behaviorAppearance</string>
+	<key>variantparameteracceleration</key>
+	<string>elasticHistogram</string>
+</dict>
+</plist>

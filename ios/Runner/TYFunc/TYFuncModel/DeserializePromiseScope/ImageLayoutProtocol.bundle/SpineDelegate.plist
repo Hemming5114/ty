@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicDescription</key>
+	<string>requiredpainterspacing</string>
+	<key>filterAppearance</key>
+	<string>interpolateAsync</string>
+	<key>pivotalGate</key>
+	<string>canPopLabel</string>
+	<key>presenterbymemento</key>
+	<string>detachNavigator</string>
+	<key>respectivechapter</key>
+	<string>mediumHero</string>
+	<key>shouldPresentLabel</key>
+	<string>allocatorVisible</string>
+</dict>
+</plist>

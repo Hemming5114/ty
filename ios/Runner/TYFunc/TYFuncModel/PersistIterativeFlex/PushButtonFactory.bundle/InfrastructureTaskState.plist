@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEvaluation</key>
+	<string>plateInterval</string>
+	<key>dataTheme</key>
+	<string>componentBottom</string>
+	<key>discardednormname</key>
+	<string>toolvaluehead</string>
+	<key>dispatcherTail</key>
+	<string>restoreNavigator</string>
+	<key>queueInteraction</key>
+	<string>canSubscribeUsage</string>
+</dict>
+</plist>

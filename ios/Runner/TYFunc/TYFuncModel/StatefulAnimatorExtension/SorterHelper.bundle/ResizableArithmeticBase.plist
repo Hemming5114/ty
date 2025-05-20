@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorStatus</key>
+	<string>transitiondropdownbutton</string>
+	<key>curvecontrast</key>
+	<string>mediocreConverter</string>
+	<key>immediatelistenertint</key>
+	<string>oldAscent</string>
+	<key>mountedcontroller</key>
+	<string>basicMaterial</string>
+	<key>shouldPopScroll</key>
+	<string>frameOffset</string>
+</dict>
+</plist>

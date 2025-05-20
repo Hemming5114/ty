@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineBorder</key>
+	<string>uniqueStore</string>
+	<key>currentmodel</key>
+	<string>seguevisibility</string>
+	<key>nativeInteraction</key>
+	<string>maxScaffold</string>
+	<key>priorExponent</key>
+	<string>widgetforminteraction</string>
+	<key>shouldTransitionButton</key>
+	<string>zoneVisible</string>
+	<key>sustainabledecoration</key>
+	<string>switchProxy</string>
+	<key>zoneKind</key>
+	<string>restartTheme</string>
+</dict>
+</plist>

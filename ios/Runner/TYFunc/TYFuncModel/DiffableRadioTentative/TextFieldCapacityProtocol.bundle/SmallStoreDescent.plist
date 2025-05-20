@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedtheme</key>
+	<string>particleScope</string>
+	<key>clusterStyle</key>
+	<string>shouldCancelStep</string>
+	<key>dispatcherCount</key>
+	<string>desktopImpression</string>
+	<key>fixedCheckbox</key>
+	<string>tabbarfeedback</string>
+	<key>infrastructuremargin</key>
+	<string>handlervalidation</string>
+	<key>radiustheme</key>
+	<string>associateCurve</string>
+	<key>rendererShape</key>
+	<string>deactivateboxshadow</string>
+</dict>
+</plist>

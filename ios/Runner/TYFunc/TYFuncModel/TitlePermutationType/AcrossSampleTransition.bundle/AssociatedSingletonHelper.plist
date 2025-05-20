@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSaturation</key>
+	<string>spotValidation</string>
+	<key>gesturepresenter</key>
+	<string>standaloneBehavior</string>
+	<key>immediatemetadatafrequency</key>
+	<string>deprecateHash</string>
+	<key>nativeCell</key>
+	<string>introspectresource</string>
+	<key>setstatecoordinator</key>
+	<string>gramIndex</string>
+	<key>shouldReplaceAnimatedContainer</key>
+	<string>reusableThroughput</string>
+	<key>subsequentMovement</key>
+	<string>frameChain</string>
+	<key>sustainableLinker</key>
+	<string>loadnotification</string>
+	<key>usedObserver</key>
+	<string>sensorTemple</string>
+</dict>
+</plist>

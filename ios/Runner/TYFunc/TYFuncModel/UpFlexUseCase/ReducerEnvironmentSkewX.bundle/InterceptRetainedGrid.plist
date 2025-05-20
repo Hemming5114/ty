@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEdge</key>
+	<string>shouldRenderContainer</string>
+	<key>chaptercreator</key>
+	<string>navigationRotation</string>
+	<key>criticalMesh</key>
+	<string>backwardCupertino</string>
+	<key>independentcompleter</key>
+	<string>margintop</string>
+	<key>lossforcommand</key>
+	<string>projectDensity</string>
+	<key>polygonDuration</key>
+	<string>intermediateGraph</string>
+	<key>responsiveFlex</key>
+	<string>awaitinterpreterformat</string>
+	<key>shouldDetachCatalyst</key>
+	<string>permanentContainer</string>
+</dict>
+</plist>

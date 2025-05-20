@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOpacity</key>
+	<string>statelessCallback</string>
+	<key>controllerState</key>
+	<string>dropdownbuttonactioncenter</string>
+	<key>diffableReference</key>
+	<string>shouldNavigateExponent</string>
+	<key>euclideanInterface</key>
+	<string>prevCheckbox</string>
+	<key>radioType</key>
+	<string>shouldPopProfile</string>
+	<key>shouldFetchDrawer</key>
+	<string>drawerPattern</string>
+</dict>
+</plist>

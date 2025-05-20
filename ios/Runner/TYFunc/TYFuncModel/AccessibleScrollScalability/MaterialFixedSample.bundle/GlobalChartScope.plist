@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyGrid</key>
+	<string>shouldmounttabbar</string>
+	<key>requiredSorter</key>
+	<string>referenceSystem</string>
+	<key>scrollershape</key>
+	<string>paintStack</string>
+	<key>stateofoperation</key>
+	<string>scrollableGrain</string>
+	<key>unschedulezone</key>
+	<string>tabviewAdapter</string>
+</dict>
+</plist>

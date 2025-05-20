@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGroup</key>
+	<string>interfaceForm</string>
+	<key>intuitiveFinder</key>
+	<string>histogramVariable</string>
+	<key>keyException</key>
+	<string>desktopCapsule</string>
+	<key>mobileInteraction</key>
+	<string>sampleValue</string>
+	<key>shouldObserveSizedBox</key>
+	<string>similarInterpolation</string>
+	<key>shouldSaveDuration</key>
+	<string>shouldRestartMedia</string>
+</dict>
+</plist>

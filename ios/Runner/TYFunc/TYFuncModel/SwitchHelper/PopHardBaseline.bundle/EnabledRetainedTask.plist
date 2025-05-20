@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStateful</key>
+	<string>numericalscalebehavior</string>
+	<key>awaitbehavior</key>
+	<string>impressionRate</string>
+	<key>componentflags</key>
+	<string>observeShader</string>
+	<key>routerShape</key>
+	<string>masteropacity</string>
+	<key>shouldCacheStoryboard</key>
+	<string>activatePopup</string>
+	<key>shouldSaveButton</key>
+	<string>accessibleController</string>
+	<key>usedCreator</key>
+	<string>movementversusframework</string>
+</dict>
+</plist>

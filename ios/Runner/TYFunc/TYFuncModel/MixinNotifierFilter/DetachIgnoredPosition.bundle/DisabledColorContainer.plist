@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>datatransparency</key>
+	<string>mainPoint</string>
+	<key>disableddistinction</key>
+	<string>sessionContrast</string>
+	<key>hardCallback</key>
+	<string>mainalertbrightness</string>
+	<key>infoDuration</key>
+	<string>techniqueFunction</string>
+	<key>mapperIndex</key>
+	<string>responsiveModel</string>
+	<key>multiplicationInterval</key>
+	<string>disposeSegue</string>
+	<key>shouldYieldCube</key>
+	<string>parallelTrajectory</string>
+	<key>smallGraph</key>
+	<string>instructionDirection</string>
+	<key>unsortedbandwidth</key>
+	<string>otherSegment</string>
+</dict>
+</plist>

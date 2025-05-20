@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCallback</key>
+	<string>menuduration</string>
+	<key>entropySpeed</key>
+	<string>continueDropdownButton</string>
+	<key>explicitshaderinterval</key>
+	<string>shouldPublishCustomPaint</string>
+	<key>granularGraphic</key>
+	<string>skipConsumer</string>
+	<key>multiLog</key>
+	<string>crudeGrain</string>
+	<key>priorContainer</key>
+	<string>isInterpolation</string>
+</dict>
+</plist>

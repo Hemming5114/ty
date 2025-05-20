@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyRight</key>
+	<string>bandwidthDistance</string>
+	<key>dismissaspect</key>
+	<string>isModulus</string>
+	<key>independentLog</key>
+	<string>standaloneSegue</string>
+	<key>layoutmaterial</key>
+	<string>dismisspreview</string>
+	<key>shouldDecodeGram</key>
+	<string>canResumeIcon</string>
+	<key>shouldFetchController</key>
+	<string>processorOrigin</string>
+	<key>statefulStyle</key>
+	<string>parallelWorkflow</string>
+	<key>subsequentNotifier</key>
+	<string>immutableChannels</string>
+	<key>textfieldprototypeformat</key>
+	<string>copyReducer</string>
+	<key>transitionVelocity</key>
+	<string>threadParameter</string>
+</dict>
+</plist>

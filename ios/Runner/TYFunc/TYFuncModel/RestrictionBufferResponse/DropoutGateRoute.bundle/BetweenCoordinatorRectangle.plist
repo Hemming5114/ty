@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSplitter</key>
+	<string>shouldSkipRole</string>
+	<key>beginneroffset</key>
+	<string>displayablePolyfill</string>
+	<key>buttonRight</key>
+	<string>emitterStyle</string>
+	<key>compositionalUtil</key>
+	<string>concreteFragments</string>
+	<key>momentumservice</key>
+	<string>responsescale</string>
+	<key>navigatorobserver</key>
+	<string>menuTask</string>
+	<key>shouldDecodeScaffold</key>
+	<string>shouldConnectMatrix</string>
+	<key>shouldInflateTable</key>
+	<string>primaryView</string>
+	<key>spritecontextalignment</key>
+	<string>significantSign</string>
+</dict>
+</plist>

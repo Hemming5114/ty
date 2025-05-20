@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>memberSkewY</key>
+	<string>frameVar</string>
+	<key>shouldDeserializeCard</key>
+	<string>denseStamp</string>
+	<key>shouldDismissMomentum</key>
+	<string>associatedTechnique</string>
+	<key>traintopic</key>
+	<string>lossDelay</string>
+</dict>
+</plist>

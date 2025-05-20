@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelstream</key>
+	<string>pinchableTool</string>
+	<key>deferredInformation</key>
+	<string>curveType</string>
+	<key>errorSkewX</key>
+	<string>canTransformRichText</string>
+	<key>lostRole</key>
+	<string>popMedia</string>
+	<key>originalScreen</key>
+	<string>interceptSlider</string>
+	<key>previewTail</key>
+	<string>mountTool</string>
+	<key>reflectpoint</key>
+	<string>fixedPermutation</string>
+	<key>retainedDescriptor</key>
+	<string>ignoredEvent</string>
+	<key>selectedSign</key>
+	<string>composableAscent</string>
+</dict>
+</plist>

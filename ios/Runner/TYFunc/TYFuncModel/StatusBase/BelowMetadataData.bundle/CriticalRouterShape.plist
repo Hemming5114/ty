@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveRestriction</key>
+	<string>ephemeralRepository</string>
+	<key>coordinatortempledelay</key>
+	<string>skirtTag</string>
+	<key>defaultTransition</key>
+	<string>responsiveScalability</string>
+	<key>independentRemainder</key>
+	<string>canStopPageView</string>
+	<key>originalParticle</key>
+	<string>similarAnchor</string>
+	<key>quantizationrouter</key>
+	<string>staticAccessory</string>
+	<key>shouldRenderProtocol</key>
+	<string>eventpadding</string>
+	<key>subtleTimer</key>
+	<string>accessoryspacing</string>
+</dict>
+</plist>

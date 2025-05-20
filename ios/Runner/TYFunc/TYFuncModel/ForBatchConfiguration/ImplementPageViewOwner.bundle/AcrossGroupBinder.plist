@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureofenvironment</key>
+	<string>customPainter</string>
+	<key>brushcontroller</key>
+	<string>draggableCluster</string>
+	<key>denseContrast</key>
+	<string>captionlocation</string>
+	<key>integerCenter</key>
+	<string>dispatchMomentum</string>
+	<key>permanentProvision</key>
+	<string>navigationconverter</string>
+	<key>shouldProcessActivity</key>
+	<string>objectValidation</string>
+	<key>shouldmountedstateful</key>
+	<string>accessiblecompleteredge</string>
+	<key>smartCube</key>
+	<string>shouldPrepareInkWell</string>
+	<key>staticDimension</key>
+	<string>similarProcessor</string>
+</dict>
+</plist>

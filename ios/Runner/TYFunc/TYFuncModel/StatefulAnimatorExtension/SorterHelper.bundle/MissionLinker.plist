@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInfrastructure</key>
+	<string>rebuildSizedBox</string>
+	<key>enabledCapsule</key>
+	<string>smallPublisher</string>
+	<key>ephemeralDrawer</key>
+	<string>profileMenu</string>
+	<key>hardMetrics</key>
+	<string>shouldDetachTask</string>
+	<key>inactiveScroller</key>
+	<string>expandedbuffertag</string>
+	<key>largeMatrix</key>
+	<string>keyoffset</string>
+	<key>layoutContrast</key>
+	<string>canPauseGate</string>
+	<key>respectiveRemediation</key>
+	<string>inheritedComponent</string>
+	<key>setstatescreen</key>
+	<string>reconcileFactory</string>
+	<key>tickerorigin</key>
+	<string>shouldCacheImage</string>
+</dict>
+</plist>

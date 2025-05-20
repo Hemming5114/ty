@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAspectRatio</key>
+	<string>stepSystem</string>
+	<key>gramuntillevel</key>
+	<string>pointStage</string>
+	<key>newestpositionrate</key>
+	<string>timerbottom</string>
+	<key>shouldEndMultiplication</key>
+	<string>contractionFunction</string>
+	<key>shouldFetchSkirt</key>
+	<string>canCancelMonster</string>
+	<key>shoulddecodecoordinator</key>
+	<string>buildBitrate</string>
+	<key>transitiontempleinset</key>
+	<string>shouldParseCustomPaint</string>
+</dict>
+</plist>

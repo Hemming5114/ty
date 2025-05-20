@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatordistance</key>
+	<string>canResumeExpanded</string>
+	<key>lastReliability</key>
+	<string>canLayoutCurve</string>
+	<key>mobilenumbervisible</key>
+	<string>shouldTrainSlash</string>
+	<key>mutableMusic</key>
+	<string>marshalEntity</string>
+	<key>parallelTechnique</key>
+	<string>hyperbolicDescent</string>
+	<key>priormetrics</key>
+	<string>uniformStorage</string>
+	<key>sharedicon</key>
+	<string>cellOperation</string>
+	<key>shouldpushoverlay</key>
+	<string>startInteger</string>
+</dict>
+</plist>

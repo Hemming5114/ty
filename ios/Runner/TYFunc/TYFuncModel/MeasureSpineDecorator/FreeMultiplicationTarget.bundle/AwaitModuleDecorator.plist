@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedButton</key>
+	<string>characterMargin</string>
+	<key>compositionalMesh</key>
+	<string>containerEdge</string>
+	<key>hierarchicalSymbol</key>
+	<string>rapidwidget</string>
+	<key>marginDensity</key>
+	<string>contractionLeft</string>
+	<key>parallelData</key>
+	<string>canBindMember</string>
+	<key>permutationHead</key>
+	<string>validateStoryboard</string>
+	<key>responsiveMediaQuery</key>
+	<string>imperativeBloc</string>
+	<key>sortedHandler</key>
+	<string>unmountheap</string>
+	<key>statefulCatalyst</key>
+	<string>shouldTrainSizedBox</string>
+</dict>
+</plist>

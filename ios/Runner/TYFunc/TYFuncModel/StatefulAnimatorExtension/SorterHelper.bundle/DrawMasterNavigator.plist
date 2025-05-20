@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateresponse</key>
+	<string>checkEntity</string>
+	<key>autoResponse</key>
+	<string>usedGridView</string>
+	<key>consultativeBloc</key>
+	<string>fetchClipper</string>
+	<key>deferredchannels</key>
+	<string>reactiveStep</string>
+	<key>movementEdge</key>
+	<string>keyPicker</string>
+	<key>synchronousCycle</key>
+	<string>effecttheme</string>
+	<key>uniformJoiner</key>
+	<string>shouldpopbehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFormat</key>
+	<string>stringifydescription</string>
+	<key>columnAcceleration</key>
+	<string>shouldLoadNavigator</string>
+	<key>encoderesource</key>
+	<string>relationalProvider</string>
+	<key>fusedBinder</key>
+	<string>shouldPublishRow</string>
+	<key>gateitem</key>
+	<string>shouldPushScreen</string>
+	<key>opaqueSorter</key>
+	<string>symbolVelocity</string>
+	<key>optimizerrotation</key>
+	<string>staticNotation</string>
+	<key>shouldEncodeAlert</key>
+	<string>shouldObservePainter</string>
+</dict>
+</plist>

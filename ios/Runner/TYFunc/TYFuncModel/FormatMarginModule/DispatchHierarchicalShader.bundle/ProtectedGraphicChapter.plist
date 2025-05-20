@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRemainder</key>
+	<string>tweenFlags</string>
+	<key>hierarchicalAnimator</key>
+	<string>eagerRequest</string>
+	<key>oldConstant</key>
+	<string>advancedClipper</string>
+	<key>resilientJoiner</key>
+	<string>retainedGrain</string>
+	<key>segueasync</key>
+	<string>captionInterpreter</string>
+	<key>shouldCreateMobile</key>
+	<string>makeTopic</string>
+	<key>shouldProcessStack</key>
+	<string>scrollstate</string>
+	<key>switchColor</key>
+	<string>immediateeventvisible</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivepresenteroffset</key>
+	<string>sharedSignature</string>
+	<key>bitrateworkappearance</key>
+	<string>canShowProtocol</string>
+	<key>eventconverter</key>
+	<string>markEntity</string>
+	<key>firstTimeline</key>
+	<string>desktopConsumer</string>
+	<key>mutableBaseline</key>
+	<string>retainedEntropy</string>
+	<key>nativeLocalization</key>
+	<string>singleListView</string>
+	<key>visibleInterpolation</key>
+	<string>shouldShowRadio</string>
+</dict>
+</plist>

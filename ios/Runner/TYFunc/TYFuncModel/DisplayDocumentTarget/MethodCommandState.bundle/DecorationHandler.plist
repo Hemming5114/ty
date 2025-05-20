@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetictaskrotation</key>
+	<string>shouldEndTheme</string>
+	<key>draggableResponder</key>
+	<string>analyzerTag</string>
+	<key>metricsLeft</key>
+	<string>shouldHandleConstraint</string>
+	<key>priorException</key>
+	<string>canSkipRadio</string>
+	<key>routerScale</key>
+	<string>seguePosition</string>
+	<key>segueEdge</key>
+	<string>shearStore</string>
+</dict>
+</plist>

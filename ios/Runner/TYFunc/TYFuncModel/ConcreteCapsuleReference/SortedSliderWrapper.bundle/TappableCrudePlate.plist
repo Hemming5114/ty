@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureleft</key>
+	<string>skipContraction</string>
+	<key>baseorigin</key>
+	<string>imperativeManager</string>
+	<key>granularUnary</key>
+	<string>hyperbolicsegue</string>
+	<key>immediateElement</key>
+	<string>mutableasset</string>
+	<key>nativeMusic</key>
+	<string>capsuleformat</string>
+	<key>projectalongproxy</key>
+	<string>decodeLoop</string>
+	<key>shouldTrainSkin</key>
+	<string>mapperSkewY</string>
+</dict>
+</plist>

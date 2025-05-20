@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSession</key>
+	<string>ascentValidation</string>
+	<key>callbacktag</key>
+	<string>deployPresenter</string>
+	<key>chapterscroller</key>
+	<string>canResumeController</string>
+	<key>instructionVisible</key>
+	<string>canDeserializeTransition</string>
+	<key>queueamonglayer</key>
+	<string>canEmitGate</string>
+</dict>
+</plist>

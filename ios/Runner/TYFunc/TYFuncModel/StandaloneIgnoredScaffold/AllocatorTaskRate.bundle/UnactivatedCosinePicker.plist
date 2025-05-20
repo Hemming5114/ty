@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveactioncenter</key>
+	<string>shouldTransitionPainter</string>
+	<key>displayableInstruction</key>
+	<string>canStopGridView</string>
+	<key>greatCatalyst</key>
+	<string>currentMusic</string>
+	<key>greatProfile</key>
+	<string>viewAcceleration</string>
+	<key>gridformbound</key>
+	<string>rebuildMedia</string>
+	<key>listenerFlags</key>
+	<string>aggregatecupertino</string>
+	<key>onsessionchanged</key>
+	<string>shouldfetchgradient</string>
+	<key>topicanimator</key>
+	<string>secondReducer</string>
+	<key>vectorforaction</key>
+	<string>canRestartWorkflow</string>
+</dict>
+</plist>

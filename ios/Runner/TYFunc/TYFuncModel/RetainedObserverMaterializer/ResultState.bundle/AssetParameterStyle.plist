@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAppearance</key>
+	<string>animatedSorter</string>
+	<key>composableBox</key>
+	<string>popdocument</string>
+	<key>dynamicAscent</key>
+	<string>resizableException</string>
+	<key>fusedAlpha</key>
+	<string>shouldcachestamp</string>
+	<key>shouldNotifyTabBar</key>
+	<string>floatPresenter</string>
+	<key>textparameterhue</key>
+	<string>infoBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionscale</key>
+	<string>rebuildDecoration</string>
+	<key>eagerutil</key>
+	<string>desktopAsset</string>
+	<key>liteRichText</key>
+	<string>easyPicker</string>
+	<key>mobileCycle</key>
+	<string>channelsScale</string>
+	<key>profiledescription</key>
+	<string>matrixRotation</string>
+	<key>shouldTrainMomentum</key>
+	<string>onsessionchanged</string>
+	<key>unmarshalasset</key>
+	<string>originalproviderfeedback</string>
+</dict>
+</plist>

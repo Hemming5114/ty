@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianObject</key>
+	<string>visualizeMetadata</string>
+	<key>interfacephasecount</key>
+	<string>shouldSetStateSpine</string>
+	<key>materializebehavior</key>
+	<string>normalGrid</string>
+	<key>resilientView</key>
+	<string>delicateLabel</string>
+	<key>shouldPublishColumn</key>
+	<string>immediateAspect</string>
+	<key>substantialInteger</key>
+	<string>canPaintSession</string>
+</dict>
+</plist>

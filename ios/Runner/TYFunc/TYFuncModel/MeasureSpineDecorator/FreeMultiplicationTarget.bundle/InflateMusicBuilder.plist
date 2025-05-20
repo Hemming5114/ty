@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationHead</key>
+	<string>scrollableScalability</string>
+	<key>nextInterface</key>
+	<string>unarybehavior</string>
+	<key>repositorylocation</key>
+	<string>intuitiveStore</string>
+	<key>sophisticatedreducerappearance</key>
+	<string>interactiveMesh</string>
+	<key>spriteIndex</key>
+	<string>destroyTopic</string>
+	<key>themePosition</key>
+	<string>awaitBottom</string>
+</dict>
+</plist>

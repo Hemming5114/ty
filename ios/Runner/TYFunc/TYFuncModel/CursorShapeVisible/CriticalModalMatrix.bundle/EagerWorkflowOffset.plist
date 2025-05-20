@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesduration</key>
+	<string>observeStep</string>
+	<key>customizedpetvisible</key>
+	<string>currentEquipment</string>
+	<key>formatmenu</key>
+	<string>taskdistance</string>
+	<key>rectscheduler</key>
+	<string>flexwithtype</string>
+	<key>replicaPressure</key>
+	<string>flexibleHistogram</string>
+	<key>responderTag</key>
+	<string>visibleVector</string>
+	<key>similarVariant</key>
+	<string>otherFragments</string>
+	<key>stackDepth</key>
+	<string>resilientHistogram</string>
+</dict>
+</plist>

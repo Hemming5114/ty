@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedProcessor</key>
+	<string>animateappbar</string>
+	<key>euclideanSegment</key>
+	<string>topicTag</string>
+	<key>protectedEvent</key>
+	<string>resilientSegue</string>
+	<key>tappableplate</key>
+	<string>elasticCheckbox</string>
+</dict>
+</plist>

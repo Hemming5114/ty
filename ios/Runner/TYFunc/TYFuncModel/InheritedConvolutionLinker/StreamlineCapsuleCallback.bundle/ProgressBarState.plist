@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionParticle</key>
+	<string>requirednode</string>
+	<key>normForce</key>
+	<string>transformerincycle</string>
+	<key>originalSemantics</key>
+	<string>calculateMenu</string>
+	<key>primaryLoader</key>
+	<string>overlayDecorator</string>
+	<key>shouldPersistSkirt</key>
+	<string>injectionTint</string>
+	<key>videoAcceleration</key>
+	<string>backwardInformation</string>
+</dict>
+</plist>

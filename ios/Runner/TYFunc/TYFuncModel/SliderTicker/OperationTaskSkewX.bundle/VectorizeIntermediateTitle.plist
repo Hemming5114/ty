@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDetail</key>
+	<string>allocatorCycle</string>
+	<key>effectstylehue</key>
+	<string>compositionStrategy</string>
+	<key>gridShape</key>
+	<string>largeBox</string>
+	<key>mapMargin</key>
+	<string>webTangent</string>
+	<key>missedSubscriber</key>
+	<string>reduceEvent</string>
+	<key>shouldTransitionBox</key>
+	<string>sinkconsumption</string>
+</dict>
+</plist>

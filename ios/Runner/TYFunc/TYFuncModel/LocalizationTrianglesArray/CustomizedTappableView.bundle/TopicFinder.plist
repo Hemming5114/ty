@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredsinetop</key>
+	<string>semanticTaxonomy</string>
+	<key>inheritedConstant</key>
+	<string>independentConstraint</string>
+	<key>missedCompletion</key>
+	<string>statelessPresenter</string>
+	<key>operationName</key>
+	<string>viewleft</string>
+	<key>otherAccessory</key>
+	<string>routerLocation</string>
+</dict>
+</plist>

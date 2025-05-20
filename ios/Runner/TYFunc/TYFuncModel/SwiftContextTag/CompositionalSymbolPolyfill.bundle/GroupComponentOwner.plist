@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataTop</key>
+	<string>shouldConnectDialogs</string>
+	<key>requiredScene</key>
+	<string>objectCount</string>
+	<key>scalabilityflags</key>
+	<string>hyperbolicPager</string>
+	<key>semanticItem</key>
+	<string>positionedRotation</string>
+	<key>shouldPauseSpot</key>
+	<string>canStreamRemainder</string>
+	<key>unactivatedImage</key>
+	<string>scenelikestyle</string>
+	<key>usecasepadding</key>
+	<string>shouldEndCycle</string>
+</dict>
+</plist>

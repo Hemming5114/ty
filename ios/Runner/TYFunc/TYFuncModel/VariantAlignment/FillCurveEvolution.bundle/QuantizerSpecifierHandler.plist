@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeConstraint</key>
+	<string>paintExpanded</string>
+	<key>missedSingleton</key>
+	<string>iterativeParticle</string>
+	<key>missedanimation</key>
+	<string>navigatePageView</string>
+	<key>onrolechanged</key>
+	<string>keyNotification</string>
+	<key>opaqueTolerance</key>
+	<string>resilientprogressbar</string>
+	<key>shouldRestartObserver</key>
+	<string>disconnectInjection</string>
+</dict>
+</plist>

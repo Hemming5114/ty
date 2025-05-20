@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleOffset</key>
+	<string>requiredResource</string>
+	<key>dedicatedMaterializer</key>
+	<string>workflowSpeed</string>
+	<key>hascapsule</key>
+	<string>localSwitch</string>
+	<key>injectionexcepttask</key>
+	<string>replaceTangent</string>
+	<key>schemaState</key>
+	<string>euclideanSign</string>
+	<key>singleaspect</key>
+	<string>publishButton</string>
+	<key>slidercolor</key>
+	<string>associateController</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitGraph</key>
+	<string>cacheButton</string>
+	<key>hardpriorityrate</key>
+	<string>symbolStructure</string>
+	<key>liteAlpha</key>
+	<string>losstransparency</string>
+	<key>marginMode</key>
+	<string>mixinAlignment</string>
+	<key>primaryInteractor</key>
+	<string>touchRow</string>
+	<key>publicconsumer</key>
+	<string>chooserborder</string>
+	<key>shouldTrainSlash</key>
+	<string>spriteDelay</string>
+	<key>sortedContrast</key>
+	<string>robustTween</string>
+</dict>
+</plist>

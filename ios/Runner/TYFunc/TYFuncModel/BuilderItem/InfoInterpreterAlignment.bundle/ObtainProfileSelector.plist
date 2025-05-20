@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNotifier</key>
+	<string>accordionZone</string>
+	<key>bulletbycontext</key>
+	<string>textRate</string>
+	<key>composableTimeline</key>
+	<string>shouldShowSignature</string>
+	<key>coordinatorframeworktransparency</key>
+	<string>decorationRight</string>
+	<key>disparateBrush</key>
+	<string>persistentMaster</string>
+	<key>subpixeloperation</key>
+	<string>updateSubpixel</string>
+	<key>temporaryPainter</key>
+	<string>exponentAppearance</string>
+</dict>
+</plist>

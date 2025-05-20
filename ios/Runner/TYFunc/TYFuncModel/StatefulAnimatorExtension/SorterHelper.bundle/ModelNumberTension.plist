@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocdirection</key>
+	<string>shouldObserveCard</string>
+	<key>optionFeedback</key>
+	<string>shouldValidateTable</string>
+	<key>resourceforminterval</key>
+	<string>cacheGridView</string>
+	<key>shouldPublishStack</key>
+	<string>positionKind</string>
+	<key>shouldcancelappbar</key>
+	<string>rectTop</string>
+	<key>unactivatedObserver</key>
+	<string>convolutionTheme</string>
+</dict>
+</plist>

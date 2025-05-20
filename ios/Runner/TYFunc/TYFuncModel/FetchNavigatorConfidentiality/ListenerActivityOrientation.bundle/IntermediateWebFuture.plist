@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonInterval</key>
+	<string>shouldProcessTool</string>
+	<key>evaluationBrightness</key>
+	<string>canRebuildScale</string>
+	<key>listenerconstant</key>
+	<string>rowEdge</string>
+	<key>numericalPriority</key>
+	<string>ignoredmaterial</string>
+	<key>semanticparticle</key>
+	<string>characterTransparency</string>
+	<key>signEdge</key>
+	<string>navigationParam</string>
+	<key>tappableModulus</key>
+	<string>shouldRestartThread</string>
+	<key>uniformResponder</key>
+	<string>canEmitRoute</string>
+	<key>uniformStamp</key>
+	<string>restoreNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorworkhue</key>
+	<string>shouldShowScale</string>
+	<key>resizableConsumption</key>
+	<string>masterShape</string>
+	<key>resolverShape</key>
+	<string>canRestartGridView</string>
+	<key>shouldDispatchNib</key>
+	<string>dialogsfunctioninset</string>
+	<key>symmetricSpot</key>
+	<string>joinerShape</string>
+	<key>temporaryticker</key>
+	<string>onoperationtap</string>
+	<key>unactivatedtext</key>
+	<string>visiblePresenter</string>
+</dict>
+</plist>

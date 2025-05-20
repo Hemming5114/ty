@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordertag</key>
+	<string>synchronousMap</string>
+	<key>bufferPressure</key>
+	<string>crucialDetector</string>
+	<key>flexawait</key>
+	<string>shouldEndIcon</string>
+	<key>geometricRecursion</key>
+	<string>canRestartObserver</string>
+	<key>parallelCompletion</key>
+	<string>sortedRow</string>
+	<key>retainedTabView</key>
+	<string>custompaintamongprototype</string>
+	<key>tappablePopup</key>
+	<string>mainLoop</string>
+	<key>visibleFactory</key>
+	<string>aggregateResponse</string>
+</dict>
+</plist>

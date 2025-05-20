@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainermediatorforce</key>
+	<string>notificationPadding</string>
+	<key>defaultTransition</key>
+	<string>normPhase</string>
+	<key>enabledMaterial</key>
+	<string>mountSemantics</string>
+	<key>enhancebullet</key>
+	<string>canKeepMember</string>
+	<key>ignoredMaster</key>
+	<string>largeSlash</string>
+	<key>lastStateless</key>
+	<string>canLoadStateless</string>
+	<key>precisionMomentum</key>
+	<string>mediocreBloc</string>
+	<key>signaturetiermargin</key>
+	<string>lastAccessory</string>
+	<key>sizeTransparency</key>
+	<string>interfaceFlags</string>
+	<key>subtleComposition</key>
+	<string>sessionContrast</string>
+</dict>
+</plist>

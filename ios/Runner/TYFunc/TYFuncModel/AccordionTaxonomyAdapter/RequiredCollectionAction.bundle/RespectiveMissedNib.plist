@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocdirection</key>
+	<string>shearBloc</string>
+	<key>buttonversusvalue</key>
+	<string>eagerBrush</string>
+	<key>customStrength</key>
+	<string>buildConstraint</string>
+	<key>oldElasticity</key>
+	<string>customCoordinator</string>
+	<key>operationposition</key>
+	<string>confidentialityRotation</string>
+	<key>unsortedStroke</key>
+	<string>columnScale</string>
+</dict>
+</plist>

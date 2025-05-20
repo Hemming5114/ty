@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPromise</key>
+	<string>customTexture</string>
+	<key>instructionmenu</key>
+	<string>smartEvaluation</string>
+	<key>normalusecaseforce</key>
+	<string>listenImage</string>
+	<key>onusagetap</key>
+	<string>paintercurve</string>
+	<key>parallelGestureDetector</key>
+	<string>cycleBorder</string>
+	<key>shouldYieldProvider</key>
+	<string>transformerJob</string>
+	<key>stateSpacing</key>
+	<string>activeScene</string>
+	<key>tappableMember</key>
+	<string>signatureSpacing</string>
+</dict>
+</plist>

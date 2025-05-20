@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileNib</key>
+	<string>canPublishCell</string>
+	<key>capacitiesAlignment</key>
+	<string>activatedSlash</string>
+	<key>cubeLocation</key>
+	<string>presenterSpeed</string>
+	<key>customMatrix</key>
+	<string>vectorizeChart</string>
+	<key>deliveryBrightness</key>
+	<string>selectedHeap</string>
+	<key>dynamicRole</key>
+	<string>accelerateResolver</string>
+	<key>filterresponse</key>
+	<string>skirtmanager</string>
+	<key>sequentialLayer</key>
+	<string>statefulResolver</string>
+	<key>shouldEndTabBar</key>
+	<string>primaryTabView</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateStoryboard</key>
+	<string>saveGrayscale</string>
+	<key>modelspeed</key>
+	<string>beginnerNotation</string>
+	<key>priorityrecursion</key>
+	<string>animatedMapper</string>
+	<key>subscriptionOffset</key>
+	<string>robustinfo</string>
+</dict>
+</plist>

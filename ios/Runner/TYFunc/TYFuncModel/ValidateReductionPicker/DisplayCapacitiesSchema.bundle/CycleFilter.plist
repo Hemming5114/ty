@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMultiplication</key>
+	<string>webBatch</string>
+	<key>curveInteraction</key>
+	<string>shouldValidateReference</string>
+	<key>declarativeCharacteristic</key>
+	<string>characteristicborder</string>
+	<key>decorationpadding</key>
+	<string>observeCompletion</string>
+	<key>displayableOptimizer</key>
+	<string>augmentRect</string>
+	<key>metadataaboutmode</key>
+	<string>stringifyAnimation</string>
+	<key>responsiveIndicator</key>
+	<string>canEncodeConsumer</string>
+	<key>statelessConsumption</key>
+	<string>groupversusmode</string>
+	<key>wrapperFormat</key>
+	<string>subscribeCoordinator</string>
+</dict>
+</plist>

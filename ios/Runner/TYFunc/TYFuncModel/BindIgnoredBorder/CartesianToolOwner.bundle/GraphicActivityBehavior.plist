@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisSpeed</key>
+	<string>interactionflags</string>
+	<key>euclideanIndicator</key>
+	<string>relationalEvaluation</string>
+	<key>joinerPosition</key>
+	<string>processFragment</string>
+	<key>rectmode</key>
+	<string>showpopup</string>
+	<key>reusablenavigator</key>
+	<string>variantHue</string>
+	<key>shouldKeepSwitch</key>
+	<string>diffableStore</string>
+	<key>symbolresilience</key>
+	<string>basicTheme</string>
+</dict>
+</plist>

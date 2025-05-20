@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedSubpixel</key>
+	<string>chapterWork</string>
+	<key>grainhandler</key>
+	<string>uniformContraction</string>
+	<key>interfaceForce</key>
+	<string>desktopResponse</string>
+	<key>rendererName</key>
+	<string>disabledReliability</string>
+	<key>shouldDetachSegment</key>
+	<string>batchEdge</string>
+	<key>shouldListenEqualization</key>
+	<string>canCancelPoint</string>
+	<key>streamattype</key>
+	<string>hierarchicalStream</string>
+	<key>tabviewopacity</key>
+	<string>shouldTransitionSpecifier</string>
+	<key>transpilecharacter</key>
+	<string>crucialBox</string>
+	<key>tweenvalueresponse</key>
+	<string>firstPet</string>
+</dict>
+</plist>

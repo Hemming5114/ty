@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageOpacity</key>
+	<string>decorationorstate</string>
+	<key>priorCupertino</key>
+	<string>lossduration</string>
+	<key>sequentialVideo</key>
+	<string>startMediaQuery</string>
+	<key>shouldNavigateCustomPaint</key>
+	<string>shouldShowTernary</string>
+	<key>shouldPushAperture</key>
+	<string>mutableMediaQuery</string>
+	<key>streammargin</key>
+	<string>statelessIntegrity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStream</key>
+	<string>moveDuration</string>
+	<key>decodeexception</key>
+	<string>shouldPublishSegment</string>
+	<key>globalRect</key>
+	<string>currentArithmetic</string>
+	<key>modelBorder</key>
+	<string>minCache</string>
+	<key>publishstep</key>
+	<string>maxStack</string>
+	<key>shouldFormatCertificate</key>
+	<string>prevContainer</string>
+	<key>statelessScope</key>
+	<string>shouldInflateMovement</string>
+</dict>
+</plist>

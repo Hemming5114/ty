@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTabView</key>
+	<string>inkwellInset</string>
+	<key>containerStatus</key>
+	<string>accordionhandler</string>
+	<key>dispatchrow</key>
+	<string>presentShader</string>
+	<key>dynamicgraph</key>
+	<string>replaceRow</string>
+	<key>framevelocity</key>
+	<string>storyboardskewx</string>
+	<key>hierarchicalWrapper</key>
+	<string>tickerskewx</string>
+	<key>histogramStatus</key>
+	<string>positionFrequency</string>
+	<key>matrixShape</key>
+	<string>curveDuration</string>
+	<key>respectiveAnalogy</key>
+	<string>sensoropacity</string>
+	<key>unsortedRadio</key>
+	<string>unsortedOperation</string>
+</dict>
+</plist>

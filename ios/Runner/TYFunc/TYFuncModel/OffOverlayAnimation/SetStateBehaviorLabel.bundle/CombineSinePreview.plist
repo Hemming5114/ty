@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedNode</key>
+	<string>cacheAlignment</string>
+	<key>denseItem</key>
+	<string>desktopLogarithm</string>
+	<key>diffableTimeline</key>
+	<string>objectAppearance</string>
+	<key>elasticLoader</key>
+	<string>canSkipConvolution</string>
+	<key>groupdelivery</key>
+	<string>remainderShape</string>
+	<key>nextMetadata</key>
+	<string>synchronousProgressBar</string>
+	<key>provisionBottom</key>
+	<string>substantialDropdownButton</string>
+	<key>sharedmodal</key>
+	<string>shouldRebuildColumn</string>
+	<key>shouldKeepTabView</key>
+	<string>enabledEntropy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredResponse</key>
+	<string>buildScaffold</string>
+	<key>keeptimer</key>
+	<string>statefulPositioned</string>
+	<key>poolmaterial</key>
+	<string>propagateHandler</string>
+	<key>prismaticAscent</key>
+	<string>prepareEquipment</string>
+	<key>repositorymerger</key>
+	<string>symbolforce</string>
+	<key>websubscription</key>
+	<string>updateRemainder</string>
+</dict>
+</plist>

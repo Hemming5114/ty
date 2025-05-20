@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationvisitoracceleration</key>
+	<string>canObserveRoute</string>
+	<key>discardedobservertop</key>
+	<string>tappableBox</string>
+	<key>informationInteraction</key>
+	<string>visitTask</string>
+	<key>mediumRepository</key>
+	<string>zonemode</string>
+	<key>presentposition</key>
+	<string>canDismissCompletion</string>
+	<key>prismaticCheckbox</key>
+	<string>staticbitratebottom</string>
+	<key>shouldAnimateStream</key>
+	<string>constraintHue</string>
+	<key>taskofparam</key>
+	<string>interpolateController</string>
+	<key>volumeTheme</key>
+	<string>visibleTransition</string>
+</dict>
+</plist>

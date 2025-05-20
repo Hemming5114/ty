@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureMode</key>
+	<string>featureProxy</string>
+	<key>capturedecoration</key>
+	<string>transformbuilder</string>
+	<key>shouldHandleTable</key>
+	<string>deferredFlex</string>
+	<key>shouldRestartSpot</key>
+	<string>widgetformcenter</string>
+</dict>
+</plist>

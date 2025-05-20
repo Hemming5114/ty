@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCombiner</key>
+	<string>combineVector</string>
+	<key>buildvector</key>
+	<string>disparateTexture</string>
+	<key>mobileSink</key>
+	<string>multiDescription</string>
+	<key>sophisticatedreferencekind</key>
+	<string>canCacheCompletion</string>
+	<key>statelessaudio</key>
+	<string>basicQueue</string>
+</dict>
+</plist>

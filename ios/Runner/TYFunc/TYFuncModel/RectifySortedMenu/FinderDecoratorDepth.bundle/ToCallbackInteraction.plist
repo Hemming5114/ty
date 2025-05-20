@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mitigatestamp</key>
+	<string>canPushComposition</string>
+	<key>numericalHash</key>
+	<string>shouldcancelrichtext</string>
+	<key>seamlessThreshold</key>
+	<string>dimensionEdge</string>
+	<key>shouldendspot</key>
+	<string>buildSwift</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableprogressbar</key>
+	<string>shouldMountedPlate</string>
+	<key>disabledGridView</key>
+	<string>reconcileStorage</string>
+	<key>statelessThread</key>
+	<string>builderelement</string>
+	<key>subsequentHistogram</key>
+	<string>mobileStorage</string>
+	<key>tentativeFlags</key>
+	<string>shouldPaintOptimizer</string>
+</dict>
+</plist>

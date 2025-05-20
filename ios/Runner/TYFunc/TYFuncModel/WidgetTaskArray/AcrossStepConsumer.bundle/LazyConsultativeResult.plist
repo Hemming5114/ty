@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioRotation</key>
+	<string>mediumContraction</string>
+	<key>delegateconstraint</key>
+	<string>asynchronousTrigger</string>
+	<key>dropdownbuttonvideo</key>
+	<string>easymaterial</string>
+	<key>ephemeralManager</key>
+	<string>backwardTimeline</string>
+	<key>fusedsign</key>
+	<string>globalUseCase</string>
+	<key>geometricmetrics</key>
+	<string>functionalIntegrity</string>
+	<key>shouldCancelPlate</key>
+	<string>compileTransformer</string>
+	<key>symmetricTechnique</key>
+	<string>renderChallenge</string>
+</dict>
+</plist>

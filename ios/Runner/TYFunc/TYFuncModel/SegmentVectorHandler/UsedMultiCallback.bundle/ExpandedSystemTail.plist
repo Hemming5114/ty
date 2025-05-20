@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcolumnposition</key>
+	<string>canBindButton</string>
+	<key>associatedReplica</key>
+	<string>pageviewOrientation</string>
+	<key>bindermode</key>
+	<string>detachstate</string>
+	<key>durationFormat</key>
+	<string>normalSignature</string>
+	<key>heapdepth</key>
+	<string>buildReference</string>
+	<key>loopuntilflyweight</key>
+	<string>architectureSaturation</string>
+	<key>selectedWorkflow</key>
+	<string>spritematerial</string>
+	<key>synchronousMaterial</key>
+	<string>comprehensiveGraph</string>
+	<key>usedCharacteristic</key>
+	<string>adjustTopic</string>
+</dict>
+</plist>

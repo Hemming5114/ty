@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardprovider</key>
+	<string>profileShape</string>
+	<key>channelsDirection</key>
+	<string>canDetachCharacter</string>
+	<key>inheritedEmitter</key>
+	<string>sequentialConstraint</string>
+	<key>permanentreferenceorientation</key>
+	<string>serializeservice</string>
+	<key>sharedCanvas</key>
+	<string>customizedHandler</string>
+	<key>statefulTween</key>
+	<string>canConnectSpot</string>
+	<key>unactivatedReliability</key>
+	<string>baseinterval</string>
+</dict>
+</plist>

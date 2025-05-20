@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedVertex</key>
+	<string>eagerconstant</string>
+	<key>hardresult</key>
+	<string>missedContainer</string>
+	<key>hyperbolicResponse</key>
+	<string>streamhead</string>
+	<key>pickeredge</key>
+	<string>shouldUnmountedSlider</string>
+	<key>shouldAnimateUsage</key>
+	<string>mutableFormat</string>
+	<key>shouldDispatchStateless</key>
+	<string>globalStoryboard</string>
+	<key>strengthInterval</key>
+	<string>locateSink</string>
+	<key>sustainableAction</key>
+	<string>shouldConnectSubpixel</string>
+</dict>
+</plist>

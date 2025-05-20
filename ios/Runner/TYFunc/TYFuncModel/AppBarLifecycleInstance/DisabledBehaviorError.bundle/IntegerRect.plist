@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFormat</key>
+	<string>largeConvolution</string>
+	<key>architectureOrigin</key>
+	<string>checkanimatedcontainer</string>
+	<key>commonLoader</key>
+	<string>shouldMountedScroll</string>
+	<key>displayablespecifier</key>
+	<string>sequentialTicker</string>
+	<key>immutableIcon</key>
+	<string>shouldNotifyClipper</string>
+	<key>priorlog</key>
+	<string>shouldencodeprovider</string>
+	<key>shapeCount</key>
+	<string>logarithmStage</string>
+	<key>shouldDispatchRichText</key>
+	<string>computeSlider</string>
+	<key>shouldpublishbatch</key>
+	<string>serializeOffset</string>
+</dict>
+</plist>

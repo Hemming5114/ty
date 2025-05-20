@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachsubscription</key>
+	<string>serializeSubscription</string>
+	<key>componentBottom</key>
+	<string>secondRectangle</string>
+	<key>isolateVelocity</key>
+	<string>playMetadata</string>
+	<key>optimizerscheduler</key>
+	<string>greatNib</string>
+	<key>sortedTitle</key>
+	<string>visualizeRadius</string>
+	<key>staticSearcher</key>
+	<string>positionedTemple</string>
+</dict>
+</plist>

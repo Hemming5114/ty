@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTopic</key>
+	<string>projectHead</string>
+	<key>dynamicArchitecture</key>
+	<string>normalCurve</string>
+	<key>exceptionRate</key>
+	<string>listenAspectRatio</string>
+	<key>ispromise</key>
+	<string>managerScope</string>
+	<key>savequeue</key>
+	<string>shouldContinueBloc</string>
+	<key>touchtint</key>
+	<string>exceptionResponse</string>
+</dict>
+</plist>

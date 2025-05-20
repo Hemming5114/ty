@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstGift</key>
+	<string>searchManager</string>
+	<key>granularCosine</key>
+	<string>draggablecallback</string>
+	<key>renamecupertino</key>
+	<string>routerAction</string>
+	<key>retainedOffset</key>
+	<string>activatedTimer</string>
+	<key>sizeFeedback</key>
+	<string>cupertinoDecorator</string>
+</dict>
+</plist>

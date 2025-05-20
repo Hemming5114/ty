@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateloss</key>
+	<string>canObserveDropdownButton</string>
+	<key>accessibleView</key>
+	<string>canPaintSubpixel</string>
+	<key>detectorbehavior</key>
+	<string>disposeColumn</string>
+	<key>hierarchicalcubitright</key>
+	<string>entityWork</string>
+	<key>iterativeWidget</key>
+	<string>retainedAllocator</string>
+	<key>localCollection</key>
+	<string>sustainableMomentum</string>
+	<key>mobilePainter</key>
+	<string>nodeRotation</string>
+	<key>normalCursor</key>
+	<string>shouldBindSign</string>
+	<key>opaqueDetector</key>
+	<string>sequentialCanvas</string>
+	<key>trajectoryBound</key>
+	<string>attachTheme</string>
+</dict>
+</plist>

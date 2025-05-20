@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatereduction</key>
+	<string>shouldDisposeContraction</string>
+	<key>customTrigger</key>
+	<string>timerborder</string>
+	<key>graphicTag</key>
+	<string>erasestorage</string>
+	<key>removeradio</key>
+	<string>shouldInflateAnimatedContainer</string>
+	<key>rendererShape</key>
+	<string>synchronousUnary</string>
+	<key>routebound</key>
+	<string>movementTier</string>
+	<key>shouldStreamResource</key>
+	<string>canProcessFlex</string>
+	<key>subsequentview</key>
+	<string>transposeRepository</string>
+	<key>typicalTransformer</key>
+	<string>canPrepareIcon</string>
+</dict>
+</plist>

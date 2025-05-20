@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedZone</key>
+	<string>fixedTime</string>
+	<key>eagerlistenerlocation</key>
+	<string>expandedTransparency</string>
+	<key>greatcapacity</key>
+	<string>shouldEmitAlpha</string>
+	<key>pointformat</key>
+	<string>movementOperation</string>
+	<key>standaloneOption</key>
+	<string>touchChart</string>
+	<key>subtleMargin</key>
+	<string>independentShape</string>
+	<key>transformerpadding</key>
+	<string>comparePopup</string>
+	<key>viewinteraction</key>
+	<string>uniqueMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAppearance</key>
+	<string>listenerdelay</string>
+	<key>concreteStorage</key>
+	<string>dropdownbuttonBehavior</string>
+	<key>denseNotifier</key>
+	<string>prevPlate</string>
+	<key>formatplayback</key>
+	<string>ternaryActivity</string>
+	<key>nativeSensor</key>
+	<string>lostStroke</string>
+	<key>protectedstatetint</key>
+	<string>mediumTransition</string>
+	<key>selectedTouch</key>
+	<string>activePolyfill</string>
+</dict>
+</plist>

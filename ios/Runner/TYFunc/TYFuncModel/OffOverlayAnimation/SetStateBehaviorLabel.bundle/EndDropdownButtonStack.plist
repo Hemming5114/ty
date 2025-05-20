@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateSaturation</key>
+	<string>textagainstmode</string>
+	<key>disconnectanimatedcontainer</key>
+	<string>navigatorscopedirection</string>
+	<key>fragmentDuration</key>
+	<string>optionrotation</string>
+	<key>ignoredSample</key>
+	<string>handleScreen</string>
+	<key>newestMovement</key>
+	<string>parallelSubscriber</string>
+	<key>normalinterpolation</key>
+	<string>canTransformStep</string>
+	<key>shouldParseAnimation</key>
+	<string>joinerSaturation</string>
+</dict>
+</plist>

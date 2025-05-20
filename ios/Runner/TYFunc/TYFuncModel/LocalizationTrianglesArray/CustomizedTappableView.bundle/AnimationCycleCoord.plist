@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicshader</key>
+	<string>agileLabel</string>
+	<key>buttonorstyle</key>
+	<string>popSemantics</string>
+	<key>cursorsize</key>
+	<string>shouldEndExpanded</string>
+	<key>isstack</key>
+	<string>canDisposeConstraint</string>
+	<key>radiusVelocity</key>
+	<string>routeExpanded</string>
+	<key>shouldrenderstoryboard</key>
+	<string>materialResponse</string>
+	<key>trianglesVisibility</key>
+	<string>intuitiveDetector</string>
+</dict>
+</plist>

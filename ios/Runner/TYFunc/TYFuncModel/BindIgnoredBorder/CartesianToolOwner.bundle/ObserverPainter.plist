@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialSchema</key>
+	<string>shouldSubscribeNib</string>
+	<key>pointbrightness</key>
+	<string>paddingProxy</string>
+	<key>priorComponent</key>
+	<string>canRebuildCube</string>
+	<key>shouldBindGraphic</key>
+	<string>saveSpine</string>
+	<key>storagenumbercontrast</key>
+	<string>shouldEmitCanvas</string>
+	<key>timerInteraction</key>
+	<string>intuitiveMapper</string>
+</dict>
+</plist>

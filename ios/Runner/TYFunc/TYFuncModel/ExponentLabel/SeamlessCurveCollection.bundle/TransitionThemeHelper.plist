@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioEdge</key>
+	<string>synchronizeUseCase</string>
+	<key>criticalTrajectory</key>
+	<string>detachpresenter</string>
+	<key>joinercount</key>
+	<string>canPresentText</string>
+	<key>obtainprovider</key>
+	<string>persistentSizedBox</string>
+	<key>shouldFetchCatalyst</key>
+	<string>lastBullet</string>
+	<key>soundflags</key>
+	<string>strokeVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSelector</key>
+	<string>streamMediaQuery</string>
+	<key>autoScroller</key>
+	<string>heapPattern</string>
+	<key>beginnerVideo</key>
+	<string>deserializemenu</string>
+	<key>intermediateProcessor</key>
+	<string>localizationdisclaimer</string>
+	<key>routetimer</key>
+	<string>canUnmountSign</string>
+	<key>shouldStopPet</key>
+	<string>mobilehead</string>
+	<key>sophisticatedFilter</key>
+	<string>commontexture</string>
+	<key>subsequentNavigation</key>
+	<string>layoutScope</string>
+</dict>
+</plist>

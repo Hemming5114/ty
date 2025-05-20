@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktoptimeline</key>
+	<string>generateDescription</string>
+	<key>granularStore</key>
+	<string>shouldValidateDecoration</string>
+	<key>shouldListenScaffold</key>
+	<string>associateNavigator</string>
+	<key>shouldcreatecontainer</key>
+	<string>rectTheme</string>
+	<key>statelessmenu</key>
+	<string>animatedSubpixel</string>
+</dict>
+</plist>

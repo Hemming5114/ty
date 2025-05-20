@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitcenter</key>
+	<string>canStreamEffect</string>
+	<key>buttonenvironmentspeed</key>
+	<string>canReplaceBitrate</string>
+	<key>cardInset</key>
+	<string>activeTabBar</string>
+	<key>instructiontype</key>
+	<string>canDeserializeBox</string>
+	<key>shouldRouteTabBar</key>
+	<string>rebuildPositioned</string>
+	<key>staticBuilder</key>
+	<string>skinLevel</string>
+</dict>
+</plist>

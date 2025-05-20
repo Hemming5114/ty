@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularSwitch</key>
+	<string>cacheSine</string>
+	<key>metadatatypespacing</key>
+	<string>prevButton</string>
+	<key>stoppet</key>
+	<string>maxFragment</string>
+	<key>switchHue</key>
+	<string>widgetnavigator</string>
+	<key>tweenmodename</key>
+	<string>draggableSprite</string>
+	<key>widgetLeft</key>
+	<string>writewidget</string>
+</dict>
+</plist>

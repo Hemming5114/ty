@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativetexture</key>
+	<string>canDismissLabel</string>
+	<key>dispatchoptimizer</key>
+	<string>escalatebuffer</string>
+	<key>heapCoord</key>
+	<string>managermaterializer</string>
+	<key>hierarchicalCertificate</key>
+	<string>canDecodeGram</string>
+	<key>radioVelocity</key>
+	<string>hierarchicalRenderer</string>
+	<key>reducertop</key>
+	<string>retainedError</string>
+	<key>unmountedtabview</key>
+	<string>shouldSaveBloc</string>
+</dict>
+</plist>

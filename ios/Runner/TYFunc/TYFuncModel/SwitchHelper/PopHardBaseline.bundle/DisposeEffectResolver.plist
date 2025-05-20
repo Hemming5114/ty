@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStep</key>
+	<string>canPreparePainter</string>
+	<key>buildermodel</key>
+	<string>granularMend</string>
+	<key>interactiveShape</key>
+	<string>cursorHue</string>
+	<key>modulusMargin</key>
+	<string>canSetStateMap</string>
+	<key>otherCoordinator</key>
+	<string>shouldObserveLoss</string>
+	<key>rowRight</key>
+	<string>prepareStack</string>
+	<key>shouldEmitHeap</key>
+	<string>directlyAspectRatio</string>
+</dict>
+</plist>

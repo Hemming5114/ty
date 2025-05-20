@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultinstruction</key>
+	<string>keyProject</string>
+	<key>delicateCell</key>
+	<string>shouldPresentGesture</string>
+	<key>fixedSchema</key>
+	<string>relationalThreshold</string>
+	<key>heapVisibility</key>
+	<string>mountCompletion</string>
+	<key>numericalDialogs</key>
+	<string>richtextScope</string>
+	<key>publicBloc</key>
+	<string>continueDialogs</string>
+	<key>shouldDismissAspect</key>
+	<string>navigateBox</string>
+</dict>
+</plist>

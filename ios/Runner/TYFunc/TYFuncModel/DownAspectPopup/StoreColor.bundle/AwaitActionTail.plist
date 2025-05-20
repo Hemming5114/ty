@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyShader</key>
+	<string>associatedSubpixel</string>
+	<key>progressbarTransparency</key>
+	<string>dropdownbuttonContext</string>
+	<key>projectionBottom</key>
+	<string>canStopTouch</string>
+	<key>shouldConnectScaffold</key>
+	<string>cartesianscaleopacity</string>
+	<key>singleNib</key>
+	<string>arithmeticInterface</string>
+</dict>
+</plist>

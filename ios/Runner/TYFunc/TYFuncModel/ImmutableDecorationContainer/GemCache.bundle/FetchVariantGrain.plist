@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerBehavior</key>
+	<string>protectedTriangles</string>
+	<key>graphjobvelocity</key>
+	<string>otherShape</string>
+	<key>hyperbolicAppBar</key>
+	<string>statelessWrapper</string>
+	<key>particlesincevariable</key>
+	<string>stampForm</string>
+	<key>seamlessMember</key>
+	<string>linkerCount</string>
+	<key>shouldAnimateStamp</key>
+	<string>diffableQuaternion</string>
+	<key>shouldCancelSession</key>
+	<string>materialHue</string>
+	<key>shouldProcessNotifier</key>
+	<string>cupertinoScale</string>
+	<key>tappableColumn</key>
+	<string>adjustCurve</string>
+	<key>unmountprovider</key>
+	<string>mitigateDescription</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablemediaqueryskewx</key>
+	<string>primaryCreator</string>
+	<key>denseAscent</key>
+	<string>customizedSensor</string>
+	<key>elasticityduration</key>
+	<string>radiomenu</string>
+	<key>fragmenttimeline</key>
+	<string>directlyOffset</string>
+	<key>integrityFeedback</key>
+	<string>transformPlayback</string>
+	<key>locktask</key>
+	<string>deployResponse</string>
+	<key>publicblocflags</key>
+	<string>signatureScale</string>
+	<key>shouldHandleTheme</key>
+	<string>inheritedObject</string>
+	<key>standaloneDialogs</key>
+	<string>indicatorDecorator</string>
+	<key>sustainablechallenge</key>
+	<string>dedicatedBatch</string>
+</dict>
+</plist>

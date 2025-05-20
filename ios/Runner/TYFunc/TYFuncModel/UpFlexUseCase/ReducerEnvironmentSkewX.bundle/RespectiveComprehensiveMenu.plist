@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterCoord</key>
+	<string>transformerHead</string>
+	<key>defaultmaterial</key>
+	<string>retainedImpression</string>
+	<key>resilientDetector</key>
+	<string>mountedStateful</string>
+	<key>routeparamtint</key>
+	<string>reconcileLocalization</string>
+	<key>shouldInflateTangent</key>
+	<string>synchronousSensor</string>
+	<key>shouldUnmountView</key>
+	<string>standaloneTabView</string>
+	<key>uniqueGrayscale</key>
+	<string>awaitOrigin</string>
+	<key>uniquecontroller</key>
+	<string>dropdownbuttonStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCharacter</key>
+	<string>canStopDrawer</string>
+	<key>dimensioncontroller</key>
+	<string>shouldUpdatePoint</string>
+	<key>flexibleReplica</key>
+	<string>inheritedGestureDetector</string>
+	<key>selectedBorder</key>
+	<string>deactivateUseCase</string>
+	<key>shouldValidateBase</key>
+	<string>animatedcontainerPressure</string>
+	<key>stepVisible</key>
+	<string>iterativeConsumer</string>
+</dict>
+</plist>

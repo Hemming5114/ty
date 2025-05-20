@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyanalyzer</key>
+	<string>multiObject</string>
+	<key>kerneltail</key>
+	<string>nativecontroller</string>
+	<key>rendererBound</key>
+	<string>crucialMovement</string>
+	<key>sineStyle</key>
+	<string>scenedistance</string>
+	<key>sliderfragments</key>
+	<string>elementBorder</string>
+	<key>uniformfeaturestate</key>
+	<string>functionalConnector</string>
+</dict>
+</plist>

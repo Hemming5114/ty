@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitycoord</key>
+	<string>capsulestorage</string>
+	<key>inheritedLayer</key>
+	<string>subsequentactionstatus</string>
+	<key>intermediateNotifier</key>
+	<string>interactorvariablevisibility</string>
+	<key>shouldDisposeUsage</key>
+	<string>publishHistogram</string>
+	<key>typicalLocalization</key>
+	<string>shouldObservePainter</string>
+</dict>
+</plist>

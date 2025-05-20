@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertversusshape</key>
+	<string>polyfillBound</string>
+	<key>extensionTop</key>
+	<string>timelineFlags</string>
+	<key>rectcontainaction</key>
+	<string>unscheduleHash</string>
+	<key>shouldDeserializeKernel</key>
+	<string>writeStorage</string>
+	<key>subtleSearcher</key>
+	<string>toolProxy</string>
+</dict>
+</plist>

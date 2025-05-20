@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPadding</key>
+	<string>overlayEnvironment</string>
+	<key>comprehensiveWorkflow</key>
+	<string>convolutionType</string>
+	<key>constraintShape</key>
+	<string>canSaveBinary</string>
+	<key>interactiveZone</key>
+	<string>reactiveTolerance</string>
+	<key>shouldLoadGridView</key>
+	<string>localizationbeyondform</string>
+</dict>
+</plist>

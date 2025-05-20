@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSaturation</key>
+	<string>functionalBinary</string>
+	<key>currentlabelalignment</key>
+	<string>robustNavigation</string>
+	<key>euclideanSelector</key>
+	<string>smartDescription</string>
+	<key>giftLocation</key>
+	<string>shouldobservemediaquery</string>
+	<key>multiplicationAcceleration</key>
+	<string>shouldDispatchSwift</string>
+	<key>normalradius</key>
+	<string>retrieveTask</string>
+	<key>shouldEndSpine</key>
+	<string>canUpdateScale</string>
+	<key>shouldTransitionNib</key>
+	<string>pushCollection</string>
+	<key>textsingleton</key>
+	<string>graphicemitter</string>
+</dict>
+</plist>

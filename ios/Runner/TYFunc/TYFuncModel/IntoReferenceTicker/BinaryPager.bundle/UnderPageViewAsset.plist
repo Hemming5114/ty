@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertreducer</key>
+	<string>statelessAsync</string>
+	<key>animatedHero</key>
+	<string>monsterOpacity</string>
+	<key>animateresource</key>
+	<string>escalateNode</string>
+	<key>disabledRadio</key>
+	<string>addPosition</string>
+	<key>maintainobserver</key>
+	<string>shapeStyle</string>
+	<key>routerFeedback</key>
+	<string>checkChannel</string>
+	<key>storevisible</key>
+	<string>marksubpixel</string>
+</dict>
+</plist>

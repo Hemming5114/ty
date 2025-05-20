@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerDistance</key>
+	<string>flexibleSession</string>
+	<key>exceptionShade</key>
+	<string>cacheVelocity</string>
+	<key>geometricLatency</key>
+	<string>baselineLevel</string>
+	<key>instantiatebuffer</key>
+	<string>binaryviaform</string>
+	<key>permissiveInteger</key>
+	<string>detachduration</string>
+	<key>previewAlignment</key>
+	<string>swiftPattern</string>
+</dict>
+</plist>

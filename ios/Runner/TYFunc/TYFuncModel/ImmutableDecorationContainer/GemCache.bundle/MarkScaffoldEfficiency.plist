@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopClipper</key>
+	<string>permanentVideo</string>
+	<key>ignoredGem</key>
+	<string>metadataRight</string>
+	<key>lazyPlate</key>
+	<string>strengthSaturation</string>
+	<key>lostMargin</key>
+	<string>loadGate</string>
+	<key>shouldresumecard</key>
+	<string>stackInterval</string>
+	<key>specifyMerger</key>
+	<string>cartesianAnalyzer</string>
+	<key>unsortedColumn</key>
+	<string>constraintOffset</string>
+</dict>
+</plist>

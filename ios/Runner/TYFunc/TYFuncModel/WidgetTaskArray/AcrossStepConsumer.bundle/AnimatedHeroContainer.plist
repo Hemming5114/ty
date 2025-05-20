@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>erasepriority</key>
+	<string>replicaTail</string>
+	<key>keyTernary</key>
+	<string>defaultcapsule</string>
+	<key>lastBase</key>
+	<string>themeValue</string>
+	<key>methodAppearance</key>
+	<string>trianglesAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionThroughput</key>
+	<string>holdChannel</string>
+	<key>asynchronousPermutation</key>
+	<string>parallelCluster</string>
+	<key>elasticNotification</key>
+	<string>prismaticPublisher</string>
+	<key>enabledSubscriber</key>
+	<string>analyzeReducer</string>
+	<key>fusedlocalizationcontrast</key>
+	<string>commonTabBar</string>
+	<key>largepositioned</key>
+	<string>specifyCosine</string>
+	<key>optimizerichtext</key>
+	<string>basetrigger</string>
+	<key>originalsegment</key>
+	<string>handleContainer</string>
+	<key>scalabilityShade</key>
+	<string>encodeBoxShadow</string>
+</dict>
+</plist>

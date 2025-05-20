@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAlert</key>
+	<string>skipHistogram</string>
+	<key>mountedtext</key>
+	<string>actionDistance</string>
+	<key>pivotalService</key>
+	<string>observerskewy</string>
+	<key>rendererResponse</key>
+	<string>canEncodeNotifier</string>
+	<key>shouldBuildCube</key>
+	<string>pendingVariant</string>
+	<key>statefulHeap</key>
+	<string>activeanimation</string>
+	<key>topicoffset</key>
+	<string>deferredAmortization</string>
+	<key>viewSkewX</key>
+	<string>operationreceiver</string>
+</dict>
+</plist>

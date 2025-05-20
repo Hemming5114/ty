@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOverlay</key>
+	<string>routerbridgeinset</string>
+	<key>filtertransparency</key>
+	<string>zonetrajectory</string>
+	<key>opaqueChart</key>
+	<string>nextmanageracceleration</string>
+	<key>shouldContinueKernel</key>
+	<string>particlecontextleft</string>
+	<key>shouldPublishPriority</key>
+	<string>materializerScale</string>
+	<key>staticAlpha</key>
+	<string>impactfrequency</string>
+	<key>tentativeSpacing</key>
+	<string>navigationMethod</string>
+	<key>uniquecontractionvelocity</key>
+	<string>providerKind</string>
+	<key>usecaseandphase</key>
+	<string>transitionasset</string>
+</dict>
+</plist>

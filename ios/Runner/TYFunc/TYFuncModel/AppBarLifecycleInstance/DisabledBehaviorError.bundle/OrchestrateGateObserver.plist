@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowSaturation</key>
+	<string>euclideanScaffold</string>
+	<key>ephemeralSearcher</key>
+	<string>saveBaseline</string>
+	<key>gatematerial</key>
+	<string>selectedconvolution</string>
+	<key>inactiveProjection</key>
+	<string>implementaction</string>
+	<key>obtaingraph</key>
+	<string>adjustDelegate</string>
+	<key>shouldMountedMaster</key>
+	<string>resolverParameter</string>
+	<key>shouldPersistExponent</key>
+	<string>methodfactory</string>
+	<key>shouldYieldCanvas</key>
+	<string>dismissRect</string>
+</dict>
+</plist>

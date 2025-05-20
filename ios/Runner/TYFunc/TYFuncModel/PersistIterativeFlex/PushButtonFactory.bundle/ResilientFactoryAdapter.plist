@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserInteraction</key>
+	<string>finishmultiplication</string>
+	<key>cosinecoord</key>
+	<string>channeldetector</string>
+	<key>crudeGestureDetector</key>
+	<string>skinDelay</string>
+	<key>lazyImage</key>
+	<string>directUseCase</string>
+	<key>spotAppearance</key>
+	<string>occasionInset</string>
+	<key>storyboardInset</key>
+	<string>textfieldActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureOrientation</key>
+	<string>contractionisolate</string>
+	<key>customBuffer</key>
+	<string>canStopInkWell</string>
+	<key>independentAction</key>
+	<string>skinborder</string>
+	<key>mainnib</key>
+	<string>sharedInteractor</string>
+	<key>oncontainertap</key>
+	<string>widgetTask</string>
+	<key>shouldFormatStoryboard</key>
+	<string>createBuffer</string>
+	<key>shouldSaveBrush</key>
+	<string>remainderwidget</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMaterial</key>
+	<string>wrapperskewx</string>
+	<key>backwardRecursion</key>
+	<string>subpixelFeedback</string>
+	<key>hasMusic</key>
+	<string>timelineState</string>
+	<key>shouldNotifyChecklist</key>
+	<string>advancedLabel</string>
+	<key>shouldRestartCustomPaint</key>
+	<string>resultvariablehue</string>
+	<key>skirtSpeed</key>
+	<string>moduleCount</string>
+	<key>uniformLoader</key>
+	<string>respectiveticker</string>
+</dict>
+</plist>

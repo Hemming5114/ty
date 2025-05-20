@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterchannel</key>
+	<string>zoneBehavior</string>
+	<key>commonCharacteristic</key>
+	<string>prepareMultiplication</string>
+	<key>commonShape</key>
+	<string>deserializeMember</string>
+	<key>frameoradapter</key>
+	<string>shouldDispatchCharacter</string>
+	<key>mobileAspect</key>
+	<string>canStreamEntropy</string>
+	<key>paddingOpacity</key>
+	<string>combineAllocator</string>
+	<key>stopallocator</key>
+	<string>fetchCursor</string>
+	<key>subtleDrawer</key>
+	<string>connectorCoord</string>
+	<key>tickerhead</key>
+	<string>canStartCatalyst</string>
+	<key>usageVisibility</key>
+	<string>popSwift</string>
+</dict>
+</plist>

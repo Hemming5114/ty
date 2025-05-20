@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fetchinjection</key>
+	<string>originalGraph</string>
+	<key>lazySlash</key>
+	<string>embedTimer</string>
+	<key>popupintegrity</key>
+	<string>schemaBound</string>
+	<key>seamlessCycle</key>
+	<string>sequentialSkirt</string>
+	<key>shouldNavigateSegment</key>
+	<string>canDecodeTangent</string>
+</dict>
+</plist>

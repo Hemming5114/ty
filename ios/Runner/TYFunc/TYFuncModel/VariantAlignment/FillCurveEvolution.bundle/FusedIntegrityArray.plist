@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDepth</key>
+	<string>skinMargin</string>
+	<key>difficultBrush</key>
+	<string>uniqueDecoration</string>
+	<key>memberBorder</key>
+	<string>canRenderContraction</string>
+	<key>modalContrast</key>
+	<string>loadpositioned</string>
+	<key>segmentHead</key>
+	<string>canUnmountCupertino</string>
+	<key>shouldRenderPageView</key>
+	<string>otherTriangles</string>
+	<key>shouldtransitionmission</key>
+	<string>normalEntropy</string>
+	<key>stringifychapter</key>
+	<string>hardAlert</string>
+	<key>sustainableStrength</key>
+	<string>endBuilder</string>
+</dict>
+</plist>

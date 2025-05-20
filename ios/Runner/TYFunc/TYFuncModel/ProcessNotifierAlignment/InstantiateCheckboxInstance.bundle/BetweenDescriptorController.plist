@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelstrigger</key>
+	<string>particleBound</string>
+	<key>elasticDispatcher</key>
+	<string>architectureCoord</string>
+	<key>elasticityedge</key>
+	<string>localSearcher</string>
+	<key>matrixstatebehavior</key>
+	<string>canPaintRow</string>
+	<key>opaqueEquivalent</key>
+	<string>resolveStorage</string>
+	<key>prismaticLoader</key>
+	<string>actionDuration</string>
+	<key>relationalMonster</key>
+	<string>utilTail</string>
+</dict>
+</plist>

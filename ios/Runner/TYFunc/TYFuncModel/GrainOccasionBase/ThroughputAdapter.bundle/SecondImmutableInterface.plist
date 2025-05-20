@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionDelay</key>
+	<string>pointCenter</string>
+	<key>delegatetool</key>
+	<string>concreteInstruction</string>
+	<key>denseRichText</key>
+	<string>plateBrightness</string>
+	<key>floatbutton</key>
+	<string>staticAlignment</string>
+	<key>prevVideo</key>
+	<string>replaceAsset</string>
+	<key>selectedNotification</key>
+	<string>canDismissCollection</string>
+	<key>shouldPublishStack</key>
+	<string>delicateOffset</string>
+	<key>shouldPushDescriptor</key>
+	<string>smallPublisher</string>
+	<key>statefulActivity</key>
+	<string>originalCallback</string>
+</dict>
+</plist>

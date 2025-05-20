@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioShade</key>
+	<string>mobilelifecycle</string>
+	<key>detachcontraction</key>
+	<string>widgetDistance</string>
+	<key>elasticityHead</key>
+	<string>sortedPadding</string>
+	<key>nodeviafacade</key>
+	<string>canDisposePoint</string>
+	<key>onplatechanged</key>
+	<string>resumeprofile</string>
+	<key>statefulVelocity</key>
+	<string>durationstageopacity</string>
+	<key>stepfacadepressure</key>
+	<string>extensionFormat</string>
+</dict>
+</plist>

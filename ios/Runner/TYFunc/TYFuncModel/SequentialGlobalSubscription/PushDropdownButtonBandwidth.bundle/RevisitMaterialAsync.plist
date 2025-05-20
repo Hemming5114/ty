@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerstatus</key>
+	<string>shouldUnbindProtocol</string>
+	<key>customizedInterpolation</key>
+	<string>lazyRouter</string>
+	<key>deserializesingleton</key>
+	<string>bulletattier</string>
+	<key>enabledAction</key>
+	<string>keyBatch</string>
+	<key>futurescheduler</key>
+	<string>loadinterpolation</string>
+	<key>itemTail</key>
+	<string>alphaShade</string>
+	<key>missedSine</key>
+	<string>shouldPresentMission</string>
+</dict>
+</plist>

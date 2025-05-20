@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTransparency</key>
+	<string>keepMusic</string>
+	<key>heaperror</key>
+	<string>canContinueCurve</string>
+	<key>materializerFlags</key>
+	<string>canPauseCoordinator</string>
+	<key>operationInterval</key>
+	<string>nativeStrength</string>
+	<key>persistentLabel</key>
+	<string>shouldCreateController</string>
+	<key>publisherLocation</key>
+	<string>dropdownbuttonParam</string>
+	<key>recursionPosition</key>
+	<string>usedDuration</string>
+	<key>shouldyieldcapacities</key>
+	<string>renderNavigator</string>
+</dict>
+</plist>

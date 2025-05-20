@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionactivitymomentum</key>
+	<string>frameForce</string>
+	<key>animatedcontainerResponse</key>
+	<string>shouldTransitionMatrix</string>
+	<key>datakind</key>
+	<string>parseAnimatedContainer</string>
+	<key>gridviewDensity</key>
+	<string>concurrentDistinction</string>
+	<key>observebitrate</key>
+	<string>sinkValue</string>
+	<key>resolveoperation</key>
+	<string>explicitUsage</string>
+</dict>
+</plist>

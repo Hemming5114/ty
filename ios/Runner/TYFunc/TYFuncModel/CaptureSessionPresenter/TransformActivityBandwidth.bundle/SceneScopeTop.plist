@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorLeft</key>
+	<string>cacheAppearance</string>
+	<key>difficultFinder</key>
+	<string>beginnerDelegate</string>
+	<key>retainedItem</key>
+	<string>informationRight</string>
+	<key>shouldNavigateBatch</key>
+	<string>matrixwidget</string>
+	<key>shouldYieldOption</key>
+	<string>reduceraboutprocess</string>
+	<key>uniqueRepository</key>
+	<string>shouldListenRow</string>
+</dict>
+</plist>

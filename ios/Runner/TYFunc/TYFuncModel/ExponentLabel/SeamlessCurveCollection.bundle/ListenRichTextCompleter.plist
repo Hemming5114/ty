@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationInset</key>
+	<string>flexibleMapper</string>
+	<key>batchbuilder</key>
+	<string>retainedChannels</string>
+	<key>compositionalTrigger</key>
+	<string>composableScene</string>
+	<key>eventreducer</key>
+	<string>relationalCurve</string>
+	<key>logsubscriber</key>
+	<string>setupLayer</string>
+	<key>painterthanstructure</key>
+	<string>optionStatus</string>
+	<key>smartticker</key>
+	<string>shouldUnmountedPoint</string>
+	<key>switchTail</key>
+	<string>certificateorenvironment</string>
+	<key>textureRight</key>
+	<string>sharedRow</string>
+</dict>
+</plist>

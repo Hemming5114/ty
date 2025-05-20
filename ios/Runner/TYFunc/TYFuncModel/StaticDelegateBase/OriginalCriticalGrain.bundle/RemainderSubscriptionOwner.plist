@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activescaffoldoffset</key>
+	<string>canCancelPageView</string>
+	<key>animationCount</key>
+	<string>continueMaterial</string>
+	<key>cubejobtop</key>
+	<string>shouldPresentTernary</string>
+	<key>dedicatedConsumer</key>
+	<string>equipmentOffset</string>
+	<key>normalAsset</key>
+	<string>bitrateSize</string>
+	<key>parallelTriangles</key>
+	<string>rotateDescription</string>
+	<key>presentercycleinset</key>
+	<string>remainderfilter</string>
+	<key>prevpaddingalignment</key>
+	<string>materialShade</string>
+	<key>reconcilecurve</key>
+	<string>logarithmSpacing</string>
+	<key>resizableMechanism</key>
+	<string>yieldMap</string>
+</dict>
+</plist>

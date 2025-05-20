@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionphaseborder</key>
+	<string>desktopGift</string>
+	<key>largeMonster</key>
+	<string>efficiencyBound</string>
+	<key>localtexture</key>
+	<string>nativeSine</string>
+	<key>pointAppearance</key>
+	<string>seamlessGate</string>
+	<key>secondResponse</key>
+	<string>priorCustomPaint</string>
+	<key>subsequentAllocator</key>
+	<string>mediumOperation</string>
+	<key>temporaryImpression</key>
+	<string>builderDistance</string>
+	<key>uniformOffset</key>
+	<string>canDisposeResource</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerVisibility</key>
+	<string>staticMission</string>
+	<key>permanentRouter</key>
+	<string>pauseroute</string>
+	<key>shouldInflateSemantics</key>
+	<string>disabledTabView</string>
+	<key>shouldprocessmodulus</key>
+	<string>flexibletitle</string>
+</dict>
+</plist>

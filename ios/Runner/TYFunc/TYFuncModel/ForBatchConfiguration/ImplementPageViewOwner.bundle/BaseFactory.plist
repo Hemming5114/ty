@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushvarskewy</key>
+	<string>throughputFrequency</string>
+	<key>declarativeElasticity</key>
+	<string>standalonescenekind</string>
+	<key>publicappbar</key>
+	<string>embedBuffer</string>
+	<key>shapeShade</key>
+	<string>canDispatchCupertino</string>
+	<key>specifyText</key>
+	<string>writeInterface</string>
+</dict>
+</plist>

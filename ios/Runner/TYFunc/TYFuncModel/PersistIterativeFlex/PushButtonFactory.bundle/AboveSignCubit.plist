@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSubscriber</key>
+	<string>nextDescent</string>
+	<key>agileMend</key>
+	<string>synchronousMapper</string>
+	<key>batchinteraction</key>
+	<string>undertakeAction</string>
+	<key>captionResponse</key>
+	<string>usageTask</string>
+	<key>dedicatedAscent</key>
+	<string>continueCycle</string>
+	<key>platealignment</key>
+	<string>shouldresumemaster</string>
+	<key>presentcompleter</key>
+	<string>persistentContainer</string>
+	<key>semanticAlignment</key>
+	<string>transitionMomentum</string>
+	<key>shouldUnmountAperture</key>
+	<string>canDisposeRole</string>
+</dict>
+</plist>

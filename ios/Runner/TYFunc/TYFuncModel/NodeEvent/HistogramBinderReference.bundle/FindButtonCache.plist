@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePadding</key>
+	<string>deserializeCupertino</string>
+	<key>cupertinoMenu</key>
+	<string>missedWidget</string>
+	<key>liteConstant</key>
+	<string>persistentAudio</string>
+	<key>shouldAttachExponent</key>
+	<string>upgradeAllocator</string>
+	<key>tentativeFlags</key>
+	<string>touchValidation</string>
+	<key>textfielddepth</key>
+	<string>criticalEmitter</string>
+	<key>usedScope</key>
+	<string>completionTension</string>
+</dict>
+</plist>

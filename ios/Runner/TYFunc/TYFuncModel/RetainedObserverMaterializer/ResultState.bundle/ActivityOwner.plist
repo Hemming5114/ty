@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentnearcommand</key>
+	<string>listenrichtext</string>
+	<key>dynamicTable</key>
+	<string>sliderInset</string>
+	<key>isBatch</key>
+	<string>transformerhue</string>
+	<key>loopscope</key>
+	<string>transposelistview</string>
+	<key>pageviewPadding</key>
+	<string>staticVideo</string>
+	<key>parallelexponent</key>
+	<string>parallelMerger</string>
+	<key>persistentInfrastructure</key>
+	<string>iterativeTrigger</string>
+	<key>shouldDeserializeBase</key>
+	<string>dedicatedgradient</string>
+	<key>shouldLoadAnimation</key>
+	<string>customMetadata</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateless</key>
+	<string>textureleft</string>
+	<key>constraintstate</key>
+	<string>currentthreadfrequency</string>
+	<key>geometricPager</key>
+	<string>alignmentTier</string>
+	<key>islabel</key>
+	<string>canLoadReference</string>
+	<key>reactiveOption</key>
+	<string>ignoredMerger</string>
+	<key>sortedMetrics</key>
+	<string>queuesystemdistance</string>
+</dict>
+</plist>

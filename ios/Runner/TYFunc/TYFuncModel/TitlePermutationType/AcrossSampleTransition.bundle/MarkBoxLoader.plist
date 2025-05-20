@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyversusfacade</key>
+	<string>restartMedia</string>
+	<key>frameStatus</key>
+	<string>canTransformNavigation</string>
+	<key>layoutfeature</key>
+	<string>prevreliability</string>
+	<key>reactiveSwitch</key>
+	<string>arithmeticEffect</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSingleton</key>
+	<string>interfacecontainscope</string>
+	<key>basicNotifier</key>
+	<string>usedSemantics</string>
+	<key>callbacktheme</key>
+	<string>firstDetail</string>
+	<key>capacityLeft</key>
+	<string>assetAction</string>
+	<key>channelsForce</key>
+	<string>serializeEffect</string>
+	<key>sounddepth</key>
+	<string>inflateSubpixel</string>
+	<key>trajectoryStatus</key>
+	<string>delicatetabbar</string>
+</dict>
+</plist>

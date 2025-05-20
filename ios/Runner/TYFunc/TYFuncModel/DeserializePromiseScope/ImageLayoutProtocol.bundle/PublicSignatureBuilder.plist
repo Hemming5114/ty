@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteTopic</key>
+	<string>euclideanItem</string>
+	<key>readnib</key>
+	<string>shouldCreateObserver</string>
+	<key>standaloneRadio</key>
+	<string>queueBehavior</string>
+	<key>unbindmission</key>
+	<string>subscribeKernel</string>
+</dict>
+</plist>

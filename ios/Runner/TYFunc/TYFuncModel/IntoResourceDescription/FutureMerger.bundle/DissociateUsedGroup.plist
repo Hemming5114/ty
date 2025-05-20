@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastDensity</key>
+	<string>chapterScale</string>
+	<key>hyperbolicNavigation</key>
+	<string>textversusnumber</string>
+	<key>lastTernary</key>
+	<string>yieldTheme</string>
+	<key>selectedlistview</key>
+	<string>cosineResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacktypestate</key>
+	<string>iconatform</string>
+	<key>deferredAmortization</key>
+	<string>replacebloc</string>
+	<key>deserializescene</key>
+	<string>staticCupertino</string>
+	<key>diffableAnalyzer</key>
+	<string>beginnerSelector</string>
+	<key>imperativeIndicator</key>
+	<string>subscriptionContext</string>
+	<key>interactorRate</key>
+	<string>geometricController</string>
+	<key>painteractivityoffset</key>
+	<string>largeBinder</string>
+	<key>presentertriangles</key>
+	<string>shouldEndMediaQuery</string>
+	<key>rolefeedback</key>
+	<string>factoryBound</string>
+</dict>
+</plist>

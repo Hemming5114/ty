@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInterpolation</key>
+	<string>semanticInfrastructure</string>
+	<key>ignoredMaster</key>
+	<string>fusedStoryboard</string>
+	<key>indicatorBottom</key>
+	<string>serializeplate</string>
+	<key>labelnotation</key>
+	<string>canDecodeSpecifier</string>
+	<key>monsterinfo</key>
+	<string>activateInjection</string>
+	<key>normAlignment</key>
+	<string>unmountCapsule</string>
+	<key>revisittransformer</key>
+	<string>agileGram</string>
+	<key>transformerbyproxy</key>
+	<string>shouldLoadMap</string>
+	<key>transformstack</key>
+	<string>transposeInterface</string>
+	<key>wrapperShape</key>
+	<string>equipmentState</string>
+</dict>
+</plist>

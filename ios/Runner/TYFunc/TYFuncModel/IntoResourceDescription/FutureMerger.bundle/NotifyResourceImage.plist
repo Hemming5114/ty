@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorTint</key>
+	<string>chapterParam</string>
+	<key>invisiblePageView</key>
+	<string>textureScale</string>
+	<key>permanentResource</key>
+	<string>subsequentGem</string>
+	<key>quaternionName</key>
+	<string>impactTheme</string>
+	<key>shouldParseTool</key>
+	<string>streamClipper</string>
+	<key>tentativeopacity</key>
+	<string>swiftPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogySaturation</key>
+	<string>requestContrast</string>
+	<key>grouppolyfill</key>
+	<string>blocintegration</string>
+	<key>liteEntity</key>
+	<string>singleScaffold</string>
+	<key>shouldUnbindBatch</key>
+	<string>easySound</string>
+</dict>
+</plist>

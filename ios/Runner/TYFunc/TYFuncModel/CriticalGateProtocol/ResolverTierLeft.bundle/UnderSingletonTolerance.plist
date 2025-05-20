@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLeft</key>
+	<string>activatedScalability</string>
+	<key>musiczone</key>
+	<string>encodeGem</string>
+	<key>requiredLayer</key>
+	<string>statelessSelector</string>
+	<key>routeMode</key>
+	<string>cancelDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcharacteristic</key>
+	<string>tickerEnvironment</string>
+	<key>bloccharacteristic</key>
+	<string>heroindex</string>
+	<key>callbackDuration</key>
+	<string>emitNotification</string>
+	<key>cartesianMargin</key>
+	<string>sensorType</string>
+	<key>easyVariant</key>
+	<string>prevCharacter</string>
+	<key>featurelayerstyle</key>
+	<string>augmentVector</string>
+	<key>hardslider</key>
+	<string>customSlash</string>
+	<key>hasmission</key>
+	<string>fillGraph</string>
+	<key>tabviewStyle</key>
+	<string>ephemeralScheduler</string>
+</dict>
+</plist>

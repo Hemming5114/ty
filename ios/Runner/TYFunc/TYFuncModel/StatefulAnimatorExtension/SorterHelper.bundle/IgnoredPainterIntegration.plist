@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOrientation</key>
+	<string>crudeCompletion</string>
+	<key>compositionslider</key>
+	<string>attachstream</string>
+	<key>cursorlikelevel</key>
+	<string>makeDependency</string>
+	<key>metadataRight</key>
+	<string>standaloneShader</string>
+	<key>methodcommandvalidation</key>
+	<string>mediocreIntegrity</string>
+	<key>requiredContrast</key>
+	<string>shouldDispatchSwitch</string>
+	<key>skinDuration</key>
+	<string>shaderedge</string>
+	<key>storyboardFlags</key>
+	<string>accordionCompletion</string>
+	<key>typicalWrapper</key>
+	<string>removeAnimation</string>
+</dict>
+</plist>

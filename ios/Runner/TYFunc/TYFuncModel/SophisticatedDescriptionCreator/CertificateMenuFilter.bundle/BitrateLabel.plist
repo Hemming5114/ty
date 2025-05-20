@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNib</key>
+	<string>sanitizeDependency</string>
+	<key>immutableInteractor</key>
+	<string>disconnectTechnique</string>
+	<key>iterativeIcon</key>
+	<string>beginnerIsolate</string>
+	<key>materialPolygon</key>
+	<string>decodeIsolate</string>
+	<key>mediumTentative</key>
+	<string>futureBorder</string>
+	<key>similarmetadata</key>
+	<string>similarslider</string>
+</dict>
+</plist>

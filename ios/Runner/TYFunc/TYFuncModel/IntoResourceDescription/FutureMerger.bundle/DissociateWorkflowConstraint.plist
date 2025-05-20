@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedexpandedbrightness</key>
+	<string>basicRoute</string>
+	<key>heroinfrastructure</key>
+	<string>measureChannel</string>
+	<key>multiView</key>
+	<string>canSaveUnary</string>
+	<key>navigatorpressure</key>
+	<string>liteRemediation</string>
+	<key>shouldProcessScroll</key>
+	<string>shouldBindDescriptor</string>
+	<key>shouldPublishOperation</key>
+	<string>synchronousBuilder</string>
+</dict>
+</plist>

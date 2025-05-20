@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateOperation</key>
+	<string>custompaintDecorator</string>
+	<key>normalVideo</key>
+	<string>startSample</string>
+	<key>recursionacceleration</key>
+	<string>sharedSelector</string>
+	<key>shouldUpdateNotifier</key>
+	<string>fixedCreator</string>
+	<key>tensornotificationdistance</key>
+	<string>filterOrientation</string>
+</dict>
+</plist>

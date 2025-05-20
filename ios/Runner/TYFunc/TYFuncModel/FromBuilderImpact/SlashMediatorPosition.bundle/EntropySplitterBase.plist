@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubpixel</key>
+	<string>zoneVelocity</string>
+	<key>addcomposition</key>
+	<string>fillEvent</string>
+	<key>checklistinterpretertransparency</key>
+	<string>audioMode</string>
+	<key>decorationduringproxy</key>
+	<string>canAnimateResource</string>
+	<key>intensityvisible</key>
+	<string>desktopCapsule</string>
+	<key>isolateTop</key>
+	<string>isBoxShadow</string>
+	<key>robustSwift</key>
+	<string>completerName</string>
+	<key>symbolposition</key>
+	<string>progressbarSingleton</string>
+	<key>widgetForce</key>
+	<string>gesturedetectorvolume</string>
+</dict>
+</plist>

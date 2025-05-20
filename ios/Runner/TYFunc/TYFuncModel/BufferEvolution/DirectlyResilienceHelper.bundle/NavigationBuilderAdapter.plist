@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitieshue</key>
+	<string>capacitiesfilter</string>
+	<key>dropoutbox</key>
+	<string>cupertinoPressure</string>
+	<key>newestVariant</key>
+	<string>shouldRebuildBloc</string>
+	<key>publicrouter</key>
+	<string>imageoffset</string>
+	<key>shouldShowCapsule</key>
+	<string>chapterCenter</string>
+	<key>tappableNib</key>
+	<string>isnotifier</string>
+</dict>
+</plist>

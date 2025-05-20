@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyDelegate</key>
+	<string>ephemeralVolume</string>
+	<key>staticIntegration</key>
+	<string>immediateItem</string>
+	<key>ternaryshape</key>
+	<string>shouldUnmountedButton</string>
+	<key>uniquesubscriptiontension</key>
+	<string>decorationexceptstructure</string>
+</dict>
+</plist>

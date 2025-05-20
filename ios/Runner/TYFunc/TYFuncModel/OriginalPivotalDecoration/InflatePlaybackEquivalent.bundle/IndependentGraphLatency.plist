@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicframestatus</key>
+	<string>detachSpot</string>
+	<key>relationaldialogs</key>
+	<string>maintainLayer</string>
+	<key>shouldcontinueslider</key>
+	<string>validateShader</string>
+	<key>sortedContraction</key>
+	<string>skirtTail</string>
+	<key>tweakappearance</key>
+	<string>shouldEmitCursor</string>
+	<key>uniformGraph</key>
+	<string>canDeserializeTable</string>
+</dict>
+</plist>

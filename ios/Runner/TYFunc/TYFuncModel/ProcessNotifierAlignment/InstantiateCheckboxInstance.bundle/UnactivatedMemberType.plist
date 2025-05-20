@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushadapterrate</key>
+	<string>curvechainspacing</string>
+	<key>bufferCenter</key>
+	<string>checkResult</string>
+	<key>dedicatedresult</key>
+	<string>smallprojection</string>
+	<key>delicateTask</key>
+	<string>nativeChannel</string>
+	<key>encodedocument</key>
+	<string>attachRadius</string>
+	<key>localizationscale</key>
+	<string>touchRect</string>
+	<key>shouldLayoutOptimizer</key>
+	<string>unsortedstream</string>
+	<key>synchronousOperation</key>
+	<string>publishPromise</string>
+</dict>
+</plist>

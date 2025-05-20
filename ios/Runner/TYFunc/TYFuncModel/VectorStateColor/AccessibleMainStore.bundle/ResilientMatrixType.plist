@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAmortization</key>
+	<string>processorOrigin</string>
+	<key>globalStroke</key>
+	<string>compositionalRect</string>
+	<key>istransition</key>
+	<string>introspectCurve</string>
+	<key>shouldReplaceSample</key>
+	<string>shouldDetachExtension</string>
+</dict>
+</plist>

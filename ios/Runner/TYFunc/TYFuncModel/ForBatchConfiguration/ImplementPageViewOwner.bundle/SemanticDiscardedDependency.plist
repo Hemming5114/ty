@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentflags</key>
+	<string>onsegmentchanged</string>
+	<key>dedicatedProtocol</key>
+	<string>viewworkorientation</string>
+	<key>hyperboliccelltype</key>
+	<string>multiplicationFrequency</string>
+	<key>reactiveAperture</key>
+	<string>spineMethod</string>
+	<key>signatureexcepttask</key>
+	<string>largeFragment</string>
+	<key>startequipment</key>
+	<string>storyboardEdge</string>
+</dict>
+</plist>

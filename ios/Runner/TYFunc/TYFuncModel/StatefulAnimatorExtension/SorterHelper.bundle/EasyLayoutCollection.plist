@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMend</key>
+	<string>synchronousConsumer</string>
+	<key>ephemeralTransformer</key>
+	<string>storageTail</string>
+	<key>factoryName</key>
+	<string>animatedSwift</string>
+	<key>featureTheme</key>
+	<string>statestate</string>
+	<key>fusedMetrics</key>
+	<string>canCacheUsage</string>
+	<key>permutationfeedback</key>
+	<string>transitionSkewY</string>
+	<key>primaryAudio</key>
+	<string>isolateTask</string>
+	<key>shouldProcessPadding</key>
+	<string>concurrentMechanism</string>
+	<key>shouldTransformConsumer</key>
+	<string>containerNumber</string>
+	<key>significantprovideredge</key>
+	<string>canUpdateMonster</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableShape</key>
+	<string>retainedCatalyst</string>
+	<key>frameoutsidestrategy</key>
+	<string>visibleSkin</string>
+	<key>functionalEntropy</key>
+	<string>shouldLayoutDecoration</string>
+	<key>interactiveScroller</key>
+	<string>semanticScene</string>
+	<key>shouldDispatchCharacter</key>
+	<string>spinemargin</string>
+	<key>shouldrendernotification</key>
+	<string>canKeepSemantics</string>
+	<key>signaudio</key>
+	<string>onanchortap</string>
+	<key>statefulListener</key>
+	<string>concreteSymbol</string>
+	<key>substantialModel</key>
+	<string>substantialException</string>
+</dict>
+</plist>

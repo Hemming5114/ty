@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicIsolate</key>
+	<string>responseHue</string>
+	<key>missedVertex</key>
+	<string>controllerTemple</string>
+	<key>popupRight</key>
+	<string>makeDelegate</string>
+	<key>shouldBuildBullet</key>
+	<string>shouldEndSegue</string>
+	<key>shouldValidateSegment</key>
+	<string>stringifyBuilder</string>
+	<key>sustainableException</key>
+	<string>animatedcontainerParam</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTime</key>
+	<string>frameDistance</string>
+	<key>hyperbolicPublisher</key>
+	<string>bandwidthResponse</string>
+	<key>largeTable</key>
+	<string>findPreview</string>
+	<key>poolheap</key>
+	<string>temporarySpine</string>
+	<key>signatureevaluation</key>
+	<string>taskcompositerate</string>
+</dict>
+</plist>

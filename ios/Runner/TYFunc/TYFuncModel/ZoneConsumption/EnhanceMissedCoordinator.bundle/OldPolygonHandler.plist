@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationoutsidepattern</key>
+	<string>shouldDeserializeCertificate</string>
+	<key>arithmeticBinder</key>
+	<string>renameText</string>
+	<key>displayableConfiguration</key>
+	<string>chooserRate</string>
+	<key>initializemetadata</key>
+	<string>mutableGram</string>
+	<key>oldObject</key>
+	<string>beginnerCycle</string>
+	<key>requiredalertorigin</key>
+	<string>cupertinoSubscriber</string>
+	<key>scenarioPadding</key>
+	<string>histogramFramework</string>
+	<key>screenbridgeborder</key>
+	<string>consultativeArithmetic</string>
+	<key>synchronizebullet</key>
+	<string>searcherDirection</string>
+</dict>
+</plist>

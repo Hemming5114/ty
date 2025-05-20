@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPadding</key>
+	<string>dedicatedTime</string>
+	<key>drawerStyle</key>
+	<string>navigationInset</string>
+	<key>heapformat</key>
+	<string>comprehensiveTabView</string>
+	<key>independentevent</key>
+	<string>enabledActivity</string>
+	<key>mediumDetector</key>
+	<string>shouldReplaceCaption</string>
+	<key>otherzone</key>
+	<string>replaceThread</string>
+	<key>shouldcachecoordinator</key>
+	<string>concurrentfactory</string>
+	<key>smartMusic</key>
+	<string>pushSign</string>
+	<key>timeSpacing</key>
+	<string>soundState</string>
+</dict>
+</plist>

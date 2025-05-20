@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionprovider</key>
+	<string>statelessDependency</string>
+	<key>channelsSkewX</key>
+	<string>routerRate</string>
+	<key>formatValidation</key>
+	<string>cellDirection</string>
+	<key>hyperbolicPriority</key>
+	<string>shouldDismissArithmetic</string>
+	<key>originalalignmentposition</key>
+	<string>moveCoordinator</string>
+	<key>reactiveEmitter</key>
+	<string>extendcoordinator</string>
+	<key>reactiveMedia</key>
+	<string>lastRemediation</string>
+	<key>shouldDisposeConvolution</key>
+	<string>capsuleProxy</string>
+	<key>unmountoffset</key>
+	<string>symmetricRectangle</string>
+</dict>
+</plist>

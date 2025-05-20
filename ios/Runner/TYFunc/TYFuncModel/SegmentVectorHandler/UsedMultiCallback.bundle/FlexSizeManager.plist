@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsofjob</key>
+	<string>transpileAction</string>
+	<key>defaultpromise</key>
+	<string>emitIsolate</string>
+	<key>directRecursion</key>
+	<string>advancedintensityspeed</string>
+	<key>shouldFormatGram</key>
+	<string>mainNotifier</string>
+	<key>statefulBitrate</key>
+	<string>shouldRebuildRoute</string>
+	<key>visibleSorter</key>
+	<string>resizableWidget</string>
+</dict>
+</plist>

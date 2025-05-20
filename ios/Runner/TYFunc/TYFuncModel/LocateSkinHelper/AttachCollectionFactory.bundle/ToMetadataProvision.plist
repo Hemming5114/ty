@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledOverlay</key>
+	<string>persistentAnimatedContainer</string>
+	<key>impactTag</key>
+	<string>notifierBottom</string>
+	<key>oldRequest</key>
+	<string>pendingDuration</string>
+	<key>stacktaskfeedback</key>
+	<string>delegateNavigator</string>
+</dict>
+</plist>

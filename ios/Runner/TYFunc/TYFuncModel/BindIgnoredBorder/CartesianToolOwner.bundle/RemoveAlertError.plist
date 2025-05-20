@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constructpresenter</key>
+	<string>shouldKeepPageView</string>
+	<key>enabledgraphshape</key>
+	<string>shouldRebuildAperture</string>
+	<key>imperativeConsumer</key>
+	<string>canDeserializeEffect</string>
+	<key>publisherflags</key>
+	<string>nativeStatus</string>
+	<key>typicalScale</key>
+	<string>overrideTask</string>
+</dict>
+</plist>

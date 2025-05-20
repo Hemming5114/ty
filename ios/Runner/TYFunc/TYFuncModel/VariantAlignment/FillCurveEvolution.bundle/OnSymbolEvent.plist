@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDepth</key>
+	<string>brushLayer</string>
+	<key>geometricBaseline</key>
+	<string>touchreducer</string>
+	<key>immutableBitrate</key>
+	<string>minSlash</string>
+	<key>listenresource</key>
+	<string>observeListView</string>
+	<key>navigatorResponse</key>
+	<string>syncextension</string>
+	<key>protectedCluster</key>
+	<string>granularQuaternion</string>
+</dict>
+</plist>

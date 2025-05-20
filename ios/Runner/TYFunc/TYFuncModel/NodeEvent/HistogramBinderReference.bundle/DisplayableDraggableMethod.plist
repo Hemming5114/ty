@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>moduleInterval</key>
+	<string>mainAsync</string>
+	<key>multiMatrix</key>
+	<string>backwardSchema</string>
+	<key>shouldTransitionSkirt</key>
+	<string>shouldNavigatePadding</string>
+	<key>taxonomySkewX</key>
+	<string>granularSine</string>
+	<key>traversalContrast</key>
+	<string>unsortedStore</string>
+</dict>
+</plist>

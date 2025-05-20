@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRenderer</key>
+	<string>concurrentprovider</string>
+	<key>cursorforbuffer</key>
+	<string>arithmeticStateless</string>
+	<key>elasticLoop</key>
+	<string>directlyAlert</string>
+	<key>modalamongfunction</key>
+	<string>resetAlignment</string>
+	<key>oldFeature</key>
+	<string>densecubeflags</string>
+	<key>responsiveVideo</key>
+	<string>custompaintInterval</string>
+	<key>shouldEmitCompletion</key>
+	<string>certificateShape</string>
+	<key>threadactionsize</key>
+	<string>widgetagainstkind</string>
+</dict>
+</plist>

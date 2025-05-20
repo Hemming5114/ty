@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCollection</key>
+	<string>denseService</string>
+	<key>delicateData</key>
+	<string>nodeshade</string>
+	<key>deploytransition</key>
+	<string>effectPrototype</string>
+	<key>localWidget</key>
+	<string>disabledAsync</string>
+	<key>mobileactionorigin</key>
+	<string>eventOpacity</string>
+	<key>musictag</key>
+	<string>tappableAlignment</string>
+	<key>shouldTransformTechnique</key>
+	<string>segmentstorage</string>
+	<key>singletonSkewY</key>
+	<string>geometricExponent</string>
+</dict>
+</plist>

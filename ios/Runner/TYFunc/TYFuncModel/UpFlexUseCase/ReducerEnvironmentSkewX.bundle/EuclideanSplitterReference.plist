@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPlate</key>
+	<string>serializemetadata</string>
+	<key>draggableCompleter</key>
+	<string>anchorContrast</string>
+	<key>independentImage</key>
+	<string>shouldLoadAlpha</string>
+	<key>lostContainer</key>
+	<string>paintStateful</string>
+	<key>originalLinker</key>
+	<string>traversalSaturation</string>
+	<key>requestgrid</key>
+	<string>sorterColor</string>
+	<key>resourcevisibility</key>
+	<string>retainedColor</string>
+	<key>shouldPauseFlex</key>
+	<string>undertakeSink</string>
+	<key>shouldobservematrix</key>
+	<string>shouldUpdateBase</string>
+	<key>uniformBox</key>
+	<string>resettheme</string>
+</dict>
+</plist>

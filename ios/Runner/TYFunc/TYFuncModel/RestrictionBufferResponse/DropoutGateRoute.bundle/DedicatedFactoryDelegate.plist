@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePageView</key>
+	<string>aspectTransparency</string>
+	<key>attachrepository</key>
+	<string>sustainablePublisher</string>
+	<key>diffableNavigator</key>
+	<string>commonFormat</string>
+	<key>labelalongtier</key>
+	<string>rectangleDensity</string>
+	<key>onthreadtap</key>
+	<string>normalVector</string>
+	<key>pagerSkewX</key>
+	<string>executeMetadata</string>
+	<key>rapidAsset</key>
+	<string>canFetchWidget</string>
+	<key>shouldRebuildCompletion</key>
+	<string>pendingSubpixel</string>
+	<key>shouldValidateCompletion</key>
+	<string>decodeCanvas</string>
+</dict>
+</plist>

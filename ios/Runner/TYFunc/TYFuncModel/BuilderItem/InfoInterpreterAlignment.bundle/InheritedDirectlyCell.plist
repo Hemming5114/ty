@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopItem</key>
+	<string>layerAlignment</string>
+	<key>immediateGram</key>
+	<string>restoregraph</string>
+	<key>intermediateLayout</key>
+	<string>managerJob</string>
+	<key>mainController</key>
+	<string>concreteShape</string>
+	<key>mediocreChooser</key>
+	<string>invisibleIsolate</string>
+	<key>onradiotap</key>
+	<string>playInteractor</string>
+	<key>orchestrategridview</key>
+	<string>accordionSignature</string>
+	<key>prevLinker</key>
+	<string>uniformPager</string>
+	<key>serviceShape</key>
+	<string>deferredconvolution</string>
+	<key>spriteSize</key>
+	<string>disposeArithmetic</string>
+</dict>
+</plist>

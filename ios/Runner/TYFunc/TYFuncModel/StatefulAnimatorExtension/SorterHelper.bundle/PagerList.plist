@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintagainstvar</key>
+	<string>embedTask</string>
+	<key>delegateOrigin</key>
+	<string>shouldSubscribeAppBar</string>
+	<key>hasPainter</key>
+	<string>synchronousAsset</string>
+	<key>localDuration</key>
+	<string>popMaster</string>
+	<key>shouldKeepPlayback</key>
+	<string>shouldPersistDuration</string>
+</dict>
+</plist>

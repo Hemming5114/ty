@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthVisibility</key>
+	<string>providerChain</string>
+	<key>gemthreshold</key>
+	<string>explicitImpression</string>
+	<key>hardProgressBar</key>
+	<string>analyzerAcceleration</string>
+	<key>interactiveRole</key>
+	<string>finderstyle</string>
+	<key>pivotaltweencenter</key>
+	<string>gesturedetectorMethod</string>
+	<key>respectivelogsaturation</key>
+	<string>contrastTheme</string>
+	<key>statelessCard</key>
+	<string>shouldSerializeCatalyst</string>
+</dict>
+</plist>

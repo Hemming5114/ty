@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalLayout</key>
+	<string>relationalAsset</string>
+	<key>masterDistance</key>
+	<string>shouldSkipChecklist</string>
+	<key>missedBandwidth</key>
+	<string>apertureProcess</string>
+	<key>navigatorobject</key>
+	<string>canDisconnectProfile</string>
+	<key>primarySpecifier</key>
+	<string>selectorTint</string>
+	<key>radiusbottom</key>
+	<string>fillDuration</string>
+	<key>shouldEncodeStep</key>
+	<string>shouldBuildHeap</string>
+	<key>shouldRenderPageView</key>
+	<string>shouldFormatScreen</string>
+	<key>shouldTransitionEqualization</key>
+	<string>alignmentAction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindactivity</key>
+	<string>smallTentative</string>
+	<key>crucialCatalyst</key>
+	<string>canBindOptimizer</string>
+	<key>detachnavigation</key>
+	<string>cardBottom</string>
+	<key>discardedRole</key>
+	<string>sustainableMission</string>
+	<key>firstMaterializer</key>
+	<string>flexibleStrength</string>
+	<key>flexKind</key>
+	<string>sharedCompleter</string>
+</dict>
+</plist>

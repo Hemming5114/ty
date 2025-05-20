@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSelector</key>
+	<string>shouldattachmedia</string>
+	<key>declarativeCanvas</key>
+	<string>originalcapacitiesshade</string>
+	<key>decorationacceleration</key>
+	<string>graphdepth</string>
+	<key>directresponder</key>
+	<string>listeneradapterscale</string>
+	<key>shouldFetchBullet</key>
+	<string>taxonomyDuration</string>
+	<key>stoplabel</key>
+	<string>canTrainSemantics</string>
+	<key>subtlecallback</key>
+	<string>shouldResumeSpecifier</string>
+	<key>symmetricIsolate</key>
+	<string>fragmentBehavior</string>
+</dict>
+</plist>

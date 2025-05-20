@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyCluster</key>
+	<string>directDecoration</string>
+	<key>dropdownbuttonbandwidth</key>
+	<string>gemFeedback</string>
+	<key>managerexceptvariable</key>
+	<string>cupertinoResilience</string>
+	<key>markbox</key>
+	<string>techniquethroughparameter</string>
+	<key>reusableamortization</key>
+	<string>materializerTag</string>
+	<key>scalestate</key>
+	<string>segmentSize</string>
+	<key>shouldpushgate</key>
+	<string>shouldCreateTransition</string>
+	<key>substantialThreshold</key>
+	<string>alignmentPosition</string>
+</dict>
+</plist>

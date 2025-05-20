@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRecursion</key>
+	<string>shouldEmitGridView</string>
+	<key>animateview</key>
+	<string>canDismissStamp</string>
+	<key>chooserIndex</key>
+	<string>publicScale</string>
+	<key>encodewidget</key>
+	<string>seamlessMusic</string>
+	<key>pinchableStep</key>
+	<string>distinctionCount</string>
+	<key>primaryMenu</key>
+	<string>benchmarkCompleter</string>
+	<key>shouldPaintCheckbox</key>
+	<string>canEndAlpha</string>
+	<key>shouldRenderBoxShadow</key>
+	<string>streamAlert</string>
+	<key>similarmediaquerykind</key>
+	<string>canPersistRemainder</string>
+	<key>statelessMetadata</key>
+	<string>firstAmortization</string>
+</dict>
+</plist>

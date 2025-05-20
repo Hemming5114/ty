@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityOffset</key>
+	<string>indicatorCount</string>
+	<key>comprehensiveTheme</key>
+	<string>permanentTolerance</string>
+	<key>enddecoration</key>
+	<string>loaderBorder</string>
+	<key>scopeRate</key>
+	<string>permanentStream</string>
+	<key>timelineBorder</key>
+	<string>significantsearcher</string>
+</dict>
+</plist>

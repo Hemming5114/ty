@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceShape</key>
+	<string>primaryFuture</string>
+	<key>interpolatemomentum</key>
+	<string>transformSink</string>
+	<key>labelbuffersaturation</key>
+	<string>rowSkewX</string>
+	<key>mediumpreview</key>
+	<string>mediaFormat</string>
+	<key>parallelMediaQuery</key>
+	<string>processTexture</string>
+	<key>tableCount</key>
+	<string>isTabBar</string>
+	<key>techniqueinbridge</key>
+	<string>disposeSwitch</string>
+	<key>unsortedGift</key>
+	<string>custompaintDirection</string>
+	<key>utilalignment</key>
+	<string>loaderposition</string>
+</dict>
+</plist>

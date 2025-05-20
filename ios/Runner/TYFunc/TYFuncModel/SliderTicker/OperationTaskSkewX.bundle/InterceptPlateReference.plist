@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertSpeed</key>
+	<string>canCancelTask</string>
+	<key>associatedChallenge</key>
+	<string>routerProxy</string>
+	<key>callbackpressure</key>
+	<string>constructEntity</string>
+	<key>explicitRequest</key>
+	<string>canDeserializeFlex</string>
+	<key>materialBitrate</key>
+	<string>notifierBehavior</string>
+	<key>pointContrast</key>
+	<string>canSerializeMaster</string>
+	<key>resultkindinteraction</key>
+	<string>searcherForce</string>
+	<key>segueSkewX</key>
+	<string>basicView</string>
+	<key>shouldPersistActivity</key>
+	<string>metadataCount</string>
+	<key>stepoffset</key>
+	<string>shouldDisposeSwift</string>
+</dict>
+</plist>

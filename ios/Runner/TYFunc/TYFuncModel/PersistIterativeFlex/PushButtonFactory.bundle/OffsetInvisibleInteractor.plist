@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDensity</key>
+	<string>searchAsset</string>
+	<key>crucialMargin</key>
+	<string>disconnectrequest</string>
+	<key>rapidBinary</key>
+	<string>exceptionDelay</string>
+	<key>resumeexpanded</key>
+	<string>ignoredSpine</string>
+	<key>shouldDispatchPlayback</key>
+	<string>serializeCell</string>
+	<key>shouldSubscribeTransition</key>
+	<string>rapidJoiner</string>
+</dict>
+</plist>

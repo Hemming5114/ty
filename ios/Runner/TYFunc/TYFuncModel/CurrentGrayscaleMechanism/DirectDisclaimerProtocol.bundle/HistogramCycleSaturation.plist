@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorFeedback</key>
+	<string>imageName</string>
+	<key>fetchslider</key>
+	<string>shouldLayoutLogarithm</string>
+	<key>injectaction</key>
+	<string>zoneCoord</string>
+	<key>lastUseCase</key>
+	<string>pushTheme</string>
+	<key>objectSaturation</key>
+	<string>specifyArchitecture</string>
+	<key>opaqueUseCase</key>
+	<string>delicateGrain</string>
+	<key>relationalMobile</key>
+	<string>resourceInterval</string>
+	<key>shouldUpdateStateless</key>
+	<string>originalConfidentiality</string>
+	<key>usedDelegate</key>
+	<string>animatestamp</string>
+</dict>
+</plist>

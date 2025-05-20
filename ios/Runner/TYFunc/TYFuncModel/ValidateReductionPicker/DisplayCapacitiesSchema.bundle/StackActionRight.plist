@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectioncontrast</key>
+	<string>typicalIndicator</string>
+	<key>frameOrientation</key>
+	<string>entitychooser</string>
+	<key>parsecosine</key>
+	<string>similarChannel</string>
+	<key>preparefactory</key>
+	<string>customreference</string>
+	<key>replicaTint</key>
+	<string>disabledAsset</string>
+	<key>samplebuilder</key>
+	<string>sustainableAppBar</string>
+	<key>scrollableHistogram</key>
+	<string>singleStroke</string>
+</dict>
+</plist>

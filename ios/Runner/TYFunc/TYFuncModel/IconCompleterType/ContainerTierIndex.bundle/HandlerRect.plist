@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentModule</key>
+	<string>optionDirection</string>
+	<key>multiChooser</key>
+	<string>streamflyweightbottom</string>
+	<key>newestMaterializer</key>
+	<string>semanticPainter</string>
+	<key>permanentAnimation</key>
+	<string>shouldFetchAppBar</string>
+	<key>sensortype</key>
+	<string>interpolationedge</string>
+	<key>shouldDismissStep</key>
+	<string>priorBrush</string>
+	<key>sliderTint</key>
+	<string>ignoredPolyfill</string>
+	<key>subscribeanimation</key>
+	<string>cubeAction</string>
+</dict>
+</plist>

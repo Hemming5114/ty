@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>celllikenumber</key>
+	<string>modalParam</string>
+	<key>radiusalignment</key>
+	<string>groupbuffertint</string>
+	<key>referenceKind</key>
+	<string>unbindBox</string>
+	<key>spotnearflyweight</key>
+	<string>toleranceName</string>
+</dict>
+</plist>

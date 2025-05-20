@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateclipper</key>
+	<string>canEncodeSegue</string>
+	<key>instructionStatus</key>
+	<string>sessionRate</string>
+	<key>notificationinterpreterleft</key>
+	<string>shouldRenderNotification</string>
+	<key>shouldDispatchAlert</key>
+	<string>isBorder</string>
+	<key>smallzonedensity</key>
+	<string>selectedsine</string>
+	<key>specifierShade</key>
+	<string>characteroffset</string>
+	<key>statefulutil</key>
+	<string>yieldAspect</string>
+	<key>swiftvisible</key>
+	<string>emitmission</string>
+</dict>
+</plist>

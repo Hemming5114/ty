@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customStream</key>
+	<string>isinterpolation</string>
+	<key>disparateRole</key>
+	<string>retrievePosition</string>
+	<key>missedLayout</key>
+	<string>pinchableDetector</string>
+	<key>opaquePet</key>
+	<string>zoneborder</string>
+	<key>requestdecoratortension</key>
+	<string>stringifyUtil</string>
+	<key>shouldPauseBox</key>
+	<string>shouldShowSemantics</string>
+	<key>shouldSubscribePlate</key>
+	<string>rectInteraction</string>
+	<key>subscribeaction</key>
+	<string>optionParam</string>
+</dict>
+</plist>

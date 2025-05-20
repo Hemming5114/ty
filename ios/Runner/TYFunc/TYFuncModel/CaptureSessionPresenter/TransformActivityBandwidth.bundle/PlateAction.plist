@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisinsidestage</key>
+	<string>shouldStartChallenge</string>
+	<key>customCallback</key>
+	<string>bitrateFlyweight</string>
+	<key>immutableStamp</key>
+	<string>canUnmountedNotifier</string>
+	<key>modaldescription</key>
+	<string>storeName</string>
+	<key>pickerBorder</key>
+	<string>equalizationcenter</string>
+	<key>statefulProvider</key>
+	<string>shouldskipcolumn</string>
+	<key>visibleEmitter</key>
+	<string>storyboardCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderfrequency</key>
+	<string>smartScreen</string>
+	<key>criticallogarithm</key>
+	<string>shouldDispatchAxis</string>
+	<key>defaulttabbar</key>
+	<string>singleContrast</string>
+	<key>detachrouter</key>
+	<string>tabbarobject</string>
+	<key>graphicMomentum</key>
+	<string>anchorSingleton</string>
+	<key>musicinsidefunction</key>
+	<string>accessibleButton</string>
+	<key>paddingdistance</key>
+	<string>shouldDismissDocument</string>
+</dict>
+</plist>

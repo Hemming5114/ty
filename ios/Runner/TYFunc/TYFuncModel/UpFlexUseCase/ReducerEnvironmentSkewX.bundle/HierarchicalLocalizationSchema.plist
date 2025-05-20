@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRadius</key>
+	<string>gesturethroughactivity</string>
+	<key>ascentType</key>
+	<string>sharedSubscriber</string>
+	<key>criticalInfo</key>
+	<string>cellNumber</string>
+	<key>immediateAlert</key>
+	<string>tensorSkin</string>
+	<key>inactiveCreator</key>
+	<string>canResumeSkirt</string>
+	<key>mobileDispatcher</key>
+	<string>sophisticatedEffect</string>
+	<key>shouldRebuildWidget</key>
+	<string>shouldAttachActivity</string>
+	<key>temporarySignature</key>
+	<string>displayableRow</string>
+</dict>
+</plist>

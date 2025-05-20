@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsBound</key>
+	<string>inheritedPermutation</string>
+	<key>composableColor</key>
+	<string>stepComposite</string>
+	<key>cosineDelay</key>
+	<string>unmarshalRect</string>
+	<key>easyData</key>
+	<string>scrollablemethod</string>
+	<key>handlerfactory</key>
+	<string>tappablenavigator</string>
+	<key>interactorCenter</key>
+	<string>splitterHue</string>
+	<key>rectanglePressure</key>
+	<string>shouldFetchLogarithm</string>
+	<key>scrollableStateful</key>
+	<string>blocShade</string>
+	<key>shouldDisposeConstraint</key>
+	<string>primaryrect</string>
+	<key>webEvolution</key>
+	<string>carddelay</string>
+</dict>
+</plist>

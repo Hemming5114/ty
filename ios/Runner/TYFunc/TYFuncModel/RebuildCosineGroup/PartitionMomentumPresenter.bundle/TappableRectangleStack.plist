@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicbaselinerate</key>
+	<string>visitLocalization</string>
+	<key>otherState</key>
+	<string>reusableModule</string>
+	<key>prismaticReplica</key>
+	<string>cellPhase</string>
+	<key>wrapperborder</key>
+	<string>configureDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedallocatororientation</key>
+	<string>othersizemode</string>
+	<key>disclaimerDelay</key>
+	<string>shouldKeepMovement</string>
+	<key>functionalSplitter</key>
+	<string>cupertinoThroughput</string>
+	<key>hashslider</key>
+	<string>splittersize</string>
+	<key>shouldLayoutDuration</key>
+	<string>navigationPhase</string>
+	<key>utilKind</key>
+	<string>channelsTint</string>
+</dict>
+</plist>

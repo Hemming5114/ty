@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulusOrigin</key>
+	<string>canDispatchMedia</string>
+	<key>primaryListView</key>
+	<string>eagerTrigger</string>
+	<key>shouldEncodeDuration</key>
+	<string>pauseCard</string>
+	<key>significantSorter</key>
+	<string>statehue</string>
+	<key>skirtHue</key>
+	<string>fetchSkin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBinary</key>
+	<string>resilientSlider</string>
+	<key>compositionalPadding</key>
+	<string>rapidTime</string>
+	<key>ignoredScaffold</key>
+	<string>shouldRebuildMember</string>
+	<key>momentumContrast</key>
+	<string>memberTail</string>
+	<key>prevTopic</key>
+	<string>resizablePlayback</string>
+	<key>reactiveStateless</key>
+	<string>subtleAsync</string>
+	<key>shouldSubscribeAccessory</key>
+	<string>columnPhase</string>
+</dict>
+</plist>

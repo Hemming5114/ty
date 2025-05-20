@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorrotation</key>
+	<string>shouldProcessOverlay</string>
+	<key>dedicatedanimation</key>
+	<string>flexSpeed</string>
+	<key>elasticNavigation</key>
+	<string>presenterSpeed</string>
+	<key>nodebinder</key>
+	<string>painterComposite</string>
+	<key>remainderandactivity</key>
+	<string>semanticMatrix</string>
+	<key>shouldProcessConsumer</key>
+	<string>regulateContainer</string>
+</dict>
+</plist>

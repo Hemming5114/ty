@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGrayscale</key>
+	<string>canPopHero</string>
+	<key>flexibleSession</key>
+	<string>ephemeralCatalyst</string>
+	<key>primaryconsumption</key>
+	<string>shouldAttachDescriptor</string>
+	<key>prismaticAnalyzer</key>
+	<string>commonGrayscale</string>
+	<key>promisestream</key>
+	<string>associatedSubscriber</string>
+	<key>shouldPublishExtension</key>
+	<string>completerRotation</string>
+	<key>shouldSerializeGestureDetector</key>
+	<string>switchPadding</string>
+	<key>tensorView</key>
+	<string>canRestartInteger</string>
+</dict>
+</plist>

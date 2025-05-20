@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInstruction</key>
+	<string>dynamicSkirt</string>
+	<key>boxshadowAppearance</key>
+	<string>canPrepareNotification</string>
+	<key>implementgrid</key>
+	<string>shouldLoadWidget</string>
+	<key>shouldParseMediaQuery</key>
+	<string>inheritedMaterial</string>
+	<key>smallHandler</key>
+	<string>canRouteBullet</string>
+	<key>specifydecorationmode</key>
+	<string>instructionconsumer</string>
+	<key>tappableView</key>
+	<string>shouldConnectUnary</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationtail</key>
+	<string>adaptiveTrigger</string>
+	<key>consultativeBatch</key>
+	<string>immediateCollection</string>
+	<key>defaultGraphic</key>
+	<string>canStartEquipment</string>
+	<key>directAspectRatio</key>
+	<string>shouldPresentShader</string>
+	<key>dynamicItem</key>
+	<string>remediationVisible</string>
+	<key>greatRow</key>
+	<string>mediocreTextField</string>
+	<key>profileIndex</key>
+	<string>shouldResumeRoute</string>
+	<key>slidertension</key>
+	<string>canSetStateSign</string>
+</dict>
+</plist>

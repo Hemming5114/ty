@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystqueue</key>
+	<string>shouldPaintPromise</string>
+	<key>cubeMode</key>
+	<string>difficultgrain</string>
+	<key>fusedEvolution</key>
+	<string>layerresponse</string>
+	<key>nativeHistogram</key>
+	<string>routerBuffer</string>
+</dict>
+</plist>

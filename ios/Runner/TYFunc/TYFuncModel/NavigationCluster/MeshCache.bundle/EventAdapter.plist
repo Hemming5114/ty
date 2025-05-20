@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeservice</key>
+	<string>seamlessNorm</string>
+	<key>clearnavigator</key>
+	<string>cacheScale</string>
+	<key>concurrentStamp</key>
+	<string>createProvider</string>
+	<key>desktopBitrate</key>
+	<string>offsetStream</string>
+	<key>eagerLayout</key>
+	<string>responseOffset</string>
+	<key>gridwithvisitor</key>
+	<string>propagateWidget</string>
+	<key>shouldSubscribeLoss</key>
+	<string>subtleOccasion</string>
+	<key>staticSegue</key>
+	<string>canDecodeBaseline</string>
+	<key>webInfrastructure</key>
+	<string>canTrainInterpolation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthleft</key>
+	<string>shouldDisconnectTernary</string>
+	<key>crucialloader</key>
+	<string>canDecodePromise</string>
+	<key>shouldPauseStoryboard</key>
+	<string>explicitMetrics</string>
+	<key>subtleAspectRatio</key>
+	<string>commonRenderer</string>
+</dict>
+</plist>

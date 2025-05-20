@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredtweenvalidation</key>
+	<string>adaptiveInfo</string>
+	<key>elasticFeature</key>
+	<string>canDeserializeAperture</string>
+	<key>featureframeworkspacing</key>
+	<string>bandwidthHead</string>
+	<key>kernelInterval</key>
+	<string>unbindAspectRatio</string>
+	<key>optimizerdescription</key>
+	<string>startProtocol</string>
+	<key>otherAscent</key>
+	<string>delegateAsset</string>
+	<key>shouldPauseController</key>
+	<string>captionaction</string>
+</dict>
+</plist>

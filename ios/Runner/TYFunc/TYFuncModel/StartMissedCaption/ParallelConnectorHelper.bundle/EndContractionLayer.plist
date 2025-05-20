@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationResponse</key>
+	<string>modulusMethod</string>
+	<key>lifecycleCount</key>
+	<string>showStep</string>
+	<key>multivertex</key>
+	<string>canvasforminteraction</string>
+	<key>scrollerSkewY</key>
+	<string>rowTheme</string>
+	<key>shouldSetStateDialogs</key>
+	<string>sceneTop</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultAspectRatio</key>
+	<string>creatorShape</string>
+	<key>documentFormat</key>
+	<string>errorStatus</string>
+	<key>missedVolume</key>
+	<string>signatureLayer</string>
+	<key>shouldDecodeRichText</key>
+	<string>previewSpeed</string>
+	<key>shouldemitheap</key>
+	<string>seamlessAnimatedContainer</string>
+	<key>shouldreplacedelegate</key>
+	<string>dialogstop</string>
+</dict>
+</plist>

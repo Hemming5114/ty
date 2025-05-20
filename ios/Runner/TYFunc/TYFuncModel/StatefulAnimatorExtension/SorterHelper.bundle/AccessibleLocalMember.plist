@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransformer</key>
+	<string>shouldSkipAspect</string>
+	<key>hasCollection</key>
+	<string>stringifyController</string>
+	<key>shouldTransformSkirt</key>
+	<string>shouldContinueBorder</string>
+</dict>
+</plist>

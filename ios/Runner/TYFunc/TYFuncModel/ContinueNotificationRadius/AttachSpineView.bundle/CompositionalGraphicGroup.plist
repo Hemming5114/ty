@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTransformer</key>
+	<string>fetchSine</string>
+	<key>animationStyle</key>
+	<string>indicatorFrequency</string>
+	<key>bitratecount</key>
+	<string>storyboardStage</string>
+	<key>criticalconfigurationalignment</key>
+	<string>shouldNavigateTool</string>
+	<key>interactorincludelayer</key>
+	<string>layoutHead</string>
+	<key>reducerfrequency</key>
+	<string>ephemeralJoiner</string>
+	<key>resilientCurve</key>
+	<string>inflateEvent</string>
+	<key>shouldSkipSine</key>
+	<string>nativeInteraction</string>
+	<key>shouldmountalert</key>
+	<string>sampleOrigin</string>
+	<key>tableName</key>
+	<string>matrixDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectmerger</key>
+	<string>arithmeticAnimator</string>
+	<key>basicternaryshape</key>
+	<string>tappableInjection</string>
+	<key>delegatecoord</key>
+	<string>wrapRequest</string>
+	<key>eagerSpecifier</key>
+	<string>reduceFeature</string>
+	<key>enumeratelabel</key>
+	<string>queueShade</string>
+	<key>extensionservice</key>
+	<string>currentdialogs</string>
+	<key>metadataInset</key>
+	<string>backwardMethod</string>
+	<key>scrollablepetborder</key>
+	<string>mobilefunctiondirection</string>
+	<key>specifiernavigator</key>
+	<string>characteristicCenter</string>
+	<key>startresult</key>
+	<string>entropyTail</string>
+</dict>
+</plist>

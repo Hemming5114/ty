@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPicker</key>
+	<string>websensor</string>
+	<key>compositionalAwait</key>
+	<string>shouldRenderTabBar</string>
+	<key>ephemeralDrawer</key>
+	<string>modulusinsidecycle</string>
+	<key>hasAperture</key>
+	<string>interpolateBuilder</string>
+	<key>interfaceOpacity</key>
+	<string>baselineorientation</string>
+	<key>mediaqueryIndex</key>
+	<string>audioFormat</string>
+	<key>navigatoroutsidephase</key>
+	<string>shouldLoadLabel</string>
+	<key>requestHue</key>
+	<string>significantLinker</string>
+	<key>shouldupdateview</key>
+	<string>clearDependency</string>
+</dict>
+</plist>

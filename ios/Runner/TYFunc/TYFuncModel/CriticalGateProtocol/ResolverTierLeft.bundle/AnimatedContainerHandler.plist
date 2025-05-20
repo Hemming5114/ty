@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseMechanism</key>
+	<string>hasTernary</string>
+	<key>mutableGestureDetector</key>
+	<string>detectorSaturation</string>
+	<key>radioVisibility</key>
+	<string>grainCommand</string>
+	<key>selectedScroll</key>
+	<string>nodeMemento</string>
+	<key>synchronousSubpixel</key>
+	<string>attachaxis</string>
+</dict>
+</plist>

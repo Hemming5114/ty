@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGradient</key>
+	<string>functionalLoader</string>
+	<key>adaptiveProfile</key>
+	<string>canBindRichText</string>
+	<key>arithmeticType</key>
+	<string>materializecoordinator</string>
+	<key>fetchexception</key>
+	<string>registerCoordinator</string>
+	<key>iterativeProgressBar</key>
+	<string>functionalSprite</string>
+	<key>statusFeedback</key>
+	<string>opaqueConsumer</string>
+	<key>textfieldelement</key>
+	<string>convolutionProcess</string>
+	<key>tweenmaterial</key>
+	<string>textfieldSkewX</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynccontextvisibility</key>
+	<string>informationCount</string>
+	<key>difficultInterface</key>
+	<string>detachGram</string>
+	<key>missedGraphic</key>
+	<string>connectShader</string>
+	<key>navigatescene</key>
+	<string>navigationOffset</string>
+	<key>rapidaccessory</key>
+	<string>semanticNode</string>
+	<key>shouldEmitMediaQuery</key>
+	<string>shouldUnmountMaster</string>
+</dict>
+</plist>

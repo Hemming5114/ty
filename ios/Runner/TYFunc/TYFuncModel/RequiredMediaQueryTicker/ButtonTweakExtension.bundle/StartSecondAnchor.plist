@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedEquipment</key>
+	<string>shouldTransformSubpixel</string>
+	<key>immediateMetrics</key>
+	<string>reusableWorkflow</string>
+	<key>lastRichText</key>
+	<string>methodAction</string>
+	<key>numericalpopupinterval</key>
+	<string>robustContrast</string>
+	<key>shouldConnectUnary</key>
+	<string>buffermodebottom</string>
+	<key>shouldPushText</key>
+	<string>petCommand</string>
+	<key>significantUtil</key>
+	<string>disconnectShader</string>
+</dict>
+</plist>

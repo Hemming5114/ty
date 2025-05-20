@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentTransparency</key>
+	<string>marginSize</string>
+	<key>kernelalignment</key>
+	<string>rapidNorm</string>
+	<key>modulusBottom</key>
+	<string>cycleMomentum</string>
+	<key>shouldPersistBuilder</key>
+	<string>declarativePoint</string>
+	<key>storyboardscenario</key>
+	<string>mixinModel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCapacity</key>
+	<string>profileVisibility</string>
+	<key>clipperinfunction</key>
+	<string>statelessColumn</string>
+	<key>customizedColor</key>
+	<string>discardedTable</string>
+	<key>ignoredBorder</key>
+	<string>customizedConfidentiality</string>
+	<key>progressbarSize</key>
+	<string>backwardMerger</string>
+	<key>shouldLoadOperation</key>
+	<string>parseAnimation</string>
+	<key>symbolloop</key>
+	<string>plateVar</string>
+	<key>symmetricResource</key>
+	<string>transitionFragment</string>
+</dict>
+</plist>

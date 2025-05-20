@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTopic</key>
+	<string>shadervariablebrightness</string>
+	<key>deferredBorder</key>
+	<string>accessiblehandler</string>
+	<key>measureunary</key>
+	<string>canMountedPageView</string>
+	<key>serializequeue</key>
+	<string>pushLabel</string>
+	<key>storyboardfilter</key>
+	<string>compositionalResponder</string>
+	<key>webError</key>
+	<string>asynchronouspadding</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDelay</key>
+	<string>specifyScaffold</string>
+	<key>captionedge</key>
+	<string>primaryInteraction</string>
+	<key>exponentaction</key>
+	<string>transpiletransformer</string>
+	<key>integervisible</key>
+	<string>tabviewDelay</string>
+	<key>shouldNotifyCaption</key>
+	<string>canUpdateScroll</string>
+</dict>
+</plist>

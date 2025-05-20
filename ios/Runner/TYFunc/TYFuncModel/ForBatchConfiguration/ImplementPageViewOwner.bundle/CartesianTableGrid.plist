@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvecommandflags</key>
+	<string>interactiveSpine</string>
+	<key>freegram</key>
+	<string>largeTexture</string>
+	<key>grayscaleScale</key>
+	<string>ternaryWork</string>
+	<key>hierarchicalImage</key>
+	<string>animatorResponse</string>
+	<key>requiredHandler</key>
+	<string>custompaintAcceleration</string>
+	<key>resolverviaactivity</key>
+	<string>texturecoord</string>
+	<key>rowasphase</key>
+	<string>touchPressure</string>
+	<key>seamlessRichText</key>
+	<string>shouldSavePadding</string>
+	<key>synchronousGestureDetector</key>
+	<string>typicalBox</string>
+</dict>
+</plist>

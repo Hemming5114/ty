@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegategroup</key>
+	<string>serviceviashape</string>
+	<key>imageTransparency</key>
+	<string>constantTheme</string>
+	<key>prevTextField</key>
+	<string>semanticsSize</string>
+	<key>shouldYieldController</key>
+	<string>multiNotifier</string>
+	<key>uniformnode</key>
+	<string>normalPositioned</string>
+	<key>uniqueGesture</key>
+	<string>memberMomentum</string>
+</dict>
+</plist>

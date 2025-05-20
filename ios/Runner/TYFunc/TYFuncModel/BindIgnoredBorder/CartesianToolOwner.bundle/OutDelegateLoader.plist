@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintamongprototype</key>
+	<string>canNavigateTabBar</string>
+	<key>greatPositioned</key>
+	<string>semanticElasticity</string>
+	<key>numericalJoiner</key>
+	<string>materialmodelcount</string>
+	<key>resetalignment</key>
+	<string>threadFrequency</string>
+	<key>schemahead</key>
+	<string>animationPlatform</string>
+</dict>
+</plist>

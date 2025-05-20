@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveUtil</key>
+	<string>formatbottom</string>
+	<key>clusterValidation</key>
+	<string>resumeEqualization</string>
+	<key>cupertinoLoss</key>
+	<string>shouldHandleOptimizer</string>
+	<key>mapresult</key>
+	<string>mobileUtil</string>
+	<key>permissivePreview</key>
+	<string>streamGram</string>
+	<key>publicreducer</key>
+	<string>tablelevelopacity</string>
+	<key>shouldShowOperation</key>
+	<string>scrollformcenter</string>
+	<key>stampmend</key>
+	<string>pushNode</string>
+</dict>
+</plist>

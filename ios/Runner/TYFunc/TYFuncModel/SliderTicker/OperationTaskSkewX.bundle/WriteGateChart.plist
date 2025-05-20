@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalfactory</key>
+	<string>smartCollection</string>
+	<key>desktopAscent</key>
+	<string>priorNotification</string>
+	<key>nodescopefrequency</key>
+	<string>roleMemento</string>
+	<key>permutationShade</key>
+	<string>embraceGraph</string>
+	<key>responderMode</key>
+	<string>maintainProgressBar</string>
+	<key>shouldTransitionNavigator</key>
+	<string>dropoutAction</string>
+	<key>statelessWrapper</key>
+	<string>shouldSaveMovement</string>
+</dict>
+</plist>

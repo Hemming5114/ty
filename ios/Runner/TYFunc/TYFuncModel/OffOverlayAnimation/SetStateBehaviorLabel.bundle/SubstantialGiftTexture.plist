@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicVector</key>
+	<string>canSkipSemantics</string>
+	<key>normalScroller</key>
+	<string>shouldPersistBehavior</string>
+	<key>playbackinset</key>
+	<string>directlystatelesstension</string>
+	<key>providerfromactivity</key>
+	<string>canAttachMission</string>
+	<key>shouldContinueConstraint</key>
+	<string>wrapperColor</string>
+	<key>shouldemitarithmetic</key>
+	<string>independentSubpixel</string>
+	<key>stateFlags</key>
+	<string>buildBloc</string>
+	<key>sustainableAsset</key>
+	<string>onlosstap</string>
+</dict>
+</plist>

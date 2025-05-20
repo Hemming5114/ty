@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiestheme</key>
+	<string>unbindPlayback</string>
+	<key>collectionBrightness</key>
+	<string>canPublishGrayscale</string>
+	<key>evolutionFeedback</key>
+	<string>keyAperture</string>
+	<key>numericalPlayback</key>
+	<string>alignmentStrategy</string>
+	<key>permanentdecoration</key>
+	<string>tabviewBottom</string>
+	<key>persistentInstruction</key>
+	<string>regulateCompleter</string>
+	<key>polygonTag</key>
+	<string>discardedShape</string>
+	<key>shouldKeepIcon</key>
+	<string>dialogsformtheme</string>
+</dict>
+</plist>

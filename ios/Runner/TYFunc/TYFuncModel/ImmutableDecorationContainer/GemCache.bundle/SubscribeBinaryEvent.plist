@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEqualization</key>
+	<string>disabledMethod</string>
+	<key>elasticityvelocity</key>
+	<string>utilMediator</string>
+	<key>firstGrayscale</key>
+	<string>sanitizeContainer</string>
+	<key>immediateCapsule</key>
+	<string>saveDimension</string>
+	<key>mobileBehavior</key>
+	<string>dependencyAcceleration</string>
+	<key>shouldUnmountedRadio</key>
+	<string>shouldRestartStream</string>
+	<key>unactivatedVariant</key>
+	<string>declarativeResolver</string>
+</dict>
+</plist>

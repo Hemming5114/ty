@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerflags</key>
+	<string>stepoutsidefacade</string>
+	<key>fixedMedia</key>
+	<string>staticformat</string>
+	<key>imagearoundbridge</key>
+	<string>lazystreamtheme</string>
+	<key>integerdelay</key>
+	<string>sineEdge</string>
+	<key>persistentCluster</key>
+	<string>canShowHeap</string>
+	<key>scaffoldparamcolor</key>
+	<string>mixinZone</string>
+	<key>taxonomyBottom</key>
+	<string>sophisticatedActivity</string>
+</dict>
+</plist>

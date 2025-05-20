@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlocation</key>
+	<string>playbackStructure</string>
+	<key>cupertinoChart</key>
+	<string>routeStage</string>
+	<key>displayableInteractor</key>
+	<string>logstate</string>
+	<key>iconOrientation</key>
+	<string>singletonRate</string>
+	<key>inheritedEqualization</key>
+	<string>clipperbylevel</string>
+	<key>notifierAlignment</key>
+	<string>directMusic</string>
+	<key>providertheme</key>
+	<string>inactiveGraph</string>
+	<key>shouldRouteResource</key>
+	<string>sensorTag</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalStateless</key>
+	<string>matrixVar</string>
+	<key>inheritedDocument</key>
+	<string>subtlePresenter</string>
+	<key>normalongtask</key>
+	<string>connectPrecision</string>
+	<key>shouldLayoutShader</key>
+	<string>borderorchain</string>
+	<key>uniqueOffset</key>
+	<string>injectFrame</string>
+</dict>
+</plist>

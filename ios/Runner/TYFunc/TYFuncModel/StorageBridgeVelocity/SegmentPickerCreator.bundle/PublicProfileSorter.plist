@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discovergrid</key>
+	<string>loadCycle</string>
+	<key>optionResponse</key>
+	<string>layoutstrategyalignment</string>
+	<key>providersorter</key>
+	<string>canBindBrush</string>
+	<key>sequentialManager</key>
+	<string>pickerborder</string>
+	<key>sequentialTrajectory</key>
+	<string>viewCycle</string>
+	<key>shouldPausePageView</key>
+	<string>currentequivalent</string>
+	<key>similarTechnique</key>
+	<string>particleNumber</string>
+	<key>unsortedSubscription</key>
+	<string>similarChecklist</string>
+</dict>
+</plist>

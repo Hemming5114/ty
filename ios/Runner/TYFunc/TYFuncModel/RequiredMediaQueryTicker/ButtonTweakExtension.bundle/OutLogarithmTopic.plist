@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioninteractorname</key>
+	<string>usedAction</string>
+	<key>cupertinovariableflags</key>
+	<string>shouldDisposeFragment</string>
+	<key>dialogsoperationbehavior</key>
+	<string>quantizationConstraint</string>
+	<key>notationScale</key>
+	<string>variantDensity</string>
+	<key>numericalstate</key>
+	<string>temporaryJoiner</string>
+	<key>reductionRotation</key>
+	<string>semanticMechanism</string>
+	<key>texturePadding</key>
+	<string>shouldNotifyStack</string>
+	<key>viewcontroller</key>
+	<string>usedRange</string>
+</dict>
+</plist>

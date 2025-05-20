@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOptimizer</key>
+	<string>rebuildHistogram</string>
+	<key>iconName</key>
+	<string>canBuildDrawer</string>
+	<key>intensityfromstyle</key>
+	<string>paintStateful</string>
+	<key>litePolygon</key>
+	<string>ignoredSlider</string>
+	<key>makeinjection</key>
+	<string>functionalView</string>
+	<key>materialStatus</key>
+	<string>updateReducer</string>
+	<key>titleascent</key>
+	<string>usedstate</string>
+</dict>
+</plist>

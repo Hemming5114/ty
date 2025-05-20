@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityColor</key>
+	<string>flexibleStack</string>
+	<key>discardedCubit</key>
+	<string>curveCenter</string>
+	<key>gridHue</key>
+	<string>bitratevideo</string>
+	<key>immediatePolygon</key>
+	<string>memberOperation</string>
+	<key>independentGraphic</key>
+	<string>variantTint</string>
+	<key>inheritedNavigation</key>
+	<string>shouldPaintTabBar</string>
+	<key>layerScale</key>
+	<string>canUnmountBase</string>
+	<key>publicPlayback</key>
+	<string>delicateRouter</string>
+	<key>shouldUnmountedSpine</key>
+	<string>pinchableGraph</string>
+</dict>
+</plist>

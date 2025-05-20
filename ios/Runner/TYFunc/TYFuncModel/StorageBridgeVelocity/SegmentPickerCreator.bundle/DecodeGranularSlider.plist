@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocduration</key>
+	<string>displayTween</string>
+	<key>instructionTension</key>
+	<string>displayableObject</string>
+	<key>localEvaluation</key>
+	<string>toolHue</string>
+	<key>providervarcolor</key>
+	<string>lastMatrix</string>
+	<key>shouldDetachTabView</key>
+	<string>canSetStateNorm</string>
+	<key>significantPosition</key>
+	<string>flexibleSelector</string>
+</dict>
+</plist>

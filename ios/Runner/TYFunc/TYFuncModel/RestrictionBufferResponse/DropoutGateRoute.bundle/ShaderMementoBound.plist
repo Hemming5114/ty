@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedChecklist</key>
+	<string>similarbaselinebrightness</string>
+	<key>infoValidation</key>
+	<string>alignmentAppearance</string>
+	<key>logvisibility</key>
+	<string>denseGrain</string>
+	<key>shouldLoadContainer</key>
+	<string>curvefromwork</string>
+</dict>
+</plist>

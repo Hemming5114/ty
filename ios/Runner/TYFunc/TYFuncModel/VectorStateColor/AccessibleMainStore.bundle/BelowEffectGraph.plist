@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileResource</key>
+	<string>thresholdSaturation</string>
+	<key>alphathankind</key>
+	<string>petBorder</string>
+	<key>autoresponse</key>
+	<string>screenInterval</string>
+	<key>inheritedCluster</key>
+	<string>canTransitionSensor</string>
+	<key>lockrow</key>
+	<string>greatcontrollertheme</string>
+	<key>materialReduction</key>
+	<string>fillService</string>
+	<key>shouldRouteSignature</key>
+	<string>dialogslistener</string>
+	<key>sophisticatedmodelresponse</key>
+	<string>backwardOperation</string>
+</dict>
+</plist>

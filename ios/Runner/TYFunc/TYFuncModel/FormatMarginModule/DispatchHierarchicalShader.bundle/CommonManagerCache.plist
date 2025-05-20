@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateResource</key>
+	<string>monstertransformer</string>
+	<key>enabledSorter</key>
+	<string>factoryAcceleration</string>
+	<key>shouldDisposeSwitch</key>
+	<string>publicTriangles</string>
+	<key>shouldEncodeNotification</key>
+	<string>canDecodeContraction</string>
+	<key>shouldInflateDuration</key>
+	<string>sharedStroke</string>
+	<key>viewfeedback</key>
+	<string>deserializeAppBar</string>
+</dict>
+</plist>

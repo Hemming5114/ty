@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDispatcher</key>
+	<string>temporaryCell</string>
+	<key>fusedVector</key>
+	<string>mutableObserver</string>
+	<key>injectionformat</key>
+	<string>shouldDismissCache</string>
+	<key>otherPager</key>
+	<string>shouldFinishFragment</string>
+	<key>requiredScalability</key>
+	<string>cardDistance</string>
+	<key>routercycletheme</key>
+	<string>declarativeAsync</string>
+	<key>shouldTransformCanvas</key>
+	<string>canPrepareSwitch</string>
+</dict>
+</plist>

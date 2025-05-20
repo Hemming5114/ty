@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCluster</key>
+	<string>disparateSine</string>
+	<key>normalQuaternion</key>
+	<string>canPaintBrush</string>
+	<key>radioAlignment</key>
+	<string>analyzePosition</string>
+	<key>semanticbuilder</key>
+	<string>modelParameter</string>
+</dict>
+</plist>

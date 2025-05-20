@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTrajectory</key>
+	<string>substantialMonster</string>
+	<key>customNotation</key>
+	<string>stampstorage</string>
+	<key>featureTag</key>
+	<string>nextSegue</string>
+	<key>flexibleUnary</key>
+	<string>basicAnimatedContainer</string>
+	<key>hasRemainder</key>
+	<string>gridviewMomentum</string>
+	<key>searcherInset</key>
+	<string>paddingAction</string>
+	<key>selectedanimation</key>
+	<string>beginneranchor</string>
+	<key>statescheduler</key>
+	<string>uniqueReliability</string>
+	<key>unactivatedGrid</key>
+	<string>navigateNode</string>
+</dict>
+</plist>

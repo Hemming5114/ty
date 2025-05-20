@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryStyle</key>
+	<string>tweenacceleration</string>
+	<key>hierarchicalSwift</key>
+	<string>semanticimage</string>
+	<key>navigatespine</key>
+	<string>composableScreen</string>
+	<key>secondNib</key>
+	<string>upgradeCallback</string>
+	<key>shouldEndEntropy</key>
+	<string>vertexDuration</string>
+	<key>shouldHandleSwitch</key>
+	<string>sequentialOccasion</string>
+</dict>
+</plist>

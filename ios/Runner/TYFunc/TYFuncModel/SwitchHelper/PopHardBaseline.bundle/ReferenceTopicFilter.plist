@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonvectorinteraction</key>
+	<string>associateFrame</string>
+	<key>featureAlignment</key>
+	<string>checkboxRate</string>
+	<key>persistentPromise</key>
+	<string>persistentsine</string>
+	<key>pushdecoration</key>
+	<string>notifyWidget</string>
+	<key>shouldUnmountedEntropy</key>
+	<string>diversifiedConnector</string>
+	<key>statelessCertificate</key>
+	<string>cartesianMetrics</string>
+	<key>unmountsingleton</key>
+	<string>staticProvision</string>
+</dict>
+</plist>

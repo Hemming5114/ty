@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledCube</key>
+	<string>canInflateSession</string>
+	<key>normalmatrix</key>
+	<string>minConsumer</string>
+	<key>similarSchema</key>
+	<string>accessibleRestriction</string>
+	<key>spriteDistance</key>
+	<string>toolaudio</string>
+	<key>storyboardvisitortheme</key>
+	<string>granularCoordinator</string>
+</dict>
+</plist>

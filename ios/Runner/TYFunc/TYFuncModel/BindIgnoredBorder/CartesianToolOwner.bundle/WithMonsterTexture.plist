@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintskewy</key>
+	<string>spotFlyweight</string>
+	<key>directAsset</key>
+	<string>standaloneBehavior</string>
+	<key>lostTabView</key>
+	<string>methodMemento</string>
+	<key>numericalConsumer</key>
+	<string>concreteResolver</string>
+	<key>shouldKeepDelegate</key>
+	<string>masterFacade</string>
+	<key>usecaseborder</key>
+	<string>providervisibility</string>
+</dict>
+</plist>

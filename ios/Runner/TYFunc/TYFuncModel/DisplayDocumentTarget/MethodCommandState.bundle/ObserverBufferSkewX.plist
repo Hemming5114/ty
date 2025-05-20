@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionArithmetic</key>
+	<string>bufferoffset</string>
+	<key>composableGrayscale</key>
+	<string>zoneFlags</string>
+	<key>flexibleDistinction</key>
+	<string>canKeepBase</string>
+	<key>impressionContrast</key>
+	<string>unmarshalGrain</string>
+	<key>mobileFrequency</key>
+	<string>parseGrain</string>
+	<key>secondRichText</key>
+	<string>shouldParseCell</string>
+	<key>shouldHandleActivity</key>
+	<string>viewchainorientation</string>
+	<key>titlebrightness</key>
+	<string>paintvariant</string>
+</dict>
+</plist>

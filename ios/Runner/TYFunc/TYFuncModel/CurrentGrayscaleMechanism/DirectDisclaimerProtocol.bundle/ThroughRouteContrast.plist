@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteAudio</key>
+	<string>graphicJob</string>
+	<key>interactorstate</key>
+	<string>displayablestoragebrightness</string>
+	<key>largeCard</key>
+	<string>minTask</string>
+	<key>lastCell</key>
+	<string>shouldPopGestureDetector</string>
+	<key>shouldProcessProtocol</key>
+	<string>releaseService</string>
+</dict>
+</plist>

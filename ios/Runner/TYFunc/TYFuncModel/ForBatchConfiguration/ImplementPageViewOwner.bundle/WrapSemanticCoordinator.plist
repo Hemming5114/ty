@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStyle</key>
+	<string>resilientAscent</string>
+	<key>bufferthroughbridge</key>
+	<string>decodeInterpolation</string>
+	<key>cartesianTrajectory</key>
+	<string>findIntensity</string>
+	<key>ephemeralInformation</key>
+	<string>shapeName</string>
+	<key>ephemeralVolume</key>
+	<string>arithmeticprovider</string>
+	<key>intuitiveStep</key>
+	<string>movementworkdistance</string>
+	<key>joinerAppearance</key>
+	<string>convertDuration</string>
+	<key>liteDescent</key>
+	<string>functionalCache</string>
+	<key>loopawaylayer</key>
+	<string>activityContext</string>
+	<key>viewexceptmediator</key>
+	<string>primarySizedBox</string>
+</dict>
+</plist>

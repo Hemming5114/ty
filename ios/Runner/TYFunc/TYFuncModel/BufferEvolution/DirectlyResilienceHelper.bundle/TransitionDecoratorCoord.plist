@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorType</key>
+	<string>projectionStage</string>
+	<key>imperativeCoordinator</key>
+	<string>cartesianPicker</string>
+	<key>infovalidation</key>
+	<string>observerassingleton</string>
+	<key>inheritedGrayscale</key>
+	<string>cardDuration</string>
+	<key>mobileTop</key>
+	<string>statePressure</string>
+	<key>nativeTentative</key>
+	<string>customizedLifecycle</string>
+</dict>
+</plist>

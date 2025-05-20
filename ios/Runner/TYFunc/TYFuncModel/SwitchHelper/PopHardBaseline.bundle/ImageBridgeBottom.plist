@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyTheme</key>
+	<string>referenceoperation</string>
+	<key>monsterIndex</key>
+	<string>activatedStateless</string>
+	<key>previewtransparency</key>
+	<string>thresholdColor</string>
+	<key>shouldKeepFragment</key>
+	<string>shouldResumeIcon</string>
+</dict>
+</plist>

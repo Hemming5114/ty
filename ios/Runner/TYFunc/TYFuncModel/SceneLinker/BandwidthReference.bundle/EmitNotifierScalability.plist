@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationborder</key>
+	<string>shouldDisconnectSizedBox</string>
+	<key>buildicon</key>
+	<string>divideLayout</string>
+	<key>comprehensiveBase</key>
+	<string>animationFlyweight</string>
+	<key>immediateDropdownButton</key>
+	<string>paddingDepth</string>
+</dict>
+</plist>

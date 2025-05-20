@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStep</key>
+	<string>shouldContinueChallenge</string>
+	<key>deferredCube</key>
+	<string>marshalSubscription</string>
+	<key>intermediateMargin</key>
+	<string>performLayer</string>
+	<key>iterativeModel</key>
+	<string>upgradecanvas</string>
+	<key>localConnector</key>
+	<string>locateFuture</string>
+	<key>mediaDepth</key>
+	<string>canDismissModal</string>
+	<key>nextRole</key>
+	<string>managerMargin</string>
+	<key>storechart</key>
+	<string>canCacheSignature</string>
+	<key>unsortedDisclaimer</key>
+	<string>asyncSaturation</string>
+</dict>
+</plist>

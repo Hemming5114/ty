@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSine</key>
+	<string>shouldPrepareExtension</string>
+	<key>batchVisibility</key>
+	<string>activeLoader</string>
+	<key>descriptorfeedback</key>
+	<string>revisitIntensity</string>
+	<key>globalClipper</key>
+	<string>platekindstate</string>
+	<key>lostTriangles</key>
+	<string>lastnib</string>
+	<key>pivotalChannel</key>
+	<string>batchMargin</string>
+	<key>serializetitle</key>
+	<string>robustScaffold</string>
+	<key>shouldHandleOptimizer</key>
+	<string>deferredmobilesize</string>
+	<key>spinpresenter</key>
+	<string>shouldNavigatePromise</string>
+	<key>textureCount</key>
+	<string>interactorLocation</string>
+</dict>
+</plist>

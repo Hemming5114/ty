@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerategradient</key>
+	<string>flexibleProcessor</string>
+	<key>agileanchor</key>
+	<string>canPushScale</string>
+	<key>histogramcount</key>
+	<string>canValidateSegment</string>
+	<key>musicTop</key>
+	<string>permanentbehavioralignment</string>
+	<key>polyfillSize</key>
+	<string>ispoint</string>
+	<key>rapidAnimator</key>
+	<string>matrixRotation</string>
+	<key>semanticIsolate</key>
+	<string>canParseRemainder</string>
+	<key>titleValidation</key>
+	<string>singleAppBar</string>
+</dict>
+</plist>

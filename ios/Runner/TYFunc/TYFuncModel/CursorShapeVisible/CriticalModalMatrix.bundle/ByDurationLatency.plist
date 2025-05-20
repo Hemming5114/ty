@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubechannel</key>
+	<string>easyGate</string>
+	<key>desktopPriority</key>
+	<string>plateRotation</string>
+	<key>shouldMountedProvider</key>
+	<string>customizedMonster</string>
+	<key>sliderformlocation</key>
+	<string>autoObject</string>
+</dict>
+</plist>

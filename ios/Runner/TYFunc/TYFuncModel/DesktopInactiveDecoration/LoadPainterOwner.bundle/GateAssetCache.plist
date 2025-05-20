@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicUtil</key>
+	<string>clipperVariable</string>
+	<key>detailfeedback</key>
+	<string>nodeRate</string>
+	<key>firstgem</key>
+	<string>frameMemento</string>
+	<key>mutableresource</key>
+	<string>shouldRebuildEquipment</string>
+	<key>prevawait</key>
+	<string>nextIcon</string>
+</dict>
+</plist>

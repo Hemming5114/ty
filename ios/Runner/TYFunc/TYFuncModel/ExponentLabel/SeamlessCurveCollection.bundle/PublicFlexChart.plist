@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxplatformname</key>
+	<string>managerStyle</string>
+	<key>hierarchicalPublisher</key>
+	<string>positionedcoord</string>
+	<key>interactionSize</key>
+	<string>canUnbindSkin</string>
+	<key>intermediateWorkflow</key>
+	<string>ephemeralListView</string>
+	<key>priorityRotation</key>
+	<string>uniqueAlert</string>
+	<key>scopeOrientation</key>
+	<string>presenterVisible</string>
+	<key>signaturebuffer</key>
+	<string>shouldSetStateInteger</string>
+	<key>specifySound</key>
+	<string>timerSingleton</string>
+	<key>streamreliability</key>
+	<string>configureMenu</string>
+</dict>
+</plist>

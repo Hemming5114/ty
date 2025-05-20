@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerDuration</key>
+	<string>lostanalogy</string>
+	<key>injectionright</key>
+	<string>divideOffset</string>
+	<key>localTexture</key>
+	<string>smallCallback</string>
+	<key>missedLocalization</key>
+	<string>curveDecorator</string>
+	<key>profiledetail</key>
+	<string>injectionOrientation</string>
+	<key>requestspacing</key>
+	<string>directlyMedia</string>
+	<key>resizablePicker</key>
+	<string>gesturedetectorInterval</string>
+	<key>shouldBindImage</key>
+	<string>robustTicker</string>
+	<key>statelesscombiner</key>
+	<string>directlyUnary</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticpetsize</key>
+	<string>bindFuture</string>
+	<key>customqueuepressure</key>
+	<string>shouldPauseAccessory</string>
+	<key>destroyscene</key>
+	<string>taskcolor</string>
+	<key>invisibleMerger</key>
+	<string>crucialUnary</string>
+	<key>occasionTag</key>
+	<string>observervariableresponse</string>
+	<key>priorityconverter</key>
+	<string>respectiveCharacter</string>
+	<key>smallTool</key>
+	<string>alphaTemple</string>
+	<key>specifyConfiguration</key>
+	<string>globalTransition</string>
+	<key>tabviewcontroller</key>
+	<string>markController</string>
+	<key>usageinterpretertension</key>
+	<string>eventcolor</string>
+</dict>
+</plist>

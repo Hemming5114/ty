@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackstyle</key>
+	<string>scalabilityAcceleration</string>
+	<key>consultativeBase</key>
+	<string>connectStoryboard</string>
+	<key>mutableOffset</key>
+	<string>spriteCycle</string>
+	<key>pausetabbar</key>
+	<string>disconnectColumn</string>
+	<key>permanentContrast</key>
+	<string>pivotalScaffold</string>
+	<key>shouldDeserializeContainer</key>
+	<string>shouldUpdateSymbol</string>
+	<key>smallFuture</key>
+	<string>layoutDrawer</string>
+	<key>storePressure</key>
+	<string>shouldrebuildpositioned</string>
+</dict>
+</plist>

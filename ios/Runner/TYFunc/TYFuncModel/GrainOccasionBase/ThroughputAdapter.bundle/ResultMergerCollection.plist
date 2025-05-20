@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureTop</key>
+	<string>discoverchannels</string>
+	<key>buttonstatus</key>
+	<string>backwardConsumer</string>
+	<key>kernelPosition</key>
+	<string>deferredPolygon</string>
+	<key>paddingSkewX</key>
+	<string>draggableOffset</string>
+	<key>projectionTheme</key>
+	<string>provisionhue</string>
+	<key>shouldFormatStoryboard</key>
+	<string>persisttransition</string>
+	<key>shouldParseSpecifier</key>
+	<string>cursorvarbound</string>
+	<key>sophisticatedFrame</key>
+	<string>cardBehavior</string>
+	<key>substantialPlate</key>
+	<string>updateLocalization</string>
+	<key>symmetricImage</key>
+	<string>smartStore</string>
+</dict>
+</plist>

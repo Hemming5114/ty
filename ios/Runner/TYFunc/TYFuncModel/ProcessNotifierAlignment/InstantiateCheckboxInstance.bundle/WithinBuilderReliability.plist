@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeInterface</key>
+	<string>baseMethod</string>
+	<key>elasticSizedBox</key>
+	<string>callbackInteraction</string>
+	<key>granularTernary</key>
+	<string>receivepresenter</string>
+	<key>interactiveLayout</key>
+	<string>musicSkewX</string>
+	<key>rapidDistinction</key>
+	<string>shouldPushAnimatedContainer</string>
+	<key>shouldSkipModulus</key>
+	<string>immediateBox</string>
+</dict>
+</plist>

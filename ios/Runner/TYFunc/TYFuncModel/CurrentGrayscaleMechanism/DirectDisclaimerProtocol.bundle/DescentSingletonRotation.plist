@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBrightness</key>
+	<string>provisionRight</string>
+	<key>desktopsize</key>
+	<string>resilientTentative</string>
+	<key>setstatestore</key>
+	<string>registerScene</string>
+	<key>shouldLoadObserver</key>
+	<string>poollog</string>
+	<key>shouldbuildaspectratio</key>
+	<string>commonPadding</string>
+	<key>taskslider</key>
+	<string>attachAlpha</string>
+	<key>vectorrotation</key>
+	<string>trainSlash</string>
+</dict>
+</plist>

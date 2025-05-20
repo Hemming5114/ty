@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMechanism</key>
+	<string>densetask</string>
+	<key>herolifecycle</key>
+	<string>shouldSerializeSample</string>
+	<key>independentFilter</key>
+	<string>cubitthroughform</string>
+	<key>inheritedVertex</key>
+	<string>sensorVisitor</string>
+	<key>interactorpadding</key>
+	<string>evaluateError</string>
+	<key>priorscenario</key>
+	<string>mutablematrixstatus</string>
+	<key>shouldAnimateCell</key>
+	<string>scenarioValidation</string>
+	<key>signaturebrightness</key>
+	<string>cancelMonster</string>
+	<key>vectorizeternary</key>
+	<string>defaulticon</string>
+</dict>
+</plist>

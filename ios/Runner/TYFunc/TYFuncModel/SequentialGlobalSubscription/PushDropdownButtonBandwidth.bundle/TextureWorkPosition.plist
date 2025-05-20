@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeVariant</key>
+	<string>opaqueLinker</string>
+	<key>detectorDelay</key>
+	<string>filterposition</string>
+	<key>keyRow</key>
+	<string>gridtype</string>
+	<key>lastDescriptor</key>
+	<string>swiftPlatform</string>
+	<key>optimizerSaturation</key>
+	<string>serializeasync</string>
+	<key>primaryLocalization</key>
+	<string>reducercontextappearance</string>
+</dict>
+</plist>

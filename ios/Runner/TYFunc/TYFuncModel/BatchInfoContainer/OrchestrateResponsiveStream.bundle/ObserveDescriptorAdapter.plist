@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDepth</key>
+	<string>cartesianTouch</string>
+	<key>grayscaleBorder</key>
+	<string>localDrawer</string>
+	<key>immutableclipper</key>
+	<string>canContinueHeap</string>
+	<key>inactivePolyfill</key>
+	<string>blocTag</string>
+	<key>inheritedBullet</key>
+	<string>toolBottom</string>
+	<key>litesize</key>
+	<string>fusedEmitter</string>
+	<key>shouldTrainPageView</key>
+	<string>materialFeature</string>
+	<key>shouldfinishoperation</key>
+	<string>buildsample</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fetchequalization</key>
+	<string>eagerQuaternion</string>
+	<key>infrastructureSkewY</key>
+	<string>shouldDeserializeSignature</string>
+	<key>momentumtaskduration</key>
+	<string>shouldRouteModal</string>
+	<key>reusablethreshold</key>
+	<string>storeWork</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateTension</key>
+	<string>persistentTransition</string>
+	<key>diversifiedinterpolationacceleration</key>
+	<string>prepareConstraint</string>
+	<key>intuitiveAxis</key>
+	<string>registerMenu</string>
+	<key>parallelVariant</key>
+	<string>uniqueTool</string>
+	<key>shouldDetachBatch</key>
+	<string>grayscaleLeft</string>
+	<key>statusDepth</key>
+	<string>overlayvector</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionsink</key>
+	<string>shouldRouteEqualization</string>
+	<key>dedicatedTable</key>
+	<string>permissiveTimeline</string>
+	<key>introspectfuture</key>
+	<string>advancedfactory</string>
+	<key>painterthroughinterpreter</key>
+	<string>pinchableremainder</string>
+	<key>persistentTextField</key>
+	<string>containerOrientation</string>
+	<key>rowcompleter</key>
+	<string>marginBridge</string>
+	<key>scopeSkewY</key>
+	<string>axisTint</string>
+</dict>
+</plist>

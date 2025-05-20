@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisFormat</key>
+	<string>visitResponse</string>
+	<key>entityAcceleration</key>
+	<string>searcheralignment</string>
+	<key>exponentvelocity</key>
+	<string>lazyBullet</string>
+	<key>painterDensity</key>
+	<string>shearremainder</string>
+	<key>responsiveImpact</key>
+	<string>cartesianHash</string>
+	<key>shapeAppearance</key>
+	<string>removeInteractor</string>
+	<key>shouldUnmountedSine</key>
+	<string>shouldRouteLog</string>
+	<key>specifyMultiplication</key>
+	<string>shouldUnbindCustomPaint</string>
+	<key>visitalpha</key>
+	<string>criticalWrapper</string>
+</dict>
+</plist>

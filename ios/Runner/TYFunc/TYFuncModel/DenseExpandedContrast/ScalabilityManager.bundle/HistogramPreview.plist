@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopjobvisibility</key>
+	<string>transformername</string>
+	<key>prevmodaltransparency</key>
+	<string>resilientAsync</string>
+	<key>receiverBottom</key>
+	<string>fetchPainter</string>
+	<key>resourceprovider</key>
+	<string>gridviewcenter</string>
+	<key>shouldPersistButton</key>
+	<string>cachePressure</string>
+	<key>shouldsetstatefuture</key>
+	<string>scheduleChart</string>
+</dict>
+</plist>

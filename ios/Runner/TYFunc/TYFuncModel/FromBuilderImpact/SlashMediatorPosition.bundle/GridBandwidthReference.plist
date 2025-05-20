@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerVisibility</key>
+	<string>responsemechanism</string>
+	<key>interactiveAction</key>
+	<string>immediateRenderer</string>
+	<key>labeleffect</key>
+	<string>layerFacade</string>
+	<key>menuDuration</key>
+	<string>composableColor</string>
+	<key>normappearance</key>
+	<string>mapperType</string>
+	<key>opaqueModule</key>
+	<string>easyGraph</string>
+	<key>polygonOrientation</key>
+	<string>comprehensivesplitter</string>
+	<key>routerMomentum</key>
+	<string>localizationWork</string>
+</dict>
+</plist>

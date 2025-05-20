@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTopic</key>
+	<string>textfieldAlignment</string>
+	<key>arithmeticLocation</key>
+	<string>formatTernary</string>
+	<key>crudeTweak</key>
+	<string>shouldUnmountedBloc</string>
+	<key>ephemeralMonster</key>
+	<string>cursorrect</string>
+	<key>graphShape</key>
+	<string>mutableReplica</string>
+	<key>lockstoryboard</key>
+	<string>onalertchanged</string>
+	<key>logarithmMode</key>
+	<string>shouldCreateLayout</string>
+	<key>shouldValidateMedia</key>
+	<string>shouldCreateHeap</string>
+	<key>signaturemargin</key>
+	<string>shouldFinishOverlay</string>
+	<key>strokeFormat</key>
+	<string>intermediateLog</string>
+</dict>
+</plist>

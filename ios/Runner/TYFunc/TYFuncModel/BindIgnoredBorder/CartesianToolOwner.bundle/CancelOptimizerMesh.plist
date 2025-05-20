@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTime</key>
+	<string>largeLabel</string>
+	<key>discardedPositioned</key>
+	<string>continuepresenter</string>
+	<key>observerinterpreterbehavior</key>
+	<string>selectednavigator</string>
+	<key>shouldRenderListView</key>
+	<string>desktopMetrics</string>
+	<key>storealignment</key>
+	<string>navigatelistview</string>
+	<key>unlocklogarithm</key>
+	<string>equalizationBrightness</string>
+</dict>
+</plist>

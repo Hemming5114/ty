@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedArithmetic</key>
+	<string>loadzone</string>
+	<key>movementValidation</key>
+	<string>validateOptimizer</string>
+	<key>remediationspacing</key>
+	<string>difficultTernary</string>
+	<key>shouldUpdateMediaQuery</key>
+	<string>cupertinobehaviorlocation</string>
+	<key>tickerName</key>
+	<string>canEmitCollection</string>
+</dict>
+</plist>

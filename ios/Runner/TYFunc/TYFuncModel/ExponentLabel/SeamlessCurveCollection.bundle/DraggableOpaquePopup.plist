@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicIndicator</key>
+	<string>cupertinoParam</string>
+	<key>globalContrast</key>
+	<string>shouldSaveMaster</string>
+	<key>responsiveTriangles</key>
+	<string>disparateOccasion</string>
+	<key>sensorwithoutprototype</key>
+	<string>canPaintWidget</string>
+	<key>typicalTable</key>
+	<string>shouldPersistInstruction</string>
+	<key>unsortedSearcher</key>
+	<string>imageFunction</string>
+</dict>
+</plist>

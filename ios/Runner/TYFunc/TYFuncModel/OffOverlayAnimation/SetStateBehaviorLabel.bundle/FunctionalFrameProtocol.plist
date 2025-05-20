@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorVelocity</key>
+	<string>cosinehue</string>
+	<key>flexiblebulletmargin</key>
+	<string>commonSchema</string>
+	<key>ignoredExponent</key>
+	<string>arithmeticCoordinator</string>
+	<key>inactiveObserver</key>
+	<string>boxshadowEnvironment</string>
+	<key>shouldDeserializeDrawer</key>
+	<string>coordinatorTier</string>
+	<key>shouldObserveCursor</key>
+	<string>canValidateUsage</string>
+	<key>shouldShowText</key>
+	<string>shouldNotifyProjection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonOffset</key>
+	<string>poolUseCase</string>
+	<key>interactiveResponder</key>
+	<string>elasticInjection</string>
+	<key>prevSession</key>
+	<string>connectcubit</string>
+	<key>reducerAcceleration</key>
+	<string>visitUseCase</string>
+	<key>resolvercreator</key>
+	<string>workflowPadding</string>
+	<key>unactivatedSession</key>
+	<string>compositionSingleton</string>
+	<key>uniformAnimator</key>
+	<string>contractionMode</string>
+</dict>
+</plist>

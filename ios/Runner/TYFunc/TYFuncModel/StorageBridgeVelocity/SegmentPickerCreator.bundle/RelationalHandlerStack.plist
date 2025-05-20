@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEntity</key>
+	<string>layerAppearance</string>
+	<key>annotatetheme</key>
+	<string>multiManager</string>
+	<key>captionfacadeskewx</key>
+	<string>cursorInset</string>
+	<key>inheritedPlayback</key>
+	<string>autoPainter</string>
+	<key>originalSkin</key>
+	<string>storageInteraction</string>
+	<key>persistentUnary</key>
+	<string>aspectScope</string>
+	<key>shouldInflateExpanded</key>
+	<string>saveNorm</string>
+	<key>shouldPersistContraction</key>
+	<string>batchDepth</string>
+	<key>shouldUpdateLayout</key>
+	<string>deprecateQueue</string>
+</dict>
+</plist>

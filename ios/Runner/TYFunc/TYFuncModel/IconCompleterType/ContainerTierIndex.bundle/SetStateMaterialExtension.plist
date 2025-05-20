@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderpager</key>
+	<string>stepPattern</string>
+	<key>heapTail</key>
+	<string>composablePreview</string>
+	<key>invisibleAnimatedContainer</key>
+	<string>cosineLayer</string>
+	<key>nextTrajectory</key>
+	<string>explicitGrid</string>
+	<key>primaryTimer</key>
+	<string>shouldStopTouch</string>
+	<key>sortedConsumer</key>
+	<string>opaqueStroke</string>
+	<key>subsequentGrain</key>
+	<string>shouldResumeBinary</string>
+	<key>textactionhue</key>
+	<string>sortedDropdownButton</string>
+</dict>
+</plist>

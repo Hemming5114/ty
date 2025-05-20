@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerOverlay</key>
+	<string>materialfragments</string>
+	<key>connectlayer</key>
+	<string>nibStage</string>
+	<key>functionalStatus</key>
+	<string>movedelegate</string>
+	<key>notationpressure</key>
+	<string>evaluationState</string>
+	<key>objectMargin</key>
+	<string>canSetStateAccessory</string>
+	<key>reactiveStack</key>
+	<string>viewTemple</string>
+	<key>schedulerAcceleration</key>
+	<string>materialHistogram</string>
+	<key>statelessgesturedetectoracceleration</key>
+	<string>canPauseBehavior</string>
+	<key>validatemovement</key>
+	<string>largeWrapper</string>
+</dict>
+</plist>

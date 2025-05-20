@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAlignment</key>
+	<string>persistentJoiner</string>
+	<key>descriptorPosition</key>
+	<string>directRole</string>
+	<key>issensor</key>
+	<string>permanentProject</string>
+	<key>multiEmitter</key>
+	<string>publicTechnique</string>
+	<key>navigatorindex</key>
+	<string>grayscaleAdapter</string>
+	<key>pinchableGestureDetector</key>
+	<string>setstateLogarithm</string>
+	<key>techniqueAcceleration</key>
+	<string>geometricImage</string>
+</dict>
+</plist>

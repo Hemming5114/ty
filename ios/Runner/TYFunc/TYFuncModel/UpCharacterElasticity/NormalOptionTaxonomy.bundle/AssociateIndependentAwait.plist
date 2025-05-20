@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateusage</key>
+	<string>materialswift</string>
+	<key>memberkindflags</key>
+	<string>stepmanager</string>
+	<key>navigationaction</key>
+	<string>repositoryShade</string>
+	<key>notifierBehavior</key>
+	<string>batchVisibility</string>
+	<key>shouldDisconnectTable</key>
+	<string>paddingValidation</string>
+	<key>tangentplatformstatus</key>
+	<string>canPushCharacter</string>
+</dict>
+</plist>

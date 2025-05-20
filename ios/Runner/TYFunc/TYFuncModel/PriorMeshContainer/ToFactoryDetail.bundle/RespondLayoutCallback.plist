@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryshade</key>
+	<string>mobileEvolution</string>
+	<key>dynamicResilience</key>
+	<string>unactivatedProvision</string>
+	<key>mediocreScale</key>
+	<string>missedOccasion</string>
+	<key>subscriptionOrigin</key>
+	<string>dedicatedPoint</string>
+	<key>subscriptionVisible</key>
+	<string>chapterScope</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalEqualization</key>
+	<string>gramFrequency</string>
+	<key>layoutSpacing</key>
+	<string>sophisticatedFragments</string>
+	<key>lazycache</key>
+	<string>shouldCancelNib</string>
+	<key>shouldRenderFuture</key>
+	<string>unactivatedChecklist</string>
+</dict>
+</plist>

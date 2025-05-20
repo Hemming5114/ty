@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileOption</key>
+	<string>eagerRadius</string>
+	<key>beginnerSink</key>
+	<string>intermediateBloc</string>
+	<key>binaryfactory</key>
+	<string>multiResolver</string>
+	<key>deferredEqualization</key>
+	<string>transformerState</string>
+	<key>discardedInteractor</key>
+	<string>positionedStructure</string>
+	<key>firstDispatcher</key>
+	<string>dispatchFragment</string>
+</dict>
+</plist>

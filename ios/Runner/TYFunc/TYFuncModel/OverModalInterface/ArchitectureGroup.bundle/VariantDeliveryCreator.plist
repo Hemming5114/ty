@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAudio</key>
+	<string>compositionallabelshade</string>
+	<key>commonGesture</key>
+	<string>mainRadius</string>
+	<key>currentslider</key>
+	<string>canPauseAspectRatio</string>
+	<key>intuitiveLatency</key>
+	<string>priorDelegate</string>
+	<key>mounttransition</key>
+	<string>architectureTheme</string>
+	<key>originalInformation</key>
+	<string>similarSubscription</string>
+	<key>scrollPosition</key>
+	<string>tensorSignature</string>
+	<key>statelessMaterializer</key>
+	<string>tabbardespiteform</string>
+	<key>transitionbuilder</key>
+	<string>bufferOpacity</string>
+</dict>
+</plist>

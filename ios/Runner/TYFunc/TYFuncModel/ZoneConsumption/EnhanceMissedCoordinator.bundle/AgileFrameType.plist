@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredPainter</key>
+	<string>coordinatoraudio</string>
+	<key>lostCallback</key>
+	<string>robustdelegateinterval</string>
+	<key>radioSize</key>
+	<string>resizableAwait</string>
+	<key>resizablescroller</key>
+	<string>collectionBottom</string>
+	<key>respectiveOffset</key>
+	<string>directMatrix</string>
+	<key>subsequentExponent</key>
+	<string>shouldPauseTask</string>
+</dict>
+</plist>

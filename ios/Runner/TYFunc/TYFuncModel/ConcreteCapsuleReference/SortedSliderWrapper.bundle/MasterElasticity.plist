@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionprovider</key>
+	<string>autoStep</string>
+	<key>backwardcontainermargin</key>
+	<string>builderCoord</string>
+	<key>deployintensity</key>
+	<string>delicateDimension</string>
+	<key>gesturetension</key>
+	<string>wrapperBehavior</string>
+	<key>latencyLocation</key>
+	<string>concreteRadius</string>
+	<key>matrixHue</key>
+	<string>canTrainSample</string>
+	<key>optimizernode</key>
+	<string>opaqueModulus</string>
+	<key>replicaOrigin</key>
+	<string>futureNumber</string>
+	<key>statefulTimer</key>
+	<string>singletonpainter</string>
+</dict>
+</plist>

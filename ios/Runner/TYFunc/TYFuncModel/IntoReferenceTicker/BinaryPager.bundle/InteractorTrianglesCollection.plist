@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparecubit</key>
+	<string>cubitactivitydepth</string>
+	<key>interactiveSpot</key>
+	<string>fixedProvider</string>
+	<key>iterativeAnimator</key>
+	<string>maininteractor</string>
+	<key>methodDistance</key>
+	<string>unbinddependency</string>
+	<key>numericalInstruction</key>
+	<string>lazySignature</string>
+	<key>requiredgradient</key>
+	<string>materialChapter</string>
+	<key>rotatehistogram</key>
+	<string>persistentCard</string>
+	<key>shouldDismissAnchor</key>
+	<string>shouldRestartChannels</string>
+	<key>shouldpreparebinary</key>
+	<string>shouldPushPainter</string>
+</dict>
+</plist>

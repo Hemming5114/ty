@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseSize</key>
+	<string>insteadAsync</string>
+	<key>customConsumer</key>
+	<string>batchmethod</string>
+	<key>decorationInterval</key>
+	<string>localizationFeedback</string>
+	<key>densedimensionvelocity</key>
+	<string>mountdescriptor</string>
+	<key>ignoredPosition</key>
+	<string>columndirection</string>
+	<key>keySingleton</key>
+	<string>routerRight</string>
+	<key>sampleKind</key>
+	<string>createWidget</string>
+	<key>shouldDetachThread</key>
+	<string>emitterPosition</string>
+	<key>typicalAnalyzer</key>
+	<string>insteadInteractor</string>
+	<key>visibleSample</key>
+	<string>desktopanalogy</string>
+</dict>
+</plist>

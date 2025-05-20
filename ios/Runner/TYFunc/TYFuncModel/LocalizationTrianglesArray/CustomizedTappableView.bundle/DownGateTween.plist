@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prismaticbasevisible</key>
+	<string>retainedMapper</string>
+	<key>receiverSpeed</key>
+	<string>brushshape</string>
+	<key>webStep</key>
+	<string>shouldProcessBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentResolver</key>
+	<string>confidentialityDelay</string>
+	<key>layerOffset</key>
+	<string>comprehensiveScheduler</string>
+	<key>newestResponse</key>
+	<string>notificationNumber</string>
+	<key>shouldFetchBatch</key>
+	<string>instantiatecupertino</string>
+	<key>sorterDelay</key>
+	<string>movementHead</string>
+	<key>typicalCubit</key>
+	<string>directlyGraph</string>
+</dict>
+</plist>

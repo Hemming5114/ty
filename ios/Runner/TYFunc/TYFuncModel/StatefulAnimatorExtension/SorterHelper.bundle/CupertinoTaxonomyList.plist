@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSensor</key>
+	<string>executeoffset</string>
+	<key>commoncheckbox</key>
+	<string>primaryResponder</string>
+	<key>dimensionconverter</key>
+	<string>annotateLoop</string>
+	<key>numericalGradient</key>
+	<string>intermediateEntropy</string>
+	<key>parallelPromise</key>
+	<string>tableanimator</string>
+	<key>shouldObserveColumn</key>
+	<string>chartSystem</string>
+	<key>shouldSaveGate</key>
+	<string>sortedMaterial</string>
+	<key>spotSkewX</key>
+	<string>dissociateTicker</string>
+	<key>streamalignment</key>
+	<string>declarativeService</string>
+</dict>
+</plist>

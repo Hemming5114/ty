@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredtrigger</key>
+	<string>gridFlyweight</string>
+	<key>instructionmechanism</key>
+	<string>declarativenavigatorappearance</string>
+	<key>seamlessbaseline</key>
+	<string>cardFlags</string>
+	<key>specifyScroller</key>
+	<string>dissociateObserver</string>
+</dict>
+</plist>

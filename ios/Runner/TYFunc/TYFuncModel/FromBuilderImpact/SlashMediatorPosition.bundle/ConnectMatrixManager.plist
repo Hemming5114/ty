@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasCenter</key>
+	<string>shouldSkipMultiplication</string>
+	<key>crudeSplitter</key>
+	<string>shouldUnmountedAxis</string>
+	<key>invisibleSpot</key>
+	<string>shouldCancelTable</string>
+	<key>localSubscription</key>
+	<string>onbasetap</string>
+	<key>projectiontheme</key>
+	<string>navigateresult</string>
+	<key>resilientScheduler</key>
+	<string>sizedboxBorder</string>
+	<key>tappableTrajectory</key>
+	<string>canPresentConvolution</string>
+</dict>
+</plist>

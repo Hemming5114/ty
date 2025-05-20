@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNotifier</key>
+	<string>shouldDecodeAlpha</string>
+	<key>cacheSkewX</key>
+	<string>transformerBridge</string>
+	<key>completioncontainmethod</key>
+	<string>intuitiveCallback</string>
+	<key>creatorDensity</key>
+	<string>sharedFormat</string>
+	<key>declarativeCapacities</key>
+	<string>largeAction</string>
+	<key>repositoryfunctionsize</key>
+	<string>introspectresource</string>
+	<key>shouldHandlePoint</key>
+	<string>handlecontainer</string>
+	<key>touchDuration</key>
+	<string>canProcessProfile</string>
+</dict>
+</plist>

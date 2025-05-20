@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivelayer</key>
+	<string>metricsTop</string>
+	<key>chooserStyle</key>
+	<string>syncManager</string>
+	<key>cursorFrequency</key>
+	<string>pauseScreen</string>
+	<key>lostvector</key>
+	<string>bulletTension</string>
+	<key>menuCoord</key>
+	<string>deploypainter</string>
+	<key>menubrightness</key>
+	<string>mediumProgressBar</string>
+	<key>notationKind</key>
+	<string>arithmeticMatrix</string>
+	<key>shouldDetachDecoration</key>
+	<string>statelessThreshold</string>
+</dict>
+</plist>

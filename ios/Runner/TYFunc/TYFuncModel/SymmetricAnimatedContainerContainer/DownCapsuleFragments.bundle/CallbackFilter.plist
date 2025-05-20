@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSemantics</key>
+	<string>cosineofphase</string>
+	<key>imperativeManager</key>
+	<string>concreteInfo</string>
+	<key>receiverInset</key>
+	<string>reactiveCharacteristic</string>
+	<key>requiredRole</key>
+	<string>storeDuration</string>
+	<key>shouldEndBoxShadow</key>
+	<string>canFormatIndicator</string>
+	<key>shouldRestartGradient</key>
+	<string>iterativetween</string>
+	<key>shouldStopGradient</key>
+	<string>startBox</string>
+</dict>
+</plist>

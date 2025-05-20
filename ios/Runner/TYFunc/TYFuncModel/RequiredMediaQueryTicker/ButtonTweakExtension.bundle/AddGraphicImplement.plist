@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionelasticity</key>
+	<string>shouldNotifyMomentum</string>
+	<key>elasticCluster</key>
+	<string>elementTheme</string>
+	<key>immutableinterpolation</key>
+	<string>anchorState</string>
+	<key>materialdistance</key>
+	<string>emitReference</string>
+	<key>metadatascale</key>
+	<string>bindCanvas</string>
+	<key>normalTween</key>
+	<string>decorationMode</string>
+	<key>shouldSetStateBloc</key>
+	<string>slashMemento</string>
+	<key>subtlegraphic</key>
+	<string>shouldUnmountedStack</string>
+</dict>
+</plist>

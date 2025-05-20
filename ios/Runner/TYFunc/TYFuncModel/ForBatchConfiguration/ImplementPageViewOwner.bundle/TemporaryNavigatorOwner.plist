@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedDecoration</key>
+	<string>interactorCommand</string>
+	<key>euclideanResilience</key>
+	<string>selectedcompletion</string>
+	<key>granularlocalizationtag</key>
+	<string>isSwitch</string>
+	<key>looptransparency</key>
+	<string>canLayoutReference</string>
+	<key>memberValidation</key>
+	<string>capsuleCoord</string>
+	<key>protectedNib</key>
+	<string>uniformInfo</string>
+	<key>sustainableinteractor</key>
+	<string>stackInterpreter</string>
+</dict>
+</plist>

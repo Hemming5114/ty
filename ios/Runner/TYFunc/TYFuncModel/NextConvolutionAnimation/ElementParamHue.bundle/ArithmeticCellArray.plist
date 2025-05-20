@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGridView</key>
+	<string>canSubscribeShader</string>
+	<key>fixedExponent</key>
+	<string>activatedWidget</string>
+	<key>iconFlags</key>
+	<string>shouldAttachMaster</string>
+	<key>logTension</key>
+	<string>shouldreplacedialogs</string>
+	<key>shouldSkipExponent</key>
+	<string>symmetricMethod</string>
+</dict>
+</plist>

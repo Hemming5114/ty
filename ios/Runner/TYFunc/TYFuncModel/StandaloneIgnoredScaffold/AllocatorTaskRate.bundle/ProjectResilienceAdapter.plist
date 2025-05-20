@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOrigin</key>
+	<string>playbackBound</string>
+	<key>pivotalProtocol</key>
+	<string>attachCaption</string>
+	<key>shouldFormatCatalyst</key>
+	<string>canBuildLabel</string>
+	<key>shouldInflateMargin</key>
+	<string>multiplicationtriangles</string>
+	<key>shouldShowMonster</key>
+	<string>canPrepareCupertino</string>
+</dict>
+</plist>

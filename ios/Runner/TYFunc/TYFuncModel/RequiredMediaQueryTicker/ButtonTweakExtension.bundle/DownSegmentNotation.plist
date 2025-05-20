@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationType</key>
+	<string>presenteralignment</string>
+	<key>characteristicDuration</key>
+	<string>topicfacadeflags</string>
+	<key>listendelegate</key>
+	<string>pivotalspriteappearance</string>
+	<key>shouldNotifyFlex</key>
+	<string>animatevariant</string>
+	<key>singletondescription</key>
+	<string>capacityCenter</string>
+</dict>
+</plist>

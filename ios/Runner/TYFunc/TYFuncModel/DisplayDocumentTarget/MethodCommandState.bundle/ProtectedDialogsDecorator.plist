@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMonster</key>
+	<string>statelessCoord</string>
+	<key>decorationopacity</key>
+	<string>shouldsetstatebatch</string>
+	<key>exponentState</key>
+	<string>equalUseCase</string>
+	<key>onimagechanged</key>
+	<string>sortedBullet</string>
+	<key>shouldDecodeMargin</key>
+	<string>columnSize</string>
+	<key>shouldprepareeffect</key>
+	<string>boxAdapter</string>
+	<key>stoptopic</key>
+	<string>mutableAppBar</string>
+</dict>
+</plist>

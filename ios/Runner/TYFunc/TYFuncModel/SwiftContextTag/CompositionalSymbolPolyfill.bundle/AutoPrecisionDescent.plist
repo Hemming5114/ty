@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicStyle</key>
+	<string>visibleUtil</string>
+	<key>declarativeCube</key>
+	<string>detachStream</string>
+	<key>eagerIntegration</key>
+	<string>localizationWork</string>
+	<key>groupversusvalue</key>
+	<string>shouldfetchsignature</string>
+	<key>persistentTable</key>
+	<string>shouldNotifyCaption</string>
+	<key>publicNorm</key>
+	<string>statelessItem</string>
+	<key>resizableFormat</key>
+	<string>materialprecisionborder</string>
+</dict>
+</plist>

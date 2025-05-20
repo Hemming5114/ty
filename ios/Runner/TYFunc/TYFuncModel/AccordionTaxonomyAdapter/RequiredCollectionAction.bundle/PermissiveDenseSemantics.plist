@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerData</key>
+	<string>diversifiedCapacity</string>
+	<key>columnStyle</key>
+	<string>sessionstroke</string>
+	<key>descriptionshade</key>
+	<string>animatedanimationdirection</string>
+	<key>elasticPager</key>
+	<string>shouldParseAspect</string>
+	<key>flexisolate</key>
+	<string>flexPosition</string>
+	<key>gesturedetectorshape</key>
+	<string>hashSaturation</string>
+	<key>robustAnimation</key>
+	<string>statefulInterval</string>
+	<key>shouldNavigatePositioned</key>
+	<string>specifieroperation</string>
+	<key>shouldTrainFragment</key>
+	<string>canSkipDialogs</string>
+	<key>sizeacceleration</key>
+	<string>localizationMethod</string>
+</dict>
+</plist>

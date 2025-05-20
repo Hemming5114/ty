@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDescent</key>
+	<string>insteadlocalization</string>
+	<key>adaptiveBehavior</key>
+	<string>graphdecoratorspeed</string>
+	<key>asynchronousMap</key>
+	<string>displayableBox</string>
+	<key>contractionschema</key>
+	<string>arithmeticGroup</string>
+	<key>localIsolate</key>
+	<string>anchorreplica</string>
+	<key>sequentialScroll</key>
+	<string>autobuilderalignment</string>
+	<key>shouldRebuildScreen</key>
+	<string>introspectInteractor</string>
+	<key>storedirection</key>
+	<string>cleanrepository</string>
+	<key>streamadapterborder</key>
+	<string>replaceRadius</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredZone</key>
+	<string>declarativeVolume</string>
+	<key>disabledTool</key>
+	<string>deprecateGraph</string>
+	<key>responsedispatcher</key>
+	<string>basicBitrate</string>
+	<key>textSize</key>
+	<string>shouldRenderDialogs</string>
+	<key>typicalMap</key>
+	<string>shouldPrepareExtension</string>
+	<key>visibleResponder</key>
+	<string>otherPlayback</string>
+</dict>
+</plist>

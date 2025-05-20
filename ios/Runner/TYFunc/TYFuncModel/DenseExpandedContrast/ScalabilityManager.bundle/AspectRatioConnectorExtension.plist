@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSkin</key>
+	<string>composableConstraint</string>
+	<key>capsuleconfiguration</key>
+	<string>handleSkin</string>
+	<key>euclideanCompletion</key>
+	<string>seekCubit</string>
+	<key>fixedCoordinator</key>
+	<string>shoulddisconnectaspect</string>
+	<key>gestureawait</key>
+	<string>overlayvisibility</string>
+	<key>numericalMaterial</key>
+	<string>shouldNotifyScale</string>
+	<key>otherMaterial</key>
+	<string>objectOrigin</string>
+	<key>promiseTransparency</key>
+	<string>storescale</string>
+	<key>shouldSkipSemantics</key>
+	<string>originalextension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuelistener</key>
+	<string>updateCapacities</string>
+	<key>histogramreducer</key>
+	<string>deferredEfficiency</string>
+	<key>intuitiveCupertino</key>
+	<string>smartInteraction</string>
+	<key>methodtail</key>
+	<string>dispatchFlex</string>
+	<key>shaderstyle</key>
+	<string>slidercontainvalue</string>
+	<key>sharedinterpolationshape</key>
+	<string>listenlog</string>
+	<key>shouldParseBox</key>
+	<string>challengeBrightness</string>
+</dict>
+</plist>

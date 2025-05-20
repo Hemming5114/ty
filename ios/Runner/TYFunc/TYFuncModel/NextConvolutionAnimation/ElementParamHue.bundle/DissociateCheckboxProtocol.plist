@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPicker</key>
+	<string>mendFlags</string>
+	<key>deferredimage</key>
+	<string>unmarshalFuture</string>
+	<key>erroranimation</key>
+	<string>canCreateCell</string>
+	<key>inactiveDescriptor</key>
+	<string>persistentBullet</string>
+	<key>multiResilience</key>
+	<string>awaitTop</string>
+	<key>oldCache</key>
+	<string>connectorTag</string>
+	<key>pivotalRoute</key>
+	<string>shouldunbindtable</string>
+	<key>resultAcceleration</key>
+	<string>gridviewsincemethod</string>
+	<key>sharedDecoration</key>
+	<string>desktopMetrics</string>
+	<key>smallAscent</key>
+	<string>effectOffset</string>
+</dict>
+</plist>

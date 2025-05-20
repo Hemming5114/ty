@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasGrayscale</key>
+	<string>spriteStage</string>
+	<key>requiredLabel</key>
+	<string>searchTask</string>
+	<key>seamlessSelector</key>
+	<string>multiNotification</string>
+	<key>shouldUnmountConstraint</key>
+	<string>lastRange</string>
+	<key>transitioncycleorientation</key>
+	<string>channelMethod</string>
+	<key>tweenSize</key>
+	<string>nativeCapacity</string>
+</dict>
+</plist>

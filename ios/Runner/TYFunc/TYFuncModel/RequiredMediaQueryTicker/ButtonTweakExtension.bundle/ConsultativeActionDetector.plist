@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteTopic</key>
+	<string>literesultindex</string>
+	<key>shouldCreateScale</key>
+	<string>draggableLoss</string>
+	<key>smartCharacter</key>
+	<string>equipmentCoord</string>
+	<key>staticAllocator</key>
+	<string>completerframeworkbottom</string>
+</dict>
+</plist>

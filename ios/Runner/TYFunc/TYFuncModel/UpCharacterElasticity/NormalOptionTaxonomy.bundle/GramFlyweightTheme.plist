@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSymbol</key>
+	<string>extensionOperation</string>
+	<key>chooserTension</key>
+	<string>locateEvent</string>
+	<key>heapsaturation</key>
+	<string>parseWidget</string>
+	<key>masterstrength</key>
+	<string>statefulCard</string>
+	<key>mediumAlpha</key>
+	<string>popFragment</string>
+	<key>shouldLayoutStep</key>
+	<string>updatePadding</string>
+	<key>sustainableSprite</key>
+	<string>backwardZone</string>
+	<key>tensorLayout</key>
+	<string>scaffoldMemento</string>
+</dict>
+</plist>

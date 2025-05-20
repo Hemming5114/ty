@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedConverter</key>
+	<string>exceptionProcess</string>
+	<key>featuremodule</key>
+	<string>easyHandler</string>
+	<key>gestureSkewX</key>
+	<string>canSetStateStoryboard</string>
+	<key>grainbeyondsingleton</key>
+	<string>streamintier</string>
+	<key>inheriteddescent</key>
+	<string>mountBrush</string>
+	<key>instructionTint</key>
+	<string>staticGraphic</string>
+	<key>semanticWorkflow</key>
+	<string>inkwellCycle</string>
+</dict>
+</plist>

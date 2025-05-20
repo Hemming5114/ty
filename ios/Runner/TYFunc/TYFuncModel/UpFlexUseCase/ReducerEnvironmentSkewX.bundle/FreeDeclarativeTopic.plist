@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicImpact</key>
+	<string>unbindCaption</string>
+	<key>captionlocation</key>
+	<string>customOffset</string>
+	<key>checkboxTransparency</key>
+	<string>respondLabel</string>
+	<key>enabledMomentum</key>
+	<string>cosineLocation</string>
+	<key>imperativeArchitecture</key>
+	<string>meshPosition</string>
+	<key>keySpecifier</key>
+	<string>disconnectMethod</string>
+	<key>operationMode</key>
+	<string>canPersistDecoration</string>
+</dict>
+</plist>

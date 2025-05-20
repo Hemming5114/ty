@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateconstraint</key>
+	<string>unbindresponse</string>
+	<key>directchannel</key>
+	<string>canSaveAppBar</string>
+	<key>mediocreQuaternion</key>
+	<string>normalLifecycle</string>
+	<key>schedulerName</key>
+	<string>interfaceAdapter</string>
+	<key>shouldSerializeNotification</key>
+	<string>rendertask</string>
+	<key>signRight</key>
+	<string>hyperbolicSound</string>
+	<key>storyboardperadapter</key>
+	<string>roleMediator</string>
+</dict>
+</plist>

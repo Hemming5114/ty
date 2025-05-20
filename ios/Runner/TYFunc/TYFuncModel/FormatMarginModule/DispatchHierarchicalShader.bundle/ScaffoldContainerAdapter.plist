@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedlooptransparency</key>
+	<string>synchronousFactory</string>
+	<key>builderorobserver</key>
+	<string>encapsulateDelegate</string>
+	<key>cupertinoTransparency</key>
+	<string>convolutionStyle</string>
+	<key>histogramresilience</key>
+	<string>bitratesplitter</string>
+	<key>intensityRight</key>
+	<string>sizeSystem</string>
+	<key>serviceposition</key>
+	<string>canDecodeCupertino</string>
+	<key>shouldConnectDecoration</key>
+	<string>hasnotifier</string>
+	<key>tweakVisible</key>
+	<string>mutableSemantics</string>
+</dict>
+</plist>

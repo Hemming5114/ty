@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedThread</key>
+	<string>lifecycleContrast</string>
+	<key>hyperbolicScalability</key>
+	<string>onblocchanged</string>
+	<key>imperativeHash</key>
+	<string>finishWorkflow</string>
+	<key>lastHeap</key>
+	<string>shouldUnmountedSymbol</string>
+	<key>mapSkewY</key>
+	<string>canReplaceSkin</string>
+	<key>respectiveAnchor</key>
+	<string>shouldAttachTransition</string>
+	<key>robustConstant</key>
+	<string>shouldReplaceWidget</string>
+	<key>staticnotifierfeedback</key>
+	<string>disconnectCube</string>
+	<key>themeFormat</key>
+	<string>converterOrientation</string>
+</dict>
+</plist>

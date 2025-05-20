@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerbutton</key>
+	<string>awaitFlyweight</string>
+	<key>batchdirection</key>
+	<string>shouldCreateStateless</string>
+	<key>disabledRenderer</key>
+	<string>formatSpacing</string>
+	<key>fragmentsPadding</key>
+	<string>cupertinoUtil</string>
+	<key>iterativeArithmetic</key>
+	<string>dedicatedCheckbox</string>
+	<key>listensize</key>
+	<string>fixedMap</string>
+	<key>statefulCanvas</key>
+	<string>toolbrightness</string>
+	<key>subscriptionEdge</key>
+	<string>publicPresenter</string>
+</dict>
+</plist>

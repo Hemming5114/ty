@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertoutsidebuffer</key>
+	<string>wrapAllocator</string>
+	<key>associatedPlayback</key>
+	<string>robustInfo</string>
+	<key>extensionadapterdelay</key>
+	<string>basicSemantics</string>
+	<key>shouldPauseNotification</key>
+	<string>canDeserializeExpanded</string>
+	<key>substantialcapsulebrightness</key>
+	<string>processGraphic</string>
+</dict>
+</plist>

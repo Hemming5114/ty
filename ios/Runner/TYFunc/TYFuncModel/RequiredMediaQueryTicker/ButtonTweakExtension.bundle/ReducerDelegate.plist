@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activelifecycle</key>
+	<string>stopEquipment</string>
+	<key>channelandstrategy</key>
+	<string>criticalScope</string>
+	<key>denselistener</key>
+	<string>shouldSetStateComposition</string>
+	<key>featurename</key>
+	<string>processOffset</string>
+	<key>shouldSetStateScaffold</key>
+	<string>presenterLeft</string>
+</dict>
+</plist>

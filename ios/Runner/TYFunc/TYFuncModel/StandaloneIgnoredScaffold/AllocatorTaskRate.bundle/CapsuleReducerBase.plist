@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityposition</key>
+	<string>painterJob</string>
+	<key>istabbar</key>
+	<string>displaytask</string>
+	<key>navigatorTheme</key>
+	<string>blocworkposition</string>
+	<key>replaceplayback</key>
+	<string>analogyRate</string>
+	<key>shouldInflateCurve</key>
+	<string>apertureContext</string>
+</dict>
+</plist>

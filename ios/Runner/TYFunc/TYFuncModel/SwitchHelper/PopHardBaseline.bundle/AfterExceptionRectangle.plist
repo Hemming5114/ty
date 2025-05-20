@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedResource</key>
+	<string>unarypadding</string>
+	<key>beginneroperationborder</key>
+	<string>canReplaceSizedBox</string>
+	<key>gesturedetectormomentum</key>
+	<string>lastCubit</string>
+	<key>notifierFrequency</key>
+	<string>indicatorIndex</string>
+	<key>positionmaterializer</key>
+	<string>comprehensiveProcessor</string>
+	<key>specifySorter</key>
+	<string>singleVolume</string>
+</dict>
+</plist>

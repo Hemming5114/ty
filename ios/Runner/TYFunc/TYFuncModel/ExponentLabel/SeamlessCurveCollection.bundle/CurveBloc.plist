@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDialogs</key>
+	<string>eagerSensor</string>
+	<key>memberFrequency</key>
+	<string>protectedSubpixel</string>
+	<key>otherState</key>
+	<string>resilienceDistance</string>
+	<key>shouldDetachReference</key>
+	<string>transformProvider</string>
+	<key>shoulddecodetable</key>
+	<string>techniquespeed</string>
+</dict>
+</plist>

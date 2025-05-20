@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDropdownButton</key>
+	<string>awaitSize</string>
+	<key>deliveryState</key>
+	<string>presentstream</string>
+	<key>granularZone</key>
+	<string>desktopawaittransparency</string>
+	<key>replicavalidation</key>
+	<string>replicaInset</string>
+	<key>storyboardadaptertype</key>
+	<string>clipFrame</string>
+	<key>unsortedGem</key>
+	<string>imperativeInjection</string>
+	<key>utilResponse</key>
+	<string>specifierstyle</string>
+</dict>
+</plist>

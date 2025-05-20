@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumeloss</key>
+	<string>paintObserver</string>
+	<key>customEffect</key>
+	<string>shouldObserveNotifier</string>
+	<key>dividereducer</key>
+	<string>subtleLabel</string>
+	<key>nextBinder</key>
+	<string>traversalOpacity</string>
+	<key>rebuildtechnique</key>
+	<string>parallelDropdownButton</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeReplica</key>
+	<string>resizableBuilder</string>
+	<key>chapterSaturation</key>
+	<string>primaryDimension</string>
+	<key>custompaintfrequency</key>
+	<string>buttonDirection</string>
+	<key>greatUseCase</key>
+	<string>uniformNotifier</string>
+	<key>missionDepth</key>
+	<string>popPlate</string>
+	<key>persistentInformation</key>
+	<string>canFormatGestureDetector</string>
+	<key>shouldRenderCatalyst</key>
+	<string>subscriptionFormat</string>
+	<key>trajectorySpacing</key>
+	<string>descriptorStyle</string>
+	<key>uniqueCapsule</key>
+	<string>standaloneMend</string>
+</dict>
+</plist>

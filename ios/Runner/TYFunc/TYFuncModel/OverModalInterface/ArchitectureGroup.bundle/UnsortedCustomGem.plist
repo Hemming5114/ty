@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorMode</key>
+	<string>canRebuildShader</string>
+	<key>crucialRole</key>
+	<string>missedBorder</string>
+	<key>diversifiedResilience</key>
+	<string>clipperStage</string>
+	<key>imageSize</key>
+	<string>canCreateCache</string>
+	<key>shoulddismissconvolution</key>
+	<string>canTransitionRoute</string>
+</dict>
+</plist>

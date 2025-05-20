@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationrectangle</key>
+	<string>rectanglePadding</string>
+	<key>crudegridsaturation</key>
+	<string>propagatePopup</string>
+	<key>displayableReceiver</key>
+	<string>arithmeticCurve</string>
+	<key>mediocrePainter</key>
+	<string>significantOption</string>
+	<key>specifyArithmetic</key>
+	<string>binaryCommand</string>
+</dict>
+</plist>

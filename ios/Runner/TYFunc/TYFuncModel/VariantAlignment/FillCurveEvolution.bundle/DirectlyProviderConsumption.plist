@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryCenter</key>
+	<string>crudeTimer</string>
+	<key>buildnavigation</key>
+	<string>channelsPressure</string>
+	<key>cursoroffset</key>
+	<string>fixedEmitter</string>
+	<key>delegatetolerance</key>
+	<string>independentSkirt</string>
+	<key>globalbuttontransparency</key>
+	<string>numericalSprite</string>
+	<key>publicPopup</key>
+	<string>comprehensiveDelivery</string>
+	<key>publicResolver</key>
+	<string>fetchNotification</string>
+	<key>relationalTraversal</key>
+	<string>completedNavigator</string>
+	<key>shouldDisconnectChannels</key>
+	<string>shouldTransitionCurve</string>
+	<key>sortedConvolution</key>
+	<string>checklistPadding</string>
+</dict>
+</plist>

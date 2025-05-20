@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartype</key>
+	<string>canUnbindSizedBox</string>
+	<key>asynchronousStep</key>
+	<string>shouldDetachProtocol</string>
+	<key>fusedBuffer</key>
+	<string>shouldDetachScroll</string>
+	<key>mountedtexture</key>
+	<string>techniqueShape</string>
+	<key>shouldRebuildBase</key>
+	<string>refreshNavigator</string>
+	<key>similarCustomPaint</key>
+	<string>sampleDensity</string>
+</dict>
+</plist>

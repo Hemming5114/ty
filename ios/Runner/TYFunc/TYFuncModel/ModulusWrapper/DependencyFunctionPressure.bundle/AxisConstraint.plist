@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorpatternrate</key>
+	<string>canResumeTool</string>
+	<key>lazynode</key>
+	<string>hierarchicalIsolate</string>
+	<key>liteSizedBox</key>
+	<string>responsiveRestriction</string>
+	<key>requiredtoolbrightness</key>
+	<string>animatedcontainerForce</string>
+	<key>shouldLoadWorkflow</key>
+	<string>parseview</string>
+	<key>shoulddismisstouch</key>
+	<string>petAction</string>
+	<key>shouldrestartconstraint</key>
+	<string>defaultArithmetic</string>
+</dict>
+</plist>

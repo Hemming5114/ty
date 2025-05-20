@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLifecycle</key>
+	<string>semanticBaseline</string>
+	<key>cardSpacing</key>
+	<string>customAmortization</string>
+	<key>configurationrestriction</key>
+	<string>formatConvolution</string>
+	<key>dynamicTechnique</key>
+	<string>globalHeap</string>
+	<key>reactivehandler</key>
+	<string>sceneAction</string>
+	<key>resilienceBehavior</key>
+	<string>shouldPaintArithmetic</string>
+	<key>revisitpopup</key>
+	<string>transformInjection</string>
+	<key>shouldConnectRemainder</key>
+	<string>consumerScale</string>
+	<key>slashDirection</key>
+	<string>canAnimateCell</string>
+	<key>subsequentMedia</key>
+	<string>sessionRate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorScale</key>
+	<string>resilienceOrigin</string>
+	<key>dialogstension</key>
+	<string>shouldCacheRow</string>
+	<key>hierarchicalQueue</key>
+	<string>oldStateful</string>
+	<key>keyconsumer</key>
+	<string>materialColumn</string>
+	<key>modelduration</key>
+	<string>cartesianPreview</string>
+	<key>searcherVisible</key>
+	<string>routeIndex</string>
+	<key>shouldRestartGraphic</key>
+	<string>routeproxymode</string>
+	<key>webSkin</key>
+	<string>relationalAsset</string>
+</dict>
+</plist>

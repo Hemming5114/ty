@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAsset</key>
+	<string>asynchronousText</string>
+	<key>arithmeticFormat</key>
+	<string>curveSkewX</string>
+	<key>euclideanRectangle</key>
+	<string>sizeValidation</string>
+	<key>grainDelay</key>
+	<string>contractionBottom</string>
+	<key>latencyBottom</key>
+	<string>propagateTimer</string>
+	<key>persistentpopup</key>
+	<string>otherCharacteristic</string>
+	<key>shouldSubscribePageView</key>
+	<string>euclideanStoryboard</string>
+</dict>
+</plist>

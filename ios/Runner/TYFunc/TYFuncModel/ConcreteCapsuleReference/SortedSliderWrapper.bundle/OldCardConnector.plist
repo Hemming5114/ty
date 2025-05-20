@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInkWell</key>
+	<string>canProcessScale</string>
+	<key>currentmap</key>
+	<string>regulateChapter</string>
+	<key>frameDistance</key>
+	<string>convolutionorigin</string>
+	<key>functionalTimer</key>
+	<string>canDecodeSwitch</string>
+	<key>localizationinsideprototype</key>
+	<string>shouldYieldFuture</string>
+	<key>shouldemitchallenge</key>
+	<string>imperativeRestriction</string>
+</dict>
+</plist>

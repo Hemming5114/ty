@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerRight</key>
+	<string>mechanismHue</string>
+	<key>globalDisclaimer</key>
+	<string>seamlessPlayback</string>
+	<key>granularStrength</key>
+	<string>difficultIsolate</string>
+	<key>memberlayerdensity</key>
+	<string>requestShape</string>
+	<key>projectdetector</key>
+	<string>routeTask</string>
+	<key>responsiveGridView</key>
+	<string>decoupleIntensity</string>
+	<key>shouldObserveBaseline</key>
+	<string>unbindWidget</string>
+	<key>shouldUnbindGestureDetector</key>
+	<string>shouldDetachPositioned</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorflyweightmomentum</key>
+	<string>sequentialDimension</string>
+	<key>mapopacity</key>
+	<string>canEndOptimizer</string>
+	<key>shouldSetStateOperation</key>
+	<string>containertag</string>
+	<key>statefulAllocator</key>
+	<string>serializeTitle</string>
+	<key>traversalCoord</key>
+	<string>requestDelegate</string>
+</dict>
+</plist>

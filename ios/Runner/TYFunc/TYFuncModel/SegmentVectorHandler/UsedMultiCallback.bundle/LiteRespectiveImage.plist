@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionBound</key>
+	<string>shouldRenderRole</string>
+	<key>factoryTail</key>
+	<string>shouldStopPageView</string>
+	<key>futurewithoutsingleton</key>
+	<string>unmountstamp</string>
+	<key>receivemusic</key>
+	<string>canBindPageView</string>
+	<key>shouldPrepareDialogs</key>
+	<string>basicProfile</string>
+	<key>shoulddismisssensor</key>
+	<string>enabledReliability</string>
+	<key>tabbarHead</key>
+	<string>resolvePosition</string>
+	<key>videoMomentum</key>
+	<string>alertleft</string>
+</dict>
+</plist>

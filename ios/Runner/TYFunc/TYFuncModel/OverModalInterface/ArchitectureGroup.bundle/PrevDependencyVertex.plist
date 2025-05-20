@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivepositioncontrast</key>
+	<string>resolverFlags</string>
+	<key>alphaShape</key>
+	<string>sensorBottom</string>
+	<key>challengesaturation</key>
+	<string>expandedInterpreter</string>
+	<key>crudeLocalization</key>
+	<string>moduleSpeed</string>
+	<key>curvecontextpressure</key>
+	<string>shoulddisposelabel</string>
+	<key>observerleft</key>
+	<string>popboxshadow</string>
+	<key>permissiveSubpixel</key>
+	<string>shouldDecodeCaption</string>
+	<key>polyfillposition</key>
+	<string>criticalDetail</string>
+	<key>specifydistinction</key>
+	<string>retainedCosine</string>
+</dict>
+</plist>

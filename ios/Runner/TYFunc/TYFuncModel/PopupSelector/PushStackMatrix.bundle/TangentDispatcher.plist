@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanTicker</key>
+	<string>canBuildAspectRatio</string>
+	<key>mutableerror</key>
+	<string>smallMap</string>
+	<key>nextSkin</key>
+	<string>notationDirection</string>
+	<key>sessionStyle</key>
+	<string>shouldDisconnectWorkflow</string>
+	<key>smartUnary</key>
+	<string>sanitizeAction</string>
+	<key>unsortedRouter</key>
+	<string>scheduleGrid</string>
+</dict>
+</plist>

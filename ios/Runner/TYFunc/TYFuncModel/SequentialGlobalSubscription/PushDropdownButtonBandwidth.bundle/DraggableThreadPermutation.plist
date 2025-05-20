@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCubit</key>
+	<string>directDistinction</string>
+	<key>basicgrain</key>
+	<string>eagerScaffold</string>
+	<key>buffertempleforce</key>
+	<string>frameAppearance</string>
+	<key>disparateFrame</key>
+	<string>usagegroup</string>
+	<key>flexibleScene</key>
+	<string>particleBorder</string>
+	<key>parsescroll</key>
+	<string>canConnectPlayback</string>
+	<key>shouldContinueMusic</key>
+	<string>deactivateSprite</string>
+	<key>ternaryFormat</key>
+	<string>diversifiedasyncshade</string>
+	<key>themeDepth</key>
+	<string>startExponent</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteNotifier</key>
+	<string>interactiveIsolate</string>
+	<key>gateName</key>
+	<string>publisherSize</string>
+	<key>informationAppearance</key>
+	<string>canEncodeChallenge</string>
+	<key>iterativeSubscriber</key>
+	<string>relationalState</string>
+	<key>listenerappearance</key>
+	<string>canProcessScale</string>
+	<key>localizationandfacade</key>
+	<string>immediateAscent</string>
+	<key>multiScale</key>
+	<string>activityPattern</string>
+	<key>substantialCursor</key>
+	<string>smallPublisher</string>
+	<key>symmetricTriangles</key>
+	<string>subtleProvision</string>
+	<key>trainnavigation</key>
+	<string>instructionName</string>
+</dict>
+</plist>

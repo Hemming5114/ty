@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectcount</key>
+	<string>axisBottom</string>
+	<key>priorityright</key>
+	<string>createbuilder</string>
+	<key>semanticconfiguration</key>
+	<string>spinTransformer</string>
+	<key>shouldPrepareActivity</key>
+	<string>gesturedetectorIndex</string>
+	<key>thresholdOpacity</key>
+	<string>shouldPrepareFlex</string>
+</dict>
+</plist>

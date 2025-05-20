@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPainter</key>
+	<string>processNib</string>
+	<key>immediateExtension</key>
+	<string>paddingTask</string>
+	<key>missionDepth</key>
+	<string>commonScalability</string>
+	<key>pinchableTraversal</key>
+	<string>inkwellphasecount</string>
+	<key>resizableReceiver</key>
+	<string>rapidNorm</string>
+	<key>shouldSetStateStateless</key>
+	<string>parallelScroll</string>
+</dict>
+</plist>

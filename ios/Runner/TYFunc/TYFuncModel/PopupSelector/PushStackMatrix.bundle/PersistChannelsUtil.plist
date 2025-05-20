@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasSpecifier</key>
+	<string>handlerfeedback</string>
+	<key>scrollerContrast</key>
+	<string>futureTier</string>
+	<key>shouldEndComposition</key>
+	<string>makeInteractor</string>
+	<key>shouldPushRoute</key>
+	<string>requestCompleter</string>
+	<key>shouldrebuildsign</key>
+	<string>buildPadding</string>
+	<key>shouldstartconsumer</key>
+	<string>maintainbox</string>
+	<key>storeloss</key>
+	<string>dynamicMerger</string>
+	<key>subtlecharacteristic</key>
+	<string>createcubit</string>
+	<key>taskofjob</key>
+	<string>dropdownbuttonHead</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengerotation</key>
+	<string>certificateVisibility</string>
+	<key>composableNib</key>
+	<string>greatException</string>
+	<key>crucialcontroller</key>
+	<string>persistAspectRatio</string>
+	<key>cupertinoAscent</key>
+	<string>timerFrequency</string>
+	<key>gestureOrigin</key>
+	<string>associatedAmortization</string>
+	<key>scenarioTheme</key>
+	<string>ascentFeedback</string>
+	<key>shouldTrainObserver</key>
+	<string>crudeCursor</string>
+</dict>
+</plist>

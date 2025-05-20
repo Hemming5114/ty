@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedInformation</key>
+	<string>canListenStateful</string>
+	<key>easyMend</key>
+	<string>scrollableDetector</string>
+	<key>exponentValidation</key>
+	<string>shouldDeserializeMobile</string>
+	<key>ignoredPermutation</key>
+	<string>primaryNorm</string>
+	<key>permutationsaturation</key>
+	<string>isExtension</string>
+	<key>respectiveSignature</key>
+	<string>shouldPauseDecoration</string>
+	<key>shouldShowEqualization</key>
+	<string>minSwitch</string>
+	<key>stepOpacity</key>
+	<string>sizedboxScale</string>
+</dict>
+</plist>

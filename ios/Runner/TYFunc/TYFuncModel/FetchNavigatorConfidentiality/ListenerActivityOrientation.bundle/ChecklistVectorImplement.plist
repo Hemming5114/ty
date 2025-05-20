@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorindex</key>
+	<string>saveintensity</string>
+	<key>largemenu</key>
+	<string>dividesprite</string>
+	<key>newestGestureDetector</key>
+	<string>canCancelPadding</string>
+	<key>secondStroke</key>
+	<string>shouldAnimateSubpixel</string>
+	<key>transformnavigator</key>
+	<string>buildColumn</string>
+</dict>
+</plist>

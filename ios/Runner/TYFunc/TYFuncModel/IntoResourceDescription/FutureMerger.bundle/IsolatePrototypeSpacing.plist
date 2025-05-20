@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitRole</key>
+	<string>semanticsCycle</string>
+	<key>localTrajectory</key>
+	<string>reactiveButton</string>
+	<key>queuecyclespeed</key>
+	<string>updateMethod</string>
+	<key>similarPresenter</key>
+	<string>subpixelVisitor</string>
+	<key>statelessthroughput</key>
+	<string>exponentlevelstyle</string>
+	<key>vectororigin</key>
+	<string>isolateObserver</string>
+</dict>
+</plist>

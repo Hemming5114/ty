@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPrecision</key>
+	<string>pinchableElasticity</string>
+	<key>interactorBorder</key>
+	<string>subtleBuffer</string>
+	<key>semanticPresenter</key>
+	<string>webIndicator</string>
+	<key>smartconnector</key>
+	<string>resilientInjection</string>
+	<key>webException</key>
+	<string>shouldEmitHeap</string>
+</dict>
+</plist>

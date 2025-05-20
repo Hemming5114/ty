@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateplayback</key>
+	<string>resilientDecoration</string>
+	<key>bitrateprocessappearance</key>
+	<string>granularCache</string>
+	<key>commonLatency</key>
+	<string>framecluster</string>
+	<key>futureInset</key>
+	<string>dimensionType</string>
+	<key>permissiveZone</key>
+	<string>multiplicationProcess</string>
+	<key>shouldEncodeNavigation</key>
+	<string>basicReducer</string>
+	<key>shouldskipchannels</key>
+	<string>shouldBindFuture</string>
+	<key>tabbartheme</key>
+	<string>enabledchart</string>
+</dict>
+</plist>

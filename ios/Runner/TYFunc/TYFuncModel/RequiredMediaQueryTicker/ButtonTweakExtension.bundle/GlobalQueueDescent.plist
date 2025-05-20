@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedNotifier</key>
+	<string>canStopBatch</string>
+	<key>seamlessMap</key>
+	<string>shouldReplaceAspect</string>
+	<key>shouldCacheConsumer</key>
+	<string>largeLog</string>
+	<key>significantPlayback</key>
+	<string>channelbymode</string>
+	<key>spotStatus</key>
+	<string>shouldKeepNavigator</string>
+	<key>trianglesState</key>
+	<string>newestloss</string>
+</dict>
+</plist>

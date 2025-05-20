@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramIndex</key>
+	<string>relationalCallback</string>
+	<key>pinchableIntensity</key>
+	<string>canUnmountedDrawer</string>
+	<key>reusableMusic</key>
+	<string>tooltitle</string>
+	<key>shouldPersistCheckbox</key>
+	<string>adaptiveRange</string>
+	<key>statelessMap</key>
+	<string>gesturedetectorActivity</string>
+</dict>
+</plist>

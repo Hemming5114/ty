@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuecoordinator</key>
+	<string>canTransitionModal</string>
+	<key>dedicatedDependency</key>
+	<string>handlerjobtension</string>
+	<key>dedicatedMediaQuery</key>
+	<string>notificationState</string>
+	<key>deferredPet</key>
+	<string>processResolver</string>
+	<key>previewstrategyrate</key>
+	<string>pinchableSwift</string>
+	<key>priorityShape</key>
+	<string>shouldContinuePet</string>
+	<key>projectionvelocity</key>
+	<string>configureNode</string>
+	<key>respectiveScenario</key>
+	<string>pushResource</string>
+</dict>
+</plist>

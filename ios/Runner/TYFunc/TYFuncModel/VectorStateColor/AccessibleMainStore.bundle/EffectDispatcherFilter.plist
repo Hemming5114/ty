@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionThroughput</key>
+	<string>pageviewinadapter</string>
+	<key>errorVelocity</key>
+	<string>intuitiveRichText</string>
+	<key>euclideanSprite</key>
+	<string>canRouteNorm</string>
+	<key>inheritedReference</key>
+	<string>globalCapacities</string>
+	<key>requestlayout</key>
+	<string>musicVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalview</key>
+	<string>resilientTransition</string>
+	<key>easyTexture</key>
+	<string>awaitformat</string>
+	<key>isolateOrigin</key>
+	<string>webefficiency</string>
+	<key>ondrawerchanged</key>
+	<string>metadataSpeed</string>
+	<key>parallelArithmetic</key>
+	<string>coordinatorForce</string>
+	<key>permissiveDelegate</key>
+	<string>mainWidget</string>
+	<key>radiusMomentum</key>
+	<string>emitterOrigin</string>
+	<key>scrollableTernary</key>
+	<string>calculateNode</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionUsage</key>
+	<string>channeltop</string>
+	<key>fetchintensity</key>
+	<string>concurrentstatetension</string>
+	<key>grainlocation</key>
+	<string>statefulBinder</string>
+	<key>mediaRotation</key>
+	<string>emitHero</string>
+	<key>shouldStartOperation</key>
+	<string>intuitiveConsumption</string>
+	<key>unsortedScenario</key>
+	<string>displayableColumn</string>
+</dict>
+</plist>

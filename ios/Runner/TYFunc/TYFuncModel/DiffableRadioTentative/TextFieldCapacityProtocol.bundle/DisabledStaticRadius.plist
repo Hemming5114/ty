@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNavigator</key>
+	<string>effectSpacing</string>
+	<key>autoObject</key>
+	<string>gramAdapter</string>
+	<key>crudeGesture</key>
+	<string>resizableAction</string>
+	<key>directChallenge</key>
+	<string>invisibleSplitter</string>
+	<key>persistentStorage</key>
+	<string>textfieldSpacing</string>
+	<key>profilerepository</key>
+	<string>provisionDuration</string>
+	<key>shouldTransitionSubpixel</key>
+	<string>retainInteractor</string>
+	<key>stackCenter</key>
+	<string>freeReducer</string>
+</dict>
+</plist>

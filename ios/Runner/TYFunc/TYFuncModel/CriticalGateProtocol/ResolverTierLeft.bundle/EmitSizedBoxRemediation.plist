@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterlistener</key>
+	<string>processtitle</string>
+	<key>isolateFrequency</key>
+	<string>primaryPublisher</string>
+	<key>newestPermutation</key>
+	<string>modelResponse</string>
+	<key>observerstream</key>
+	<string>grainnumberbrightness</string>
+	<key>shouldEncodeChecklist</key>
+	<string>eagerProgressBar</string>
+	<key>shouldParseNavigation</key>
+	<string>multiSignature</string>
+	<key>trainpriority</key>
+	<string>independentState</string>
+</dict>
+</plist>

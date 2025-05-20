@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorbuilder</key>
+	<string>interactiveRouter</string>
+	<key>explicitAccessory</key>
+	<string>draggableOperation</string>
+	<key>firstGridView</key>
+	<string>cubitSpeed</string>
+	<key>isstateful</key>
+	<string>largeReducer</string>
+	<key>notifierentity</key>
+	<string>latencyVisible</string>
+	<key>resizableSegue</key>
+	<string>diversifiedMapper</string>
+	<key>shouldHandleInteger</key>
+	<string>savenorm</string>
+	<key>shouldLayoutChecklist</key>
+	<string>layoutnearadapter</string>
+	<key>substantialgram</key>
+	<string>stackmementopressure</string>
+</dict>
+</plist>

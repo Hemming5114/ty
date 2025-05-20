@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCosine</key>
+	<string>explicitInstruction</string>
+	<key>displayableError</key>
+	<string>sinkShape</string>
+	<key>hardMethod</key>
+	<string>largeAsset</string>
+	<key>mobileUsage</key>
+	<string>transpileIsolate</string>
+	<key>sessionOrigin</key>
+	<string>interceptStore</string>
+	<key>unactivatedBatch</key>
+	<string>serviceBottom</string>
+</dict>
+</plist>

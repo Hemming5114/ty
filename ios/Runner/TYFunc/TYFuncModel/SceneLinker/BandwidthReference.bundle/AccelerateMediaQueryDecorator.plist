@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customnotificationvisibility</key>
+	<string>matrixTension</string>
+	<key>cyclerepository</key>
+	<string>missedArithmetic</string>
+	<key>desktopFeature</key>
+	<string>nativeScroller</string>
+	<key>methodInterval</key>
+	<string>descentTension</string>
+	<key>quaternionTheme</key>
+	<string>shouldCreateSwift</string>
+	<key>relationalCaption</key>
+	<string>uniformDialogs</string>
+</dict>
+</plist>

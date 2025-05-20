@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorynearaction</key>
+	<string>shouldpushmaster</string>
+	<key>comprehensiveBorder</key>
+	<string>shouldBindLabel</string>
+	<key>disabledStoryboard</key>
+	<string>musicPrototype</string>
+	<key>flexiblemodaltop</key>
+	<string>handleThread</string>
+	<key>hardBuilder</key>
+	<string>unsortedSprite</string>
+	<key>hardRemediation</key>
+	<string>hardEqualization</string>
+	<key>polygonforce</key>
+	<string>sessioneffect</string>
+	<key>shouldLoadRole</key>
+	<string>usecaseCoord</string>
+	<key>shouldPaintPageView</key>
+	<string>convertMetadata</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledMedia</key>
+	<string>techniqueworkorientation</string>
+	<key>explicitAnchor</key>
+	<string>gridviewStrategy</string>
+	<key>joinerType</key>
+	<string>shouldPublishDrawer</string>
+	<key>shouldLoadTask</key>
+	<string>shaderemitter</string>
+	<key>shouldPersistBuilder</key>
+	<string>debugqueue</string>
+	<key>titlecompositemargin</key>
+	<string>granularDelegate</string>
+</dict>
+</plist>

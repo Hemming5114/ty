@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcache</key>
+	<string>shouldObserveTouch</string>
+	<key>autoOptimizer</key>
+	<string>invisibleResource</string>
+	<key>mediumNavigation</key>
+	<string>unmountedOptimizer</string>
+	<key>onprotocolchanged</key>
+	<string>intuitiveEvaluation</string>
+	<key>profileColor</key>
+	<string>framebridgepadding</string>
+	<key>respectiveCombiner</key>
+	<string>cacheTier</string>
+	<key>shouldanimatemediaquery</key>
+	<string>finishExponent</string>
+	<key>zonebottom</key>
+	<string>histogramlistener</string>
+</dict>
+</plist>

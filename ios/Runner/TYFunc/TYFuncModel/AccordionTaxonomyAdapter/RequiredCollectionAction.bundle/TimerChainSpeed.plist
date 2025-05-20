@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleObserver</key>
+	<string>shouldKeepInteger</string>
+	<key>injectionInteraction</key>
+	<string>customizedgem</string>
+	<key>tensorMetadata</key>
+	<string>hyperbolicTrigger</string>
+</dict>
+</plist>

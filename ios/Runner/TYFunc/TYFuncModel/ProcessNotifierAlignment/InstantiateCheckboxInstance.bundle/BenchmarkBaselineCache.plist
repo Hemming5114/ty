@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>meshBorder</key>
+	<string>canPushLogarithm</string>
+	<key>metricsFeedback</key>
+	<string>unactivatedInteraction</string>
+	<key>resilienttrigger</key>
+	<string>resizeBloc</string>
+	<key>subpixelprovider</key>
+	<string>setupAnimation</string>
+	<key>trianglesPressure</key>
+	<string>serializeMission</string>
+</dict>
+</plist>

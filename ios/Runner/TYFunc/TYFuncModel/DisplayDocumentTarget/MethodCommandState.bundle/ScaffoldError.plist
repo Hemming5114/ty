@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatemerger</key>
+	<string>permissiveNorm</string>
+	<key>easythememargin</key>
+	<string>nativeStrength</string>
+	<key>imperativeRect</key>
+	<string>canListenCoordinator</string>
+	<key>independentScope</key>
+	<string>canTransformAspect</string>
+	<key>iterativeInterpolation</key>
+	<string>spinTitle</string>
+	<key>statefulOrigin</key>
+	<string>composableEquivalent</string>
+</dict>
+</plist>

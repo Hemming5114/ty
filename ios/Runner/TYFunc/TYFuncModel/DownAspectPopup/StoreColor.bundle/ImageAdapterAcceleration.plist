@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSpecifier</key>
+	<string>canStopModulus</string>
+	<key>scrollableSubscription</key>
+	<string>otherRestriction</string>
+	<key>shouldValidateMediaQuery</key>
+	<string>defaultMedia</string>
+	<key>temporarySign</key>
+	<string>pinchableFrame</string>
+	<key>volumeCenter</key>
+	<string>hyperbolicSpecifier</string>
+</dict>
+</plist>

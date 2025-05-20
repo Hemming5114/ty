@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerInterval</key>
+	<string>dedicatedGesture</string>
+	<key>delegatevalueoffset</key>
+	<string>equalstate</string>
+	<key>granularCustomPaint</key>
+	<string>descriptionHue</string>
+	<key>inactiveListView</key>
+	<string>shouldYieldVariant</string>
+	<key>invisibleComposition</key>
+	<string>staticGridView</string>
+	<key>limittween</key>
+	<string>resiliencerotation</string>
+	<key>materialstoryboardrate</key>
+	<string>missedAlpha</string>
+	<key>shouldTransitionAspectRatio</key>
+	<string>obtainSlider</string>
+</dict>
+</plist>

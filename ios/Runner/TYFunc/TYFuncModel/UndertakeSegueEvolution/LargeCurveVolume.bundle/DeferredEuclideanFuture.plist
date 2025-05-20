@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialRect</key>
+	<string>nodeSingleton</string>
+	<key>masterparamforce</key>
+	<string>animatedInkWell</string>
+	<key>requiredMargin</key>
+	<string>canEmitGridView</string>
+	<key>skinScale</key>
+	<string>offsetsaturation</string>
+</dict>
+</plist>

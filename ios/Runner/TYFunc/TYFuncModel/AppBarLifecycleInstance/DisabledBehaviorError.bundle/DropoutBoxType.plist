@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzermargin</key>
+	<string>emitterForce</string>
+	<key>builderfromflyweight</key>
+	<string>unactivatedSpot</string>
+	<key>euclideanScenario</key>
+	<string>cellDepth</string>
+	<key>intermediateThreshold</key>
+	<string>durationtop</string>
+	<key>shouldStopBatch</key>
+	<string>layoutWidget</string>
+	<key>shouldkeepindicator</key>
+	<string>stopStep</string>
+	<key>uniformMerger</key>
+	<string>unarycolor</string>
+</dict>
+</plist>

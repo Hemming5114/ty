@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultCallback</key>
+	<string>shouldPauseGate</string>
+	<key>eagerFilter</key>
+	<string>looptypevisibility</string>
+	<key>hardStack</key>
+	<string>obtainCoordinator</string>
+	<key>robustChallenge</key>
+	<string>stamparoundstyle</string>
+	<key>seamlesswidget</key>
+	<string>fixedExponent</string>
+	<key>shouldStartGridView</key>
+	<string>permissiveUsage</string>
+	<key>unaryevent</key>
+	<string>mediocrePager</string>
+</dict>
+</plist>

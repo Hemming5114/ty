@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResponder</key>
+	<string>shouldSkipGrayscale</string>
+	<key>declarativeLoop</key>
+	<string>composableGraphic</string>
+	<key>granularEntropy</key>
+	<string>consumeAllocator</string>
+	<key>hardStep</key>
+	<string>fetchmediaquery</string>
+	<key>objectInterval</key>
+	<string>chooserDirection</string>
+	<key>queueForce</key>
+	<string>permissiveradius</string>
+	<key>shouldStopSpecifier</key>
+	<string>visibleBaseline</string>
+	<key>tabviewValidation</key>
+	<string>shouldFinishNotification</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateFinder</key>
+	<string>offsetPattern</string>
+	<key>disabledtexture</key>
+	<string>scrollableTopic</string>
+	<key>granularBloc</key>
+	<string>commonContrast</string>
+	<key>holdalignment</key>
+	<string>shouldattachequipment</string>
+	<key>imperativeconfiguration</key>
+	<string>lockChannel</string>
+	<key>lostSlider</key>
+	<string>arithmeticValue</string>
+	<key>retainedComposition</key>
+	<string>upgradeerror</string>
+	<key>shouldEndHeap</key>
+	<string>accordionCompletion</string>
+	<key>shouldSerializeStateless</key>
+	<string>responsiveStore</string>
+	<key>visitsession</key>
+	<string>liteProcessor</string>
+</dict>
+</plist>

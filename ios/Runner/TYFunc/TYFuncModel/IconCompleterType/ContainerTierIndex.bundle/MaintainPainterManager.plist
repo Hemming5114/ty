@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSession</key>
+	<string>arithmeticCharacter</string>
+	<key>concurrentColumn</key>
+	<string>deferredInterface</string>
+	<key>fixedRecursion</key>
+	<string>permanentReplica</string>
+	<key>gestureFeedback</key>
+	<string>regulatecard</string>
+	<key>scalefrequency</key>
+	<string>canObserveGrayscale</string>
+</dict>
+</plist>

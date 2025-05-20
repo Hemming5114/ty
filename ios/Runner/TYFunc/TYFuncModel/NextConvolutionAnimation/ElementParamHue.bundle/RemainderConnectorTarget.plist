@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachlayout</key>
+	<string>permutationIndex</string>
+	<key>geometricSlider</key>
+	<string>rectangleStatus</string>
+	<key>occasionDepth</key>
+	<string>validateText</string>
+	<key>shoulddeserializecapacities</key>
+	<string>reflecttask</string>
+	<key>statefultraversal</key>
+	<string>canKeepBehavior</string>
+</dict>
+</plist>

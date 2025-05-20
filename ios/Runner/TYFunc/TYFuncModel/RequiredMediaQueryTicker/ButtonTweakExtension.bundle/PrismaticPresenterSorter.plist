@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directstore</key>
+	<string>shouldDetachConstraint</string>
+	<key>dynamicDropdownButton</key>
+	<string>canAttachBatch</string>
+	<key>hasEquipment</key>
+	<string>reactiveLatency</string>
+	<key>keyGraphic</key>
+	<string>creatorDelay</string>
+	<key>modalBrightness</key>
+	<string>iconInterval</string>
+	<key>momentumIndex</key>
+	<string>subscribeallocator</string>
+	<key>rapidobservercount</key>
+	<string>shouldDetachNorm</string>
+	<key>secondspine</key>
+	<string>resultoperation</string>
+	<key>shaderLeft</key>
+	<string>significantFrame</string>
+	<key>typicalSubscription</key>
+	<string>canContinueInkWell</string>
+</dict>
+</plist>

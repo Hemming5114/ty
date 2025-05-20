@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entitycenter</key>
+	<string>agileStoryboard</string>
+	<key>explicitNotification</key>
+	<string>shouldshowswitch</string>
+	<key>flexibleHeap</key>
+	<string>eageraccessoryfrequency</string>
+	<key>provisionOpacity</key>
+	<string>strengthIndex</string>
+	<key>recursionPressure</key>
+	<string>taxonomyDistance</string>
+	<key>searcherStatus</key>
+	<string>resumeobserver</string>
+	<key>subsequentCharacteristic</key>
+	<string>sizemend</string>
+	<key>typicalAnimator</key>
+	<string>permissiveRole</string>
+	<key>visibleSymbol</key>
+	<string>canStreamNorm</string>
+</dict>
+</plist>

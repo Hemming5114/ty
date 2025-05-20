@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInformation</key>
+	<string>scrollmerger</string>
+	<key>activechecklist</key>
+	<string>respectiveAwait</string>
+	<key>desktopGram</key>
+	<string>dynamicAwait</string>
+	<key>displayableBinder</key>
+	<string>completionSkewY</string>
+	<key>respectiveEfficiency</key>
+	<string>enabledEfficiency</string>
+	<key>shouldFinishGesture</key>
+	<string>webRepository</string>
+	<key>shouldSubscribeSkirt</key>
+	<string>hardNavigator</string>
+</dict>
+</plist>

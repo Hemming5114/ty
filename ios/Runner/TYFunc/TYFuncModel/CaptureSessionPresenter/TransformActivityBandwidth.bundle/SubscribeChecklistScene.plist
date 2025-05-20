@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeforce</key>
+	<string>shouldListenPlate</string>
+	<key>diffableprovider</key>
+	<string>shouldPublishCupertino</string>
+	<key>infrastructureTheme</key>
+	<string>currentlogarithm</string>
+	<key>interactorPressure</key>
+	<string>streamvisitorleft</string>
+	<key>materialGraph</key>
+	<string>directlyNavigator</string>
+	<key>mobileExpanded</key>
+	<string>explicitSizedBox</string>
+	<key>paddingAppearance</key>
+	<string>delegateBorder</string>
+	<key>queueBottom</key>
+	<string>taxonomySaturation</string>
+	<key>webdialogs</key>
+	<string>denseSpine</string>
+</dict>
+</plist>

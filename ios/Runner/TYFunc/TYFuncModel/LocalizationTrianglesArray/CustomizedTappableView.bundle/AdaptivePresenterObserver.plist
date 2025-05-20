@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBinary</key>
+	<string>awaitColor</string>
+	<key>lazyMultiplication</key>
+	<string>transformcycle</string>
+	<key>roleviascope</key>
+	<string>setstateSpecifier</string>
+	<key>secondPreview</key>
+	<string>sophisticatedDetector</string>
+	<key>usecasetransparency</key>
+	<string>associatedSign</string>
+</dict>
+</plist>

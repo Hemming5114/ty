@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocshader</key>
+	<string>draggableThroughput</string>
+	<key>cupertinoSpacing</key>
+	<string>routebycontext</string>
+	<key>granularScheduler</key>
+	<string>clipDelegate</string>
+	<key>robustEntity</key>
+	<string>mutablePicker</string>
+	<key>shouldStartRichText</key>
+	<string>renameQueue</string>
+	<key>sustainableGate</key>
+	<string>lossvisible</string>
+</dict>
+</plist>

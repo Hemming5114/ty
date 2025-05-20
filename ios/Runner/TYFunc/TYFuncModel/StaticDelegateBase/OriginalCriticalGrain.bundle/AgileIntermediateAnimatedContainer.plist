@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMetrics</key>
+	<string>equipmentfuture</string>
+	<key>signstore</key>
+	<string>gridviewgrid</string>
+	<key>smartNavigation</key>
+	<string>eagerReplica</string>
+	<key>sorterSaturation</key>
+	<string>newesttitle</string>
+	<key>statelessDetail</key>
+	<string>notifierOffset</string>
+	<key>viewposition</key>
+	<string>independentWrapper</string>
+</dict>
+</plist>

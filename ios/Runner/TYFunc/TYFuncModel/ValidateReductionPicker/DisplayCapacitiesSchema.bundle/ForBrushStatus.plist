@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicCenter</key>
+	<string>interactionIndex</string>
+	<key>concreteresponseduration</key>
+	<string>labelresponse</string>
+	<key>constraintresponder</key>
+	<string>specifyUnary</string>
+	<key>meshStyle</key>
+	<string>greatTopic</string>
+	<key>multiQuaternion</key>
+	<string>spritePlatform</string>
+	<key>normalInkWell</key>
+	<string>oldMission</string>
+	<key>prevTween</key>
+	<string>prismaticTransformer</string>
+	<key>resizableparticle</key>
+	<string>resolverbridgefrequency</string>
+	<key>storespeed</key>
+	<string>channeltierleft</string>
+</dict>
+</plist>

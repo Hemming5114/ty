@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTimeline</key>
+	<string>eraseNavigator</string>
+	<key>currentappbar</key>
+	<string>equivalentBehavior</string>
+	<key>extendexception</key>
+	<string>shouldInflateMaster</string>
+	<key>oldTrigger</key>
+	<string>searchPosition</string>
+	<key>shouldresumestateful</key>
+	<string>associatedNotifier</string>
+	<key>statefulobject</key>
+	<string>canCreateCosine</string>
+	<key>typicalLatency</key>
+	<string>behaviorObserver</string>
+</dict>
+</plist>

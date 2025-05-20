@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeresponse</key>
+	<string>singlemethoddistance</string>
+	<key>basicCreator</key>
+	<string>petTask</string>
+	<key>criticalawait</key>
+	<string>mobileEntity</string>
+	<key>opaqueitem</key>
+	<string>easyimpression</string>
+	<key>parallelProvider</key>
+	<string>flexibleBehavior</string>
+	<key>responsiveSpine</key>
+	<string>petForm</string>
+	<key>similarTimeline</key>
+	<string>metadataRotation</string>
+	<key>unsortedpetbottom</key>
+	<string>formatchart</string>
+</dict>
+</plist>

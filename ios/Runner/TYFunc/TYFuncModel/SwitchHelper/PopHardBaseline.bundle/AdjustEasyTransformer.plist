@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalArithmetic</key>
+	<string>projectionCenter</string>
+	<key>documentcontrast</key>
+	<string>bufferContrast</string>
+	<key>firstevent</key>
+	<string>reductionBuffer</string>
+	<key>invokebuffer</key>
+	<string>deferredArithmetic</string>
+	<key>managerreplica</key>
+	<string>canDetachProtocol</string>
+	<key>ongramtap</key>
+	<string>mendIndex</string>
+	<key>standalonesingleton</key>
+	<string>currentTweak</string>
+	<key>tappableSemantics</key>
+	<string>statelessconvolutionbehavior</string>
+</dict>
+</plist>

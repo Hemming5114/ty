@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAnimatedContainer</key>
+	<string>consultativeIntegrity</string>
+	<key>interactiveTween</key>
+	<string>widgethue</string>
+	<key>oldAction</key>
+	<string>shouldLoadNorm</string>
+	<key>quaternionTail</key>
+	<string>publishAspect</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerColumn</key>
+	<string>listenBitrate</string>
+	<key>concreteTransition</key>
+	<string>responderScale</string>
+	<key>draggableAudio</key>
+	<string>currentremainder</string>
+	<key>primaryClipper</key>
+	<string>projectJob</string>
+	<key>prismaticShader</key>
+	<string>isRemainder</string>
+	<key>shouldContinueMediaQuery</key>
+	<string>mapperOrientation</string>
+	<key>smallStorage</key>
+	<string>synchronizeInteractor</string>
+</dict>
+</plist>

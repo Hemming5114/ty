@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerSize</key>
+	<string>canDecodeCapsule</string>
+	<key>concreteLayer</key>
+	<string>specifyArithmetic</string>
+	<key>interactiveModule</key>
+	<string>shouldValidateNavigator</string>
+	<key>priorResponder</key>
+	<string>viewShade</string>
+	<key>retainedHandler</key>
+	<string>customMatrix</string>
+	<key>sorterInteraction</key>
+	<string>shouldStartMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationBehavior</key>
+	<string>priorMetrics</string>
+	<key>entropyRotation</key>
+	<string>divideStream</string>
+	<key>fusedGradient</key>
+	<string>canDisconnectCosine</string>
+	<key>keyParticle</key>
+	<string>asynccompositevisibility</string>
+	<key>protectedconsumer</key>
+	<string>rapidSample</string>
+	<key>standaloneEntity</key>
+	<string>unsortedTime</string>
+</dict>
+</plist>

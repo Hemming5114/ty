@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionOffset</key>
+	<string>sensortype</string>
+	<key>persistentProcessor</key>
+	<string>respectiveZone</string>
+	<key>pivotalOperation</key>
+	<string>alignmentborder</string>
+	<key>statelessAnalogy</key>
+	<string>ignoredTolerance</string>
+	<key>timerVisible</key>
+	<string>grayscaleKind</string>
+	<key>transformmodel</key>
+	<string>pushevent</string>
+</dict>
+</plist>

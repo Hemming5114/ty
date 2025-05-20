@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRouter</key>
+	<string>analyzeTransition</string>
+	<key>advancedbaselineresponse</key>
+	<string>aspectratiosaturation</string>
+	<key>directIcon</key>
+	<string>mobileLeft</string>
+	<key>ignoredPet</key>
+	<string>shouldLayoutCollection</string>
+	<key>inheritedPolyfill</key>
+	<string>intermediateSorter</string>
+	<key>interactiveinterpolationspacing</key>
+	<string>rapidPositioned</string>
+	<key>popupcolor</key>
+	<string>symbolScope</string>
+	<key>relationalTriangles</key>
+	<string>asynchronousDimension</string>
+	<key>sortedRectangle</key>
+	<string>unbindDrawer</string>
+	<key>subsequentAnimator</key>
+	<string>combineIsolate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorimpression</key>
+	<string>globalDialogs</string>
+	<key>labelSize</key>
+	<string>screenmethodrate</string>
+	<key>lazyMap</key>
+	<string>viewNumber</string>
+	<key>lostCapsule</key>
+	<string>convolutionSpacing</string>
+	<key>prevSelector</key>
+	<string>updateGradient</string>
+	<key>secondGrid</key>
+	<string>advancedscaffold</string>
+	<key>shapeColor</key>
+	<string>shouldLayoutInteger</string>
+	<key>significantScale</key>
+	<string>dimensionVariable</string>
+	<key>strengthTail</key>
+	<string>multiMedia</string>
+	<key>tolerancekind</key>
+	<string>revisitFeature</string>
+</dict>
+</plist>

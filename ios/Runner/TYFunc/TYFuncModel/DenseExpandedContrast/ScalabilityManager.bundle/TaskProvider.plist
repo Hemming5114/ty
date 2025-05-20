@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedBaseline</key>
+	<string>canTransitionThread</string>
+	<key>lossHead</key>
+	<string>smartSplitter</string>
+	<key>lostReplica</key>
+	<string>multiplicationStyle</string>
+	<key>retainedIndicator</key>
+	<string>textTension</string>
+	<key>shouldRouteRadio</key>
+	<string>crucialGestureDetector</string>
+	<key>shouldtrainvariant</key>
+	<string>canConnectSpecifier</string>
+	<key>tweakCenter</key>
+	<string>shouldCreateTextField</string>
+</dict>
+</plist>

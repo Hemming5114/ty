@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createproject</key>
+	<string>combineUseCase</string>
+	<key>declarativeLogarithm</key>
+	<string>immutableActivity</string>
+	<key>hierarchicalWorkflow</key>
+	<string>shouldCacheCard</string>
+	<key>listviewLocation</key>
+	<string>loadTransition</string>
+	<key>matrixmaterial</key>
+	<string>layoutSpecifier</string>
+	<key>schedulerBehavior</key>
+	<string>streamCatalyst</string>
+	<key>semanticWidget</key>
+	<string>layerFacade</string>
+</dict>
+</plist>

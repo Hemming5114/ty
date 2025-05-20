@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compilereference</key>
+	<string>titlescale</string>
+	<key>diversifiedTextField</key>
+	<string>capacitiesSpeed</string>
+	<key>nextConstraint</key>
+	<string>builderCycle</string>
+	<key>roleScale</key>
+	<string>locateDuration</string>
+	<key>subscriptionstructuretag</key>
+	<string>propagateService</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianLatency</key>
+	<string>captionSpeed</string>
+	<key>durationsaturation</key>
+	<string>sophisticatedRestriction</string>
+	<key>onactivitytap</key>
+	<string>componentDistance</string>
+	<key>shouldPushSizedBox</key>
+	<string>renameMetadata</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicTernary</key>
+	<string>independentStroke</string>
+	<key>firstFlex</key>
+	<string>chartMomentum</string>
+	<key>screenPadding</key>
+	<string>capsuleState</string>
+	<key>shouldBindTheme</key>
+	<string>descentState</string>
+	<key>shouldFormatMatrix</key>
+	<string>seekVector</string>
+	<key>viewdepth</key>
+	<string>textaudio</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionresilience</key>
+	<string>provideRouter</string>
+	<key>agileProvision</key>
+	<string>clipperskewx</string>
+	<key>alignmenttint</key>
+	<string>iscard</string>
+	<key>catalystLocation</key>
+	<string>formatTop</string>
+	<key>gestureshape</key>
+	<string>deferredBatch</string>
+	<key>interactionRotation</key>
+	<string>scrollableImage</string>
+	<key>intermediateLatency</key>
+	<string>deployPosition</string>
+	<key>significantpageview</key>
+	<string>textureJob</string>
+	<key>usedFeature</key>
+	<string>canParseSession</string>
+</dict>
+</plist>

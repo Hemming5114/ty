@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPriority</key>
+	<string>checklistdispatcher</string>
+	<key>contractionShape</key>
+	<string>sustainableUseCase</string>
+	<key>dedicatedAsync</key>
+	<string>marginCount</string>
+	<key>globalGraphic</key>
+	<string>subpixelVar</string>
+	<key>mediumNotification</key>
+	<string>lostCapacity</string>
+	<key>shouldDismissBaseline</key>
+	<string>currentAction</string>
+	<key>shouldKeepPrecision</key>
+	<string>shouldSaveObserver</string>
+	<key>shouldStartObserver</key>
+	<string>imperativecontroller</string>
+</dict>
+</plist>

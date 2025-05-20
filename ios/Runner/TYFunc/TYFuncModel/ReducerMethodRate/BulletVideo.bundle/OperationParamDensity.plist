@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentcache</key>
+	<string>timelineRate</string>
+	<key>dedicatedChannel</key>
+	<string>resultPlatform</string>
+	<key>desktopSignature</key>
+	<string>selectedproject</string>
+	<key>dynamicLoader</key>
+	<string>webplaybackrotation</string>
+	<key>explicitProtocol</key>
+	<string>symmetricNotifier</string>
+	<key>nextmanagerorientation</key>
+	<string>shouldUnmountDescriptor</string>
+	<key>symbolKind</key>
+	<string>optimizerVar</string>
+	<key>transitionchannel</key>
+	<string>secondFilter</string>
+	<key>vectorthreshold</key>
+	<string>gifttint</string>
+</dict>
+</plist>

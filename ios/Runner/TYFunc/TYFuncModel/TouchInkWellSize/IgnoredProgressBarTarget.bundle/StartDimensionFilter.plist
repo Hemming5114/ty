@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateStyle</key>
+	<string>shouldTransitionHero</string>
+	<key>columnTheme</key>
+	<string>basicFlex</string>
+	<key>isCapacities</key>
+	<string>shouldEncodeBoxShadow</string>
+	<key>isfragment</key>
+	<string>responsiveAnalogy</string>
+	<key>keyBase</key>
+	<string>canObserveAlpha</string>
+	<key>shouldResumePositioned</key>
+	<string>skirtCommand</string>
+	<key>sortedgatetransparency</key>
+	<string>boxcompositename</string>
+	<key>specifySemantics</key>
+	<string>methodProxy</string>
+	<key>sustainableAscent</key>
+	<string>shouldStartHero</string>
+</dict>
+</plist>

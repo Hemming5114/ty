@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFormat</key>
+	<string>encodeframe</string>
+	<key>delegatelikefunction</key>
+	<string>fusedConfidentiality</string>
+	<key>directlygridbehavior</key>
+	<string>popGesture</string>
+	<key>hierarchicalCharacteristic</key>
+	<string>capsuleStatus</string>
+	<key>prevLoop</key>
+	<string>permissivePainter</string>
+	<key>requestMomentum</key>
+	<string>serializeButton</string>
+	<key>responsiveListView</key>
+	<string>granularTolerance</string>
+	<key>shouldPopChannels</key>
+	<string>shouldCreateGram</string>
+	<key>sinkOrigin</key>
+	<string>observerName</string>
+</dict>
+</plist>

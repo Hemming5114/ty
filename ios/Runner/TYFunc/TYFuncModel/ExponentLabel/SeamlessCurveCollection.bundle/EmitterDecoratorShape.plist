@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleLinker</key>
+	<string>uniformObserver</string>
+	<key>fusedTolerance</key>
+	<string>charactershade</string>
+	<key>gatecontrast</key>
+	<string>sorterStatus</string>
+	<key>itemDuration</key>
+	<string>shouldCancelProvider</string>
+	<key>optionFeedback</key>
+	<string>hascursor</string>
+	<key>prioritybound</key>
+	<string>bulletMemento</string>
+	<key>shouldPresentCapsule</key>
+	<string>resetCubit</string>
+	<key>shouldProcessView</key>
+	<string>decorationbufferorientation</string>
+	<key>shouldStartInstruction</key>
+	<string>symmetricDrawer</string>
+	<key>sliderduration</key>
+	<string>radioHue</string>
+</dict>
+</plist>

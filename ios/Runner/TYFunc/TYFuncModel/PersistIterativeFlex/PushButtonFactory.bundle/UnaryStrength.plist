@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanMaterial</key>
+	<string>shouldObserveOverlay</string>
+	<key>playbackindex</key>
+	<string>statefulFragments</string>
+	<key>projecttheme</key>
+	<string>lostCatalyst</string>
+	<key>shouldCancelNotifier</key>
+	<string>resizableBullet</string>
+	<key>symmetricSensor</key>
+	<string>notifierSystem</string>
+</dict>
+</plist>

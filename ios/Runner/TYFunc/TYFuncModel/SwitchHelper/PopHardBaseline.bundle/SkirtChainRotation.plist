@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldParseScroll</key>
+	<string>asynchronousDistinction</string>
+	<key>shouldPersistDescriptor</key>
+	<string>projectStructure</string>
+	<key>shouldUnbindWidget</key>
+	<string>pushTransition</string>
+	<key>significantEntropy</key>
+	<string>throughputRate</string>
+	<key>tangentStyle</key>
+	<string>comprehensivePopup</string>
+	<key>typicalMetadata</key>
+	<string>monsterTask</string>
+</dict>
+</plist>

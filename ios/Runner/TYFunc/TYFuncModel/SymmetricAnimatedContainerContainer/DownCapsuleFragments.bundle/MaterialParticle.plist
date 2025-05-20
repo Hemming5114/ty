@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prismaticState</key>
+	<string>skirtthanbuffer</string>
+	<key>singletontransparency</key>
+	<string>logDepth</string>
+	<key>spinrole</key>
+	<string>retainedElement</string>
+	<key>webButton</key>
+	<string>dismisspresenter</string>
+</dict>
+</plist>

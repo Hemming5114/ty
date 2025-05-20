@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeShape</key>
+	<string>endMaster</string>
+	<key>cubeIndex</key>
+	<string>extendSink</string>
+	<key>greatbaseline</key>
+	<string>spriteFeedback</string>
+	<key>inheritedSemantics</key>
+	<string>navigatorState</string>
+	<key>movementevent</key>
+	<string>alignmentSaturation</string>
+	<key>scrollablePlayback</key>
+	<string>routeSensor</string>
+	<key>shouldDeserializeMission</key>
+	<string>groupinmemento</string>
+	<key>shouldDispatchAlpha</key>
+	<string>subsequentPublisher</string>
+	<key>shouldSubscribeSwift</key>
+	<string>flexibleInkWell</string>
+</dict>
+</plist>

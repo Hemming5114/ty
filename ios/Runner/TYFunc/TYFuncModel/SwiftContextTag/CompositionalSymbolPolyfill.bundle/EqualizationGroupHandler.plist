@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationfeedback</key>
+	<string>alignmentsplitter</string>
+	<key>disabledaction</key>
+	<string>flexkindtop</string>
+	<key>layoutBrightness</key>
+	<string>retainedCheckbox</string>
+	<key>prismaticDistinction</key>
+	<string>channelsLevel</string>
+	<key>retainedCollection</key>
+	<string>unmountTool</string>
+	<key>webAlignment</key>
+	<string>labelSystem</string>
+</dict>
+</plist>

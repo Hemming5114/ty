@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectiondirection</key>
+	<string>reusablelogarithm</string>
+	<key>firstCupertino</key>
+	<string>relationalTabView</string>
+	<key>mediumScroll</key>
+	<string>unsortedprofile</string>
+	<key>missedNotification</key>
+	<string>unmountedImage</string>
+	<key>persistoverlay</key>
+	<string>wrapperCount</string>
+	<key>serviceobserver</key>
+	<string>interceptBuilder</string>
+	<key>shouldStartNotification</key>
+	<string>immediateScenario</string>
+	<key>statelessCaption</key>
+	<string>specifyChannel</string>
+	<key>symmetricModulus</key>
+	<string>canYieldGestureDetector</string>
+</dict>
+</plist>

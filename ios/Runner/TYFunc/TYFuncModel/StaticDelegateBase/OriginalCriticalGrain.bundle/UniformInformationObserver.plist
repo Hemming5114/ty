@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintatstrategy</key>
+	<string>currentoverlay</string>
+	<key>delegatecombiner</key>
+	<string>shouldBuildCell</string>
+	<key>discardedImpact</key>
+	<string>canSubscribeDropdownButton</string>
+	<key>disparateMatrix</key>
+	<string>revisitFeature</string>
+	<key>eagerscope</key>
+	<string>diversifiedGrid</string>
+	<key>functionalGrayscale</key>
+	<string>canParseCosine</string>
+	<key>materialreceiver</key>
+	<string>shouldUpdateBitrate</string>
+	<key>rotatealpha</key>
+	<string>canPersistStateless</string>
+	<key>shouldBindPoint</key>
+	<string>declarativeRole</string>
+	<key>shouldpushpadding</key>
+	<string>uniformVideo</string>
+</dict>
+</plist>

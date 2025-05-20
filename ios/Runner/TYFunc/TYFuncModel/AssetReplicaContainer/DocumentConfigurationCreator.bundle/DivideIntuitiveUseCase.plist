@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impressionVisible</key>
+	<string>shouldUnmountPlayback</string>
+	<key>iterativeImpact</key>
+	<string>isolateDuration</string>
+	<key>newestLinker</key>
+	<string>signatureDuration</string>
+	<key>uniformAlert</key>
+	<string>tentativeCount</string>
+</dict>
+</plist>

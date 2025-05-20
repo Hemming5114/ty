@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopShape</key>
+	<string>smallresource</string>
+	<key>detectorSpeed</key>
+	<string>instructionOrientation</string>
+	<key>directlySensor</key>
+	<string>standaloneMonster</string>
+	<key>eventdecoratorvalidation</key>
+	<string>dimensionisolate</string>
+	<key>numericalMerger</key>
+	<string>gridlocation</string>
+	<key>primaryCosine</key>
+	<string>sinkLeft</string>
+	<key>shouldSerializeResource</key>
+	<string>disparateTimer</string>
+	<key>standaloneScope</key>
+	<string>mapType</string>
+</dict>
+</plist>

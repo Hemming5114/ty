@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureInteraction</key>
+	<string>pinchableModal</string>
+	<key>bufferlocation</key>
+	<string>customcontainerinteraction</string>
+	<key>inactiveBrush</key>
+	<string>cursororientation</string>
+	<key>movementsingletonpadding</key>
+	<string>reduceFuture</string>
+	<key>optimizerContrast</key>
+	<string>skipThread</string>
+	<key>pageviewadapterinteraction</key>
+	<string>quantizationBloc</string>
+	<key>shouldParseSine</key>
+	<string>disparaterectangle</string>
+	<key>shouldStartEffect</key>
+	<string>interactivebulletspacing</string>
+	<key>staticprofile</key>
+	<string>processPlayback</string>
+</dict>
+</plist>

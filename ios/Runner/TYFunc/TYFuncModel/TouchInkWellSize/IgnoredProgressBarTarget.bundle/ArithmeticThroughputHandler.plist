@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedZone</key>
+	<string>layoutStateless</string>
+	<key>equivalentrotation</key>
+	<string>geometricInfo</string>
+	<key>frameIndex</key>
+	<string>optionFeedback</string>
+	<key>searcherLeft</key>
+	<string>retainedPainter</string>
+	<key>similarConfiguration</key>
+	<string>canPopNavigator</string>
+	<key>similarProjection</key>
+	<string>controllerRotation</string>
+</dict>
+</plist>

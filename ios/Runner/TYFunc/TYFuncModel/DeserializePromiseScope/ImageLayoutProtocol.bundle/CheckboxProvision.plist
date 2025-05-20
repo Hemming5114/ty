@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeStream</key>
+	<string>materialEvaluation</string>
+	<key>evaluationForce</key>
+	<string>callbackfrombuffer</string>
+	<key>gradientcenter</key>
+	<string>challengeresult</string>
+	<key>iterativeController</key>
+	<string>parsebloc</string>
+	<key>operationnearmode</key>
+	<string>shouldStopGate</string>
+	<key>timerasnumber</key>
+	<string>criticalRemediation</string>
+</dict>
+</plist>

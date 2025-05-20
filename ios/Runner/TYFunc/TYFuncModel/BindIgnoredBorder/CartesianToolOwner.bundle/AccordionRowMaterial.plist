@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioalongchain</key>
+	<string>presentAlpha</string>
+	<key>basicReduction</key>
+	<string>emitStack</string>
+	<key>composableGroup</key>
+	<string>showAspectRatio</string>
+	<key>criticalIntegrity</key>
+	<string>mapperVisible</string>
+	<key>iterativeSlider</key>
+	<string>upgradeConfiguration</string>
+	<key>replacequeue</key>
+	<string>resizableObserver</string>
+	<key>secondMusic</key>
+	<string>oldrichtext</string>
+	<key>shouldPauseProtocol</key>
+	<string>shouldShowAlpha</string>
+	<key>shouldSubscribeBatch</key>
+	<string>popupcolor</string>
+	<key>sliderAlignment</key>
+	<string>tweenmaterial</string>
+</dict>
+</plist>

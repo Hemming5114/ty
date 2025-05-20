@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAlert</key>
+	<string>symmetricCharacteristic</string>
+	<key>axiswithlevel</key>
+	<string>nativeRepository</string>
+	<key>declarativePosition</key>
+	<string>shouldAttachSkirt</string>
+	<key>draggableNotifier</key>
+	<string>unmarshalalignment</string>
+	<key>imperativeWorkflow</key>
+	<string>toolBorder</string>
+	<key>painterOffset</key>
+	<string>shaderParameter</string>
+	<key>publicmethod</key>
+	<string>customizedMediaQuery</string>
+</dict>
+</plist>

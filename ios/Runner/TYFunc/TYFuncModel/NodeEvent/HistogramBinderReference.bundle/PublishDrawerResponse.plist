@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationRight</key>
+	<string>unsortedError</string>
+	<key>inheritedCubit</key>
+	<string>hascharacter</string>
+	<key>resolverordecorator</key>
+	<string>dispatchTabBar</string>
+	<key>shouldKeepGridView</key>
+	<string>rowValue</string>
+	<key>similarNavigator</key>
+	<string>iterativeLayer</string>
+	<key>staticTable</key>
+	<string>delicateBatch</string>
+</dict>
+</plist>

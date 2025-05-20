@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGraph</key>
+	<string>attachService</string>
+	<key>loopTint</key>
+	<string>backwardtitleorigin</string>
+	<key>mediaqueryResponse</key>
+	<string>draggableInteractor</string>
+	<key>progressbarschema</key>
+	<string>canStopRow</string>
+	<key>tappableConstant</key>
+	<string>throughputInterval</string>
+</dict>
+</plist>

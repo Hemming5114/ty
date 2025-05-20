@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalspecifierstatus</key>
+	<string>decodeResolver</string>
+	<key>persistentAperture</key>
+	<string>multiBuffer</string>
+	<key>shouldsavetabbar</key>
+	<string>shouldTransformOptimizer</string>
+	<key>statelessColor</key>
+	<string>reduceText</string>
+	<key>textlayout</key>
+	<string>completionNumber</string>
+	<key>threadKind</key>
+	<string>canObserveDropdownButton</string>
+</dict>
+</plist>

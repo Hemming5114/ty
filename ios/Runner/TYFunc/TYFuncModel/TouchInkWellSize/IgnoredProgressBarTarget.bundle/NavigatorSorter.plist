@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMetadata</key>
+	<string>asynchronousTrajectory</string>
+	<key>controllerlatency</key>
+	<string>criticalPolyfill</string>
+	<key>keepdecoration</key>
+	<string>toolPosition</string>
+	<key>lostSignature</key>
+	<string>keepNavigator</string>
+	<key>nextThreshold</key>
+	<string>spineFacade</string>
+	<key>semanticAnalogy</key>
+	<string>mountedEqualization</string>
+	<key>sizeTransparency</key>
+	<string>animationEnvironment</string>
+	<key>staticBitrate</key>
+	<string>techniquesaturation</string>
+	<key>wrapperStatus</key>
+	<string>aggregatehandler</string>
+</dict>
+</plist>

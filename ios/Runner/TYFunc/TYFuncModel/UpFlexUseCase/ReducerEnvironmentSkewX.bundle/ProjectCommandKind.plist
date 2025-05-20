@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanModel</key>
+	<string>compositionalcoordinator</string>
+	<key>factoryAlignment</key>
+	<string>notifyConfiguration</string>
+	<key>pickerForce</key>
+	<string>directlyDecoration</string>
+	<key>provisionSpacing</key>
+	<string>giftDepth</string>
+	<key>relationalpositioned</key>
+	<string>canPaintProvider</string>
+	<key>singleCursor</key>
+	<string>dynamicVertex</string>
+	<key>statefulForce</key>
+	<string>typicalRoute</string>
+	<key>variantTransparency</key>
+	<string>primaryInteractor</string>
+</dict>
+</plist>

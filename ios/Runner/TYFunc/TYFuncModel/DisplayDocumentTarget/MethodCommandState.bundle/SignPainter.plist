@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCatalyst</key>
+	<string>modalcoord</string>
+	<key>createsignature</key>
+	<string>canTrainTheme</string>
+	<key>diffableTabView</key>
+	<string>textFlags</string>
+	<key>grayscaleIndex</key>
+	<string>currentDescent</string>
+	<key>imageparamvalidation</key>
+	<string>localizationFunction</string>
+	<key>viewasprototype</key>
+	<string>channelIndex</string>
+	<key>visibleAllocator</key>
+	<string>symmetricEquipment</string>
+</dict>
+</plist>

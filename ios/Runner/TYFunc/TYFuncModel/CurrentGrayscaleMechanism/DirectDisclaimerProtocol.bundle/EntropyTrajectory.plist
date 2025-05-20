@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPicker</key>
+	<string>euclideanPermutation</string>
+	<key>beginnerStore</key>
+	<string>shouldConnectCache</string>
+	<key>boxduration</key>
+	<string>checkboxFeedback</string>
+	<key>factoryshapebottom</key>
+	<string>configurationMargin</string>
+	<key>responsehue</key>
+	<string>requestVelocity</string>
+	<key>shouldkeepsignature</key>
+	<string>shouldPersistGestureDetector</string>
+	<key>similarTool</key>
+	<string>popupformat</string>
+</dict>
+</plist>

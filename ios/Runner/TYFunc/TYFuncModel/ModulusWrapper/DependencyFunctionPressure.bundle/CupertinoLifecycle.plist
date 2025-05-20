@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushType</key>
+	<string>semanticdrawer</string>
+	<key>disabledAnchor</key>
+	<string>seguebound</string>
+	<key>independentMerger</key>
+	<string>canSubscribeProtocol</string>
+	<key>modulecount</key>
+	<string>attachReducer</string>
+	<key>nativeSession</key>
+	<string>trajectoryDensity</string>
+	<key>permanentResolver</key>
+	<string>greatMechanism</string>
+	<key>positionFormat</key>
+	<string>cyclecapacity</string>
+	<key>reusableRemediation</key>
+	<string>performFuture</string>
+</dict>
+</plist>

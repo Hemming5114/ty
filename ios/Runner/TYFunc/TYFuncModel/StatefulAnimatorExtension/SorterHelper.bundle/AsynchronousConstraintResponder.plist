@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableScheduler</key>
+	<string>fusedConfiguration</string>
+	<key>originalFragment</key>
+	<string>webaccessory</string>
+	<key>secondResponse</key>
+	<string>shouldBuildRichText</string>
+	<key>semanticInterface</key>
+	<string>setupSize</string>
+	<key>shouldcachecomposition</key>
+	<string>progressbarSystem</string>
+	<key>substantialTopic</key>
+	<string>parseTransformer</string>
+	<key>tappablePresenter</key>
+	<string>hierarchicalSchema</string>
+</dict>
+</plist>

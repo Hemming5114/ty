@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyPadding</key>
+	<string>discardedCheckbox</string>
+	<key>explicitRouter</key>
+	<string>requiredScale</string>
+	<key>lockcollection</key>
+	<string>shouldValidateLog</string>
+	<key>provisionresponse</key>
+	<string>navigateInjection</string>
+	<key>replicateplate</key>
+	<string>relationalCreator</string>
+	<key>shouldUnmountTheme</key>
+	<string>storeIsolate</string>
+	<key>skinvelocity</key>
+	<string>behaviorOrigin</string>
+</dict>
+</plist>

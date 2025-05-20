@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveIsolate</key>
+	<string>canShowModulus</string>
+	<key>lostshape</key>
+	<string>descentSkewX</string>
+	<key>mainRow</key>
+	<string>significantAlignment</string>
+	<key>statefulPositioned</key>
+	<string>canUnmountVariant</string>
+	<key>transformerfacadebrightness</key>
+	<string>sensorFormat</string>
+</dict>
+</plist>

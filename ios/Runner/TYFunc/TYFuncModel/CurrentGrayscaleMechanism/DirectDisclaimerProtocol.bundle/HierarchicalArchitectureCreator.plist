@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePopup</key>
+	<string>haswidget</string>
+	<key>chapterlevelfeedback</key>
+	<string>canAttachBaseline</string>
+	<key>mediumEquipment</key>
+	<string>parallelTolerance</string>
+	<key>mobileSpeed</key>
+	<string>featuresensor</string>
+	<key>popanimatedcontainer</key>
+	<string>anchorTheme</string>
+	<key>resilientReplica</key>
+	<string>cloneEntity</string>
+	<key>shouldEmitSign</key>
+	<string>evolutionPosition</string>
+	<key>shoulddispatchcard</key>
+	<string>respectiveCharacter</string>
+	<key>significantaudio</key>
+	<string>interactorbeyondmethod</string>
+</dict>
+</plist>

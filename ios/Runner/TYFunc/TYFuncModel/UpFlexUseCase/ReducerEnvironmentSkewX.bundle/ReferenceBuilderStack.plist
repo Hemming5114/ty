@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityTail</key>
+	<string>accordionBox</string>
+	<key>directlyArchitecture</key>
+	<string>inheritedTitle</string>
+	<key>firstZone</key>
+	<string>bindNavigator</string>
+	<key>positionDirection</key>
+	<string>shouldnotifygrayscale</string>
+	<key>reactiveInkWell</key>
+	<string>iconAlignment</string>
+	<key>scrollablecontainer</key>
+	<string>shouldTransitionDialogs</string>
+	<key>significantQueue</key>
+	<string>uniqueSubpixel</string>
+	<key>taxonomyOrientation</key>
+	<string>consumeGraph</string>
+</dict>
+</plist>

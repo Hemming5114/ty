@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameTint</key>
+	<string>slashmethodtail</string>
+	<key>keyTangent</key>
+	<string>checkChannel</string>
+	<key>normalTimer</key>
+	<string>playgrain</string>
+	<key>shouldReplaceConvolution</key>
+	<string>cartesianContraction</string>
+	<key>shouldRestartScaffold</key>
+	<string>createNorm</string>
+	<key>specifytaxonomy</key>
+	<string>respectiveSelector</string>
+	<key>tensorAnchor</key>
+	<string>euclideanResilience</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectCoord</key>
+	<string>canNavigateTangent</string>
+	<key>asynchronousInjection</key>
+	<string>alertstatus</string>
+	<key>euclideanModel</key>
+	<string>transformDialogs</string>
+	<key>invisibleQuaternion</key>
+	<string>flexibleAccessory</string>
+	<key>previewconnector</key>
+	<string>canFetchPlayback</string>
+	<key>resizechannel</key>
+	<string>specifyReceiver</string>
+	<key>reusablecontrollertype</key>
+	<string>canCancelSwift</string>
+</dict>
+</plist>

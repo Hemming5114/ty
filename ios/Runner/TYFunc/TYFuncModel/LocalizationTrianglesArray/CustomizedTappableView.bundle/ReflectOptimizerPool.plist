@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSorter</key>
+	<string>desktopLayout</string>
+	<key>lastSize</key>
+	<string>canConnectSubpixel</string>
+	<key>localcontrollerrate</key>
+	<string>releaseRect</string>
+	<key>normalRadius</key>
+	<string>statelessScalability</string>
+	<key>oldStep</key>
+	<string>visibleAnalogy</string>
+	<key>reactiveMaterializer</key>
+	<string>firstText</string>
+	<key>resumeresource</key>
+	<string>sliderParameter</string>
+	<key>skirtType</key>
+	<string>canPushChannels</string>
+	<key>staticChannel</key>
+	<string>resizableSorter</string>
+</dict>
+</plist>

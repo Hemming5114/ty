@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorresponse</key>
+	<string>crudeAsset</string>
+	<key>mobileTask</key>
+	<string>mapType</string>
+	<key>prismaticFuture</key>
+	<string>consumeLayout</string>
+	<key>shouldDisconnectWorkflow</key>
+	<string>assetVar</string>
+	<key>ternaryTransparency</key>
+	<string>checklistSystem</string>
+</dict>
+</plist>

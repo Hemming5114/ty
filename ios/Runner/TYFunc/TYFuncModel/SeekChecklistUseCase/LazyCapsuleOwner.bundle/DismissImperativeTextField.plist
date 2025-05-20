@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSaturation</key>
+	<string>titleTag</string>
+	<key>checklistVelocity</key>
+	<string>statelessExtension</string>
+	<key>consultativePosition</key>
+	<string>compositionBridge</string>
+	<key>nextInjection</key>
+	<string>quantizerRequest</string>
+	<key>shouldMountedInteger</key>
+	<string>typicalRoute</string>
+	<key>shouldUnmountedFlex</key>
+	<string>listenerInteraction</string>
+	<key>timermementolocation</key>
+	<string>orchestrateSubscription</string>
+</dict>
+</plist>

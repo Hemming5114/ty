@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopConsumption</key>
+	<string>directAscent</string>
+	<key>inheritedGridView</key>
+	<string>canFormatBase</string>
+	<key>layoutthroughobserver</key>
+	<string>euclideanNorm</string>
+	<key>paddingscale</key>
+	<string>sessionValue</string>
+	<key>priorityScale</key>
+	<string>canUnmountedSession</string>
+	<key>retainedSemantics</key>
+	<string>notificationSaturation</string>
+	<key>rowAppearance</key>
+	<string>interactiveSwitch</string>
+	<key>spritetag</key>
+	<string>disposeradius</string>
+</dict>
+</plist>

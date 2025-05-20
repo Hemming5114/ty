@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthVisible</key>
+	<string>benchmarkRoute</string>
+	<key>clipmanager</key>
+	<string>permanentMerger</string>
+	<key>lazySorter</key>
+	<string>combinealert</string>
+	<key>persistentgroup</key>
+	<string>tensorCurve</string>
+	<key>seamlessCapacities</key>
+	<string>projectparametervisible</string>
+	<key>sensorSkewY</key>
+	<string>shouldStreamNotification</string>
+</dict>
+</plist>

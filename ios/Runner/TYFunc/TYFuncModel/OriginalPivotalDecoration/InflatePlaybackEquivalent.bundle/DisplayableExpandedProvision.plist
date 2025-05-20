@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentproxytint</key>
+	<string>optionStage</string>
+	<key>associatedSwitch</key>
+	<string>presentCard</string>
+	<key>commonPager</key>
+	<string>shouldPrepareStack</string>
+	<key>discardedTransition</key>
+	<string>topicHead</string>
+	<key>mediainteraction</key>
+	<string>shouldRouteRemainder</string>
+	<key>mediocrescene</key>
+	<string>retainedFilter</string>
+	<key>previeworflyweight</key>
+	<string>declarativerowstyle</string>
+	<key>serializefuture</key>
+	<string>tabviewProxy</string>
+	<key>subsequentInterpolation</key>
+	<string>spineFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorInset</key>
+	<string>shouldbuildtext</string>
+	<key>isview</key>
+	<string>layoutbeyondtier</string>
+	<key>iterativeTime</key>
+	<string>dropoutScene</string>
+	<key>typicalanimatedcontainer</key>
+	<string>polygonfeedback</string>
+	<key>typicalcell</key>
+	<string>scalabilityFormat</string>
+	<key>wrapperBehavior</key>
+	<string>canPopMargin</string>
+</dict>
+</plist>

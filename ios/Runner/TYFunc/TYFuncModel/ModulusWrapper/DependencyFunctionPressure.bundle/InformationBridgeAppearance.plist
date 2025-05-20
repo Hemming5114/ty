@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityTransparency</key>
+	<string>interactiveConfidentiality</string>
+	<key>concurrentStateless</key>
+	<string>diversifiedTopic</string>
+	<key>intermediateChannel</key>
+	<string>imperativeResilience</string>
+	<key>precisionSaturation</key>
+	<string>hardConnector</string>
+	<key>usedProtocol</key>
+	<string>sinkRate</string>
+</dict>
+</plist>

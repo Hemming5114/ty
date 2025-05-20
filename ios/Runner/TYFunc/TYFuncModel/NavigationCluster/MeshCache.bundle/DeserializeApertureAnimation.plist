@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSample</key>
+	<string>usedCubit</string>
+	<key>binderfeedback</key>
+	<string>pageviewFramework</string>
+	<key>criticalcanvas</key>
+	<string>otherDependency</string>
+	<key>desktopIndicator</key>
+	<string>paintProfile</string>
+	<key>explicitTexture</key>
+	<string>canYieldSignature</string>
+	<key>gesturesplitter</key>
+	<string>synchronousFlex</string>
+	<key>seamlessElement</key>
+	<string>resizableTimeline</string>
+</dict>
+</plist>

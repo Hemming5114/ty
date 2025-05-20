@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customBinder</key>
+	<string>themeCount</string>
+	<key>desktopArchitecture</key>
+	<string>originalPermutation</string>
+	<key>erasezone</key>
+	<string>protectedFrame</string>
+	<key>errorStyle</key>
+	<string>curveVelocity</string>
+	<key>shouldEndDimension</key>
+	<string>shouldStartMovement</string>
+	<key>standaloneAnimation</key>
+	<string>lostLayout</string>
+	<key>storeormemento</key>
+	<string>canDispatchBullet</string>
+	<key>unsortedInteraction</key>
+	<string>explicitdelivery</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTransformer</key>
+	<string>switchOrigin</string>
+	<key>cupertinoborder</key>
+	<string>subsequentboxshadow</string>
+	<key>descriptiondirection</key>
+	<string>statelessForce</string>
+	<key>geometricGem</key>
+	<string>completerMode</string>
+	<key>shouldSubscribeEntropy</key>
+	<string>standaloneScenario</string>
+	<key>shouldsubscribelog</key>
+	<string>diversifiedScheduler</string>
+	<key>singleSizedBox</key>
+	<string>scenarioVisible</string>
+	<key>subsequentDuration</key>
+	<string>requiredPriority</string>
+</dict>
+</plist>

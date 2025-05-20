@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMatrix</key>
+	<string>shouldCacheSlider</string>
+	<key>copyheap</key>
+	<string>stackbutton</string>
+	<key>documentopacity</key>
+	<string>mediaintegration</string>
+	<key>enumeratecontroller</key>
+	<string>navigationTint</string>
+	<key>interactiveCache</key>
+	<string>intensityPosition</string>
+	<key>rapidCycle</key>
+	<string>pivotalGift</string>
+	<key>responsiveClipper</key>
+	<string>textfieldBorder</string>
+	<key>sliderschema</key>
+	<string>resizableLabel</string>
+</dict>
+</plist>

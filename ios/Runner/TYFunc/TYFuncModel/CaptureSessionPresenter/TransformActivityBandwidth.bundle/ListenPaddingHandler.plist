@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoDensity</key>
+	<string>prevslider</string>
+	<key>detailtransparency</key>
+	<string>statefulSymbol</string>
+	<key>memberallocator</key>
+	<string>canDeserializeCube</string>
+	<key>priorextension</key>
+	<string>largeTaxonomy</string>
+	<key>shouldBuildMargin</key>
+	<string>chapterColor</string>
+	<key>subsequentTopic</key>
+	<string>onbitratetap</string>
+</dict>
+</plist>

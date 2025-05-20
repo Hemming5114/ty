@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerRate</key>
+	<string>canListenCharacter</string>
+	<key>animationlinker</key>
+	<string>immediateSemantics</string>
+	<key>clippervisible</key>
+	<string>inheritedRequest</string>
+	<key>cursorKind</key>
+	<string>rapidSemantics</string>
+	<key>dependencyPressure</key>
+	<string>parsetable</string>
+	<key>explicitRectangle</key>
+	<string>interpolatedescription</string>
+	<key>requeststructureborder</key>
+	<string>shouldUnmountGrayscale</string>
+	<key>secondBinary</key>
+	<string>isbaseline</string>
+	<key>smartMaster</key>
+	<string>reductionBound</string>
+</dict>
+</plist>

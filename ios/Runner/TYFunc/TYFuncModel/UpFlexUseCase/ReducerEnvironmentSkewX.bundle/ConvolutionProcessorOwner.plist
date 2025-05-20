@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentsignature</key>
+	<string>delegateWidget</string>
+	<key>rolechapter</key>
+	<string>cycleContext</string>
+	<key>screenCenter</key>
+	<string>equalizationForm</string>
+	<key>temporaryView</key>
+	<string>granularSignature</string>
+	<key>themeTail</key>
+	<string>canDismissCard</string>
+</dict>
+</plist>

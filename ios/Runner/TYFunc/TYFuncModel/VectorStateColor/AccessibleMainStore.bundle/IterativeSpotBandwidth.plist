@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTechnique</key>
+	<string>combineeffect</string>
+	<key>formatmethod</key>
+	<string>parsehistogram</string>
+	<key>functionalSpot</key>
+	<string>singleTicker</string>
+	<key>inheritedDisclaimer</key>
+	<string>progressbarFacade</string>
+	<key>playbackCount</key>
+	<string>specifierContext</string>
+	<key>semanticstransformer</key>
+	<string>zoneLevel</string>
+	<key>shouldAnimateCollection</key>
+	<string>respectiveShader</string>
+	<key>shouldDeserializeNavigator</key>
+	<string>shouldMountedProjection</string>
+	<key>shouldRestartHeap</key>
+	<string>respectivelifecycle</string>
+	<key>zoneMomentum</key>
+	<string>listenRect</string>
+</dict>
+</plist>

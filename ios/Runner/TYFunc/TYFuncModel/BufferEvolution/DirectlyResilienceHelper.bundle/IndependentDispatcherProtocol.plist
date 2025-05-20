@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRestriction</key>
+	<string>serviceOpacity</string>
+	<key>binderOrientation</key>
+	<string>uniqueListener</string>
+	<key>cubitstructurestatus</key>
+	<string>markprecision</string>
+	<key>declarativeObserver</key>
+	<string>clipWidget</string>
+	<key>dialogsSpacing</key>
+	<string>catalystPhase</string>
+	<key>inheritedPager</key>
+	<string>shouldDeserializeView</string>
+	<key>onmultiplicationtap</key>
+	<string>canFinishPlayback</string>
+	<key>shouldSerializeCube</key>
+	<string>frameBehavior</string>
+	<key>spotinterpreterlocation</key>
+	<string>disabledDescription</string>
+</dict>
+</plist>

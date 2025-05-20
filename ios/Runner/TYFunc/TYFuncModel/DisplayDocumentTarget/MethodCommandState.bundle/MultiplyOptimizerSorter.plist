@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellfuture</key>
+	<string>showChecklist</string>
+	<key>creatorHue</key>
+	<string>kernelPressure</string>
+	<key>curvespacing</key>
+	<string>shouldSkipInstruction</string>
+	<key>drawerResponse</key>
+	<string>canPublishAperture</string>
+	<key>drawerinformation</key>
+	<string>factorythanpattern</string>
+	<key>ignoredroute</key>
+	<string>toleranceOffset</string>
+	<key>modalCenter</key>
+	<string>defaultMap</string>
+	<key>overlayhue</key>
+	<string>reusableviewsaturation</string>
+	<key>relationalAspectRatio</key>
+	<string>prevSlash</string>
+	<key>shouldSaveCanvas</key>
+	<string>shouldDeserializeCustomPaint</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFormat</key>
+	<string>sustainableBoxShadow</string>
+	<key>cartesianWorkflow</key>
+	<string>textvertex</string>
+	<key>delicateScalability</key>
+	<string>lazyDescriptor</string>
+	<key>heapName</key>
+	<string>emitGate</string>
+	<key>isReference</key>
+	<string>requiredRoute</string>
+	<key>resizableCanvas</key>
+	<string>smallComponent</string>
+	<key>uniformNotifier</key>
+	<string>subtleconfigurationtop</string>
+</dict>
+</plist>

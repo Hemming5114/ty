@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCaption</key>
+	<string>displaywidget</string>
+	<key>equipmentnearplatform</key>
+	<string>continuePlayback</string>
+	<key>hasobserver</key>
+	<string>parallelKernel</string>
+	<key>inactiveSpecifier</key>
+	<string>nextMusic</string>
+	<key>injectionintegration</key>
+	<string>shouldPopSwift</string>
+	<key>observerresponse</key>
+	<string>cycleviakind</string>
+	<key>rapidSwift</key>
+	<string>keyConfiguration</string>
+	<key>relationalCallback</key>
+	<string>notifyRadio</string>
+	<key>shouldDecodeBorder</key>
+	<string>requiredQueue</string>
+	<key>smartBehavior</key>
+	<string>rangeBrightness</string>
+</dict>
+</plist>

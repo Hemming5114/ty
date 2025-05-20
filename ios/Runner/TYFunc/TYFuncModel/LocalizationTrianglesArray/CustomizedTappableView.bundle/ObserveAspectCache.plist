@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMargin</key>
+	<string>partitionUseCase</string>
+	<key>attachpageview</key>
+	<string>popupPhase</string>
+	<key>lossPosition</key>
+	<string>replaceMetadata</string>
+	<key>oldCharacter</key>
+	<string>fillTimer</string>
+	<key>priorSpecifier</key>
+	<string>lazySorter</string>
+	<key>progressbarintegration</key>
+	<string>graphicSkewY</string>
+	<key>strengthcontrast</key>
+	<string>webMetadata</string>
+</dict>
+</plist>

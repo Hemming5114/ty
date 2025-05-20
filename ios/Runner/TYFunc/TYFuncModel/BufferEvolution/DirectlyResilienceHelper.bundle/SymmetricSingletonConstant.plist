@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSpecifier</key>
+	<string>interpolateFeature</string>
+	<key>animationdirection</key>
+	<string>parallelPageView</string>
+	<key>hasaxis</key>
+	<string>quitResult</string>
+	<key>pagerFormat</key>
+	<string>shouldUnmountedMobile</string>
+	<key>plateSize</key>
+	<string>mountedAccessory</string>
+	<key>shouldloadtechnique</key>
+	<string>keepmedia</string>
+	<key>shouldunbindbehavior</key>
+	<string>validateExtension</string>
+	<key>statefulversusphase</key>
+	<string>graphicState</string>
+	<key>stateoffset</key>
+	<string>associatedThreshold</string>
+	<key>temporaryScene</key>
+	<string>litesegmentstatus</string>
+</dict>
+</plist>

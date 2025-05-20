@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvestatebrightness</key>
+	<string>infoBorder</string>
+	<key>elasticLayout</key>
+	<string>mountedNorm</string>
+	<key>functionalScenario</key>
+	<string>shouldTransformCoordinator</string>
+	<key>hierarchicalCallback</key>
+	<string>widgetOffset</string>
+	<key>immediatetimer</key>
+	<string>rebuildCharacter</string>
+	<key>inheritedTask</key>
+	<string>completedTabBar</string>
+	<key>rendererTag</key>
+	<string>multiAnimator</string>
+	<key>robustIcon</key>
+	<string>enabledgridtension</string>
+	<key>shouldPersistGram</key>
+	<string>onreductiontap</string>
+	<key>transformisolate</key>
+	<string>workflowForm</string>
+</dict>
+</plist>

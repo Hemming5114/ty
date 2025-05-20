@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscalepadding</key>
+	<string>canUpdateAlpha</string>
+	<key>seamlessAsync</key>
+	<string>shouldListenLayout</string>
+	<key>seamlessIndicator</key>
+	<string>activeSpot</string>
+	<key>secondCurve</key>
+	<string>shouldPaintScreen</string>
+	<key>shouldKeepCharacter</key>
+	<string>visitAnimation</string>
+	<key>shouldPublishMedia</key>
+	<string>crucialScreen</string>
+	<key>specifyScene</key>
+	<string>spinPopup</string>
+</dict>
+</plist>

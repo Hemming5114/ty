@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticevaluation</key>
+	<string>activeRoute</string>
+	<key>cartesianReliability</key>
+	<string>accessoryFlags</string>
+	<key>datastate</key>
+	<string>dismissgrayscale</string>
+	<key>explicitPainter</key>
+	<string>continuePromise</string>
+	<key>intermediateShader</key>
+	<string>localtimerhue</string>
+	<key>quaternionResponse</key>
+	<string>shouldSubscribeCache</string>
+	<key>relationalCard</key>
+	<string>shouldBindHeap</string>
+	<key>smartPreview</key>
+	<string>handlerviamode</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncbycomposite</key>
+	<string>activefactoryduration</string>
+	<key>cellVelocity</key>
+	<string>checkboxVelocity</string>
+	<key>commonSign</key>
+	<string>shouldPublishCard</string>
+	<key>concreteLifecycle</key>
+	<string>lifecycleCount</string>
+	<key>shouldObserveRadio</key>
+	<string>locateProvider</string>
+	<key>shouldStreamBrush</key>
+	<string>shouldFetchCharacter</string>
+	<key>typicaldecoration</key>
+	<string>unlockTween</string>
+	<key>uniformInteractor</key>
+	<string>sinefacadetheme</string>
+</dict>
+</plist>

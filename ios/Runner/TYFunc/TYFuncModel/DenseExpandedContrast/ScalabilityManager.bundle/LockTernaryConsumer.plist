@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPreview</key>
+	<string>benchmarkGrain</string>
+	<key>displayableElement</key>
+	<string>listenpageview</string>
+	<key>typicalPolygon</key>
+	<string>handleUseCase</string>
+</dict>
+</plist>

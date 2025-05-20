@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>releasebloc</key>
+	<string>undertakesize</string>
+	<key>segmentdependency</key>
+	<string>canDispatchMusic</string>
+	<key>shouldFinishShader</key>
+	<string>syncWidget</string>
+	<key>shouldmountdescriptor</key>
+	<string>mediumVertex</string>
+	<key>sizedboxTag</key>
+	<string>pivotalTextField</string>
+	<key>sortedInkWell</key>
+	<string>factoryShade</string>
+	<key>subsequentContainer</key>
+	<string>eraseChannel</string>
+	<key>symmetricFormat</key>
+	<string>conformCubit</string>
+	<key>tensorController</key>
+	<string>transformPrecision</string>
+	<key>textureFeedback</key>
+	<string>shouldUpdateSegue</string>
+</dict>
+</plist>

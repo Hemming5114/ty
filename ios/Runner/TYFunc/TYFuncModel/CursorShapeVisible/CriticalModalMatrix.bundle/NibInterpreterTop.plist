@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAsset</key>
+	<string>releaseStorage</string>
+	<key>elasticMerger</key>
+	<string>canMountedEquipment</string>
+	<key>intermediatePrecision</key>
+	<string>discardedRadius</string>
+	<key>mapobject</key>
+	<string>sessionValue</string>
+</dict>
+</plist>

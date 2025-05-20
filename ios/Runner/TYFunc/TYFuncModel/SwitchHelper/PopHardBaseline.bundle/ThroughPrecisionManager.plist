@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterRate</key>
+	<string>canCreateFuture</string>
+	<key>euclideanPublisher</key>
+	<string>primaryService</string>
+	<key>iterativeSplitter</key>
+	<string>lostListener</string>
+	<key>nextAnimator</key>
+	<string>reconcilelayer</string>
+	<key>shouldUnmountedBehavior</key>
+	<string>singleFeature</string>
+	<key>visibleBaseline</key>
+	<string>intermediateLinker</string>
+</dict>
+</plist>

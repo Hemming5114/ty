@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentobserver</key>
+	<string>accordiondropdownbuttonbrightness</string>
+	<key>inheritedListener</key>
+	<string>sustainableImpact</string>
+	<key>locktimer</key>
+	<string>immutableAnimator</string>
+	<key>multiStep</key>
+	<string>canBindScale</string>
+	<key>plateSpeed</key>
+	<string>temporarysizedbox</string>
+	<key>responsiveAnchor</key>
+	<string>ongatechanged</string>
+	<key>symmetricCursor</key>
+	<string>dedicatedSubscription</string>
+</dict>
+</plist>

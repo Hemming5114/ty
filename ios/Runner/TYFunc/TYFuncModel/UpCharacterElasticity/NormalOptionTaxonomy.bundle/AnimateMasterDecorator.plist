@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertpresenter</key>
+	<string>shouldPrepareStep</string>
+	<key>cursorInset</key>
+	<string>profileOrientation</string>
+	<key>custompaintandtier</key>
+	<string>parallelCompletion</string>
+	<key>firstConfidentiality</key>
+	<string>managerdepth</string>
+	<key>multiChooser</key>
+	<string>unactivatedAnimator</string>
+	<key>parallelDispatcher</key>
+	<string>dynamicSignature</string>
+	<key>positiondetail</key>
+	<string>greatPlayback</string>
+	<key>reactiveHistogram</key>
+	<string>basicinterpolation</string>
+</dict>
+</plist>

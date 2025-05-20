@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMatrix</key>
+	<string>subsequentdependencytag</string>
+	<key>compositionalJoiner</key>
+	<string>pauseMedia</string>
+	<key>dynamicCanvas</key>
+	<string>featureBound</string>
+	<key>lastProvision</key>
+	<string>progressbarStructure</string>
+	<key>metadataPressure</key>
+	<string>sustainableaxis</string>
+	<key>signBottom</key>
+	<string>trainCurve</string>
+	<key>trianglesMode</key>
+	<string>cupertinoInset</string>
+</dict>
+</plist>

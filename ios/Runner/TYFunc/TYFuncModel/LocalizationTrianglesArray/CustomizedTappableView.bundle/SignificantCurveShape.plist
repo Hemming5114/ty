@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensiondetector</key>
+	<string>playbackanimator</string>
+	<key>greatBrush</key>
+	<string>shouldShowOptimizer</string>
+	<key>intuitiveBuffer</key>
+	<string>canAttachBaseline</string>
+	<key>secondMediaQuery</key>
+	<string>accessiblefragment</string>
+	<key>uniformSize</key>
+	<string>transpileMenu</string>
+</dict>
+</plist>

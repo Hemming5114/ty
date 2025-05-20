@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaframe</key>
+	<string>pinchabledescription</string>
+	<key>concreteFeature</key>
+	<string>asynchronousVector</string>
+	<key>diffableButton</key>
+	<string>operationSaturation</string>
+	<key>discardedMargin</key>
+	<string>conformText</string>
+	<key>enabledProjection</key>
+	<string>deployGroup</string>
+	<key>errorTag</key>
+	<string>gradientoffset</string>
+	<key>smartGrain</key>
+	<string>canDisposeSpot</string>
+	<key>trianglesBehavior</key>
+	<string>nativeMaterial</string>
+	<key>webTextField</key>
+	<string>custompaintBottom</string>
+</dict>
+</plist>

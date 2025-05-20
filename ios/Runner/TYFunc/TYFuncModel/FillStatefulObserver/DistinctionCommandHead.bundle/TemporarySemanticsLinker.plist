@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPressure</key>
+	<string>freeIsolate</string>
+	<key>basicevent</key>
+	<string>shouldReplaceSpine</string>
+	<key>coordinatorbinder</key>
+	<string>materializerTint</string>
+	<key>criticalAspectRatio</key>
+	<string>shouldmountplayback</string>
+	<key>geometricMend</key>
+	<string>servicereceiver</string>
+	<key>protectedDistinction</key>
+	<string>shouldStreamUsage</string>
+	<key>retainedTraversal</key>
+	<string>finderName</string>
+	<key>sharedPresenter</key>
+	<string>shouldpublishequalization</string>
+	<key>specifyUsage</key>
+	<string>dynamicSingleton</string>
+</dict>
+</plist>

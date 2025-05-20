@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryoutsidefacade</key>
+	<string>mobileNotifier</string>
+	<key>channelsalongmediator</key>
+	<string>canPaintHero</string>
+	<key>difficultProject</key>
+	<string>canStopTabView</string>
+	<key>fusedLabel</key>
+	<string>canHandleBorder</string>
+	<key>immediateFragment</key>
+	<string>shouldMountSkirt</string>
+	<key>inactiveAperture</key>
+	<string>detectorTension</string>
+	<key>observerInterval</key>
+	<string>triggerPosition</string>
+	<key>shouldAttachSign</key>
+	<string>missedWidget</string>
+</dict>
+</plist>

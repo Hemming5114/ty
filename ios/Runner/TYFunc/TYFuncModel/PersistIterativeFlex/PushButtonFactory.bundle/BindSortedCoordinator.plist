@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTheme</key>
+	<string>usedConsumption</string>
+	<key>boxshadowAlignment</key>
+	<string>oldCube</string>
+	<key>enabledMatrix</key>
+	<string>overrideflex</string>
+	<key>reductionFlags</key>
+	<string>shouldContinueCache</string>
+	<key>shouldCreateDuration</key>
+	<string>rowtint</string>
+	<key>signatureFlags</key>
+	<string>canSetStateText</string>
+	<key>symmetricColor</key>
+	<string>beginnerPolyfill</string>
+	<key>unactivatedpet</key>
+	<string>immutableConverter</string>
+</dict>
+</plist>

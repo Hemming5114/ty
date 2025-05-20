@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryScale</key>
+	<string>prismaticquaternion</string>
+	<key>ephemeralTechnique</key>
+	<string>binaryIndex</string>
+	<key>keyTouch</key>
+	<string>quaternionEdge</string>
+	<key>prismaticRouter</key>
+	<string>shouldCreateGridView</string>
+	<key>prismaticService</key>
+	<string>immutableSession</string>
+	<key>promiseStatus</key>
+	<string>respectiveConfiguration</string>
+	<key>responsiveReducer</key>
+	<string>permanentEqualization</string>
+	<key>shouldUnmountAspect</key>
+	<string>tweenremediation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorylayermode</key>
+	<string>dissociatePreview</string>
+	<key>deferredBrush</key>
+	<string>hardNavigator</string>
+	<key>flexibleHash</key>
+	<string>extendHandler</string>
+	<key>prevLabel</key>
+	<string>shouldpresentanimation</string>
+	<key>referenceOrientation</key>
+	<string>loopfacadeshade</string>
+	<key>seamlessImpression</key>
+	<string>formatConstraint</string>
+	<key>standaloneCharacteristic</key>
+	<string>shouldEmitBox</string>
+	<key>ternarydistance</key>
+	<string>extensionMethod</string>
+	<key>uniformProcessor</key>
+	<string>replaceSymbol</string>
+</dict>
+</plist>

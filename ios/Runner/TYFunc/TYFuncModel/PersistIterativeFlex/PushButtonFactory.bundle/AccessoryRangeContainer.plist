@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFormat</key>
+	<string>activatedCustomPaint</string>
+	<key>compositionalDispatcher</key>
+	<string>enabledtextdistance</string>
+	<key>cosinebehavior</key>
+	<string>completionTail</string>
+	<key>easyMediaQuery</key>
+	<string>containerappearance</string>
+	<key>resilientConstant</key>
+	<string>hierarchicalloader</string>
+	<key>shouldcreatetabbar</key>
+	<string>requestchannels</string>
+	<key>sliderintegrity</key>
+	<string>conformException</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteElement</key>
+	<string>prismaticsubscriptiondelay</string>
+	<key>scenarioBorder</key>
+	<string>concreteTextField</string>
+	<key>scrollableDependency</key>
+	<string>arithmeticReducer</string>
+	<key>specifierparametercenter</key>
+	<string>sorterLeft</string>
+</dict>
+</plist>

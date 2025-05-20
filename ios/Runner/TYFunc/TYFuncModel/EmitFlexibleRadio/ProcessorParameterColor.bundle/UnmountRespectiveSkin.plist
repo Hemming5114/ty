@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutdistinction</key>
+	<string>storagebound</string>
+	<key>navigatortierrate</key>
+	<string>permissiveCycle</string>
+	<key>parallelCluster</key>
+	<string>continueSpecifier</string>
+	<key>standaloneAmortization</key>
+	<string>parseLayout</string>
+	<key>statelessSelector</key>
+	<string>basicUseCase</string>
+</dict>
+</plist>

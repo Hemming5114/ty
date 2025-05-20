@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionfromdecorator</key>
+	<string>deserializeConsumer</string>
+	<key>disparateScale</key>
+	<string>granularNib</string>
+	<key>normalThroughput</key>
+	<string>significantPoint</string>
+	<key>particletexture</key>
+	<string>easySwift</string>
+	<key>resilientRect</key>
+	<string>subtlerowskewx</string>
+	<key>schedulerSpacing</key>
+	<string>updateInteractor</string>
+	<key>shouldInflateConstraint</key>
+	<string>canEndSpine</string>
+	<key>shouldkeepexpanded</key>
+	<string>newestScreen</string>
+	<key>similarEntity</key>
+	<string>throughputVisible</string>
+	<key>synchronousProgressBar</key>
+	<string>protocoldescription</string>
+</dict>
+</plist>

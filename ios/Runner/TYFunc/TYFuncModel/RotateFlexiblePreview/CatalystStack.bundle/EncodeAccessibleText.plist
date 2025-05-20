@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffertint</key>
+	<string>gestureOrientation</string>
+	<key>kernelTheme</key>
+	<string>optimizerContrast</string>
+	<key>promisechapter</key>
+	<string>storeSingleton</string>
+	<key>responsefromcontext</key>
+	<string>ignoredBaseline</string>
+	<key>shouldMountSkirt</key>
+	<string>semanticjoiner</string>
+	<key>shouldparseinteger</key>
+	<string>shouldPrepareFuture</string>
+</dict>
+</plist>

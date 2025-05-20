@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSkin</key>
+	<string>cubitMargin</string>
+	<key>semantictitle</key>
+	<string>capsuleTension</string>
+	<key>sharedCheckbox</key>
+	<string>canTransitionStoryboard</string>
+	<key>shouldCacheCaption</key>
+	<string>popIntensity</string>
+	<key>shouldTrainCurve</key>
+	<string>accelerateCoordinator</string>
+</dict>
+</plist>

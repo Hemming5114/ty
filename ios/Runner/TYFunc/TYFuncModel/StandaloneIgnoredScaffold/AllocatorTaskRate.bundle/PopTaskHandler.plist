@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorKind</key>
+	<string>baselinebloc</string>
+	<key>prevvideo</key>
+	<string>graphScale</string>
+	<key>secondsizehead</key>
+	<string>ascenttag</string>
+	<key>showmodal</key>
+	<string>tableSpeed</string>
+	<key>sortedLifecycle</key>
+	<string>materialInstruction</string>
+	<key>volumeState</key>
+	<string>canPresentWidget</string>
+</dict>
+</plist>

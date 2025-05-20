@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framekindspeed</key>
+	<string>mediumCatalyst</string>
+	<key>playbackTension</key>
+	<string>continuemediaquery</string>
+	<key>scrollFeedback</key>
+	<string>clipperSize</string>
+	<key>shouldDisconnectCompletion</key>
+	<string>canNavigateBatch</string>
+	<key>shouldEncodeAccessory</key>
+	<string>channelfromstate</string>
+	<key>skirtVisible</key>
+	<string>publisherValidation</string>
+	<key>smartArchitecture</key>
+	<string>publicEqualization</string>
+	<key>streamlevelstatus</key>
+	<string>futurebound</string>
+	<key>subpixelcallback</key>
+	<string>unmarshalDelegate</string>
+	<key>substantialEvolution</key>
+	<string>detachWorkflow</string>
+</dict>
+</plist>

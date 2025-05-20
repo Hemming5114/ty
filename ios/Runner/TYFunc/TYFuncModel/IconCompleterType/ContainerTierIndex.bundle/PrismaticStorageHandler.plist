@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePageView</key>
+	<string>notationStatus</string>
+	<key>activatedchooser</key>
+	<string>publicModal</string>
+	<key>borderMargin</key>
+	<string>draggableGift</string>
+	<key>checklistSaturation</key>
+	<string>backwardScroll</string>
+	<key>delegatestyleflags</key>
+	<string>emitRadio</string>
+	<key>presenterDistance</key>
+	<string>robustScenario</string>
+</dict>
+</plist>

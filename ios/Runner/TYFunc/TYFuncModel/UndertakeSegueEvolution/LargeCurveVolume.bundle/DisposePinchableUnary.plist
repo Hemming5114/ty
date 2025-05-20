@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationappearance</key>
+	<string>temporaryFragment</string>
+	<key>gestureatflyweight</key>
+	<string>unactivatedStoryboard</string>
+	<key>lastThroughput</key>
+	<string>futuretask</string>
+	<key>optimizerlayerscale</key>
+	<string>canDisposeCycle</string>
+	<key>receiverHead</key>
+	<string>stepShape</string>
+	<key>respectiveTable</key>
+	<string>customGradient</string>
+	<key>respectivepresenter</key>
+	<string>restoremanager</string>
+	<key>textCoord</key>
+	<string>selectedcursor</string>
+	<key>usedTrigger</key>
+	<string>specifySearcher</string>
+</dict>
+</plist>

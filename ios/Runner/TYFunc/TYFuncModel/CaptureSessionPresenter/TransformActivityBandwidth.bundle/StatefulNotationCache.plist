@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>segueDuration</key>
+	<string>canCancelScroll</string>
+	<key>shouldResumeLabel</key>
+	<string>standaloneRole</string>
+	<key>shouldTrainMedia</key>
+	<string>cursorContext</string>
+	<key>tappablecubit</key>
+	<string>ignoredTask</string>
+</dict>
+</plist>

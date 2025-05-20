@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEquipment</key>
+	<string>tangentOffset</string>
+	<key>lastChart</key>
+	<string>offsetTransformer</string>
+	<key>requiredservice</key>
+	<string>disparateDialogs</string>
+</dict>
+</plist>

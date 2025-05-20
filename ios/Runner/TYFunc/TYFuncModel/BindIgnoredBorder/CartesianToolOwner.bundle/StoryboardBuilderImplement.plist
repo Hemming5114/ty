@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsMode</key>
+	<string>richtextTemple</string>
+	<key>inheritedBinder</key>
+	<string>transposefactory</string>
+	<key>materialAlert</key>
+	<string>alertNumber</string>
+	<key>paintergrid</key>
+	<string>uniformnodesaturation</string>
+	<key>responsiveDrawer</key>
+	<string>descentVisibility</string>
+	<key>resumecoordinator</key>
+	<string>smallSorter</string>
+	<key>shouldStopEffect</key>
+	<string>intermediateTexture</string>
+	<key>typicalQuaternion</key>
+	<string>divideParticle</string>
+</dict>
+</plist>

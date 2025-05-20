@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicUseCase</key>
+	<string>shouldMountModulus</string>
+	<key>expandeddensity</key>
+	<string>shouldstreamdropdownbutton</string>
+	<key>hyperbolicPosition</key>
+	<string>cartesiancontroller</string>
+	<key>layoutFormat</key>
+	<string>eventRotation</string>
+	<key>shouldAnimatePrecision</key>
+	<string>robustModel</string>
+</dict>
+</plist>

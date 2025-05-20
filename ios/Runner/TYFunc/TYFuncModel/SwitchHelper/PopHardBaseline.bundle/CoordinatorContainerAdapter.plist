@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorexceptpattern</key>
+	<string>debugResolver</string>
+	<key>crudeLayout</key>
+	<string>unmountAccessory</string>
+	<key>equivalentVisibility</key>
+	<string>animationobserverdelay</string>
+	<key>inheritedAwait</key>
+	<string>niboffset</string>
+	<key>nibticker</key>
+	<string>canRestartLogarithm</string>
+	<key>remainderforce</key>
+	<string>setupSprite</string>
+	<key>sortedMetrics</key>
+	<string>parsesession</string>
+</dict>
+</plist>

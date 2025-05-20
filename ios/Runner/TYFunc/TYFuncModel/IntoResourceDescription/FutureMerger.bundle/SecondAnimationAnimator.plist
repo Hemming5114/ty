@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRadio</key>
+	<string>canEncodeEquipment</string>
+	<key>audioOrigin</key>
+	<string>inheritedAmortization</string>
+	<key>ephemeraltweak</key>
+	<string>connectorDelay</string>
+	<key>globalProcessor</key>
+	<string>endRadio</string>
+	<key>iterativeEmitter</key>
+	<string>explicitEvolution</string>
+	<key>shouldTransitionModal</key>
+	<string>protectedTheme</string>
+	<key>subpixelBehavior</key>
+	<string>callbackvisibility</string>
+	<key>throughputFrequency</key>
+	<string>displayableCache</string>
+</dict>
+</plist>

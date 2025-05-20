@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletscale</key>
+	<string>eagerThroughput</string>
+	<key>convolutionDirection</key>
+	<string>retainedTween</string>
+	<key>hardRouter</key>
+	<string>transitionview</string>
+	<key>quaternionBrightness</key>
+	<string>backwardRichText</string>
+	<key>shouldAnimateGram</key>
+	<string>iterativeExponent</string>
+	<key>sizedecoratorcount</key>
+	<string>visibleTitle</string>
+	<key>sustainableSound</key>
+	<string>responsiveTweak</string>
+</dict>
+</plist>

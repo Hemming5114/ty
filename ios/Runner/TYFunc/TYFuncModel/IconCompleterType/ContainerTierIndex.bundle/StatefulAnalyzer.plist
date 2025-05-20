@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLoss</key>
+	<string>positionedCycle</string>
+	<key>concreteManager</key>
+	<string>persistLayout</string>
+	<key>persistentTaxonomy</key>
+	<string>uniformanchor</string>
+	<key>seamlessLoss</key>
+	<string>uniqueProfile</string>
+	<key>texturemargin</key>
+	<string>playgrid</string>
+	<key>vectorMargin</key>
+	<string>shouldResumeKernel</string>
+</dict>
+</plist>

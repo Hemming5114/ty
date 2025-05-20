@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellValidation</key>
+	<string>shouldSerializeCoordinator</string>
+	<key>declarativeExtension</key>
+	<string>onfuturechanged</string>
+	<key>shouldPaintBase</key>
+	<string>directstreampressure</string>
+	<key>smallcreator</key>
+	<string>unregisternavigator</string>
+	<key>timerScale</key>
+	<string>techniqueBound</string>
+</dict>
+</plist>

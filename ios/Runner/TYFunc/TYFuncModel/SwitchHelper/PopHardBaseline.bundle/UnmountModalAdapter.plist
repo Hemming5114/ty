@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedintensitydensity</key>
+	<string>standalonePermutation</string>
+	<key>remainderappearance</key>
+	<string>shouldSkipMovement</string>
+	<key>selectedNib</key>
+	<string>canLoadStateful</string>
+	<key>shouldAnimateGate</key>
+	<string>threadinvar</string>
+	<key>shouldroutechallenge</key>
+	<string>composableService</string>
+	<key>substantialwidgetrate</key>
+	<string>dismissAccessory</string>
+	<key>temporaryprogressbartheme</key>
+	<string>performController</string>
+	<key>toolState</key>
+	<string>modelCoord</string>
+</dict>
+</plist>

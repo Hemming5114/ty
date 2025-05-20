@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteAccessory</key>
+	<string>asynchronousStep</string>
+	<key>profileprovision</key>
+	<string>shouldSubscribeOperation</string>
+	<key>rendererSkewY</key>
+	<string>audioMomentum</string>
+	<key>requestAcceleration</key>
+	<string>interactorcyclecolor</string>
+	<key>sophisticatedProfile</key>
+	<string>iconBrightness</string>
+</dict>
+</plist>

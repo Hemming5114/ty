@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableContraction</key>
+	<string>requiredprecisionresponse</string>
+	<key>ephemeralComposition</key>
+	<string>canBindBaseline</string>
+	<key>imageOpacity</key>
+	<string>ascentBorder</string>
+	<key>immutableIntegration</key>
+	<string>variantacceleration</string>
+	<key>layoutfrequency</key>
+	<string>createContainer</string>
+	<key>prevmenustyle</key>
+	<string>specifyScroll</string>
+	<key>shouldMountNib</key>
+	<string>decoupleStore</string>
+</dict>
+</plist>

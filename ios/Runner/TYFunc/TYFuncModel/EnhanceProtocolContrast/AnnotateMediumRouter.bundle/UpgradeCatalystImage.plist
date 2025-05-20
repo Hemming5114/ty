@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheevaluation</key>
+	<string>robustscalevalidation</string>
+	<key>commonAction</key>
+	<string>canContinueMaterial</string>
+	<key>cupertinoTransformer</key>
+	<string>firstSwift</string>
+	<key>customizedReducer</key>
+	<string>customizedPadding</string>
+</dict>
+</plist>

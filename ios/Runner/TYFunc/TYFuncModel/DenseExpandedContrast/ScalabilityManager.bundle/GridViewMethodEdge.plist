@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAwait</key>
+	<string>lazyStack</string>
+	<key>activeRecursion</key>
+	<string>consultativeSprite</string>
+	<key>deployawait</key>
+	<string>canCreateGrayscale</string>
+	<key>fusedEvent</key>
+	<string>partitionTopic</string>
+	<key>presenterinsidecycle</key>
+	<string>alertAlignment</string>
+	<key>reactiveDistinction</key>
+	<string>capacitiesdependency</string>
+	<key>requiredAlert</key>
+	<string>asyncRate</string>
+	<key>shouldAttachGridView</key>
+	<string>unaryActivity</string>
+	<key>shouldObserveNotifier</key>
+	<string>mediumRange</string>
+	<key>textRight</key>
+	<string>responsiveResilience</string>
+</dict>
+</plist>

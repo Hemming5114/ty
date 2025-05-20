@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menureliability</key>
+	<string>handleState</string>
+	<key>nextRepository</key>
+	<string>statusHead</string>
+	<key>routeraboutjob</key>
+	<string>addsegment</string>
+	<key>segmentawayplatform</key>
+	<string>animateSlider</string>
+	<key>subscriptionscopeposition</key>
+	<string>monsterDelay</string>
+</dict>
+</plist>

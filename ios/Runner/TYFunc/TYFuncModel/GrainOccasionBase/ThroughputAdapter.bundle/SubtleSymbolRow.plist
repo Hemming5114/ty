@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerChooser</key>
+	<string>dynamicdescription</string>
+	<key>composableLoss</key>
+	<string>visibleScroller</string>
+	<key>diffableTopic</key>
+	<string>rendererMargin</string>
+	<key>numericalCompleter</key>
+	<string>canRenderTextField</string>
+	<key>reusableMember</key>
+	<string>pushduration</string>
+	<key>scalespacing</key>
+	<string>prevPolyfill</string>
+	<key>segueopacity</key>
+	<string>notificationLeft</string>
+	<key>uniqueProcessor</key>
+	<string>transformerMethod</string>
+	<key>usedScalability</key>
+	<string>substantialProfile</string>
+</dict>
+</plist>

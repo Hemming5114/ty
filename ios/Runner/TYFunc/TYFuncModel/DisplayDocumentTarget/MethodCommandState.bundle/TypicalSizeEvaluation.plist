@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTitle</key>
+	<string>shouldListenSession</string>
+	<key>deferredOptimizer</key>
+	<string>liteState</string>
+	<key>gemmode</key>
+	<string>rendererIndex</string>
+</dict>
+</plist>

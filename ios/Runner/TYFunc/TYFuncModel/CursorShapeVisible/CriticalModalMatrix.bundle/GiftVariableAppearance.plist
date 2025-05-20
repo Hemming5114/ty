@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonforce</key>
+	<string>momentumtype</string>
+	<key>granularLoss</key>
+	<string>mitigateNode</string>
+	<key>presenterslider</key>
+	<string>blocType</string>
+	<key>sizedboxStatus</key>
+	<string>euclideanThread</string>
+</dict>
+</plist>

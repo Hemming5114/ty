@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGridView</key>
+	<string>renderContainer</string>
+	<key>disabledSpecifier</key>
+	<string>sortedMenu</string>
+	<key>fixedGraphic</key>
+	<string>inactiveInterface</string>
+	<key>interfaceTransparency</key>
+	<string>matrixAlignment</string>
+	<key>modaldespitetype</key>
+	<string>buffertint</string>
+	<key>prismaticTaxonomy</key>
+	<string>alignmentBrightness</string>
+	<key>respectiveStack</key>
+	<string>stampaction</string>
+	<key>shouldSerializeTask</key>
+	<string>syncTransformer</string>
+	<key>smallSorter</key>
+	<string>inactiveCache</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonvarsaturation</key>
+	<string>skipContainer</string>
+	<key>crucialSwift</key>
+	<string>shouldPopGraphic</string>
+	<key>evolutionName</key>
+	<string>tweakBottom</string>
+	<key>histogramVelocity</key>
+	<string>shouldParseLog</string>
+	<key>otherMatrix</key>
+	<string>lifecycleState</string>
+	<key>shouldEndSample</key>
+	<string>logarithmSkewY</string>
+	<key>uniquereplica</key>
+	<string>streamPadding</string>
+</dict>
+</plist>

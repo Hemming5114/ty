@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardsingletonpressure</key>
+	<string>controllerfeedback</string>
+	<key>enabledCustomPaint</key>
+	<string>endSizedBox</string>
+	<key>paintertransparency</key>
+	<string>petTop</string>
+	<key>radiooffset</key>
+	<string>configureCoordinator</string>
+	<key>saveinterpolation</key>
+	<string>concurrentExponent</string>
+	<key>shapeState</key>
+	<string>subsequentLayer</string>
+	<key>shouldFormatSpecifier</key>
+	<string>similarView</string>
+</dict>
+</plist>

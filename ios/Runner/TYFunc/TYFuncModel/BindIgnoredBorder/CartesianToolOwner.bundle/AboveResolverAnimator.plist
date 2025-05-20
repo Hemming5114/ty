@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInkWell</key>
+	<string>resourceScale</string>
+	<key>disconnectconsumer</key>
+	<string>lastMovement</string>
+	<key>ignoredNavigation</key>
+	<string>modalorstate</string>
+	<key>persistentModel</key>
+	<string>generateAwait</string>
+	<key>shouldKeepWidget</key>
+	<string>partitionHash</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableAsync</key>
+	<string>labelbesideactivity</string>
+	<key>eagerNode</key>
+	<string>restrictionSpeed</string>
+	<key>elasticCreator</key>
+	<string>setstateSlider</string>
+	<key>iconlistener</key>
+	<string>swiftValidation</string>
+	<key>intuitiveData</key>
+	<string>nativetaxonomy</string>
+	<key>loadconstraint</key>
+	<string>textTask</string>
+	<key>normstructureindex</key>
+	<string>pointHead</string>
+	<key>reusableSensor</key>
+	<string>oldFormat</string>
+	<key>shouldRebuildGram</key>
+	<string>alertResponse</string>
+</dict>
+</plist>

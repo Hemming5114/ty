@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentreferencesaturation</key>
+	<string>createSpecifier</string>
+	<key>dynamicStateless</key>
+	<string>replacebloc</string>
+	<key>occasionSaturation</key>
+	<string>connectsink</string>
+	<key>originaldecoration</key>
+	<string>shouldPushInstruction</string>
+	<key>prismaticDescriptor</key>
+	<string>canRebuildSegue</string>
+	<key>shouldBuildFragment</key>
+	<string>pushNode</string>
+	<key>shouldunmountchallenge</key>
+	<string>priorAnimation</string>
+	<key>singletask</key>
+	<string>lazybuttonvalidation</string>
+	<key>sortedResult</key>
+	<string>shouldPaintDialogs</string>
+</dict>
+</plist>

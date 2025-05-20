@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferwrapper</key>
+	<string>dimensionStyle</string>
+	<key>elasticityTop</key>
+	<string>lostStoryboard</string>
+	<key>queueinoperation</key>
+	<string>allocatorprovision</string>
+	<key>scrollableListener</key>
+	<string>navigateController</string>
+	<key>statefulCube</key>
+	<string>declarativeAnimation</string>
+	<key>synchronousSound</key>
+	<string>backwardTriangles</string>
+</dict>
+</plist>

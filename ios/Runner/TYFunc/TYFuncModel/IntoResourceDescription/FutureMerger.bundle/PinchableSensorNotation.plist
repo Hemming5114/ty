@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAlpha</key>
+	<string>nibAction</string>
+	<key>commonSorter</key>
+	<string>fixedSelector</string>
+	<key>compositionalRect</key>
+	<string>invokesprite</string>
+	<key>difficultPolygon</key>
+	<string>chapterShade</string>
+	<key>prismaticTheme</key>
+	<string>subtleLog</string>
+	<key>rectTransparency</key>
+	<string>shouldListenHero</string>
+	<key>semanticArithmetic</key>
+	<string>uniqueDecoration</string>
+	<key>shouldroutepositioned</key>
+	<string>shouldAnimateCanvas</string>
+	<key>timerskewy</key>
+	<string>entityComposite</string>
+</dict>
+</plist>

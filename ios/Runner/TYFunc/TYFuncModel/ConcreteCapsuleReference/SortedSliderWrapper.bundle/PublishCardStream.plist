@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialdecorationtype</key>
+	<string>inflatemusic</string>
+	<key>easyMaster</key>
+	<string>shouldSaveStoryboard</string>
+	<key>otherCluster</key>
+	<string>mediaqueryContext</string>
+	<key>robustNotification</key>
+	<string>borderSpacing</string>
+	<key>shouldEndBrush</key>
+	<string>skirtTheme</string>
+	<key>shouldPublishAccessory</key>
+	<string>cubitparambehavior</string>
+	<key>shouldRestartGram</key>
+	<string>statefulOccasion</string>
+	<key>trainview</key>
+	<string>reactiveMesh</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custombitrate</key>
+	<string>currentSelector</string>
+	<key>dependencylayerforce</key>
+	<string>emitPrecision</string>
+	<key>detailFlags</key>
+	<string>agileMaterializer</string>
+	<key>nextPosition</key>
+	<string>compositionChain</string>
+	<key>singlefeaturefrequency</key>
+	<string>textureName</string>
+	<key>viewCenter</key>
+	<string>dissociateMetadata</string>
+</dict>
+</plist>

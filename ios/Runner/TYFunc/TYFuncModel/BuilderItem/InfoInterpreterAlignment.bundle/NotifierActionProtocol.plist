@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterfactory</key>
+	<string>enabledArchitecture</string>
+	<key>desktopSkirt</key>
+	<string>processListener</string>
+	<key>disparateMargin</key>
+	<string>seamlessDescriptor</string>
+	<key>gemfactory</key>
+	<string>alphaHue</string>
+	<key>permanentTentative</key>
+	<string>chartcycleinset</string>
+	<key>shaderopacity</key>
+	<string>completedHeap</string>
+	<key>shouldValidateCaption</key>
+	<string>alignmentValidation</string>
+	<key>textfieldResponse</key>
+	<string>singletonScope</string>
+	<key>themeskewx</key>
+	<string>shouldFinishTouch</string>
+	<key>uniqueQueue</key>
+	<string>presenterPrototype</string>
+</dict>
+</plist>

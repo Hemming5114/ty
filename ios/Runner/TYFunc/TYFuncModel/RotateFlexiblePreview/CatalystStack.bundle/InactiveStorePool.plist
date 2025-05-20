@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicfeedback</key>
+	<string>disparatePainter</string>
+	<key>indicatorinteraction</key>
+	<string>presentChecklist</string>
+	<key>lazyCanvas</key>
+	<string>subpixelOrientation</string>
+	<key>mergerDistance</key>
+	<string>sliderTask</string>
+	<key>shouldStreamDecoration</key>
+	<string>relationalCharacteristic</string>
+	<key>timelineMomentum</key>
+	<string>allocateGroup</string>
+</dict>
+</plist>

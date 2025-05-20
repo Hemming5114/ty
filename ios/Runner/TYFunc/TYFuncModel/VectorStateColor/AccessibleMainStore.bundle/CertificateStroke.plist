@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardConfidentiality</key>
+	<string>startMovement</string>
+	<key>entityfeedback</key>
+	<string>kernelJob</string>
+	<key>findloop</key>
+	<string>scrollableView</string>
+	<key>largeAscent</key>
+	<string>elasticResponse</string>
+	<key>operationDistance</key>
+	<string>iconmatrix</string>
+	<key>paintresult</key>
+	<string>originalLogarithm</string>
+	<key>tabbarDepth</key>
+	<string>shouldBindResource</string>
+</dict>
+</plist>

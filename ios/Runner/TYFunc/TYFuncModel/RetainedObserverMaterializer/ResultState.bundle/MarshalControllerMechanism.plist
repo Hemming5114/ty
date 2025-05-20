@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthInterval</key>
+	<string>handlerkindscale</string>
+	<key>delicateSensor</key>
+	<string>sensorRotation</string>
+	<key>ephemeralManager</key>
+	<string>gridviewDirection</string>
+	<key>lostPolyfill</key>
+	<string>encodeTabView</string>
+	<key>missedFinder</key>
+	<string>advancedbehavior</string>
+	<key>providerresponse</key>
+	<string>euclideanDocument</string>
+	<key>shouldDispatchConvolution</key>
+	<string>reactiveexponentskewy</string>
+	<key>shouldMountInteger</key>
+	<string>allocateStorage</string>
+	<key>shouldvalidatetabview</key>
+	<string>errorRight</string>
+</dict>
+</plist>

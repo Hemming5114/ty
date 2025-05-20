@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBuilder</key>
+	<string>viewProcess</string>
+	<key>graphicRate</key>
+	<string>progressbarDecorator</string>
+	<key>interfaceBrightness</key>
+	<string>activeBuffer</string>
+	<key>liteContraction</key>
+	<string>canObserveDialogs</string>
+	<key>onmodulustap</key>
+	<string>canRebuildScaffold</string>
+	<key>shouldCreateRow</key>
+	<string>displayableInteraction</string>
+	<key>spineBorder</key>
+	<string>zoneAlignment</string>
+	<key>staticchanneldepth</key>
+	<string>defaultReference</string>
+	<key>zoneFeedback</key>
+	<string>primaryvectorcontrast</string>
+</dict>
+</plist>

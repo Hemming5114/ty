@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerVelocity</key>
+	<string>spotevent</string>
+	<key>dialogscoord</key>
+	<string>painterFlyweight</string>
+	<key>featurespacing</key>
+	<string>transpileDuration</string>
+	<key>seamlessResolver</key>
+	<string>streamlineresponse</string>
+</dict>
+</plist>

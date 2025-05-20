@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOverlay</key>
+	<string>marginforadapter</string>
+	<key>builderacceleration</key>
+	<string>themeDirection</string>
+	<key>disparateSound</key>
+	<string>gridsize</string>
+	<key>disparateTabView</key>
+	<string>petLeft</string>
+	<key>geometricProvider</key>
+	<string>conformgate</string>
+	<key>quaternionTension</key>
+	<string>intuitiveClipper</string>
+	<key>releasequeue</key>
+	<string>shouldParseSemantics</string>
+	<key>serviceleft</key>
+	<string>moveRadius</string>
+	<key>shouldLoadBrush</key>
+	<string>yieldSkin</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterSkewY</key>
+	<string>detachStream</string>
+	<key>explicitClipper</key>
+	<string>subscriberAlignment</string>
+	<key>similarTheme</key>
+	<string>saveRoute</string>
+	<key>staticVariant</key>
+	<string>attachTangent</string>
+</dict>
+</plist>

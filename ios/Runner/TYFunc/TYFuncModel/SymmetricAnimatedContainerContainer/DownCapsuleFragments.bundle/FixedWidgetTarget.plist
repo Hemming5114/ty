@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerScale</key>
+	<string>seamlessReducer</string>
+	<key>decorationstatus</key>
+	<string>euclideanOptimizer</string>
+	<key>fragmentstatevelocity</key>
+	<string>referencetopic</string>
+	<key>independentInstruction</key>
+	<string>behaviorStrategy</string>
+	<key>nextsizedbox</key>
+	<string>fusedTime</string>
+	<key>referencetimer</key>
+	<string>explicitReplica</string>
+	<key>regulatespot</key>
+	<string>onanimatedcontainerchanged</string>
+</dict>
+</plist>

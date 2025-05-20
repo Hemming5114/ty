@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDelegate</key>
+	<string>equipmentresult</string>
+	<key>delicateAnalogy</key>
+	<string>shouldDispatchCube</string>
+	<key>localRequest</key>
+	<string>compositionresource</string>
+	<key>permissiveGroup</key>
+	<string>canPushVariant</string>
+	<key>repositorylatency</key>
+	<string>scenarioTint</string>
+</dict>
+</plist>

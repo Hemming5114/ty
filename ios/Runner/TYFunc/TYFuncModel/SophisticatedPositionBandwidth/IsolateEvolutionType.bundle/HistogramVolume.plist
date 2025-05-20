@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documenttype</key>
+	<string>shouldUpdateSkirt</string>
+	<key>inflateborder</key>
+	<string>frameDepth</string>
+	<key>notifyticker</key>
+	<string>propagateService</string>
+	<key>shouldDisposeCard</key>
+	<string>progressbartype</string>
+	<key>usedPet</key>
+	<string>responsiveGift</string>
+	<key>usedResponse</key>
+	<string>largePlate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionroute</key>
+	<string>shouldBuildSubpixel</string>
+	<key>popupTension</key>
+	<string>sharedDispatcher</string>
+	<key>publisherType</key>
+	<string>canPushCube</string>
+	<key>respectiveMetadata</key>
+	<string>immediateTextField</string>
+	<key>respectiveinterpolationvelocity</key>
+	<string>operationLayer</string>
+	<key>shouldshowinstruction</key>
+	<string>canHandleWidget</string>
+	<key>taskmaterial</key>
+	<string>scrollableHeap</string>
+	<key>textdensity</key>
+	<string>endText</string>
+</dict>
+</plist>

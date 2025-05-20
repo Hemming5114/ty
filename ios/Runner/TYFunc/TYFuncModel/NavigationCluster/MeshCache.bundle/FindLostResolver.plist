@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioVisibility</key>
+	<string>multiplicationJob</string>
+	<key>criticalRange</key>
+	<string>plateCommand</string>
+	<key>crucialSlider</key>
+	<string>shouldSkipSpecifier</string>
+	<key>disabledrectbrightness</key>
+	<string>intensityContext</string>
+	<key>draggableaspect</key>
+	<string>profileType</string>
+	<key>grainMargin</key>
+	<string>shouldCancelPadding</string>
+	<key>shouldConnectPoint</key>
+	<string>persistTextField</string>
+	<key>shouldunbinddecoration</key>
+	<string>resetStore</string>
+	<key>signatureFrequency</key>
+	<string>multiFactory</string>
+	<key>tentativeTail</key>
+	<string>canRebuildPadding</string>
+</dict>
+</plist>

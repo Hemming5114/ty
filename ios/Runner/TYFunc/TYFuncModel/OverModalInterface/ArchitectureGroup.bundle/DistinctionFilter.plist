@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintloader</key>
+	<string>provisionIndex</string>
+	<key>movementandflyweight</key>
+	<string>shouldRestartMember</string>
+	<key>playbackPosition</key>
+	<string>trianglesSkewY</string>
+	<key>priorSink</key>
+	<string>webIndicator</string>
+	<key>shouldUnmountedShader</key>
+	<string>multiModal</string>
+	<key>sizeandlayer</key>
+	<string>entityStructure</string>
+	<key>spotDistance</key>
+	<string>emitintensity</string>
+	<key>uniqueEquivalent</key>
+	<string>sortedInterpolation</string>
+	<key>unsortedInteger</key>
+	<string>boxKind</string>
+</dict>
+</plist>

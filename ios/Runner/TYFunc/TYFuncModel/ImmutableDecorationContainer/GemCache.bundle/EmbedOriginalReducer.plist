@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureSaturation</key>
+	<string>dismissscaffold</string>
+	<key>batchoperationfeedback</key>
+	<string>asynchronousTimeline</string>
+	<key>missedzonemode</key>
+	<string>blocmethodopacity</string>
+	<key>protectedmultiplication</key>
+	<string>canResumePoint</string>
+	<key>taxonomyForce</key>
+	<string>taskdispatcher</string>
+</dict>
+</plist>

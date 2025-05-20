@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAnchor</key>
+	<string>canShowThread</string>
+	<key>fixedEvolution</key>
+	<string>cubevelocity</string>
+	<key>grainimpression</key>
+	<string>combinebinary</string>
+	<key>limitoffset</key>
+	<string>shouldFormatMatrix</string>
+	<key>progressbarLocation</key>
+	<string>clusterValidation</string>
+	<key>shouldencodeoptimizer</key>
+	<string>skinInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationformemento</key>
+	<string>visittool</string>
+	<key>buttonaroundparameter</key>
+	<string>adjustcurve</string>
+	<key>nativeInteraction</key>
+	<string>orchestrateManager</string>
+	<key>sortedThroughput</key>
+	<string>globalheap</string>
+</dict>
+</plist>

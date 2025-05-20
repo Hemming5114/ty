@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardModule</key>
+	<string>priorAsync</string>
+	<key>granularReceiver</key>
+	<string>resilientSubscriber</string>
+	<key>heapBehavior</key>
+	<string>requestHandler</string>
+	<key>independentswift</key>
+	<string>resumeProject</string>
+	<key>navigatorColor</key>
+	<string>canShowMovement</string>
+	<key>prismaticInteger</key>
+	<string>customProject</string>
+	<key>scrollablevideo</key>
+	<string>introspectObserver</string>
+	<key>shouldMountedAlpha</key>
+	<string>writetabbar</string>
+	<key>similarScalability</key>
+	<string>canStreamCube</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatebloc</key>
+	<string>rowSingleton</string>
+	<key>geometricStateful</key>
+	<string>metadataVisible</string>
+	<key>immutableconsumer</key>
+	<string>opaqueUseCase</string>
+	<key>marginmethodlocation</key>
+	<string>compositionsearcher</string>
+	<key>notifierappearance</key>
+	<string>documentaboutsystem</string>
+	<key>resilientReliability</key>
+	<string>requiredGridView</string>
+	<key>uniqueTransformer</key>
+	<string>shouldParseGesture</string>
+	<key>vectorizeicon</key>
+	<string>shouldsubscribepoint</string>
+</dict>
+</plist>

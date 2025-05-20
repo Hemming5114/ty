@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarelement</key>
+	<string>usageappearance</string>
+	<key>baselinelifecycle</key>
+	<string>animateTween</string>
+	<key>functionalnotification</key>
+	<string>shouldResumeFlex</string>
+	<key>shouldParseImage</key>
+	<string>retainIntensity</string>
+	<key>sineAppearance</key>
+	<string>uniqueTentative</string>
+	<key>timerVisibility</key>
+	<string>canPersistIndicator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedEntropy</key>
+	<string>painterbehavior</string>
+	<key>logMode</key>
+	<string>serviceEnvironment</string>
+	<key>mediumTimer</key>
+	<string>overridecapacities</string>
+	<key>navigationSize</key>
+	<string>nativeStorage</string>
+	<key>shouldCreateOverlay</key>
+	<string>handlerAcceleration</string>
+	<key>shouldRebuildDecoration</key>
+	<string>bindWorkflow</string>
+	<key>statefulFragment</key>
+	<string>concatenateEntity</string>
+	<key>tangentaroundmediator</key>
+	<string>toolvariableorientation</string>
+	<key>webMaterial</key>
+	<string>threadhash</string>
+</dict>
+</plist>

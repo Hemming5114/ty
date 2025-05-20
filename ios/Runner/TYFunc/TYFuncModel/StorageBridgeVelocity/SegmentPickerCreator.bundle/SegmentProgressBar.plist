@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedframe</key>
+	<string>compileInjection</string>
+	<key>mechanismType</key>
+	<string>disconnectScale</string>
+	<key>oldFlex</key>
+	<string>scaffoldStage</string>
+	<key>shouldStartSlash</key>
+	<string>overrideCompleter</string>
+	<key>shouldTransitionContainer</key>
+	<string>makeFrame</string>
+	<key>statefulAmortization</key>
+	<string>grainVar</string>
+	<key>storeAppearance</key>
+	<string>shouldSubscribePadding</string>
+</dict>
+</plist>

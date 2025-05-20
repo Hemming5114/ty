@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedInfrastructure</key>
+	<string>parseResult</string>
+	<key>optionTheme</key>
+	<string>anchorstrategycoord</string>
+	<key>rapidKernel</key>
+	<string>statefulScenario</string>
+	<key>shouldBindPositioned</key>
+	<string>graphopacity</string>
+</dict>
+</plist>

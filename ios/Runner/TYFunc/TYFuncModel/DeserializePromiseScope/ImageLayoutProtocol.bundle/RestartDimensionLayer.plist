@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCompletion</key>
+	<string>inactiveNotification</string>
+	<key>activeTabView</key>
+	<string>canUnbindWidget</string>
+	<key>errornumberposition</key>
+	<string>canShowNavigator</string>
+	<key>menuBorder</key>
+	<string>rotateCallback</string>
+	<key>projectType</key>
+	<string>interactiveSprite</string>
+	<key>rapidCombiner</key>
+	<string>gemInset</string>
+	<key>rapidTangent</key>
+	<string>shouldBindUnary</string>
+	<key>respectiveMovement</key>
+	<string>canTransitionTouch</string>
+	<key>shouldemitexpanded</key>
+	<string>notifierIndex</string>
+</dict>
+</plist>

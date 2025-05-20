@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledAspectRatio</key>
+	<string>limitindicator</string>
+	<key>flexOffset</key>
+	<string>transformInteger</string>
+	<key>paddingvisitorresponse</key>
+	<string>scrollVar</string>
+	<key>shouldBindArithmetic</key>
+	<string>canResumeSession</string>
+	<key>shouldPersistColumn</key>
+	<string>permutationOffset</string>
+	<key>shouldskipcustompaint</key>
+	<string>accordionShader</string>
+	<key>standaloneTitle</key>
+	<string>dispatcherBound</string>
+	<key>uniqueBuilder</key>
+	<string>gateSkewX</string>
+</dict>
+</plist>

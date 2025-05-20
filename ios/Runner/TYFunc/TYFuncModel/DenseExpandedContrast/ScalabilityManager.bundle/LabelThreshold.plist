@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectduration</key>
+	<string>sharednibformat</string>
+	<key>denseChannels</key>
+	<string>reflectWidget</string>
+	<key>directPresenter</key>
+	<string>progressbarTag</string>
+	<key>diversifiedAspect</key>
+	<string>customImpact</string>
+	<key>hardVideo</key>
+	<string>canCreateRemainder</string>
+	<key>synchronousEvent</key>
+	<string>listenDependency</string>
+	<key>transformnavigator</key>
+	<string>singleAxis</string>
+	<key>usecasecount</key>
+	<string>canBindResource</string>
+</dict>
+</plist>

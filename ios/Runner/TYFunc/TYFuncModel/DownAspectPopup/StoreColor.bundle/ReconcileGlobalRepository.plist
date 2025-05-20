@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSemantics</key>
+	<string>utillocation</string>
+	<key>largeBinary</key>
+	<string>tickerbinder</string>
+	<key>lostGrid</key>
+	<string>lastmission</string>
+	<key>permanentTitle</key>
+	<string>appbarName</string>
+	<key>reusableRemainder</key>
+	<string>skirtBehavior</string>
+	<key>storeremainder</key>
+	<string>shouldNotifyContainer</string>
+	<key>temporarySlider</key>
+	<string>stringifyResolver</string>
+</dict>
+</plist>

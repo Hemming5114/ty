@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystcompositerate</key>
+	<string>scopeBound</string>
+	<key>isconsumer</key>
+	<string>musicOperation</string>
+	<key>optimizemodulus</key>
+	<string>pushSubscription</string>
+	<key>popupkind</key>
+	<string>greatStateless</string>
+</dict>
+</plist>

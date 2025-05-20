@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorIndex</key>
+	<string>typicalConsumption</string>
+	<key>fixedAmortization</key>
+	<string>tappableMobile</string>
+	<key>listentable</key>
+	<string>reusableCycle</string>
+	<key>navigationamortization</key>
+	<string>insteaddelegate</string>
+</dict>
+</plist>

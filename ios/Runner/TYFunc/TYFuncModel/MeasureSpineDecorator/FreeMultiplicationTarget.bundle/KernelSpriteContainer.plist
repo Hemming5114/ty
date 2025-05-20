@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionLeft</key>
+	<string>shouldAttachDropdownButton</string>
+	<key>gradientlocation</key>
+	<string>processGridView</string>
+	<key>limitutil</key>
+	<string>routerexceptadapter</string>
+	<key>tentativeOrientation</key>
+	<string>marshalView</string>
+</dict>
+</plist>

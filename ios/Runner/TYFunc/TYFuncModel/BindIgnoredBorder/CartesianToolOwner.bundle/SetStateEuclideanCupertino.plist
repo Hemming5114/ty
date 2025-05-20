@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicHandler</key>
+	<string>displayPresenter</string>
+	<key>shouldDetachShader</key>
+	<string>delicateBitrate</string>
+	<key>shouldSetStateMultiplication</key>
+	<string>enhanceNode</string>
+	<key>shouldbuildinterpolation</key>
+	<string>infoHead</string>
+	<key>shouldstartobserver</key>
+	<string>euclideanTrajectory</string>
+</dict>
+</plist>

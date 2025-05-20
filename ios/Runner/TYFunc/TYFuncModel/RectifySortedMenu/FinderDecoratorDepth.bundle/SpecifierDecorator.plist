@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentHistogram</key>
+	<string>shouldStartTable</string>
+	<key>drawervisibility</key>
+	<string>shouldSubscribeCursor</string>
+	<key>functionalTextField</key>
+	<string>notifyScreen</string>
+	<key>materializerequest</key>
+	<string>emitterTransparency</string>
+	<key>shouldInflateRemainder</key>
+	<string>materialBehavior</string>
+	<key>sizefeedback</key>
+	<string>diffableCapacities</string>
+	<key>sophisticatedVector</key>
+	<string>cartesianevolution</string>
+	<key>storyboardscope</key>
+	<string>instructionKind</string>
+	<key>visibleImage</key>
+	<string>cartesianTrajectory</string>
+</dict>
+</plist>

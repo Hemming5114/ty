@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableWidget</key>
+	<string>originalCapsule</string>
+	<key>nextStore</key>
+	<string>notifySkin</string>
+	<key>nodeAlignment</key>
+	<string>inflateMobile</string>
+	<key>pinchableEmitter</key>
+	<string>amortizationSpeed</string>
+	<key>semanticprogressbar</key>
+	<string>deployLayout</string>
+	<key>subscriberPadding</key>
+	<string>hastask</string>
+</dict>
+</plist>

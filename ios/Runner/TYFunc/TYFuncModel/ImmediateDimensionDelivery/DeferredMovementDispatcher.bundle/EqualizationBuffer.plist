@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionagainstvariable</key>
+	<string>challengeStrategy</string>
+	<key>itemInteraction</key>
+	<string>canEndCatalyst</string>
+	<key>joinerValidation</key>
+	<string>limitObserver</string>
+	<key>mechanismState</key>
+	<string>checkboxRate</string>
+	<key>ontransitiontap</key>
+	<string>cubeChain</string>
+	<key>routeTransparency</key>
+	<string>delicateEqualization</string>
+	<key>scalabilityKind</key>
+	<string>splitterInterval</string>
+	<key>searchisolate</key>
+	<string>compositionbridgeedge</string>
+	<key>shouldvalidatecertificate</key>
+	<string>alignmentProxy</string>
+	<key>uniformInformation</key>
+	<string>draggableNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMap</key>
+	<string>receiveFeature</string>
+	<key>cardMomentum</key>
+	<string>shouldPresentEffect</string>
+	<key>chooserRate</key>
+	<string>intercepteffect</string>
+	<key>concreteRouter</key>
+	<string>discardedChecklist</string>
+	<key>impactSkewY</key>
+	<string>gemOrigin</string>
+	<key>instantiatelayer</key>
+	<string>retainedAspectRatio</string>
+	<key>keyTransformer</key>
+	<string>shouldUpdateMission</string>
+	<key>nativeEquivalent</key>
+	<string>canInflateMedia</string>
+	<key>shouldContinueChannels</key>
+	<string>disconnectCell</string>
+</dict>
+</plist>

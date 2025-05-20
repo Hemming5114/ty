@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentConsumption</key>
+	<string>unactivatedLoader</string>
+	<key>mobileevent</key>
+	<string>singletonTheme</string>
+	<key>particlecontextflags</key>
+	<string>canPushBox</string>
+	<key>positiondensity</key>
+	<string>notificationEnvironment</string>
+	<key>robustAnchor</key>
+	<string>documentLayer</string>
+	<key>shouldPresentLog</key>
+	<string>granularcupertino</string>
+	<key>shouldProcessBoxShadow</key>
+	<string>adaptivemethod</string>
+	<key>skirtPosition</key>
+	<string>awaittype</string>
+</dict>
+</plist>

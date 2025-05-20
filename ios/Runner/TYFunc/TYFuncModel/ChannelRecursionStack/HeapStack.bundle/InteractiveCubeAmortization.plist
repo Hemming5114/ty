@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionhash</key>
+	<string>smartMaster</string>
+	<key>globalequipmentorientation</key>
+	<string>directlyStateless</string>
+	<key>infrastructurePressure</key>
+	<string>capacitiesemitter</string>
+	<key>largePoint</key>
+	<string>generateSlider</string>
+	<key>reactivelayer</key>
+	<string>subsequentIcon</string>
+	<key>resizableResponder</key>
+	<string>overlayHead</string>
+	<key>serializeicon</key>
+	<string>statefulObserver</string>
+	<key>subtleBinder</key>
+	<string>yieldLabel</string>
+	<key>touchtriangles</key>
+	<string>independentAspect</string>
+</dict>
+</plist>

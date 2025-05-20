@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonpreview</key>
+	<string>skinscheduler</string>
+	<key>chartFormat</key>
+	<string>canSkipAperture</string>
+	<key>limithistogram</key>
+	<string>concreteVolume</string>
+	<key>missionHead</key>
+	<string>trianglesHead</string>
+	<key>respectiveeffect</key>
+	<string>revisitIsolate</string>
+	<key>shouldBuildBehavior</key>
+	<string>navigatorBound</string>
+	<key>shouldRenderBuilder</key>
+	<string>shouldRenderTernary</string>
+	<key>startcertificate</key>
+	<string>batchFunction</string>
+	<key>tentativeLocation</key>
+	<string>documentorvalue</string>
+</dict>
+</plist>

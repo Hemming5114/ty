@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicdelivery</key>
+	<string>pendingBox</string>
+	<key>concurrentCard</key>
+	<string>inflateCheckbox</string>
+	<key>ephemeralAsync</key>
+	<string>decorationorientation</string>
+	<key>featureuntilplatform</key>
+	<string>tappableTraversal</string>
+	<key>fusedConstant</key>
+	<string>disposeduration</string>
+	<key>techniqueSkewY</key>
+	<string>canSetStateLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatShade</key>
+	<string>mainUseCase</string>
+	<key>ignoredmediatop</key>
+	<string>trianglesEdge</string>
+	<key>prismaticInterface</key>
+	<string>shouldSubscribeEntropy</string>
+	<key>shouldRouteNotifier</key>
+	<string>cupertinoListView</string>
+	<key>shouldUpdateSymbol</key>
+	<string>canMountedNib</string>
+	<key>usedlinker</key>
+	<string>directEfficiency</string>
+</dict>
+</plist>

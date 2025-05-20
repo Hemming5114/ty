@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonformat</key>
+	<string>canBindImage</string>
+	<key>cacheorcommand</key>
+	<string>usagealignment</string>
+	<key>interpolationtierinset</key>
+	<string>unactivatedChart</string>
+	<key>pageviewtransparency</key>
+	<string>previewDepth</string>
+	<key>pickerSpacing</key>
+	<string>oldButton</string>
+	<key>providecosine</key>
+	<string>unbindBorder</string>
+	<key>resizableMission</key>
+	<string>notationLocation</string>
+	<key>throughputFeedback</key>
+	<string>activeBullet</string>
+</dict>
+</plist>

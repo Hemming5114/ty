@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConsumer</key>
+	<string>widgetMargin</string>
+	<key>allocatorpressure</key>
+	<string>canRestartNotifier</string>
+	<key>fusedsingletonstate</key>
+	<string>shouldMountCheckbox</string>
+	<key>primaryTitle</key>
+	<string>metadataSpeed</string>
+	<key>shouldDeserializeCupertino</key>
+	<string>implementChapter</string>
+	<key>texturePressure</key>
+	<string>sharedHistogram</string>
+</dict>
+</plist>

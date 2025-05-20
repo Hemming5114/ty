@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAppearance</key>
+	<string>listenerState</string>
+	<key>mainPadding</key>
+	<string>measureSize</string>
+	<key>resolverInterval</key>
+	<string>shouldBindEquipment</string>
+	<key>scrollableOverlay</key>
+	<string>retainedTicker</string>
+	<key>sequentialScroll</key>
+	<string>consumerdescent</string>
+	<key>shouldYieldCursor</key>
+	<string>streamlinemetadata</string>
+</dict>
+</plist>

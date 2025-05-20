@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialEmitter</key>
+	<string>offsetBridge</string>
+	<key>customMovement</key>
+	<string>sortedCreator</string>
+	<key>hierarchicalPoint</key>
+	<string>fixedCompletion</string>
+	<key>lastPopup</key>
+	<string>shouldInflateAlert</string>
+	<key>shouldCancelScroll</key>
+	<string>reusableTextField</string>
+	<key>shouldUnmountChannels</key>
+	<string>executeCallback</string>
+	<key>skipmap</key>
+	<string>coordinatorStructure</string>
+	<key>visibleButton</key>
+	<string>prismaticDecoration</string>
+</dict>
+</plist>

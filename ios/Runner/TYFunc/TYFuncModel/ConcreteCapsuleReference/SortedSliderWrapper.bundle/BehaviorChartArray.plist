@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSorter</key>
+	<string>clusterBorder</string>
+	<key>elasticCompletion</key>
+	<string>showProfile</string>
+	<key>futuretransformer</key>
+	<string>nextSprite</string>
+	<key>paddingdrawer</key>
+	<string>textactivityrate</string>
+	<key>playbackCount</key>
+	<string>shouldStopSizedBox</string>
+	<key>radioName</key>
+	<string>setstateStream</string>
+	<key>topicinoperation</key>
+	<string>hyperbolicTransformer</string>
+</dict>
+</plist>

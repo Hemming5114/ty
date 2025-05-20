@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationwithoutvariable</key>
+	<string>coordinatorenvironmentbehavior</string>
+	<key>disabledPainter</key>
+	<string>publishTouch</string>
+	<key>discoverrect</key>
+	<string>compositionParam</string>
+	<key>equipmentpermediator</key>
+	<string>exponentInterval</string>
+	<key>greatGraphic</key>
+	<string>canSkipMatrix</string>
+	<key>normalParticle</key>
+	<string>crudeInstruction</string>
+	<key>offsetTail</key>
+	<string>storeRequest</string>
+	<key>robustQueue</key>
+	<string>sceneRotation</string>
+	<key>shouldPopConvolution</key>
+	<string>inheritedWrapper</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMetadata</key>
+	<string>mobileOrientation</string>
+	<key>hardOverlay</key>
+	<string>intermediateInterpolation</string>
+	<key>histogramhue</key>
+	<string>directResponder</string>
+	<key>pinchableGroup</key>
+	<string>isolatemargin</string>
+	<key>prismaticFinder</key>
+	<string>prioritystore</string>
+	<key>significantState</key>
+	<string>exitGraph</string>
+	<key>switchSize</key>
+	<string>viewmementostate</string>
+	<key>traversalmode</key>
+	<string>constantHead</string>
+	<key>vertexColor</key>
+	<string>listenCertificate</string>
+</dict>
+</plist>

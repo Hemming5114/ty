@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystamongstage</key>
+	<string>replacetitle</string>
+	<key>fixedArchitecture</key>
+	<string>listenerreplica</string>
+	<key>lastSegment</key>
+	<string>clipSink</string>
+	<key>plateOrientation</key>
+	<string>canSkipBullet</string>
+	<key>precisionBrightness</key>
+	<string>cosineEdge</string>
+	<key>radiusvisible</key>
+	<string>customizedDependency</string>
+	<key>scaleAppearance</key>
+	<string>arithmeticAscent</string>
+	<key>scrollablechallengemargin</key>
+	<string>tensorTaxonomy</string>
+	<key>tabbarCenter</key>
+	<string>deferredMapper</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCluster</key>
+	<string>defaultsession</string>
+	<key>clonelocalization</key>
+	<string>boxshadowMode</string>
+	<key>pinchableCombiner</key>
+	<string>numericalDescent</string>
+	<key>relationalCubit</key>
+	<string>unmountedShader</string>
+	<key>shouldStopSegue</key>
+	<string>seekCompleter</string>
+	<key>timercommandpressure</key>
+	<string>oldSingleton</string>
+</dict>
+</plist>

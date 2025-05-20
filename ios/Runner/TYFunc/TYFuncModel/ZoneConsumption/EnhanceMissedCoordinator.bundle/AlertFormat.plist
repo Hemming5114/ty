@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionacceleration</key>
+	<string>intermediateBloc</string>
+	<key>largeRichText</key>
+	<string>autoBaseline</string>
+	<key>multiCupertino</key>
+	<string>unactivatedReference</string>
+	<key>persistentMesh</key>
+	<string>detectorOffset</string>
+	<key>signtail</key>
+	<string>subpixelVisible</string>
+	<key>trajectoryappearance</key>
+	<string>crucialTheme</string>
+	<key>typicalController</key>
+	<string>enumerateBloc</string>
+</dict>
+</plist>

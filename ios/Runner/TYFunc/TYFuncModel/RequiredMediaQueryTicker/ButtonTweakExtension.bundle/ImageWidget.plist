@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeUnary</key>
+	<string>radiusborder</string>
+	<key>contractionVelocity</key>
+	<string>inactiveBullet</string>
+	<key>directlyContraction</key>
+	<string>pinchableTitle</string>
+	<key>heroAcceleration</key>
+	<string>upgradeGroup</string>
+	<key>routerMomentum</key>
+	<string>gifttype</string>
+	<key>samplesensor</key>
+	<string>primaryProtocol</string>
+</dict>
+</plist>

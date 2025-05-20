@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canceltext</key>
+	<string>grainPlatform</string>
+	<key>compositionalgift</key>
+	<string>nextLabel</string>
+	<key>immediateIcon</key>
+	<string>lostClipper</string>
+	<key>imperativeMaterial</key>
+	<string>stoploop</string>
+	<key>selectedPromise</key>
+	<string>hardIntensity</string>
+	<key>shouldEmitRemainder</key>
+	<string>textfieldDecorator</string>
+	<key>shouldSerializeStack</key>
+	<string>imperativeBox</string>
+	<key>switchRight</key>
+	<string>shouldFormatSlider</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchOpacity</key>
+	<string>subpixelVar</string>
+	<key>mobileexception</key>
+	<string>lazyDelivery</string>
+	<key>musicoutsideparam</key>
+	<string>characterdelay</string>
+	<key>routevariableinset</key>
+	<string>seamlessDescription</string>
+	<key>unmountedcontainer</key>
+	<string>swiftStrategy</string>
+</dict>
+</plist>

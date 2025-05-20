@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedimageshade</key>
+	<string>shouldDetachHistogram</string>
+	<key>canceltechnique</key>
+	<string>clipStream</string>
+	<key>crudeImpression</key>
+	<string>priorReducer</string>
+	<key>directlyPicker</key>
+	<string>associatedCompleter</string>
+	<key>iterativeevent</key>
+	<string>geometricDisclaimer</string>
+	<key>profileTail</key>
+	<string>visiblehistogrammomentum</string>
+	<key>shouldFormatTabView</key>
+	<string>descriptorOffset</string>
+	<key>shouldResumeExtension</key>
+	<string>unmarshalCallback</string>
+</dict>
+</plist>

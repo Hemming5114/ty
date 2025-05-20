@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorylifecycle</key>
+	<string>visibleFlex</string>
+	<key>analyzerFeedback</key>
+	<string>liteInterface</string>
+	<key>cosineSpeed</key>
+	<string>constantFrequency</string>
+	<key>grayscalecenter</key>
+	<string>multialert</string>
+	<key>lazySignature</key>
+	<string>ephemeralRichText</string>
+	<key>shouldReplaceFlex</key>
+	<string>crudeWrapper</string>
+	<key>shoulddispatchmedia</key>
+	<string>cartesianThreshold</string>
+	<key>stampAppearance</key>
+	<string>receiverTop</string>
+</dict>
+</plist>

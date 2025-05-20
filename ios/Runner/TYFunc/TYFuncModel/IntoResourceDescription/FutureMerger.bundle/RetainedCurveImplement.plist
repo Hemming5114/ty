@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativePlayback</key>
+	<string>shouldPresentAxis</string>
+	<key>keySensor</key>
+	<string>tappableRemediation</string>
+	<key>lazyticker</key>
+	<string>canRebuildAnchor</string>
+	<key>resizableDocument</key>
+	<string>elasticitySkewX</string>
+	<key>shouldDetachNavigation</key>
+	<string>poolZone</string>
+</dict>
+</plist>

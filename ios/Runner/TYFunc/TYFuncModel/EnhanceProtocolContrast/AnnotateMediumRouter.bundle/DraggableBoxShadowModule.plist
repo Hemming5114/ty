@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSkewY</key>
+	<string>listviewCycle</string>
+	<key>currentMobile</key>
+	<string>newestOffset</string>
+	<key>detachalignment</key>
+	<string>shouldFetchCustomPaint</string>
+	<key>diffabletoolformat</key>
+	<string>transformeralignment</string>
+	<key>functionalBoxShadow</key>
+	<string>canStreamAnimation</string>
+	<key>hardDetail</key>
+	<string>sizeContext</string>
+	<key>newestmethod</key>
+	<string>shouldEncodePainter</string>
+	<key>selectedcustompaint</key>
+	<string>invisibleProcessor</string>
+	<key>shouldCacheRow</key>
+	<string>subscriberDelay</string>
+</dict>
+</plist>

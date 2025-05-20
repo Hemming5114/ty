@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeView</key>
+	<string>hardcoordinatorformat</string>
+	<key>defaultAccessory</key>
+	<string>completedSymbol</string>
+	<key>deferredSession</key>
+	<string>unactivatedSegue</string>
+	<key>easyTween</key>
+	<string>popError</string>
+	<key>exponentcount</key>
+	<string>curveforce</string>
+	<key>independentBinder</key>
+	<string>expandedSkewX</string>
+	<key>methodorigin</key>
+	<string>retainedCoordinator</string>
+	<key>shouldFinishProvider</key>
+	<string>symmetricDelegate</string>
+	<key>singleLayer</key>
+	<string>connectTicker</string>
+</dict>
+</plist>

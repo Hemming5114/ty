@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryTint</key>
+	<string>sliderProcess</string>
+	<key>greatCatalyst</key>
+	<string>activityfromprototype</string>
+	<key>independenticoncontrast</key>
+	<string>accessibleBoxShadow</string>
+	<key>loadstoryboard</key>
+	<string>accessibleTimer</string>
+	<key>sequentialAnalogy</key>
+	<string>hasTextField</string>
+	<key>shouldMountedInteger</key>
+	<string>shouldUnbindNotifier</string>
+	<key>shouldTrainWidget</key>
+	<string>globalPlayback</string>
+	<key>similarReceiver</key>
+	<string>listenNavigator</string>
+	<key>viewinstrategy</key>
+	<string>animateTask</string>
+</dict>
+</plist>

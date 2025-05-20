@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInterface</key>
+	<string>similarSlash</string>
+	<key>baselineStyle</key>
+	<string>giftParameter</string>
+	<key>constraintspeed</key>
+	<string>smallElement</string>
+	<key>descriptorDensity</key>
+	<string>clipperTop</string>
+	<key>discardedStateless</key>
+	<string>concurrentPager</string>
+	<key>expandedmodule</key>
+	<string>popupphaseinteraction</string>
+	<key>prismaticNotifier</key>
+	<string>navigateAlpha</string>
+	<key>shouldRenderScale</key>
+	<string>shouldFinishSensor</string>
+</dict>
+</plist>

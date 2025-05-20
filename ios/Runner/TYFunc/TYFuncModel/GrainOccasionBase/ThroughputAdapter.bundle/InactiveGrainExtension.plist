@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeType</key>
+	<string>animateMaster</string>
+	<key>meshtop</key>
+	<string>canBuildBitrate</string>
+	<key>symmetricInstruction</key>
+	<string>significantVolume</string>
+	<key>usedExponent</key>
+	<string>canPresentGraphic</string>
+</dict>
+</plist>

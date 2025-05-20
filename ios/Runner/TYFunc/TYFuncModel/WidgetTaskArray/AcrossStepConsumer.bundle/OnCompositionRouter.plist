@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubscription</key>
+	<string>buildBase</string>
+	<key>curvemodel</key>
+	<string>difficultAsync</string>
+	<key>difficultModulus</key>
+	<string>synchronizeTexture</string>
+	<key>directlyPainter</key>
+	<string>multiplicationVelocity</string>
+	<key>permissiveaxisdensity</key>
+	<string>intermediateStep</string>
+	<key>publicStatus</key>
+	<string>symmetricScheduler</string>
+</dict>
+</plist>

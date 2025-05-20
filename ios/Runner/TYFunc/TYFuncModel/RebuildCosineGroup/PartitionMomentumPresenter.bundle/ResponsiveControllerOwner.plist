@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTag</key>
+	<string>indicatorHead</string>
+	<key>channelsresult</key>
+	<string>segueCommand</string>
+	<key>missionsingletonforce</key>
+	<string>sustainableCatalyst</string>
+	<key>shouldNotifyView</key>
+	<string>mainCupertino</string>
+	<key>signaturewithoutprocess</key>
+	<string>similarIcon</string>
+	<key>updatemap</key>
+	<string>newestRoute</string>
+	<key>utilbrightness</key>
+	<string>sharedInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLinker</key>
+	<string>subscribescene</string>
+	<key>reactiveLoader</key>
+	<string>shouldloadspecifier</string>
+	<key>techniqueOrigin</key>
+	<string>keyAperture</string>
+	<key>visibleGesture</key>
+	<string>arithmeticcontroller</string>
+</dict>
+</plist>

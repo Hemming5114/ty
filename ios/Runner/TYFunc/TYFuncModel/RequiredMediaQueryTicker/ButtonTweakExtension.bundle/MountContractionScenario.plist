@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropySkewX</key>
+	<string>easyIndicator</string>
+	<key>fusedalpha</key>
+	<string>loopComposite</string>
+	<key>lazyIndicator</key>
+	<string>shouldPublishAlert</string>
+	<key>mobileJoiner</key>
+	<string>easyrequesttail</string>
+	<key>shouldKeepSession</key>
+	<string>eventLayer</string>
+	<key>shouldPublishMember</key>
+	<string>consumeChart</string>
+	<key>shouldmountedtabview</key>
+	<string>eagerColumn</string>
+	<key>zoneoperationbrightness</key>
+	<string>switchLeft</string>
+</dict>
+</plist>

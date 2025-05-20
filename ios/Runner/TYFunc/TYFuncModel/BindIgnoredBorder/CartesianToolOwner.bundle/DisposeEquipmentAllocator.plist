@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperpressure</key>
+	<string>independentcustompaintorigin</string>
+	<key>lastModal</key>
+	<string>mobileTimer</string>
+	<key>otherBuffer</key>
+	<string>giftFlyweight</string>
+	<key>primaryAsset</key>
+	<string>commonPolygon</string>
+	<key>routecubit</key>
+	<string>advancedTween</string>
+	<key>sophisticatedDetail</key>
+	<string>customPicker</string>
+	<key>staticEffect</key>
+	<string>permissiveBrush</string>
+</dict>
+</plist>

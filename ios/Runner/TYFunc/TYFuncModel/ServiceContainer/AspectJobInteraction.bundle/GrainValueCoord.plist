@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedcollectiontail</key>
+	<string>receiverFormat</string>
+	<key>enabledHeap</key>
+	<string>secondPublisher</string>
+	<key>largeEvolution</key>
+	<string>aggregateGrid</string>
+	<key>positionedVisibility</key>
+	<string>commonplayback</string>
+	<key>robustBase</key>
+	<string>shouldcontinuespine</string>
+	<key>shouldPreparePlayback</key>
+	<string>shouldPauseOption</string>
+</dict>
+</plist>

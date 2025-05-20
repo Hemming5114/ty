@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledThread</key>
+	<string>canSetStateConvolution</string>
+	<key>handlerpadding</key>
+	<string>specifystoryboard</string>
+	<key>initializeinteger</key>
+	<string>canDecodeTextField</string>
+	<key>receiverCount</key>
+	<string>canContinueSensor</string>
+	<key>sharedProjection</key>
+	<string>commonBrush</string>
+</dict>
+</plist>

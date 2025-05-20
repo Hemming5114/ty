@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRange</key>
+	<string>persistentAnalogy</string>
+	<key>graphicpainter</key>
+	<string>characteristicTop</string>
+	<key>onmultiplicationchanged</key>
+	<string>alignmentParam</string>
+	<key>protocolSpeed</key>
+	<string>resizableStep</string>
+	<key>replacemedia</key>
+	<string>canCancelInkWell</string>
+	<key>staticGridView</key>
+	<string>aspectStatus</string>
+	<key>tabbarvisitorstyle</key>
+	<string>assetcount</string>
+</dict>
+</plist>

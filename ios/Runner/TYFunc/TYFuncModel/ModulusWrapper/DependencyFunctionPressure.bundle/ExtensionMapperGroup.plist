@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resilientView</key>
+	<string>heapLeft</string>
+	<key>shouldLayoutSpine</key>
+	<string>combineCallback</string>
+	<key>sorterBehavior</key>
+	<string>selectorContrast</string>
+	<key>visibleStream</key>
+	<string>diffableelement</string>
+</dict>
+</plist>

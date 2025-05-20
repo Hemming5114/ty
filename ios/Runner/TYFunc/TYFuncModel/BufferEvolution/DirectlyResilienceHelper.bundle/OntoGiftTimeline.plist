@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columndecoratorformat</key>
+	<string>sorterTag</string>
+	<key>granularBinary</key>
+	<string>shouldEndAxis</string>
+	<key>isAspect</key>
+	<string>shouldBuildPet</string>
+	<key>resourceOpacity</key>
+	<string>opaqueModule</string>
+	<key>shouldDecodeAnimation</key>
+	<string>benchmarkCurve</string>
+</dict>
+</plist>

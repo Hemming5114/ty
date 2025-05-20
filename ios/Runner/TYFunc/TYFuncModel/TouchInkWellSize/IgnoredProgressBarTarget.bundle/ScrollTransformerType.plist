@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetFlags</key>
+	<string>protectedFuture</string>
+	<key>consultativeService</key>
+	<string>createBitrate</string>
+	<key>diffableGrain</key>
+	<string>futurelatency</string>
+	<key>effectInterval</key>
+	<string>declarativeHeap</string>
+	<key>grainkindshape</key>
+	<string>listeneracceleration</string>
+	<key>mutableCreator</key>
+	<string>futureTheme</string>
+	<key>similarTabView</key>
+	<string>requestmediatorduration</string>
+	<key>traversalFlags</key>
+	<string>zonespacing</string>
+</dict>
+</plist>

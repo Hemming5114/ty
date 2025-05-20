@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllercapacity</key>
+	<string>refactorrepository</string>
+	<key>imperativeBrush</key>
+	<string>amortizationType</string>
+	<key>layoutrequest</key>
+	<string>newestRadio</string>
+	<key>missedAnimation</key>
+	<string>notifyDescription</string>
+	<key>parallelRow</key>
+	<string>shouldMountedCache</string>
+	<key>positionMode</key>
+	<string>slashmenu</string>
+	<key>priorFrame</key>
+	<string>checklistHead</string>
+	<key>resilientView</key>
+	<string>imageschema</string>
+	<key>shaderEdge</key>
+	<string>missedskirtedge</string>
+	<key>shouldReplaceSemantics</key>
+	<string>deployscale</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeModule</key>
+	<string>pauseDocument</string>
+	<key>cursorstructureright</key>
+	<string>priorresolverfrequency</string>
+	<key>euclideanFinder</key>
+	<string>tasktag</string>
+	<key>hyperbolicPolygon</key>
+	<string>reusablesubpixel</string>
+	<key>smartAnchor</key>
+	<string>scaleBehavior</string>
+	<key>symmetricScheduler</key>
+	<string>crucialKernel</string>
+	<key>thresholdduration</key>
+	<string>opaqueInteger</string>
+</dict>
+</plist>

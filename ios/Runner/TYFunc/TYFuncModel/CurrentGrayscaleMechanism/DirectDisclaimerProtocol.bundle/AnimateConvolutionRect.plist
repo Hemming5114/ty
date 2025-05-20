@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedQuaternion</key>
+	<string>intensityRotation</string>
+	<key>functionalBatch</key>
+	<string>shouldDecodeBehavior</string>
+	<key>intensityHue</key>
+	<string>shouldObserveController</string>
+	<key>onsensortap</key>
+	<string>pauseInterpolation</string>
+	<key>secondCaption</key>
+	<string>flexibleResponse</string>
+	<key>tensorDimension</key>
+	<string>cancelArithmetic</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEvaluation</key>
+	<string>shouldHandleIcon</string>
+	<key>explicitStore</key>
+	<string>canDecodeText</string>
+	<key>gesturedetectorDirection</key>
+	<string>markPreview</string>
+	<key>intensityfacadeposition</key>
+	<string>nativeDimension</string>
+	<key>shouldDeserializeOverlay</key>
+	<string>cosineInteraction</string>
+	<key>shouldStopCoordinator</key>
+	<string>propagateOffset</string>
+	<key>singleVolume</key>
+	<string>searchStream</string>
+	<key>tappableSkin</key>
+	<string>shouldRouteUnary</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTransition</key>
+	<string>bindEntropy</string>
+	<key>canvasEdge</key>
+	<string>composableDescent</string>
+	<key>catalystTransparency</key>
+	<string>hashOpacity</string>
+	<key>checkboxSkewY</key>
+	<string>consumptionIndex</string>
+	<key>pagerEdge</key>
+	<string>resizableStoryboard</string>
+	<key>positionedPadding</key>
+	<string>disabledAspect</string>
+	<key>setstatedescription</key>
+	<string>appbaralignment</string>
+	<key>unsortedSound</key>
+	<string>gesturedetectorFramework</string>
+</dict>
+</plist>

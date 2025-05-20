@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentdelegate</key>
+	<string>attachTernary</string>
+	<key>keyProfile</key>
+	<string>currentaction</string>
+	<key>memberAlignment</key>
+	<string>collectionwithoutnumber</string>
+	<key>robustTrigger</key>
+	<string>dimensionDepth</string>
+	<key>scrollableWrapper</key>
+	<string>canPopStamp</string>
+	<key>sessionIndex</key>
+	<string>navigatorFlags</string>
+	<key>shouldCancelDropdownButton</key>
+	<string>infrastructuredensity</string>
+	<key>shouldDismissMultiplication</key>
+	<string>liteTangent</string>
+	<key>tentativecount</key>
+	<string>dismissCosine</string>
+</dict>
+</plist>

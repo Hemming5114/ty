@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentkind</key>
+	<string>prismaticMenu</string>
+	<key>fusedStep</key>
+	<string>indicatorTheme</string>
+	<key>respectiveTicker</key>
+	<string>subscriptiontint</string>
+	<key>selectedChannels</key>
+	<string>certificateStatus</string>
+	<key>shouldDeserializeNotification</key>
+	<string>animateRadius</string>
+	<key>shouldShowReference</key>
+	<string>handleSize</string>
+	<key>sophisticatedEvent</key>
+	<string>signatureMargin</string>
+	<key>unactivatedLinker</key>
+	<string>displayableInkWell</string>
+	<key>unregisterconstraint</key>
+	<string>shouldRebuildShader</string>
+</dict>
+</plist>

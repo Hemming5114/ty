@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyflags</key>
+	<string>currentCustomPaint</string>
+	<key>fusedInteraction</key>
+	<string>shouldCacheEqualization</string>
+	<key>gateconfiguration</key>
+	<string>desktopIntegration</string>
+	<key>granularreceiver</key>
+	<string>euclideanSlider</string>
+	<key>nativestroke</key>
+	<string>adjustTransition</string>
+	<key>pushlistview</key>
+	<string>sliderBound</string>
+</dict>
+</plist>

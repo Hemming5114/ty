@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalysttransparency</key>
+	<string>deferredDelivery</string>
+	<key>elasticityOrigin</key>
+	<string>dissociateGrid</string>
+	<key>liteThreshold</key>
+	<string>resilienceBound</string>
+	<key>ternaryRate</key>
+	<string>euclideanBloc</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMetrics</key>
+	<string>smartGrain</string>
+	<key>checkintensity</key>
+	<string>startMediaQuery</string>
+	<key>explicitInjection</key>
+	<string>usageatnumber</string>
+	<key>normalAccessory</key>
+	<string>associatedMetrics</string>
+	<key>standalonePolygon</key>
+	<string>keyOffset</string>
+</dict>
+</plist>

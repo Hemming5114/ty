@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSample</key>
+	<string>greatRichText</string>
+	<key>commonIntegrity</key>
+	<string>canUnbindScroll</string>
+	<key>dialogsequivalent</key>
+	<string>imperativeAnimatedContainer</string>
+	<key>factoryInteraction</key>
+	<string>cellbehavior</string>
+	<key>fusedColor</key>
+	<string>similarDocument</string>
+	<key>permissivePermutation</key>
+	<string>timelineTop</string>
+	<key>reactiveChapter</key>
+	<string>canListenCell</string>
+	<key>retainedDimension</key>
+	<string>shouldValidateDescriptor</string>
+	<key>retainedPolygon</key>
+	<string>unaryrotation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTheme</key>
+	<string>colorSize</string>
+	<key>bundlereducer</key>
+	<string>durationObserver</string>
+	<key>inheritedSink</key>
+	<string>repositoryCount</string>
+	<key>rapidLoss</key>
+	<string>shouldSetStateDelegate</string>
+	<key>shouldencodemodulus</key>
+	<string>shouldSubscribeLoss</string>
+	<key>sustainableGem</key>
+	<string>statelessRequest</string>
+</dict>
+</plist>

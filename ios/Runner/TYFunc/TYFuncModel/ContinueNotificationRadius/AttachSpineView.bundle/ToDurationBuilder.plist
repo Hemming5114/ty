@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentHeap</key>
+	<string>iterativeActivity</string>
+	<key>directClipper</key>
+	<string>cellBuffer</string>
+	<key>imperativeData</key>
+	<string>activatedRemainder</string>
+	<key>matrixacceleration</key>
+	<string>logarithmBound</string>
+	<key>missedDialogs</key>
+	<string>processButton</string>
+	<key>objecttheme</key>
+	<string>optimizerState</string>
+	<key>pageviewawayprocess</key>
+	<string>triggerTint</string>
+	<key>resilientTexture</key>
+	<string>customizedKernel</string>
+	<key>resizablelayertransparency</key>
+	<string>topicValidation</string>
+</dict>
+</plist>

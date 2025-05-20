@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPager</key>
+	<string>onextensiontap</string>
+	<key>challengeInteraction</key>
+	<string>animatorDuration</string>
+	<key>elasticityVisibility</key>
+	<string>priorAxis</string>
+	<key>equalworkflow</key>
+	<string>persistentTrajectory</string>
+	<key>giftfromactivity</key>
+	<string>otherEvent</string>
+	<key>smartbinder</key>
+	<string>subtleIcon</string>
+	<key>statefulMovement</key>
+	<string>errorForce</string>
+	<key>widgetSpeed</key>
+	<string>shouldSubscribeExponent</string>
+</dict>
+</plist>

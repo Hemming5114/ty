@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalChooser</key>
+	<string>durationsearcher</string>
+	<key>protectedScenario</key>
+	<string>currentspecifier</string>
+	<key>shouldBuildInkWell</key>
+	<string>apertureoutsidemethod</string>
+	<key>trianglesstyle</key>
+	<string>localSound</string>
+</dict>
+</plist>

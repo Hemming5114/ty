@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialResilience</key>
+	<string>autoSprite</string>
+	<key>endanimation</key>
+	<string>instructionmodel</string>
+	<key>hyperbolicSubscription</key>
+	<string>independentModal</string>
+	<key>requiredBinary</key>
+	<string>canRenderCupertino</string>
+	<key>resolverTransparency</key>
+	<string>navigatorframeworkbrightness</string>
+	<key>screenAcceleration</key>
+	<string>commonTabView</string>
+	<key>uniquesessionedge</key>
+	<string>componentDepth</string>
+</dict>
+</plist>

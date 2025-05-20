@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintduringtemple</key>
+	<string>detachsegment</string>
+	<key>containerhandler</key>
+	<string>significantRenderer</string>
+	<key>dropdownbuttonBound</key>
+	<string>canReplaceEqualization</string>
+	<key>liteAction</key>
+	<string>processorCenter</string>
+	<key>oldBaseline</key>
+	<string>priorRadius</string>
+	<key>primaryConvolution</key>
+	<string>shouldCreateOverlay</string>
+	<key>publicBox</key>
+	<string>chaptercontrast</string>
+	<key>rendererBottom</key>
+	<string>schedulerDensity</string>
+	<key>unactivatedactionshape</key>
+	<string>mainCoordinator</string>
+</dict>
+</plist>

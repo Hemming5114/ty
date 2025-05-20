@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativemediaforce</key>
+	<string>scaleStage</string>
+	<key>directMethod</key>
+	<string>canUnbindDecoration</string>
+	<key>grainchooser</key>
+	<string>disabledrouterkind</string>
+	<key>immediateConnector</key>
+	<string>denseDocument</string>
+	<key>interactiveRichText</key>
+	<string>isolateDelay</string>
+	<key>routerrotation</key>
+	<string>inactivesceneshape</string>
+	<key>shouldAnimateMedia</key>
+	<string>shouldpopdocument</string>
+	<key>shouldPauseStream</key>
+	<string>logarithmComposite</string>
+	<key>staticEqualization</key>
+	<string>primaryUseCase</string>
+</dict>
+</plist>

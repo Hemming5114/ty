@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinepager</key>
+	<string>removeObserver</string>
+	<key>entitytypeposition</key>
+	<string>scaleDistance</string>
+	<key>extensionrate</key>
+	<string>shouldEndGesture</string>
+	<key>loaderRight</key>
+	<string>unsortedNavigator</string>
+	<key>movementdelay</key>
+	<string>layoutForce</string>
+	<key>topiccontrast</key>
+	<string>publicIsolate</string>
+	<key>zoneimpression</key>
+	<string>statelessMedia</string>
+</dict>
+</plist>

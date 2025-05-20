@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertInteraction</key>
+	<string>usedCharacteristic</string>
+	<key>checkboxemitter</key>
+	<string>notificationComposite</string>
+	<key>labelborder</key>
+	<string>shouldformatchannels</string>
+	<key>pageviewHue</key>
+	<string>radioBorder</string>
+	<key>precisionAppearance</key>
+	<string>appbarSaturation</string>
+	<key>shouldUnmountTransition</key>
+	<string>progressbarAcceleration</string>
+	<key>swiftorigin</key>
+	<string>colorDensity</string>
+</dict>
+</plist>

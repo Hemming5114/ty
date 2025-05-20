@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitvisible</key>
+	<string>progressbarAcceleration</string>
+	<key>deliverystyle</key>
+	<string>freeQueue</string>
+	<key>firstimage</key>
+	<string>expandedTop</string>
+	<key>functionalvectorsaturation</key>
+	<string>renderCharacter</string>
+	<key>otherTechnique</key>
+	<string>synchronousCubit</string>
+	<key>respectiveScreen</key>
+	<string>concretePositioned</string>
+	<key>shouldConnectInterpolation</key>
+	<string>measureIsolate</string>
+	<key>sophisticatedLayout</key>
+	<string>layoutcapacities</string>
+	<key>unmountcompleter</key>
+	<string>disparateContrast</string>
+</dict>
+</plist>

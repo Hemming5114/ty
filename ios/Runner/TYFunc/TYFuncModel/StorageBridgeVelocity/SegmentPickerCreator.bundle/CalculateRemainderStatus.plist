@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedExpanded</key>
+	<string>joinerStatus</string>
+	<key>inactiveModule</key>
+	<string>managerVelocity</string>
+	<key>lazyPet</key>
+	<string>capacitiesSingleton</string>
+	<key>rapidstep</key>
+	<string>renderAnimation</string>
+	<key>scalabilityOpacity</key>
+	<string>canSubscribeEquipment</string>
+	<key>shouldValidateFragment</key>
+	<string>compositionFrequency</string>
+	<key>validatemap</key>
+	<string>shouldSubscribeDuration</string>
+</dict>
+</plist>

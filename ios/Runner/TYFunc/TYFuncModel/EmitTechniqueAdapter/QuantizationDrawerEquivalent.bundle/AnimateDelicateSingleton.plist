@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerFlex</key>
+	<string>globalslash</string>
+	<key>groupLeft</key>
+	<string>basicBinary</string>
+	<key>immediateTrajectory</key>
+	<string>handleRadius</string>
+	<key>otherCompleter</key>
+	<string>rectifyHash</string>
+	<key>shouldShowKernel</key>
+	<string>shouldTrainRichText</string>
+	<key>substantialPriority</key>
+	<string>pendingAxis</string>
+</dict>
+</plist>

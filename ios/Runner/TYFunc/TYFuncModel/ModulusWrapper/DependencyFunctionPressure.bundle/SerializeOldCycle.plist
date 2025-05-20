@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationStyle</key>
+	<string>animationAction</string>
+	<key>checklistScale</key>
+	<string>polyfillDensity</string>
+	<key>computeaxis</key>
+	<string>canRestartDimension</string>
+	<key>isnotifier</key>
+	<string>validateCaption</string>
+	<key>lostinterpolationtheme</key>
+	<string>handlerPlatform</string>
+	<key>restorecompleter</key>
+	<string>buttonOffset</string>
+	<key>shouldSavePrecision</key>
+	<string>elasticTrigger</string>
+	<key>specifySwift</key>
+	<string>symmetricNavigation</string>
+	<key>techniqueForce</key>
+	<string>arithmeticDialogs</string>
+	<key>temporaryAppBar</key>
+	<string>independentDelegate</string>
+</dict>
+</plist>

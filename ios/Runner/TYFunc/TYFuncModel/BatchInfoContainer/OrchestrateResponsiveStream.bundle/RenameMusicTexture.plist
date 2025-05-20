@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedState</key>
+	<string>immutableStack</string>
+	<key>inactiveMedia</key>
+	<string>eventbehavior</string>
+	<key>precisionSpacing</key>
+	<string>richtextrestriction</string>
+	<key>selectedText</key>
+	<string>sinesearcher</string>
+	<key>volumeMargin</key>
+	<string>tappableCoordinator</string>
+</dict>
+</plist>

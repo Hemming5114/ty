@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitorientation</key>
+	<string>statefulFunction</string>
+	<key>fixedElement</key>
+	<string>parseGift</string>
+	<key>oldScenario</key>
+	<string>activatedLatency</string>
+	<key>semanticTrigger</key>
+	<string>sharedinterfaceresponse</string>
+</dict>
+</plist>

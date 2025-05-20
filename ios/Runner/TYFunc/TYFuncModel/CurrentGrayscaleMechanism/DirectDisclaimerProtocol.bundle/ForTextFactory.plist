@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTool</key>
+	<string>mediocreTaxonomy</string>
+	<key>associatedLayer</key>
+	<string>animateExtension</string>
+	<key>asyncorigin</key>
+	<string>insteadmenu</string>
+	<key>interpolationDepth</key>
+	<string>streamlineAsync</string>
+	<key>intuitiveVector</key>
+	<string>shouldSkipFlex</string>
+	<key>liteConvolution</key>
+	<string>itemdistance</string>
+	<key>loaderrate</key>
+	<string>uniformblocflags</string>
+	<key>normallocalizationdirection</key>
+	<string>dismissSink</string>
+	<key>queueName</key>
+	<string>custompaintLevel</string>
+</dict>
+</plist>

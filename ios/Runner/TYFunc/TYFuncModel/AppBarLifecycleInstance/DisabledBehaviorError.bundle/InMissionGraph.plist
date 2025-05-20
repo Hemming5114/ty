@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationEdge</key>
+	<string>optionVariable</string>
+	<key>concreteCustomPaint</key>
+	<string>popLabel</string>
+	<key>diversifiedCoordinator</key>
+	<string>callbackValue</string>
+	<key>nativeEvent</key>
+	<string>tableBuffer</string>
+	<key>responsiveMonster</key>
+	<string>specifyNotation</string>
+	<key>shouldMountedScale</key>
+	<string>showRemainder</string>
+	<key>statefulFeature</key>
+	<string>immediatePositioned</string>
+</dict>
+</plist>

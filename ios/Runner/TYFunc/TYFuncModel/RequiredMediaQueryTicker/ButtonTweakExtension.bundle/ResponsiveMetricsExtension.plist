@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cuberoute</key>
+	<string>persistentIntegrity</string>
+	<key>embedsize</key>
+	<string>liteCharacteristic</string>
+	<key>metadatarecursion</key>
+	<string>finishStateless</string>
+	<key>operationconfiguration</key>
+	<string>tweakInteraction</string>
+	<key>progressbarSpeed</key>
+	<string>mediocreLayout</string>
+	<key>shouldRenderStoryboard</key>
+	<string>iskernel</string>
+</dict>
+</plist>

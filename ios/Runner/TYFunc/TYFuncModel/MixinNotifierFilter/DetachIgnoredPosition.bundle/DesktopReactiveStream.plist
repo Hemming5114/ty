@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatUseCase</key>
+	<string>clipperAppearance</string>
+	<key>positionthroughjob</key>
+	<string>profileStore</string>
+	<key>scrollablesplitter</key>
+	<string>shouldResumePositioned</string>
+	<key>shearsubscription</key>
+	<string>canDisposeOption</string>
+	<key>shouldLayoutNavigator</key>
+	<string>entityPressure</string>
+	<key>toleranceBehavior</key>
+	<string>granularMechanism</string>
+	<key>uniqueRequest</key>
+	<string>viewFeedback</string>
+</dict>
+</plist>

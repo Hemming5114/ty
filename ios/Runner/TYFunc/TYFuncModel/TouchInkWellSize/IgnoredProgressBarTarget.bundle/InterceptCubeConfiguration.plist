@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphOrientation</key>
+	<string>resilientEvent</string>
+	<key>imageintegration</key>
+	<string>findCallback</string>
+	<key>mobileFeature</key>
+	<string>accordionModal</string>
+	<key>pinchableInterface</key>
+	<string>publicPolyfill</string>
+	<key>shouldShowTheme</key>
+	<string>introspectGraph</string>
+	<key>shouldrouteprotocol</key>
+	<string>consumerVisitor</string>
+	<key>taskInset</key>
+	<string>backwardCursor</string>
+	<key>uniformTabView</key>
+	<string>shouldSkipBox</string>
+</dict>
+</plist>

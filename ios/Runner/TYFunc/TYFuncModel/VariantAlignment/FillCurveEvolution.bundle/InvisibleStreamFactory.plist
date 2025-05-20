@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prismaticChart</key>
+	<string>invoketopic</string>
+	<key>reductionbystructure</key>
+	<string>bloctaskstate</string>
+	<key>savecallback</key>
+	<string>chapterviaobserver</string>
+	<key>specifyMission</key>
+	<string>continuezone</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPadding</key>
+	<string>draggableAlert</string>
+	<key>instructionFlags</key>
+	<string>displayPreview</string>
+	<key>integrationDuration</key>
+	<string>specifierdrawer</string>
+	<key>optimizeutil</key>
+	<string>prismaticGradient</string>
+	<key>shouldPushScale</key>
+	<string>webMomentum</string>
+</dict>
+</plist>

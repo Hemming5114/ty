@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTween</key>
+	<string>staticReliability</string>
+	<key>formatternary</key>
+	<string>customizedTicker</string>
+	<key>multiSpecifier</key>
+	<string>resizableRestriction</string>
+	<key>taskbeyondbridge</key>
+	<string>shouldMountCache</string>
+</dict>
+</plist>

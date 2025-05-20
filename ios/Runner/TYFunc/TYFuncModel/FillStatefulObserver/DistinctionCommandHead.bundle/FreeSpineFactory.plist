@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateType</key>
+	<string>otherAperture</string>
+	<key>connectorbound</key>
+	<string>registerUtil</string>
+	<key>dynamicBinary</key>
+	<string>nativeListener</string>
+	<key>endcolumn</key>
+	<string>sophisticatedAspectRatio</string>
+	<key>hierarchicalOverlay</key>
+	<string>modelcallback</string>
+	<key>layoutDepth</key>
+	<string>lastError</string>
+	<key>layoutenvironmentbound</key>
+	<string>chapterlikecommand</string>
+	<key>stepValidation</key>
+	<string>shouldpresentroute</string>
+</dict>
+</plist>

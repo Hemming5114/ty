@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGram</key>
+	<string>wrapBloc</string>
+	<key>decorationasparameter</key>
+	<string>tappableCaption</string>
+	<key>draggableMedia</key>
+	<string>sineParam</string>
+	<key>immediateframesaturation</key>
+	<string>similarvolume</string>
+	<key>instantiateaccessory</key>
+	<string>mutableTaxonomy</string>
+	<key>metricsDistance</key>
+	<string>shouldPublishKernel</string>
+	<key>sensorformat</key>
+	<string>projectresponse</string>
+	<key>transitionDepth</key>
+	<string>shouldAnimateGestureDetector</string>
+</dict>
+</plist>

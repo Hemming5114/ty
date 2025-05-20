@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsTransparency</key>
+	<string>webCharacteristic</string>
+	<key>nativeHash</key>
+	<string>shouldRenderCupertino</string>
+	<key>semanticsContrast</key>
+	<string>routeborder</string>
+	<key>subsequentBase</key>
+	<string>substantialZone</string>
+</dict>
+</plist>

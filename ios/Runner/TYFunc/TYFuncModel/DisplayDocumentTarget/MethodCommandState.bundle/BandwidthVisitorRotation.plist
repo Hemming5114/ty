@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonshader</key>
+	<string>catalystLevel</string>
+	<key>concreteTopic</key>
+	<string>controllerLocation</string>
+	<key>containertop</key>
+	<string>retainedInkWell</string>
+	<key>infoFormat</key>
+	<string>ignoredProtocol</string>
+	<key>pinchableUnary</key>
+	<string>commonInteger</string>
+	<key>shouldPushChallenge</key>
+	<string>challengeEnvironment</string>
+	<key>shouldValidateShader</key>
+	<string>shouldRebuildPadding</string>
+	<key>subtleCubit</key>
+	<string>asyncPressure</string>
+	<key>widgetvariableposition</key>
+	<string>discoverController</string>
+</dict>
+</plist>

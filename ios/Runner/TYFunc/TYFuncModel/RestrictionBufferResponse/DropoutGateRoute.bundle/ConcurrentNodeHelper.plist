@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkscaffold</key>
+	<string>staticEquipment</string>
+	<key>disparatecoordinator</key>
+	<string>canPaintCursor</string>
+	<key>fixedListener</key>
+	<string>canHandleScreen</string>
+	<key>oldmap</key>
+	<string>canTransformProjection</string>
+	<key>optimizerisolate</key>
+	<string>numericalCreator</string>
+	<key>shouldpersistdimension</key>
+	<string>opaqueResponse</string>
+	<key>textfieldtransparency</key>
+	<string>shouldPaintModulus</string>
+	<key>usedNode</key>
+	<string>generateUseCase</string>
+</dict>
+</plist>

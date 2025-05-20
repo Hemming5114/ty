@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentName</key>
+	<string>stringifyAwait</string>
+	<key>augmentsprite</key>
+	<string>criticalEvent</string>
+	<key>dedicatedRadio</key>
+	<string>shouldReplaceTable</string>
+	<key>hyperbolicCanvas</key>
+	<string>ispriority</string>
+	<key>imperativeStoryboard</key>
+	<string>managertasktail</string>
+	<key>inkwellForce</key>
+	<string>shouldObserveBuilder</string>
+	<key>lastMaterializer</key>
+	<string>thresholdSkewX</string>
+	<key>shouldYieldLog</key>
+	<string>canPersistCoordinator</string>
+	<key>webconsumer</key>
+	<string>seekBloc</string>
+</dict>
+</plist>

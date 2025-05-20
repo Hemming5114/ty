@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystfilter</key>
+	<string>prepareSegue</string>
+	<key>fixedStep</key>
+	<string>holdIntensity</string>
+	<key>materializecycle</key>
+	<string>draggableConsumer</string>
+	<key>shouldStopArithmetic</key>
+	<string>integrityBorder</string>
+</dict>
+</plist>

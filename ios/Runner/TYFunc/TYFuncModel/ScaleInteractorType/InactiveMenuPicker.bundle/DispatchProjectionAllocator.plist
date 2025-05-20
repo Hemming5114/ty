@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blockindshade</key>
+	<string>requiredSubpixel</string>
+	<key>cubitpager</key>
+	<string>handleCycle</string>
+	<key>heaprecursion</key>
+	<string>canPrepareMission</string>
+	<key>movementOpacity</key>
+	<string>canUpdateAlert</string>
+	<key>painterSpeed</key>
+	<string>prevcontrollermargin</string>
+	<key>respectiveGridView</key>
+	<string>dependencyshader</string>
+	<key>shouldStartRoute</key>
+	<string>projectalignment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartasktheme</key>
+	<string>playTexture</string>
+	<key>containerformat</key>
+	<string>zonetierspeed</string>
+	<key>delegateappearance</key>
+	<string>instructionLayer</string>
+	<key>lastBaseline</key>
+	<string>shouldTransitionPet</string>
+	<key>richtextResponse</key>
+	<string>sampleOpacity</string>
+	<key>shouldSerializeVariant</key>
+	<string>canUnmountedNotification</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeDistance</key>
+	<string>drawMethod</string>
+	<key>fusedUseCase</key>
+	<string>canSetStatePlate</string>
+	<key>nativemanagerrate</key>
+	<string>persistentBitrate</string>
+	<key>offsetBehavior</key>
+	<string>easySegue</string>
+	<key>pivotalCharacteristic</key>
+	<string>flexibleicon</string>
+	<key>positiondisclaimer</key>
+	<string>desktopboxshadow</string>
+	<key>smallqueue</key>
+	<string>dedicatedUseCase</string>
+</dict>
+</plist>

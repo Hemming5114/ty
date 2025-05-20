@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicoptionshape</key>
+	<string>customLocalization</string>
+	<key>cosinealignment</key>
+	<string>largeCurve</string>
+	<key>exceptionimpact</key>
+	<string>optimizeListener</string>
+	<key>extensionnode</key>
+	<string>adaptiveReliability</string>
+	<key>hyperbolicModal</key>
+	<string>uniqueTechnique</string>
+	<key>priorityexception</key>
+	<string>fetchPromise</string>
+	<key>shoulddecodeinkwell</key>
+	<string>materializerDirection</string>
+	<key>triggerTransparency</key>
+	<string>singlenormrotation</string>
+</dict>
+</plist>

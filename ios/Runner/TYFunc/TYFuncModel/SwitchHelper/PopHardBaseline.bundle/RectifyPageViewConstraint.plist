@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralCompleter</key>
+	<string>selectedRoute</string>
+	<key>fusedDispatcher</key>
+	<string>robustProvision</string>
+	<key>ignoredStrength</key>
+	<string>canPresentUnary</string>
+	<key>iterativeSink</key>
+	<string>shouldShowSegment</string>
+	<key>localLogarithm</key>
+	<string>desktopStoryboard</string>
+	<key>oldstamphue</key>
+	<string>canAnimateStack</string>
+	<key>otherPreview</key>
+	<string>reactiveResponder</string>
+	<key>shouldListenPositioned</key>
+	<string>shouldMountMap</string>
+	<key>spotawayparameter</key>
+	<string>clipperscene</string>
+</dict>
+</plist>

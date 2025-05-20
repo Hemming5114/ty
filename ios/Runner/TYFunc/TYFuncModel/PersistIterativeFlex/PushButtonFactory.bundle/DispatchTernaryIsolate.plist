@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disposematrix</key>
+	<string>elasticNotification</string>
+	<key>factoryorvisitor</key>
+	<string>accessorycommandtint</string>
+	<key>scrollableloopfrequency</key>
+	<string>elasticCallback</string>
+	<key>spritefrequency</key>
+	<string>permissiveGrain</string>
+	<key>tappableCapsule</key>
+	<string>rapidCoordinator</string>
+</dict>
+</plist>

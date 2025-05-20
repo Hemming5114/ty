@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGrid</key>
+	<string>tappableIsolate</string>
+	<key>crudeUtil</key>
+	<string>batchRotation</string>
+	<key>eventinfo</key>
+	<string>oldColor</string>
+	<key>labelpatterncount</key>
+	<string>tabbarLayer</string>
+	<key>loaderVelocity</key>
+	<string>assetTheme</string>
+	<key>textColor</key>
+	<string>functionalLifecycle</string>
+</dict>
+</plist>

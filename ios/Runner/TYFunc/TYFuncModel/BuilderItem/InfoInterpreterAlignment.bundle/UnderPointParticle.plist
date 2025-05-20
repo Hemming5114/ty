@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteThread</key>
+	<string>semanticTimer</string>
+	<key>deploybatch</key>
+	<string>immediateInkWell</string>
+	<key>greatBatch</key>
+	<string>restrictionIndex</string>
+	<key>rapidmenu</key>
+	<string>decodeController</string>
+	<key>videoSpeed</key>
+	<string>shouldUpdateAnchor</string>
+	<key>visibleStateless</key>
+	<string>immediateImage</string>
+</dict>
+</plist>

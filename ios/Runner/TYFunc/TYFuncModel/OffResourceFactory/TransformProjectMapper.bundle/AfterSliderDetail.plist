@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoProvider</key>
+	<string>chooserRotation</string>
+	<key>contractionmenu</key>
+	<string>spritewithsystem</string>
+	<key>cursorInterval</key>
+	<string>repositoryParameter</string>
+	<key>gridTail</key>
+	<string>seamlessThroughput</string>
+	<key>pivotalChooser</key>
+	<string>entityamortization</string>
+	<key>statefulStack</key>
+	<string>semanticDocument</string>
+</dict>
+</plist>

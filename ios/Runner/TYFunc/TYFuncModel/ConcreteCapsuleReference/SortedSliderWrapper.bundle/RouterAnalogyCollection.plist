@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledmargin</key>
+	<string>processListener</string>
+	<key>dynamicIntensity</key>
+	<string>basicResolver</string>
+	<key>exceptionContrast</key>
+	<string>pivotalConsumption</string>
+	<key>hardhandler</key>
+	<string>inactiveError</string>
+	<key>inactiveKernel</key>
+	<string>timePressure</string>
+	<key>mediuminterface</key>
+	<string>streamcenter</string>
+	<key>reducerthroughbuffer</key>
+	<string>canEmitCell</string>
+</dict>
+</plist>

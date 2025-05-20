@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFormat</key>
+	<string>lastmember</string>
+	<key>customLoss</key>
+	<string>tabbarshape</string>
+	<key>delegatealongform</key>
+	<string>enumeratewidget</string>
+	<key>greatReliability</key>
+	<string>usedreducer</string>
+	<key>lastElement</key>
+	<string>uniqueScroll</string>
+	<key>lostManager</key>
+	<string>subtleFinder</string>
+	<key>taskformat</key>
+	<string>primaryFragment</string>
+</dict>
+</plist>

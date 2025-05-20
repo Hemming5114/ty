@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertpopup</key>
+	<string>constraintvalidation</string>
+	<key>flexOrientation</key>
+	<string>grayscaleLocation</string>
+	<key>normalGrain</key>
+	<string>vertexPressure</string>
+	<key>providematerial</key>
+	<string>analogyStatus</string>
+	<key>routepager</key>
+	<string>canCreateInstruction</string>
+	<key>shouldFormatView</key>
+	<string>hasCharacter</string>
+	<key>shouldPauseSpecifier</key>
+	<string>routerProcess</string>
+	<key>significantgriddirection</key>
+	<string>beginnerFactory</string>
+	<key>storyboardVisible</key>
+	<string>cubeRate</string>
+</dict>
+</plist>

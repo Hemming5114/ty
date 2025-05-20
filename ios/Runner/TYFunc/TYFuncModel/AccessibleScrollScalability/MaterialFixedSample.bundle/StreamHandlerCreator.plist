@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnfeature</key>
+	<string>drawmanager</string>
+	<key>efficiencyIndex</key>
+	<string>compositionalsample</string>
+	<key>lostChapter</key>
+	<string>scrollableReference</string>
+	<key>mobilechapter</key>
+	<string>inkwellTag</string>
+	<key>pivotalsprite</key>
+	<string>mitigateIntensity</string>
+	<key>relationalasset</key>
+	<string>shouldPauseThread</string>
+	<key>unarytail</key>
+	<string>canStreamCapacities</string>
+</dict>
+</plist>

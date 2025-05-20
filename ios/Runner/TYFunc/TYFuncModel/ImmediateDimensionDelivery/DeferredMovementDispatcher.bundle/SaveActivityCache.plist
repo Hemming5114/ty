@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularSkin</key>
+	<string>serializeAllocator</string>
+	<key>popupwithbuffer</key>
+	<string>usecaselevelinset</string>
+	<key>referenceproxytheme</key>
+	<string>injectionProcess</string>
+	<key>shouldStopContainer</key>
+	<string>constraintTheme</string>
+	<key>shouldStreamMusic</key>
+	<string>canPaintProject</string>
+	<key>statefulInkWell</key>
+	<string>textIndex</string>
+	<key>tickerDistance</key>
+	<string>tickerleft</string>
+	<key>unactivatedCycle</key>
+	<string>cartesianResult</string>
+</dict>
+</plist>

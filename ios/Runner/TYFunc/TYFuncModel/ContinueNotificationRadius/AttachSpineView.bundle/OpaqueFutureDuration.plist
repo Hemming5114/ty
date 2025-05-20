@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectMomentum</key>
+	<string>replicatestateful</string>
+	<key>discardedMusic</key>
+	<string>asynchronousVolume</string>
+	<key>fragmentsIndex</key>
+	<string>selectedaperture</string>
+	<key>granularCustomPaint</key>
+	<string>shouldFinishHero</string>
+	<key>rowtransition</key>
+	<string>storageName</string>
+	<key>semanticEfficiency</key>
+	<string>publicLocalization</string>
+	<key>tabviewreceiver</key>
+	<string>statefulInteraction</string>
+</dict>
+</plist>

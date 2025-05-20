@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryRight</key>
+	<string>draggableIsolate</string>
+	<key>dependencyDepth</key>
+	<string>quaternioninset</string>
+	<key>detectorPressure</key>
+	<string>bundleprofile</string>
+	<key>giftforcontext</key>
+	<string>dimensionPressure</string>
+	<key>navigategridview</key>
+	<string>appbarBridge</string>
+	<key>scenarioDelay</key>
+	<string>lifecycleBrightness</string>
+</dict>
+</plist>

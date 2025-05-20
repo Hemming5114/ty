@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferposition</key>
+	<string>skipVariant</string>
+	<key>shouldSaveButton</key>
+	<string>shouldStopCoordinator</string>
+	<key>shouldSkipGem</key>
+	<string>graphFlags</string>
+	<key>shouldunmountborder</key>
+	<string>syncUtil</string>
+	<key>uniqueRect</key>
+	<string>blocstrategyfeedback</string>
+	<key>workflowvisibility</key>
+	<string>notifierFormat</string>
+</dict>
+</plist>

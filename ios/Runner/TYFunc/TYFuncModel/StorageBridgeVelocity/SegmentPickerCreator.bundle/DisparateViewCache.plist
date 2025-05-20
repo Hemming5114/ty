@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderFlags</key>
+	<string>tabbarsprite</string>
+	<key>previewaboutpattern</key>
+	<string>isSignature</string>
+	<key>responsiveProject</key>
+	<string>sequentialLabel</string>
+	<key>sortedscreen</key>
+	<string>memberoffset</string>
+	<key>symmetricsubscriptionformat</key>
+	<string>greatobserver</string>
+</dict>
+</plist>

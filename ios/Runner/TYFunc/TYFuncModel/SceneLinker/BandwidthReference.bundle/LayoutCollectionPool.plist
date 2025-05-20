@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directFrame</key>
+	<string>unmountedSpecifier</string>
+	<key>functionalStatus</key>
+	<string>tappableUtil</string>
+	<key>instantiateisolate</key>
+	<string>canPaintView</string>
+	<key>interactorTag</key>
+	<string>interactiveCache</string>
+	<key>mutableComposition</key>
+	<string>euclideanConsumer</string>
+	<key>shouldFinishMatrix</key>
+	<string>numericalGroup</string>
+	<key>shouldNotifyMaster</key>
+	<string>materialTail</string>
+</dict>
+</plist>

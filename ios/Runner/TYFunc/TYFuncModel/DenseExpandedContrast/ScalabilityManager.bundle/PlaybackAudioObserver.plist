@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralScalability</key>
+	<string>captionSingleton</string>
+	<key>immutableSymbol</key>
+	<string>unbindGridView</string>
+	<key>newestDelivery</key>
+	<string>shouldnotifycontroller</string>
+	<key>onbullettap</key>
+	<string>comprehensiveController</string>
+	<key>reusabletimerappearance</key>
+	<string>permanentFinder</string>
+	<key>statusDelay</key>
+	<string>fixedMusic</string>
+</dict>
+</plist>

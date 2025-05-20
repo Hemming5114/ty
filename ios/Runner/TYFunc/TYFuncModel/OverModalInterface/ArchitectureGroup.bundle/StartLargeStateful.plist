@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFilter</key>
+	<string>timerbyoperation</string>
+	<key>dedicatedmetrics</key>
+	<string>addRouter</string>
+	<key>euclideanMatrix</key>
+	<string>shouldSkipSegue</string>
+	<key>factorymatrix</key>
+	<string>substantialProfile</string>
+	<key>promiseTail</key>
+	<string>saveSensor</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInterval</key>
+	<string>radiusStyle</string>
+	<key>loadindicator</key>
+	<string>debugScene</string>
+	<key>othericon</key>
+	<string>canDispatchHistogram</string>
+	<key>sequentialsingleton</key>
+	<string>symmetricAnimation</string>
+</dict>
+</plist>

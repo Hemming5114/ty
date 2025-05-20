@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableRadius</key>
+	<string>canCreateGridView</string>
+	<key>immediateSize</key>
+	<string>declarativeAppBar</string>
+	<key>materialChannel</key>
+	<string>builderShade</string>
+	<key>shouldUnmountStateful</key>
+	<string>playbacktexture</string>
+	<key>shouldbuildroute</key>
+	<string>invokeContainer</string>
+</dict>
+</plist>

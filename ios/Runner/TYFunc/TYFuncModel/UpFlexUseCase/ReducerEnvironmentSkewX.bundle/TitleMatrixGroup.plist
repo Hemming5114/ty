@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyStyle</key>
+	<string>activatedintensitytype</string>
+	<key>compositionaltaskinteraction</key>
+	<string>priorFuture</string>
+	<key>dismissmetadata</key>
+	<string>dismissresponse</string>
+	<key>intuitiveExponent</key>
+	<string>receiverForce</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeInfrastructure</key>
+	<string>grayscaleofdecorator</string>
+	<key>lostTask</key>
+	<string>mapComposite</string>
+	<key>protectedPet</key>
+	<string>setstateGram</string>
+	<key>reliabilityDelay</key>
+	<string>benchmarkGrid</string>
+	<key>shouldDisposeHero</key>
+	<string>prevSpot</string>
+	<key>shouldEncodeBase</key>
+	<string>canObserveStoryboard</string>
+	<key>sizeOrigin</key>
+	<string>shouldSetStateSpecifier</string>
+	<key>statefulScroller</key>
+	<string>plateTemple</string>
+</dict>
+</plist>

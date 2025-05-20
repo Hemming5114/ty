@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerVisible</key>
+	<string>mobileoperationcolor</string>
+	<key>cellMode</key>
+	<string>canShowRow</string>
+	<key>nativeAppBar</key>
+	<string>popupInset</string>
+	<key>pivotalObject</key>
+	<string>shouldMountMaterial</string>
+	<key>scrollmementospeed</key>
+	<string>reconcileZone</string>
+	<key>subsequentTheme</key>
+	<string>storyboardContext</string>
+	<key>utilPressure</key>
+	<string>injectMetadata</string>
+</dict>
+</plist>

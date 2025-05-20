@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEntity</key>
+	<string>effectScope</string>
+	<key>basicsampleinteraction</key>
+	<string>missionPadding</string>
+	<key>declarativeTouch</key>
+	<string>custombuilderskewy</string>
+	<key>platename</key>
+	<string>encapsulatebutton</string>
+	<key>shouldBuildImage</key>
+	<string>tappableAccessory</string>
+	<key>shouldFetchPositioned</key>
+	<string>decorationbottom</string>
+	<key>smallJoiner</key>
+	<string>insteadTween</string>
+	<key>tappableBatch</key>
+	<string>particleSkewY</string>
+</dict>
+</plist>

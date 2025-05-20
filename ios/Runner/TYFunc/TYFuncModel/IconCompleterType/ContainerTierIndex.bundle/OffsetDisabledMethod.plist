@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionmethodtransparency</key>
+	<string>delegatevertex</string>
+	<key>completionBorder</key>
+	<string>shouldTransitionSignature</string>
+	<key>compositionalTangent</key>
+	<string>metadataagainstcommand</string>
+	<key>consultativeInteraction</key>
+	<string>shouldDisposeCupertino</string>
+	<key>mappervisibility</key>
+	<string>compareGrid</string>
+	<key>ondurationtap</key>
+	<string>canYieldBox</string>
+	<key>parallelDecoration</key>
+	<string>requiredBitrate</string>
+	<key>sineType</key>
+	<string>queuestrategyposition</string>
+	<key>volumeInteraction</key>
+	<string>adaptiveSpot</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTask</key>
+	<string>canBindEqualization</string>
+	<key>discardednavigationstate</key>
+	<string>orchestrateLayout</string>
+	<key>disconnectgrain</key>
+	<string>skirtTail</string>
+	<key>nativeResponder</key>
+	<string>manageralongflyweight</string>
+	<key>parallelText</key>
+	<string>resilientdata</string>
+	<key>routeprototypemode</key>
+	<string>diffableListener</string>
+	<key>shouldMountedGram</key>
+	<string>fixedCube</string>
+</dict>
+</plist>

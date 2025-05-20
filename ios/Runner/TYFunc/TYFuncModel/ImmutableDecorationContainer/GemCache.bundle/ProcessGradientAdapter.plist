@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticSymbol</key>
+	<string>tensorPositioned</string>
+	<key>enabledIntegration</key>
+	<string>linkerResponse</string>
+	<key>errorscale</key>
+	<string>canStopStateful</string>
+	<key>functionalLoader</key>
+	<string>columntheme</string>
+	<key>resilientOptimizer</key>
+	<string>checkboxJob</string>
+	<key>shouldRenderShader</key>
+	<string>dedicatedstatecoord</string>
+	<key>shouldResumeStoryboard</key>
+	<string>seamlessController</string>
+	<key>subtleEntropy</key>
+	<string>dependencyMemento</string>
+	<key>subtleOccasion</key>
+	<string>holdPreview</string>
+</dict>
+</plist>

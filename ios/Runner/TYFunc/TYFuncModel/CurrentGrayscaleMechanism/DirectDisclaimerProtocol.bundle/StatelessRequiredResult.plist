@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMetrics</key>
+	<string>animateTitle</string>
+	<key>iconRotation</key>
+	<string>rotateTexture</string>
+	<key>intuitiveChannel</key>
+	<string>independentData</string>
+	<key>mobileSize</key>
+	<string>transformSize</string>
+	<key>requiredMerger</key>
+	<string>controllerVelocity</string>
+	<key>seamlessFilter</key>
+	<string>persistentEfficiency</string>
+	<key>shouldNotifyInstruction</key>
+	<string>publishplate</string>
+	<key>shouldSaveCanvas</key>
+	<string>crudeAnimator</string>
+	<key>spinasync</key>
+	<string>calculateButton</string>
+	<key>symmetricDelegate</key>
+	<string>equipmentChain</string>
+</dict>
+</plist>

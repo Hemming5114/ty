@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGraph</key>
+	<string>pausepageview</string>
+	<key>concurrenttransformer</key>
+	<string>canRouteCoordinator</string>
+	<key>publisherRotation</key>
+	<string>gesturedetectorDecorator</string>
+	<key>requesteffect</key>
+	<string>functionalIndicator</string>
+	<key>shouldSubscribeProvider</key>
+	<string>reusableSemantics</string>
+</dict>
+</plist>

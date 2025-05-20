@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetrect</key>
+	<string>eagerGroup</string>
+	<key>confidentialityShape</key>
+	<string>shouldCreateWorkflow</string>
+	<key>cursorflyweightborder</key>
+	<string>immutableCombiner</string>
+	<key>numericalservice</key>
+	<string>readtabbar</string>
+	<key>shouldAttachPlayback</key>
+	<string>retainedBoxShadow</string>
+	<key>singletonjobkind</key>
+	<string>priorityAction</string>
+</dict>
+</plist>

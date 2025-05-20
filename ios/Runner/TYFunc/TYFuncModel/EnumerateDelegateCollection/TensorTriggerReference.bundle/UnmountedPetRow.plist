@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureResponse</key>
+	<string>activatedIntegration</string>
+	<key>axistension</key>
+	<string>capacityAcceleration</string>
+	<key>desktopMatrix</key>
+	<string>pivotalEmitter</string>
+	<key>joinerInteraction</key>
+	<string>deferredAlpha</string>
+	<key>scopeFrequency</key>
+	<string>relationalNotification</string>
+	<key>shouldPopShader</key>
+	<string>tableDecorator</string>
+	<key>shouldSaveLog</key>
+	<string>specifierMediator</string>
+</dict>
+</plist>

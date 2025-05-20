@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvaspadding</key>
+	<string>syncview</string>
+	<key>combinerAlignment</key>
+	<string>shouldDispatchNib</string>
+	<key>injectionDistance</key>
+	<string>fusedLoop</string>
+	<key>shouldSetStateMedia</key>
+	<string>listenOperation</string>
+	<key>shouldStopCertificate</key>
+	<string>statefulDecoration</string>
+	<key>shouldSubscribeWidget</key>
+	<string>publishController</string>
+	<key>synchronousHero</key>
+	<string>timeSpacing</string>
+	<key>webAspectRatio</key>
+	<string>bindAlpha</string>
+</dict>
+</plist>

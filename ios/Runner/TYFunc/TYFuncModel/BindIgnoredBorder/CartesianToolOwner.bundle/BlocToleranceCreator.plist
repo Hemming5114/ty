@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTweak</key>
+	<string>interpolationchannel</string>
+	<key>delegateforstate</key>
+	<string>multiEvaluation</string>
+	<key>normalConsumption</key>
+	<string>oldCharacteristic</string>
+	<key>originalEvolution</key>
+	<string>certificateMemento</string>
+	<key>persistentDrawer</key>
+	<string>enabledScene</string>
+	<key>priorSample</key>
+	<string>annotateTask</string>
+	<key>shouldEncodeMaterial</key>
+	<string>iconType</string>
+</dict>
+</plist>

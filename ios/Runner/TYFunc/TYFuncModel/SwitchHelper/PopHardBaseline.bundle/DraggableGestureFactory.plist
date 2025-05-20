@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerShade</key>
+	<string>shouldSaveShader</string>
+	<key>draggableChooser</key>
+	<string>fixedSlider</string>
+	<key>floathistogram</key>
+	<string>streamView</string>
+	<key>mobileoperationshape</key>
+	<string>subpixelInterval</string>
+	<key>oldDialogs</key>
+	<string>canReplaceGem</string>
+	<key>temporarypicker</key>
+	<string>quitMetadata</string>
+	<key>tweentrajectory</key>
+	<string>missedInteraction</string>
+</dict>
+</plist>

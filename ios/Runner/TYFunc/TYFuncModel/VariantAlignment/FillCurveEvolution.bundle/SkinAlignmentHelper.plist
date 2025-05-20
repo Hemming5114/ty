@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeJoiner</key>
+	<string>isText</string>
+	<key>enabledasync</key>
+	<string>pivotalText</string>
+	<key>functionalHandler</key>
+	<string>otherMovement</string>
+	<key>gestureRate</key>
+	<string>canPaintBox</string>
+	<key>immutablemend</key>
+	<string>lastComponent</string>
+	<key>obtainobserver</key>
+	<string>deserializeOverlay</string>
+	<key>threadVelocity</key>
+	<string>transposeButton</string>
+	<key>visibleFilter</key>
+	<string>canAttachSpine</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeTension</key>
+	<string>specifyEquipment</string>
+	<key>dedicatedDecoration</key>
+	<string>uniqueMission</string>
+	<key>shouldRenderNotification</key>
+	<string>reusableLayer</string>
+	<key>shouldSerializeGrayscale</key>
+	<string>canUnmountReference</string>
+	<key>wrapperValidation</key>
+	<string>enabledCaption</string>
+</dict>
+</plist>

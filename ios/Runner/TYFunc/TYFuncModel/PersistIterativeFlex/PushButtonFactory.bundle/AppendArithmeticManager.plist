@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBehavior</key>
+	<string>cancelScreen</string>
+	<key>animatedlayout</key>
+	<string>priormodal</string>
+	<key>iterativeStep</key>
+	<string>sessionPadding</string>
+	<key>layerCenter</key>
+	<string>interpolationTension</string>
+	<key>serviceSaturation</key>
+	<string>reusableprogressbarleft</string>
+	<key>staticusecase</key>
+	<string>shouldPublishOption</string>
+	<key>timelineoffset</key>
+	<string>persistentRestriction</string>
+</dict>
+</plist>

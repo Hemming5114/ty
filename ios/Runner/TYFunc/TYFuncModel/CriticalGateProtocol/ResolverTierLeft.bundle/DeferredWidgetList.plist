@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasoftask</key>
+	<string>defaultternary</string>
+	<key>injectionshade</key>
+	<string>synchronousPicker</string>
+	<key>mobileTentative</key>
+	<string>boxRight</string>
+	<key>profilebloc</key>
+	<string>schedulerskewx</string>
+	<key>shouldHandleGridView</key>
+	<string>constraintvardepth</string>
+	<key>synchronousProcessor</key>
+	<string>canRebuildBehavior</string>
+	<key>visibleTechnique</key>
+	<string>inactiveReliability</string>
+</dict>
+</plist>

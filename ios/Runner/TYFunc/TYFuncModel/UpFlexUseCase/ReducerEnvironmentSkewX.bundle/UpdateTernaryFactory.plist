@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStatus</key>
+	<string>publishnotifier</string>
+	<key>basicCharacter</key>
+	<string>lazybutton</string>
+	<key>effectbyvalue</key>
+	<string>intermediateIndicator</string>
+	<key>graphTag</key>
+	<string>priorManager</string>
+	<key>pausetabview</key>
+	<string>canEndProtocol</string>
+	<key>shouldStreamCoordinator</key>
+	<string>persisttransformer</string>
+</dict>
+</plist>

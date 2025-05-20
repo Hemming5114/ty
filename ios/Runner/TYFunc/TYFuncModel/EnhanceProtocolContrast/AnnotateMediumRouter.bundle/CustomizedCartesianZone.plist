@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createstore</key>
+	<string>shadervisibility</string>
+	<key>fixedSlash</key>
+	<string>interpolationposition</string>
+	<key>pauserepository</key>
+	<string>viewnearparameter</string>
+	<key>smallgraph</key>
+	<string>referenceOpacity</string>
+	<key>tweenprototypetype</key>
+	<string>pendingThread</string>
+</dict>
+</plist>

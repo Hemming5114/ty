@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBehavior</key>
+	<string>customConfidentiality</string>
+	<key>canceltransition</key>
+	<string>boxActivity</string>
+	<key>commonLifecycle</key>
+	<string>routemomentum</string>
+	<key>constantPadding</key>
+	<string>appbarawaysingleton</string>
+	<key>iterativeprecisionsaturation</key>
+	<string>fusedConsumer</string>
+	<key>mediaqueryCenter</key>
+	<string>observerOpacity</string>
+	<key>moduleFeedback</key>
+	<string>numericalWrapper</string>
+	<key>reusableGrid</key>
+	<string>canDetachAxis</string>
+	<key>subsequentMetrics</key>
+	<string>taskContrast</string>
+	<key>yieldchecklist</key>
+	<string>updateButton</string>
+</dict>
+</plist>

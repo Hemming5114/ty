@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentCaption</key>
+	<string>basicrowappearance</string>
+	<key>formatasset</key>
+	<string>bitrateTier</string>
+	<key>fusedGrain</key>
+	<string>streamSpecifier</string>
+	<key>menuTheme</key>
+	<string>parsegem</string>
+	<key>numericalLoop</key>
+	<string>sinkBehavior</string>
+	<key>ondelegatetap</key>
+	<string>bundleInteractor</string>
+	<key>shaderstructureshape</key>
+	<string>responsevalueorigin</string>
+	<key>shouldFetchGem</key>
+	<string>deferredImpact</string>
+	<key>storageasmediator</key>
+	<string>shouldRebuildAspectRatio</string>
+</dict>
+</plist>

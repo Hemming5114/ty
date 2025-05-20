@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAction</key>
+	<string>consultativePolyfill</string>
+	<key>nodedespiteaction</key>
+	<string>disabledNavigation</string>
+	<key>shouldDisconnectMobile</key>
+	<string>hardremainderfrequency</string>
+	<key>shouldRouteMomentum</key>
+	<string>gemdirection</string>
+	<key>shouldrebuildcheckbox</key>
+	<string>restoreLabel</string>
+	<key>standalonePet</key>
+	<string>persistentreducer</string>
+	<key>threadaboutparameter</key>
+	<string>statefulcenter</string>
+	<key>transitionprototypetheme</key>
+	<string>specifyLabel</string>
+</dict>
+</plist>

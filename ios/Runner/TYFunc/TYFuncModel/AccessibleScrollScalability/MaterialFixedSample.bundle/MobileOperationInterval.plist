@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChannel</key>
+	<string>shouldpopdelegate</string>
+	<key>confidentialitydepth</key>
+	<string>rowLeft</string>
+	<key>currentlistview</key>
+	<string>disabledMetrics</string>
+	<key>frameAcceleration</key>
+	<string>disposeanimatedcontainer</string>
+	<key>globalSlider</key>
+	<string>presenterObserver</string>
+	<key>lazyDropdownButton</key>
+	<string>onvariantchanged</string>
+	<key>segmentAlignment</key>
+	<string>shouldContinueSwift</string>
+	<key>statefulType</key>
+	<string>marginvalidation</string>
+</dict>
+</plist>

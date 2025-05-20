@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiostagevalidation</key>
+	<string>missedModule</string>
+	<key>effectDepth</key>
+	<string>ephemeralOccasion</string>
+	<key>explicitDisclaimer</key>
+	<string>canDecodeSegment</string>
+	<key>lostvolume</key>
+	<string>rectangleDirection</string>
+	<key>protocolBottom</key>
+	<string>deserializeInterpolation</string>
+	<key>resilientImpression</key>
+	<string>apertureMomentum</string>
+	<key>serializeunary</key>
+	<string>animatorBound</string>
+	<key>shouldYieldProfile</key>
+	<string>canUnbindChallenge</string>
+	<key>spotShape</key>
+	<string>tappableGroup</string>
+	<key>webFeature</key>
+	<string>activeController</string>
+</dict>
+</plist>

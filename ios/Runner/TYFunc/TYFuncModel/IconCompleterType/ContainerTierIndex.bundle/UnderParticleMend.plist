@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitJoiner</key>
+	<string>prevGestureDetector</string>
+	<key>icontop</key>
+	<string>disabledChecklist</string>
+	<key>ignoredMetadata</key>
+	<string>missedReliability</string>
+	<key>shouldCancelModulus</key>
+	<string>animateCatalyst</string>
+	<key>shouldYieldMomentum</key>
+	<string>plateAcceleration</string>
+	<key>synchronousDispatcher</key>
+	<string>itemBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonScroller</key>
+	<string>resizeLoop</string>
+	<key>contractionMargin</key>
+	<string>sortedlinker</string>
+	<key>factoryTint</key>
+	<string>accessibleAlert</string>
+	<key>ismaster</key>
+	<string>decorationAdapter</string>
+	<key>positionpernumber</key>
+	<string>finishDuration</string>
+	<key>shouldTrainGraphic</key>
+	<string>disconnectDrawer</string>
+	<key>smallCapacities</key>
+	<string>declarativePolyfill</string>
+	<key>sophisticatedAnimator</key>
+	<string>canUnbindBoxShadow</string>
+</dict>
+</plist>

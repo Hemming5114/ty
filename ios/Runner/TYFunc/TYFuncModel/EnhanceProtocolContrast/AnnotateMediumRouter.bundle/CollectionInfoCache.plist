@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioTheme</key>
+	<string>methodtweak</string>
+	<key>currentNotifier</key>
+	<string>loadScale</string>
+	<key>equipmentTheme</key>
+	<string>stringifyManager</string>
+	<key>ignoredmusictop</key>
+	<string>navigateMember</string>
+	<key>permissiveProgressBar</key>
+	<string>canSerializeStateless</string>
+	<key>shouldRebuildStream</key>
+	<string>zoneLayer</string>
+	<key>shouldResumeController</key>
+	<string>scaleNumber</string>
+	<key>tweakScale</key>
+	<string>exceptionValidation</string>
+	<key>visitconfiguration</key>
+	<string>nibRate</string>
+</dict>
+</plist>

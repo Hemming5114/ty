@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachemovement</key>
+	<string>euclideanEquipment</string>
+	<key>deferredInkWell</key>
+	<string>animateCard</string>
+	<key>mapvisibility</key>
+	<string>crudeMetrics</string>
+	<key>mendContrast</key>
+	<string>nodeFramework</string>
+	<key>mutableplayback</key>
+	<string>heapAppearance</string>
+	<key>sessionName</key>
+	<string>modalAction</string>
+	<key>shouldResumePrecision</key>
+	<string>captionMargin</string>
+	<key>shouldpaintsign</key>
+	<string>resourcevisitorhue</string>
+	<key>subscriptionskewx</key>
+	<string>descriptionStrategy</string>
+</dict>
+</plist>

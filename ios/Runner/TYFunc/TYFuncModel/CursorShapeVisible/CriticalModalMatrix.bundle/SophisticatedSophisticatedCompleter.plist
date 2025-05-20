@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePicker</key>
+	<string>pushAction</string>
+	<key>decorationedge</key>
+	<string>relationalBorder</string>
+	<key>lostProvision</key>
+	<string>localizationInterval</string>
+	<key>missedInterface</key>
+	<string>handlelayout</string>
+	<key>priorFragments</key>
+	<string>requiredSkirt</string>
+	<key>relationalMerger</key>
+	<string>missionOrigin</string>
+	<key>transitionconvolution</key>
+	<string>layoutnumberposition</string>
+	<key>visiblestampduration</key>
+	<string>moduleDepth</string>
+	<key>zonearoundinterpreter</key>
+	<string>decodeerror</string>
+</dict>
+</plist>

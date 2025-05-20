@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTheme</key>
+	<string>appendCurve</string>
+	<key>euclideanMobile</key>
+	<string>parallelBrush</string>
+	<key>replacedelegate</key>
+	<string>similaritem</string>
+	<key>shouldRebuildConvolution</key>
+	<string>staticScope</string>
+	<key>shouldcancelcapsule</key>
+	<string>writeTimer</string>
+	<key>substantialOccasion</key>
+	<string>fusedEffect</string>
+	<key>uniformgroup</key>
+	<string>activeArithmetic</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsSaturation</key>
+	<string>sanitizeResult</string>
+	<key>exceptionBottom</key>
+	<string>compareHandler</string>
+	<key>keepcard</key>
+	<string>shouldDispatchCertificate</string>
+	<key>originalCharacter</key>
+	<string>materializeralignment</string>
+	<key>requestwrapper</key>
+	<string>framePosition</string>
+	<key>selectedbutton</key>
+	<string>detachSprite</string>
+	<key>shouldCacheGestureDetector</key>
+	<string>titleTension</string>
+	<key>shouldDecodeButton</key>
+	<string>vertexDepth</string>
+	<key>ternaryinfrastructure</key>
+	<string>loadDecoration</string>
+	<key>uniformInteger</key>
+	<string>canUpdateProjection</string>
+</dict>
+</plist>

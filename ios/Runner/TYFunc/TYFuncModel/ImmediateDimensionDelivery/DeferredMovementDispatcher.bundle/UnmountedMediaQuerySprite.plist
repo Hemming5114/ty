@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramfeedback</key>
+	<string>imageSingleton</string>
+	<key>lazyCubit</key>
+	<string>aperturePressure</string>
+	<key>moduleOrientation</key>
+	<string>previewAcceleration</string>
+	<key>monsterVisibility</key>
+	<string>canBuildFragment</string>
+	<key>requiredmaterial</key>
+	<string>fetchConsumer</string>
+	<key>resilientGrain</key>
+	<string>skipprofile</string>
+	<key>respectiveEmitter</key>
+	<string>cycleResponse</string>
+	<key>scaffoldpresenter</key>
+	<string>canCacheVariant</string>
+	<key>standaloneThreshold</key>
+	<string>shouldDisposeProfile</string>
+	<key>subscriptionOpacity</key>
+	<string>currentbitrate</string>
+</dict>
+</plist>

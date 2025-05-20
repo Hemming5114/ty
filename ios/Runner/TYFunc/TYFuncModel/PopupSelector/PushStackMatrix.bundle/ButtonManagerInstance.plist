@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyException</key>
+	<string>roleCoord</string>
+	<key>interfaceDistance</key>
+	<string>deactivateTween</string>
+	<key>requiredDropdownButton</key>
+	<string>pushMargin</string>
+	<key>secondBaseline</key>
+	<string>significantComponent</string>
+	<key>symmetricRect</key>
+	<string>sanitizeChapter</string>
+</dict>
+</plist>

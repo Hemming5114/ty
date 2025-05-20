@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturetransparency</key>
+	<string>receiveanimation</string>
+	<key>directTransition</key>
+	<string>strokeCount</string>
+	<key>equipmentscheduler</key>
+	<string>layoutTable</string>
+	<key>measureswitch</key>
+	<string>sortedfinder</string>
+	<key>shouldMountMultiplication</key>
+	<string>canNavigateGraphic</string>
+	<key>yieldclipper</key>
+	<string>parallelTrajectory</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideannodefrequency</key>
+	<string>tensorEvolution</string>
+	<key>shouldReplaceMatrix</key>
+	<string>unarygraph</string>
+	<key>shouldYieldCard</key>
+	<string>contractionActivity</string>
+	<key>shouldunmountgradient</key>
+	<string>repositoryOrientation</string>
+	<key>staticPriority</key>
+	<string>rapidproviderspeed</string>
+	<key>transformduration</key>
+	<string>backwardStack</string>
+	<key>usecaseconstant</key>
+	<string>resolverworkstatus</string>
+</dict>
+</plist>

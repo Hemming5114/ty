@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedmultiplication</key>
+	<string>transitionIndicator</string>
+	<key>concurrentPadding</key>
+	<string>sortedScheduler</string>
+	<key>coordinatoroperation</key>
+	<string>shouldNotifyChecklist</string>
+	<key>pinchableReference</key>
+	<string>allocatoroffset</string>
+	<key>shouldEndEffect</key>
+	<string>awaitOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisName</key>
+	<string>intensitylinker</string>
+	<key>builderShape</key>
+	<string>fetchDescriptor</string>
+	<key>concreteProvider</key>
+	<string>mitigateTransition</string>
+	<key>drawerShape</key>
+	<string>axisinfrastructure</string>
+	<key>mainStateless</key>
+	<string>canUnbindBloc</string>
+	<key>navigatetween</key>
+	<string>dialogsComposite</string>
+	<key>rangeHead</key>
+	<string>singletontransparency</string>
+	<key>shouldprepareoverlay</key>
+	<string>isolateTint</string>
+	<key>symmetricTolerance</key>
+	<string>shearprovider</string>
+</dict>
+</plist>

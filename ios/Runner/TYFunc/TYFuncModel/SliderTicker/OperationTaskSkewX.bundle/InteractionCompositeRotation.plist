@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPosition</key>
+	<string>scrollerBrightness</string>
+	<key>declarativedecorationdirection</key>
+	<string>prismaticZone</string>
+	<key>pivotalSubscription</key>
+	<string>labelskewx</string>
+	<key>reactivePosition</key>
+	<string>canSaveCube</string>
+	<key>secondIntegration</key>
+	<string>propagateStorage</string>
+	<key>sinkFlags</key>
+	<string>characterColor</string>
+	<key>sizedboxEdge</key>
+	<string>storageScale</string>
+	<key>statelessScroll</key>
+	<string>showSegment</string>
+</dict>
+</plist>

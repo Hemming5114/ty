@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAlignment</key>
+	<string>loadOption</string>
+	<key>commonEntropy</key>
+	<string>relationalScreen</string>
+	<key>consultativeRecursion</key>
+	<string>prevRichText</string>
+	<key>containerpercomposite</key>
+	<string>requiredComponent</string>
+	<key>interactiveConstraint</key>
+	<string>canRebuildComposition</string>
+	<key>mobilebehavior</key>
+	<string>spotStyle</string>
+	<key>resiliencebehavior</key>
+	<string>baseTheme</string>
+	<key>shouldConnectLoss</key>
+	<string>anchorPattern</string>
+	<key>shouldDisposeMaster</key>
+	<string>descentDirection</string>
+</dict>
+</plist>

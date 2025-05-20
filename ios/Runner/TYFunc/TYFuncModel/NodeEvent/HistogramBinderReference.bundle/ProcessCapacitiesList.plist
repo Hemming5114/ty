@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBoxShadow</key>
+	<string>canAnimateCell</string>
+	<key>associateresource</key>
+	<string>consultativeTimer</string>
+	<key>diffableScroller</key>
+	<string>activatedLayout</string>
+	<key>inactivePreview</key>
+	<string>explicitTicker</string>
+	<key>missionSize</key>
+	<string>shouldContinueTheme</string>
+	<key>shouldFetchStateful</key>
+	<string>basicConsumer</string>
+</dict>
+</plist>

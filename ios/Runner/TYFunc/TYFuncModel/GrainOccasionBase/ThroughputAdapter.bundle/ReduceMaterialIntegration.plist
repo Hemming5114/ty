@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDirection</key>
+	<string>customizedInformation</string>
+	<key>currentconsumerspacing</key>
+	<string>viewnode</string>
+	<key>exceptionStyle</key>
+	<string>bandwidthsaturation</string>
+	<key>nativeMargin</key>
+	<string>retainView</string>
+	<key>seamlesstransformer</key>
+	<string>sustainableSplitter</string>
+	<key>shouldValidateWorkflow</key>
+	<string>petTop</string>
+</dict>
+</plist>

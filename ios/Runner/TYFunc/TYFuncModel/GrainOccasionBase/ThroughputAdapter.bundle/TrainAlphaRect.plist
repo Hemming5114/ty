@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildcycle</key>
+	<string>stateTension</string>
+	<key>invisiblePrecision</key>
+	<string>mainMesh</string>
+	<key>mediumBrush</key>
+	<string>desktopBehavior</string>
+	<key>nibofnumber</key>
+	<string>independentPadding</string>
+	<key>observerStyle</key>
+	<string>gridviewwithaction</string>
+	<key>shouldAnimateRichText</key>
+	<string>callbackwithouttype</string>
+	<key>throughputBound</key>
+	<string>deferredQueue</string>
+</dict>
+</plist>

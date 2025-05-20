@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultTraversal</key>
+	<string>presentStateless</string>
+	<key>ephemeralsingleton</key>
+	<string>mainActivity</string>
+	<key>hyperbolicBullet</key>
+	<string>reactiveState</string>
+	<key>movementincludeparam</key>
+	<string>reductionVar</string>
+	<key>shouldpausenotifier</key>
+	<string>shouldStartSpot</string>
+	<key>sortedScope</key>
+	<string>asynchronousNotifier</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSkin</key>
+	<string>canRouteView</string>
+	<key>axisstate</key>
+	<string>resultStatus</string>
+	<key>compositionalconstraintbottom</key>
+	<string>multiChapter</string>
+	<key>customGraphic</key>
+	<string>scrollCommand</string>
+	<key>mediocreRoute</key>
+	<string>fixedBinary</string>
+	<key>significantassetedge</key>
+	<string>pinchablePresenter</string>
+	<key>smartCluster</key>
+	<string>multiThread</string>
+	<key>symmetricPageView</key>
+	<string>canSerializeCache</string>
+	<key>tabbarrate</key>
+	<string>deferredVideo</string>
+</dict>
+</plist>

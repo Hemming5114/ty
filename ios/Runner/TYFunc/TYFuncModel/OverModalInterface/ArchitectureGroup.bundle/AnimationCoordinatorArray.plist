@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyhue</key>
+	<string>observeCycle</string>
+	<key>nodeSkewX</key>
+	<string>flexiblePager</string>
+	<key>permanentProvision</key>
+	<string>comprehensiveIcon</string>
+	<key>primarycubitlocation</key>
+	<string>awaititem</string>
+</dict>
+</plist>

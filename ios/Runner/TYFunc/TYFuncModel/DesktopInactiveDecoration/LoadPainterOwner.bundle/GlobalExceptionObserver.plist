@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropySkewY</key>
+	<string>displayablegem</string>
+	<key>hyperbolicProgressBar</key>
+	<string>behaviorComposite</string>
+	<key>imperativeOption</key>
+	<string>catalystchooser</string>
+	<key>playbackShape</key>
+	<string>denseGrain</string>
+	<key>reflectmenu</key>
+	<string>rowDistance</string>
+</dict>
+</plist>

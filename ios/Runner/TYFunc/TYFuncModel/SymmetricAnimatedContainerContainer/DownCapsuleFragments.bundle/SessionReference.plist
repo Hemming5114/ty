@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentDuration</key>
+	<string>desktopPositioned</string>
+	<key>flexsensor</key>
+	<string>aspectratioTransparency</string>
+	<key>interactiveTolerance</key>
+	<string>sizeVar</string>
+	<key>operationInteraction</key>
+	<string>visibleBatch</string>
+	<key>resultvarfeedback</key>
+	<string>gesturePattern</string>
+	<key>selectedmodal</key>
+	<string>maintainVector</string>
+	<key>shouldTrainTabBar</key>
+	<string>compileevent</string>
+</dict>
+</plist>

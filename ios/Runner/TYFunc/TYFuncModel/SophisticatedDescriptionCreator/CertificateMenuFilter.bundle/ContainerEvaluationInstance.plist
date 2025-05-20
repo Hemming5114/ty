@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachsink</key>
+	<string>canUpdateUnary</string>
+	<key>elasticReduction</key>
+	<string>builderoutsidemethod</string>
+	<key>lostDropdownButton</key>
+	<string>advancedBorder</string>
+	<key>nodeBound</key>
+	<string>cartesianstore</string>
+	<key>originalEqualization</key>
+	<string>compositionFramework</string>
+	<key>resizablesorter</key>
+	<string>accordionTask</string>
+	<key>shouldCacheSignature</key>
+	<string>routeColor</string>
+	<key>smartRole</key>
+	<string>integerMemento</string>
+</dict>
+</plist>

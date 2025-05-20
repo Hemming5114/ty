@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bullettierindex</key>
+	<string>directSymbol</string>
+	<key>encodefuture</key>
+	<string>primaryCanvas</string>
+	<key>imperativeMonster</key>
+	<string>createnotification</string>
+	<key>liteMetadata</key>
+	<string>canConnectCustomPaint</string>
+	<key>shouldSerializeLayout</key>
+	<string>marshalslider</string>
+	<key>shouldsavetool</key>
+	<string>canRebuildHistogram</string>
+	<key>spineTension</key>
+	<string>bindduration</string>
+	<key>standaloneMission</key>
+	<string>listencursor</string>
+</dict>
+</plist>

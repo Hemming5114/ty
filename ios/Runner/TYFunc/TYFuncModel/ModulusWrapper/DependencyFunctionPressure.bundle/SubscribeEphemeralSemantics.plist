@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultgesturedetector</key>
+	<string>shouldCacheResource</string>
+	<key>diversifiedVertex</key>
+	<string>multiDescriptor</string>
+	<key>geometricComposition</key>
+	<string>binaryCycle</string>
+	<key>injectionResponse</key>
+	<string>immediateStateful</string>
+	<key>lazyHandler</key>
+	<string>shouldCacheCustomPaint</string>
+	<key>matrixOrigin</key>
+	<string>functionalascent</string>
+	<key>shouldUnmountedCaption</key>
+	<string>respectiveDescription</string>
+	<key>tweakCenter</key>
+	<string>mobileSpot</string>
+</dict>
+</plist>

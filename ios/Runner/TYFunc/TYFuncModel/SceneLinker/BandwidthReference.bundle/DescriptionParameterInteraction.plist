@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisHue</key>
+	<string>drawTask</string>
+	<key>callbackTail</key>
+	<string>beginnerCharacteristic</string>
+	<key>captionRotation</key>
+	<string>numericalSingleton</string>
+	<key>granularInjection</key>
+	<string>animateEqualization</string>
+	<key>multiRouter</key>
+	<string>invisibleUseCase</string>
+	<key>singleimpact</key>
+	<string>unactivatedWrapper</string>
+	<key>visibleSizedBox</key>
+	<string>requestCoord</string>
+</dict>
+</plist>

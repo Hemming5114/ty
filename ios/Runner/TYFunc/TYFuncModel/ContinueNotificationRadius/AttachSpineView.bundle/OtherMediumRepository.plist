@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVisibility</key>
+	<string>resizableReducer</string>
+	<key>frameFormat</key>
+	<string>priorCollection</string>
+	<key>resilienceAlignment</key>
+	<string>eraseAction</string>
+	<key>temporaryMedia</key>
+	<string>unaryCoord</string>
+	<key>temporaryRole</key>
+	<string>crucialOptimizer</string>
+</dict>
+</plist>

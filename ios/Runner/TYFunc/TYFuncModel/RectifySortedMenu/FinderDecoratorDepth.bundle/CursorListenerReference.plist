@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailForce</key>
+	<string>meshResponse</string>
+	<key>fetchpromise</key>
+	<string>multiGrain</string>
+	<key>formatbloc</key>
+	<string>mediumProgressBar</string>
+	<key>metadataFrequency</key>
+	<string>vectorCenter</string>
+	<key>shaderMomentum</key>
+	<string>permissiveFormat</string>
+	<key>shouldAnimateEffect</key>
+	<string>segueCount</string>
+	<key>shouldMountRoute</key>
+	<string>sortedSound</string>
+	<key>sinktransparency</key>
+	<string>agileDistinction</string>
+	<key>visibleListView</key>
+	<string>crudeMember</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localStore</key>
+	<string>eventTension</string>
+	<key>rectangleInset</key>
+	<string>canPrepareSemantics</string>
+	<key>shouldYieldLog</key>
+	<string>composableProgressBar</string>
+</dict>
+</plist>

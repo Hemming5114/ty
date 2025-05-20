@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPressure</key>
+	<string>shouldNavigateChannels</string>
+	<key>asynchronouszonevisibility</key>
+	<string>singleGroup</string>
+	<key>characterborder</key>
+	<string>introspectgradient</string>
+	<key>consumptioninterval</key>
+	<string>toolOpacity</string>
+	<key>elasticityOrigin</key>
+	<string>independentSwift</string>
+	<key>seamlessPopup</key>
+	<string>draggableviewinset</string>
+	<key>typicalTraversal</key>
+	<string>alphaStage</string>
+	<key>unactivatedQueue</key>
+	<string>smartIndicator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGrayscale</key>
+	<string>persistscale</string>
+	<key>agileAlert</key>
+	<string>canTransitionLog</string>
+	<key>cardDepth</key>
+	<string>labelState</string>
+	<key>intensityright</key>
+	<string>embedManager</string>
+	<key>painterOrigin</key>
+	<string>numericalbitrate</string>
+	<key>shouldInflateMaster</key>
+	<string>transposeException</string>
+	<key>startcaption</key>
+	<string>mountedqueue</string>
+</dict>
+</plist>

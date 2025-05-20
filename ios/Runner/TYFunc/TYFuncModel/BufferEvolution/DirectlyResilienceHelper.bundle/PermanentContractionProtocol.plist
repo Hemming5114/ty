@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>floatspot</key>
+	<string>resilientIndicator</string>
+	<key>layoutoption</key>
+	<string>prepareMap</string>
+	<key>prismaticTimeline</key>
+	<string>encodeWorkflow</string>
+	<key>shouldDisconnectProtocol</key>
+	<string>baseTier</string>
+	<key>specifyEffect</key>
+	<string>encapsulateSize</string>
+	<key>splitterStyle</key>
+	<string>extensionBehavior</string>
+	<key>statelesssemantics</key>
+	<string>rapidComponent</string>
+	<key>staticScenario</key>
+	<string>opaqueTouch</string>
+</dict>
+</plist>

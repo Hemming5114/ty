@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleasync</key>
+	<string>requestRow</string>
+	<key>flexibleColumn</key>
+	<string>disposeRole</string>
+	<key>grayscaleascent</key>
+	<string>enumeratechapter</string>
+	<key>imperativeTolerance</key>
+	<string>canSerializeVariant</string>
+	<key>restoreappbar</key>
+	<string>shouldDispatchScroll</string>
+	<key>staticBandwidth</key>
+	<string>accordionAppBar</string>
+	<key>tappablePublisher</key>
+	<string>setupResult</string>
+	<key>temporarySegment</key>
+	<string>completerlocation</string>
+</dict>
+</plist>

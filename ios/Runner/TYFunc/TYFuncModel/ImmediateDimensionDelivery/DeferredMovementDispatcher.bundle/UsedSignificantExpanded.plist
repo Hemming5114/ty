@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleBuffer</key>
+	<string>canDismissSemantics</string>
+	<key>keyvariant</key>
+	<string>throughputShade</string>
+	<key>standaloneTween</key>
+	<string>pagerSkewX</string>
+	<key>tappableaction</key>
+	<string>canFinishObserver</string>
+</dict>
+</plist>

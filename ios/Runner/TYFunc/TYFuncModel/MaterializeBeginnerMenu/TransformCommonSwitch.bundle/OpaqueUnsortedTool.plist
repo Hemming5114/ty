@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCustomPaint</key>
+	<string>documentPressure</string>
+	<key>descriptioncreator</key>
+	<string>invokeGrid</string>
+	<key>directNode</key>
+	<string>rangeFrequency</string>
+	<key>inactivemultiplication</key>
+	<string>shouldShowGridView</string>
+	<key>isheap</key>
+	<string>descriptionPlatform</string>
+	<key>pinchableRoute</key>
+	<string>shouldunmountedpoint</string>
+	<key>shouldShowSwift</key>
+	<string>modulusBound</string>
+	<key>shouldStreamThread</key>
+	<string>prioritynode</string>
+	<key>specifyHeap</key>
+	<string>converterBottom</string>
+</dict>
+</plist>

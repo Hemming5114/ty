@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatzone</key>
+	<string>granularSubpixel</string>
+	<key>iterativeAudio</key>
+	<string>agileborder</string>
+	<key>layerTint</key>
+	<string>statefulactioninterval</string>
+	<key>publicView</key>
+	<string>shouldFormatUsage</string>
+	<key>restartqueue</key>
+	<string>canPushBoxShadow</string>
+	<key>showmaster</key>
+	<string>animateScaffold</string>
+	<key>staticMatrix</key>
+	<string>reusableModal</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectiontrigger</key>
+	<string>cacheFragment</string>
+	<key>mendBorder</key>
+	<string>hashTransparency</string>
+	<key>meshinset</key>
+	<string>controllerTheme</string>
+	<key>pinchableTriangles</key>
+	<string>encodeCharacter</string>
+	<key>scrollableTweak</key>
+	<string>remainderduration</string>
+	<key>shouldHandleShader</key>
+	<string>canProcessSizedBox</string>
+	<key>sustainableReference</key>
+	<string>advancedlistener</string>
+</dict>
+</plist>

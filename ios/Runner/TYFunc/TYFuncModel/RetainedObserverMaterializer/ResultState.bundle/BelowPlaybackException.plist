@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSpacing</key>
+	<string>easyOverlay</string>
+	<key>durationDistance</key>
+	<string>canPushAlert</string>
+	<key>eventstyleskewy</key>
+	<string>shouldDismissRadio</string>
+	<key>flexreducer</key>
+	<string>shouldConnectUsage</string>
+	<key>optionvelocity</key>
+	<string>shouldPresentUsage</string>
+	<key>resizableLoader</key>
+	<string>discardedTween</string>
+	<key>scalestatus</key>
+	<string>numericalGridView</string>
+	<key>shouldUnmountedCycle</key>
+	<string>canUnmountedNotifier</string>
+</dict>
+</plist>

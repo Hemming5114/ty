@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaalongsystem</key>
+	<string>detachCompleter</string>
+	<key>shouldObserveBox</key>
+	<string>startOperation</string>
+	<key>shouldPopCharacter</key>
+	<string>selectedsample</string>
+	<key>shouldRouteInteger</key>
+	<string>unlockIntensity</string>
+	<key>singleSegment</key>
+	<string>pickerBottom</string>
+	<key>subtleschema</key>
+	<string>conformConfiguration</string>
+</dict>
+</plist>

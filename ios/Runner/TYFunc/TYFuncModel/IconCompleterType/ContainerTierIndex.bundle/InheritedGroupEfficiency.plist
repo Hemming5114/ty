@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparelabel</key>
+	<string>requestLayer</string>
+	<key>hasworkflow</key>
+	<string>markTitle</string>
+	<key>iconshape</key>
+	<string>statelessModal</string>
+	<key>opaqueMenu</key>
+	<string>gridStatus</string>
+	<key>remediationBehavior</key>
+	<string>multiplicationObserver</string>
+	<key>shouldObserveHistogram</key>
+	<string>shouldbindcolumn</string>
+	<key>shouldSkipStream</key>
+	<string>beginnerThreshold</string>
+</dict>
+</plist>

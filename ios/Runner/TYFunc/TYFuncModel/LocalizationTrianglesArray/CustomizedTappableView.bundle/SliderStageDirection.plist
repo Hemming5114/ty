@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReference</key>
+	<string>skinShape</string>
+	<key>blocthanstate</key>
+	<string>reactiveLabel</string>
+	<key>detachcurve</key>
+	<string>canSubscribeTabBar</string>
+	<key>independentindicator</key>
+	<string>canSaveGradient</string>
+	<key>shouldListenButton</key>
+	<string>missedRect</string>
+	<key>shouldtrainswift</key>
+	<string>lastcompleter</string>
+	<key>visibleCluster</key>
+	<string>cacheCosine</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackvalidation</key>
+	<string>advancedLoss</string>
+	<key>crudeLocalization</key>
+	<string>mediumColor</string>
+	<key>declarativerect</key>
+	<string>canFinishActivity</string>
+	<key>geometricBox</key>
+	<string>intermediatestatelesslocation</string>
+	<key>geometricQueue</key>
+	<string>integerinterface</string>
+	<key>hierarchicalreceiver</key>
+	<string>shouldSkipGesture</string>
+	<key>secondlayoutfeedback</key>
+	<string>declarativeDialogs</string>
+	<key>statelessOverlay</key>
+	<string>intuitiveEqualization</string>
+	<key>titlemediatortail</key>
+	<string>stepPlatform</string>
+</dict>
+</plist>

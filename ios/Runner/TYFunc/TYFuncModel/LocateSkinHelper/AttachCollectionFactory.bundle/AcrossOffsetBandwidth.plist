@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerdescription</key>
+	<string>vectorvelocity</string>
+	<key>immediateBox</key>
+	<string>shouldNotifyTheme</string>
+	<key>iterativeSchema</key>
+	<string>quaternionLocation</string>
+	<key>mapState</key>
+	<string>disabledDimension</string>
+	<key>modalcenter</key>
+	<string>replacecapsule</string>
+	<key>shouldReplaceTangent</key>
+	<string>canTrainSine</string>
+	<key>shouldpublishsine</key>
+	<string>introspectOffset</string>
+	<key>unbindswitch</key>
+	<string>skirtBuffer</string>
+	<key>webAnimator</key>
+	<string>shouldSetStateProjection</string>
+</dict>
+</plist>

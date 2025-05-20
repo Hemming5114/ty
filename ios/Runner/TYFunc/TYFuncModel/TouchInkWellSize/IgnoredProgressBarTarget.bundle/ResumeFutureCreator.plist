@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredaudio</key>
+	<string>storageStatus</string>
+	<key>discardedWrapper</key>
+	<string>canNavigateBrush</string>
+	<key>elementMode</key>
+	<string>reducerimpression</string>
+	<key>lastprovider</key>
+	<string>currentObject</string>
+	<key>mutableSegment</key>
+	<string>featureBound</string>
+	<key>petAppearance</key>
+	<string>ignoredModal</string>
+	<key>prevCharacteristic</key>
+	<string>opaquePicker</string>
+	<key>smartPageView</key>
+	<string>autoBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isobserver</key>
+	<string>canShowDelegate</string>
+	<key>keepresolver</key>
+	<string>positionBound</string>
+	<key>objectvisibility</key>
+	<string>shouldContinueAspect</string>
+	<key>screenScale</key>
+	<string>canLayoutNotification</string>
+	<key>shouldStreamBatch</key>
+	<string>sustainablehash</string>
+	<key>shouldloadmission</key>
+	<string>canSetStateUsage</string>
+	<key>shouldpreparenorm</key>
+	<string>parallelInfo</string>
+	<key>sinkhue</key>
+	<string>dimensionoperationresponse</string>
+	<key>typicalBoxShadow</key>
+	<string>inactiveScheduler</string>
+	<key>unsortedLoop</key>
+	<string>persistentbase</string>
+</dict>
+</plist>

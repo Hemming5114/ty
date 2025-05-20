@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSplitter</key>
+	<string>usagePadding</string>
+	<key>ephemeralTrigger</key>
+	<string>shouldEndOperation</string>
+	<key>responderresponse</key>
+	<string>resilienceBottom</string>
+	<key>sampleRotation</key>
+	<string>featureInterval</string>
+	<key>shouldPaintScale</key>
+	<string>scalabilityMargin</string>
+	<key>shouldTransformMargin</key>
+	<string>shouldFetchWidget</string>
+	<key>singleRequest</key>
+	<string>notificationphasetop</string>
+	<key>statefulAlignment</key>
+	<string>modelTension</string>
+</dict>
+</plist>

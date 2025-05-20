@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoreducer</key>
+	<string>isolateCycle</string>
+	<key>hardlistview</key>
+	<string>playLoop</string>
+	<key>layoutmission</key>
+	<string>transformTabBar</string>
+	<key>precisionLeft</key>
+	<string>sessionFacade</string>
+	<key>shouldLoadArithmetic</key>
+	<string>intuitiveGrid</string>
+	<key>shouldresumedescriptor</key>
+	<string>firstGift</string>
+	<key>staticSink</key>
+	<string>navigatorTask</string>
+</dict>
+</plist>

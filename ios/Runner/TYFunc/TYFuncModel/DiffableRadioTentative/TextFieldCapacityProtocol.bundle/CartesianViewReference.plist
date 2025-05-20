@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeModule</key>
+	<string>unsortedGesture</string>
+	<key>invisiblepermutation</key>
+	<string>navigateError</string>
+	<key>originalSine</key>
+	<string>draggableChannels</string>
+	<key>receiverSpeed</key>
+	<string>bufferBrightness</string>
+	<key>sceneRight</key>
+	<string>shouldRestartEquipment</string>
+	<key>shouldConnectStack</key>
+	<string>difficultGrain</string>
+	<key>singlePreview</key>
+	<string>loopMode</string>
+	<key>soundMargin</key>
+	<string>explicitdescent</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncShape</key>
+	<string>shouldPublishCard</string>
+	<key>coordinatorwithstrategy</key>
+	<string>sinePlatform</string>
+	<key>largequeue</key>
+	<string>signatureEdge</string>
+	<key>meshShape</key>
+	<string>shouldUpdateContainer</string>
+	<key>reductionrotation</key>
+	<string>standaloneactionalignment</string>
+	<key>resilienceOrientation</key>
+	<string>optionLocation</string>
+	<key>responderAcceleration</key>
+	<string>buttonTension</string>
+</dict>
+</plist>

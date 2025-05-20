@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTask</key>
+	<string>compositionalrectangle</string>
+	<key>dynamicEquipment</key>
+	<string>menuContrast</string>
+	<key>granularreliability</key>
+	<string>gemTier</string>
+	<key>hasoperation</key>
+	<string>nodepressure</string>
+	<key>shouldNotifyBloc</key>
+	<string>shouldInflatePageView</string>
+	<key>shouldStreamCompletion</key>
+	<string>consultativeExpanded</string>
+	<key>shouldsaveindicator</key>
+	<string>graphicDirection</string>
+	<key>tickerDensity</key>
+	<string>fusedSegment</string>
+</dict>
+</plist>

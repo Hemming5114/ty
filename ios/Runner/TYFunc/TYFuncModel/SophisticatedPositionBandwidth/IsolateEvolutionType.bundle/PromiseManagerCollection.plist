@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderfornumber</key>
+	<string>accordionExpanded</string>
+	<key>connectorOrientation</key>
+	<string>gemCommand</string>
+	<key>inflateresource</key>
+	<string>tensorThreshold</string>
+	<key>lazyCube</key>
+	<string>memberScale</string>
+	<key>localNorm</key>
+	<string>stopDescriptor</string>
+	<key>mapforce</key>
+	<string>shouldyieldcursor</string>
+	<key>semanticPageView</key>
+	<string>drawResponse</string>
+	<key>shouldFinishArithmetic</key>
+	<string>radioActivity</string>
+	<key>shouldRouteNavigation</key>
+	<string>resilientNotification</string>
+</dict>
+</plist>

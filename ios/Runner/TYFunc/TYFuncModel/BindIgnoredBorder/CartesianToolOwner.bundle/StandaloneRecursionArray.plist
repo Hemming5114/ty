@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorhead</key>
+	<string>hardGraph</string>
+	<key>beginnerModal</key>
+	<string>shouldTransformListView</string>
+	<key>futurethreshold</key>
+	<string>smallResponder</string>
+	<key>requiredRenderer</key>
+	<string>assetDuration</string>
+	<key>shouldAnimateResource</key>
+	<string>canRebuildSpecifier</string>
+	<key>specifyController</key>
+	<string>canPresentPlate</string>
+	<key>subsequentnotifiercolor</key>
+	<string>parseModal</string>
+</dict>
+</plist>

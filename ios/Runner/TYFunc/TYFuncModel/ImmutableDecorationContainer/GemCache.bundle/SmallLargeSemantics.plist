@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGraphic</key>
+	<string>retainedLifecycle</string>
+	<key>certificatedelivery</key>
+	<string>tweenOffset</string>
+	<key>dedicatedModal</key>
+	<string>directCupertino</string>
+	<key>rapidSignature</key>
+	<string>mediocreColumn</string>
+	<key>replacemovement</key>
+	<string>streamLayout</string>
+	<key>shoulddeserializesubpixel</key>
+	<string>viewparameterspeed</string>
+	<key>shouldpopstateless</key>
+	<string>logarithmCommand</string>
+</dict>
+</plist>

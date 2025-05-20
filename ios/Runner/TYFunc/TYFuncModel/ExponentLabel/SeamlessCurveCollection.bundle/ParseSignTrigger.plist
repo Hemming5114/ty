@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedLifecycle</key>
+	<string>parallelMatrix</string>
+	<key>immediateCursor</key>
+	<string>canReplaceOperation</string>
+	<key>injectionenvironmentdirection</key>
+	<string>tappableActivity</string>
+	<key>labelHue</key>
+	<string>delicateEquipment</string>
+	<key>positionShape</key>
+	<string>opaquetentative</string>
+	<key>publicfactory</key>
+	<string>canTransitionSpot</string>
+	<key>textperplatform</key>
+	<string>shoulddisconnectusage</string>
+</dict>
+</plist>

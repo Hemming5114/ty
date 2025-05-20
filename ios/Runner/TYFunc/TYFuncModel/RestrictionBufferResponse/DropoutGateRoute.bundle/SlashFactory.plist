@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDialogs</key>
+	<string>desktopcycle</string>
+	<key>animationformborder</key>
+	<string>canDeserializeDelegate</string>
+	<key>curveticker</key>
+	<string>reflectSprite</string>
+	<key>defaultanchor</key>
+	<string>lazyEvent</string>
+	<key>labelfromadapter</key>
+	<string>persistEquipment</string>
+	<key>permissivecontrollerpadding</key>
+	<string>configurationMediator</string>
+	<key>persistentCatalyst</key>
+	<string>zoneCoord</string>
+	<key>richtextDelay</key>
+	<string>shouldContinueLog</string>
+	<key>seamlessSpine</key>
+	<string>numericalStroke</string>
+</dict>
+</plist>

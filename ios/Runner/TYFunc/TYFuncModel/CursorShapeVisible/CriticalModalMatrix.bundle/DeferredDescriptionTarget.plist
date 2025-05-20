@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedVelocity</key>
+	<string>asynchronousBloc</string>
+	<key>futuretween</key>
+	<string>providerinsidecycle</string>
+	<key>imperativeChooser</key>
+	<string>slashNumber</string>
+	<key>meshRate</key>
+	<string>mediaPosition</string>
+	<key>navigatenib</key>
+	<string>slashMemento</string>
+</dict>
+</plist>

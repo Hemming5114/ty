@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureType</key>
+	<string>dataTension</string>
+	<key>callbackorstate</key>
+	<string>crudeIntegration</string>
+	<key>filterName</key>
+	<string>usageOrientation</string>
+	<key>navigationLocation</key>
+	<string>canAttachRoute</string>
+	<key>secondresult</key>
+	<string>featureAdapter</string>
+</dict>
+</plist>

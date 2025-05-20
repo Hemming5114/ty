@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratebeyondvar</key>
+	<string>sanitizeobserver</string>
+	<key>compositionalEntity</key>
+	<string>pauseInteger</string>
+	<key>liteRouter</key>
+	<string>deserializeCell</string>
+	<key>materialAnimator</key>
+	<string>shouldStreamRow</string>
+	<key>ontextchanged</key>
+	<string>fetchIcon</string>
+	<key>requiredbuildervisible</key>
+	<string>diversifiedbitrate</string>
+</dict>
+</plist>

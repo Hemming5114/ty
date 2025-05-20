@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxeffect</key>
+	<string>petPosition</string>
+	<key>decorationFormat</key>
+	<string>nodeFunction</string>
+	<key>durationOrientation</key>
+	<string>mobileHue</string>
+	<key>greatbaseline</key>
+	<string>canFinishTernary</string>
+	<key>intermediateHandler</key>
+	<string>specifierSaturation</string>
+	<key>smallScheduler</key>
+	<string>permanentResult</string>
+</dict>
+</plist>

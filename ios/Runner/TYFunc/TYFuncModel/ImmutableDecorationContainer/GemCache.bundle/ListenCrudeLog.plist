@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffertransformer</key>
+	<string>interactorposition</string>
+	<key>respectiveTopic</key>
+	<string>currentSkin</string>
+	<key>scrollrotation</key>
+	<string>synchronousCompleter</string>
+	<key>shouldDecodeNorm</key>
+	<string>standaloneScene</string>
+</dict>
+</plist>

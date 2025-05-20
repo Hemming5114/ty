@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledOption</key>
+	<string>symbolHead</string>
+	<key>eagerProvider</key>
+	<string>publicConstant</string>
+	<key>labelOrigin</key>
+	<string>concreteAlert</string>
+	<key>nativeScroller</key>
+	<string>capsulePosition</string>
+	<key>nativeSlider</key>
+	<string>intuitiveFormat</string>
+	<key>selectedModal</key>
+	<string>tappableUsage</string>
+	<key>shouldRebuildTransition</key>
+	<string>spriteOrigin</string>
+	<key>topicincludestrategy</key>
+	<string>spinpromise</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>precisionKind</key>
+	<string>hierarchicalTicker</string>
+	<key>publicConfiguration</key>
+	<string>temporaryLocalization</string>
+	<key>radioSize</key>
+	<string>missionInset</string>
+	<key>resolvercolor</key>
+	<string>uniquemetrics</string>
+	<key>smalltimer</key>
+	<string>canSetStateSegue</string>
+	<key>smartModulus</key>
+	<string>declarativetask</string>
+	<key>tabviewSpeed</key>
+	<string>functionalRichText</string>
+</dict>
+</plist>

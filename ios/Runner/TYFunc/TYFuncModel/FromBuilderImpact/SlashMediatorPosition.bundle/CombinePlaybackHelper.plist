@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzecharacter</key>
+	<string>canDisconnectPlayback</string>
+	<key>diversifiedSink</key>
+	<string>tableTemple</string>
+	<key>fetchzone</key>
+	<string>canvasOrigin</string>
+	<key>publicSegue</key>
+	<string>nativeUseCase</string>
+	<key>richtextframe</key>
+	<string>pauseDrawer</string>
+	<key>temporaryconstraintpadding</key>
+	<string>registersprite</string>
+	<key>visibleGram</key>
+	<string>lifecycleinset</string>
+</dict>
+</plist>

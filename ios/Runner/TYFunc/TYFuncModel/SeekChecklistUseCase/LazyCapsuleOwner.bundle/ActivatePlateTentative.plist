@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenershade</key>
+	<string>overrideContainer</string>
+	<key>permanentslidermode</key>
+	<string>resizableContainer</string>
+	<key>projectduringdecorator</key>
+	<string>shouldFetchSample</string>
+	<key>queueTension</key>
+	<string>accordionProcessor</string>
+	<key>seamlessRecursion</key>
+	<string>endGem</string>
+	<key>statefulNib</key>
+	<string>sequentialRemainder</string>
+	<key>viewIndex</key>
+	<string>movementduration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTransformer</key>
+	<string>descentOpacity</string>
+	<key>declarativeitem</key>
+	<string>localCanvas</string>
+	<key>directlyProvider</key>
+	<string>scheduleCurve</string>
+	<key>flexibleConstant</key>
+	<string>obtainText</string>
+	<key>impactStatus</key>
+	<string>shouldBuildInkWell</string>
+	<key>sizedboxthanbridge</key>
+	<string>grayscaleTemple</string>
+	<key>smallDelegate</key>
+	<string>agilewidget</string>
+</dict>
+</plist>

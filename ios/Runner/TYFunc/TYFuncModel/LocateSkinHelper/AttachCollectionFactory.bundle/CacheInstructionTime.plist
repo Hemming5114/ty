@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedIndicator</key>
+	<string>overlayspacing</string>
+	<key>declarativeMatrix</key>
+	<string>markException</string>
+	<key>dispatchzone</key>
+	<string>shouldFormatLayout</string>
+	<key>displayableDecoration</key>
+	<string>activityVisitor</string>
+	<key>emitrouter</key>
+	<string>concurrentTexture</string>
+	<key>ephemeralChannel</key>
+	<string>singleGem</string>
+	<key>significantRect</key>
+	<string>shouldPushMaterial</string>
+	<key>skirtsincecomposite</key>
+	<string>independentProgressBar</string>
+</dict>
+</plist>

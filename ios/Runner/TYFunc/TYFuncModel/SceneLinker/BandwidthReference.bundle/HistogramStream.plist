@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticintegration</key>
+	<string>locateDescription</string>
+	<key>ignoredWrapper</key>
+	<string>nativeNavigator</string>
+	<key>navigatorchainvalidation</key>
+	<string>topicbrightness</string>
+	<key>nodecoord</key>
+	<string>shouldNavigateHeap</string>
+	<key>permutationoffset</key>
+	<string>typicalSession</string>
+	<key>precisionprocessindex</key>
+	<string>mobileProjection</string>
+	<key>responsiveSlash</key>
+	<string>restartWidget</string>
+	<key>shouldTrainOperation</key>
+	<string>taxonomyTension</string>
+</dict>
+</plist>

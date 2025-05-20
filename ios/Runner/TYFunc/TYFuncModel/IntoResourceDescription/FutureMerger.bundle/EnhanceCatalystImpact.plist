@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>responsiveDescriptor</key>
+	<string>diversifieddescription</string>
+	<key>sequentialData</key>
+	<string>syncMetadata</string>
+	<key>shouldPopMember</key>
+	<string>quantizerRequest</string>
+	<key>unsortedGift</key>
+	<string>associatedBuffer</string>
+</dict>
+</plist>

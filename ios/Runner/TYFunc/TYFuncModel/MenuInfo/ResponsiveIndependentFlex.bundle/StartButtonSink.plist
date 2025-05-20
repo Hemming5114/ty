@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachtouch</key>
+	<string>secondMusic</string>
+	<key>boxplatformcount</key>
+	<string>asyncbeyondvar</string>
+	<key>channelrenderer</key>
+	<string>beginnerHandler</string>
+	<key>detachprogressbar</key>
+	<string>integerObserver</string>
+	<key>durationShade</key>
+	<string>alphaopacity</string>
+	<key>explicitClipper</key>
+	<string>subscriberTag</string>
+	<key>independentRoute</key>
+	<string>progressbarinfo</string>
+	<key>pickerCenter</key>
+	<string>creatorTop</string>
+	<key>textfieldVisibility</key>
+	<string>backwardaxisposition</string>
+	<key>tweenstatus</key>
+	<string>discardedFrame</string>
+</dict>
+</plist>

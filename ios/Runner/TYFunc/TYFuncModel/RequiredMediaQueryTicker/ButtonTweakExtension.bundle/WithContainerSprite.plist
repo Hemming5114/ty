@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxcontrast</key>
+	<string>popFactory</string>
+	<key>difficultRadius</key>
+	<string>liteDropdownButton</string>
+	<key>graphbridgestatus</key>
+	<string>canCreateKernel</string>
+	<key>immediateCosine</key>
+	<string>reduceruntilform</string>
+	<key>immediateHero</key>
+	<string>usageTension</string>
+	<key>mediumZone</key>
+	<string>canKeepPageView</string>
+	<key>restartheap</key>
+	<string>refreshEvent</string>
+	<key>restrictionRate</key>
+	<string>standaloneRemediation</string>
+	<key>shouldReplaceCache</key>
+	<string>modaltext</string>
+</dict>
+</plist>

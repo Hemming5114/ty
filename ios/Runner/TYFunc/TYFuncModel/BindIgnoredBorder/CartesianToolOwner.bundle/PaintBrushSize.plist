@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateflex</key>
+	<string>canListenSpecifier</string>
+	<key>bufferLocation</key>
+	<string>shouldSetStateBaseline</string>
+	<key>constantCenter</key>
+	<string>reconcileview</string>
+	<key>denseProjection</key>
+	<string>popScreen</string>
+	<key>invisibleIntegrity</key>
+	<string>playException</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDetector</key>
+	<string>transitionagainstoperation</string>
+	<key>baseIndex</key>
+	<string>entityofphase</string>
+	<key>greatLayout</key>
+	<string>discoverContainer</string>
+	<key>mainExpanded</key>
+	<string>injectionrange</string>
+	<key>missedDecoration</key>
+	<string>crudeHistogram</string>
+	<key>routeMode</key>
+	<string>descriptionParameter</string>
+	<key>sharedPermutation</key>
+	<string>fetchbutton</string>
+	<key>shouldResumeGestureDetector</key>
+	<string>listenerAction</string>
+	<key>texturebottom</key>
+	<string>trainHistogram</string>
+</dict>
+</plist>

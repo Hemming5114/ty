@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedinformation</key>
+	<string>radiorepository</string>
+	<key>cupertinofactoryborder</key>
+	<string>menuDistance</string>
+	<key>touchAcceleration</key>
+	<string>dedicatedAnalogy</string>
+	<key>unsortedDetector</key>
+	<string>canPushTabView</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBatch</key>
+	<string>multiplyCompleter</string>
+	<key>difficultProfile</key>
+	<string>listenerpicker</string>
+	<key>infoResponse</key>
+	<string>lazyCoordinator</string>
+	<key>inheritedStack</key>
+	<string>hierarchicalReplica</string>
+	<key>matrixSpacing</key>
+	<string>storeTexture</string>
+	<key>typicalChannels</key>
+	<string>concurrentFuture</string>
+</dict>
+</plist>

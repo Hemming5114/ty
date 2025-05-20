@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivelayer</key>
+	<string>workflowMethod</string>
+	<key>priorHandler</key>
+	<string>accordionConnector</string>
+	<key>shouldDecodeCycle</key>
+	<string>prismaticDialogs</string>
+	<key>storeconfiguration</key>
+	<string>evaluateBuilder</string>
+	<key>symmetricHistogram</key>
+	<string>animatedStateful</string>
+</dict>
+</plist>

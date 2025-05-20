@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetag</key>
+	<string>histogramCommand</string>
+	<key>bulletEdge</key>
+	<string>pushgradient</string>
+	<key>consultativetask</key>
+	<string>cosineScope</string>
+	<key>numericalDispatcher</key>
+	<string>hardDetail</string>
+	<key>parallelThroughput</key>
+	<string>concurrentCapacities</string>
+	<key>usageCoord</key>
+	<string>usedExponent</string>
+</dict>
+</plist>

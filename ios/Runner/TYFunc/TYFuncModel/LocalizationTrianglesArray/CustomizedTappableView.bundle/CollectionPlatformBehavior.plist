@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAscent</key>
+	<string>seamlessLayer</string>
+	<key>diversifiedDetector</key>
+	<string>navigateMaterial</string>
+	<key>heroaroundtype</key>
+	<string>enabledcontrollerkind</string>
+	<key>imageorientation</key>
+	<string>oldChannels</string>
+	<key>resourceRate</key>
+	<string>themeValidation</string>
+	<key>shouldEmitGesture</key>
+	<string>associatedRichText</string>
+	<key>sortedLabel</key>
+	<string>crudegraph</string>
+	<key>unsortedZone</key>
+	<string>accordionDescriptor</string>
+</dict>
+</plist>

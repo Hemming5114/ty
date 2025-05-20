@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeFeature</key>
+	<string>shouldDisconnectRoute</string>
+	<key>decorationDelay</key>
+	<string>decoupleSize</string>
+	<key>fragmentsMomentum</key>
+	<string>mediumAlert</string>
+	<key>imperativePageView</key>
+	<string>touchwidget</string>
+	<key>interpolationworkbehavior</key>
+	<string>shouldTrainBatch</string>
+	<key>loopdensity</key>
+	<string>cleanTransformer</string>
+	<key>reliabilitytype</key>
+	<string>accessibleImage</string>
+	<key>shouldDispatchBoxShadow</key>
+	<string>completedNorm</string>
+	<key>sustainableScale</key>
+	<string>draggableGem</string>
+	<key>tensorPublisher</key>
+	<string>tablesingletonleft</string>
+</dict>
+</plist>

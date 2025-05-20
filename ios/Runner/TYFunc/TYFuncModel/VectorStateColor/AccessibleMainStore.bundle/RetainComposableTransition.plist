@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateoffset</key>
+	<string>shouldShowPriority</string>
+	<key>concreteDropdownButton</key>
+	<string>shaderconstraint</string>
+	<key>oldColumn</key>
+	<string>trainplayback</string>
+	<key>popdependency</key>
+	<string>disposeCatalyst</string>
+	<key>transformtitle</key>
+	<string>persistentOptimizer</string>
+	<key>usecaseValidation</key>
+	<string>parallelVertex</string>
+</dict>
+</plist>

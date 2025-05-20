@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSpeed</key>
+	<string>injectEvent</string>
+	<key>characteristicVisibility</key>
+	<string>canTransitionBrush</string>
+	<key>consultativestep</key>
+	<string>composableResponder</string>
+	<key>equivalentPressure</key>
+	<string>poolReducer</string>
+	<key>imperativeawait</key>
+	<string>symbolbutton</string>
+	<key>impressionForce</key>
+	<string>parsePlayback</string>
+	<key>mutableProcessor</key>
+	<string>shouldCreateEffect</string>
+	<key>shouldCancelConstraint</key>
+	<string>dividecanvas</string>
+	<key>slashcolor</key>
+	<string>quantizerResponse</string>
+	<key>statelesshue</key>
+	<string>thresholdBound</string>
+</dict>
+</plist>

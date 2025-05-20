@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredInteraction</key>
+	<string>canShowMediaQuery</string>
+	<key>localColor</key>
+	<string>publisherInset</string>
+	<key>playbackDuration</key>
+	<string>elasticBandwidth</string>
+	<key>priorStamp</key>
+	<string>handleSlash</string>
+	<key>shouldInflateUsage</key>
+	<string>canRouteSegue</string>
+	<key>sinedispatcher</key>
+	<string>enabledanalyzer</string>
+	<key>trianglesAppearance</key>
+	<string>completerLocation</string>
+	<key>usecaseBrightness</key>
+	<string>euclideanResult</string>
+</dict>
+</plist>

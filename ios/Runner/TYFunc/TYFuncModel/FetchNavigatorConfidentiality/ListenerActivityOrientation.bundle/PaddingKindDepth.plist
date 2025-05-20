@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCubit</key>
+	<string>arithmeticSize</string>
+	<key>behaviorradius</key>
+	<string>currentDuration</string>
+	<key>canvasBrightness</key>
+	<string>semanticSkirt</string>
+	<key>fixedHistogram</key>
+	<string>aggregateGroup</string>
+	<key>menutag</key>
+	<string>observeMovement</string>
+	<key>radiusdescription</key>
+	<string>emitBox</string>
+	<key>rapidTicker</key>
+	<string>displayableGraph</string>
+	<key>shouldNotifyPet</key>
+	<string>mediacontaintemple</string>
+	<key>staticConstraint</key>
+	<string>shouldPublishHistogram</string>
+</dict>
+</plist>

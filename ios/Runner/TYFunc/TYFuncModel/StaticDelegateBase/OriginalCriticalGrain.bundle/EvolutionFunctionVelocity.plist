@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMaterial</key>
+	<string>substantialTexture</string>
+	<key>cupertinoProject</key>
+	<string>mainSubpixel</string>
+	<key>customZone</key>
+	<string>requiredDelivery</string>
+	<key>diffableNode</key>
+	<string>inheritedscenevalidation</string>
+	<key>membercenter</key>
+	<string>immediateAction</string>
+</dict>
+</plist>

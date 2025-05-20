@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzehero</key>
+	<string>desktopMap</string>
+	<key>combinerOrientation</key>
+	<string>intensitymargin</string>
+	<key>firstOperation</key>
+	<string>globalSlider</string>
+	<key>nativeanimationcenter</key>
+	<string>draggableDecoration</string>
+	<key>permanentprioritytype</key>
+	<string>mobileSpeed</string>
+	<key>shouldPersistSensor</key>
+	<string>repositoryProcess</string>
+	<key>sizeRight</key>
+	<string>stopAppBar</string>
+</dict>
+</plist>

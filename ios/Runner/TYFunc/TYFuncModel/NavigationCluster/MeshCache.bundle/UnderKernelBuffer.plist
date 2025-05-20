@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicColumn</key>
+	<string>normBridge</string>
+	<key>decodeindicator</key>
+	<string>notificationDepth</string>
+	<key>responsiveThreshold</key>
+	<string>accessibleTool</string>
+	<key>selectedIcon</key>
+	<string>loadMusic</string>
+	<key>shouldConnectAspectRatio</key>
+	<string>usecaseFramework</string>
+	<key>shouldNavigateSemantics</key>
+	<string>moveMenu</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularsemanticsleft</key>
+	<string>shouldDisposeHeap</string>
+	<key>hasBloc</key>
+	<string>bulletTag</string>
+	<key>originalMedia</key>
+	<string>canResumeEquipment</string>
+	<key>shouldResumeFuture</key>
+	<string>backwardequipmentfeedback</string>
+	<key>taskdelay</key>
+	<string>shoulddeserializeloss</string>
+</dict>
+</plist>

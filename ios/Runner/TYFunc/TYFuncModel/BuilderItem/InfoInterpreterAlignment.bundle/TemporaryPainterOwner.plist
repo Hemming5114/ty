@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleconstant</key>
+	<string>advancedScroller</string>
+	<key>dynamicMedia</key>
+	<string>isEquipment</string>
+	<key>globalheap</key>
+	<string>concurrentReduction</string>
+	<key>queuewithoutcycle</key>
+	<string>uniformDocument</string>
+	<key>shouldTrainVariant</key>
+	<string>expandedtag</string>
+	<key>stackresponder</key>
+	<string>featureEdge</string>
+</dict>
+</plist>

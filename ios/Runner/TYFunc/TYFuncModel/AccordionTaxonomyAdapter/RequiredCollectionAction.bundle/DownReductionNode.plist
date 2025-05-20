@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTable</key>
+	<string>visibleImpression</string>
+	<key>asynchronousReceiver</key>
+	<string>kernelrequest</string>
+	<key>coordinatorfactory</key>
+	<string>persistentzonefrequency</string>
+	<key>flexibleTrigger</key>
+	<string>currentexpanded</string>
+	<key>globalColumn</key>
+	<string>annotateGrid</string>
+	<key>materialElement</key>
+	<string>replicateStore</string>
+	<key>publishmodel</key>
+	<string>consultativePolyfill</string>
+	<key>shouldConnectBehavior</key>
+	<string>protocolMemento</string>
+</dict>
+</plist>

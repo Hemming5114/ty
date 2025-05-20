@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsinterface</key>
+	<string>beginnerSingleton</string>
+	<key>intuitiveWrapper</key>
+	<string>shoulddetachbullet</string>
+	<key>observeresource</key>
+	<string>composableSwitch</string>
+	<key>relationalgifttail</key>
+	<string>canValidateBorder</string>
+	<key>reliabilitystyle</key>
+	<string>sophisticatedCache</string>
+	<key>shouldFinishHero</key>
+	<string>yieldGrayscale</string>
+	<key>sophisticatedSearcher</key>
+	<string>titleDuration</string>
+	<key>sortedUseCase</key>
+	<string>notificationParam</string>
+	<key>unsortedgate</key>
+	<string>customCupertino</string>
+</dict>
+</plist>

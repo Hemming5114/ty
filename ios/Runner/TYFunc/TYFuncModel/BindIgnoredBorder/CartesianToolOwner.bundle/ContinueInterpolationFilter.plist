@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledbuttonflags</key>
+	<string>beginnerDescription</string>
+	<key>endlistener</key>
+	<string>finishText</string>
+	<key>gestureparticle</key>
+	<string>referenceFlyweight</string>
+	<key>shouldFormatAlert</key>
+	<string>shouldProcessBullet</string>
+	<key>similarConstant</key>
+	<string>shaderBottom</string>
+	<key>subsequentDuration</key>
+	<string>mountmediaquery</string>
+	<key>topicorigin</key>
+	<string>adaptiveVector</string>
+	<key>widgetlatency</key>
+	<string>canPauseSubpixel</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableheapinteraction</key>
+	<string>introspectview</string>
+	<key>emitnode</key>
+	<string>backwardMediaQuery</string>
+	<key>integrationTension</key>
+	<string>handleScroll</string>
+	<key>navigatorcontrast</key>
+	<string>priorInformation</string>
+	<key>robustAnimatedContainer</key>
+	<string>onaperturechanged</string>
+	<key>stackSpeed</key>
+	<string>attachLogarithm</string>
+	<key>yieldsize</key>
+	<string>retainedInstruction</string>
+</dict>
+</plist>

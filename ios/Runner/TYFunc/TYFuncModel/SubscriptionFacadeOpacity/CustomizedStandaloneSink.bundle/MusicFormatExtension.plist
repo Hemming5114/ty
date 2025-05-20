@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleDialogs</key>
+	<string>publicBullet</string>
+	<key>notifycycle</key>
+	<string>boxstate</string>
+	<key>oldLayer</key>
+	<string>transformerMemento</string>
+	<key>seamlessVolume</key>
+	<string>fragmentbound</string>
+	<key>shouldencodehero</key>
+	<string>shouldRouteFragment</string>
+</dict>
+</plist>

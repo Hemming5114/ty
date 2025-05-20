@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectDensity</key>
+	<string>pinchableChallenge</string>
+	<key>directinterface</key>
+	<string>typicalRadius</string>
+	<key>encodelabel</key>
+	<string>loaderFrequency</string>
+	<key>graphcolor</key>
+	<string>inheritedProgressBar</string>
+	<key>navigatorForce</key>
+	<string>locateNode</string>
+	<key>secondPositioned</key>
+	<string>significantProvision</string>
+	<key>shouldPrepareTransition</key>
+	<string>injectionCenter</string>
+	<key>trianglesContrast</key>
+	<string>shouldValidateContraction</string>
+	<key>variantorigin</key>
+	<string>videoDirection</string>
+</dict>
+</plist>

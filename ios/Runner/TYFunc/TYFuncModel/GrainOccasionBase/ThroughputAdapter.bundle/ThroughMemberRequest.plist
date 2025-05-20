@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblerectangle</key>
+	<string>observeSubscription</string>
+	<key>boxHead</key>
+	<string>exceptionVisitor</string>
+	<key>hascustompaint</key>
+	<string>requestBrightness</string>
+	<key>largeefficiency</key>
+	<string>localreductionbrightness</string>
+	<key>offsetDuration</key>
+	<string>shouldRebuildBullet</string>
+	<key>shouldMountedConvolution</key>
+	<string>viewkindposition</string>
+</dict>
+</plist>

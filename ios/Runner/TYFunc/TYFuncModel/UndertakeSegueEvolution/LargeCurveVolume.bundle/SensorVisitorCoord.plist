@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedImage</key>
+	<string>shouldEncodeIndicator</string>
+	<key>interpolationprototypecenter</key>
+	<string>storageActivity</string>
+	<key>remediationName</key>
+	<string>shouldReplaceEqualization</string>
+	<key>routerBehavior</key>
+	<string>multiChart</string>
+	<key>singletonVelocity</key>
+	<string>canPushBorder</string>
+	<key>texturevariableinset</key>
+	<string>tickerDepth</string>
+</dict>
+</plist>

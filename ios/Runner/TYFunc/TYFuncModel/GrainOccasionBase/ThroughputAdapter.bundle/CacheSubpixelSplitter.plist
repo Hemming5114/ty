@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEquipment</key>
+	<string>criticalInterface</string>
+	<key>currentnavigation</key>
+	<string>cacheutil</string>
+	<key>geometricmember</key>
+	<string>tabbarSpacing</string>
+	<key>localAccessory</key>
+	<string>compositionalResilience</string>
+	<key>matrixinteractor</key>
+	<string>usedAnalyzer</string>
+	<key>symmetricChooser</key>
+	<string>canKeepNavigation</string>
+</dict>
+</plist>

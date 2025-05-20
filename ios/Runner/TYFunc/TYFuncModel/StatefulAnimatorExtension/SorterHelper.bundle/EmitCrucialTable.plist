@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphamargin</key>
+	<string>dismisscontainer</string>
+	<key>buttonDelay</key>
+	<string>accessibleConvolution</string>
+	<key>cubittail</key>
+	<string>shouldDispatchPositioned</string>
+	<key>pagerPressure</key>
+	<string>shouldstopcube</string>
+	<key>shouldDetachNib</key>
+	<string>compareListener</string>
+	<key>transitiontypevisible</key>
+	<string>deferredChapter</string>
+	<key>uniqueConstant</key>
+	<string>modulusdirection</string>
+</dict>
+</plist>

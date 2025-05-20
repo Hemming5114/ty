@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableModel</key>
+	<string>canUnbindIndicator</string>
+	<key>implementstream</key>
+	<string>rapidStateless</string>
+	<key>liteDetector</key>
+	<string>queueWork</string>
+	<key>matrixname</key>
+	<string>canEmitPrecision</string>
+	<key>shouldHandleBinary</key>
+	<string>shouldStreamPadding</string>
+	<key>shouldValidatePlayback</key>
+	<string>skinAcceleration</string>
+</dict>
+</plist>

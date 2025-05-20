@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMovement</key>
+	<string>navigatorVariable</string>
+	<key>deferredStorage</key>
+	<string>priorImage</string>
+	<key>profileResponse</key>
+	<string>globalBullet</string>
+	<key>rapidpreview</key>
+	<string>materialFilter</string>
+	<key>responsebeyondoperation</key>
+	<string>canDisposeClipper</string>
+</dict>
+</plist>

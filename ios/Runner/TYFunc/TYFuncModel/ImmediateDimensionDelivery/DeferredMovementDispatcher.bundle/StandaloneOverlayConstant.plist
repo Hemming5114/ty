@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationvisible</key>
+	<string>interactiveModel</string>
+	<key>effecttopic</key>
+	<string>spinOffset</string>
+	<key>giftFrequency</key>
+	<string>mutableItem</string>
+	<key>grainVisible</key>
+	<string>canUnmountProvider</string>
+	<key>layershade</key>
+	<string>disabledSelector</string>
+	<key>normaroundobserver</key>
+	<string>canBindMonster</string>
+	<key>robustBandwidth</key>
+	<string>keyFilter</string>
+	<key>shouldRestartOverlay</key>
+	<string>crucialMember</string>
+	<key>usagefrequency</key>
+	<string>shouldMountEqualization</string>
+</dict>
+</plist>

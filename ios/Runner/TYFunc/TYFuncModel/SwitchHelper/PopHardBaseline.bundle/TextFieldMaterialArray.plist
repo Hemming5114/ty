@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTouch</key>
+	<string>canRouteCell</string>
+	<key>directlySplitter</key>
+	<string>cupertinoSystem</string>
+	<key>initializecolumn</key>
+	<string>deserializetabbar</string>
+	<key>normalContraction</key>
+	<string>viewofdecorator</string>
+	<key>observeanimation</key>
+	<string>customizedRecursion</string>
+	<key>reusableAperture</key>
+	<string>createsample</string>
+	<key>shouldDisposePlayback</key>
+	<string>semanticProjection</string>
+	<key>sortedgraph</key>
+	<string>originalColumn</string>
+	<key>usedGraph</key>
+	<string>memberlocation</string>
+</dict>
+</plist>

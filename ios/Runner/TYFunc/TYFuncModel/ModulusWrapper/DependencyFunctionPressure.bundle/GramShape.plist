@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterduration</key>
+	<string>metricsFormat</string>
+	<key>characterbesideshape</key>
+	<string>cardSkewX</string>
+	<key>handlesprite</key>
+	<string>draggableCustomPaint</string>
+	<key>liteOperation</key>
+	<string>mainSegment</string>
+	<key>priorElasticity</key>
+	<string>draggableDescriptor</string>
+</dict>
+</plist>

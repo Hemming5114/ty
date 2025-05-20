@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCell</key>
+	<string>canDetachDelegate</string>
+	<key>connectorOffset</key>
+	<string>skipRadio</string>
+	<key>declarativeMatrix</key>
+	<string>overrideFuture</string>
+	<key>draggableArithmetic</key>
+	<string>semanticEqualization</string>
+	<key>processrow</key>
+	<string>timelineName</string>
+	<key>shouldTransitionComposition</key>
+	<string>multiplicationadapterstate</string>
+	<key>staticDetail</key>
+	<string>keepFragment</string>
+	<key>usedTolerance</key>
+	<string>uniformLinker</string>
+</dict>
+</plist>

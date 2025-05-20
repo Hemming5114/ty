@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncrecursion</key>
+	<string>integerTask</string>
+	<key>cursorDepth</key>
+	<string>accessiblePromise</string>
+	<key>deferredListener</key>
+	<string>skipReduction</string>
+	<key>listenerInset</key>
+	<string>offsetRadius</string>
+	<key>notificationCenter</key>
+	<string>registerReducer</string>
+	<key>permanentintegrity</key>
+	<string>promiseFlags</string>
+	<key>replicasaturation</key>
+	<string>sortedModel</string>
+	<key>taskcontrast</key>
+	<string>functionalZone</string>
+	<key>webSprite</key>
+	<string>radioMemento</string>
+</dict>
+</plist>

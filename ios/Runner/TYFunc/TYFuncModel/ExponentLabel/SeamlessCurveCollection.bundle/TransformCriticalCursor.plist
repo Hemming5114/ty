@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicflags</key>
+	<string>tappableBuffer</string>
+	<key>checkboxinset</key>
+	<string>publisherOffset</string>
+	<key>denseDimension</key>
+	<string>certificatespacing</string>
+	<key>disparateRouter</key>
+	<string>normalFuture</string>
+	<key>listviewviacycle</key>
+	<string>requiredBandwidth</string>
+	<key>otherIntegration</key>
+	<string>globalPriority</string>
+	<key>statecycletype</key>
+	<string>methodDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionHue</key>
+	<string>intuitiveTitle</string>
+	<key>cubitmerger</key>
+	<string>fetchcoordinator</string>
+	<key>diffableStore</key>
+	<string>originalConstraint</string>
+	<key>otherSubpixel</key>
+	<string>shouldListenComposition</string>
+	<key>responsenumberinteraction</key>
+	<string>matrixSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoObject</key>
+	<string>prepareSegue</string>
+	<key>denseClipper</key>
+	<string>associatedHistogram</string>
+	<key>displaytheme</key>
+	<string>uniformHash</string>
+	<key>iterativePositioned</key>
+	<string>cardAdapter</string>
+	<key>musicStyle</key>
+	<string>customizedModule</string>
+	<key>singlePositioned</key>
+	<string>replicateAsset</string>
+</dict>
+</plist>

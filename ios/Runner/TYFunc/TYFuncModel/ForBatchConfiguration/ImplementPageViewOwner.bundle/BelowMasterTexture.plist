@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAlignment</key>
+	<string>liteMesh</string>
+	<key>gemversustask</key>
+	<string>fetchTabBar</string>
+	<key>modalpadding</key>
+	<string>autoQuaternion</string>
+	<key>normalExtension</key>
+	<string>constantPosition</string>
+	<key>retainedEvaluation</key>
+	<string>prevBullet</string>
+	<key>routeposition</key>
+	<string>writeSink</string>
+	<key>serviceScale</key>
+	<string>controllerdepth</string>
+	<key>statelesstexturevalidation</key>
+	<string>histogramRotation</string>
+</dict>
+</plist>

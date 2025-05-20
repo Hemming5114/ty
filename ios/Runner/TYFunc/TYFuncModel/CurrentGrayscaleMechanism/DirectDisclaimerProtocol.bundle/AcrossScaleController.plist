@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directPermutation</key>
+	<string>skipChallenge</string>
+	<key>diversifiedallocatortype</key>
+	<string>precisionDecorator</string>
+	<key>immediateAnchor</key>
+	<string>denseCanvas</string>
+	<key>immutableloader</key>
+	<string>compositionalreducerforce</string>
+	<key>rapidAppBar</key>
+	<string>renameBuilder</string>
+	<key>remainderBorder</key>
+	<string>newestProjection</string>
+	<key>symmetricBuffer</key>
+	<string>unsortedbullet</string>
+</dict>
+</plist>

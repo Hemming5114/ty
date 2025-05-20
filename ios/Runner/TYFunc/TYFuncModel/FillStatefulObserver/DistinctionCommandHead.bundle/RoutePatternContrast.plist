@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorrange</key>
+	<string>resetReducer</string>
+	<key>custompaintjobhead</key>
+	<string>behaviorStatus</string>
+	<key>ispainter</key>
+	<string>elasticNavigation</string>
+	<key>parallelgrid</key>
+	<string>stepPressure</string>
+	<key>remainderresponse</key>
+	<string>opaquecallbackskewy</string>
+	<key>responseSpacing</key>
+	<string>attachEvent</string>
+	<key>shouldCancelResource</key>
+	<string>semanticGrid</string>
+	<key>shouldDecodeText</key>
+	<string>cupertinoTernary</string>
+	<key>specifycontroller</key>
+	<string>shouldHandleCheckbox</string>
+	<key>tabviewDensity</key>
+	<string>parseBrush</string>
+</dict>
+</plist>

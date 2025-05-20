@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInteger</key>
+	<string>activestatefulcoord</string>
+	<key>customRect</key>
+	<string>canTransformContainer</string>
+	<key>functionalCurve</key>
+	<string>canTransformDialogs</string>
+	<key>hyperbolicInteraction</key>
+	<string>actioncombiner</string>
+	<key>rapidTouch</key>
+	<string>histogramFormat</string>
+	<key>scrollableNavigation</key>
+	<string>shouldRebuildLoss</string>
+	<key>signatureSize</key>
+	<string>collectionStyle</string>
+	<key>sizeoffset</key>
+	<string>performtimer</string>
+</dict>
+</plist>

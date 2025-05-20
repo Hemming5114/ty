@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeInteractor</key>
+	<string>shouldPublishTable</string>
+	<key>dropdownbuttonInteraction</key>
+	<string>pushSine</string>
+	<key>hierarchicalBehavior</key>
+	<string>canStartCaption</string>
+	<key>listenstoryboard</key>
+	<string>diversifiedMaster</string>
+	<key>mobileKind</key>
+	<string>completionVariable</string>
+	<key>normalAsset</key>
+	<string>constraintFacade</string>
+	<key>shouldEndScroll</key>
+	<string>transformerResponse</string>
+	<key>shouldObserveWidget</key>
+	<string>fusedSymbol</string>
+</dict>
+</plist>

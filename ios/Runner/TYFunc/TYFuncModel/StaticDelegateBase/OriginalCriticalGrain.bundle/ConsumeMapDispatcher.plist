@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integerCoord</key>
+	<string>shouldNotifyStep</string>
+	<key>loadresponse</key>
+	<string>defaultIndicator</string>
+	<key>previewTag</key>
+	<string>canTrainSkin</string>
+	<key>screenspacing</key>
+	<string>storyboardTheme</string>
+	<key>shouldValidateRadio</key>
+	<string>unactivatedDimension</string>
+	<key>staticDescent</key>
+	<string>callbackconverter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSchema</key>
+	<string>replicaVisible</string>
+	<key>flexibleOperation</key>
+	<string>publicbuttonskewx</string>
+	<key>protectedManager</key>
+	<string>gramPosition</string>
+	<key>statelessMap</key>
+	<string>shouldFinishIndicator</string>
+	<key>stopresource</key>
+	<string>validateBase</string>
+	<key>swiftcontrast</key>
+	<string>serializeCapsule</string>
+	<key>synchronousPresenter</key>
+	<string>visibleCurve</string>
+</dict>
+</plist>

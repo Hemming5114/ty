@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileObserver</key>
+	<string>shouldPauseOption</string>
+	<key>arithmeticCompletion</key>
+	<string>continueScaffold</string>
+	<key>captionHue</key>
+	<string>difficultText</string>
+	<key>directGem</key>
+	<string>iterativeHandler</string>
+	<key>dispatcherdelay</key>
+	<string>accordionPresenter</string>
+	<key>scaffoldvelocity</key>
+	<string>enabledDropdownButton</string>
+	<key>shouldBindCupertino</key>
+	<string>metadatastyleleft</string>
+	<key>sliderflyweightoffset</key>
+	<string>resolverKind</string>
+</dict>
+</plist>

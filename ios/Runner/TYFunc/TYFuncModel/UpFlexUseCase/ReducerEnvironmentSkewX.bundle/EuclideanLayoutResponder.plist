@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationaroundsystem</key>
+	<string>canPushMatrix</string>
+	<key>equipmentOpacity</key>
+	<string>rowscale</string>
+	<key>radiusState</key>
+	<string>canStartBoxShadow</string>
+	<key>rapidSchema</key>
+	<string>gridTransparency</string>
+	<key>sharedContrast</key>
+	<string>typicalGrayscale</string>
+	<key>storagebehavior</key>
+	<string>composableSensor</string>
+	<key>typicalconnector</key>
+	<string>dimensionOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCallback</key>
+	<string>preparecube</string>
+	<key>materialConsumption</key>
+	<string>shouldTrainMedia</string>
+	<key>nativeUnary</key>
+	<string>masterType</string>
+	<key>providersincestage</key>
+	<string>otherStateful</string>
+	<key>publicDescription</key>
+	<string>lostPainter</string>
+	<key>seguebound</key>
+	<string>cosinearoundmediator</string>
+	<key>serviceOrientation</key>
+	<string>routeuntilaction</string>
+</dict>
+</plist>

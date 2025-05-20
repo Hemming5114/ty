@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardFlags</key>
+	<string>reactiveAllocator</string>
+	<key>converterRight</key>
+	<string>subsequentProvision</string>
+	<key>custompaintDensity</key>
+	<string>disabledTask</string>
+	<key>greatHistogram</key>
+	<string>usageInset</string>
+	<key>interactiveImpression</key>
+	<string>cancelMission</string>
+	<key>pageviewtail</key>
+	<string>canPersistDrawer</string>
+	<key>protectednode</key>
+	<string>checkboxMode</string>
+	<key>stopscene</key>
+	<string>canNavigateRemainder</string>
+</dict>
+</plist>

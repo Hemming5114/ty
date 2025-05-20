@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileModal</key>
+	<string>sceneshade</string>
+	<key>draggableRole</key>
+	<string>shouldDecodeCapacities</string>
+	<key>keeplocalization</key>
+	<string>canPublishSemantics</string>
+	<key>scrollableAnalogy</key>
+	<string>pickerPosition</string>
+	<key>tappableFilter</key>
+	<string>accordionAsset</string>
+	<key>timercount</key>
+	<string>subtleButton</string>
+	<key>touchAcceleration</key>
+	<string>formatMomentum</string>
+</dict>
+</plist>

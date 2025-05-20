@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerlosskind</key>
+	<string>showNode</string>
+	<key>drawerbuilder</key>
+	<string>disabledZone</string>
+	<key>lostBullet</key>
+	<string>canUnbindGridView</string>
+	<key>shouldBuildProvider</key>
+	<string>mainCard</string>
+	<key>shouldCancelCaption</key>
+	<string>shouldSaveAlpha</string>
+	<key>shouldHandlePageView</key>
+	<string>canDetachMaterial</string>
+	<key>shouldReplaceBoxShadow</key>
+	<string>comprehensiveRepository</string>
+	<key>staticThroughput</key>
+	<string>certificatecoord</string>
+	<key>symmetricScalability</key>
+	<string>wrapGroup</string>
+</dict>
+</plist>

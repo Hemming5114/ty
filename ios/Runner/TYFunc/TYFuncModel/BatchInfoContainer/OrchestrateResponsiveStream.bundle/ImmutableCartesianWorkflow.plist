@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudechannelspadding</key>
+	<string>globalPlayback</string>
+	<key>customizedFragments</key>
+	<string>animateTechnique</string>
+	<key>overlayelasticity</key>
+	<string>canUnbindWidget</string>
+	<key>parallelInfo</key>
+	<string>globalTool</string>
+	<key>selectedinterpolation</key>
+	<string>buildMediaQuery</string>
+	<key>shouldPublishMaterial</key>
+	<string>tickerAppearance</string>
+	<key>standaloneAsset</key>
+	<string>mapAdapter</string>
+	<key>stateForce</key>
+	<string>cleanMethod</string>
+	<key>statuslocation</key>
+	<string>canSaveBatch</string>
+</dict>
+</plist>

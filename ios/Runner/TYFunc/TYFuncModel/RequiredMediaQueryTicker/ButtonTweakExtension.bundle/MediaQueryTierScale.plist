@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationborder</key>
+	<string>tableSpacing</string>
+	<key>bufferbesidephase</key>
+	<string>typicalReference</string>
+	<key>buildcard</key>
+	<string>canReplaceCupertino</string>
+	<key>explicitTheme</key>
+	<string>canBindThread</string>
+	<key>materializerScale</key>
+	<string>directlyContainer</string>
+</dict>
+</plist>

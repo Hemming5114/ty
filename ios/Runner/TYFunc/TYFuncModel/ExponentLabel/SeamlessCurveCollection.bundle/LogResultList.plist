@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardcenter</key>
+	<string>icongrid</string>
+	<key>collectionadapterdirection</key>
+	<string>subsequentImpact</string>
+	<key>mobileTraversal</key>
+	<string>visualizeObserver</string>
+	<key>scaleShade</key>
+	<string>consumeZone</string>
+	<key>searcherVisible</key>
+	<string>flexShape</string>
+	<key>smallPicker</key>
+	<string>hastechnique</string>
+</dict>
+</plist>

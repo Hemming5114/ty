@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineuntilstate</key>
+	<string>hashAppearance</string>
+	<key>denseTheme</key>
+	<string>shouldBindBox</string>
+	<key>dialogsscope</key>
+	<string>shouldHandleEquipment</string>
+	<key>ignoredLayout</key>
+	<string>finderResponse</string>
+	<key>localexponent</key>
+	<string>buildSine</string>
+	<key>parallelDescriptor</key>
+	<string>shouldencodecustompaint</string>
+	<key>shouldPauseSkin</key>
+	<string>stateProxy</string>
+	<key>shouldRestartCosine</key>
+	<string>canPersistCertificate</string>
+	<key>shouldTransitionListView</key>
+	<string>skipMedia</string>
+</dict>
+</plist>

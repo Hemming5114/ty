@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCombiner</key>
+	<string>canDisposeAnimation</string>
+	<key>associatedMargin</key>
+	<string>shouldStopBrush</string>
+	<key>asynchronousPosition</key>
+	<string>opaqueHero</string>
+	<key>basiccallbackstyle</key>
+	<string>rectanglelocation</string>
+	<key>hasheap</key>
+	<string>staticUseCase</string>
+	<key>layoutBottom</key>
+	<string>hardScope</string>
+	<key>otherTexture</key>
+	<string>assetlayersize</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileParticle</key>
+	<string>resolvervolume</string>
+	<key>autoChannels</key>
+	<string>canTransformPlate</string>
+	<key>boxInterval</key>
+	<string>paintBuilder</string>
+	<key>indicatorbuilder</key>
+	<string>navigatorappearance</string>
+	<key>shouldNotifyDescriptor</key>
+	<string>stepShade</string>
+	<key>shouldunmountstoryboard</key>
+	<string>emithistogram</string>
+	<key>spotoperation</key>
+	<string>unsortedPresenter</string>
+</dict>
+</plist>

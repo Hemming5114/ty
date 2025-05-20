@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderBottom</key>
+	<string>shouldRouteNorm</string>
+	<key>hashDepth</key>
+	<string>titleDistance</string>
+	<key>lifecycleFeedback</key>
+	<string>renderSlash</string>
+	<key>nextGridView</key>
+	<string>largestore</string>
+	<key>optimizereference</key>
+	<string>shouldReplaceCupertino</string>
+	<key>shouldEndReference</key>
+	<string>diffableInformation</string>
+	<key>shouldpushfuture</key>
+	<string>reducercount</string>
+	<key>taskoperationmargin</key>
+	<string>wrapStorage</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedlatency</key>
+	<string>mediaMargin</string>
+	<key>basedependency</key>
+	<string>aspectratioBorder</string>
+	<key>declarativeCurve</key>
+	<string>granularTangent</string>
+	<key>firstConnector</key>
+	<string>directDetail</string>
+	<key>relationalPlate</key>
+	<string>modalStatus</string>
+	<key>shouldBindTernary</key>
+	<string>onmarginchanged</string>
+	<key>shouldBuildSpecifier</key>
+	<string>timerAcceleration</string>
+	<key>shouldCancelAppBar</key>
+	<string>unsorteddrawer</string>
+	<key>shouldRebuildText</key>
+	<string>validateAnimatedContainer</string>
+	<key>singleSwitch</key>
+	<string>serializeContainer</string>
+</dict>
+</plist>

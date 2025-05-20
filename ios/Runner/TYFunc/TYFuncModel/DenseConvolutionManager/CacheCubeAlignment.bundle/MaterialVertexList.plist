@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablefactory</key>
+	<string>unactivatedKernel</string>
+	<key>divideextension</key>
+	<string>dispatchCheckbox</string>
+	<key>hyperbolicPosition</key>
+	<string>promiseDecorator</string>
+	<key>labelspeed</key>
+	<string>disconnectLocalization</string>
+	<key>radiusplatformscale</key>
+	<string>receiverScale</string>
+	<key>referenceMomentum</key>
+	<string>dynamicTween</string>
+	<key>shouldContinuePageView</key>
+	<string>inflateAxis</string>
+	<key>shouldSaveProvider</key>
+	<string>restartPlate</string>
+	<key>sustainableSine</key>
+	<string>dismissCard</string>
+</dict>
+</plist>

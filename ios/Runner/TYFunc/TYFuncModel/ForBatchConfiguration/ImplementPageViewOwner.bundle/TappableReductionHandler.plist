@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDistinction</key>
+	<string>explicitHash</string>
+	<key>canvasfunctionlocation</key>
+	<string>usedmodalcolor</string>
+	<key>cardContrast</key>
+	<string>queueName</string>
+	<key>enumeratesubpixel</key>
+	<string>constructLocalization</string>
+	<key>iconcoord</key>
+	<string>unmarshalDecoration</string>
+	<key>semanticposition</key>
+	<string>animateStoryboard</string>
+	<key>shouldstreamconvolution</key>
+	<string>arithmeticbeyondvariable</string>
+	<key>sophisticatedslash</key>
+	<string>geometricHandler</string>
+	<key>statevelocity</key>
+	<string>inheritedController</string>
+	<key>uniformTriangles</key>
+	<string>initializeWidget</string>
+</dict>
+</plist>

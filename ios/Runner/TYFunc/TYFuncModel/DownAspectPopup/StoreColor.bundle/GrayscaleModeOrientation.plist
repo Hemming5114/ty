@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserDelay</key>
+	<string>canBuildView</string>
+	<key>hierarchicalDisclaimer</key>
+	<string>cancelSegue</string>
+	<key>othermodulus</key>
+	<string>techniquevelocity</string>
+	<key>persistentvectorformat</key>
+	<string>subpixelFeedback</string>
+	<key>sharedTouch</key>
+	<string>floatTask</string>
+	<key>sizedboxfunctionfeedback</key>
+	<string>selectorName</string>
+	<key>switchprovider</key>
+	<string>canConnectStoryboard</string>
+</dict>
+</plist>

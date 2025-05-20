@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCubit</key>
+	<string>streamindex</string>
+	<key>easyStrength</key>
+	<string>difficultBullet</string>
+	<key>errornearcycle</key>
+	<string>provideChannel</string>
+	<key>independentMultiplication</key>
+	<string>canShowTask</string>
+	<key>pickerDistance</key>
+	<string>monsterTransparency</string>
+	<key>presenterRight</key>
+	<string>connectinjection</string>
+	<key>sequentialScroll</key>
+	<string>missedtabviewappearance</string>
+	<key>unsortedtimer</key>
+	<string>concurrentFactory</string>
+</dict>
+</plist>

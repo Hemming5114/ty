@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticcontainer</key>
+	<string>integerVariable</string>
+	<key>inactiveRectangle</key>
+	<string>sliderhue</string>
+	<key>layoutcube</key>
+	<string>themeDistance</string>
+	<key>opaqueSign</key>
+	<string>unmountedplate</string>
+	<key>statefulLocalization</key>
+	<string>sensorAppearance</string>
+	<key>statelessImage</key>
+	<string>shouldkeepscreen</string>
+	<key>webTolerance</key>
+	<string>inheritedhero</string>
+</dict>
+</plist>

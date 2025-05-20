@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAcceleration</key>
+	<string>shouldProcessSine</string>
+	<key>coordinatorcount</key>
+	<string>infoIndex</string>
+	<key>deferredElement</key>
+	<string>scrollablePrecision</string>
+	<key>discoverimage</key>
+	<string>impactSkewY</string>
+	<key>globalSubpixel</key>
+	<string>resumeRole</string>
+	<key>shouldListenPriority</key>
+	<string>normalBuffer</string>
+	<key>textmediatorcoord</key>
+	<string>findAlignment</string>
+</dict>
+</plist>

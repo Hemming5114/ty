@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSession</key>
+	<string>parseradius</string>
+	<key>asyncVisibility</key>
+	<string>adjustIsolate</string>
+	<key>continueborder</key>
+	<string>reducertail</string>
+	<key>localrequest</key>
+	<string>onprofilechanged</string>
+	<key>normalSign</key>
+	<string>fixedTweak</string>
+	<key>preparetimer</key>
+	<string>slashInterpreter</string>
+	<key>relationalCapacity</key>
+	<string>granularGroup</string>
+	<key>requiredResource</key>
+	<string>accordionScene</string>
+	<key>routerrecursion</key>
+	<string>rectangleShape</string>
+	<key>standaloneGraph</key>
+	<string>optimizerkindpadding</string>
+</dict>
+</plist>

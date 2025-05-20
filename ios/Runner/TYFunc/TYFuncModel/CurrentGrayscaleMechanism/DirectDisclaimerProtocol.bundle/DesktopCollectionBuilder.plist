@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinochannel</key>
+	<string>analyzerBehavior</string>
+	<key>explicitmesh</key>
+	<string>partitionRadius</string>
+	<key>keyCube</key>
+	<string>minGem</string>
+	<key>mediocreinterfacecount</key>
+	<string>canShowMonster</string>
+	<key>modeldistance</key>
+	<string>baselineHue</string>
+	<key>normalEntropy</key>
+	<string>analyzeResource</string>
+	<key>relationalInteger</key>
+	<string>maxPlayback</string>
+	<key>scrollbehavior</key>
+	<string>deflateDuration</string>
+	<key>tensorUtil</key>
+	<string>draggableTicker</string>
+</dict>
+</plist>

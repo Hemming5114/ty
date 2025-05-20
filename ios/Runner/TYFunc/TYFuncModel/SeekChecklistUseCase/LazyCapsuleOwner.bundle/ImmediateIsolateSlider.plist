@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordiondelivery</key>
+	<string>richtextWork</string>
+	<key>customizedrouterinterval</key>
+	<string>shouldFetchSwitch</string>
+	<key>providerslider</key>
+	<string>resilienceBorder</string>
+	<key>tickeralignment</key>
+	<string>permissiveAspectRatio</string>
+	<key>viewOrientation</key>
+	<string>dedicatedMapper</string>
+</dict>
+</plist>

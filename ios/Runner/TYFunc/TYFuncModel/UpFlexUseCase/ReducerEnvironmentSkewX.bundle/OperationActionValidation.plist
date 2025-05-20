@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineAppearance</key>
+	<string>responsiveanchor</string>
+	<key>dismissframe</key>
+	<string>shouldProcessAlert</string>
+	<key>displayableRouter</key>
+	<string>rebuildCompletion</string>
+	<key>dynamicTopic</key>
+	<string>hyperbolicSensor</string>
+	<key>elasticAlert</key>
+	<string>scrollerMode</string>
+	<key>pickerEdge</key>
+	<string>accessoryvelocity</string>
+	<key>shouldParseNotification</key>
+	<string>shouldBindDimension</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCompleter</key>
+	<string>positionDirection</string>
+	<key>basicGrid</key>
+	<string>gradientradius</string>
+	<key>emitterdistance</key>
+	<string>onexpandedchanged</string>
+	<key>entitysincelevel</key>
+	<string>retrieveResource</string>
+	<key>globalData</key>
+	<string>concreteTimeline</string>
+	<key>lostMediaQuery</key>
+	<string>clipperOpacity</string>
+	<key>sequentialSemantics</key>
+	<string>unactivatedSwift</string>
+	<key>shouldUnbindGestureDetector</key>
+	<string>ephemeralcontrollervisible</string>
+	<key>shouldYieldOption</key>
+	<string>shouldDisposeScaffold</string>
+	<key>smartCurve</key>
+	<string>listviewAdapter</string>
+</dict>
+</plist>

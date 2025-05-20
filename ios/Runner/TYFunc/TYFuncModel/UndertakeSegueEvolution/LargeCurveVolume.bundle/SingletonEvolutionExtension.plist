@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configuremobile</key>
+	<string>shouldConnectBinary</string>
+	<key>fusedWorkflow</key>
+	<string>delegateButton</string>
+	<key>ignoredInteractor</key>
+	<string>providerstyle</string>
+	<key>retainedScheduler</key>
+	<string>subtlelifecycle</string>
+</dict>
+</plist>

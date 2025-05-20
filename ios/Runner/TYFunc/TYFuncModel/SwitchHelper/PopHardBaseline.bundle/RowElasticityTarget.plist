@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentstyle</key>
+	<string>topicequivalent</string>
+	<key>resilientMaterializer</key>
+	<string>disparateQueue</string>
+	<key>shouldDeserializeDocument</key>
+	<string>publishCharacter</string>
+	<key>shouldUnbindBorder</key>
+	<string>conformSize</string>
+</dict>
+</plist>

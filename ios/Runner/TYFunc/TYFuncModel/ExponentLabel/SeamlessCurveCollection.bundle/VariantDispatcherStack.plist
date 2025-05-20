@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTouch</key>
+	<string>splitterState</string>
+	<key>factoryascent</key>
+	<string>fragmentexceptfunction</string>
+	<key>fragmentSize</key>
+	<string>shouldRouteUsage</string>
+	<key>lastPosition</key>
+	<string>normCycle</string>
+</dict>
+</plist>

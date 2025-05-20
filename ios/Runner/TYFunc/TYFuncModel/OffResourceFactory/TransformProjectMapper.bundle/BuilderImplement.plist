@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvekind</key>
+	<string>textfieldJob</string>
+	<key>notationStyle</key>
+	<string>iterativeMargin</string>
+	<key>pinchablelocalization</key>
+	<string>buttonEdge</string>
+	<key>sophisticatedImpact</key>
+	<string>reconcileIntensity</string>
+	<key>stringifybox</key>
+	<string>canSerializePlate</string>
+	<key>visibleObject</key>
+	<string>scaleBehavior</string>
+</dict>
+</plist>

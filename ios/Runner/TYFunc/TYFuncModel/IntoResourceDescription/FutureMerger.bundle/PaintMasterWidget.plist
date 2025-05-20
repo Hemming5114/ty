@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetheme</key>
+	<string>agileFinder</string>
+	<key>concurrentController</key>
+	<string>canSetStateMobile</string>
+	<key>elasticoptimizer</key>
+	<string>denseInkWell</string>
+	<key>listviewBehavior</key>
+	<string>canUpdatePlate</string>
+	<key>pinchableNode</key>
+	<string>immutableTicker</string>
+	<key>shouldvalidatematrix</key>
+	<string>newestexpandedtype</string>
+</dict>
+</plist>

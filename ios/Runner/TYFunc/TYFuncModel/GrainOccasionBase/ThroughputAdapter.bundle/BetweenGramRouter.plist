@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIsolate</key>
+	<string>referenceMediator</string>
+	<key>agileEquipment</key>
+	<string>displayableRemainder</string>
+	<key>appbarDelay</key>
+	<string>projectAcceleration</string>
+	<key>crudeNotification</key>
+	<string>responseVelocity</string>
+	<key>shouldContinueRadio</key>
+	<string>navigatorparameterhue</string>
+	<key>shouldPresentUnary</key>
+	<string>storyboardProxy</string>
+	<key>shouldStopCursor</key>
+	<string>graphFrequency</string>
+	<key>specifyBitrate</key>
+	<string>lifecyclevalidation</string>
+	<key>statecenter</key>
+	<string>shouldPauseCursor</string>
+</dict>
+</plist>

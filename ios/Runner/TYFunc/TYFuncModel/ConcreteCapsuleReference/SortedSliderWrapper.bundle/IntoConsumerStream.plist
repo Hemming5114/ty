@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryMode</key>
+	<string>concretePadding</string>
+	<key>cubitFeedback</key>
+	<string>coordinatorshade</string>
+	<key>diversifiedlistviewleft</key>
+	<string>shouldFormatTernary</string>
+	<key>dropdownbuttoncolor</key>
+	<string>operationCycle</string>
+	<key>intermediateRadius</key>
+	<string>skinSize</string>
+	<key>retainedcosinedistance</key>
+	<string>robustdelegate</string>
+	<key>shouldConnectCaption</key>
+	<string>operationAlignment</string>
+	<key>shouldRebuildCupertino</key>
+	<string>shouldKeepScreen</string>
+	<key>staticInterpolation</key>
+	<string>unaryAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintperstrategy</key>
+	<string>denseQuaternion</string>
+	<key>discoverfuture</key>
+	<string>originalSearcher</string>
+	<key>intuitiveIcon</key>
+	<string>quantizationRect</string>
+	<key>pivotalContraction</key>
+	<string>advancednodeforce</string>
+	<key>previewLeft</key>
+	<string>allocateReducer</string>
+	<key>shouldDismissTheme</key>
+	<string>awaitoperation</string>
+	<key>shouldStreamRadio</key>
+	<string>pushState</string>
+	<key>unactivatedPlate</key>
+	<string>transitionbeyondinterpreter</string>
+</dict>
+</plist>

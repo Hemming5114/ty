@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDelivery</key>
+	<string>disconnectView</string>
+	<key>consumptionAppearance</key>
+	<string>anchorvolume</string>
+	<key>currentRequest</key>
+	<string>interactorevaluation</string>
+	<key>fusedTask</key>
+	<string>retainedslash</string>
+	<key>histogramSaturation</key>
+	<string>equalTask</string>
+	<key>litegem</key>
+	<string>activityScope</string>
+	<key>opaqueEntropy</key>
+	<string>imperativeStrength</string>
+	<key>shouldInflateCosine</key>
+	<string>pickerFrequency</string>
+	<key>specifySpine</key>
+	<string>enabledFactory</string>
+</dict>
+</plist>

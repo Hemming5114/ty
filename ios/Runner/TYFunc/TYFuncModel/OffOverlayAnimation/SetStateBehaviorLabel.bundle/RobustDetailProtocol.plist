@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipmodel</key>
+	<string>consultativeProject</string>
+	<key>deploytouch</key>
+	<string>shouldShowGrayscale</string>
+	<key>greatSignature</key>
+	<string>permissiveIsolate</string>
+	<key>pageviewInset</key>
+	<string>lossBehavior</string>
+	<key>shouldResumeLog</key>
+	<string>timelineVisibility</string>
+</dict>
+</plist>

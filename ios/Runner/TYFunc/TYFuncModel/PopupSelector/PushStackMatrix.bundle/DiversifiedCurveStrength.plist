@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativespine</key>
+	<string>rowdecoration</string>
+	<key>quitsink</key>
+	<string>schedulerRight</string>
+	<key>resizableTraversal</key>
+	<string>mapLeft</string>
+	<key>significantrecursion</key>
+	<string>buildercycledistance</string>
+	<key>spriteContrast</key>
+	<string>concurrentImpression</string>
+	<key>tabviewValidation</key>
+	<string>managerForce</string>
+	<key>thresholdbound</key>
+	<string>cacheInkWell</string>
+	<key>widgetVisible</key>
+	<string>challengePosition</string>
+</dict>
+</plist>

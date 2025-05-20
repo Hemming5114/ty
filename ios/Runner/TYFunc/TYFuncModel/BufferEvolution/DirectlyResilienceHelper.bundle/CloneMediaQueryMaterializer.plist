@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerName</key>
+	<string>hardSearcher</string>
+	<key>publishdialogs</key>
+	<string>canRebuildBehavior</string>
+	<key>resultjobmargin</key>
+	<string>shouldRebuildLogarithm</string>
+	<key>spriteState</key>
+	<string>loadImage</string>
+</dict>
+</plist>

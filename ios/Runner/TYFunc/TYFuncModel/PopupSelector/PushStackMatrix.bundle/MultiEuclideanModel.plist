@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertMomentum</key>
+	<string>usedLoader</string>
+	<key>chapterName</key>
+	<string>scenePosition</string>
+	<key>concreteMusic</key>
+	<string>vectorizeButton</string>
+	<key>nativeAnimator</key>
+	<string>colorCount</string>
+	<key>otherpageview</key>
+	<string>canRenderFlex</string>
+	<key>shouldEndEntropy</key>
+	<string>graphicSize</string>
+	<key>smartSymbol</key>
+	<string>shouldDispatchSkin</string>
+	<key>strokeShape</key>
+	<string>scrollableGestureDetector</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratecontainer</key>
+	<string>canRestartAccessory</string>
+	<key>disabledRole</key>
+	<string>scrollableBuffer</string>
+	<key>independentAppBar</key>
+	<string>ternaryMediator</string>
+	<key>indicatorRate</key>
+	<string>canDisconnectGestureDetector</string>
+	<key>nativeSprite</key>
+	<string>nativeHandler</string>
+	<key>pinchableMetadata</key>
+	<string>tappableScalability</string>
+	<key>usecasedespitevalue</key>
+	<string>publicRect</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtheme</key>
+	<string>strokeStatus</string>
+	<key>associatedOptimizer</key>
+	<string>serviceFramework</string>
+	<key>directWrapper</key>
+	<string>shouldSerializePriority</string>
+	<key>kernelfactory</key>
+	<string>comparenode</string>
+	<key>logSpacing</key>
+	<string>logarithmPosition</string>
+	<key>modulusbeyondpattern</key>
+	<string>petevent</string>
+	<key>nativeShape</key>
+	<string>descriptionDistance</string>
+	<key>normalCombiner</key>
+	<string>semanticThroughput</string>
+	<key>sustainableDelegate</key>
+	<string>profileRoute</string>
+	<key>temporaryCache</key>
+	<string>shouldPushDropdownButton</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMobile</key>
+	<string>assetEnvironment</string>
+	<key>binaryprovision</key>
+	<string>resetPosition</string>
+	<key>declarativeView</key>
+	<string>materialCompleter</string>
+	<key>imperativeboxinteraction</key>
+	<string>sessionpainter</string>
+	<key>normalBehavior</key>
+	<string>movementrenderer</string>
+	<key>profilesize</key>
+	<string>commonIsolate</string>
+	<key>responsiveSpot</key>
+	<string>singleThread</string>
+	<key>transitionrect</key>
+	<string>shouldRebuildSine</string>
+	<key>uniqueCharacteristic</key>
+	<string>canUnbindNavigator</string>
+</dict>
+</plist>

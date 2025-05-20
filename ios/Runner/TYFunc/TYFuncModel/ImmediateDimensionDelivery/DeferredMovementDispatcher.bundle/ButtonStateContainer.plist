@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleRight</key>
+	<string>curveLocation</string>
+	<key>greatLoss</key>
+	<string>intensityduration</string>
+	<key>inheritedLogarithm</key>
+	<string>destroyInteractor</string>
+	<key>largeIntensity</key>
+	<string>shouldFetchAspect</string>
+	<key>shouldDecodeMaterial</key>
+	<string>amortizationOffset</string>
+	<key>shouldSetStateGraphic</key>
+	<string>challengePadding</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardFlags</key>
+	<string>currentWidget</string>
+	<key>combinerSpeed</key>
+	<string>resilientAmortization</string>
+	<key>dedicatedCaption</key>
+	<string>trainstateful</string>
+	<key>descentVisible</key>
+	<string>interpolationaroundaction</string>
+	<key>disabledDialogs</key>
+	<string>quantizerduration</string>
+	<key>largenavigatorappearance</key>
+	<string>oldState</string>
+	<key>nextChannel</key>
+	<string>flexiblecallbackappearance</string>
+	<key>pointmesh</key>
+	<string>imperativeCache</string>
+</dict>
+</plist>

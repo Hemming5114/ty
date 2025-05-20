@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchResponse</key>
+	<string>invokeState</string>
+	<key>lastSignature</key>
+	<string>chooserKind</string>
+	<key>makereference</key>
+	<string>prepareSegment</string>
+	<key>requestCoord</key>
+	<string>euclideanAudio</string>
+	<key>sortedDetail</key>
+	<string>generateLabel</string>
+	<key>soundHead</key>
+	<string>lastSpecifier</string>
+</dict>
+</plist>

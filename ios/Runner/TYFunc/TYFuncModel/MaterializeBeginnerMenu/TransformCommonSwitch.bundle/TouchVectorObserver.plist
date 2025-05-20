@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMargin</key>
+	<string>shouldShowDimension</string>
+	<key>enabledPrecision</key>
+	<string>canCancelView</string>
+	<key>encodescreen</key>
+	<string>unactivatedException</string>
+	<key>originalSensor</key>
+	<string>pushCupertino</string>
+	<key>pageviewBound</key>
+	<string>eventContext</string>
+	<key>resizableEmitter</key>
+	<string>measureevent</string>
+	<key>shoulddisposeworkflow</key>
+	<string>visibleStateless</string>
+	<key>statelessdropdownbutton</key>
+	<string>skipGesture</string>
+</dict>
+</plist>

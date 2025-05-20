@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasClipper</key>
+	<string>scopeDensity</string>
+	<key>resizableHero</key>
+	<string>mutablePageView</string>
+	<key>reusableSine</key>
+	<string>catalystRotation</string>
+	<key>shouldAnimateMargin</key>
+	<string>providersorter</string>
+	<key>specifyTheme</key>
+	<string>synchronousInfrastructure</string>
+	<key>transformsink</key>
+	<string>errorfrequency</string>
+	<key>workflowproxyorientation</key>
+	<string>shouldStopTabView</string>
+</dict>
+</plist>

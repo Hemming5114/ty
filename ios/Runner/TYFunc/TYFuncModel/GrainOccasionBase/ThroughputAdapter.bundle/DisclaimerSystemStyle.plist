@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnscopedelay</key>
+	<string>prevCharacter</string>
+	<key>initializeoperation</key>
+	<string>disconnectAnimatedContainer</string>
+	<key>respectiveTween</key>
+	<string>synchronousObserver</string>
+	<key>widgetprocesstension</key>
+	<string>cartesiantitlemargin</string>
+</dict>
+</plist>

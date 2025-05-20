@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerarchitecture</key>
+	<string>canTrainSubpixel</string>
+	<key>discardedRequest</key>
+	<string>firstsignaturecount</string>
+	<key>gramRight</key>
+	<string>utilSkewY</string>
+	<key>shouldSerializeStoryboard</key>
+	<string>otherDistinction</string>
+	<key>statefulgroup</key>
+	<string>gramDepth</string>
+</dict>
+</plist>

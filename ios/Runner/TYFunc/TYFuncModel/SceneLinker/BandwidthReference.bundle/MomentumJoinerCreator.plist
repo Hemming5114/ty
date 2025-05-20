@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDecoration</key>
+	<string>storageBuffer</string>
+	<key>criticalMomentum</key>
+	<string>nodeDuration</string>
+	<key>invisibleCupertino</key>
+	<string>semanticProgressBar</string>
+	<key>originalAlpha</key>
+	<string>popupObserver</string>
+	<key>plateflyweightrotation</key>
+	<string>scrolldependency</string>
+	<key>significantGrayscale</key>
+	<string>previewDecorator</string>
+	<key>specifyloopflags</key>
+	<string>subscribeboxshadow</string>
+	<key>stringifynavigator</key>
+	<string>imperativeSpecifier</string>
+	<key>touchBound</key>
+	<string>removeQueue</string>
+</dict>
+</plist>

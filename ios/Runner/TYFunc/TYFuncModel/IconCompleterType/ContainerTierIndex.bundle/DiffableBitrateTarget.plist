@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDecoration</key>
+	<string>arithmeticHeap</string>
+	<key>encapsulatesemantics</key>
+	<string>multiCanvas</string>
+	<key>formatHead</key>
+	<string>requiredScaffold</string>
+	<key>imperativeMetrics</key>
+	<string>asynchronousLoader</string>
+	<key>matrixBrightness</key>
+	<string>functionalCaption</string>
+	<key>mobileGradient</key>
+	<string>originalRange</string>
+	<key>rowstrength</key>
+	<string>interactiveMonster</string>
+	<key>sizeFrequency</key>
+	<string>presenterStatus</string>
+	<key>skirtsize</key>
+	<string>advancedListView</string>
+	<key>webMusic</key>
+	<string>commonsize</string>
+</dict>
+</plist>

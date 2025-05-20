@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBinary</key>
+	<string>dedicatedLocalization</string>
+	<key>compositionalCluster</key>
+	<string>monsterLocation</string>
+	<key>controllerconstant</key>
+	<string>missedCurve</string>
+	<key>declarativeBloc</key>
+	<string>notifyProjection</string>
+	<key>pivotalCupertino</key>
+	<string>arithmeticChannels</string>
+	<key>subsequentSink</key>
+	<string>screenNumber</string>
+	<key>variantTag</key>
+	<string>canDetachShader</string>
+</dict>
+</plist>

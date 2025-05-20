@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptiontail</key>
+	<string>interactivepopup</string>
+	<key>fusedbuttonacceleration</key>
+	<string>lazySemantics</string>
+	<key>immediateOptimizer</key>
+	<string>sequentialChart</string>
+	<key>impactBehavior</key>
+	<string>emitPosition</string>
+	<key>mainCollection</key>
+	<string>multianchor</string>
+	<key>painteroutsidelevel</key>
+	<string>shouldFetchTool</string>
+	<key>playinterpolation</key>
+	<string>canDisconnectTernary</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterBottom</key>
+	<string>insteadradius</string>
+	<key>featureInset</key>
+	<string>searcherCenter</string>
+	<key>functionalNavigator</key>
+	<string>independentGraph</string>
+	<key>loopfunctionskewx</key>
+	<string>agilesizecenter</string>
+	<key>reusableGrain</key>
+	<string>canDetachTextField</string>
+	<key>shouldProcessProjection</key>
+	<string>shouldUnbindRadio</string>
+	<key>sliderofcommand</key>
+	<string>ignoredtransition</string>
+	<key>threadRotation</key>
+	<string>searchrow</string>
+</dict>
+</plist>

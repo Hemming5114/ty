@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCosine</key>
+	<string>analogyFrequency</string>
+	<key>buttondespitescope</key>
+	<string>animateGate</string>
+	<key>declarativeComposition</key>
+	<string>requestfromlayer</string>
+	<key>interfaceResponse</key>
+	<string>interpolationvalidation</string>
+	<key>invisibleReliability</key>
+	<string>mutableCatalyst</string>
+	<key>logPressure</key>
+	<string>euclideanColumn</string>
+	<key>momentumlocalization</key>
+	<string>canRouteDuration</string>
+	<key>shouldDispatchNotifier</key>
+	<string>appendChart</string>
+</dict>
+</plist>

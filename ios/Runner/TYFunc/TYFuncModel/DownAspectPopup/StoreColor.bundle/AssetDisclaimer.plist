@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTabBar</key>
+	<string>decodeChart</string>
+	<key>cycleSpacing</key>
+	<string>shouldmountequalization</string>
+	<key>desktopCursor</key>
+	<string>similargrain</string>
+	<key>difficultCapsule</key>
+	<string>canMountedPainter</string>
+	<key>ephemeralTrigger</key>
+	<string>zoneTension</string>
+	<key>precisionIndex</key>
+	<string>canPauseSpot</string>
+	<key>visibleProcessor</key>
+	<string>observerkind</string>
+</dict>
+</plist>

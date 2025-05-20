@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitLocation</key>
+	<string>robustTabBar</string>
+	<key>easyStroke</key>
+	<string>fetchrequest</string>
+	<key>emitgram</key>
+	<string>resizableFinder</string>
+	<key>globalutilstate</key>
+	<string>projectionFunction</string>
+	<key>nibthanvalue</key>
+	<string>canSaveSkin</string>
+	<key>prevTextField</key>
+	<string>renderDocument</string>
+	<key>repositorypressure</key>
+	<string>listenFlex</string>
+	<key>shouldpublishnotifier</key>
+	<string>dynamicGestureDetector</string>
+</dict>
+</plist>

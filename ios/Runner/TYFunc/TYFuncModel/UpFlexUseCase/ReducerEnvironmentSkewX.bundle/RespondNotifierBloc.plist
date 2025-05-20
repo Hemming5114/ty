@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentType</key>
+	<string>alignmentprovider</string>
+	<key>notifierCount</key>
+	<string>statefulTimer</string>
+	<key>onsemanticschanged</key>
+	<string>consultativeModulus</string>
+	<key>providerkind</key>
+	<string>greatScaffold</string>
+	<key>shouldAnimateExponent</key>
+	<string>composableRequest</string>
+	<key>singletonKind</key>
+	<string>consultativeGesture</string>
+</dict>
+</plist>

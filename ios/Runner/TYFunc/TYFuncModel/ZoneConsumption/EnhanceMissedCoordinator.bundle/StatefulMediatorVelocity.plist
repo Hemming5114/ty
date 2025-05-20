@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbottom</key>
+	<string>receiveDependency</string>
+	<key>disabledBrush</key>
+	<string>scrollableRemainder</string>
+	<key>largeEvolution</key>
+	<string>cycleTint</string>
+	<key>menuvisibility</key>
+	<string>makeTicker</string>
+	<key>quantizertopic</key>
+	<string>shouldHandleDescriptor</string>
+	<key>rapidNotifier</key>
+	<string>firstParticle</string>
+</dict>
+</plist>

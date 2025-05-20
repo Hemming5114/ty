@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAction</key>
+	<string>graphsound</string>
+	<key>grainanimator</key>
+	<string>connectCatalyst</string>
+	<key>hyperbolicevent</key>
+	<string>shouldBindHero</string>
+	<key>mountedinteger</key>
+	<string>swiftColor</string>
+	<key>permissiveAnimation</key>
+	<string>updateAsset</string>
+	<key>pinchableScale</key>
+	<string>shouldAttachStep</string>
+	<key>publictransformer</key>
+	<string>groupMethod</string>
+	<key>respondpainter</key>
+	<string>prevElement</string>
+	<key>unsortedPromise</key>
+	<string>accessibleReceiver</string>
+</dict>
+</plist>

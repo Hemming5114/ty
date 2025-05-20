@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedcluster</key>
+	<string>resilientsample</string>
+	<key>bandwidthInset</key>
+	<string>componentTail</string>
+	<key>builderVelocity</key>
+	<string>liteHandler</string>
+	<key>inactiveInterpolation</key>
+	<string>explicitMethod</string>
+	<key>keyExpanded</key>
+	<string>iterativePosition</string>
+	<key>multiItem</key>
+	<string>sensorPrototype</string>
+	<key>playbackLocation</key>
+	<string>respectivePolygon</string>
+	<key>projectValidation</key>
+	<string>canTrainExpanded</string>
+</dict>
+</plist>

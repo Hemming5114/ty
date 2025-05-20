@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalHandler</key>
+	<string>composableNotification</string>
+	<key>interactorSize</key>
+	<string>standaloneWrapper</string>
+	<key>publicmarginstatus</key>
+	<string>texturevalidation</string>
+	<key>referenceFlags</key>
+	<string>sharedAudio</string>
+	<key>shouldPaintTangent</key>
+	<string>optimizerLevel</string>
+	<key>shouldSkipTheme</key>
+	<string>immutabledialogs</string>
+</dict>
+</plist>

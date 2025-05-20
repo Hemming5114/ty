@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiPainter</key>
+	<string>canTransformIcon</string>
+	<key>opaqueShader</key>
+	<string>smartRow</string>
+	<key>radiusFeedback</key>
+	<string>pauseSample</string>
+	<key>shouldprepareaxis</key>
+	<string>routeFrequency</string>
+	<key>subscriptionDepth</key>
+	<string>observerVelocity</string>
+	<key>synchronousSign</key>
+	<string>sorterOrientation</string>
+	<key>tweakTag</key>
+	<string>introspectBuffer</string>
+</dict>
+</plist>

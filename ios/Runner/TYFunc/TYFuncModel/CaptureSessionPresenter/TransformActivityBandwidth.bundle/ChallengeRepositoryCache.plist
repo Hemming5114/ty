@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationpicker</key>
+	<string>minIndicator</string>
+	<key>disconnectsignature</key>
+	<string>canRestartTable</string>
+	<key>formatlistener</key>
+	<string>textVariable</string>
+	<key>observerMargin</key>
+	<string>immediateExtension</string>
+	<key>selectedcurve</key>
+	<string>toolpopup</string>
+	<key>significantBuffer</key>
+	<string>confidentialitySize</string>
+	<key>sophisticatedMaterial</key>
+	<string>protectedOffset</string>
+	<key>sophisticatedStorage</key>
+	<string>persistGraphic</string>
+	<key>splitterFormat</key>
+	<string>gesturePhase</string>
+	<key>statelessProcessor</key>
+	<string>materialScope</string>
+</dict>
+</plist>

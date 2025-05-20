@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedEffect</key>
+	<string>resumeaction</string>
+	<key>diffablenoderotation</key>
+	<string>canKeepTheme</string>
+	<key>errorsplitter</key>
+	<string>visualizeRoute</string>
+	<key>graphScale</key>
+	<string>activeSorter</string>
+	<key>impressionDistance</key>
+	<string>spinAlignment</string>
+	<key>largeTextField</key>
+	<string>timeVisible</string>
+	<key>projectwithsingleton</key>
+	<string>aspectTransparency</string>
+	<key>roleAppearance</key>
+	<string>alertObserver</string>
+	<key>shouldBuildButton</key>
+	<string>singletonactivityleft</string>
+	<key>shouldpersistcomposition</key>
+	<string>denseNavigator</string>
+</dict>
+</plist>

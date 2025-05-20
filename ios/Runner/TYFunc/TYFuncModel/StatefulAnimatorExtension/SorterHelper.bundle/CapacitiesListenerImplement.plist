@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDescriptor</key>
+	<string>similarInfo</string>
+	<key>decorationoperationinterval</key>
+	<string>tappableOverlay</string>
+	<key>immutableAnchor</key>
+	<string>immutableMonster</string>
+	<key>mediumPriority</key>
+	<string>normalJoiner</string>
+	<key>mediumgridpadding</key>
+	<string>disposegrayscale</string>
+	<key>permanentWorkflow</key>
+	<string>showGestureDetector</string>
+	<key>requestVelocity</key>
+	<string>uniqueprotocol</string>
+	<key>shouldSkipNib</key>
+	<string>isolateValue</string>
+	<key>standaloneinteractordirection</key>
+	<string>notificationEnvironment</string>
+</dict>
+</plist>

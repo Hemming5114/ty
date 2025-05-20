@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnShape</key>
+	<string>deserializeMethod</string>
+	<key>crudeBuffer</key>
+	<string>normalRole</string>
+	<key>cupertinoDistance</key>
+	<string>functionalCustomPaint</string>
+	<key>draggableFrame</key>
+	<string>secondcolor</string>
+	<key>easyMetadata</key>
+	<string>statefulCenter</string>
+	<key>otherAscent</key>
+	<string>alertStyle</string>
+	<key>temporaryWidget</key>
+	<string>advancedAscent</string>
+	<key>thresholdStyle</key>
+	<string>factoryFrequency</string>
+</dict>
+</plist>

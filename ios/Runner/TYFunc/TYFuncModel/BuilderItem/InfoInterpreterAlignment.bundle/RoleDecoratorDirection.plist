@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDensity</key>
+	<string>volumeDepth</string>
+	<key>constraintSaturation</key>
+	<string>numericalSensor</string>
+	<key>ephemeralPlayback</key>
+	<string>defaultpet</string>
+	<key>ignoredmaterial</key>
+	<string>canPopGradient</string>
+	<key>inkwellleft</key>
+	<string>currentTabBar</string>
+	<key>makerect</key>
+	<string>completionpressure</string>
+	<key>replicaSaturation</key>
+	<string>canTrainGestureDetector</string>
+	<key>synchronouserror</key>
+	<string>partitionModel</string>
+	<key>workflowpatternhue</key>
+	<string>buttonEdge</string>
+</dict>
+</plist>

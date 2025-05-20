@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>litelooptint</key>
+	<string>standaloneMenu</string>
+	<key>oldTool</key>
+	<string>resilientloghue</string>
+	<key>pinchableDelegate</key>
+	<string>bufferVisible</string>
+	<key>responsebytask</key>
+	<string>largeInteger</string>
+	<key>uniqueEqualization</key>
+	<string>canUnmountedImage</string>
+</dict>
+</plist>

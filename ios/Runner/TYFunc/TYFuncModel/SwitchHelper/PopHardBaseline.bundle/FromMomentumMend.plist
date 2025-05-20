@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheStyle</key>
+	<string>backwardPoint</string>
+	<key>fusedGram</key>
+	<string>dedicatedSine</string>
+	<key>gesturewithoutvalue</key>
+	<string>referencetween</string>
+	<key>iconRight</key>
+	<string>convertrole</string>
+	<key>relationalInfo</key>
+	<string>relationalRouter</string>
+	<key>shouldInflateMediaQuery</key>
+	<string>shouldAnimateClipper</string>
+	<key>shouldPushRow</key>
+	<string>semanticBitrate</string>
+	<key>shouldYieldActivity</key>
+	<string>analyzerStyle</string>
+	<key>statefulDependency</key>
+	<string>explicitCollection</string>
+</dict>
+</plist>

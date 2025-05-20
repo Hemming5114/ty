@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPolyfill</key>
+	<string>canDisposeAnchor</string>
+	<key>adaptiveEntropy</key>
+	<string>baseFlags</string>
+	<key>eagerFlex</key>
+	<string>createDimension</string>
+	<key>eagerThroughput</key>
+	<string>observeTextField</string>
+	<key>iterativeTriangles</key>
+	<string>inactivemediarate</string>
+	<key>keyModel</key>
+	<string>imperativeMetrics</string>
+	<key>priorityRate</key>
+	<string>standaloneThread</string>
+	<key>serviceDirection</key>
+	<string>shouldPublishPromise</string>
+	<key>unschedulehash</key>
+	<string>responsiveScale</string>
+</dict>
+</plist>

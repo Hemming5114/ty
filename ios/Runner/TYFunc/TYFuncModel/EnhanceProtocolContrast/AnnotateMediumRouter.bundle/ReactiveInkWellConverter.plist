@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRadius</key>
+	<string>fetchScaffold</string>
+	<key>concurrentAnimator</key>
+	<string>collectionPosition</string>
+	<key>directChecklist</key>
+	<string>intuitivecapacity</string>
+	<key>distinctionCoord</key>
+	<string>customizedEfficiency</string>
+	<key>easyLifecycle</key>
+	<string>instructionwithoutshape</string>
+	<key>pickerDistance</key>
+	<string>inactiveTitle</string>
+	<key>shouldEncodeSemantics</key>
+	<string>respondConstraint</string>
+	<key>visibleDrawer</key>
+	<string>shouldAttachLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containermethodappearance</key>
+	<string>normalvolume</string>
+	<key>liteCompletion</key>
+	<string>pendingPlate</string>
+	<key>resizableCell</key>
+	<string>disposeScreen</string>
+	<key>shouldpresentgate</key>
+	<string>offsetNavigator</string>
+	<key>statefulContainer</key>
+	<string>minText</string>
+</dict>
+</plist>

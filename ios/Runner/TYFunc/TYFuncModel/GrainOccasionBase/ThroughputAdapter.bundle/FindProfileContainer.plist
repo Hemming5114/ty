@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterMomentum</key>
+	<string>canObserveChallenge</string>
+	<key>fixedAudio</key>
+	<string>specifyTweak</string>
+	<key>globalBuffer</key>
+	<string>grainDelay</string>
+	<key>shouldDisconnectMediaQuery</key>
+	<string>selectedMusic</string>
+	<key>shouldPublishCollection</key>
+	<string>screenPosition</string>
+	<key>shouldShowCube</key>
+	<string>canSkipAspect</string>
+</dict>
+</plist>

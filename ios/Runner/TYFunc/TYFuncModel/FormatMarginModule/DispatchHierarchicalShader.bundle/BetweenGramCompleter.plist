@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicChannels</key>
+	<string>graphBrightness</string>
+	<key>entityversusactivity</key>
+	<string>subsequentTabView</string>
+	<key>geometricCoordinator</key>
+	<string>canProcessPlate</string>
+	<key>graphTint</key>
+	<string>shouldLayoutHistogram</string>
+	<key>nibduration</key>
+	<string>pushbullet</string>
+	<key>onshadertap</key>
+	<string>canSetStateStep</string>
+	<key>positionedamongvariable</key>
+	<string>searchDuration</string>
+	<key>protectedStream</key>
+	<string>shouldDeserializeExpanded</string>
+	<key>routeprovider</key>
+	<string>refactorroute</string>
+	<key>sortedEqualization</key>
+	<string>canStopScreen</string>
+</dict>
+</plist>

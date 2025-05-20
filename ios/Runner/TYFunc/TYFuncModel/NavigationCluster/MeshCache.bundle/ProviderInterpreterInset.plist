@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiosorter</key>
+	<string>canNavigateSensor</string>
+	<key>labelshape</key>
+	<string>shouldPushTabView</string>
+	<key>lastMatrix</key>
+	<string>arithmeticthread</string>
+	<key>requiredAperture</key>
+	<string>pinchableScroller</string>
+	<key>statelessScheduler</key>
+	<string>shouldRestartSemantics</string>
+	<key>statelessspeed</key>
+	<string>canRenderMember</string>
+	<key>substantialRole</key>
+	<string>continueCharacter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousreducerfeedback</key>
+	<string>pivotalStream</string>
+	<key>containerScale</key>
+	<string>combineCoordinator</string>
+	<key>cupertinoResolver</key>
+	<string>mountedLogarithm</string>
+	<key>shouldShowStack</key>
+	<string>scrollablechannelspacing</string>
+	<key>sortedArithmetic</key>
+	<string>createView</string>
+</dict>
+</plist>

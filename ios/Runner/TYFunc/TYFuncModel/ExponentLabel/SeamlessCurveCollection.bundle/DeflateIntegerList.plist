@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerError</key>
+	<string>canDisconnectButton</string>
+	<key>composableStamp</key>
+	<string>restrictionValidation</string>
+	<key>controllerAcceleration</key>
+	<string>titlescenario</string>
+	<key>diffableOperation</key>
+	<string>richtextTask</string>
+	<key>fetchcolumn</key>
+	<string>symmetricTime</string>
+	<key>projectTheme</key>
+	<string>canSkipOperation</string>
+	<key>subtleChallenge</key>
+	<string>shouldNavigateAnimatedContainer</string>
+	<key>uniformBase</key>
+	<string>custompaintVisible</string>
+</dict>
+</plist>

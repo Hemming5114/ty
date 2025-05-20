@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasFrequency</key>
+	<string>scaffoldMemento</string>
+	<key>formatFeedback</key>
+	<string>interfacename</string>
+	<key>inflatedelegate</key>
+	<string>explicitInteraction</string>
+	<key>localcreator</key>
+	<string>priorDescription</string>
+	<key>materialSwitch</key>
+	<string>concretepicker</string>
+	<key>temporaryMedia</key>
+	<string>analyzerCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridintegration</key>
+	<string>opaquebatch</string>
+	<key>shouldCancelButton</key>
+	<string>defaultsine</string>
+	<key>shouldYieldSession</key>
+	<string>cacheGraphic</string>
+	<key>shouldlayoutchallenge</key>
+	<string>writeNavigator</string>
+	<key>sophisticatedAlert</key>
+	<string>animateAnchor</string>
+	<key>statelessContraction</key>
+	<string>shouldRebuildSizedBox</string>
+	<key>yieldtechnique</key>
+	<string>asynchronousCallback</string>
+</dict>
+</plist>

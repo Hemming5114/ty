@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationfunctiondistance</key>
+	<string>rotateanimation</string>
+	<key>dialogscyclebound</key>
+	<string>detachPopup</string>
+	<key>independentMargin</key>
+	<string>shouldpreparescale</string>
+	<key>lossconnector</key>
+	<string>particlePrototype</string>
+	<key>nodeleft</key>
+	<string>canAnimateInterpolation</string>
+	<key>parsesample</key>
+	<string>stringifycontroller</string>
+	<key>primaryGradient</key>
+	<string>shouldTransformConsumer</string>
+	<key>shouldParseProjection</key>
+	<string>symmetricRichText</string>
+	<key>statelessfromscope</key>
+	<string>buttonDirection</string>
+</dict>
+</plist>

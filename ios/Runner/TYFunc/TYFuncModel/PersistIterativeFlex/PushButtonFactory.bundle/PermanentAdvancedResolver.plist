@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTrigger</key>
+	<string>resilientModal</string>
+	<key>managerpatterncenter</key>
+	<string>routeHead</string>
+	<key>offsetCount</key>
+	<string>associatedMonster</string>
+	<key>platevisible</key>
+	<string>marginInteraction</string>
+	<key>prevsignature</key>
+	<string>compositionalProvider</string>
+	<key>responsiveMapper</key>
+	<string>lifecycleSkewY</string>
+	<key>shouldNavigatePlayback</key>
+	<string>connectManager</string>
+	<key>touchanalyzer</key>
+	<string>delegateForce</string>
+	<key>triggerStatus</key>
+	<string>shouldSubscribeCheckbox</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectOffset</key>
+	<string>responseFlags</string>
+	<key>binarytask</key>
+	<string>storagefacadefeedback</string>
+	<key>disabledCubit</key>
+	<string>sceneType</string>
+	<key>isSwitch</key>
+	<string>inkwellzone</string>
+	<key>litenavigationtransparency</key>
+	<string>hyperbolicrequest</string>
+	<key>localImpression</key>
+	<string>inactivePosition</string>
+	<key>mobilebridgetop</key>
+	<string>canMountSlider</string>
+	<key>uniformStack</key>
+	<string>keyAppBar</string>
+	<key>unregisterborder</key>
+	<string>temporaryDialogs</string>
+	<key>videoDirection</key>
+	<string>impressionPressure</string>
+</dict>
+</plist>

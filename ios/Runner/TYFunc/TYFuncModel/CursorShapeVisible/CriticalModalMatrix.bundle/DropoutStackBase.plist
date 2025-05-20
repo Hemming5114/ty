@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customStream</key>
+	<string>emitterRight</string>
+	<key>descriptionOrientation</key>
+	<string>validateResource</string>
+	<key>hierarchicalIsolate</key>
+	<string>pointTag</string>
+	<key>layoutcontroller</key>
+	<string>instructionSkewX</string>
+	<key>matrixplatformtype</key>
+	<string>skinScale</string>
+	<key>shouldyieldpainter</key>
+	<string>shouldHandleLayout</string>
+	<key>unactivatedMethod</key>
+	<string>binderTheme</string>
+</dict>
+</plist>

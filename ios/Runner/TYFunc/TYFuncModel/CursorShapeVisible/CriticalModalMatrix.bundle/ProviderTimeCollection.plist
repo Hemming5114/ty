@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorSkewX</key>
+	<string>liteTask</string>
+	<key>refreshtextfield</key>
+	<string>materialAnimatedContainer</string>
+	<key>shouldNotifyInkWell</key>
+	<string>canCancelContraction</string>
+	<key>shouldRestartProtocol</key>
+	<string>processAlert</string>
+</dict>
+</plist>

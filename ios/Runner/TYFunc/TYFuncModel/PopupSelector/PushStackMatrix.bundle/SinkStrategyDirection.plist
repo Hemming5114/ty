@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInformation</key>
+	<string>custompaintRate</string>
+	<key>prevPlate</key>
+	<string>decorationTheme</string>
+	<key>shouldNotifyStateless</key>
+	<string>tabbarOrigin</string>
+	<key>timerright</key>
+	<string>difficultObserver</string>
+</dict>
+</plist>

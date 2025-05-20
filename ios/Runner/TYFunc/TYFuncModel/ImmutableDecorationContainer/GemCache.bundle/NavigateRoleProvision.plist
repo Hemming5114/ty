@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectfactory</key>
+	<string>mountedBuilder</string>
+	<key>collectionValidation</key>
+	<string>histograminteraction</string>
+	<key>crucialCube</key>
+	<string>subscriberStatus</string>
+	<key>displayableMatrix</key>
+	<string>uniqueentity</string>
+	<key>hasequalization</key>
+	<string>displayableSelector</string>
+	<key>precisionfeedback</key>
+	<string>ignoredstatetint</string>
+	<key>responsiveText</key>
+	<string>disabledRenderer</string>
+	<key>similarCapsule</key>
+	<string>containerRotation</string>
+	<key>transitionVisible</key>
+	<string>canStartRadio</string>
+</dict>
+</plist>

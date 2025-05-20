@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardtimerfrequency</key>
+	<string>directlyStorage</string>
+	<key>expandedfromenvironment</key>
+	<string>logarithmAdapter</string>
+	<key>granularChecklist</key>
+	<string>accessibleImage</string>
+	<key>materialstreaminteraction</key>
+	<string>reducerSkewY</string>
+	<key>uniqueNavigation</key>
+	<string>originalSemantics</string>
+</dict>
+</plist>

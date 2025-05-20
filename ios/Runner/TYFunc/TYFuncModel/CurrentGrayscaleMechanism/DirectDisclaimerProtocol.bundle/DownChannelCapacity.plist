@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerMatrix</key>
+	<string>intermediateModulus</string>
+	<key>liteEvent</key>
+	<string>lossopacity</string>
+	<key>observerSkewX</key>
+	<string>shouldUnbindCaption</string>
+	<key>otherDocument</key>
+	<string>defaultTask</string>
+	<key>polygonFrequency</key>
+	<string>zoneLocation</string>
+	<key>routetechnique</key>
+	<string>consultativeCapacity</string>
+	<key>shouldRebuildAspect</key>
+	<string>shaderdescent</string>
+	<key>shouldUnmountPadding</key>
+	<string>bufferBound</string>
+</dict>
+</plist>

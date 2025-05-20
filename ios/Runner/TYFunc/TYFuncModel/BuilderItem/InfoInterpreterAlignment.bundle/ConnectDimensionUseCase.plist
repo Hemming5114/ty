@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleEdge</key>
+	<string>skinSpeed</string>
+	<key>parallelConsumption</key>
+	<string>basicAllocator</string>
+	<key>plateShade</key>
+	<string>pivotalText</string>
+	<key>playbackRotation</key>
+	<string>nativeSprite</string>
+	<key>protectedConvolution</key>
+	<string>scrollablepreview</string>
+	<key>restoreobserver</key>
+	<string>prismaticContraction</string>
+</dict>
+</plist>

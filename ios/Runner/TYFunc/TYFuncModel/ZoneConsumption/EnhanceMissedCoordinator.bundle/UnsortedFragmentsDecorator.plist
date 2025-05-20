@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSensor</key>
+	<string>granularTimeline</string>
+	<key>basicanimationtag</key>
+	<string>viewDistance</string>
+	<key>desktopKernel</key>
+	<string>normalStoryboard</string>
+	<key>intuitiveCombiner</key>
+	<string>nativeReliability</string>
+	<key>nextSkin</key>
+	<string>canEndWidget</string>
+	<key>shouldRebuildDialogs</key>
+	<string>timertexture</string>
+</dict>
+</plist>

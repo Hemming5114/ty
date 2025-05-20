@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvaslikechain</key>
+	<string>compositionalConfidentiality</string>
+	<key>commonInstruction</key>
+	<string>axisselector</string>
+	<key>otherGrayscale</key>
+	<string>adaptivesign</string>
+	<key>otherInformation</key>
+	<string>associatedObserver</string>
+	<key>previewTransparency</key>
+	<string>shouldDetachDialogs</string>
+	<key>shaderCount</key>
+	<string>opaqueFormat</string>
+	<key>shouldPresentTouch</key>
+	<string>elementBottom</string>
+	<key>shouldrendermargin</key>
+	<string>observeSwitch</string>
+</dict>
+</plist>

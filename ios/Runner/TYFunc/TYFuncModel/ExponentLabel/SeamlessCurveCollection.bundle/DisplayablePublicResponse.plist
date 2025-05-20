@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoedge</key>
+	<string>displayableLoader</string>
+	<key>expandedPressure</key>
+	<string>expandedSkewY</string>
+	<key>nativeSymbol</key>
+	<string>shouldMountTask</string>
+	<key>parallellatency</key>
+	<string>smartScenario</string>
+	<key>protectedMediaQuery</key>
+	<string>canContinueDropdownButton</string>
+	<key>resilientListener</key>
+	<string>canDispatchAperture</string>
+	<key>statelessstatus</key>
+	<string>disconnectHistogram</string>
+</dict>
+</plist>

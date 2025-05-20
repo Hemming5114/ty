@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionBehavior</key>
+	<string>combineInteractor</string>
+	<key>metricsFrequency</key>
+	<string>usedFinder</string>
+	<key>momentumOrientation</key>
+	<string>ephemeralPlate</string>
+	<key>mountedcursor</key>
+	<string>blocPattern</string>
+	<key>robustComposition</key>
+	<string>canFormatTabBar</string>
+	<key>shouldPersistSession</key>
+	<string>instructionVisibility</string>
+</dict>
+</plist>

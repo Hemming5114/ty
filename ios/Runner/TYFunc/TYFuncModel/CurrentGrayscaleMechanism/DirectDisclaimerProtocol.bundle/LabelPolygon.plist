@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeOverlay</key>
+	<string>canDispatchCurve</string>
+	<key>occasionCount</key>
+	<string>streamModulus</string>
+	<key>pagerAcceleration</key>
+	<string>standaloneEfficiency</string>
+	<key>shouldCancelProject</key>
+	<string>providerStyle</string>
+	<key>shouldTransformCupertino</key>
+	<string>isDrawer</string>
+	<key>unactivatedTernary</key>
+	<string>alertDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTint</key>
+	<string>segueOpacity</string>
+	<key>deserializeparticle</key>
+	<string>canLoadAlpha</string>
+	<key>diffableSymbol</key>
+	<string>permanentAsync</string>
+	<key>intermediateElement</key>
+	<string>bordersincetype</string>
+	<key>marshalbloc</key>
+	<string>primaryCallback</string>
+	<key>painterworkbottom</key>
+	<string>encodeObserver</string>
+	<key>reconcileresult</key>
+	<string>oldRemainder</string>
+	<key>rowpadding</key>
+	<string>injectGraph</string>
+	<key>shouldObserveScreen</key>
+	<string>dismissfuture</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineTransparency</key>
+	<string>deserializeRoute</string>
+	<key>entropymediatorskewy</key>
+	<string>receivescroll</string>
+	<key>immediatestate</key>
+	<string>sceneCoord</string>
+	<key>inactiveNavigation</key>
+	<string>shouldshowtext</string>
+	<key>prismaticprogressbar</key>
+	<string>utilprocessor</string>
+	<key>shouldBuildUsage</key>
+	<string>canStreamTangent</string>
+	<key>shouldDetachCompletion</key>
+	<string>soundSaturation</string>
+	<key>shouldUnbindPainter</key>
+	<string>shouldObserveProfile</string>
+	<key>unaryagainstinterpreter</key>
+	<string>stepLeft</string>
+</dict>
+</plist>

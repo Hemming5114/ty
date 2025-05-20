@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGestureDetector</key>
+	<string>canvasforform</string>
+	<key>delegateShape</key>
+	<string>greatThread</string>
+	<key>opaqueconstant</key>
+	<string>gradientTint</string>
+	<key>otherInteractor</key>
+	<string>reactiveVariant</string>
+	<key>overlayMomentum</key>
+	<string>mitigateService</string>
+	<key>recttweak</key>
+	<string>lazystorage</string>
+	<key>shouldReplaceOperation</key>
+	<string>builderSingleton</string>
+	<key>standaloneRoute</key>
+	<string>globalTangent</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledusecase</key>
+	<string>routePhase</string>
+	<key>frametypeskewy</key>
+	<string>pinchableRadius</string>
+	<key>navigatealignment</key>
+	<string>notationsize</string>
+	<key>primaryTask</key>
+	<string>scrollerRate</string>
+	<key>seamlesssplitter</key>
+	<string>displayablebuilderdensity</string>
+	<key>sustainableListView</key>
+	<string>largetabbar</string>
+</dict>
+</plist>

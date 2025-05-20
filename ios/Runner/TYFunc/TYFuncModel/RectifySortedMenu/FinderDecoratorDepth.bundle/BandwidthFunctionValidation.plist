@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationbuilder</key>
+	<string>shouldUpdateBitrate</string>
+	<key>inactiveAllocator</key>
+	<string>shouldResumeRole</string>
+	<key>parallelTrajectory</key>
+	<string>canAttachMobile</string>
+	<key>requestDelay</key>
+	<string>connectInterface</string>
+	<key>robustInjection</key>
+	<string>hashForm</string>
+	<key>titleKind</key>
+	<string>serviceperinterpreter</string>
+	<key>visibleSignature</key>
+	<string>resumeview</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetpersingleton</key>
+	<string>optionactivitykind</string>
+	<key>mixinscene</key>
+	<string>notifyCollection</string>
+	<key>mountchapter</key>
+	<string>eagerrouteopacity</string>
+	<key>restrictionFeedback</key>
+	<string>localizationstyleappearance</string>
+	<key>retainedcurvealignment</key>
+	<string>latencyDensity</string>
+	<key>shouldDispatchAlert</key>
+	<string>stringifyAnimation</string>
+	<key>shouldRestartAxis</key>
+	<string>crudeCompleter</string>
+	<key>storyboardmetadata</key>
+	<string>associatedManager</string>
+</dict>
+</plist>

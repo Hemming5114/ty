@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbaragainstmethod</key>
+	<string>respectiveLoss</string>
+	<key>explicitIntegrity</key>
+	<string>shouldRestartSwitch</string>
+	<key>navigatorscheduler</key>
+	<string>customizedReducer</string>
+	<key>offsetflyweightkind</key>
+	<string>obtainWidget</string>
+	<key>semanticRemediation</key>
+	<string>materialCharacteristic</string>
+	<key>shouldTransitionStateful</key>
+	<string>concurrentAsync</string>
+	<key>significantaudio</key>
+	<string>typicalcompletion</string>
+	<key>smarttabviewbehavior</key>
+	<string>canKeepSymbol</string>
+	<key>unactivatedScreen</key>
+	<string>statelessvideo</string>
+</dict>
+</plist>

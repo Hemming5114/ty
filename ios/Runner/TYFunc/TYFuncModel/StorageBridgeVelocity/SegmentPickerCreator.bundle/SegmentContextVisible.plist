@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardPolyfill</key>
+	<string>associatedSink</string>
+	<key>missedReliability</key>
+	<string>comprehensiveMetrics</string>
+	<key>screenDensity</key>
+	<string>delicateConfiguration</string>
+	<key>standaloneNavigator</key>
+	<string>holdSink</string>
+</dict>
+</plist>

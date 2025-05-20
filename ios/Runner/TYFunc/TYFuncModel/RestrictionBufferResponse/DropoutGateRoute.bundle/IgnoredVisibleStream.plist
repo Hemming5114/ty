@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonShape</key>
+	<string>channelsCount</string>
+	<key>connectorFrequency</key>
+	<string>shouldReplaceOption</string>
+	<key>persistentpainter</key>
+	<string>iterativeResilience</string>
+	<key>shouldTrainMap</key>
+	<string>fillSubscription</string>
+	<key>spinebufferorigin</key>
+	<string>movementProcess</string>
+	<key>startimage</key>
+	<string>shouldDisposeBehavior</string>
+	<key>statelessMaterializer</key>
+	<string>shouldCancelScale</string>
+	<key>subscriptiontension</key>
+	<string>shouldRenderGem</string>
+	<key>viewMode</key>
+	<string>pendingLabel</string>
+</dict>
+</plist>

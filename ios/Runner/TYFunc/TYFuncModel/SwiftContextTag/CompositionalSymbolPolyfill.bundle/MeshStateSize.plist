@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedTopic</key>
+	<string>scrollableTentative</string>
+	<key>inactiveresolver</key>
+	<string>canHandleDuration</string>
+	<key>mutableModule</key>
+	<string>interactiveFlex</string>
+	<key>pinchableMultiplication</key>
+	<string>shouldRenderCanvas</string>
+	<key>reusableConverter</key>
+	<string>statusSize</string>
+	<key>reusableSkin</key>
+	<string>eventOpacity</string>
+	<key>richtextevolution</key>
+	<string>canDispatchBrush</string>
+</dict>
+</plist>

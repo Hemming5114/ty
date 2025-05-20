@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorFrequency</key>
+	<string>unmarshalResult</string>
+	<key>eagerDescent</key>
+	<string>invisibleCompleter</string>
+	<key>fusedCubit</key>
+	<string>overlayAppearance</string>
+	<key>notificationbuffer</key>
+	<string>prevImpact</string>
+	<key>taskKind</key>
+	<string>dimensionWork</string>
+</dict>
+</plist>

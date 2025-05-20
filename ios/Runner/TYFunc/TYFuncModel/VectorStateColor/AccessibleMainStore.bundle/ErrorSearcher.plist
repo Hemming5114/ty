@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialPopup</key>
+	<string>streamtransformer</string>
+	<key>mediaquerysubscription</key>
+	<string>observererror</string>
+	<key>menuofform</key>
+	<string>canBuildGradient</string>
+	<key>methodTheme</key>
+	<string>similarGram</string>
+</dict>
+</plist>

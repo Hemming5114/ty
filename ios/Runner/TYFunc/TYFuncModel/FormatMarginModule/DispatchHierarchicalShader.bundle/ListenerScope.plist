@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnimation</key>
+	<string>asynchronousGift</string>
+	<key>adaptiveLabel</key>
+	<string>volumeDepth</string>
+	<key>globalElasticity</key>
+	<string>standaloneMethod</string>
+	<key>handlertransformer</key>
+	<string>matrixSystem</string>
+	<key>intuitiveScheduler</key>
+	<string>specifyaperture</string>
+	<key>managerloader</key>
+	<string>canMountSpine</string>
+	<key>scrollinfo</key>
+	<string>presenterFunction</string>
+	<key>significantElasticity</key>
+	<string>shouldEmitCollection</string>
+	<key>storyboardStyle</key>
+	<string>basicQuaternion</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captioncontrast</key>
+	<string>canParseConsumer</string>
+	<key>compositionalStore</key>
+	<string>geometricScroller</string>
+	<key>directlyAspect</key>
+	<string>accordionAscent</string>
+	<key>effectVelocity</key>
+	<string>shouldUnbindFlex</string>
+	<key>lazyProgressBar</key>
+	<string>decoupleProgressBar</string>
+	<key>mediaVelocity</key>
+	<string>shouldSerializeCursor</string>
+	<key>niblistener</key>
+	<string>shouldRouteNorm</string>
+	<key>onmaterialtap</key>
+	<string>explicitNotation</string>
+	<key>taskoftask</key>
+	<string>effectWork</string>
+</dict>
+</plist>

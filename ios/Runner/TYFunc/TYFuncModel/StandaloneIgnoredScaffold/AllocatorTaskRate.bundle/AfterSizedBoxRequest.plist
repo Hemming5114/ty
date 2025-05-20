@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedResolver</key>
+	<string>canUnbindProfile</string>
+	<key>invisibleNode</key>
+	<string>accordionRectangle</string>
+	<key>resourceforstructure</key>
+	<string>compositionRotation</string>
+	<key>shouldYieldNib</key>
+	<string>transitionFragment</string>
+	<key>slideralongdecorator</key>
+	<string>asynchronousduration</string>
+	<key>taxonomyDepth</key>
+	<string>materializeNode</string>
+	<key>textFrequency</key>
+	<string>iterativeStroke</string>
+	<key>tickerTension</key>
+	<string>canAttachReference</string>
+</dict>
+</plist>

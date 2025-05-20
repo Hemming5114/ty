@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicappearance</key>
+	<string>textureatnumber</string>
+	<key>denseTimer</key>
+	<string>scrollSaturation</string>
+	<key>grouppadding</key>
+	<string>globalqueuebehavior</string>
+	<key>navigatorShade</key>
+	<string>executeHash</string>
+	<key>scaffoldBorder</key>
+	<string>nativeFormat</string>
+	<key>shouldMountedBox</key>
+	<string>commonStatus</string>
+	<key>shouldStartBuilder</key>
+	<string>playbackinshape</string>
+	<key>shouldUnmountPoint</key>
+	<string>consumerShape</string>
+	<key>synchronousAsset</key>
+	<string>mediocreappbar</string>
+	<key>tensorDependency</key>
+	<string>commonPager</string>
+</dict>
+</plist>

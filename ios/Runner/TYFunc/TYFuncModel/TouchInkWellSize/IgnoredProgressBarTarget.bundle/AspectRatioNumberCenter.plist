@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTransition</key>
+	<string>persiststep</string>
+	<key>aspectstorage</key>
+	<string>presenterFramework</string>
+	<key>currentflex</key>
+	<string>activityCommand</string>
+	<key>easyInteger</key>
+	<string>processAppBar</string>
+	<key>publicTable</key>
+	<string>nativeWorkflow</string>
+	<key>shouldStreamNorm</key>
+	<string>scaffoldadapterstyle</string>
+</dict>
+</plist>

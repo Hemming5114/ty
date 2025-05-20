@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedView</key>
+	<string>alignmentSystem</string>
+	<key>baseinset</key>
+	<string>commonVariant</string>
+	<key>inactiveContainer</key>
+	<string>disabledCharacteristic</string>
+	<key>kernelRotation</key>
+	<string>descriptionPosition</string>
+	<key>logarithmalignment</key>
+	<string>intensityVar</string>
+	<key>permanentChannel</key>
+	<string>kernelFrequency</string>
+</dict>
+</plist>

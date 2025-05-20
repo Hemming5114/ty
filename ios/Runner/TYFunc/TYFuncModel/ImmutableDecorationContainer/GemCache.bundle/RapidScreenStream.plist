@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretecycle</key>
+	<string>desktopThread</string>
+	<key>iscache</key>
+	<string>typicalInteractor</string>
+	<key>liteFormat</key>
+	<string>visibleStateless</string>
+	<key>shouldLoadScaffold</key>
+	<string>signFeedback</string>
+	<key>shouldRestartOverlay</key>
+	<string>builderObserver</string>
+	<key>vectoroperationopacity</key>
+	<string>createModel</string>
+</dict>
+</plist>

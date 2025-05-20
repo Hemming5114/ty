@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInterface</key>
+	<string>declarativeTitle</string>
+	<key>defaultProvider</key>
+	<string>canShowUnary</string>
+	<key>dimensionmapper</key>
+	<string>deserializeCapacities</string>
+	<key>hierarchicalSprite</key>
+	<string>findUtil</string>
+	<key>shouldFormatCycle</key>
+	<string>finishGem</string>
+	<key>shouldRenderContraction</key>
+	<string>textfieldchapter</string>
+	<key>sortedSpine</key>
+	<string>connectMatrix</string>
+	<key>stampmomentum</key>
+	<string>concreteScene</string>
+</dict>
+</plist>

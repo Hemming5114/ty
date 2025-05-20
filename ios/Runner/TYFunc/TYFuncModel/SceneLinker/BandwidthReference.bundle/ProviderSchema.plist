@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateinset</key>
+	<string>spingate</string>
+	<key>memberkind</key>
+	<string>imperativeConsumption</string>
+	<key>scrollableHeap</key>
+	<string>sensorversussingleton</string>
+	<key>seamlessModulus</key>
+	<string>firstPadding</string>
+	<key>webZone</key>
+	<string>propagateLayout</string>
+</dict>
+</plist>

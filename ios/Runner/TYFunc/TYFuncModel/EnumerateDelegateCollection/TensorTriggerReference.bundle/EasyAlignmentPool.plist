@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityLeft</key>
+	<string>singletonleft</string>
+	<key>inactivegraphicskewx</key>
+	<string>shouldReplacePainter</string>
+	<key>lastSpot</key>
+	<string>visibleAllocator</string>
+	<key>notifierRight</key>
+	<string>mobileMesh</string>
+	<key>prevAnimation</key>
+	<string>globalService</string>
+	<key>publicScalability</key>
+	<string>routeStage</string>
+	<key>selectedtouch</key>
+	<string>precisionPosition</string>
+	<key>shouldhandleresource</key>
+	<string>implementLoop</string>
+	<key>staticProgressBar</key>
+	<string>shouldSkipColumn</string>
+</dict>
+</plist>

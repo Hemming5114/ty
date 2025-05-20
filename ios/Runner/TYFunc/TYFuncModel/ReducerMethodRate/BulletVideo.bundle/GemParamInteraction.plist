@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProtocol</key>
+	<string>iterativeBrush</string>
+	<key>backwardInterpolation</key>
+	<string>cartesianentropy</string>
+	<key>easySound</key>
+	<string>easybuilder</string>
+	<key>linkermode</key>
+	<string>delegateMetadata</string>
+	<key>spriteName</key>
+	<string>emitterBottom</string>
+</dict>
+</plist>

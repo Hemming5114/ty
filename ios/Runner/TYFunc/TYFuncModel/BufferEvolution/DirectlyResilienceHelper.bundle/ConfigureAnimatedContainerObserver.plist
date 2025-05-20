@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedassetscale</key>
+	<string>channelLeft</string>
+	<key>granularThreshold</key>
+	<string>normKind</string>
+	<key>metricsMode</key>
+	<string>widgetTemple</string>
+	<key>shouldDisconnectGradient</key>
+	<string>shouldStopTabBar</string>
+	<key>tangentinset</key>
+	<string>bitrateinteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindcontainer</key>
+	<string>shouldEndStateless</string>
+	<key>challengeduringchain</key>
+	<string>cloneTransition</string>
+	<key>previewsaturation</key>
+	<string>interfacebrightness</string>
+	<key>retainedStack</key>
+	<string>offsetLocalization</string>
+	<key>subtleTopic</key>
+	<string>shouldTrainFuture</string>
+</dict>
+</plist>

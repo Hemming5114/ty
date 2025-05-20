@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorForce</key>
+	<string>shouldDismissAspectRatio</string>
+	<key>animationformat</key>
+	<string>baselineDensity</string>
+	<key>asynchronousevent</key>
+	<string>smartAlpha</string>
+	<key>staticRadio</key>
+	<string>diffableRoute</string>
+	<key>unactivatedElasticity</key>
+	<string>activityvisible</string>
+</dict>
+</plist>

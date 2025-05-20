@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaacceleration</key>
+	<string>equipmentTransparency</string>
+	<key>difficultPrecision</key>
+	<string>dialogsEdge</string>
+	<key>isolatemediatorscale</key>
+	<string>captionState</string>
+	<key>reliabilitytransparency</key>
+	<string>canTrainPainter</string>
+	<key>shouldDetachMultiplication</key>
+	<string>observeListener</string>
+	<key>vectorAlignment</key>
+	<string>shouldKeepAspect</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianComponent</key>
+	<string>primaryTimeline</string>
+	<key>decorationvisible</key>
+	<string>permissiveRequest</string>
+	<key>easyEvent</key>
+	<string>captionCoord</string>
+	<key>releaseinterface</key>
+	<string>canPublishChecklist</string>
+	<key>shouldDismissActivity</key>
+	<string>shouldPublishMediaQuery</string>
+	<key>shouldSetStateStoryboard</key>
+	<string>unmarshalEvent</string>
+	<key>videoScale</key>
+	<string>shouldResumeOverlay</string>
+</dict>
+</plist>

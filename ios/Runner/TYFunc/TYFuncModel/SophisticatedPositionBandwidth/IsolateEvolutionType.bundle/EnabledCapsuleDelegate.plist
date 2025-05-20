@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiobridgetype</key>
+	<string>inactiveSink</string>
+	<key>diversifiedSingleton</key>
+	<string>serviceDirection</string>
+	<key>inheritedIcon</key>
+	<string>pinchableLinker</string>
+	<key>resilientLog</key>
+	<string>showSession</string>
+	<key>shouldPopBinary</key>
+	<string>lifecycleoffset</string>
+	<key>shouldupdateaxis</key>
+	<string>adaptiveStrength</string>
+	<key>similarDialogs</key>
+	<string>rectangleSaturation</string>
+	<key>widgetCount</key>
+	<string>trainResource</string>
+</dict>
+</plist>

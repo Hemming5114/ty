@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncandbuffer</key>
+	<string>overrideResolver</string>
+	<key>bindhistogram</key>
+	<string>singleDetector</string>
+	<key>iterativeDetector</key>
+	<string>dynamicskin</string>
+	<key>shouldCreateCursor</key>
+	<string>significantGraphic</string>
+	<key>shouldUnbindComposition</key>
+	<string>arithmeticlabel</string>
+	<key>workflowinset</key>
+	<string>mobileSpecifier</string>
+</dict>
+</plist>

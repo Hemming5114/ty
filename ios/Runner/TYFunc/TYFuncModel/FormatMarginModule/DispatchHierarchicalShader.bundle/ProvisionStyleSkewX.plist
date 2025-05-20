@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalbaseinterval</key>
+	<string>maintainDependency</string>
+	<key>localDrawer</key>
+	<string>retrieveZone</string>
+	<key>newestcontroller</key>
+	<string>mountNotification</string>
+	<key>normalHandler</key>
+	<string>publicSegment</string>
+	<key>respondgroup</key>
+	<string>timelineIndex</string>
+	<key>shouldFormatClipper</key>
+	<string>publicTable</string>
+	<key>shouldyieldradio</key>
+	<string>stampmodel</string>
+	<key>sustainableAperture</key>
+	<string>repositoryPressure</string>
+</dict>
+</plist>

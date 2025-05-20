@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTangent</key>
+	<string>synchronousAperture</string>
+	<key>compositionalAlpha</key>
+	<string>canEmitProfile</string>
+	<key>hierarchicalMesh</key>
+	<string>shouldAttachIcon</string>
+	<key>unactivatedParticle</key>
+	<string>accordionAxis</string>
+</dict>
+</plist>

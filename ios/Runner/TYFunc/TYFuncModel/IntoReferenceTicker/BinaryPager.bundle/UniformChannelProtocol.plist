@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marginobserver</key>
+	<string>completedOperation</string>
+	<key>scaffoldHue</key>
+	<string>statefulAnchor</string>
+	<key>screenDepth</key>
+	<string>streamlineRadius</string>
+	<key>shouldProcessTransition</key>
+	<string>customizedConverter</string>
+	<key>smartContainer</key>
+	<string>tweakDepth</string>
+	<key>tensorUnary</key>
+	<string>globalGestureDetector</string>
+	<key>usecasedespitestructure</key>
+	<string>shouldRestartSlider</string>
+</dict>
+</plist>

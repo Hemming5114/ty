@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBaseline</key>
+	<string>localTrigger</string>
+	<key>cupertinoSkewY</key>
+	<string>mediocreTextField</string>
+	<key>displayableequivalent</key>
+	<string>canReplaceGestureDetector</string>
+	<key>invisibleProtocol</key>
+	<string>mechanismName</string>
+	<key>isolatethroughfunction</key>
+	<string>observeConsumer</string>
+	<key>semanticText</key>
+	<string>shouldNotifyExponent</string>
+	<key>shouldDispatchTheme</key>
+	<string>customizedHash</string>
+	<key>shouldResumeButton</key>
+	<string>shouldRouteMusic</string>
+</dict>
+</plist>

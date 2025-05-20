@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerPosition</key>
+	<string>normalRow</string>
+	<key>bitratetopic</key>
+	<string>setstateCompletion</string>
+	<key>eventspacing</key>
+	<string>pushTicker</string>
+	<key>interpolationcompositeresponse</key>
+	<string>commonAmortization</string>
+	<key>specifyBuffer</key>
+	<string>priorSemantics</string>
+</dict>
+</plist>

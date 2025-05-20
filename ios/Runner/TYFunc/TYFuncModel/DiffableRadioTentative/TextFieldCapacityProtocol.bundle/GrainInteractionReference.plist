@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentscopetype</key>
+	<string>emitstack</string>
+	<key>mobileworkflowspeed</key>
+	<string>bindgem</string>
+	<key>modelEdge</key>
+	<string>builderFacade</string>
+	<key>respondcontroller</key>
+	<string>channelPhase</string>
+	<key>shouldunmountbloc</key>
+	<string>releaseTimer</string>
+	<key>stepasset</key>
+	<string>futureinterval</string>
+	<key>tasktheme</key>
+	<string>mutableGraph</string>
+	<key>transformerScale</key>
+	<string>compileMetadata</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDelivery</key>
+	<string>resilientStream</string>
+	<key>draggableCapacities</key>
+	<string>accordionanimation</string>
+	<key>errorKind</key>
+	<string>materialcallback</string>
+	<key>shouldlistendialogs</key>
+	<string>diffableConsumer</string>
+	<key>statefulpositionduration</key>
+	<string>exponentMemento</string>
+	<key>staticModulus</key>
+	<string>retainedscroller</string>
+</dict>
+</plist>

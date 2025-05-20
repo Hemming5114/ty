@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normalPresenter</key>
+	<string>modelSkewX</string>
+	<key>replicaSaturation</key>
+	<string>providerorientation</string>
+	<key>resumerepository</key>
+	<string>shouldSetStateStamp</string>
+	<key>shouldDecodeAnimatedContainer</key>
+	<string>memberLocation</string>
+	<key>shouldReplaceChannels</key>
+	<string>tangentEnvironment</string>
+	<key>subtleAwait</key>
+	<string>inheritedZone</string>
+</dict>
+</plist>

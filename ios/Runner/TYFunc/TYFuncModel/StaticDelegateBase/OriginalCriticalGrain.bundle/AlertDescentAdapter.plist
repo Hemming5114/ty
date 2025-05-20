@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetDepth</key>
+	<string>canDetachCapsule</string>
+	<key>bufferSpacing</key>
+	<string>disposeResource</string>
+	<key>channelsrestriction</key>
+	<string>interactorkind</string>
+	<key>ephemeralBase</key>
+	<string>nativeEfficiency</string>
+	<key>eventflags</key>
+	<string>bindNavigator</string>
+	<key>iconHue</key>
+	<string>arithmeticPet</string>
+	<key>inheritedradiusspacing</key>
+	<string>desktopChooser</string>
+	<key>mediaAppearance</key>
+	<string>responsivealignment</string>
+	<key>painterCount</key>
+	<string>cosinepershape</string>
+</dict>
+</plist>

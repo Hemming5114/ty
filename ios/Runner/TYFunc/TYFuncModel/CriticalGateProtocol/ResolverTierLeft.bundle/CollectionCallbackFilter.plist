@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepfactory</key>
+	<string>canLayoutView</string>
+	<key>keytriangles</key>
+	<string>smallEffect</string>
+	<key>pinchableThreshold</key>
+	<string>scrollaboutenvironment</string>
+	<key>publicpopupvisible</key>
+	<string>unactivatedSink</string>
+	<key>seguePressure</key>
+	<string>shouldcachescroll</string>
+	<key>skirtcolor</key>
+	<string>mainanalyzer</string>
+</dict>
+</plist>

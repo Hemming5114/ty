@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudegroupcolor</key>
+	<string>continuePoint</string>
+	<key>detailFormat</key>
+	<string>listenBullet</string>
+	<key>ephemeralintensityacceleration</key>
+	<string>animatePrecision</string>
+	<key>equalizationRotation</key>
+	<string>canNavigateRemainder</string>
+	<key>shouldStopThread</key>
+	<string>intermediateCapacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShape</key>
+	<string>delegatepolyfill</string>
+	<key>arithmeticQuaternion</key>
+	<string>subtleCurve</string>
+	<key>cachekind</key>
+	<string>singletonwithstage</string>
+	<key>flexFrequency</key>
+	<string>shouldpreparebaseline</string>
+	<key>inactiverouter</key>
+	<string>timerStage</string>
+	<key>oldcoordinatorfrequency</key>
+	<string>spotwithoutlevel</string>
+	<key>specifyBuilder</key>
+	<string>eagerProvision</string>
+	<key>transitionTail</key>
+	<string>litemastercenter</string>
+</dict>
+</plist>

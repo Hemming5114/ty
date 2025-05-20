@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloclayer</key>
+	<string>significantFilter</string>
+	<key>convolutionOrientation</key>
+	<string>attachBullet</string>
+	<key>geometricTrajectory</key>
+	<string>cupertinoScreen</string>
+	<key>localInformation</key>
+	<string>lifecycleType</string>
+	<key>shouldStreamTabBar</key>
+	<string>lockmobile</string>
+	<key>statefulLatency</key>
+	<string>loopMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularSplitter</key>
+	<string>quantizerEntity</string>
+	<key>modalPadding</key>
+	<string>canEmitTheme</string>
+	<key>monstercallback</key>
+	<string>timerPosition</string>
+	<key>workflowForce</key>
+	<string>boxComposite</string>
+</dict>
+</plist>

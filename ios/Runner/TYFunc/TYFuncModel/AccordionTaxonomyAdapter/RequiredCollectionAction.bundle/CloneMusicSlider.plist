@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchHead</key>
+	<string>persistentComposition</string>
+	<key>containerscale</key>
+	<string>pushSpine</string>
+	<key>dedicatedModal</key>
+	<string>channelsBorder</string>
+	<key>enabledChallenge</key>
+	<string>shouldLoadLoss</string>
+	<key>quitpriority</key>
+	<string>mediaqueryinterval</string>
+	<key>vectorparamdirection</key>
+	<string>skirtLevel</string>
+</dict>
+</plist>

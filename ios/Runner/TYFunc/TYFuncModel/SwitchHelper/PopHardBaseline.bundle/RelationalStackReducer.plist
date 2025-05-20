@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultTask</key>
+	<string>associatedrestriction</string>
+	<key>documentscale</key>
+	<string>shearCurve</string>
+	<key>histogramFeedback</key>
+	<string>actionpressure</string>
+	<key>intuitiveIntegration</key>
+	<string>validateChallenge</string>
+	<key>numericalDescription</key>
+	<string>poolRepository</string>
+	<key>numericalEntropy</key>
+	<string>canNotifyTouch</string>
+	<key>shouldUnbindRole</key>
+	<string>adaptiveStream</string>
+</dict>
+</plist>

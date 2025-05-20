@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionLeft</key>
+	<string>mutableLayout</string>
+	<key>criticalModel</key>
+	<string>expandedFacade</string>
+	<key>granularObject</key>
+	<string>selectedNib</string>
+	<key>masterOrientation</key>
+	<string>roleresolver</string>
+	<key>multiPositioned</key>
+	<string>shouldBindSample</string>
+	<key>removewidget</key>
+	<string>canMountedTheme</string>
+	<key>rendercompleter</key>
+	<string>finishImage</string>
+	<key>resilientContainer</key>
+	<string>concreteAxis</string>
+	<key>synchronousProtocol</key>
+	<string>playbackDensity</string>
+</dict>
+</plist>

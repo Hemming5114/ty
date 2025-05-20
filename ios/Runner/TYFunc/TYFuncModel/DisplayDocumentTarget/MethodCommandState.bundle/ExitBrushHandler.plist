@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectioncyclecenter</key>
+	<string>bindPet</string>
+	<key>grayscaleStatus</key>
+	<string>optimizerTint</string>
+	<key>limitmethod</key>
+	<string>releaseCompleter</string>
+	<key>missedInteger</key>
+	<string>accelerateHash</string>
+	<key>shouldAnimateSign</key>
+	<string>resizeparticle</string>
+	<key>shouldUnmountedCheckbox</key>
+	<string>cartesianEvent</string>
+	<key>singleEmitter</key>
+	<string>nativecaption</string>
+	<key>sorterfrequency</key>
+	<string>canContinueCheckbox</string>
+</dict>
+</plist>

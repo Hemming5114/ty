@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatororparam</key>
+	<string>kernelEnvironment</string>
+	<key>consultativeswift</key>
+	<string>segueDuration</string>
+	<key>imagecontrast</key>
+	<string>projectrate</string>
+	<key>permutationBrightness</key>
+	<string>mediocreInkWell</string>
+	<key>scrollableConfiguration</key>
+	<string>configurationvertex</string>
+	<key>semanticStoryboard</key>
+	<string>originalAudio</string>
+	<key>shouldListenMediaQuery</key>
+	<string>animatedcallback</string>
+	<key>statefulradius</key>
+	<string>canDisposeChannels</string>
+	<key>tensorcustompaintrate</key>
+	<string>capsuleBuffer</string>
+</dict>
+</plist>

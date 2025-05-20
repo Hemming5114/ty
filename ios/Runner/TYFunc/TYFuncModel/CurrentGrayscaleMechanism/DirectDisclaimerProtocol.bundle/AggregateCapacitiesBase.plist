@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionOffset</key>
+	<string>intermediateMerger</string>
+	<key>enabledStep</key>
+	<string>requestAwait</string>
+	<key>entityFrequency</key>
+	<string>disabledSpot</string>
+	<key>handlerLeft</key>
+	<string>secondInteractor</string>
+	<key>marginMomentum</key>
+	<string>semanticlocalizationcolor</string>
+	<key>movementsingletonposition</key>
+	<string>directReduction</string>
+	<key>pivotalmaterial</key>
+	<string>lazyNode</string>
+	<key>reductionliketier</key>
+	<string>ignoredStorage</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeContainer</key>
+	<string>descriptionPressure</string>
+	<key>cupertinoColor</key>
+	<string>missedGrain</string>
+	<key>featureDirection</key>
+	<string>listviewContext</string>
+	<key>mutableprojection</key>
+	<string>referencemargin</string>
+	<key>pinchableResource</key>
+	<string>singleSample</string>
+	<key>smartVariant</key>
+	<string>lostAsync</string>
+	<key>statefulTitle</key>
+	<string>shouldMountedPoint</string>
+</dict>
+</plist>

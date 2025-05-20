@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactivepainter</key>
+	<string>fillbehavior</string>
+	<key>parsemaster</key>
+	<string>adaptiveCache</string>
+	<key>specifyaction</key>
+	<string>maintainSize</string>
+	<key>substantialLoop</key>
+	<string>workflowfragments</string>
+	<key>visibleBoxShadow</key>
+	<string>menucontextdensity</string>
+</dict>
+</plist>

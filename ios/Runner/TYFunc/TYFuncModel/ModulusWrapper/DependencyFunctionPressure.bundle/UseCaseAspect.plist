@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryobserverbehavior</key>
+	<string>publicExpanded</string>
+	<key>completeralongparam</key>
+	<string>canSetStateChannels</string>
+	<key>criticalgroupvisibility</key>
+	<string>notificationcolor</string>
+	<key>easyChannel</key>
+	<string>liteListener</string>
+	<key>hashformorigin</key>
+	<string>referenceContrast</string>
+	<key>nodeaboutstyle</key>
+	<string>drawModel</string>
+	<key>servicebyactivity</key>
+	<string>entitydensity</string>
+	<key>shouldLayoutEqualization</key>
+	<string>delegateDistance</string>
+	<key>topicLocation</key>
+	<string>momentumcompleter</string>
+</dict>
+</plist>

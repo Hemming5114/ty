@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlegraph</key>
+	<string>draggabledelegate</string>
+	<key>checkbehavior</key>
+	<string>significantContraction</string>
+	<key>contrastRight</key>
+	<string>unlockHandler</string>
+	<key>fragmentRotation</key>
+	<string>webEfficiency</string>
+	<key>graphOffset</key>
+	<string>shouldNotifyChallenge</string>
+	<key>immediateArchitecture</key>
+	<string>selectedPainter</string>
+	<key>intensityvalidation</key>
+	<string>cacheUnary</string>
+	<key>tentativeKind</key>
+	<string>transposeResource</string>
+	<key>unsortedAspect</key>
+	<string>marginStatus</string>
+	<key>workflowHead</key>
+	<string>projectionKind</string>
+</dict>
+</plist>

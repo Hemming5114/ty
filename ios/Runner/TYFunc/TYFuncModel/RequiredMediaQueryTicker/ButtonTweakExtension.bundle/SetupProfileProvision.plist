@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionfromstrategy</key>
+	<string>rapidGift</string>
+	<key>backwardRenderer</key>
+	<string>requestmargin</string>
+	<key>createspine</key>
+	<string>popMaterial</string>
+	<key>mapVelocity</key>
+	<string>histogramOrigin</string>
+	<key>mediumTabView</key>
+	<string>liteProtocol</string>
+	<key>permanentCosine</key>
+	<string>scrollSpeed</string>
+	<key>scrollStatus</key>
+	<string>singletoninteraction</string>
+	<key>scrollableSkirt</key>
+	<string>localMetadata</string>
+	<key>subpixelmerger</key>
+	<string>dataMomentum</string>
+</dict>
+</plist>

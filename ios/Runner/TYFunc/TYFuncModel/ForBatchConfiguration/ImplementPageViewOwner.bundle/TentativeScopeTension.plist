@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLifecycle</key>
+	<string>composablealpharotation</string>
+	<key>enabledAllocator</key>
+	<string>builderforparam</string>
+	<key>instructionInset</key>
+	<string>activebatch</string>
+	<key>isolateTop</key>
+	<string>canAnimateDocument</string>
+	<key>operationthancontext</key>
+	<string>uniformIsolate</string>
+</dict>
+</plist>

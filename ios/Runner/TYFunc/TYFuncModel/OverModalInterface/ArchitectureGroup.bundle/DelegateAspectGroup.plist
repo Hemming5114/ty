@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionstrategytension</key>
+	<string>observerinset</string>
+	<key>combinerPressure</key>
+	<string>canUnmountTask</string>
+	<key>difficultUsage</key>
+	<string>constraintinterval</string>
+	<key>reactiveSkin</key>
+	<string>addTransition</string>
+	<key>referenceresponse</key>
+	<string>canvasContext</string>
+</dict>
+</plist>

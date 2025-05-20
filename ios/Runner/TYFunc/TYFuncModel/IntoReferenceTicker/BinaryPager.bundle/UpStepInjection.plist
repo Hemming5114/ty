@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedLoop</key>
+	<string>shoulddisposegesture</string>
+	<key>dynamictabview</key>
+	<string>unlockSize</string>
+	<key>effectlistener</key>
+	<string>computeDependency</string>
+	<key>isolateTint</key>
+	<string>largeOffset</string>
+	<key>unsortedoffsethead</key>
+	<string>staticBloc</string>
+	<key>workflowSize</key>
+	<string>unsortedSemantics</string>
+</dict>
+</plist>

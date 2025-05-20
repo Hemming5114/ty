@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedreductionkind</key>
+	<string>oneffecttap</string>
+	<key>displayableAnimation</key>
+	<string>scenebesidemethod</string>
+	<key>errorAcceleration</key>
+	<string>asynchronousMediaQuery</string>
+	<key>inactiveAsset</key>
+	<string>canStartCollection</string>
+	<key>loadmember</key>
+	<string>presentmatrix</string>
+	<key>shouldAttachAppBar</key>
+	<string>bitrateDirection</string>
+</dict>
+</plist>

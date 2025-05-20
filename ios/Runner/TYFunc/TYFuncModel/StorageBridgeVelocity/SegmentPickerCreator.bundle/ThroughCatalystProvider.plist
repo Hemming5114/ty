@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelprocessor</key>
+	<string>evolutionOffset</string>
+	<key>impactStatus</key>
+	<string>enabledStamp</string>
+	<key>mainBehavior</key>
+	<string>scrollMethod</string>
+	<key>mobileoccasion</key>
+	<string>canCancelGraphic</string>
+	<key>shouldNavigateBatch</key>
+	<string>textorvariable</string>
+	<key>signparameteralignment</key>
+	<string>opaqueFormat</string>
+</dict>
+</plist>

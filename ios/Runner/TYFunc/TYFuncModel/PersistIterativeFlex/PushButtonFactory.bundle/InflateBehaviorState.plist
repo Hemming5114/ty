@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativesubpixel</key>
+	<string>unbindBitrate</string>
+	<key>oldCell</key>
+	<string>shouldrendertechnique</string>
+	<key>priorconverter</key>
+	<string>parsemargin</string>
+	<key>shouldDeserializeBatch</key>
+	<string>sustainableState</string>
+	<key>smallSegment</key>
+	<string>resilienceindex</string>
+</dict>
+</plist>

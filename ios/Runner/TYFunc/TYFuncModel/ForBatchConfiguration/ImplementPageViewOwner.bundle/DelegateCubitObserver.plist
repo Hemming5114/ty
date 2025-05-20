@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAmortization</key>
+	<string>matrixshade</string>
+	<key>crudeThread</key>
+	<string>tickerVisible</string>
+	<key>dataTint</key>
+	<string>shouldSaveModulus</string>
+	<key>globalCanvas</key>
+	<string>sinecolor</string>
+	<key>greatcardstatus</key>
+	<string>endCatalyst</string>
+	<key>locatecosine</key>
+	<string>referenceprototypeforce</string>
+	<key>menuKind</key>
+	<string>sanitizelayout</string>
+	<key>shouldDeserializeGradient</key>
+	<string>transitionCaption</string>
+</dict>
+</plist>

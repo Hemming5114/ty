@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousScalability</key>
+	<string>compositionalMaterial</string>
+	<key>autoAmortization</key>
+	<string>debugGroup</string>
+	<key>buffersaturation</key>
+	<string>canReplaceMedia</string>
+	<key>erroraroundoperation</key>
+	<string>canListenBox</string>
+	<key>intuitiveNib</key>
+	<string>agileFrame</string>
+	<key>layoutValidation</key>
+	<string>semanticOptimizer</string>
+	<key>maphandler</key>
+	<string>compositionVelocity</string>
+	<key>mutablePlayback</key>
+	<string>basicArchitecture</string>
+</dict>
+</plist>

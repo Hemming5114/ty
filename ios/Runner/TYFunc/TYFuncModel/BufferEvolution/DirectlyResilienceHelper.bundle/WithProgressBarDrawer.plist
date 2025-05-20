@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicSkewY</key>
+	<string>transitionThread</string>
+	<key>containerwithparam</key>
+	<string>quantizerSlider</string>
+	<key>dynamicWrapper</key>
+	<string>intermediateGesture</string>
+	<key>providerbufferposition</key>
+	<string>lastsymbol</string>
+	<key>resolvemomentum</key>
+	<string>shouldPushInterpolation</string>
+	<key>shouldBuildAnimation</key>
+	<string>clusterSkewY</string>
+	<key>singletonIndex</key>
+	<string>documentDuration</string>
+	<key>symmetricProtocol</key>
+	<string>characteristicBrightness</string>
+</dict>
+</plist>

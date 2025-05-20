@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractiontopic</key>
+	<string>tappableSelector</string>
+	<key>difficultSelector</key>
+	<string>entityFunction</string>
+	<key>fixedFrame</key>
+	<string>routerNumber</string>
+	<key>permissiveEffect</key>
+	<string>commonCapsule</string>
+	<key>priorityCoord</key>
+	<string>tappablescaffold</string>
+	<key>tensorWorkflow</key>
+	<string>inactiveChannel</string>
+	<key>videoDelay</key>
+	<string>splitterDirection</string>
+</dict>
+</plist>

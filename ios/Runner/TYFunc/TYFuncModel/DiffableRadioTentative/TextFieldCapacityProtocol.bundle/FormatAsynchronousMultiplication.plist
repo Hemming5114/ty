@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionborder</key>
+	<string>shouldListenOverlay</string>
+	<key>fragmentOrigin</key>
+	<string>composableSchema</string>
+	<key>mutableSegment</key>
+	<string>documentVisitor</string>
+	<key>stoplabel</key>
+	<string>beginnerCheckbox</string>
+	<key>traversalIndex</key>
+	<string>lazySlider</string>
+</dict>
+</plist>

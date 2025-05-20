@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicstatus</key>
+	<string>listenertweak</string>
+	<key>euclideanskin</key>
+	<string>releaseFrame</string>
+	<key>griddespitemode</key>
+	<string>animatedcontainerSkewX</string>
+	<key>sharedTable</key>
+	<string>showExpanded</string>
+	<key>shouldFetchEffect</key>
+	<string>finderDelay</string>
+</dict>
+</plist>

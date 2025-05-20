@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inflategesture</key>
+	<string>progressbartag</string>
+	<key>isCustomPaint</key>
+	<string>provideModel</string>
+	<key>retainedProtocol</key>
+	<string>persistText</string>
+	<key>shouldUnmountAlert</key>
+	<string>gramplatformlocation</string>
+	<key>skirtShade</key>
+	<string>canDisconnectWorkflow</string>
+	<key>tappableLabel</key>
+	<string>lostTexture</string>
+	<key>transitionmode</key>
+	<string>customPrecision</string>
+</dict>
+</plist>

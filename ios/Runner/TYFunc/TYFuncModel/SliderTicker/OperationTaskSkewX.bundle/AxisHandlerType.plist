@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvedispatcher</key>
+	<string>shouldBuildInteger</string>
+	<key>detectorStyle</key>
+	<string>minTextField</string>
+	<key>directSink</key>
+	<string>shouldBuildStamp</string>
+	<key>discardedMaterial</key>
+	<string>serializeDimension</string>
+	<key>reusablegram</key>
+	<string>granularCompleter</string>
+	<key>statelessdelay</key>
+	<string>completedProjection</string>
+	<key>tooltypemomentum</key>
+	<string>ephemeralqueuespeed</string>
+	<key>trajectoryPressure</key>
+	<string>interfaceprovider</string>
+</dict>
+</plist>

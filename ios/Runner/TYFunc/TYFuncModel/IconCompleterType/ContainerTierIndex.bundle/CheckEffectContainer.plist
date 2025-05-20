@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorOpacity</key>
+	<string>easyEqualization</string>
+	<key>materialAnimatedContainer</key>
+	<string>visibleCupertino</string>
+	<key>notificationlocation</key>
+	<string>refreshMethod</string>
+	<key>popupPosition</key>
+	<string>replaceusecase</string>
+	<key>rectSkewY</key>
+	<string>statelessParam</string>
+	<key>resultinset</key>
+	<string>dismissIndicator</string>
+	<key>reusableSample</key>
+	<string>capacityTail</string>
+	<key>shouldFinishAnchor</key>
+	<string>precisionVisibility</string>
+	<key>statelessElement</key>
+	<string>appbarerror</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInteractor</key>
+	<string>cursorbrightness</string>
+	<key>deferredanimationalignment</key>
+	<string>mutableCollection</string>
+	<key>delicateContainer</key>
+	<string>gridinteraction</string>
+	<key>explicitImage</key>
+	<string>scenarioMode</string>
+	<key>functionalAppBar</key>
+	<string>canContinueCurve</string>
+	<key>maintaincharacter</key>
+	<string>regulatefactory</string>
+	<key>referenceBound</key>
+	<string>responsiveSegment</string>
+	<key>retainedGem</key>
+	<string>deployResponse</string>
+	<key>shouldContinueFlex</key>
+	<string>draggableRemainder</string>
+	<key>smallMission</key>
+	<string>writeSprite</string>
+</dict>
+</plist>

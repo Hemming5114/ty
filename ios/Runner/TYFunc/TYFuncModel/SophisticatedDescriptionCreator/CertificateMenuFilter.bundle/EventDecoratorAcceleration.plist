@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directAnimation</key>
+	<string>canDecodeSubpixel</string>
+	<key>inheritedDecoration</key>
+	<string>instructionObserver</string>
+	<key>largeHero</key>
+	<string>buildColumn</string>
+	<key>paddingmatrix</key>
+	<string>shouldHandleDialogs</string>
+	<key>shouldencodebuilder</key>
+	<string>streamLocation</string>
+	<key>smallobserverstate</key>
+	<string>layoutProject</string>
+	<key>transitionviafunction</key>
+	<string>permutationValidation</string>
+</dict>
+</plist>

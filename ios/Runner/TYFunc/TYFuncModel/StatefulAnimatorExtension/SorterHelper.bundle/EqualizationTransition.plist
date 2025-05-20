@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorcreator</key>
+	<string>buttonBuffer</string>
+	<key>mergerPadding</key>
+	<string>mediocreConstraint</string>
+	<key>prismaticContainer</key>
+	<string>iterativeGroup</string>
+	<key>tensorTimer</key>
+	<string>interactiveCheckbox</string>
+	<key>texturebehavior</key>
+	<string>visibleGridView</string>
+	<key>transformerVelocity</key>
+	<string>progressbarStatus</string>
+	<key>zoneHue</key>
+	<string>binderAcceleration</string>
+</dict>
+</plist>

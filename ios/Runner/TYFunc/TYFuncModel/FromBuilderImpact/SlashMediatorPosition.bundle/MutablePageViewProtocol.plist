@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianusage</key>
+	<string>imperativestreamvelocity</string>
+	<key>effectinaction</key>
+	<string>listenOption</string>
+	<key>freetransition</key>
+	<string>shouldKeepCosine</string>
+	<key>immutableCosine</key>
+	<string>configurationvariablemargin</string>
+	<key>oldRepository</key>
+	<string>canDisposeComposition</string>
+	<key>shouldDismissModal</key>
+	<string>disconnectcheckbox</string>
+	<key>standalonesearcher</key>
+	<string>retainedcontainer</string>
+	<key>timerduration</key>
+	<string>lastchallenge</string>
+	<key>touchcatalyst</key>
+	<string>shouldRouteChallenge</string>
+</dict>
+</plist>

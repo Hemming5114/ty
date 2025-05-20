@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerDocument</key>
+	<string>typicalStateless</string>
+	<key>shouldLoadPrecision</key>
+	<string>sampleVisible</string>
+	<key>unactivatedLoader</key>
+	<string>standaloneTitle</string>
+</dict>
+</plist>

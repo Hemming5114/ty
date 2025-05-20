@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianBloc</key>
+	<string>cachePageView</string>
+	<key>marginName</key>
+	<string>generateError</string>
+	<key>oldSearcher</key>
+	<string>renderUsage</string>
+	<key>retainedOverlay</key>
+	<string>disconnectstore</string>
+	<key>specifierthroughput</key>
+	<string>priorPosition</string>
+</dict>
+</plist>

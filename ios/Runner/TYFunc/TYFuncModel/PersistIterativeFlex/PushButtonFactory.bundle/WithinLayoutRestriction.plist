@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAcceleration</key>
+	<string>offsetChannel</string>
+	<key>asynchronousEquipment</key>
+	<string>adaptiveStream</string>
+	<key>delegatechapter</key>
+	<string>materialFragment</string>
+	<key>dimensionTag</key>
+	<string>blocincludecontext</string>
+	<key>directDimension</key>
+	<string>shouldRebuildStack</string>
+	<key>interpolationinformation</key>
+	<string>addSprite</string>
+	<key>symbolIndex</key>
+	<string>quantizerSize</string>
+	<key>tangentTransparency</key>
+	<string>gramVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animaterequest</key>
+	<string>subscribeSpine</string>
+	<key>customizedAwait</key>
+	<string>capacityappearance</string>
+	<key>deferredIndicator</key>
+	<string>workflowPressure</string>
+	<key>responsiverestriction</key>
+	<string>observeRow</string>
+</dict>
+</plist>

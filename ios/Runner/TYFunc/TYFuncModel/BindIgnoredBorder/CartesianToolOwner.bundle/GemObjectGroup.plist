@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectioncomponent</key>
+	<string>shouldSerializeSwift</string>
+	<key>mobileScope</key>
+	<string>localChooser</string>
+	<key>providerFrequency</key>
+	<string>otherAudio</string>
+	<key>significantCache</key>
+	<string>fetchStream</string>
+	<key>specifyPicker</key>
+	<string>specifyZone</string>
+	<key>subsequentPet</key>
+	<string>maintainskirt</string>
+	<key>unactivatedIntegrity</key>
+	<string>prismaticLayout</string>
+</dict>
+</plist>

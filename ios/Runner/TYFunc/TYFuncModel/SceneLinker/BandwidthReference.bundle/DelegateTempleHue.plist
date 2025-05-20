@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBorder</key>
+	<string>shouldSkipSemantics</string>
+	<key>inactiveIcon</key>
+	<string>denseRadius</string>
+	<key>invisibleVector</key>
+	<string>finishAperture</string>
+	<key>metricsrotation</key>
+	<string>rangeValidation</string>
+	<key>relationalState</key>
+	<string>rapidModal</string>
+	<key>resizableSign</key>
+	<string>canSetStateCupertino</string>
+	<key>scrollableWrapper</key>
+	<string>iconFlyweight</string>
+	<key>similarExponent</key>
+	<string>oldChooser</string>
+	<key>staticLog</key>
+	<string>advancedNotification</string>
+</dict>
+</plist>

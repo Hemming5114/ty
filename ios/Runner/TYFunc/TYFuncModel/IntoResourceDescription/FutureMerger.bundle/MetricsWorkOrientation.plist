@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchtriangles</key>
+	<string>computeResponse</string>
+	<key>evolutionoffset</key>
+	<string>offsetOrigin</string>
+	<key>onflexchanged</key>
+	<string>sustainableBatch</string>
+	<key>permissiveMatrix</key>
+	<string>persistCurve</string>
+	<key>sharedInkWell</key>
+	<string>reusableGraph</string>
+	<key>statefulAnalogy</key>
+	<string>variantDirection</string>
+	<key>statefulTween</key>
+	<string>petActivity</string>
+	<key>viewstyleposition</key>
+	<string>routeAnimation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateMechanism</key>
+	<string>shouldPauseStack</string>
+	<key>otherBuilder</key>
+	<string>zonetransparency</string>
+	<key>presenterMode</key>
+	<string>nativeStateful</string>
+	<key>serviceasparam</key>
+	<string>bundlePreview</string>
+	<key>standaloneInfrastructure</key>
+	<string>signSkewY</string>
+	<key>substantialLayout</key>
+	<string>textfieldbeyondfunction</string>
+	<key>substantialunarydirection</key>
+	<string>requiredFormat</string>
+</dict>
+</plist>

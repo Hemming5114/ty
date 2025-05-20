@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblePublisher</key>
+	<string>requiredDistinction</string>
+	<key>infoFrequency</key>
+	<string>publicTimer</string>
+	<key>nextblocsaturation</key>
+	<string>shouldMountedCompletion</string>
+	<key>selectedCompletion</key>
+	<string>permanentGridView</string>
+	<key>shouldPaintBaseline</key>
+	<string>notifyPresenter</string>
+	<key>shouldStartMusic</key>
+	<string>sortedHeap</string>
+	<key>taskcoord</key>
+	<string>concatenateTitle</string>
+</dict>
+</plist>

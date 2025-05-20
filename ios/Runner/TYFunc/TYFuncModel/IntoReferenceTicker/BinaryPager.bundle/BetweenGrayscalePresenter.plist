@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintresolver</key>
+	<string>shouldContinueBloc</string>
+	<key>fixedSound</key>
+	<string>shouldSubscribeCursor</string>
+	<key>graminfo</key>
+	<string>canRouteKernel</string>
+	<key>impressionValidation</key>
+	<string>diffableScroll</string>
+	<key>layoutswitch</key>
+	<string>persistentGroup</string>
+	<key>shouldDisposeIcon</key>
+	<string>constraintAdapter</string>
+</dict>
+</plist>

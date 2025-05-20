@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarbutton</key>
+	<string>capsulefeature</string>
+	<key>draggablePosition</key>
+	<string>observeScreen</string>
+	<key>hyperbolicCard</key>
+	<string>steptension</string>
+	<key>isPainter</key>
+	<string>deactivateLoop</string>
+	<key>pivotalPainter</key>
+	<string>sortedAsset</string>
+	<key>shouldSubscribeExtension</key>
+	<string>requiredMethod</string>
+	<key>statelessDelivery</key>
+	<string>missedtransformer</string>
+	<key>subsequentScope</key>
+	<string>shouldUpdateDecoration</string>
+</dict>
+</plist>

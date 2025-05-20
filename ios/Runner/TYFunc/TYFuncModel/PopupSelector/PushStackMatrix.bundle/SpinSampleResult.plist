@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherSkewY</key>
+	<string>checklistinset</string>
+	<key>positionfrequency</key>
+	<string>showPosition</string>
+	<key>shouldSkipTabBar</key>
+	<string>smartSizedBox</string>
+	<key>singleSpine</key>
+	<string>draggablePainter</string>
+	<key>statelessVisibility</key>
+	<string>stackSize</string>
+</dict>
+</plist>

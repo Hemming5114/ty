@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerascent</key>
+	<string>synchronoussignshade</string>
+	<key>coordinatorasstate</key>
+	<string>canTransitionDuration</string>
+	<key>shouldInflateExponent</key>
+	<string>chartStyle</string>
+	<key>shouldRenderSignature</key>
+	<string>shouldFetchClipper</string>
+	<key>splitterLeft</key>
+	<string>integrityShape</string>
+</dict>
+</plist>

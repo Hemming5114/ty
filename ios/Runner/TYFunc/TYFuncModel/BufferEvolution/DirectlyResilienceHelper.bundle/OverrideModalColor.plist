@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateOffset</key>
+	<string>deprecateBuffer</string>
+	<key>captionSpeed</key>
+	<string>lossProcess</string>
+	<key>menuInset</key>
+	<string>imperativeStream</string>
+</dict>
+</plist>

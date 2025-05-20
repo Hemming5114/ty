@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPopup</key>
+	<string>composablebufferstatus</string>
+	<key>ephemeralsprite</key>
+	<string>deserializePoint</string>
+	<key>ignoredUsage</key>
+	<string>spotacceleration</string>
+	<key>onusagetap</key>
+	<string>accordionSegue</string>
+	<key>reactiveLinker</key>
+	<string>setupModel</string>
+</dict>
+</plist>

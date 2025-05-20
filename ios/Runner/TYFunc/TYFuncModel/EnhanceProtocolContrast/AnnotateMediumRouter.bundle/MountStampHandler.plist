@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperspeed</key>
+	<string>priorDetector</string>
+	<key>paddingBorder</key>
+	<string>gridLevel</string>
+	<key>primaryNotification</key>
+	<string>maintainBuffer</string>
+	<key>shouldDismissProfile</key>
+	<string>retrieveLayer</string>
+	<key>shouldDisposeTechnique</key>
+	<string>herofragments</string>
+</dict>
+</plist>

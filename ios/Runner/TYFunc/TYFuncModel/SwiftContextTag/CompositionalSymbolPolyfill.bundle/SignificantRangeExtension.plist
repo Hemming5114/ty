@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionoflevel</key>
+	<string>beginnerPosition</string>
+	<key>autoAmortization</key>
+	<string>singleBinder</string>
+	<key>composableBuilder</key>
+	<string>canInflateNotifier</string>
+	<key>consultativeChannel</key>
+	<string>dynamicTable</string>
+	<key>diversifiedCreator</key>
+	<string>viewAlignment</string>
+	<key>missedPet</key>
+	<string>cancelHero</string>
+	<key>radiusinteraction</key>
+	<string>intermediateFinder</string>
+	<key>strengthCoord</key>
+	<string>borderSkewY</string>
+</dict>
+</plist>

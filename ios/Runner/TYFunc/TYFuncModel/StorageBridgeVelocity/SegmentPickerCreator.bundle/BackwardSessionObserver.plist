@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkaspect</key>
+	<string>eagerMechanism</string>
+	<key>concreteFrame</key>
+	<string>behaviorKind</string>
+	<key>defaultdropdownbutton</key>
+	<string>extensionBottom</string>
+	<key>positionconnector</key>
+	<string>seamlessStamp</string>
+	<key>shouldstreammovement</key>
+	<string>prismaticSign</string>
+	<key>typicalAlert</key>
+	<string>cubitFlags</string>
+	<key>widgetinteraction</key>
+	<string>shouldPopMember</string>
+</dict>
+</plist>

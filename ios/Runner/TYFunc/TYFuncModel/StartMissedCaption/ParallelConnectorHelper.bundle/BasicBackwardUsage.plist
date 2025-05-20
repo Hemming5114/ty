@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeAnimator</key>
+	<string>desktopMaster</string>
+	<key>equivalentOrientation</key>
+	<string>paddingimage</string>
+	<key>imageVisible</key>
+	<string>displayableAspectRatio</string>
+	<key>playbackpolygon</key>
+	<string>firstbatchindex</string>
+	<key>shouldSaveMediaQuery</key>
+	<string>protectedTweak</string>
+	<key>shouldStreamBuilder</key>
+	<string>canAttachLabel</string>
+	<key>strokeCount</key>
+	<string>beginnerBorder</string>
+	<key>temporaryColor</key>
+	<string>multiamortization</string>
+</dict>
+</plist>

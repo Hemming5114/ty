@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedError</key>
+	<string>axisTask</string>
+	<key>delegateobject</key>
+	<string>localMesh</string>
+	<key>directDescriptor</key>
+	<string>independentRadius</string>
+	<key>imperativeloopopacity</key>
+	<string>sizedboxSpeed</string>
+	<key>mediaqueryoffset</key>
+	<string>usedMaster</string>
+	<key>noderate</key>
+	<string>entropyBridge</string>
+	<key>resizableSensor</key>
+	<string>shouldNavigatePet</string>
+	<key>secondEquivalent</key>
+	<string>pausesegment</string>
+	<key>subscriberPosition</key>
+	<string>subpixeltransparency</string>
+</dict>
+</plist>

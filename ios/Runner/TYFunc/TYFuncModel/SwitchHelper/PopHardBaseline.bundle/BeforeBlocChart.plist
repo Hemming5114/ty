@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureschema</key>
+	<string>cupertinoIndex</string>
+	<key>constraintDuration</key>
+	<string>mediumEfficiency</string>
+	<key>enabledScreen</key>
+	<string>directInfo</string>
+	<key>firstSegue</key>
+	<string>notificationlikemode</string>
+	<key>normalCertificate</key>
+	<string>canInflateRow</string>
+	<key>overlayFlags</key>
+	<string>propagateDelegate</string>
+	<key>prevlayer</key>
+	<string>smartButton</string>
+	<key>shouldstopscroll</key>
+	<string>statefulCapsule</string>
+</dict>
+</plist>

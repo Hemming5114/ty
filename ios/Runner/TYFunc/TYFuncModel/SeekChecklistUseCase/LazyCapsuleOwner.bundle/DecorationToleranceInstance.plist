@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionrestriction</key>
+	<string>variantDepth</string>
+	<key>mediumEquivalent</key>
+	<string>pinchabletweenpadding</string>
+	<key>mutableUsage</key>
+	<string>shouldObserveGram</string>
+	<key>shouldSubscribeCupertino</key>
+	<string>dropdownbuttonJob</string>
+</dict>
+</plist>

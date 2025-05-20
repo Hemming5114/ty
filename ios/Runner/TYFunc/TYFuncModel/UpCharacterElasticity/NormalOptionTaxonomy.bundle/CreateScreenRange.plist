@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedThread</key>
+	<string>iconProxy</string>
+	<key>behaviorright</key>
+	<string>acceleratehash</string>
+	<key>cancelstream</key>
+	<string>canPresentConsumer</string>
+	<key>completerkindstyle</key>
+	<string>observeHash</string>
+	<key>delicateProtocol</key>
+	<string>lostListener</string>
+	<key>shoulddetachrichtext</key>
+	<string>hierarchicalGram</string>
+	<key>smallStorage</key>
+	<string>equipmentFramework</string>
+	<key>vectorAcceleration</key>
+	<string>shouldDecodeInteger</string>
+</dict>
+</plist>

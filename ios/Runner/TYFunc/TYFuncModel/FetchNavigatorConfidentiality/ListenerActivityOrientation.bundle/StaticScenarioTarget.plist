@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratebridgeshade</key>
+	<string>defaultcontainer</string>
+	<key>directTween</key>
+	<string>canUnbindDrawer</string>
+	<key>equalizationstrategyhue</key>
+	<string>inkwellLayer</string>
+	<key>fusedProgressBar</key>
+	<string>euclideanTransition</string>
+	<key>instructionprototyperotation</key>
+	<string>grayscaleChain</string>
+	<key>shouldStreamRole</key>
+	<string>commonInteger</string>
+	<key>slashvisible</key>
+	<string>ternaryPosition</string>
+	<key>stepKind</key>
+	<string>instantiateCubit</string>
+	<key>trajectoryTension</key>
+	<string>shouldValidateEntropy</string>
+	<key>unlockcontainer</key>
+	<string>resolvestateful</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserscale</key>
+	<string>previewVisibility</string>
+	<key>geometricScene</key>
+	<string>chartright</string>
+	<key>interactoruntilplatform</key>
+	<string>nativeEntropy</string>
+	<key>newestProjection</key>
+	<string>concurrentDetail</string>
+	<key>nextAspectRatio</key>
+	<string>themeKind</string>
+	<key>resilientIndicator</key>
+	<string>presentView</string>
+	<key>semanticSubscriber</key>
+	<string>scaffoldVariable</string>
+</dict>
+</plist>

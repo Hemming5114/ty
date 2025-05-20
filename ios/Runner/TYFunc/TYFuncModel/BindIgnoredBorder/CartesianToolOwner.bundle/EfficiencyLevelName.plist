@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetaxonomy</key>
+	<string>animatedCatalyst</string>
+	<key>commonCache</key>
+	<string>spotBound</string>
+	<key>elasticRepository</key>
+	<string>inactiveRestriction</string>
+	<key>handlerflyweightopacity</key>
+	<string>formatMargin</string>
+	<key>queueobserversaturation</key>
+	<string>scaffoldOrientation</string>
+	<key>requiredProtocol</key>
+	<string>euclideanDistinction</string>
+	<key>shouldLoadSign</key>
+	<string>greatdialogsdensity</string>
+	<key>visiblePosition</key>
+	<string>shouldPausePositioned</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellcompleter</key>
+	<string>descentShape</string>
+	<key>immediateConsumption</key>
+	<string>controllerlocation</string>
+	<key>lostLog</key>
+	<string>resizableCapacity</string>
+	<key>parallelCurve</key>
+	<string>conformUtil</string>
+	<key>plateperstyle</key>
+	<string>shouldnotifyinstruction</string>
+	<key>sharedGraph</key>
+	<string>materializeWidget</string>
+	<key>smallStroke</key>
+	<string>selectorFrequency</string>
+</dict>
+</plist>

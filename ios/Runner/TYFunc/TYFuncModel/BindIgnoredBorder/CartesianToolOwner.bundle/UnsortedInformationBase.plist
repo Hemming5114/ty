@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerDepth</key>
+	<string>shouldDisconnectEquipment</string>
+	<key>beginnerNavigation</key>
+	<string>orchestratevariant</string>
+	<key>completionAcceleration</key>
+	<string>mediocreMapper</string>
+	<key>granularTweak</key>
+	<string>criticalScope</string>
+	<key>pinchableGrid</key>
+	<string>normFlyweight</string>
+	<key>promiseAcceleration</key>
+	<string>locateFrame</string>
+	<key>responsivemodallocation</key>
+	<string>ephemeralLoop</string>
+	<key>shouldpushdelegate</key>
+	<string>mediumOffset</string>
+	<key>similarAnchor</key>
+	<string>cartesianfactory</string>
+	<key>specifyElement</key>
+	<string>benchmarkPresenter</string>
+</dict>
+</plist>

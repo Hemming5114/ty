@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediatePopup</key>
+	<string>resilientNavigator</string>
+	<key>screenbandwidth</key>
+	<string>movetopic</string>
+	<key>similarCard</key>
+	<string>singleNotifier</string>
+	<key>smallInterface</key>
+	<string>futurePressure</string>
+</dict>
+</plist>

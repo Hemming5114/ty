@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialinjection</key>
+	<string>fragmentMode</string>
+	<key>customaction</key>
+	<string>shouldcacheappbar</string>
+	<key>finderMargin</key>
+	<string>uniformOccasion</string>
+	<key>scrollSize</key>
+	<string>invisibleVector</string>
+	<key>shouldAttachBoxShadow</key>
+	<string>attachqueue</string>
+	<key>shouldUpdateCharacter</key>
+	<string>canSetStateCatalyst</string>
+	<key>smartdecoration</key>
+	<string>seamlesscaption</string>
+	<key>sorterResponse</key>
+	<string>routeedge</string>
+	<key>symmetricMethod</key>
+	<string>memberDirection</string>
+	<key>validatechallenge</key>
+	<string>explicitMatrix</string>
+</dict>
+</plist>

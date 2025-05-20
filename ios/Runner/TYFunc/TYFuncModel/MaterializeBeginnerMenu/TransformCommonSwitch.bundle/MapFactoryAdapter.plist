@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSearcher</key>
+	<string>serializeDelegate</string>
+	<key>declarativeConstraint</key>
+	<string>measuretransition</string>
+	<key>dedicatedTween</key>
+	<string>cupertinoMatrix</string>
+	<key>immediateCluster</key>
+	<string>touchofadapter</string>
+	<key>mediumIcon</key>
+	<string>hasModal</string>
+	<key>requestresource</key>
+	<string>saveoperation</string>
+	<key>switchBottom</key>
+	<string>dropoutAnimation</string>
+	<key>textureTransparency</key>
+	<string>exponentcount</string>
+	<key>trianglesdepth</key>
+	<string>compareChart</string>
+</dict>
+</plist>

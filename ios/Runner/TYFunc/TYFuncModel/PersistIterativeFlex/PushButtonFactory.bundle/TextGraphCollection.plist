@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateCharacter</key>
+	<string>canEndDelegate</string>
+	<key>errorscopescale</key>
+	<string>shouldPauseScale</string>
+	<key>inflateanimation</key>
+	<string>evaluationDepth</string>
+	<key>mobileLoss</key>
+	<string>introspectView</string>
+	<key>mobiledensity</key>
+	<string>factorycommandacceleration</string>
+	<key>modelCoord</key>
+	<string>adaptiveClipper</string>
+	<key>shouldTrainShader</key>
+	<string>basicReducer</string>
+	<key>sustainableRadius</key>
+	<string>canContinueCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicTable</key>
+	<string>associatedResource</string>
+	<key>keyQuaternion</key>
+	<string>disconnectMaterial</string>
+	<key>largeChannels</key>
+	<string>resolverAcceleration</string>
+	<key>largeinkwell</key>
+	<string>copyModel</string>
+	<key>mechanismPadding</key>
+	<string>axisChain</string>
+	<key>ondimensionchanged</key>
+	<string>tickerMethod</string>
+	<key>prevNotification</key>
+	<string>drawerRate</string>
+	<key>selectedView</key>
+	<string>standaloneMend</string>
+</dict>
+</plist>

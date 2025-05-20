@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAlignment</key>
+	<string>shouldUnmountCapsule</string>
+	<key>equalcomposition</key>
+	<string>shouldPaintSlash</string>
+	<key>fusedInteractor</key>
+	<string>tickerValue</string>
+	<key>globalModel</key>
+	<string>primaryMend</string>
+	<key>oldRepository</key>
+	<string>typicalProgressBar</string>
+	<key>shouldDeserializeTable</key>
+	<string>canPauseMission</string>
+</dict>
+</plist>

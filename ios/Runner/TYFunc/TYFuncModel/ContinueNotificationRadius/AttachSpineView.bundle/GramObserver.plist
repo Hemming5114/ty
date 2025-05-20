@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactersize</key>
+	<string>cartesianRoute</string>
+	<key>delicateEvent</key>
+	<string>vectorizeBuffer</string>
+	<key>featureinterpretercontrast</key>
+	<string>fetchGraphic</string>
+	<key>flexibleRole</key>
+	<string>annotateLayout</string>
+	<key>mapperorigin</key>
+	<string>syncModel</string>
+	<key>rendererTop</key>
+	<string>marginVisibility</string>
+	<key>staticProvision</key>
+	<string>priorNode</string>
+	<key>synchronousrole</key>
+	<string>disabledSubscription</string>
+</dict>
+</plist>

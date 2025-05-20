@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultfactory</key>
+	<string>streamscene</string>
+	<key>loopconfidentiality</key>
+	<string>unmarshallistener</string>
+	<key>multiGift</key>
+	<string>canFormatDialogs</string>
+	<key>shouldYieldGesture</key>
+	<string>cardtitle</string>
+	<key>statelessBuilder</key>
+	<string>adjustRoute</string>
+</dict>
+</plist>

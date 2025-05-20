@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clippergrid</key>
+	<string>shouldNotifyMargin</string>
+	<key>iterativechooser</key>
+	<string>seamlessVertex</string>
+	<key>sizedboxmetadata</key>
+	<string>globalObserver</string>
+	<key>taskviaparameter</key>
+	<string>servicejobposition</string>
+</dict>
+</plist>

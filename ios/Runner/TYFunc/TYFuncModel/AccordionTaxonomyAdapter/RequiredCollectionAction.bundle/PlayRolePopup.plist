@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicIndicator</key>
+	<string>lockbitrate</string>
+	<key>framefunctioninterval</key>
+	<string>serializeInteger</string>
+	<key>hardPositioned</key>
+	<string>setstateDocument</string>
+	<key>interactiveCaption</key>
+	<string>unsortedGestureDetector</string>
+	<key>rectangletint</key>
+	<string>desktopSensor</string>
+	<key>seamlessfuturefrequency</key>
+	<string>concurrentPriority</string>
+	<key>sophisticatedtolerance</key>
+	<string>platetransparency</string>
+	<key>subtleCompletion</key>
+	<string>radiusShade</string>
+</dict>
+</plist>

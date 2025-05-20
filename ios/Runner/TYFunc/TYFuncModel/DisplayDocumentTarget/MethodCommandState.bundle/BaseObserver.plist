@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionResponse</key>
+	<string>clipperOperation</string>
+	<key>composableSemantics</key>
+	<string>directlyStep</string>
+	<key>coordinatorsincestructure</key>
+	<string>deferredshader</string>
+	<key>eagerVolume</key>
+	<string>mediocreSink</string>
+	<key>groupdepth</key>
+	<string>positionedAction</string>
+	<key>petappearance</key>
+	<string>euclideanSwitch</string>
+	<key>reactiveSlider</key>
+	<string>providerrect</string>
+	<key>relationalEqualization</key>
+	<string>unbindMonster</string>
+	<key>touchDelay</key>
+	<string>lazycollection</string>
+	<key>viewobserverskewy</key>
+	<string>processSine</string>
+</dict>
+</plist>

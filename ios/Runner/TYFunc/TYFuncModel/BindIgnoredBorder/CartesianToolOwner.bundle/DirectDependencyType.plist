@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPicker</key>
+	<string>crudeslider</string>
+	<key>commonBox</key>
+	<string>showModal</string>
+	<key>exponentShape</key>
+	<string>shouldParsePainter</string>
+	<key>projectionborder</key>
+	<string>collectionStage</string>
+	<key>protectedBinary</key>
+	<string>switchSingleton</string>
+	<key>secondstep</key>
+	<string>brushChain</string>
+	<key>shouldPersistChecklist</key>
+	<string>presenterdelay</string>
+	<key>vectorizetask</key>
+	<string>canDeserializeInterpolation</string>
+</dict>
+</plist>

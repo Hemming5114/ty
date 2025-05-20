@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPolygon</key>
+	<string>awaitEdge</string>
+	<key>immediateDialogs</key>
+	<string>transitionsincesingleton</string>
+	<key>shapeHue</key>
+	<string>mediumRequest</string>
+	<key>shouldYieldNotification</key>
+	<string>baselineShade</string>
+	<key>smartCluster</key>
+	<string>registerposition</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivebaseline</key>
+	<string>newestDelegate</string>
+	<key>easySizedBox</key>
+	<string>scaffoldAppearance</string>
+	<key>pageviewmend</key>
+	<string>fetchAnimation</string>
+	<key>positionedpadding</key>
+	<string>opaqueDimension</string>
+	<key>shouldRestartContraction</key>
+	<string>selectorLocation</string>
+	<key>shouldRouteGrayscale</key>
+	<string>shouldDismissComposition</string>
+</dict>
+</plist>

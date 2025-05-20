@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherScale</key>
+	<string>discoverEntity</string>
+	<key>exceptionformat</key>
+	<string>rebuildScreen</string>
+	<key>otherController</key>
+	<string>infoColor</string>
+	<key>permanentLayer</key>
+	<string>shouldFetchDescriptor</string>
+	<key>shouldRebuildSpot</key>
+	<string>strokeInset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonoutsideactivity</key>
+	<string>histogramStage</string>
+	<key>lazyLayer</key>
+	<string>reusableFormat</string>
+	<key>secondCertificate</key>
+	<string>endcontroller</string>
+	<key>shouldhandlereduction</key>
+	<string>featureFeedback</string>
+	<key>sophisticatedTransition</key>
+	<string>basicCanvas</string>
+</dict>
+</plist>

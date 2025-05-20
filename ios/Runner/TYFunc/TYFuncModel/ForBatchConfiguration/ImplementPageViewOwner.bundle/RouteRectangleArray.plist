@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferfeedback</key>
+	<string>offsetDelegate</string>
+	<key>densepreview</key>
+	<string>readStore</string>
+	<key>draggableradius</key>
+	<string>fetchActivity</string>
+	<key>gridHue</key>
+	<string>featureAlignment</string>
+	<key>interceptqueue</key>
+	<string>sharedContainer</string>
+	<key>invisiblespecifier</key>
+	<string>formatEffect</string>
+	<key>numericalInformation</key>
+	<string>radiofrequency</string>
+	<key>requiredAsync</key>
+	<string>cartesianPet</string>
+</dict>
+</plist>

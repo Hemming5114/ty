@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveSound</key>
+	<string>rolenearvisitor</string>
+	<key>errorFlags</key>
+	<string>canRestartGradient</string>
+	<key>parallelWidget</key>
+	<string>currentTool</string>
+	<key>publicIcon</key>
+	<string>aspectVisible</string>
+	<key>usedMargin</key>
+	<string>shouldEncodeBitrate</string>
+</dict>
+</plist>

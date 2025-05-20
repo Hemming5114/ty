@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultCapacities</key>
+	<string>crudeArithmetic</string>
+	<key>diversifiedNavigator</key>
+	<string>continueTool</string>
+	<key>interactorFrequency</key>
+	<string>numericalScaffold</string>
+	<key>mutableNorm</key>
+	<string>custompaintFlyweight</string>
+	<key>parallelGestureDetector</key>
+	<string>nativeParticle</string>
+	<key>shouldDisconnectMember</key>
+	<string>paintChallenge</string>
+	<key>textreceiver</key>
+	<string>pageviewDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPadding</key>
+	<string>encodeResolver</string>
+	<key>cycleVisibility</key>
+	<string>shouldKeepGate</string>
+	<key>managertypeflags</key>
+	<string>indicatorProcess</string>
+	<key>resourceaboutshape</key>
+	<string>notifiertint</string>
+	<key>semanticReducer</key>
+	<string>explicitInfo</string>
+	<key>shouldDisconnectMultiplication</key>
+	<string>mechanismStatus</string>
+	<key>shouldRenderSpot</key>
+	<string>canTransitionMargin</string>
+	<key>substantialmechanism</key>
+	<string>persistentBloc</string>
+	<key>toolmodeappearance</key>
+	<string>annotateGrain</string>
+</dict>
+</plist>

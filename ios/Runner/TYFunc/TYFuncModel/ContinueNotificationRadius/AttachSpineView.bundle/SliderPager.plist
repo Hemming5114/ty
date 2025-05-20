@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintformedge</key>
+	<string>creatorskewy</string>
+	<key>deactivatefuture</key>
+	<string>spriteSkewX</string>
+	<key>equipmentspeed</key>
+	<string>reactiveGrain</string>
+	<key>liteCatalyst</key>
+	<string>animatedcontainerName</string>
+	<key>reactiveReducer</key>
+	<string>attachTopic</string>
+	<key>receivenavigation</key>
+	<string>compileTween</string>
+	<key>topicBorder</key>
+	<string>injectionpermutation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetictouch</key>
+	<string>finishTechnique</string>
+	<key>cellcurve</key>
+	<string>advancedExpanded</string>
+	<key>compositionAcceleration</key>
+	<string>delicateTable</string>
+	<key>dynamicUseCase</key>
+	<string>playbackbesideparameter</string>
+	<key>integerorvariable</key>
+	<string>registerHash</string>
+	<key>onherotap</key>
+	<string>encapsulateInteractor</string>
+	<key>resilientModule</key>
+	<string>directPopup</string>
+	<key>singletonrotation</key>
+	<string>activityProcess</string>
+	<key>unactivatedLoop</key>
+	<string>shouldUnbindMediaQuery</string>
+</dict>
+</plist>

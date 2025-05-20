@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowCoord</key>
+	<string>canTransitionNotifier</string>
+	<key>completerFormat</key>
+	<string>animatechecklist</string>
+	<key>declarativeInkWell</key>
+	<string>completedSession</string>
+	<key>listencoordinator</key>
+	<string>shouldparsedrawer</string>
+	<key>resilientschema</key>
+	<string>currentManager</string>
+	<key>shouldUpdateUsage</key>
+	<string>canParseCache</string>
+	<key>subtleTask</key>
+	<string>poolEvent</string>
+	<key>tooltasktint</key>
+	<string>discovercoordinator</string>
+	<key>workflowbesidechain</key>
+	<string>flexibleAnalyzer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFinder</key>
+	<string>boxisolate</string>
+	<key>builderorshape</key>
+	<string>webSearcher</string>
+	<key>immutableDialogs</key>
+	<string>swiftmediatorshade</string>
+	<key>interpolationKind</key>
+	<string>makeRouter</string>
+	<key>shouldDeserializeProfile</key>
+	<string>retainedUtil</string>
+	<key>skirtDepth</key>
+	<string>previewJob</string>
+	<key>spriteprocessinteraction</key>
+	<string>comprehensiveUtil</string>
+	<key>tickersaturation</key>
+	<string>oldGesture</string>
+</dict>
+</plist>

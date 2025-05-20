@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryMode</key>
+	<string>resizableMedia</string>
+	<key>disabledEvent</key>
+	<string>extendStore</string>
+	<key>missioncoord</key>
+	<string>permissiveChart</string>
+	<key>resizableMission</key>
+	<string>canDismissTabBar</string>
+	<key>shouldSaveCertificate</key>
+	<string>shouldAnimateDropdownButton</string>
+	<key>statelessContraction</key>
+	<string>primaryState</string>
+</dict>
+</plist>

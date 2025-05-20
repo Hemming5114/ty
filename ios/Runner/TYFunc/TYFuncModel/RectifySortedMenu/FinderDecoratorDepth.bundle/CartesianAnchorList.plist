@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitvaluebound</key>
+	<string>discardedInteractor</string>
+	<key>customizedPolyfill</key>
+	<string>parallelChart</string>
+	<key>impactFrequency</key>
+	<string>disparateSegue</string>
+	<key>oldProcessor</key>
+	<string>lostReliability</string>
+	<key>resilienceDirection</key>
+	<string>objectright</string>
+	<key>respectiverow</key>
+	<string>channelsOrientation</string>
+	<key>serializecontroller</key>
+	<string>shouldrebuildstep</string>
+	<key>serializeduration</key>
+	<string>delicateconsumer</string>
+	<key>shouldAttachSizedBox</key>
+	<string>smallcallbackoffset</string>
+	<key>statefulIntegration</key>
+	<string>resilientComponent</string>
+</dict>
+</plist>

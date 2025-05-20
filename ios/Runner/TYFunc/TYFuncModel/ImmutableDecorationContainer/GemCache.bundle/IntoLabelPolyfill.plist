@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidththeme</key>
+	<string>animatedGrayscale</string>
+	<key>discardedResilience</key>
+	<string>shouldUnbindCheckbox</string>
+	<key>disparateMobile</key>
+	<string>observetitle</string>
+	<key>implementanimatedcontainer</key>
+	<string>canSkipColumn</string>
+	<key>inactiveTolerance</key>
+	<string>buildMaterial</string>
+	<key>sizedensity</key>
+	<string>persistentThroughput</string>
+	<key>storagevisitordensity</key>
+	<string>escalatedimension</string>
+	<key>validateflex</key>
+	<string>mountedNavigation</string>
+</dict>
+</plist>

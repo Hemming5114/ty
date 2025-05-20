@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerEvaluation</key>
+	<string>canPublishTangent</string>
+	<key>denseBrush</key>
+	<string>quitcontroller</string>
+	<key>paddingmementomode</key>
+	<string>shouldProcessFuture</string>
+	<key>smartDispatcher</key>
+	<string>smallOverlay</string>
+	<key>tensorscroll</key>
+	<string>densePlayback</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedScheduler</key>
+	<string>disposeOptimizer</string>
+	<key>diversifiedGridView</key>
+	<string>shouldStartNavigation</string>
+	<key>elasticReliability</key>
+	<string>interactiveMethod</string>
+	<key>nextTaxonomy</key>
+	<string>lastGrayscale</string>
+	<key>primaryMovement</key>
+	<string>taxonomyAppearance</string>
+	<key>shouldSubscribeHero</key>
+	<string>latencyTheme</string>
+	<key>shouldUnbindClipper</key>
+	<string>pinchableService</string>
+	<key>tickerTension</key>
+	<string>tabbarVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateMesh</key>
+	<string>statelessPositioned</string>
+	<key>respectiveIcon</key>
+	<string>restartscale</string>
+	<key>shouldFinishStoryboard</key>
+	<string>offsetWidget</string>
+	<key>shouldUnmountedKernel</key>
+	<string>inheritedMenu</string>
+	<key>shoulddisconnectsemantics</key>
+	<string>ismusic</string>
+</dict>
+</plist>

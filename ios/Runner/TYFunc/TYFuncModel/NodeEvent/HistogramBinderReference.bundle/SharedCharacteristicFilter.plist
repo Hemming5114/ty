@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentresource</key>
+	<string>buttonValue</string>
+	<key>pivotalGram</key>
+	<string>currentPoint</string>
+	<key>shouldMountSlider</key>
+	<string>parallelCaption</string>
+	<key>singletontaxonomy</key>
+	<string>boxVariable</string>
+	<key>statelesswidget</key>
+	<string>currentpositioned</string>
+</dict>
+</plist>

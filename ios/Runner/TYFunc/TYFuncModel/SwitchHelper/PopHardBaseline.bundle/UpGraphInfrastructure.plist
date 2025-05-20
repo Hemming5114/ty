@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterAppearance</key>
+	<string>unsortedGate</string>
+	<key>customizedCallback</key>
+	<string>themeDelay</string>
+	<key>extensiontheme</key>
+	<string>intuitiveCycle</string>
+	<key>resolverSkewY</key>
+	<string>canListenFragment</string>
+	<key>subpixelLeft</key>
+	<string>sophisticatedanimator</string>
+</dict>
+</plist>

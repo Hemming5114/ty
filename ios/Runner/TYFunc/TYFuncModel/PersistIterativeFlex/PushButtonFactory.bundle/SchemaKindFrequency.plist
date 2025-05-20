@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSearcher</key>
+	<string>canFetchCosine</string>
+	<key>desktopAnalogy</key>
+	<string>shouldLoadCompletion</string>
+	<key>keyAlpha</key>
+	<string>tensorSlider</string>
+	<key>largeChannel</key>
+	<string>awaitSpeed</string>
+	<key>shouldStopKernel</key>
+	<string>comprehensiveSound</string>
+	<key>textBottom</key>
+	<string>shouldSubscribeTabView</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMenu</key>
+	<string>canEmitPlate</string>
+	<key>adaptiveRouter</key>
+	<string>rowtiershade</string>
+	<key>backwardSplitter</key>
+	<string>multiPolyfill</string>
+	<key>intermediateListener</key>
+	<string>subtleConfiguration</string>
+	<key>logEdge</key>
+	<string>composablestoryboard</string>
+	<key>responsiveEquipment</key>
+	<string>robustAnalogy</string>
+	<key>semanticstoragestate</key>
+	<string>composableReducer</string>
+	<key>shouldHandleGate</key>
+	<string>smallCallback</string>
+	<key>symmetricShape</key>
+	<string>tensorchecklist</string>
+</dict>
+</plist>

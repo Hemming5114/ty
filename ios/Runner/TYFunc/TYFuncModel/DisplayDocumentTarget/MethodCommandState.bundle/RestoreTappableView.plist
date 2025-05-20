@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFilter</key>
+	<string>interpolationPlatform</string>
+	<key>adaptivePopup</key>
+	<string>bindcallback</string>
+	<key>basicChannel</key>
+	<string>localEntity</string>
+	<key>declarativeError</key>
+	<string>nibForce</string>
+	<key>ephemeralElement</key>
+	<string>renderCustomPaint</string>
+	<key>particlescale</key>
+	<string>permanentMerger</string>
+	<key>prevFlex</key>
+	<string>skipAspectRatio</string>
+	<key>shouldDismissScale</key>
+	<string>similarAllocator</string>
+	<key>shouldreplaceprotocol</key>
+	<string>materialCard</string>
+	<key>startanimatedcontainer</key>
+	<string>backwardMetrics</string>
+</dict>
+</plist>

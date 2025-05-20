@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeButton</key>
+	<string>encodeObserver</string>
+	<key>composablePageView</key>
+	<string>resourceStatus</string>
+	<key>giftLocation</key>
+	<string>skipdecoration</string>
+	<key>masterprogressbar</key>
+	<string>shouldPresentAperture</string>
+	<key>shouldEmitSession</key>
+	<string>gestureFlyweight</string>
+</dict>
+</plist>

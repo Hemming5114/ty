@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolvegridview</key>
+	<string>regulateMenu</string>
+	<key>subscriberInset</key>
+	<string>previewanimator</string>
+	<key>viewskewy</key>
+	<string>scrollableOffset</string>
+	<key>webGraph</key>
+	<string>shouldFormatOverlay</string>
+</dict>
+</plist>

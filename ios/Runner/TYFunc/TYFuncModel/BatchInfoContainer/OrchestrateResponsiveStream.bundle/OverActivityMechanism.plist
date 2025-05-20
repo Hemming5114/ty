@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalPopup</key>
+	<string>requestCallback</string>
+	<key>configurationOffset</key>
+	<string>combinerAppearance</string>
+	<key>diversifiedProvider</key>
+	<string>shouldUnmountedIcon</string>
+	<key>showfeature</key>
+	<string>canShowCatalyst</string>
+	<key>uniqueCanvas</key>
+	<string>hardMusic</string>
+</dict>
+</plist>

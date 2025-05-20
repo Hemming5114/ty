@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobilegroup</key>
+	<string>storyboardBehavior</string>
+	<key>navigationTag</key>
+	<string>seamlessLatency</string>
+	<key>sharedTexture</key>
+	<string>selectedcatalyst</string>
+	<key>sliderFormat</key>
+	<string>routeProvider</string>
+	<key>sortedWrapper</key>
+	<string>interactiveSize</string>
+	<key>subscribesubpixel</key>
+	<string>findManager</string>
+	<key>textOrigin</key>
+	<string>canCacheChecklist</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infrastructureLeft</key>
+	<string>sceneHue</string>
+	<key>mapPressure</key>
+	<string>explicitrouter</string>
+	<key>noderotation</key>
+	<string>concurrentflexcenter</string>
+	<key>positionMomentum</key>
+	<string>prismaticArchitecture</string>
+	<key>profilevariablebrightness</key>
+	<string>resilientElement</string>
+	<key>repositoryStyle</key>
+	<string>shouldResumeButton</string>
+	<key>scrolltask</key>
+	<string>keyDescriptor</string>
+	<key>shouldEncodeIndicator</key>
+	<string>shouldRebuildMonster</string>
+	<key>shouldTransformTool</key>
+	<string>canFormatSign</string>
+</dict>
+</plist>

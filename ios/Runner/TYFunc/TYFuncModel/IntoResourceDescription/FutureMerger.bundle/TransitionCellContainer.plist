@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertSkewY</key>
+	<string>registerHandler</string>
+	<key>registerbase</key>
+	<string>gridRotation</string>
+	<key>shouldPopContainer</key>
+	<string>geometricconstraintstyle</string>
+	<key>subpixelDistance</key>
+	<string>mobileMatrix</string>
+	<key>visibleMetrics</key>
+	<string>alertHead</string>
+</dict>
+</plist>

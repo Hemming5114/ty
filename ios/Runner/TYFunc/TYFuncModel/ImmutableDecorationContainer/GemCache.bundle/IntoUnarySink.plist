@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedChecklist</key>
+	<string>roleJob</string>
+	<key>constantHue</key>
+	<string>musicOpacity</string>
+	<key>hashstrength</key>
+	<string>pickerRate</string>
+	<key>locatedecoration</key>
+	<string>shouldAttachMargin</string>
+	<key>ondelegatetap</key>
+	<string>canPopPositioned</string>
+	<key>opaquepainter</key>
+	<string>canResumeVariant</string>
+	<key>responseoperationalignment</key>
+	<string>popNode</string>
+</dict>
+</plist>

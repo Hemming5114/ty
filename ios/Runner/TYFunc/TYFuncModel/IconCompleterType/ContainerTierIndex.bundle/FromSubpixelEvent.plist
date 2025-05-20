@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorstorage</key>
+	<string>canCancelNorm</string>
+	<key>flexzone</key>
+	<string>labelsingletoninteraction</string>
+	<key>shouldUpdatePriority</key>
+	<string>statelessAppearance</string>
+	<key>statelessCapacities</key>
+	<string>annotatetask</string>
+	<key>textureFeedback</key>
+	<string>canMountedSegue</string>
+	<key>timerHead</key>
+	<string>configureSlider</string>
+</dict>
+</plist>

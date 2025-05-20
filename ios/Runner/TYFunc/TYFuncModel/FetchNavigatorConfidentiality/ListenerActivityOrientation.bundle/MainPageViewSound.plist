@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectdirection</key>
+	<string>defaultalert</string>
+	<key>consultativeCheckbox</key>
+	<string>readButton</string>
+	<key>elasticSchema</key>
+	<string>dimensioncolor</string>
+	<key>interactiveAnalogy</key>
+	<string>shouldTransformCursor</string>
+	<key>modelIndex</key>
+	<string>sharedText</string>
+	<key>newestaspect</key>
+	<string>unsortedZone</string>
+	<key>protectedMonster</key>
+	<string>requiredtable</string>
+	<key>shouldSubscribeBoxShadow</key>
+	<string>synchronizeBuilder</string>
+	<key>subtleCustomPaint</key>
+	<string>sineposition</string>
+	<key>ternaryorlevel</key>
+	<string>formatLocation</string>
+</dict>
+</plist>

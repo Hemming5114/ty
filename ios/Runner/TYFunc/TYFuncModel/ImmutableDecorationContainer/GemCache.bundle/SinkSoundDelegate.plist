@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTaxonomy</key>
+	<string>smallPlate</string>
+	<key>delegatetaskkind</key>
+	<string>combinestream</string>
+	<key>hierarchicalSingleton</key>
+	<string>usecasePhase</string>
+	<key>materialGrid</key>
+	<string>trainProfile</string>
+	<key>particlenearlayer</key>
+	<string>crudeAlpha</string>
+	<key>resultForce</key>
+	<string>navigatorComposite</string>
+	<key>shouldSubscribeKernel</key>
+	<string>standaloneDisclaimer</string>
+	<key>soundAlignment</key>
+	<string>trainPromise</string>
+	<key>statedistinction</key>
+	<string>shouldRouteColumn</string>
+	<key>statefulMargin</key>
+	<string>requiredUseCase</string>
+</dict>
+</plist>

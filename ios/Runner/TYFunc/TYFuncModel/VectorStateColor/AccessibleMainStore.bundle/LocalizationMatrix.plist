@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEquipment</key>
+	<string>replicaOrigin</string>
+	<key>radiusconsumption</key>
+	<string>fillInjection</string>
+	<key>respectivegroupfrequency</key>
+	<string>primaryLoss</string>
+	<key>shouldpaintduration</key>
+	<string>draggableEvaluation</string>
+	<key>uniqueWorkflow</key>
+	<string>typicalTable</string>
+	<key>widgetuntilstate</key>
+	<string>shouldShowSemantics</string>
+</dict>
+</plist>

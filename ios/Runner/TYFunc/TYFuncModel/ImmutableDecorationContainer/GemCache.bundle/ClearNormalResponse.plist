@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedisolatevisible</key>
+	<string>shouldLayoutSegment</string>
+	<key>dynamicGesture</key>
+	<string>resourceForce</string>
+	<key>globalSound</key>
+	<string>equalBloc</string>
+	<key>largeCube</key>
+	<string>serviceFlags</string>
+	<key>observerhandler</key>
+	<string>sequentialQueue</string>
+	<key>overlayPadding</key>
+	<string>singleStatus</string>
+	<key>shouldResumeTabBar</key>
+	<string>floatCallback</string>
+</dict>
+</plist>

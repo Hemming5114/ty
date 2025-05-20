@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesuntilproxy</key>
+	<string>replicateFrame</string>
+	<key>createprogressbar</key>
+	<string>timelineMode</string>
+	<key>crucialThread</key>
+	<string>ephemeralprovider</string>
+	<key>hardInteger</key>
+	<string>statefulInfrastructure</string>
+	<key>shouldDisconnectModal</key>
+	<string>shouldconnectsymbol</string>
+	<key>shouldEncodeChannels</key>
+	<string>hyperbolicInteger</string>
+	<key>singleIndicator</key>
+	<string>accessoryScale</string>
+	<key>textfielddispatcher</key>
+	<string>mobileOperation</string>
+	<key>usecasephaseposition</key>
+	<string>encapsulateclipper</string>
+</dict>
+</plist>

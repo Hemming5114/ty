@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>copyconfiguration</key>
+	<string>crucialMedia</string>
+	<key>crucialScalability</key>
+	<string>immutableSingleton</string>
+	<key>delegateDelay</key>
+	<string>localSensor</string>
+	<key>dissociateaction</key>
+	<string>compositionalInjection</string>
+	<key>equalizationFormat</key>
+	<string>shouldUnbindOverlay</string>
+	<key>listenerflyweighttransparency</key>
+	<string>scrollablePainter</string>
+	<key>mobilePadding</key>
+	<string>activatedButton</string>
+	<key>nextgraph</key>
+	<string>hierarchicalCube</string>
+	<key>streamTheme</key>
+	<string>instructionfactory</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatevector</key>
+	<string>gemVelocity</string>
+	<key>capsulePressure</key>
+	<string>concurrentLabel</string>
+	<key>columnShape</key>
+	<string>methodagainstnumber</string>
+	<key>elementSize</key>
+	<string>interactiveMonster</string>
+	<key>previewstyle</key>
+	<string>tensorPositioned</string>
+	<key>remediationCenter</key>
+	<string>singleInteractor</string>
+	<key>spritepolyfill</key>
+	<string>shouldcontinuenotifier</string>
+</dict>
+</plist>

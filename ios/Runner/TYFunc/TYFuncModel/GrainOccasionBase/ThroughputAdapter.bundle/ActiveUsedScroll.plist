@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderShade</key>
+	<string>shouldNotifyMatrix</string>
+	<key>directlyItem</key>
+	<string>significantGestureDetector</string>
+	<key>intermediateStep</key>
+	<string>creatorVelocity</string>
+	<key>parallelGestureDetector</key>
+	<string>triggerVisibility</string>
+	<key>reducerTint</key>
+	<string>elasticEfficiency</string>
+	<key>unsortedEquivalent</key>
+	<string>detachTween</string>
+</dict>
+</plist>

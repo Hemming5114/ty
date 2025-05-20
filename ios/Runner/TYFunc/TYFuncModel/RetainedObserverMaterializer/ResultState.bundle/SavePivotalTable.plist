@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeblocorientation</key>
+	<string>persistentTheme</string>
+	<key>distinctionMargin</key>
+	<string>mutableReceiver</string>
+	<key>inheritedPopup</key>
+	<string>progressbaroperationopacity</string>
+	<key>navigationMargin</key>
+	<string>relationalmovement</string>
+	<key>persistentWidget</key>
+	<string>tweentint</string>
+	<key>shouldFetchCursor</key>
+	<string>shouldloadcharacter</string>
+	<key>subsequentModule</key>
+	<string>itemName</string>
+</dict>
+</plist>

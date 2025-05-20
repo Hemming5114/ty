@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleElement</key>
+	<string>utilOrigin</string>
+	<key>inheritedPainter</key>
+	<string>diffableGate</string>
+	<key>remediationCenter</key>
+	<string>canvasForm</string>
+	<key>semanticGrid</key>
+	<string>canDisposeCoordinator</string>
+	<key>shouldlayouttangent</key>
+	<string>canSetStateProfile</string>
+	<key>shouldtraincell</key>
+	<string>staticCapsule</string>
+	<key>spineBottom</key>
+	<string>prepareIcon</string>
+	<key>storyboardKind</key>
+	<string>multiChannels</string>
+</dict>
+</plist>

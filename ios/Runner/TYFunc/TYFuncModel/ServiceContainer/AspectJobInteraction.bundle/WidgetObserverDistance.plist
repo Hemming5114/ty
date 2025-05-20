@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderbridgeresponse</key>
+	<string>cyclehead</string>
+	<key>columnbrightness</key>
+	<string>permanentRadio</string>
+	<key>imperativeExpanded</key>
+	<string>euclideanFlex</string>
+	<key>nodeValidation</key>
+	<string>keyTernary</string>
+	<key>shouldObserveBorder</key>
+	<string>shouldFormatCube</string>
+</dict>
+</plist>

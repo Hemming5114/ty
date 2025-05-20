@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoFeedback</key>
+	<string>animationDensity</string>
+	<key>iterativeProcessor</key>
+	<string>customconvolutionleft</string>
+	<key>newestFinder</key>
+	<string>gridviewEdge</string>
+	<key>resilientlistener</key>
+	<string>menuTension</string>
+	<key>startsink</key>
+	<string>animateanimatedcontainer</string>
+</dict>
+</plist>

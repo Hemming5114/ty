@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackColor</key>
+	<string>generateCubit</string>
+	<key>composableKernel</key>
+	<string>stackShape</string>
+	<key>confidentialityType</key>
+	<string>invisibleoverlayorigin</string>
+	<key>documentState</key>
+	<string>shouldRestartColumn</string>
+	<key>opaquePriority</key>
+	<string>baseScope</string>
+	<key>shouldhandleswift</key>
+	<string>symmetricDisclaimer</string>
+	<key>sustainableDispatcher</key>
+	<string>metadatashape</string>
+</dict>
+</plist>

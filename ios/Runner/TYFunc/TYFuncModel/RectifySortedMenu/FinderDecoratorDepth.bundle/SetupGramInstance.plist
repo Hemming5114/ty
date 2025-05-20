@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSkirt</key>
+	<string>shouldYieldCapacities</string>
+	<key>draggableIntensity</key>
+	<string>rectBehavior</string>
+	<key>fixedLabel</key>
+	<string>displayableActivity</string>
+	<key>lostAnalyzer</key>
+	<string>mobileStorage</string>
+	<key>mountedtangent</key>
+	<string>ignoredprecisionstatus</string>
+	<key>screenscheduler</key>
+	<string>keyChooser</string>
+	<key>semanticRichText</key>
+	<string>interactiveStream</string>
+	<key>shouldCacheStream</key>
+	<string>displayHandler</string>
+</dict>
+</plist>

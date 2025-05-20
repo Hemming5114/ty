@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGraph</key>
+	<string>cycleStatus</string>
+	<key>customConvolution</key>
+	<string>statelessConfiguration</string>
+	<key>oncontractionchanged</key>
+	<string>unactivatedrecursion</string>
+	<key>permutationPosition</key>
+	<string>shouldContinuePromise</string>
+	<key>storeactiontail</key>
+	<string>sinkformbrightness</string>
+</dict>
+</plist>

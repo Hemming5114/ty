@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserEdge</key>
+	<string>disparateSize</string>
+	<key>dedicatedTabBar</key>
+	<string>factoryName</string>
+	<key>fusedcapsuletype</key>
+	<string>expandedaboutscope</string>
+	<key>retainedObserver</key>
+	<string>interactivePlate</string>
+	<key>segueDensity</key>
+	<string>shouldSerializeBitrate</string>
+	<key>shouldPushScreen</key>
+	<string>webStream</string>
+</dict>
+</plist>

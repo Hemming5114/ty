@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clippershapesaturation</key>
+	<string>ephemeralTween</string>
+	<key>disabledGroup</key>
+	<string>compositionOffset</string>
+	<key>hastool</key>
+	<string>parallelLinker</string>
+	<key>inactiveAxis</key>
+	<string>certificatestructurescale</string>
+	<key>shouldrestartrow</key>
+	<string>inkwellVisitor</string>
+	<key>subsequentRenderer</key>
+	<string>bindEntropy</string>
+	<key>tangentcallback</key>
+	<string>scrollableSorter</string>
+</dict>
+</plist>

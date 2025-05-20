@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastStyle</key>
+	<string>customAnchor</string>
+	<key>hardChannel</key>
+	<string>gramMethod</string>
+	<key>hasPet</key>
+	<string>crucialsymbol</string>
+	<key>lazyAction</key>
+	<string>imperativeSemantics</string>
+	<key>navigatorDensity</key>
+	<string>canRenderEqualization</string>
+	<key>secondPainter</key>
+	<string>animatedEntity</string>
+	<key>statefulLifecycle</key>
+	<string>widgetinterval</string>
+</dict>
+</plist>

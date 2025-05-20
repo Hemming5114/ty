@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsPosition</key>
+	<string>adjustcoordinator</string>
+	<key>easyvolume</key>
+	<string>normalTolerance</string>
+	<key>imperativetabview</key>
+	<string>shouldContinueEqualization</string>
+	<key>progressbarInterval</key>
+	<string>numericalColor</string>
+	<key>shouldStopTernary</key>
+	<string>sophisticatedAudio</string>
+	<key>viewkindrate</key>
+	<string>notifyMultiplication</string>
+</dict>
+</plist>

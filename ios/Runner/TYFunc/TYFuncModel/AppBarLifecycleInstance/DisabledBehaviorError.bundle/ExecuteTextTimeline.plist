@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitEvaluation</key>
+	<string>skipCheckbox</string>
+	<key>globalButton</key>
+	<string>graphicEnvironment</string>
+	<key>interactiveArithmetic</key>
+	<string>popupContext</string>
+	<key>layertempledelay</key>
+	<string>shouldDeserializeStream</string>
+	<key>shouldUnmountedButton</key>
+	<string>notificationScale</string>
+	<key>triggerResponse</key>
+	<string>mobileListView</string>
+</dict>
+</plist>

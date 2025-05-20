@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitypublisher</key>
+	<string>canCancelRole</string>
+	<key>originalPromise</key>
+	<string>characteroutsidesingleton</string>
+	<key>priorityValidation</key>
+	<string>bindProvider</string>
+	<key>retrievedelegate</key>
+	<string>shouldhandledropdownbutton</string>
+	<key>stepForce</key>
+	<string>resourceAction</string>
+	<key>subpixelorigin</key>
+	<string>agileinterfacetag</string>
+	<key>usedProvider</key>
+	<string>curveSaturation</string>
+</dict>
+</plist>

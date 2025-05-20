@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentgradient</key>
+	<string>canCancelAlpha</string>
+	<key>delicatefragment</key>
+	<string>seekRepository</string>
+	<key>intermediateInterface</key>
+	<string>shouldTransitionVariant</string>
+	<key>persistentAsset</key>
+	<string>permissiveTouch</string>
+	<key>reactiveDocument</key>
+	<string>consumptionMargin</string>
+	<key>receiveframe</key>
+	<string>canPauseGestureDetector</string>
+	<key>rowresult</key>
+	<string>originalPositioned</string>
+	<key>statelessfrequency</key>
+	<string>encodeView</string>
+	<key>traversalRate</key>
+	<string>strengthSpacing</string>
+</dict>
+</plist>

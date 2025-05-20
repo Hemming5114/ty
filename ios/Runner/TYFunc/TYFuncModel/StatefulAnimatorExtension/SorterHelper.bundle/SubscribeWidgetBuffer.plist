@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitInjection</key>
+	<string>opaqueContrast</string>
+	<key>fusedContrast</key>
+	<string>skinShade</string>
+	<key>histogramTail</key>
+	<string>delegateShade</string>
+	<key>inflatealignment</key>
+	<string>resolverTransparency</string>
+	<key>mainSkirt</key>
+	<string>escalateLayer</string>
+	<key>numericalchallenge</key>
+	<string>routeComposition</string>
+	<key>transitionLocation</key>
+	<string>reusableAmortization</string>
+</dict>
+</plist>

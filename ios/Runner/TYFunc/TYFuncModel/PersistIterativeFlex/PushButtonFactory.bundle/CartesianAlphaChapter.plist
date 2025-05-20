@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSample</key>
+	<string>limitDependency</string>
+	<key>blocthanshape</key>
+	<string>awaitorcontext</string>
+	<key>commonchartcolor</key>
+	<string>popupanimator</string>
+	<key>scrollablePublisher</key>
+	<string>statefulMapper</string>
+	<key>shouldConnectSlider</key>
+	<string>titletop</string>
+	<key>shouldUnmountSwift</key>
+	<string>canEndMedia</string>
+	<key>unregisteralpha</key>
+	<string>selectorShape</string>
+</dict>
+</plist>

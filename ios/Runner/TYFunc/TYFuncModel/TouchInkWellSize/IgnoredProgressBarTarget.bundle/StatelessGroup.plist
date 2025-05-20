@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeProfile</key>
+	<string>delicateVolume</string>
+	<key>managerIndex</key>
+	<string>shouldRenderBatch</string>
+	<key>persistentResolver</key>
+	<string>customizedSensor</string>
+	<key>shouldPaintTernary</key>
+	<string>statelessAppBar</string>
+	<key>shouldPauseSpecifier</key>
+	<string>publicZone</string>
+	<key>shouldStopGridView</key>
+	<string>modelParameter</string>
+	<key>workflowLocation</key>
+	<string>dispatcherTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclelocation</key>
+	<string>dropoutState</string>
+	<key>defaultDrawer</key>
+	<string>normCount</string>
+	<key>hardSound</key>
+	<string>fetchBorder</string>
+	<key>shouldHandleObserver</key>
+	<string>rotateStream</string>
+	<key>stacktweak</key>
+	<string>bufferPressure</string>
+	<key>uniquechart</key>
+	<string>compositionalgate</string>
+</dict>
+</plist>

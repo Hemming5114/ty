@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorDelay</key>
+	<string>directAppBar</string>
+	<key>defaultChannels</key>
+	<string>nodeSaturation</string>
+	<key>defaulttabview</key>
+	<string>profileResponse</string>
+	<key>layoutcontrast</key>
+	<string>consumerChain</string>
+	<key>retainedSubpixel</key>
+	<string>smallImage</string>
+	<key>sharedDuration</key>
+	<string>canRebuildCanvas</string>
+	<key>shouldupdatesine</key>
+	<string>canPublishObserver</string>
+	<key>temporaryIsolate</key>
+	<string>agileDrawer</string>
+	<key>timelineOpacity</key>
+	<string>tappableManager</string>
+</dict>
+</plist>

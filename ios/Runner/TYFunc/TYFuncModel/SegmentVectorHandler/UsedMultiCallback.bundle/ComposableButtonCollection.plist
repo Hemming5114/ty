@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCompleter</key>
+	<string>publishBloc</string>
+	<key>filterOrientation</key>
+	<string>otherTitle</string>
+	<key>imageRotation</key>
+	<string>notificationSize</string>
+	<key>intermediateAccessory</key>
+	<string>shouldYieldScroll</string>
+	<key>seamlessDelegate</key>
+	<string>columnCommand</string>
+	<key>shouldStopEntropy</key>
+	<string>canCancelImage</string>
+</dict>
+</plist>

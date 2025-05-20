@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedObserver</key>
+	<string>brushdecoratorcoord</string>
+	<key>ignoredImpression</key>
+	<string>mobileNavigation</string>
+	<key>informationStyle</key>
+	<string>cubeType</string>
+	<key>originalResolver</key>
+	<string>hierarchicalSorter</string>
+	<key>permissivePet</key>
+	<string>canFormatCube</string>
+	<key>pinchableThreshold</key>
+	<string>descriptorType</string>
+	<key>shouldDisposeCard</key>
+	<string>immutableCanvas</string>
+	<key>statefulcurve</key>
+	<string>setupSize</string>
+	<key>taskresilience</key>
+	<string>maintainCubit</string>
+</dict>
+</plist>

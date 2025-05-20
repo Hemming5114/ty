@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralModel</key>
+	<string>promiseTension</string>
+	<key>mediocrePoint</key>
+	<string>shouldFetchAlert</string>
+	<key>observerbrightness</key>
+	<string>associatedResilience</string>
+	<key>screenCenter</key>
+	<string>normDepth</string>
+	<key>shouldDispatchDialogs</key>
+	<string>canProcessMediaQuery</string>
+	<key>shouldLayoutCycle</key>
+	<string>agileThread</string>
+	<key>singletonSpeed</key>
+	<string>shouldUnmountRemainder</string>
+	<key>usedColor</key>
+	<string>constraintprototypemargin</string>
+</dict>
+</plist>

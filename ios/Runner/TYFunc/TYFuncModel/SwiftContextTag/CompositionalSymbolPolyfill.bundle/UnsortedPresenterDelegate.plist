@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOperation</key>
+	<string>checkboxStage</string>
+	<key>agilesinkkind</key>
+	<string>notifyMonster</string>
+	<key>secondBaseline</key>
+	<string>intermediateAppBar</string>
+	<key>uniformCapacity</key>
+	<string>persistentIsolate</string>
+</dict>
+</plist>

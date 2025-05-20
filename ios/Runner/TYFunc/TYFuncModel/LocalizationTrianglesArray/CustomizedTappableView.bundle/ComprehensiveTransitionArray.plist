@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencyForce</key>
+	<string>signBrightness</string>
+	<key>finishcontainer</key>
+	<string>asynchronousComposition</string>
+	<key>loaderPressure</key>
+	<string>routerDepth</string>
+	<key>mainSine</key>
+	<string>techniqueMediator</string>
+	<key>pinchableAscent</key>
+	<string>shouldUnmountSignature</string>
+	<key>shouldStopMusic</key>
+	<string>rapidSizedBox</string>
+	<key>shouldTransitionConstraint</key>
+	<string>shouldAnimatePlayback</string>
+</dict>
+</plist>

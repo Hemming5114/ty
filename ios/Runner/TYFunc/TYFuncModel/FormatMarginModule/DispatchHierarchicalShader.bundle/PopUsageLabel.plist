@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionHue</key>
+	<string>maintainState</string>
+	<key>euclideanDependency</key>
+	<string>multiIntensity</string>
+	<key>geometricmarginleft</key>
+	<string>stopInkWell</string>
+	<key>largechapter</key>
+	<string>shouldResumeFuture</string>
+	<key>managerValidation</key>
+	<string>pivotalMusic</string>
+	<key>semanticTabView</key>
+	<string>mechanismdistance</string>
+	<key>subscriptionTheme</key>
+	<string>triggerMomentum</string>
+	<key>tentativeAppearance</key>
+	<string>unsortedSize</string>
+	<key>unactivatedAnimatedContainer</key>
+	<string>unbindstate</string>
+</dict>
+</plist>

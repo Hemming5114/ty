@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindhero</key>
+	<string>sustainableCreator</string>
+	<key>interfaceInset</key>
+	<string>enabledBrush</string>
+	<key>rectvariablepadding</key>
+	<string>smallCubit</string>
+	<key>shouldPersistBloc</key>
+	<string>immutableSelector</string>
+	<key>shouldSerializeTable</key>
+	<string>canLoadProject</string>
+	<key>sustainableAction</key>
+	<string>canRebuildPet</string>
+</dict>
+</plist>

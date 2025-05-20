@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticreplica</key>
+	<string>swiftinset</string>
+	<key>colorCount</key>
+	<string>disabledProfile</string>
+	<key>convolutionmethodformat</key>
+	<string>factoryDuration</string>
+	<key>gategraph</key>
+	<string>fusedService</string>
+	<key>immediateGestureDetector</key>
+	<string>descriptorscale</string>
+	<key>mapOrientation</key>
+	<string>restartPlayback</string>
+	<key>otherbrush</key>
+	<string>skipAppBar</string>
+	<key>remaindervisitordirection</key>
+	<string>canNavigateTabBar</string>
+	<key>shouldValidateConstraint</key>
+	<string>resizeResolver</string>
+	<key>shouldValidateDuration</key>
+	<string>destroyScene</string>
+</dict>
+</plist>

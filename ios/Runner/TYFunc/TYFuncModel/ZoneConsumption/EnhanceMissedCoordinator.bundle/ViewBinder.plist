@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constrainttheme</key>
+	<string>subscriberState</string>
+	<key>easyalignment</key>
+	<string>upgradeInteractor</string>
+	<key>gramjobborder</key>
+	<string>shouldSubscribeCustomPaint</string>
+	<key>graphasobserver</key>
+	<string>respondRouter</string>
+	<key>histogramInset</key>
+	<string>canSetStateStream</string>
+	<key>immutableMedia</key>
+	<string>swiftStrategy</string>
+	<key>intuitivemerger</key>
+	<string>spritehandler</string>
+	<key>lostTask</key>
+	<string>tappableEvaluation</string>
+	<key>routeintensity</key>
+	<string>canEncodeMaterial</string>
+	<key>streamvideo</key>
+	<string>yieldIcon</string>
+</dict>
+</plist>

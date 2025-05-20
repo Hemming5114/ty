@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentLeft</key>
+	<string>keyCube</string>
+	<key>mechanismMargin</key>
+	<string>resizableMetadata</string>
+	<key>repositoryLocation</key>
+	<string>similarProvider</string>
+	<key>shouldLoadComposition</key>
+	<string>activatedOption</string>
+	<key>shouldReplaceMaster</key>
+	<string>startNotification</string>
+	<key>singleReliability</key>
+	<string>globalHero</string>
+	<key>soundedge</key>
+	<string>compareRepository</string>
+	<key>switchOrigin</key>
+	<string>activeLogarithm</string>
+	<key>uniquePicker</key>
+	<string>cupertinoTimer</string>
+</dict>
+</plist>

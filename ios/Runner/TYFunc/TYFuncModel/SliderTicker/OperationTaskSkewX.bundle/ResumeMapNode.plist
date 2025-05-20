@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSegment</key>
+	<string>lostEfficiency</string>
+	<key>explicitconsumption</key>
+	<string>dialogsWork</string>
+	<key>labelintegration</key>
+	<string>lastDependency</string>
+	<key>otherTweak</key>
+	<string>responseshapeopacity</string>
+	<key>permutationname</key>
+	<string>transposeStore</string>
+	<key>shouldContinueExtension</key>
+	<string>shouldLayoutUsage</string>
+</dict>
+</plist>

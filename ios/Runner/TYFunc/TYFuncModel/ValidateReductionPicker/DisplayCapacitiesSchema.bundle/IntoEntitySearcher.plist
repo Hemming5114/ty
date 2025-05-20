@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactermode</key>
+	<string>zoneCycle</string>
+	<key>crudeProvision</key>
+	<string>arithmeticPressure</string>
+	<key>displayablepositioned</key>
+	<string>disabledMusic</string>
+	<key>endtimer</key>
+	<string>accelerateTween</string>
+	<key>rendererResponse</key>
+	<string>streamProtocol</string>
+	<key>selectedGram</key>
+	<string>selectedDuration</string>
+	<key>shouldEncodeMaterial</key>
+	<string>deserializeAction</string>
+	<key>singletonRotation</key>
+	<string>latencyduration</string>
+	<key>stateColor</key>
+	<string>exponentLocation</string>
+	<key>subscriptionbottom</key>
+	<string>canFetchMargin</string>
+</dict>
+</plist>

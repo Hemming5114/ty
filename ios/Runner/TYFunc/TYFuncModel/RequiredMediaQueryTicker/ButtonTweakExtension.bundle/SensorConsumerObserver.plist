@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinointerface</key>
+	<string>shouldNotifyReference</string>
+	<key>hierarchicalImage</key>
+	<string>completerkindshape</string>
+	<key>primaryThreshold</key>
+	<string>transpileSprite</string>
+	<key>scrollscale</key>
+	<string>zonedistance</string>
+	<key>temporaryGraphic</key>
+	<string>reliabilityInteraction</string>
+	<key>usecaseamonglayer</key>
+	<string>inactiveInfo</string>
+</dict>
+</plist>

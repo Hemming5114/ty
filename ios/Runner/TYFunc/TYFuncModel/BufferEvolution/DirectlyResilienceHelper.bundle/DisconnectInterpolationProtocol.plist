@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnimation</key>
+	<string>diffableStore</string>
+	<key>imperativeMedia</key>
+	<string>shouldYieldMonster</string>
+	<key>overlayResponse</key>
+	<string>permanentdurationcontrast</string>
+	<key>shouldShowRow</key>
+	<string>searchRect</string>
+	<key>substantialLifecycle</key>
+	<string>shouldRestartView</string>
+</dict>
+</plist>

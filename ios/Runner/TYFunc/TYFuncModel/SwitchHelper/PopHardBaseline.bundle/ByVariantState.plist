@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanspecifier</key>
+	<string>intensitySaturation</string>
+	<key>currentLoss</key>
+	<string>appendconvolution</string>
+	<key>dedicatedFeature</key>
+	<string>attachTabBar</string>
+	<key>publicCapacity</key>
+	<string>mapNumber</string>
+	<key>shouldValidateCycle</key>
+	<string>notificationShade</string>
+	<key>topicorvisitor</key>
+	<string>dialogsBottom</string>
+</dict>
+</plist>

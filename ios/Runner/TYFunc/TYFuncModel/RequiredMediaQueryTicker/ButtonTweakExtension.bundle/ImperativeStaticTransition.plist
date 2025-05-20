@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivescaffold</key>
+	<string>shouldRenderDecoration</string>
+	<key>analogyAppearance</key>
+	<string>minTextField</string>
+	<key>catalystfactory</key>
+	<string>menuBrightness</string>
+	<key>staticReceiver</key>
+	<string>shouldUnmountedDelegate</string>
+</dict>
+</plist>

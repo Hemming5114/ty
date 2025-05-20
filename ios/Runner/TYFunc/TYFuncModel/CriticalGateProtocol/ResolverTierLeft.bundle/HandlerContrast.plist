@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScene</key>
+	<string>hierarchicalTitle</string>
+	<key>dedicatedTweak</key>
+	<string>holdSprite</string>
+	<key>disabledScreen</key>
+	<string>priorComponent</string>
+	<key>originalPromise</key>
+	<string>configurationsorter</string>
+	<key>shouldPersistProvider</key>
+	<string>resourceSpacing</string>
+	<key>spritefeedback</key>
+	<string>paintTangent</string>
+	<key>streaminfrastructure</key>
+	<string>destroyEntity</string>
+</dict>
+</plist>

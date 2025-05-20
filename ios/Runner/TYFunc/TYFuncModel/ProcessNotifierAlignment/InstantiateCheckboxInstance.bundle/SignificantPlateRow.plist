@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAnalogy</key>
+	<string>providerresponse</string>
+	<key>concurrentactivity</key>
+	<string>bitrateworksize</string>
+	<key>consumerAppearance</key>
+	<string>factorylocation</string>
+	<key>descriptorstructureleft</key>
+	<string>euclideanChannels</string>
+	<key>durationsound</key>
+	<string>secondTransition</string>
+	<key>ignoredwidget</key>
+	<string>subtlegrainpadding</string>
+	<key>intuitiveRouter</key>
+	<string>minSensor</string>
+	<key>richtextloader</key>
+	<string>resizablegift</string>
+	<key>sharedCoordinator</key>
+	<string>sharedAwait</string>
+</dict>
+</plist>

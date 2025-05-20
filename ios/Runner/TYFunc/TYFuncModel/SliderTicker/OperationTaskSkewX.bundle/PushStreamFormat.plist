@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerreducer</key>
+	<string>shouldattachsymbol</string>
+	<key>bundleconstraint</key>
+	<string>keyModulus</string>
+	<key>interactiveConsumer</key>
+	<string>normalTexture</string>
+	<key>kernelAlignment</key>
+	<string>capsulescopetransparency</string>
+	<key>parallelFilter</key>
+	<string>textDirection</string>
+	<key>smartThreshold</key>
+	<string>functionalPageView</string>
+	<key>spotfrequency</key>
+	<string>statelessGrayscale</string>
+</dict>
+</plist>

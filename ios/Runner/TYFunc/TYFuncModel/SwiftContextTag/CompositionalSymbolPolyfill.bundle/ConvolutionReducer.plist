@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSpacing</key>
+	<string>textPrototype</string>
+	<key>customizedCard</key>
+	<string>cubePrototype</string>
+	<key>customizedProfile</key>
+	<string>scheduleNode</string>
+	<key>exceptionpainter</key>
+	<string>colorBorder</string>
+	<key>serviceSaturation</key>
+	<string>resourcetopic</string>
+	<key>shouldemitgem</key>
+	<string>tensorchannelcoord</string>
+	<key>statefulLinker</key>
+	<string>diversifiedJoiner</string>
+	<key>transformerscroller</key>
+	<string>giftStatus</string>
+</dict>
+</plist>

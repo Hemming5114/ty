@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentEvolution</key>
+	<string>tensorselector</string>
+	<key>largeBitrate</key>
+	<string>baselineContext</string>
+	<key>lostOverlay</key>
+	<string>activatedMargin</string>
+	<key>memberamongprocess</key>
+	<string>kernelCycle</string>
+	<key>reactiveCharacter</key>
+	<string>relationaltopic</string>
+	<key>shouldValidateSign</key>
+	<string>allocatorValue</string>
+</dict>
+</plist>

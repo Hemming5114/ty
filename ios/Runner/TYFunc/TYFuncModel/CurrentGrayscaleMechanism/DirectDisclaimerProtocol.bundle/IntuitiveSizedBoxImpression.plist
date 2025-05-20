@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxhue</key>
+	<string>temporaryOptimizer</string>
+	<key>entitytransformer</key>
+	<string>sensorroute</string>
+	<key>framestylepadding</key>
+	<string>shouldSetStatePositioned</string>
+	<key>saveresult</key>
+	<string>shouldPublishPadding</string>
+</dict>
+</plist>

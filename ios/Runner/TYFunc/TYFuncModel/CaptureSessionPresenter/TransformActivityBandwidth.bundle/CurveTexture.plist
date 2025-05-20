@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProfile</key>
+	<string>statewithprocess</string>
+	<key>fixedSegment</key>
+	<string>baselineInteraction</string>
+	<key>futureinterface</key>
+	<string>animationsincestructure</string>
+	<key>kernelContrast</key>
+	<string>confidentialitySpacing</string>
+	<key>shouldSkipSample</key>
+	<string>shouldInflateSpot</string>
+</dict>
+</plist>

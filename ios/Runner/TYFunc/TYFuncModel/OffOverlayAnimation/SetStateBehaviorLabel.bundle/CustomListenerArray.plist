@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pinchableStoryboard</key>
+	<string>dynamicStatus</string>
+	<key>selectorMargin</key>
+	<string>benchmarkRouter</string>
+	<key>shouldListenGridView</key>
+	<string>trajectoryacceleration</string>
+	<key>subtleEvolution</key>
+	<string>gesturedetectorDuration</string>
+</dict>
+</plist>

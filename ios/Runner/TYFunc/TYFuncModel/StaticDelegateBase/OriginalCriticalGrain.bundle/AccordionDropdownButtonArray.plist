@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartcompositebehavior</key>
+	<string>synchronousPadding</string>
+	<key>ephemeralFlex</key>
+	<string>refactorGrid</string>
+	<key>publishnib</key>
+	<string>normTint</string>
+	<key>semanticIsolate</key>
+	<string>integerSkewY</string>
+	<key>sliderdepth</key>
+	<string>slashCoord</string>
+	<key>storeRight</key>
+	<string>respectiveCatalyst</string>
+</dict>
+</plist>

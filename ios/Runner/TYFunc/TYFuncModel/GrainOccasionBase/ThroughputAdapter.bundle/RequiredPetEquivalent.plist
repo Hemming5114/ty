@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveplatformdensity</key>
+	<string>minView</string>
+	<key>isStateful</key>
+	<string>constantVisibility</string>
+	<key>popupResponse</key>
+	<string>pushOption</string>
+	<key>reusablePosition</key>
+	<string>restartAlpha</string>
+	<key>serviceitem</key>
+	<string>mapMediator</string>
+	<key>shouldNotifyScreen</key>
+	<string>ascentBound</string>
+</dict>
+</plist>

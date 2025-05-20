@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioappearance</key>
+	<string>newestNavigation</string>
+	<key>comprehensivemenu</key>
+	<string>segueVariable</string>
+	<key>discardedNotifier</key>
+	<string>missionbeyondstate</string>
+	<key>mainChannel</key>
+	<string>hardDependency</string>
+	<key>opaqueBox</key>
+	<string>largeGroup</string>
+	<key>respectiveflex</key>
+	<string>easyButton</string>
+	<key>shouldConnectAspect</key>
+	<string>listenManager</string>
+	<key>shouldUpdateNavigator</key>
+	<string>diversifiedAction</string>
+	<key>standaloneReplica</key>
+	<string>widgetevaluation</string>
+	<key>webResource</key>
+	<string>dismissPresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedResolver</key>
+	<string>shouldKeepNotifier</string>
+	<key>concurrentborder</key>
+	<string>missedPosition</string>
+	<key>entityMargin</key>
+	<string>tensorStoryboard</string>
+	<key>euclideanThroughput</key>
+	<string>scenewithoutprocess</string>
+	<key>fragmentOpacity</key>
+	<string>agileSpecifier</string>
+	<key>imagePadding</key>
+	<string>inheritedDecoration</string>
+	<key>prismaticItem</key>
+	<string>protectedProvider</string>
+	<key>shouldHandleStack</key>
+	<string>shouldStreamBuilder</string>
+	<key>shouldRouteCatalyst</key>
+	<string>charactertype</string>
+	<key>standaloneEntropy</key>
+	<string>embedAnimation</string>
+</dict>
+</plist>

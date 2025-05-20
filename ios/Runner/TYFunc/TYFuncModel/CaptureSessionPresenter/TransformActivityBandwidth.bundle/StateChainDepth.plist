@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeColor</key>
+	<string>consumeAction</string>
+	<key>dynamictable</key>
+	<string>normalCertificate</string>
+	<key>ephemeralHandler</key>
+	<string>fetchScreen</string>
+	<key>parallelTheme</key>
+	<string>removeTexture</string>
+	<key>shouldUnbindReference</key>
+	<string>buildWorkflow</string>
+	<key>variantCenter</key>
+	<string>accessibleRemediation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintBound</key>
+	<string>newestTitle</string>
+	<key>masterScale</key>
+	<string>injectionopacity</string>
+	<key>mobiletext</key>
+	<string>resumeReduction</string>
+	<key>pinchableMonster</key>
+	<string>hasprovider</string>
+	<key>priordimensionposition</key>
+	<string>showTransformer</string>
+	<key>rapidbasecolor</key>
+	<string>inactiveDecoration</string>
+	<key>resolverForce</key>
+	<string>dispatcherror</string>
+	<key>retainedchart</key>
+	<string>immutableresolvertension</string>
+	<key>shouldSkipClipper</key>
+	<string>advancedScene</string>
+</dict>
+</plist>

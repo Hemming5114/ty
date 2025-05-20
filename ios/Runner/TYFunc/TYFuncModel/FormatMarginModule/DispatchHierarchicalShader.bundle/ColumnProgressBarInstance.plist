@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthname</key>
+	<string>onscaletap</string>
+	<key>basicRemediation</key>
+	<string>scheduleAllocator</string>
+	<key>bitratecoordinator</key>
+	<string>singleposition</string>
+	<key>promiseduration</key>
+	<string>gesturedetectorRotation</string>
+	<key>rangeCenter</key>
+	<string>shaderopacity</string>
+	<key>slashworkdistance</key>
+	<string>coordinatorCommand</string>
+	<key>tabviewCenter</key>
+	<string>monsterskewx</string>
+	<key>textalignment</key>
+	<string>seamlessDependency</string>
+</dict>
+</plist>

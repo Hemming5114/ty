@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityforfunction</key>
+	<string>buildervalidation</string>
+	<key>iterativeMobile</key>
+	<string>pageviewDecorator</string>
+	<key>offsetBorder</key>
+	<string>navigationFacade</string>
+	<key>opaqueSpecifier</key>
+	<string>singletontolerance</string>
+	<key>resizableResolver</key>
+	<string>bulletresolver</string>
+	<key>rowBrightness</key>
+	<string>concreteparticle</string>
+	<key>shouldPopModal</key>
+	<string>shouldUpdateCapacities</string>
+	<key>storeLeft</key>
+	<string>deserializeCanvas</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryRotation</key>
+	<string>widgetSystem</string>
+	<key>cacheheap</key>
+	<string>optionDensity</string>
+	<key>canvasvelocity</key>
+	<string>substantialCache</string>
+	<key>ignoredStroke</key>
+	<string>shouldAttachCertificate</string>
+	<key>inactivePolyfill</key>
+	<string>switchProcess</string>
+	<key>intermediateRepository</key>
+	<string>lastChooser</string>
+	<key>unactivatedNotifier</key>
+	<string>executeWidget</string>
+</dict>
+</plist>

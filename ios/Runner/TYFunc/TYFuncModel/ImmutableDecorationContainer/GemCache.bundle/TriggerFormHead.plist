@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalClipper</key>
+	<string>canDetachMedia</string>
+	<key>crudeText</key>
+	<string>shouldStreamGesture</string>
+	<key>disabledModulus</key>
+	<string>grainValidation</string>
+	<key>independentExpanded</key>
+	<string>shouldReplaceMaster</string>
+	<key>indicatorduringparam</key>
+	<string>ignoredSample</string>
+	<key>metricsMode</key>
+	<string>subtlePopup</string>
+	<key>resolverconsumption</key>
+	<string>secondTernary</string>
+	<key>screenincludevisitor</key>
+	<string>inactiveThroughput</string>
+</dict>
+</plist>

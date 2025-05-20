@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityshade</key>
+	<string>reflectZone</string>
+	<key>constantMargin</key>
+	<string>segmentTint</string>
+	<key>ignoredEquivalent</key>
+	<string>statefulSearcher</string>
+	<key>missedCupertino</key>
+	<string>canDetachStep</string>
+	<key>oldInfrastructure</key>
+	<string>provisionFrequency</string>
+	<key>persistwidget</key>
+	<string>encodeRect</string>
+	<key>sequentialTask</key>
+	<string>pushsprite</string>
+	<key>shouldBindSymbol</key>
+	<string>integrityStatus</string>
+	<key>shouldUnmountAccessory</key>
+	<string>setstateTask</string>
+</dict>
+</plist>

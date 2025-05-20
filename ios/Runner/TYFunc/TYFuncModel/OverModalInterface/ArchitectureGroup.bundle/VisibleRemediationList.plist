@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAlignment</key>
+	<string>streamPhase</string>
+	<key>discardedSubscription</key>
+	<string>specifyReliability</string>
+	<key>intermediateMediaQuery</key>
+	<string>canSerializeTabBar</string>
+	<key>intuitiveAnalyzer</key>
+	<string>canPublishCoordinator</string>
+	<key>localReliability</key>
+	<string>detailValidation</string>
+	<key>missedRestriction</key>
+	<string>interpolateLayer</string>
+	<key>missioninterpretermargin</key>
+	<string>canListenDuration</string>
+	<key>multiRecursion</key>
+	<string>explicitMend</string>
+	<key>spotfrequency</key>
+	<string>scalePlatform</string>
+	<key>sustainableAxis</key>
+	<string>isolateDelay</string>
+</dict>
+</plist>

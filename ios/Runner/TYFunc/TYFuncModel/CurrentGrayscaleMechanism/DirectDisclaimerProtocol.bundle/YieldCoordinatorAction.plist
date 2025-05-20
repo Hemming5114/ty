@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMediaQuery</key>
+	<string>clusterSkewY</string>
+	<key>hardNotification</key>
+	<string>resetRoute</string>
+	<key>missedEvent</key>
+	<string>routeSlash</string>
+	<key>nativeSlash</key>
+	<string>navigatorPosition</string>
+	<key>positionedpadding</key>
+	<string>canPopGraphic</string>
+	<key>shouldLoadBloc</key>
+	<string>sizedboxobserver</string>
+	<key>synchronousAudio</key>
+	<string>requiredSwitch</string>
+	<key>transformpreview</key>
+	<string>icontiermode</string>
+</dict>
+</plist>

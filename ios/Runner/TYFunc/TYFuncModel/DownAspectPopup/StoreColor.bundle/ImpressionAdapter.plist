@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultmetadata</key>
+	<string>connectPainter</string>
+	<key>entityalignment</key>
+	<string>advancedsubscription</string>
+	<key>requestasscope</key>
+	<string>basicProtocol</string>
+	<key>screenacceleration</key>
+	<string>unsortedSorter</string>
+	<key>shouldRebuildSensor</key>
+	<string>stringifysink</string>
+	<key>traversalDirection</key>
+	<string>compileScene</string>
+</dict>
+</plist>

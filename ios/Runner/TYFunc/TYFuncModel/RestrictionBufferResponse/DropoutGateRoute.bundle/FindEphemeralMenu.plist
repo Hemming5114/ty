@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableResponse</key>
+	<string>canDismissBorder</string>
+	<key>scaffoldright</key>
+	<string>visualizeManager</string>
+	<key>smartAlpha</key>
+	<string>dimensionFormat</string>
+	<key>soundDuration</key>
+	<string>notifierValue</string>
+	<key>unactivatedAnchor</key>
+	<string>emitProjection</string>
+</dict>
+</plist>

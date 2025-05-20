@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imagepernumber</key>
+	<string>nativePlayback</string>
+	<key>intuitiveEquipment</key>
+	<string>originalmissionvisible</string>
+	<key>mediocreExponent</key>
+	<string>routeForm</string>
+	<key>restartanimation</key>
+	<string>activatedDependency</string>
+	<key>shouldPaintFuture</key>
+	<string>shouldStopTable</string>
+	<key>shouldParseInteger</key>
+	<string>seamlessSizedBox</string>
+	<key>shouldsubscribecertificate</key>
+	<string>setupAwait</string>
+</dict>
+</plist>

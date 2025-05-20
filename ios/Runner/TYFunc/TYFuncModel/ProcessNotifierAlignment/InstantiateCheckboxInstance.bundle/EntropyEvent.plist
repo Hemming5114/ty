@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAlignment</key>
+	<string>descriptionValue</string>
+	<key>commonChooser</key>
+	<string>triggerForce</string>
+	<key>defaultExtension</key>
+	<string>expandedKind</string>
+	<key>drawerOpacity</key>
+	<string>opaquePolyfill</string>
+	<key>exponentwithplatform</key>
+	<string>seamlessPresenter</string>
+	<key>permissiveview</key>
+	<string>canTransitionMaterial</string>
+	<key>protectedInjection</key>
+	<string>resizableObject</string>
+	<key>shouldCacheNib</key>
+	<string>deferredlocalizationappearance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedHandler</key>
+	<string>smartComposition</string>
+	<key>ignoredProjection</key>
+	<string>textfieldSkewY</string>
+	<key>liteBuffer</key>
+	<string>transposeInterface</string>
+	<key>numericalView</key>
+	<string>currentObject</string>
+	<key>radiograph</key>
+	<string>granularAnchor</string>
+	<key>shouldUpdateTool</key>
+	<string>canCreateTabBar</string>
+	<key>specifyPopup</key>
+	<string>processSizedBox</string>
+	<key>tensorResult</key>
+	<string>canAnimateFlex</string>
+	<key>tooledge</key>
+	<string>intuitiveMomentum</string>
+</dict>
+</plist>

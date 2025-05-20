@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarymesh</key>
+	<string>modulecenter</string>
+	<key>convertcompleter</key>
+	<string>shouldRestartNavigator</string>
+	<key>crucialEntropy</key>
+	<string>activeGesture</string>
+	<key>delegateexceptlevel</key>
+	<string>shouldDeserializeSkin</string>
+	<key>intermediateInterface</key>
+	<string>menuLevel</string>
+	<key>shouldLayoutCertificate</key>
+	<string>resolverbesidecommand</string>
+	<key>singleParticle</key>
+	<string>smallResponder</string>
+	<key>unaryprocessor</key>
+	<string>denseDelivery</string>
+	<key>unmountedunary</key>
+	<string>cellActivity</string>
+</dict>
+</plist>

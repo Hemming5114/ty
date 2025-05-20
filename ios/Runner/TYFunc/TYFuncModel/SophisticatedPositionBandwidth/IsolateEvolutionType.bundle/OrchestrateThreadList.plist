@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activemap</key>
+	<string>sharedGraph</string>
+	<key>featurebehavior</key>
+	<string>extensionFunction</string>
+	<key>nodeTension</key>
+	<string>borderDelay</string>
+	<key>pivotalTentative</key>
+	<string>standaloneAppBar</string>
+	<key>shoulddispatchshader</key>
+	<string>equivalentScale</string>
+	<key>shouldinflatedimension</key>
+	<string>intermediateentityorientation</string>
+	<key>streamForce</key>
+	<string>disposeEqualization</string>
+</dict>
+</plist>

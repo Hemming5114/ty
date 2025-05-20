@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPressure</key>
+	<string>shouldCancelCustomPaint</string>
+	<key>ascentType</key>
+	<string>statefulMedia</string>
+	<key>disabledSpecifier</key>
+	<string>sizeAcceleration</string>
+	<key>metricsAppearance</key>
+	<string>requestCoordinator</string>
+	<key>resilientUseCase</key>
+	<string>segmentAlignment</string>
+	<key>shouldAttachProtocol</key>
+	<string>clipperInterval</string>
+	<key>slideroccasion</key>
+	<string>mediocreLayer</string>
+	<key>staticCurve</key>
+	<string>canTransformSession</string>
+	<key>storagedecoratorcount</key>
+	<string>deserializeLabel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCharacter</key>
+	<string>modelKind</string>
+	<key>flexibleactiondensity</key>
+	<string>canBindColumn</string>
+	<key>framehead</key>
+	<string>compositionBound</string>
+	<key>liteSlider</key>
+	<string>asynchronousTable</string>
+	<key>sanitizegrain</key>
+	<string>shouldRebuildNib</string>
+	<key>shouldAttachSwitch</key>
+	<string>liteWrapper</string>
+	<key>shouldPaintReference</key>
+	<string>specifyContrast</string>
+	<key>shouldShowRoute</key>
+	<string>shouldEncodeGradient</string>
+	<key>subtleprecisiontop</key>
+	<string>isBloc</string>
+</dict>
+</plist>

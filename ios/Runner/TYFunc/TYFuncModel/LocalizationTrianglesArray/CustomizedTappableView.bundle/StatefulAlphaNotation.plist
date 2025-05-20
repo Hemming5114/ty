@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatemethod</key>
+	<string>inactiveHeap</string>
+	<key>concreteelasticity</key>
+	<string>reusableScroll</string>
+	<key>integerbridgevisibility</key>
+	<string>accordionDescription</string>
+	<key>intermediateTitle</key>
+	<string>tentativeSpacing</string>
+	<key>keyVertex</key>
+	<string>responsivematerial</string>
+	<key>operationcreator</key>
+	<string>entityProxy</string>
+	<key>pinchableMesh</key>
+	<string>visibleConverter</string>
+	<key>responsetweak</key>
+	<string>shoulddispatchpageview</string>
+	<key>statelessSegue</key>
+	<string>shouldTransformFuture</string>
+	<key>stopbutton</key>
+	<string>ephemeralSpot</string>
+</dict>
+</plist>

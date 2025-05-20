@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStatus</key>
+	<string>roleSpeed</string>
+	<key>creatorFlags</key>
+	<string>tabviewShade</string>
+	<key>diffabledescriptorcolor</key>
+	<string>canLayoutMovement</string>
+	<key>hyperbolicContainer</key>
+	<string>themenode</string>
+	<key>lazyScene</key>
+	<string>canListenPriority</string>
+	<key>shouldFetchView</key>
+	<string>alignmentPlatform</string>
+	<key>shouldUnbindGem</key>
+	<string>handlerType</string>
+	<key>webgraph</key>
+	<string>renderPageView</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderstructureinterval</key>
+	<string>pagerFormat</string>
+	<key>diversifiedLoader</key>
+	<string>resetDependency</string>
+	<key>heroscale</key>
+	<string>timerInterval</string>
+	<key>mechanismInteraction</key>
+	<string>introspectpreview</string>
+	<key>popupScale</key>
+	<string>intuitiveDescription</string>
+	<key>radiovisible</key>
+	<string>createPlayback</string>
+	<key>rectmode</key>
+	<string>segmentFlags</string>
+	<key>shouldLoadScroll</key>
+	<string>sophisticatedBorder</string>
+	<key>shouldRebuildSign</key>
+	<string>publisherRight</string>
+	<key>usedScheduler</key>
+	<string>litebulletforce</string>
+</dict>
+</plist>

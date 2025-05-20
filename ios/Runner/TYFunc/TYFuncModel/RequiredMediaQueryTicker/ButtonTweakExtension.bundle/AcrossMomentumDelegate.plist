@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramcount</key>
+	<string>globalloop</string>
+	<key>iterativewrapper</key>
+	<string>offsetRect</string>
+	<key>layoutamongdecorator</key>
+	<string>enabledChallenge</string>
+	<key>methodtaxonomy</key>
+	<string>graphstate</string>
+	<key>relationalContrast</key>
+	<string>shouldListenSegue</string>
+	<key>shouldNavigateNib</key>
+	<string>smallTweak</string>
+</dict>
+</plist>

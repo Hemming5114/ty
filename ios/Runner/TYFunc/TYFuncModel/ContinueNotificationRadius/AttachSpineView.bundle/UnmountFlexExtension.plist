@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canceltask</key>
+	<string>lazyMaster</string>
+	<key>catalystbinder</key>
+	<string>reducestream</string>
+	<key>completershapeindex</key>
+	<string>agileMap</string>
+	<key>contrastCenter</key>
+	<string>checkEvent</string>
+	<key>encodecoordinator</key>
+	<string>canStreamSample</string>
+	<key>newestgraphright</key>
+	<string>asynchronousAppBar</string>
+	<key>publicDimension</key>
+	<string>tickerOffset</string>
+	<key>unaryPadding</key>
+	<string>streamsincecommand</string>
+	<key>visualizerole</key>
+	<string>bufferDepth</string>
+</dict>
+</plist>

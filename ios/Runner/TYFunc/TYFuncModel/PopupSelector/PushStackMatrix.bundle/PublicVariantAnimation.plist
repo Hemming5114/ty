@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorInteraction</key>
+	<string>uniqueentity</string>
+	<key>custompaintTheme</key>
+	<string>declarativesprite</string>
+	<key>shouldConnectObserver</key>
+	<string>comprehensiveScroll</string>
+	<key>statelessoffset</key>
+	<string>sophisticatedInteractor</string>
+	<key>symmetricButton</key>
+	<string>formatContrast</string>
+</dict>
+</plist>

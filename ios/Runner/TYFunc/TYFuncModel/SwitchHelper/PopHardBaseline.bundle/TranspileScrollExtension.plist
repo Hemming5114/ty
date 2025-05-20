@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPadding</key>
+	<string>elasticAnalyzer</string>
+	<key>granularBuilder</key>
+	<string>startLayout</string>
+	<key>reusableNorm</key>
+	<string>exceptiondespitedecorator</string>
+	<key>selectedTabView</key>
+	<string>shouldPresentTabView</string>
+	<key>sophisticatedAlpha</key>
+	<string>captionProcess</string>
+</dict>
+</plist>

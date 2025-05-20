@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>herostatus</key>
+	<string>usecaseProcess</string>
+	<key>publicRow</key>
+	<string>equipmentPlatform</string>
+	<key>streamlinemember</key>
+	<string>canPauseInteger</string>
+	<key>usedMesh</key>
+	<string>multiUtil</string>
+</dict>
+</plist>

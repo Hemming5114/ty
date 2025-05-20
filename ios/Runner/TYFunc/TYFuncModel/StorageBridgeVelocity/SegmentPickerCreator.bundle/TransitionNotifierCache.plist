@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyactivityposition</key>
+	<string>imperativeHandler</string>
+	<key>geometricRange</key>
+	<string>mapcoord</string>
+	<key>holdsign</key>
+	<string>scrollableListView</string>
+	<key>isswitch</key>
+	<string>publisherTheme</string>
+	<key>movementSaturation</key>
+	<string>reducePosition</string>
+	<key>sophisticatednode</key>
+	<string>cupertinoresponse</string>
+</dict>
+</plist>

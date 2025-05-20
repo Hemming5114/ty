@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDrawer</key>
+	<string>toleranceDistance</string>
+	<key>captionprocessresponse</key>
+	<string>canStartGift</string>
+	<key>platerotation</key>
+	<string>capsulestatus</string>
+	<key>routerefficiency</key>
+	<string>swiftMediator</string>
+	<key>segueCount</key>
+	<string>consumeSink</string>
+	<key>sophisticatedSignature</key>
+	<string>quitTimer</string>
+</dict>
+</plist>

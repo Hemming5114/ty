@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMechanism</key>
+	<string>baselinematerializer</string>
+	<key>shouldEncodeRichText</key>
+	<string>sharedLogarithm</string>
+	<key>shouldKeepSizedBox</key>
+	<string>parseGate</string>
+	<key>wrapperFrequency</key>
+	<string>shouldRebuildComposition</string>
+</dict>
+</plist>

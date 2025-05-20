@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorCenter</key>
+	<string>canBuildTask</string>
+	<key>backwardSegment</key>
+	<string>missedBox</string>
+	<key>finderSkewX</key>
+	<string>plateOpacity</string>
+	<key>mediocreEquivalent</key>
+	<string>parallelMusic</string>
+	<key>navigatorcolor</key>
+	<string>startCheckbox</string>
+	<key>oldChooser</key>
+	<string>calculateResponse</string>
+	<key>shouldanimatecollection</key>
+	<string>mobilehandler</string>
+</dict>
+</plist>

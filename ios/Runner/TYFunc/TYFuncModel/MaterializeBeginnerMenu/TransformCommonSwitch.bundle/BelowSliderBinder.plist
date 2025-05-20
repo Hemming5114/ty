@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalthroughput</key>
+	<string>entityDecorator</string>
+	<key>invisibleScroll</key>
+	<string>shouldSkipSkin</string>
+	<key>linkerBound</key>
+	<string>typicaleventvisibility</string>
+	<key>nextDelegate</key>
+	<string>attachComposition</string>
+	<key>selectedMedia</key>
+	<string>sophisticatedtransition</string>
+	<key>shouldConnectMargin</key>
+	<string>zonedelay</string>
+	<key>shouldEmitEntropy</key>
+	<string>autoResponder</string>
+	<key>statelessCluster</key>
+	<string>shouldShowSegue</string>
+	<key>sustainableResponder</key>
+	<string>shouldFormatClipper</string>
+</dict>
+</plist>

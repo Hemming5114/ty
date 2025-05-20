@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCaption</key>
+	<string>blocParam</string>
+	<key>dynamicClipper</key>
+	<string>sliderhash</string>
+	<key>nativeSplitter</key>
+	<string>borderSize</string>
+	<key>nodetaxonomy</key>
+	<string>setstatepadding</string>
+	<key>rapidroleedge</key>
+	<string>secondIntegrity</string>
+	<key>shouldDeserializeImage</key>
+	<string>logarithmStatus</string>
+	<key>tweenFormat</key>
+	<string>loopTail</string>
+	<key>visibleconsumer</key>
+	<string>crudeReliability</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSkin</key>
+	<string>materializerAppearance</string>
+	<key>originalSchema</key>
+	<string>activatedChart</string>
+	<key>parallelcurve</key>
+	<string>futurecharacteristic</string>
+	<key>requiredVideo</key>
+	<string>matrixversusactivity</string>
+	<key>resolverlikeproxy</key>
+	<string>pinchableError</string>
+	<key>shouldKeepStateless</key>
+	<string>topicaboutactivity</string>
+	<key>subscribeutil</key>
+	<string>dedicatedslash</string>
+	<key>timelinePosition</key>
+	<string>dialogsParam</string>
+</dict>
+</plist>

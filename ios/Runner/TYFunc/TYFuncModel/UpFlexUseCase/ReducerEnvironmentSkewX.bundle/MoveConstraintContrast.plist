@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionphasetheme</key>
+	<string>injectTopic</string>
+	<key>nextTernary</key>
+	<string>injectlog</string>
+	<key>paintskin</key>
+	<string>syncManager</string>
+	<key>permissiveMesh</key>
+	<string>shouldProcessTable</string>
+	<key>richtextflags</key>
+	<string>storagebeyondtier</string>
+	<key>selectorDuration</key>
+	<string>quaternionDirection</string>
+	<key>usecasevisitormargin</key>
+	<string>shouldInflateProfile</string>
+</dict>
+</plist>

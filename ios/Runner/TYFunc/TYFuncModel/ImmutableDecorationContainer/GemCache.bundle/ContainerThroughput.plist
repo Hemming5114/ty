@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInstruction</key>
+	<string>nodeStatus</string>
+	<key>chartvisible</key>
+	<string>onusagechanged</string>
+	<key>detectorMargin</key>
+	<string>shouldTransformStack</string>
+	<key>draggablechannel</key>
+	<string>navigatorwithobserver</string>
+	<key>mediocreListener</key>
+	<string>replacemovement</string>
+	<key>nativePageView</key>
+	<string>instructionOperation</string>
+	<key>subtleRadius</key>
+	<string>diversifiedDispatcher</string>
+	<key>transitionName</key>
+	<string>multiTimeline</string>
+</dict>
+</plist>

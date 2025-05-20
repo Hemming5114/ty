@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationcenter</key>
+	<string>shouldStartCapsule</string>
+	<key>localMapper</key>
+	<string>canHandleProject</string>
+	<key>resizableskin</key>
+	<string>significantCaption</string>
+	<key>retainedDuration</key>
+	<string>advancedaxisalignment</string>
+	<key>semanticquaternion</key>
+	<string>canCreateCoordinator</string>
+	<key>sineRate</key>
+	<string>intensityFunction</string>
+	<key>stepBehavior</key>
+	<string>crudeDuration</string>
+</dict>
+</plist>

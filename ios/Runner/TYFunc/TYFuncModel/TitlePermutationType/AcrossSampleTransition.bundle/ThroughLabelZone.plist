@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalanalyzer</key>
+	<string>hierarchicalMap</string>
+	<key>concreteGate</key>
+	<string>loopCommand</string>
+	<key>easymediaqueryresponse</key>
+	<string>rebuildNotifier</string>
+	<key>itemappearance</key>
+	<string>restoreTimer</string>
+	<key>offsetAlignment</key>
+	<string>thresholdcoord</string>
+	<key>shouldObserveDropdownButton</key>
+	<string>reduceDependency</string>
+	<key>shouldPrepareAnimation</key>
+	<string>shouldProcessScreen</string>
+	<key>shouldYieldChallenge</key>
+	<string>canLayoutTangent</string>
+	<key>throughputDelay</key>
+	<string>shouldCacheSegment</string>
+</dict>
+</plist>

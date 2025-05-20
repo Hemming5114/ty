@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>makeduration</key>
+	<string>mobileGate</string>
+	<key>respectivestack</key>
+	<string>composableRestriction</string>
+	<key>shouldSerializeMargin</key>
+	<string>chartContrast</string>
+	<key>toolColor</key>
+	<string>missedView</string>
+</dict>
+</plist>

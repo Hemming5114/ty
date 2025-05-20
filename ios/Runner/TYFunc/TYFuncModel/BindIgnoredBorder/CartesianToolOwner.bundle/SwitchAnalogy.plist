@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedinterpreterappearance</key>
+	<string>drawRouter</string>
+	<key>fragmentsDirection</key>
+	<string>layoutState</string>
+	<key>greatGestureDetector</key>
+	<string>shearDescription</string>
+	<key>responsiveGate</key>
+	<string>orchestratemovement</string>
+	<key>similarlabel</key>
+	<string>usageRotation</string>
+	<key>standaloneZone</key>
+	<string>mapperCoord</string>
+	<key>threadSpacing</key>
+	<string>transformeropacity</string>
+	<key>unsortedPriority</key>
+	<string>infrastructureLocation</string>
+</dict>
+</plist>

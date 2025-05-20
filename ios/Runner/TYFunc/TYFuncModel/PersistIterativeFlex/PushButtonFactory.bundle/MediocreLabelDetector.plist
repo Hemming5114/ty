@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystinterval</key>
+	<string>annotateTransition</string>
+	<key>directTaxonomy</key>
+	<string>shouldYieldAxis</string>
+	<key>disposestream</key>
+	<string>resizableThread</string>
+	<key>futureacceleration</key>
+	<string>crudeManager</string>
+	<key>persistentMetadata</key>
+	<string>decodetextfield</string>
+	<key>respectiveLog</key>
+	<string>ondelegatetap</string>
+	<key>shouldPresentSegue</key>
+	<string>undertakeTexture</string>
+	<key>substantialDialogs</key>
+	<string>createSwitch</string>
+	<key>titleborder</key>
+	<string>deploycache</string>
+</dict>
+</plist>

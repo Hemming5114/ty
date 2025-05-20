@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableCoordinator</key>
+	<string>wrapperLocation</string>
+	<key>extensionBrightness</key>
+	<string>routecurve</string>
+	<key>gemCoord</key>
+	<string>shouldCancelCaption</string>
+	<key>requiredDuration</key>
+	<string>pointfeedback</string>
+	<key>seamlessIcon</key>
+	<string>shouldTrainTernary</string>
+	<key>shouldTransformLoss</key>
+	<string>elasticContraction</string>
+	<key>shouldTransitionAlert</key>
+	<string>resumeShader</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionchapter</key>
+	<string>responseBottom</string>
+	<key>awaitshape</key>
+	<string>prismaticSine</string>
+	<key>globalCurve</key>
+	<string>prismaticoffsetbound</string>
+	<key>granularPermutation</key>
+	<string>executeDecoration</string>
+	<key>resilientSize</key>
+	<string>amortizationKind</string>
+	<key>shouldEmitProvider</key>
+	<string>handleNode</string>
+	<key>shouldcachespot</key>
+	<string>pivotalStore</string>
+	<key>synchronousPager</key>
+	<string>rapidCupertino</string>
+</dict>
+</plist>

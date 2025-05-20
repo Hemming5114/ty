@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPopup</key>
+	<string>awaitnearkind</string>
+	<key>enabledStoryboard</key>
+	<string>grainInteraction</string>
+	<key>momentumduration</key>
+	<string>customlabelstate</string>
+	<key>nodeInterval</key>
+	<string>appendfactory</string>
+	<key>protectedStack</key>
+	<string>mobileternaryvisible</string>
+	<key>resolverelement</key>
+	<string>aspectInterval</string>
+	<key>shouldLayoutShader</key>
+	<string>shouldpushborder</string>
+</dict>
+</plist>

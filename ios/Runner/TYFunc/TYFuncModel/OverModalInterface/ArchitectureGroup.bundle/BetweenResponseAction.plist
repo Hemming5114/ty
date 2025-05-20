@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelequipment</key>
+	<string>graphMode</string>
+	<key>customizedSensor</key>
+	<string>encapsulateConstraint</string>
+	<key>desktopConfiguration</key>
+	<string>reactiveNavigator</string>
+	<key>disabledRange</key>
+	<string>scrollreducer</string>
+	<key>geometricWidget</key>
+	<string>disabledPainter</string>
+	<key>greatcupertino</key>
+	<string>directlyLocalization</string>
+	<key>promiseBottom</key>
+	<string>annotateIntensity</string>
+	<key>reactiveCluster</key>
+	<string>statefulMomentum</string>
+	<key>singleDescriptor</key>
+	<string>amortizationMode</string>
+</dict>
+</plist>

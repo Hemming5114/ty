@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousConnector</key>
+	<string>shouldDetachSample</string>
+	<key>checkboxversusform</key>
+	<string>lastSensor</string>
+	<key>currentbitrate</key>
+	<string>requiredStateless</string>
+	<key>draggableLifecycle</key>
+	<string>mobileInfo</string>
+	<key>shouldResumeProject</key>
+	<string>enumerateRoute</string>
+	<key>significantOptimizer</key>
+	<string>brushDirection</string>
+</dict>
+</plist>

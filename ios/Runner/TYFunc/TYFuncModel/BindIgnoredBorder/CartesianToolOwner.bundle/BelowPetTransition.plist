@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableEntropy</key>
+	<string>loaderOrientation</string>
+	<key>roleOpacity</key>
+	<string>greatSymbol</string>
+	<key>shouldPrepareGridView</key>
+	<string>materialLoader</string>
+	<key>shouldPushSubpixel</key>
+	<string>labelSize</string>
+</dict>
+</plist>

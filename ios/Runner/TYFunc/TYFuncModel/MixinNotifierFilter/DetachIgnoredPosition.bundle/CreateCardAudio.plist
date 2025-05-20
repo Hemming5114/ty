@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentsplitter</key>
+	<string>shouldCancelSizedBox</string>
+	<key>decorationenvironmentinteraction</key>
+	<string>canSaveChannels</string>
+	<key>margininteraction</key>
+	<string>resetConstraint</string>
+	<key>prevresulttension</key>
+	<string>canShowSkirt</string>
+	<key>relationalData</key>
+	<string>alignmentconstant</string>
+	<key>shouldCreateModal</key>
+	<string>decorationviapattern</string>
+	<key>uniformIcon</key>
+	<string>pinchableAnimatedContainer</string>
+</dict>
+</plist>

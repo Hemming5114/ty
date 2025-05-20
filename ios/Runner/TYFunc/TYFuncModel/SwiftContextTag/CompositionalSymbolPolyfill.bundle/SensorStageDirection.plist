@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveNotation</key>
+	<string>dropdownbuttonBorder</string>
+	<key>flexibleindicatororientation</key>
+	<string>pushInstruction</string>
+	<key>hardAnalogy</key>
+	<string>customCallback</string>
+	<key>interpolationcluster</key>
+	<string>canSkipDocument</string>
+	<key>liteimagedelay</key>
+	<string>offsetPressure</string>
+	<key>mediaqueryKind</key>
+	<string>margincenter</string>
+</dict>
+</plist>

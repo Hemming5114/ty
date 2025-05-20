@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorbridgeskewx</key>
+	<string>heroBridge</string>
+	<key>borderRight</key>
+	<string>shouldParseEffect</string>
+	<key>completionForce</key>
+	<string>adjusthandler</string>
+	<key>functionalRectangle</key>
+	<string>resumeAppBar</string>
+	<key>primaryPolyfill</key>
+	<string>completedStoryboard</string>
+	<key>subsequentGestureDetector</key>
+	<string>clipperBridge</string>
+</dict>
+</plist>

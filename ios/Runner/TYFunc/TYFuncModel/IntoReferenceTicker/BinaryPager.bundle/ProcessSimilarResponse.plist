@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultLocalization</key>
+	<string>extensionskewx</string>
+	<key>ignoredPresenter</key>
+	<string>fragmentChain</string>
+	<key>priorityInterval</key>
+	<string>consumptionInterval</string>
+	<key>traversalOpacity</key>
+	<string>otherHandler</string>
+</dict>
+</plist>

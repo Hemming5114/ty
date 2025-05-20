@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawertaxonomy</key>
+	<string>defaultnavigation</string>
+	<key>eagertaxonomy</key>
+	<string>observeProjection</string>
+	<key>isolateCoord</key>
+	<string>skinOffset</string>
+	<key>semanticAccessory</key>
+	<string>boxWork</string>
+	<key>statelessSign</key>
+	<string>diffableGroup</string>
+	<key>unactivatedGift</key>
+	<string>actionBorder</string>
+</dict>
+</plist>

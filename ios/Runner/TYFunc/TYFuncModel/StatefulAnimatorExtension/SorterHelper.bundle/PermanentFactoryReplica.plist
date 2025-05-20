@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityscale</key>
+	<string>materialmediaquery</string>
+	<key>cubevector</key>
+	<string>sustainableTexture</string>
+	<key>entityparameterresponse</key>
+	<string>deserializeDropdownButton</string>
+	<key>integritybrightness</key>
+	<string>scalabilityOrientation</string>
+	<key>multiAsset</key>
+	<string>persistentframe</string>
+	<key>opaqueCapacities</key>
+	<string>serializeBuilder</string>
+	<key>respectiveEquivalent</key>
+	<string>deactivateText</string>
+	<key>shouldRouteProvider</key>
+	<string>canInflateTabView</string>
+	<key>shouldRouteSegment</key>
+	<string>shouldInflateMultiplication</string>
+</dict>
+</plist>

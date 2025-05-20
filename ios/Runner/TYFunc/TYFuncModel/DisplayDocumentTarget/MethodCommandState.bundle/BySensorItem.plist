@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMechanism</key>
+	<string>mutableTicker</string>
+	<key>gemLocation</key>
+	<string>allocateRadius</string>
+	<key>mainEfficiency</key>
+	<string>symmetricProjection</string>
+	<key>newestmenuforce</key>
+	<string>basicFuture</string>
+	<key>prismaticGram</key>
+	<string>sustainableProcessor</string>
+	<key>shouldtraininteger</key>
+	<string>shouldPushProject</string>
+	<key>tensorRecursion</key>
+	<string>fixedInformation</string>
+</dict>
+</plist>

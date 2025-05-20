@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaSaturation</key>
+	<string>logForm</string>
+	<key>beginnerContrast</key>
+	<string>concatenateTimer</string>
+	<key>chapterOrigin</key>
+	<string>fragmentTag</string>
+	<key>displayableRemainder</key>
+	<string>transposeSink</string>
+	<key>impressionSkewY</key>
+	<string>hyperbolicContrast</string>
+	<key>inheritedReliability</key>
+	<string>unactivatedSample</string>
+	<key>onresourcetap</key>
+	<string>fixedEquivalent</string>
+	<key>secondRenderer</key>
+	<string>persistentAlignment</string>
+	<key>subtleRange</key>
+	<string>stepOrigin</string>
+</dict>
+</plist>

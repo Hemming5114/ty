@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionsize</key>
+	<string>instantiatePreview</string>
+	<key>baselineIndex</key>
+	<string>flexibleCursor</string>
+	<key>hierarchicalContraction</key>
+	<string>presentermementofeedback</string>
+	<key>infoFlags</key>
+	<string>shouldroutestoryboard</string>
+	<key>modelvisitorstatus</key>
+	<string>dependencyCount</string>
+	<key>rendercontainer</key>
+	<string>minSpine</string>
+	<key>smartTouch</key>
+	<string>immutableReduction</string>
+	<key>standaloneKernel</key>
+	<string>deferredCursor</string>
+	<key>titleInset</key>
+	<string>canKeepSession</string>
+	<key>transformercombiner</key>
+	<string>descriptionStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDispatcher</key>
+	<string>pageviewVelocity</string>
+	<key>catalystFeedback</key>
+	<string>requiredMaterializer</string>
+	<key>featurefinder</key>
+	<string>shouldHandleProject</string>
+	<key>futuredistance</key>
+	<string>canRebuildSemantics</string>
+	<key>imperativeEffect</key>
+	<string>normslider</string>
+	<key>lostAnimator</key>
+	<string>finishModal</string>
+	<key>projectionarchitecture</key>
+	<string>deferredSizedBox</string>
+</dict>
+</plist>

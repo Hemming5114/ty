@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocdecoratoralignment</key>
+	<string>delicateTriangles</string>
+	<key>creatorSkewX</key>
+	<string>minAspect</string>
+	<key>directlyTransition</key>
+	<string>nativeReplica</string>
+	<key>elasticIndicator</key>
+	<string>resilienceSkewY</string>
+	<key>temporaryTimeline</key>
+	<string>combineRect</string>
+	<key>unmountskirt</key>
+	<string>usageRight</string>
+</dict>
+</plist>

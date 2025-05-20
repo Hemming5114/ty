@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivenorm</key>
+	<string>eagerJoiner</string>
+	<key>associatedConsumer</key>
+	<string>skinAction</string>
+	<key>discoverlayout</key>
+	<string>strokeForce</string>
+	<key>dissociateroute</key>
+	<string>binaryDistance</string>
+	<key>gemRight</key>
+	<string>singletonprototyperate</string>
+	<key>granularConvolution</key>
+	<string>transformarithmetic</string>
+	<key>invisibleTimer</key>
+	<string>typicalCapacities</string>
+	<key>mediaqueryresponse</key>
+	<string>inheritedInfrastructure</string>
+	<key>metadatavideo</key>
+	<string>hierarchicalScroll</string>
+	<key>responsiveInjection</key>
+	<string>eagerEffect</string>
+</dict>
+</plist>

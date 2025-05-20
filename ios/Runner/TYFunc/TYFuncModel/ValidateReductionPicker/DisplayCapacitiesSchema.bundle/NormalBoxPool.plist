@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOffset</key>
+	<string>grainPattern</string>
+	<key>batchdetail</key>
+	<string>secondSubscription</string>
+	<key>equipmentTension</key>
+	<string>brushlistener</string>
+	<key>flexibleLayer</key>
+	<string>componentcolor</string>
+	<key>ignoredCursor</key>
+	<string>canPresentSpine</string>
+	<key>iterativeSelector</key>
+	<string>ascentInset</string>
+	<key>permanentProgressBar</key>
+	<string>shouldFinishCosine</string>
+	<key>remainderinparameter</key>
+	<string>validateMember</string>
+	<key>shouldpopmonster</key>
+	<string>cupertinoStage</string>
+</dict>
+</plist>

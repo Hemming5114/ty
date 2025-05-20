@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionUtil</key>
+	<string>mountnavigator</string>
+	<key>alertCoord</key>
+	<string>canBuildEquipment</string>
+	<key>contractionframe</key>
+	<string>arithmeticTabView</string>
+	<key>hasduration</key>
+	<string>triggerDistance</string>
+	<key>progressbarDuration</key>
+	<string>shouldShowTable</string>
+	<key>samplepadding</key>
+	<string>gradientProxy</string>
+	<key>scaleState</key>
+	<string>disabledSchema</string>
+	<key>shouldPushDrawer</key>
+	<string>canMountedEqualization</string>
+	<key>statelesslabel</key>
+	<string>immediateSession</string>
+</dict>
+</plist>

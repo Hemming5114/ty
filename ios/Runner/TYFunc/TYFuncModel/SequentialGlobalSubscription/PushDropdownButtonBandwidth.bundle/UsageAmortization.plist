@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBehavior</key>
+	<string>taskDuration</string>
+	<key>deferredcubit</key>
+	<string>swiftValidation</string>
+	<key>difficultplatedistance</key>
+	<string>globalTolerance</string>
+	<key>flexibledependency</key>
+	<string>relationalIsolate</string>
+	<key>nativeInterpolation</key>
+	<string>canResumePrecision</string>
+	<key>originalNotifier</key>
+	<string>shouldloadbitrate</string>
+	<key>permanentItem</key>
+	<string>receiveTicker</string>
+	<key>schedulerName</key>
+	<string>batchFacade</string>
+	<key>singletonremediation</key>
+	<string>specifyLocalization</string>
+</dict>
+</plist>

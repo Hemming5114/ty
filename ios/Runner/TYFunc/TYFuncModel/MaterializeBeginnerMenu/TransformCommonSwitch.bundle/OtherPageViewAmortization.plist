@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeWorkflow</key>
+	<string>composableStateful</string>
+	<key>mapoccasion</key>
+	<string>mobileSkin</string>
+	<key>onthreadchanged</key>
+	<string>backwardDimension</string>
+	<key>sequentialTheme</key>
+	<string>canTransitionRemainder</string>
+</dict>
+</plist>

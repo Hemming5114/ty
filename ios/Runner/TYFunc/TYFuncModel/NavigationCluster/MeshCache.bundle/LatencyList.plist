@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSign</key>
+	<string>deserializeTabBar</string>
+	<key>globalProtocol</key>
+	<string>resetLayer</string>
+	<key>navigatoracceleration</key>
+	<string>progressbarActivity</string>
+	<key>originalState</key>
+	<string>shouldParseVariant</string>
+	<key>permissiveSemantics</key>
+	<string>showRow</string>
+	<key>responsiveCluster</key>
+	<string>projectionMemento</string>
+	<key>shouldDisconnectMediaQuery</key>
+	<string>subscribePriority</string>
+	<key>shouldPaintRow</key>
+	<string>shouldCancelKernel</string>
+	<key>shouldParseSegment</key>
+	<string>profileService</string>
+	<key>shouldStreamDuration</key>
+	<string>buttonvisible</string>
+</dict>
+</plist>

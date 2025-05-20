@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBaseline</key>
+	<string>keyInteraction</string>
+	<key>materialModule</key>
+	<string>toolVisible</string>
+	<key>oldDescent</key>
+	<string>crucialPlayback</string>
+	<key>parallelEquipment</key>
+	<string>ignoredMovement</string>
+	<key>responsivePopup</key>
+	<string>finishreducer</string>
+</dict>
+</plist>

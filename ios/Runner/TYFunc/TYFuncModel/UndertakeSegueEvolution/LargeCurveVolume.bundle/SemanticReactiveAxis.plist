@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCluster</key>
+	<string>shouldRestartEffect</string>
+	<key>autoRadio</key>
+	<string>singleStoryboard</string>
+	<key>concreteDescriptor</key>
+	<string>invisibleAudio</string>
+	<key>featureKind</key>
+	<string>connectScene</string>
+	<key>firstTransformer</key>
+	<string>sharedDropdownButton</string>
+	<key>giftSkewX</key>
+	<string>desktopSubscription</string>
+	<key>graphicbufferacceleration</key>
+	<string>smallConfidentiality</string>
+	<key>hardscalability</key>
+	<string>currentSpot</string>
+	<key>materialCapsule</key>
+	<string>createnorm</string>
+</dict>
+</plist>

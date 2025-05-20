@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelresult</key>
+	<string>granularPromise</string>
+	<key>dedicatedRemediation</key>
+	<string>navigationParameter</string>
+	<key>gifttint</key>
+	<string>symmetricStateful</string>
+	<key>metadataAppearance</key>
+	<string>acceleratetopic</string>
+	<key>normIndex</key>
+	<string>shouldValidateView</string>
+	<key>selectedchallenge</key>
+	<string>primaryCustomPaint</string>
+	<key>shouldAnimateMediaQuery</key>
+	<string>restorelistview</string>
+	<key>utilRotation</key>
+	<string>materialInteraction</string>
+</dict>
+</plist>

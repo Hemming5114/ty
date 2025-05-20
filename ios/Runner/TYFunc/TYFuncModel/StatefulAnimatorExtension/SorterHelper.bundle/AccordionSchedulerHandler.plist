@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBinary</key>
+	<string>nodeShape</string>
+	<key>boxshadowwrapper</key>
+	<string>canAnimateDocument</string>
+	<key>consumebutton</key>
+	<string>temporaryChapter</string>
+	<key>mutableOption</key>
+	<string>compositionFrequency</string>
+	<key>navigationscroller</key>
+	<string>hardGestureDetector</string>
+	<key>shouldShowTouch</key>
+	<string>directlyArithmetic</string>
+	<key>tensorAccessory</key>
+	<string>partitionLayout</string>
+	<key>ternaryAcceleration</key>
+	<string>channelsEnvironment</string>
+</dict>
+</plist>

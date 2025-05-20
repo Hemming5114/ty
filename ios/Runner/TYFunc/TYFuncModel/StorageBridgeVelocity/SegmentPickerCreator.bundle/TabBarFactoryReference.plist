@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyName</key>
+	<string>profileFlyweight</string>
+	<key>capsuleTheme</key>
+	<string>shouldTrainCoordinator</string>
+	<key>cartesianAnimation</key>
+	<string>shouldYieldSubpixel</string>
+	<key>colorCenter</key>
+	<string>explicitHash</string>
+	<key>gesturedetectorPadding</key>
+	<string>profilebullet</string>
+	<key>keySchema</key>
+	<string>consumerPrototype</string>
+	<key>modelpatternstyle</key>
+	<string>denseGrain</string>
+	<key>parallelStamp</key>
+	<string>unmarshalservice</string>
+	<key>positiontraversal</key>
+	<string>resizablePopup</string>
+	<key>retainedTool</key>
+	<string>significantCallback</string>
+</dict>
+</plist>

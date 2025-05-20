@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentcontraction</key>
+	<string>shouldKeepActivity</string>
+	<key>groupOffset</key>
+	<string>shouldShowSymbol</string>
+	<key>immediatePageView</key>
+	<string>globaltentative</string>
+	<key>normalcardcoord</key>
+	<string>invisibleScope</string>
+	<key>shouldPresentSemantics</key>
+	<string>tappableFactory</string>
+	<key>tabviewview</key>
+	<string>materializerOrientation</string>
+	<key>textnumberbehavior</key>
+	<string>accordionScene</string>
+</dict>
+</plist>

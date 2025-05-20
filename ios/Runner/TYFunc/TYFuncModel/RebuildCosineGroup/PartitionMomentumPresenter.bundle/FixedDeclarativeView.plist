@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAppearance</key>
+	<string>permanentAction</string>
+	<key>deactivateresponse</key>
+	<string>sineActivity</string>
+	<key>entityTag</key>
+	<string>dedicatedQueue</string>
+	<key>euclideanLayer</key>
+	<string>addRepository</string>
+	<key>gramvalidation</key>
+	<string>smartSizedBox</string>
+	<key>layerVelocity</key>
+	<string>draggablePolyfill</string>
+	<key>offsetTop</key>
+	<string>unsortedConsumer</string>
+	<key>resultHead</key>
+	<string>findCompleter</string>
+</dict>
+</plist>

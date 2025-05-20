@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnawait</key>
+	<string>poolGrid</string>
+	<key>receivestore</key>
+	<string>radioInset</string>
+	<key>responsiveUsage</key>
+	<string>constraintOrigin</string>
+	<key>robustFlex</key>
+	<string>logRotation</string>
+	<key>selectedlabel</key>
+	<string>usedMovement</string>
+	<key>shaderscale</key>
+	<string>heroBorder</string>
+	<key>shouldHandleInteger</key>
+	<string>segueaboutobserver</string>
+	<key>temporaryCosine</key>
+	<string>contractioninset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>onspecifierchanged</key>
+	<string>agilemenu</string>
+	<key>priorityBottom</key>
+	<string>uniqueTool</string>
+	<key>reactiveFinder</key>
+	<string>aggregateFactory</string>
+	<key>reusableReducer</key>
+	<string>canShowTextField</string>
+	<key>usageTransparency</key>
+	<string>statefulobservervelocity</string>
+</dict>
+</plist>

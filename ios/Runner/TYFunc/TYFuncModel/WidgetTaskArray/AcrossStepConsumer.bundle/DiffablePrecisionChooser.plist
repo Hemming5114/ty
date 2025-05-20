@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentchainspeed</key>
+	<string>animatedChart</string>
+	<key>immediateEqualization</key>
+	<string>filterleft</string>
+	<key>playbackindex</key>
+	<string>painttransition</string>
+	<key>shouldLoadBase</key>
+	<string>spineAcceleration</string>
+	<key>statelessResolver</key>
+	<string>arithmeticDocument</string>
+	<key>temporaryTrigger</key>
+	<string>tappableCapacities</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityLocation</key>
+	<string>localizationPattern</string>
+	<key>iconFormat</key>
+	<string>granularTolerance</string>
+	<key>nativeGridView</key>
+	<string>registerTicker</string>
+	<key>respondprojection</key>
+	<string>activeTweak</string>
+	<key>shouldPaintStoryboard</key>
+	<string>effectVisible</string>
+	<key>synchronousChannels</key>
+	<string>mountedGram</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionbloctheme</key>
+	<string>backwardArchitecture</string>
+	<key>combinerOrientation</key>
+	<string>elasticCaption</string>
+	<key>composablecaption</key>
+	<string>methodOperation</string>
+	<key>respectiveAppBar</key>
+	<string>yieldAspectRatio</string>
+	<key>shouldAnimateStamp</key>
+	<string>polyfillColor</string>
+	<key>subtleDocument</key>
+	<string>managerPhase</string>
+</dict>
+</plist>

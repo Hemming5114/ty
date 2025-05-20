@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonVariant</key>
+	<string>cloneBuffer</string>
+	<key>consultativeBinder</key>
+	<string>textureScope</string>
+	<key>exceptionBound</key>
+	<string>detachModel</string>
+	<key>grayscalerotation</key>
+	<string>staticTheme</string>
+	<key>mobileNotation</key>
+	<string>relationalThread</string>
+	<key>requiredService</key>
+	<string>basePadding</string>
+	<key>robustStrength</key>
+	<string>customResource</string>
+	<key>tabbarmediatorindex</key>
+	<string>insteadLayout</string>
+</dict>
+</plist>

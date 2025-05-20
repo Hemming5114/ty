@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConfiguration</key>
+	<string>callbackpressure</string>
+	<key>animationvalidation</key>
+	<string>pivotalStateless</string>
+	<key>concreteDocument</key>
+	<string>resumeResource</string>
+	<key>latencyOpacity</key>
+	<string>herospacing</string>
+	<key>resilientHeap</key>
+	<string>toleranceTint</string>
+	<key>semanticEntropy</key>
+	<string>liteRecursion</string>
+	<key>shouldPopKernel</key>
+	<string>mainConnector</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGroup</key>
+	<string>canDisconnectNotification</string>
+	<key>pinchableNib</key>
+	<string>managerMargin</string>
+	<key>priorTime</key>
+	<string>subscriptioncontextsaturation</string>
+	<key>throughputMomentum</key>
+	<string>shouldBindPositioned</string>
+</dict>
+</plist>

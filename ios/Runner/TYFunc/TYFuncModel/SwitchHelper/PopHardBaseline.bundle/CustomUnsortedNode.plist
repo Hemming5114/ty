@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerflyweightinset</key>
+	<string>pushwidget</string>
+	<key>fixedExpanded</key>
+	<string>basicTable</string>
+	<key>globalRequest</key>
+	<string>variantshape</string>
+	<key>shouldStartPlate</key>
+	<string>setstatePadding</string>
+	<key>shouldSubscribeAnimation</key>
+	<string>refreshAction</string>
+	<key>shouldemitrole</key>
+	<string>shouldunbindbloc</string>
+	<key>switchStyle</key>
+	<string>liteReduction</string>
+</dict>
+</plist>

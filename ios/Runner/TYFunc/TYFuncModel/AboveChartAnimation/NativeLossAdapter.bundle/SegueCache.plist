@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderchooser</key>
+	<string>obtainappbar</string>
+	<key>buildprogressbar</key>
+	<string>immediateUnary</string>
+	<key>concreteSprite</key>
+	<string>removeController</string>
+	<key>endtask</key>
+	<string>iterativeAnimatedContainer</string>
+	<key>exceptionthanlevel</key>
+	<string>fetchTabView</string>
+	<key>imageFlags</key>
+	<string>texturemargin</string>
+	<key>onkerneltap</key>
+	<string>iterativeRemainder</string>
+	<key>screenscale</key>
+	<string>similarSound</string>
+	<key>subtleInfrastructure</key>
+	<string>shouldHandleCupertino</string>
+	<key>textacceleration</key>
+	<string>effectaroundframework</string>
+</dict>
+</plist>

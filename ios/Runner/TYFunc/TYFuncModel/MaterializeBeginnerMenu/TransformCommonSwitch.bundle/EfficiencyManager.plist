@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMomentum</key>
+	<string>callbackincludeadapter</string>
+	<key>animatedManager</key>
+	<string>permissiveEvent</string>
+	<key>cycleVisible</key>
+	<string>requiredInteraction</string>
+	<key>ephemeralModulus</key>
+	<string>sessionCoord</string>
+	<key>inheritedSound</key>
+	<string>prepareGestureDetector</string>
+	<key>interactorPressure</key>
+	<string>shouldBindMember</string>
+	<key>normalComposition</key>
+	<string>nextstroke</string>
+	<key>reflectpromise</key>
+	<string>shouldDecodeBloc</string>
+	<key>textKind</key>
+	<string>integrityshape</string>
+</dict>
+</plist>

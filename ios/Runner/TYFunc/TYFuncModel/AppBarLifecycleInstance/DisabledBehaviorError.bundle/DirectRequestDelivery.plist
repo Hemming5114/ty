@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatewithoutscope</key>
+	<string>skinWork</string>
+	<key>cosineTransparency</key>
+	<string>independentPoint</string>
+	<key>hardTitle</key>
+	<string>splitterFrequency</string>
+	<key>particlepolyfill</key>
+	<string>replicateRoute</string>
+	<key>shouldLoadProjection</key>
+	<string>storageoffset</string>
+	<key>shouldReplaceOptimizer</key>
+	<string>typicalConsumer</string>
+	<key>shouldUnmountMember</key>
+	<string>shouldEncodeGridView</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionManager</key>
+	<string>capacitiesbutton</string>
+	<key>discardedPromise</key>
+	<string>uniqueconstraint</string>
+	<key>parallelGesture</key>
+	<string>hyperbolicBuffer</string>
+	<key>rapidTabView</key>
+	<string>activeVideo</string>
+	<key>responsecommandshape</key>
+	<string>instantiateLayout</string>
+	<key>shouldPublishChecklist</key>
+	<string>workflowLocation</string>
+	<key>singlemesh</key>
+	<string>dismisszone</string>
+</dict>
+</plist>

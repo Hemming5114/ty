@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorAlignment</key>
+	<string>iterativeNib</string>
+	<key>lostMusic</key>
+	<string>shouldvalidatescroll</string>
+	<key>shouldListenCupertino</key>
+	<string>unsortedSegue</string>
+	<key>shouldNotifySkirt</key>
+	<string>shouldUnmountStep</string>
+	<key>shouldRestartStack</key>
+	<string>documentacceleration</string>
+	<key>statefulBrightness</key>
+	<string>methodskewy</string>
+	<key>typicalcubitstatus</key>
+	<string>allocateRepository</string>
+</dict>
+</plist>

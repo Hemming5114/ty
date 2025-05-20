@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionemitter</key>
+	<string>canTransformTask</string>
+	<key>basicentity</key>
+	<string>textlistener</string>
+	<key>contractioncompositedirection</key>
+	<string>switchFlags</string>
+	<key>efficiencyOrientation</key>
+	<string>shouldshowgridview</string>
+	<key>shouldObserveResource</key>
+	<string>fixedalignmentshade</string>
+	<key>taskaroundcontext</key>
+	<string>parseInteger</string>
+</dict>
+</plist>

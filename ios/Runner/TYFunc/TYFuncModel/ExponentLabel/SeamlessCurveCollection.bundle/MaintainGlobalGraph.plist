@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentMode</key>
+	<string>permanentEvaluation</string>
+	<key>diversifiedSpine</key>
+	<string>fillTexture</string>
+	<key>mediumPet</key>
+	<string>adaptiveequivalent</string>
+	<key>nextSlider</key>
+	<string>semanticShape</string>
+	<key>optimizerstate</key>
+	<string>maxModal</string>
+	<key>playbackName</key>
+	<string>revisitManager</string>
+	<key>relationalLogarithm</key>
+	<string>shouldDispatchAlpha</string>
+	<key>shouldParseNavigator</key>
+	<string>modulusState</string>
+	<key>shouldPopReference</key>
+	<string>vectordrawer</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatesink</key>
+	<string>pivotaldelivery</string>
+	<key>chartorientation</key>
+	<string>kernelfromphase</string>
+	<key>confidentialityDistance</key>
+	<string>lazySlider</string>
+	<key>crucialPolyfill</key>
+	<string>transformertail</string>
+	<key>delicateAnimatedContainer</key>
+	<string>cartesianIntegration</string>
+	<key>inheritedRadius</key>
+	<string>wrapTimer</string>
+	<key>lazyCaption</key>
+	<string>touchBuffer</string>
+	<key>platerow</key>
+	<string>endInstruction</string>
+	<key>shouldunmountbaseline</key>
+	<string>sequentialKernel</string>
+	<key>trajectoryOrientation</key>
+	<string>shouldTrainAperture</string>
+</dict>
+</plist>

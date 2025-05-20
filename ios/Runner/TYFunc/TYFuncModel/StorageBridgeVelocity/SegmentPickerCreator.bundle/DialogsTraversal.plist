@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAnimation</key>
+	<string>columnDelay</string>
+	<key>emitterTint</key>
+	<string>setstateButton</string>
+	<key>latencyBottom</key>
+	<string>activatedGrain</string>
+	<key>responsiveInformation</key>
+	<string>independentConsumer</string>
+</dict>
+</plist>

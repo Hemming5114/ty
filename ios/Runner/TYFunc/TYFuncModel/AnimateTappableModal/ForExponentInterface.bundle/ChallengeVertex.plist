@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionoperationcenter</key>
+	<string>denseDependency</string>
+	<key>constraintaction</key>
+	<string>shouldValidateArithmetic</string>
+	<key>granularStatus</key>
+	<string>lockalert</string>
+	<key>reducerdespitebuffer</key>
+	<string>contractionProcess</string>
+	<key>shouldContinueCertificate</key>
+	<string>intuitiveFactory</string>
+	<key>shouldstopscroll</key>
+	<string>aspectMomentum</string>
+	<key>statelessLatency</key>
+	<string>onsensortap</string>
+	<key>taskKind</key>
+	<string>loopVelocity</string>
+</dict>
+</plist>

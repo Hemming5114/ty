@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatecurve</key>
+	<string>hardStatus</string>
+	<key>draggablecontainer</key>
+	<string>canLoadSubpixel</string>
+	<key>infoRotation</key>
+	<string>vectorizeTimer</string>
+	<key>instantiateentropy</key>
+	<string>masterDirection</string>
+	<key>lazyInteger</key>
+	<string>controllerduration</string>
+	<key>protectedexception</key>
+	<string>boxnumbervelocity</string>
+	<key>seamlessController</key>
+	<string>flexibleAllocator</string>
+	<key>shouldSerializeCycle</key>
+	<string>shouldEncodeAspect</string>
+	<key>smartProject</key>
+	<string>mainStamp</string>
+</dict>
+</plist>

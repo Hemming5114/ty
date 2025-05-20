@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterSkewX</key>
+	<string>basicSplitter</string>
+	<key>criticalEvaluation</key>
+	<string>shouldPersistPositioned</string>
+	<key>dismisschallenge</key>
+	<string>timeOpacity</string>
+	<key>marginPressure</key>
+	<string>deserializeticker</string>
+	<key>robustrepository</key>
+	<string>largeMargin</string>
+	<key>shouldDismissCache</key>
+	<string>fusedhash</string>
+	<key>specifyAlignment</key>
+	<string>uniqueCoordinator</string>
+</dict>
+</plist>

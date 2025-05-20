@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintreceiver</key>
+	<string>endDropdownButton</string>
+	<key>desktopTopic</key>
+	<string>singleMediaQuery</string>
+	<key>durationHead</key>
+	<string>characterstyle</string>
+	<key>momentumasfacade</key>
+	<string>streamtransition</string>
+	<key>painterContrast</key>
+	<string>certificateInterval</string>
+	<key>plateOrigin</key>
+	<string>accessibleScope</string>
+	<key>remainderCount</key>
+	<string>resizableAspect</string>
+	<key>shouldvalidateternary</key>
+	<string>swiftState</string>
+</dict>
+</plist>

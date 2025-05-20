@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMaterial</key>
+	<string>symmetricSubpixel</string>
+	<key>captionContrast</key>
+	<string>objectBrightness</string>
+	<key>characterscope</key>
+	<string>strengthAcceleration</string>
+	<key>completerBound</key>
+	<string>retainedTexture</string>
+	<key>coordinatorTension</key>
+	<string>usageFlyweight</string>
+	<key>delicateFeature</key>
+	<string>handleGrain</string>
+	<key>persistentScaffold</key>
+	<string>buttonFeedback</string>
+	<key>scrollnavigator</key>
+	<string>keyObserver</string>
+	<key>sensorDuration</key>
+	<string>shouldRestartLogarithm</string>
+	<key>shoulddispatchswift</key>
+	<string>canObserveScale</string>
+</dict>
+</plist>

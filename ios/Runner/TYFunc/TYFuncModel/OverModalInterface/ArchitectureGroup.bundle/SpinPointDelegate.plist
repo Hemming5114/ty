@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachentropy</key>
+	<string>semanticCheckbox</string>
+	<key>displayableCurve</key>
+	<string>cancelObserver</string>
+	<key>keynorm</key>
+	<string>cubitlayervelocity</string>
+	<key>multiplicationanimation</key>
+	<string>binderShape</string>
+	<key>mutableSize</key>
+	<string>pushInteractor</string>
+	<key>reactiveModule</key>
+	<string>mediummodule</string>
+	<key>shouldAttachOperation</key>
+	<string>scalabilityLocation</string>
+	<key>shouldLayoutSwift</key>
+	<string>uniformSwitch</string>
+	<key>sinkmetrics</key>
+	<string>paintBox</string>
+</dict>
+</plist>

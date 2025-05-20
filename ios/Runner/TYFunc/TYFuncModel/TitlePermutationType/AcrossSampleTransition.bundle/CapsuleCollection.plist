@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicasync</key>
+	<string>notifyController</string>
+	<key>dynamicDescent</key>
+	<string>utilStatus</string>
+	<key>shouldObserveTangent</key>
+	<string>uniqueConfidentiality</string>
+</dict>
+</plist>

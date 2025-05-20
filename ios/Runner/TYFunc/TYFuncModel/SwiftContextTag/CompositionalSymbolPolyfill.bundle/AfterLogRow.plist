@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSpeed</key>
+	<string>multiplicationSpeed</string>
+	<key>customcupertino</key>
+	<string>richtextBridge</string>
+	<key>documentBound</key>
+	<string>integerShape</string>
+	<key>explicitRange</key>
+	<string>configureTimer</string>
+	<key>handleasync</key>
+	<string>dispatchScaffold</string>
+	<key>pivotalPrecision</key>
+	<string>pointchannel</string>
+	<key>routeboxshadow</key>
+	<string>shouldPushWorkflow</string>
+	<key>sharedIndicator</key>
+	<string>benchmarkTransformer</string>
+	<key>shouldContinueCertificate</key>
+	<string>desktopDescent</string>
+</dict>
+</plist>

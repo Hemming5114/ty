@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScenario</key>
+	<string>executeText</string>
+	<key>customSwitch</key>
+	<string>canUpdateLayout</string>
+	<key>delegatelayerhead</key>
+	<string>dialogsbound</string>
+	<key>functionalMargin</key>
+	<string>canCancelContraction</string>
+	<key>interactiveSink</key>
+	<string>bulletEnvironment</string>
+	<key>refactorscene</key>
+	<string>transitioncontaincontext</string>
+	<key>resultHue</key>
+	<string>respectiveMend</string>
+	<key>shouldTransformSegment</key>
+	<string>shouldRouteInstruction</string>
+	<key>spotselector</key>
+	<string>painterresponse</string>
+	<key>tensorRoute</key>
+	<string>propagateNode</string>
+</dict>
+</plist>

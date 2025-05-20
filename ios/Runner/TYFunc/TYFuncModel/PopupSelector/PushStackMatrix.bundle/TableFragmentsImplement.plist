@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureMode</key>
+	<string>findRequest</string>
+	<key>backwardduration</key>
+	<string>dynamicGridView</string>
+	<key>behaviorbeyondmediator</key>
+	<string>canRestartKernel</string>
+	<key>bulletbridgeinset</key>
+	<string>shouldDispatchLayout</string>
+	<key>listenerSpeed</key>
+	<string>shouldPopBoxShadow</string>
+	<key>prevMap</key>
+	<string>defaultgem</string>
+	<key>shouldValidateNavigator</key>
+	<string>shouldStartCompletion</string>
+	<key>signaturebufferlocation</key>
+	<string>erasebutton</string>
+	<key>unsortedLocalization</key>
+	<string>animateInterface</string>
+</dict>
+</plist>

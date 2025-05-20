@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableWorkflow</key>
+	<string>shouldObserveMovement</string>
+	<key>curveFrequency</key>
+	<string>tabbarParameter</string>
+	<key>grampicker</key>
+	<string>liteAnalyzer</string>
+	<key>screendescription</key>
+	<string>functionalMobile</string>
+	<key>semanticChapter</key>
+	<string>prismaticRow</string>
+	<key>sharedCosine</key>
+	<string>publicAnimator</string>
+	<key>singletonDistance</key>
+	<string>sustainableStrength</string>
+</dict>
+</plist>

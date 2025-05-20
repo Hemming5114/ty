@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsSize</key>
+	<string>remainderTransparency</string>
+	<key>directlyChannel</key>
+	<string>canSetStateChecklist</string>
+	<key>documentSkewY</key>
+	<string>shouldFetchAspectRatio</string>
+	<key>localChart</key>
+	<string>consultativeintegerorigin</string>
+	<key>optiondensity</key>
+	<string>detectorColor</string>
+	<key>painterscopeforce</key>
+	<string>shouldPersistCustomPaint</string>
+	<key>precisionOrientation</key>
+	<string>featureSkewY</string>
+	<key>shouldParsePlate</key>
+	<string>hardInjection</string>
+	<key>singleTaxonomy</key>
+	<string>symmetricCoordinator</string>
+	<key>symmetricAspectRatio</key>
+	<string>compileDescription</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>floatdimension</key>
+	<string>aspectCoord</string>
+	<key>persistentMovement</key>
+	<string>soundEdge</string>
+	<key>relationalScope</key>
+	<string>aspectratioOrientation</string>
+	<key>storyboardDuration</key>
+	<string>shoulddismissactivity</string>
+	<key>storyboardmomentum</key>
+	<string>shouldDeserializeStateful</string>
+	<key>transitiontypename</key>
+	<string>notifyCache</string>
+</dict>
+</plist>

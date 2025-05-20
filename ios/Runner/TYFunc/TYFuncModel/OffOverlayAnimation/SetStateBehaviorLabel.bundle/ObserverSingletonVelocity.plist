@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedExpanded</key>
+	<string>musicBuffer</string>
+	<key>boxmetadata</key>
+	<string>assetMediator</string>
+	<key>cupertinoforscope</key>
+	<string>brushCenter</string>
+	<key>desktopLifecycle</key>
+	<string>cardTier</string>
+	<key>directIndicator</key>
+	<string>batchTransparency</string>
+	<key>hashamongparameter</key>
+	<string>canReplaceTabBar</string>
+	<key>observeindicator</key>
+	<string>beginnerisolate</string>
+	<key>shouldStartScaffold</key>
+	<string>canRestartMap</string>
+	<key>shouldUnmountMember</key>
+	<string>customizedEquipment</string>
+</dict>
+</plist>

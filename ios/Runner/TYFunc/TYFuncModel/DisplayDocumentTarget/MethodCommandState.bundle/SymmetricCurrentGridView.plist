@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMetadata</key>
+	<string>embraceModel</string>
+	<key>labelsaturation</key>
+	<string>listenerForce</string>
+	<key>mutableInfo</key>
+	<string>provideListener</string>
+	<key>sequentialIndicator</key>
+	<string>unlockProgressBar</string>
+	<key>shouldunbindproject</key>
+	<string>shouldSerializeMusic</string>
+	<key>sophisticatedCombiner</key>
+	<string>streambinder</string>
+	<key>spritejobbound</key>
+	<string>interceptDelegate</string>
+	<key>symmetricSkin</key>
+	<string>shouldanimatetabview</string>
+	<key>symmetricSwitch</key>
+	<string>concreteImage</string>
+</dict>
+</plist>

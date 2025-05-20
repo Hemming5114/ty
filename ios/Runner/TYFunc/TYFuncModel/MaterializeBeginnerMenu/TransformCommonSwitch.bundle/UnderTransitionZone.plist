@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStyle</key>
+	<string>canHandleFlex</string>
+	<key>cursorBehavior</key>
+	<string>cursorAlignment</string>
+	<key>displayableScroller</key>
+	<string>spritePlatform</string>
+	<key>gridshapekind</key>
+	<string>agileUtil</string>
+	<key>matrixkind</key>
+	<string>intensityoperation</string>
+	<key>sharedTask</key>
+	<string>spotMode</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultEqualization</key>
+	<string>transformSignature</string>
+	<key>unactivatedgradientvalidation</key>
+	<string>pageviewbottom</string>
+</dict>
+</plist>

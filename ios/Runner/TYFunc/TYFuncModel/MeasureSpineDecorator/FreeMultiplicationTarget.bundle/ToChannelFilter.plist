@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedclipper</key>
+	<string>constraintStatus</string>
+	<key>enabledhistogramsize</key>
+	<string>canRouteDimension</string>
+	<key>lazyMenu</key>
+	<string>canBindOptimizer</string>
+	<key>materialMedia</key>
+	<string>presenterSaturation</string>
+	<key>materialSine</key>
+	<string>independentSwift</string>
+	<key>notifycursor</key>
+	<string>startRichText</string>
+	<key>resizableTool</key>
+	<string>visiblesemantics</string>
+</dict>
+</plist>

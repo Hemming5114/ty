@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedMaster</key>
+	<string>channelslabel</string>
+	<key>globalCharacteristic</key>
+	<string>confidentialityPosition</string>
+	<key>imperativeTextField</key>
+	<string>progressbarnearproxy</string>
+	<key>paintslider</key>
+	<string>intermediateSkirt</string>
+	<key>shouldNavigateStamp</key>
+	<string>dedicatedError</string>
+	<key>shouldUnbindFragment</key>
+	<string>utilRight</string>
+	<key>skirtMargin</key>
+	<string>navigationVariable</string>
+	<key>smartGraph</key>
+	<string>tabviewsubscription</string>
+	<key>subtleTernary</key>
+	<string>shouldShowSignature</string>
+</dict>
+</plist>

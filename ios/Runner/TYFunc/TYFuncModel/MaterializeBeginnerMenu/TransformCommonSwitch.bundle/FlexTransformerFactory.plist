@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTangent</key>
+	<string>notifyTransformer</string>
+	<key>commonlayer</key>
+	<string>shouldDetachWidget</string>
+	<key>escalatecurve</key>
+	<string>euclideanRestriction</string>
+	<key>mutableresolvervalidation</key>
+	<string>disconnectResult</string>
+	<key>normalSwitch</key>
+	<string>notifierDuration</string>
+	<key>sizedboxsystemhue</key>
+	<string>parseRemainder</string>
+	<key>threadatcomposite</key>
+	<string>equipmentSingleton</string>
+</dict>
+</plist>

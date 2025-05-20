@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTransition</key>
+	<string>effectCommand</string>
+	<key>composableFeature</key>
+	<string>unmarshalresponse</string>
+	<key>dedicatedConvolution</key>
+	<string>statelessConnector</string>
+	<key>mainMetrics</key>
+	<string>visitBloc</string>
+	<key>optionCount</key>
+	<string>shouldHandleSine</string>
+	<key>rendercurve</key>
+	<string>hyperbolicMetadata</string>
+	<key>requiredReliability</key>
+	<string>customizedLayer</string>
+	<key>unmountedcompleter</key>
+	<string>liteReduction</string>
+</dict>
+</plist>

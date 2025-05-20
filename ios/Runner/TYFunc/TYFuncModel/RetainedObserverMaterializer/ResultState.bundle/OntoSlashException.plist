@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcapsulefrequency</key>
+	<string>canReplaceStateless</string>
+	<key>ephemeralTriangles</key>
+	<string>visualizeWidget</string>
+	<key>groupSpacing</key>
+	<string>activateGrid</string>
+	<key>iterativePreview</key>
+	<string>canEncodeMaterial</string>
+	<key>shouldConnectBorder</key>
+	<string>hasNavigation</string>
+	<key>synchronousStoryboard</key>
+	<string>transformpainter</string>
+	<key>topiccolor</key>
+	<string>cartesianColor</string>
+	<key>unsortedPublisher</key>
+	<string>builderDelay</string>
+	<key>unsortedSize</key>
+	<string>shaderSystem</string>
+</dict>
+</plist>

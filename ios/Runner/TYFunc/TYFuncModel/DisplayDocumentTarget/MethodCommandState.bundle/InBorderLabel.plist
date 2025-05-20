@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureshape</key>
+	<string>variantprogressbar</string>
+	<key>chartDuration</key>
+	<string>localReduction</string>
+	<key>elasticInterface</key>
+	<string>metadataScale</string>
+	<key>modulusobject</key>
+	<string>numericalReliability</string>
+	<key>normDirection</key>
+	<string>canResumeBoxShadow</string>
+	<key>responsiveConsumption</key>
+	<string>shouldMountClipper</string>
+	<key>responsiveMesh</key>
+	<string>denseEvent</string>
+	<key>webNotifier</key>
+	<string>subscriptionCommand</string>
+	<key>widgetName</key>
+	<string>intuitiveProcessor</string>
+</dict>
+</plist>

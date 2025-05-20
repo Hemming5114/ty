@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterCenter</key>
+	<string>curveAdapter</string>
+	<key>checkboxHead</key>
+	<string>quaternionPosition</string>
+	<key>constrainttaxonomy</key>
+	<string>triggerVelocity</string>
+	<key>fusedPlayback</key>
+	<string>overrideParticle</string>
+	<key>interfaceorigin</key>
+	<string>functionalSubscriber</string>
+	<key>mediadelay</key>
+	<string>positionedOpacity</string>
+	<key>parallelText</key>
+	<string>formatGridView</string>
+	<key>pinchableOffset</key>
+	<string>progressbarskewy</string>
+	<key>significantNotation</key>
+	<string>skirtprovision</string>
+	<key>variantviaform</key>
+	<string>shouldTransitionStamp</string>
+</dict>
+</plist>

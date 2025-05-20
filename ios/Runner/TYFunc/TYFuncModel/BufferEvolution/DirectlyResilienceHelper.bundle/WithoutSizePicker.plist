@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationalignment</key>
+	<string>playbackShade</string>
+	<key>hasstateless</key>
+	<string>modulecolor</string>
+	<key>inheritedresolver</key>
+	<string>detachOverlay</string>
+	<key>iterativeFeature</key>
+	<string>customizedSensor</string>
+	<key>missionMomentum</key>
+	<string>canCancelProfile</string>
+	<key>originalRichText</key>
+	<string>canDetachSizedBox</string>
+	<key>resultAlignment</key>
+	<string>sessionCenter</string>
+</dict>
+</plist>

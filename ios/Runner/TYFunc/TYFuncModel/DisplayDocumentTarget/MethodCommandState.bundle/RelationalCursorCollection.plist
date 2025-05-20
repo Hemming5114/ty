@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionReference</key>
+	<string>columnformat</string>
+	<key>easyshader</key>
+	<string>traversalFlags</string>
+	<key>greatEntity</key>
+	<string>crucialInfo</string>
+	<key>pushlocalization</key>
+	<string>shouldShowSkin</string>
+	<key>recursionInteraction</key>
+	<string>loadReduction</string>
+	<key>shouldUnmountedIcon</key>
+	<string>clipAction</string>
+	<key>videoHead</key>
+	<string>navigationSystem</string>
+	<key>workflowShade</key>
+	<string>shouldDeserializeCache</string>
+</dict>
+</plist>

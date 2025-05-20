@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalcontaineracceleration</key>
+	<string>asynchronousProjection</string>
+	<key>materialAlert</key>
+	<string>asynchronousSizedBox</string>
+	<key>modelfromprototype</key>
+	<string>evolutionFrequency</string>
+	<key>shouldUpdateUnary</key>
+	<string>activatedSingleton</string>
+	<key>uniqueEvolution</key>
+	<string>cloneTask</string>
+</dict>
+</plist>

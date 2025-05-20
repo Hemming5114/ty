@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletBehavior</key>
+	<string>canMountedOption</string>
+	<key>cubitpainter</key>
+	<string>responsiveTimeline</string>
+	<key>functionalProvider</key>
+	<string>directClipper</string>
+	<key>intuitiveConsumer</key>
+	<string>canInflateAspect</string>
+	<key>liteResilience</key>
+	<string>specifyTabBar</string>
+	<key>mainLoader</key>
+	<string>singleInterface</string>
+	<key>matrixAppearance</key>
+	<string>easyPermutation</string>
+	<key>pinchableConverter</key>
+	<string>sineFramework</string>
+	<key>publicReducer</key>
+	<string>layoutframeworkbrightness</string>
+	<key>routeimage</key>
+	<string>protocolTop</string>
+</dict>
+</plist>

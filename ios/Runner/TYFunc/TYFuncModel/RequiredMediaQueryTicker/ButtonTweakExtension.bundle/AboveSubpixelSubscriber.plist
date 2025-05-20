@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedOperation</key>
+	<string>nativeOffset</string>
+	<key>disconnectreducer</key>
+	<string>displayRadius</string>
+	<key>eagerConverter</key>
+	<string>completedPositioned</string>
+	<key>normalStatus</key>
+	<string>processHash</string>
+	<key>opaqueInteger</key>
+	<string>observeMethod</string>
+	<key>providerawayprocess</key>
+	<string>formatGram</string>
+	<key>screenthroughadapter</key>
+	<string>globalQueue</string>
+	<key>statefulModal</key>
+	<string>concreteChannel</string>
+	<key>tickerMode</key>
+	<string>enabledInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicObserver</key>
+	<string>missedBase</string>
+	<key>dispatchcycle</key>
+	<string>deprecateTicker</string>
+	<key>framemode</key>
+	<string>initializetransition</string>
+	<key>groupPadding</key>
+	<string>pushRichText</string>
+	<key>instructionstream</key>
+	<string>secondfilter</string>
+	<key>methodstatehue</key>
+	<string>canPrepareSkin</string>
+	<key>searcherBrightness</key>
+	<string>canStopBrush</string>
+	<key>shouldAttachMobile</key>
+	<string>dynamicBoxShadow</string>
+	<key>unactivatedTriangles</key>
+	<string>currentPositioned</string>
+</dict>
+</plist>

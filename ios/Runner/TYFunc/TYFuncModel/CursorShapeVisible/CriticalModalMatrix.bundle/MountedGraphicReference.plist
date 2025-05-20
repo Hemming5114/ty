@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSlider</key>
+	<string>widgetSpacing</string>
+	<key>boxshadowOrientation</key>
+	<string>positionInteraction</string>
+	<key>bufferdelay</key>
+	<string>optionScale</string>
+	<key>comprehensiveStroke</key>
+	<string>parseLoop</string>
+	<key>lossmargin</key>
+	<string>canRenderSpine</string>
+	<key>resilienceSpacing</key>
+	<string>sensorTheme</string>
+</dict>
+</plist>

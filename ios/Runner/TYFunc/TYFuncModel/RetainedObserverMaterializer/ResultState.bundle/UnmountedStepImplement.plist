@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorCenter</key>
+	<string>canPrepareSegment</string>
+	<key>granularTransition</key>
+	<string>flexRight</string>
+	<key>hashero</key>
+	<string>resizableResponder</string>
+	<key>lastCurve</key>
+	<string>multiConstraint</string>
+	<key>materialerrorstate</key>
+	<string>shouldBuildMaster</string>
+	<key>missedExponent</key>
+	<string>logMethod</string>
+	<key>scaffoldDensity</key>
+	<string>canSkipSubpixel</string>
+	<key>shouldResumeSegment</key>
+	<string>receiverRotation</string>
+	<key>shouldSkipMember</key>
+	<string>permanentStrength</string>
+	<key>streamDepth</key>
+	<string>euclideanPicker</string>
+</dict>
+</plist>

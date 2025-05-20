@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindtangent</key>
+	<string>concatenateBuilder</string>
+	<key>denseLatency</key>
+	<string>ephemeralScroll</string>
+	<key>euclideanCaption</key>
+	<string>typicalButton</string>
+	<key>popupefficiency</key>
+	<string>buildCache</string>
+	<key>scopePosition</key>
+	<string>menuShape</string>
+	<key>shouldFinishPageView</key>
+	<string>shouldLoadPromise</string>
+	<key>sizedboxexceptadapter</key>
+	<string>pauseBorder</string>
+	<key>statefulposition</key>
+	<string>enabledTentative</string>
+	<key>symmetricModal</key>
+	<string>canRebuildDialogs</string>
+</dict>
+</plist>

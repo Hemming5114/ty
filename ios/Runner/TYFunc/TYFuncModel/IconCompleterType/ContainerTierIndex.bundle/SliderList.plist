@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateactionkind</key>
+	<string>ephemeralPageView</string>
+	<key>dedicatedswiftresponse</key>
+	<string>shouldProcessEquipment</string>
+	<key>fillcoordinator</key>
+	<string>monsterRate</string>
+	<key>largeSelector</key>
+	<string>precisionTop</string>
+	<key>modalaroundlevel</key>
+	<string>autoProvision</string>
+	<key>numericalDelivery</key>
+	<string>backwardReceiver</string>
+	<key>prismaticjoiner</key>
+	<string>draggableWorkflow</string>
+	<key>shouldAnimateSession</key>
+	<string>asynchronousBandwidth</string>
+	<key>tappableChecklist</key>
+	<string>spotchainposition</string>
+</dict>
+</plist>

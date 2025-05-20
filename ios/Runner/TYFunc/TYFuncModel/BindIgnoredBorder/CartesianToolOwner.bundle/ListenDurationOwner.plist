@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertdispatcher</key>
+	<string>catalystStyle</string>
+	<key>defaultcomposition</key>
+	<string>globalQuaternion</string>
+	<key>eagerScalability</key>
+	<string>shouldYieldProject</string>
+	<key>featurespeed</key>
+	<string>multiPosition</string>
+	<key>previewbound</key>
+	<string>parseExponent</string>
+	<key>respectiveprogressbar</key>
+	<string>formattop</string>
+	<key>secondCheckbox</key>
+	<string>shouldanimateconsumer</string>
+	<key>shouldPauseGram</key>
+	<string>mobilecolumn</string>
+	<key>shouldRestartAspectRatio</key>
+	<string>otherException</string>
+	<key>streamlinedocument</key>
+	<string>standaloneDistinction</string>
+</dict>
+</plist>

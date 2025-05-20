@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintacceleration</key>
+	<string>deserializeStep</string>
+	<key>dedicatedBrush</key>
+	<string>detachHistogram</string>
+	<key>grainproxyhead</key>
+	<string>canPauseReference</string>
+	<key>menuincludetype</key>
+	<string>sharedConverter</string>
+	<key>methodtag</key>
+	<string>attachposition</string>
+	<key>newestinteractor</key>
+	<string>canShowCard</string>
+</dict>
+</plist>

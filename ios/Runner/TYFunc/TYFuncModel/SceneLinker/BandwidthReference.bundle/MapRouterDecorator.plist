@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmenttierborder</key>
+	<string>shouldPopAlpha</string>
+	<key>aspectratioSkewX</key>
+	<string>immediateoperation</string>
+	<key>defaultStamp</key>
+	<string>shouldSkipAnimation</string>
+	<key>effectstate</key>
+	<string>channelfromenvironment</string>
+	<key>exceptionvisibility</key>
+	<string>euclideanPresenter</string>
+	<key>injectionrotation</key>
+	<string>injectCompleter</string>
+	<key>mobileAperture</key>
+	<string>normtransition</string>
+	<key>optimizesingleton</key>
+	<string>profileStore</string>
+</dict>
+</plist>

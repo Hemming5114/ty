@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIcon</key>
+	<string>visitState</string>
+	<key>captiondetector</key>
+	<string>buttonacceleration</string>
+	<key>hardCupertino</key>
+	<string>grayscaletop</string>
+	<key>immediateTime</key>
+	<string>disabledItem</string>
+	<key>pivotalAspectRatio</key>
+	<string>animatorFrequency</string>
+	<key>playbackfunctiontag</key>
+	<string>touchTimer</string>
+	<key>primaryAnalogy</key>
+	<string>shouldPopPainter</string>
+</dict>
+</plist>

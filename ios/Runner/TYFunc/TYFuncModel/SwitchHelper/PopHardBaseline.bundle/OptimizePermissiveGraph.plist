@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAppBar</key>
+	<string>statefulCoordinator</string>
+	<key>inactivemobile</key>
+	<string>entityDensity</string>
+	<key>instructiontimer</key>
+	<string>sceneStatus</string>
+	<key>pinchableScroll</key>
+	<string>canSkipCapacities</string>
+	<key>poolsegment</key>
+	<string>interpolationJob</string>
+	<key>priorappbarduration</key>
+	<string>semanticSession</string>
+</dict>
+</plist>

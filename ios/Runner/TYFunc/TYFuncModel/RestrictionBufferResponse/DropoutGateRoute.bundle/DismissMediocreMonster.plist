@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooseralignment</key>
+	<string>greatAlert</string>
+	<key>cupertinoPageView</key>
+	<string>canStartCursor</string>
+	<key>dedicatedamortization</key>
+	<string>pinchableMap</string>
+	<key>invisiblestateless</key>
+	<string>shouldPublishCurve</string>
+	<key>lostProvision</key>
+	<string>shouldnotifytable</string>
+	<key>optimizerflyweightformat</key>
+	<string>missedClipper</string>
+	<key>shouldDismissScreen</key>
+	<string>canDisposeConvolution</string>
+	<key>shouldRestartInstruction</key>
+	<string>gesturedetectorright</string>
+</dict>
+</plist>

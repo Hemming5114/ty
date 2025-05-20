@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurenavigator</key>
+	<string>granularSprite</string>
+	<key>durationtension</key>
+	<string>firstImage</string>
+	<key>eagerpainter</key>
+	<string>framewrapper</string>
+	<key>easytentative</key>
+	<string>immediateFragment</string>
+	<key>mobileGraphic</key>
+	<string>selectedFuture</string>
+	<key>mobileReference</key>
+	<string>canUnbindBorder</string>
+	<key>mobileplayback</key>
+	<string>tappableGrid</string>
+	<key>permanenttextedge</key>
+	<string>canFormatStamp</string>
+</dict>
+</plist>

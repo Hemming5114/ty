@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSkewY</key>
+	<string>rapidGradient</string>
+	<key>chaptershade</key>
+	<string>resilientTernary</string>
+	<key>declarativegrid</key>
+	<string>viewKind</string>
+	<key>factorylocation</key>
+	<string>convertCompleter</string>
+	<key>granularChallenge</key>
+	<string>eagerAlert</string>
+	<key>marginprovider</key>
+	<string>matrixPrototype</string>
+	<key>orchestratebaseline</key>
+	<string>mediocrebutton</string>
+	<key>pinchableTask</key>
+	<string>bindChallenge</string>
+	<key>shouldFetchMonster</key>
+	<string>canKeepCycle</string>
+</dict>
+</plist>

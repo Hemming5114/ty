@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionstyle</key>
+	<string>custompaintFramework</string>
+	<key>explicitGradient</key>
+	<string>crudeLatency</string>
+	<key>framevalueformat</key>
+	<string>normasplatform</string>
+	<key>inactiveBuilder</key>
+	<string>gesturedetectorDensity</string>
+	<key>materialwithoutvar</key>
+	<string>shearIntensity</string>
+	<key>mediaqueryDelay</key>
+	<string>directlyTitle</string>
+	<key>shouldPopFuture</key>
+	<string>visibleCaption</string>
+	<key>smallComposition</key>
+	<string>usedCharacter</string>
+	<key>specifierprototypeinterval</key>
+	<string>canUnbindCupertino</string>
+</dict>
+</plist>

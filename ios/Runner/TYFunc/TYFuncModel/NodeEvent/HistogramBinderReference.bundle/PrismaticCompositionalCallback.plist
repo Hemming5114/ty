@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateanalyzer</key>
+	<string>clipDependency</string>
+	<key>fusedAudio</key>
+	<string>syncConfiguration</string>
+	<key>largeNavigator</key>
+	<string>actionOperation</string>
+	<key>prevAccessory</key>
+	<string>pickershade</string>
+	<key>shouldYieldDelegate</key>
+	<string>statelessinsidedecorator</string>
+</dict>
+</plist>

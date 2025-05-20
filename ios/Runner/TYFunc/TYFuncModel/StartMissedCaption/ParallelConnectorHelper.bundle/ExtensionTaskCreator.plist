@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionThreshold</key>
+	<string>attachHash</string>
+	<key>activeExpanded</key>
+	<string>setstateReduction</string>
+	<key>radiusopacity</key>
+	<string>delicateAnchor</string>
+	<key>resultvelocity</key>
+	<string>tasktransparency</string>
+	<key>shouldPopEffect</key>
+	<string>concatenateDependency</string>
+	<key>shouldconnectdelegate</key>
+	<string>markAsset</string>
+	<key>showservice</key>
+	<string>dropdownbuttonEdge</string>
+	<key>usageColor</key>
+	<string>presentbuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearmanager</key>
+	<string>emitterCoord</string>
+	<key>diversifiedtextstyle</key>
+	<string>reusableRecursion</string>
+	<key>largeRichText</key>
+	<string>significantContrast</string>
+	<key>observelayout</key>
+	<string>shouldRenderNotification</string>
+	<key>scaffoldRate</key>
+	<string>shouldSkipArithmetic</string>
+	<key>scalabilityMode</key>
+	<string>liteAnimatedContainer</string>
+</dict>
+</plist>

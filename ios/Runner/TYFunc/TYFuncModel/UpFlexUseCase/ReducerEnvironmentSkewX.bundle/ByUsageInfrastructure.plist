@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnresolver</key>
+	<string>standaloneLogarithm</string>
+	<key>listenerTension</key>
+	<string>offsetAction</string>
+	<key>numericalTransition</key>
+	<string>semanticTable</string>
+	<key>parallelIndicator</key>
+	<string>restoreLocalization</string>
+	<key>positionstyle</key>
+	<string>permanentConsumption</string>
+	<key>scalabilityTag</key>
+	<string>combinerValidation</string>
+	<key>subsequentSizedBox</key>
+	<string>trainSymbol</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialConfiguration</key>
+	<string>canFinishSine</string>
+	<key>dynamicArithmetic</key>
+	<string>currentalignmentresponse</string>
+	<key>otherNib</key>
+	<string>layoutFunction</string>
+	<key>presentpadding</key>
+	<string>canTransitionGesture</string>
+	<key>routetween</key>
+	<string>shouldAttachOverlay</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationSkewY</key>
+	<string>denseBuilder</string>
+	<key>buildoperation</key>
+	<string>stampSaturation</string>
+	<key>currentStrength</key>
+	<string>gridkind</string>
+	<key>monsterDirection</key>
+	<string>singletonvarformat</string>
+	<key>radioRotation</key>
+	<string>smartcontroller</string>
+	<key>shouldParseModal</key>
+	<string>exponentBehavior</string>
+</dict>
+</plist>

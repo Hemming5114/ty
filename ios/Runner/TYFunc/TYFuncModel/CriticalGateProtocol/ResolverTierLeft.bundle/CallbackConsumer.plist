@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeScope</key>
+	<string>canUnmountMap</string>
+	<key>augmentprogressbar</key>
+	<string>tappableSelector</string>
+	<key>draggableContainer</key>
+	<string>sustainableAction</string>
+	<key>factorycolor</key>
+	<string>reusableSorter</string>
+	<key>globalEquipment</key>
+	<string>signdistance</string>
+	<key>notificationentity</key>
+	<string>shouldkeepstack</string>
+	<key>reducerflags</key>
+	<string>shouldSkipHistogram</string>
+	<key>revisitdependency</key>
+	<string>associateprogressbar</string>
+	<key>sortedModulus</key>
+	<string>kernelbehavior</string>
+	<key>subsequentPresenter</key>
+	<string>optimizeBuffer</string>
+</dict>
+</plist>

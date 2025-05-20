@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTabBar</key>
+	<string>parallelEffect</string>
+	<key>defaultsensor</key>
+	<string>markChannel</string>
+	<key>disparateTraversal</key>
+	<string>canSubscribeCanvas</string>
+	<key>globalLinker</key>
+	<string>petopacity</string>
+	<key>mediocreConnector</key>
+	<string>permissiveSelector</string>
+	<key>partitiongesture</key>
+	<string>validateSwitch</string>
+	<key>shouldProcessGesture</key>
+	<string>standaloneMapper</string>
+	<key>shouldYieldCertificate</key>
+	<string>numericalEvent</string>
+	<key>specifyPageView</key>
+	<string>offsetCoord</string>
+</dict>
+</plist>

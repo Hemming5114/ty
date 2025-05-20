@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateposition</key>
+	<string>cartesianComposition</string>
+	<key>directlyMaterializer</key>
+	<string>frameTheme</string>
+	<key>otherchart</key>
+	<string>channelTint</string>
+	<key>resourceplatformrate</key>
+	<string>unregisterSize</string>
+	<key>shouldConnectSizedBox</key>
+	<string>accessoryChain</string>
+	<key>shouldPresentPositioned</key>
+	<string>grainStrategy</string>
+	<key>switchTop</key>
+	<string>canContinueMember</string>
+</dict>
+</plist>

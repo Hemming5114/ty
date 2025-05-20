@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthHue</key>
+	<string>pinchableTheme</string>
+	<key>boxspeed</key>
+	<string>pushwidget</string>
+	<key>configurationAppearance</key>
+	<string>shouldCancelSizedBox</string>
+	<key>otherIndicator</key>
+	<string>largeSegment</string>
+	<key>shouldPublishArithmetic</key>
+	<string>channelsBottom</string>
+	<key>shouldTrainGram</key>
+	<string>advancedAnchor</string>
+	<key>signinterface</key>
+	<string>canResumeCoordinator</string>
+	<key>tappableUsage</key>
+	<string>taskcolor</string>
+	<key>tweakSpacing</key>
+	<string>architectureEdge</string>
+</dict>
+</plist>

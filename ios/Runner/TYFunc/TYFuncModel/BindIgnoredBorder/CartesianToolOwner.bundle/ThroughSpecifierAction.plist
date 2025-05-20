@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnHue</key>
+	<string>spotbytask</string>
+	<key>composablenode</key>
+	<string>resultTheme</string>
+	<key>customizedThread</key>
+	<string>canPublishMission</string>
+	<key>delicateAspectRatio</key>
+	<string>crudeCheckbox</string>
+	<key>gridviewkindbound</key>
+	<string>shouldPublishScale</string>
+	<key>resilientDescriptor</key>
+	<string>consultativeworkflowname</string>
+	<key>shaderOffset</key>
+	<string>attachTextField</string>
+	<key>tensorlifecycle</key>
+	<string>vectorBrightness</string>
+	<key>viewframe</key>
+	<string>updateAnimatedContainer</string>
+</dict>
+</plist>

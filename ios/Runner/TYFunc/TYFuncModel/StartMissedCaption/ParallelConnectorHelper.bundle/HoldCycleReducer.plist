@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyInteraction</key>
+	<string>publicSlider</string>
+	<key>directlyInteraction</key>
+	<string>obtainMetadata</string>
+	<key>manageramongprocess</key>
+	<string>canEncodeTask</string>
+	<key>multiplicationrequest</key>
+	<string>shouldUnmountMargin</string>
+	<key>shouldDisconnectListView</key>
+	<string>renameRow</string>
+	<key>unaryslider</key>
+	<string>textAcceleration</string>
+</dict>
+</plist>

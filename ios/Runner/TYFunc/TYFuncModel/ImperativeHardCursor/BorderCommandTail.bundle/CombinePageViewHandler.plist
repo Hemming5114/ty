@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthAlignment</key>
+	<string>subtleManager</string>
+	<key>blocparamcount</key>
+	<string>configureRect</string>
+	<key>cupertinoCurve</key>
+	<string>shouldRenderAxis</string>
+	<key>gridviewAcceleration</key>
+	<string>toolcontrast</string>
+	<key>pageviewlikestrategy</key>
+	<string>combinerOpacity</string>
+	<key>reusableRichText</key>
+	<string>signVisibility</string>
+	<key>unactivatedBoxShadow</key>
+	<string>shouldSubscribeCertificate</string>
+</dict>
+</plist>

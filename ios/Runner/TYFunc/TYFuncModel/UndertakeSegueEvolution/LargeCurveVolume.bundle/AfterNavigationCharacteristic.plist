@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentevolution</key>
+	<string>custompaintValue</string>
+	<key>euclideanResolver</key>
+	<string>coordinatorforce</string>
+	<key>hyperbolicNavigator</key>
+	<string>compositionCenter</string>
+	<key>interpolationInterval</key>
+	<string>transformTabView</string>
+	<key>publicMember</key>
+	<string>singleexception</string>
+	<key>replaceoptimizer</key>
+	<string>asyncDelay</string>
+	<key>routeStatus</key>
+	<string>yieldEffect</string>
+	<key>stepstylebottom</key>
+	<string>protectedTweak</string>
+</dict>
+</plist>

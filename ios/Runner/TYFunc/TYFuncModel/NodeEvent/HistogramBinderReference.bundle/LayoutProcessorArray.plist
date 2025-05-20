@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeOffset</key>
+	<string>multiColumn</string>
+	<key>shouldLoadCard</key>
+	<string>shouldPresentCatalyst</string>
+	<key>shouldShowRemainder</key>
+	<string>rectVelocity</string>
+	<key>shouldShowStoryboard</key>
+	<string>mountedNavigation</string>
+	<key>usedStoryboard</key>
+	<string>inflateButton</string>
+	<key>webDescriptor</key>
+	<string>ignoredAspectRatio</string>
+</dict>
+</plist>

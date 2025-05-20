@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCharacteristic</key>
+	<string>handlerEnvironment</string>
+	<key>composableTransformer</key>
+	<string>canListenCompletion</string>
+	<key>ephemeralDispatcher</key>
+	<string>descriptionShape</string>
+	<key>modelopacity</key>
+	<string>orchestrateMetadata</string>
+	<key>normalSymbol</key>
+	<string>nextBaseline</string>
+	<key>priorSensor</key>
+	<string>cleancell</string>
+	<key>restrictionRotation</key>
+	<string>spinreducer</string>
+	<key>shouldPauseTechnique</key>
+	<string>singleOffset</string>
+	<key>shouldPopSession</key>
+	<string>popupVelocity</string>
+	<key>threadDensity</key>
+	<string>provideGroup</string>
+</dict>
+</plist>

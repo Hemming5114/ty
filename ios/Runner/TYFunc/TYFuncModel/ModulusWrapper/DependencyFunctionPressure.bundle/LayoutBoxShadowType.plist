@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalProfile</key>
+	<string>functionalAsset</string>
+	<key>inactiveMap</key>
+	<string>isgate</string>
+	<key>navigationpopup</key>
+	<string>shouldEncodeConsumer</string>
+	<key>playbackmediatortype</key>
+	<string>uniformboxshadowbrightness</string>
+	<key>routeacceleration</key>
+	<string>ignoredcluster</string>
+	<key>shouldEndController</key>
+	<string>navigateOption</string>
+	<key>strokePosition</key>
+	<string>exitBuilder</string>
+	<key>unactivatedPlayback</key>
+	<string>adaptiveScalability</string>
+	<key>usedGram</key>
+	<string>listenParticle</string>
+</dict>
+</plist>

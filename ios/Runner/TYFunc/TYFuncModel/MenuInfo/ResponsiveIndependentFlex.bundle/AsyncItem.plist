@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>escalateview</key>
+	<string>robustColumn</string>
+	<key>otherMobile</key>
+	<string>widgetInset</string>
+	<key>provideritem</key>
+	<string>canDisconnectTouch</string>
+	<key>smartTime</key>
+	<string>numericalAnimator</string>
+	<key>specifierInterval</key>
+	<string>interceptAsync</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultNavigation</key>
+	<string>continueHero</string>
+	<key>quaternionTop</key>
+	<string>thresholdSpeed</string>
+	<key>resumeusage</key>
+	<string>allocateresponse</string>
+	<key>transformcompleter</key>
+	<string>smallNavigation</string>
+</dict>
+</plist>

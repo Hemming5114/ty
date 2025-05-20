@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticeffectpadding</key>
+	<string>connectSpot</string>
+	<key>containerType</key>
+	<string>annotateRoute</string>
+	<key>defaultPlayback</key>
+	<string>dedicatedProtocol</string>
+	<key>disabledAppBar</key>
+	<string>gestureSpeed</string>
+	<key>iconmethodvelocity</key>
+	<string>cacheDelay</string>
+	<key>mediocreMultiplication</key>
+	<string>staticConsumer</string>
+	<key>similarExpanded</key>
+	<string>groupInteraction</string>
+	<key>threadcontrast</key>
+	<string>customizedGesture</string>
+</dict>
+</plist>

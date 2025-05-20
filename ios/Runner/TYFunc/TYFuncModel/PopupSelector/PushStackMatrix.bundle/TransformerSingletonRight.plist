@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autodocumenttype</key>
+	<string>workflowtrigger</string>
+	<key>geometricMonster</key>
+	<string>viewHead</string>
+	<key>hierarchicalBatch</key>
+	<string>lostFormat</string>
+	<key>layerBorder</key>
+	<string>disconnectRequest</string>
+	<key>shouldCacheTouch</key>
+	<string>memberRate</string>
+	<key>shouldPopShader</key>
+	<string>inheritedbuffer</string>
+</dict>
+</plist>

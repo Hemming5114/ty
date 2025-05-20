@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAllocator</key>
+	<string>activesampledepth</string>
+	<key>intuitiveintegration</key>
+	<string>delegatepainter</string>
+	<key>mutableimpression</key>
+	<string>seamlessChapter</string>
+	<key>mutableinteractororigin</key>
+	<string>sophisticatedcolumn</string>
+	<key>previewMomentum</key>
+	<string>transposeButton</string>
+	<key>priorfilter</key>
+	<string>accessibleFragments</string>
+	<key>respectiveDisclaimer</key>
+	<string>constraintPadding</string>
+	<key>schemaDuration</key>
+	<string>saveCheckbox</string>
+	<key>shouldDisposeLabel</key>
+	<string>sequentialExpanded</string>
+</dict>
+</plist>

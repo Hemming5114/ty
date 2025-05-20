@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorSaturation</key>
+	<string>subscribeNotifier</string>
+	<key>eagerTopic</key>
+	<string>singletonVelocity</string>
+	<key>invisibleHash</key>
+	<string>iterativeMediaQuery</string>
+	<key>listviewInset</key>
+	<string>declarativeSegment</string>
+	<key>resilienceRate</key>
+	<string>canUnmountedReduction</string>
+	<key>respectivethreshold</key>
+	<string>delicateInfo</string>
+	<key>serviceAlignment</key>
+	<string>particleBuffer</string>
+	<key>stopgesturedetector</key>
+	<string>shouldReplacePlayback</string>
+</dict>
+</plist>

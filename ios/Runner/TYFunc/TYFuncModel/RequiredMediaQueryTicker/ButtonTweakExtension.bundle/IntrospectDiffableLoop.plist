@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFormat</key>
+	<string>dialogsMode</string>
+	<key>composablemodule</key>
+	<string>symmetricMap</string>
+	<key>disclaimerInset</key>
+	<string>accessibleAlignment</string>
+	<key>remainderKind</key>
+	<string>transitionClipper</string>
+	<key>requiredMethod</key>
+	<string>canKeepMatrix</string>
+	<key>robustfeature</key>
+	<string>processorSkewY</string>
+	<key>singleScope</key>
+	<string>subscriberDuration</string>
+	<key>specifySpot</key>
+	<string>entropyBorder</string>
+</dict>
+</plist>

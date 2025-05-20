@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAppearance</key>
+	<string>positionInterval</string>
+	<key>dismissunary</key>
+	<string>singleBehavior</string>
+	<key>loaderSaturation</key>
+	<string>permissiveAnimation</string>
+	<key>logSkewY</key>
+	<string>staticScroll</string>
+	<key>modelrate</key>
+	<string>provideResolver</string>
+	<key>otherPositioned</key>
+	<string>locatemodulus</string>
+	<key>shouldPersistArithmetic</key>
+	<string>bitrateSkewX</string>
+</dict>
+</plist>

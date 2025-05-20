@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFrequency</key>
+	<string>deactivatemenu</string>
+	<key>diffableDelegate</key>
+	<string>disconnectService</string>
+	<key>reusablepopupoffset</key>
+	<string>unmarshalButton</string>
+	<key>shouldTrainEquipment</key>
+	<string>deploySize</string>
+	<key>tablePressure</key>
+	<string>injectionspeed</string>
+	<key>typicalCustomPaint</key>
+	<string>configureQueue</string>
+</dict>
+</plist>

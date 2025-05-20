@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeModal</key>
+	<string>cardnavigator</string>
+	<key>customswiftappearance</key>
+	<string>drawerMomentum</string>
+	<key>moduleTransparency</key>
+	<string>protectedSignature</string>
+	<key>multiConfiguration</key>
+	<string>gradientLayer</string>
+	<key>reactiveLifecycle</key>
+	<string>captionexceptprocess</string>
+	<key>statelessGraph</key>
+	<string>adjustProgressBar</string>
+	<key>unactivatedaxis</key>
+	<string>interactiveInteraction</string>
+</dict>
+</plist>

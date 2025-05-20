@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerPriority</key>
+	<string>shouldEmitObserver</string>
+	<key>ephemeralReducer</key>
+	<string>directListener</string>
+	<key>greatlistenercount</key>
+	<string>shouldTrainDelegate</string>
+	<key>metricsValidation</key>
+	<string>delegateIsolate</string>
+	<key>mutableRange</key>
+	<string>compileChart</string>
+	<key>petInset</key>
+	<string>basicTween</string>
+	<key>shouldObserveObserver</key>
+	<string>diffableFeature</string>
+</dict>
+</plist>

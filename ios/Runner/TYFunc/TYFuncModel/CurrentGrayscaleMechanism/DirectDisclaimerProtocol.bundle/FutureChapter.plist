@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesviaenvironment</key>
+	<string>staticResponse</string>
+	<key>cupertinoconstraintpadding</key>
+	<string>unmountedBrush</string>
+	<key>disabledconverter</key>
+	<string>lostInfo</string>
+	<key>momentumcompleter</key>
+	<string>equalizationdelay</string>
+	<key>shouldSubscribeSpot</key>
+	<string>contrastResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customcubit</key>
+	<string>resilientMobile</string>
+	<key>dialogslatency</key>
+	<string>shouldMountedSpot</string>
+	<key>disclaimerinterval</key>
+	<string>animatedFuture</string>
+	<key>occasionHead</key>
+	<string>analyzerDensity</string>
+	<key>shouldBuildActivity</key>
+	<string>declarativeObserver</string>
+	<key>singletabbar</key>
+	<string>similarColumn</string>
+</dict>
+</plist>

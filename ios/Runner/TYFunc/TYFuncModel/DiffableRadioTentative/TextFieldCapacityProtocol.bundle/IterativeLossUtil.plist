@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateformat</key>
+	<string>startGraphic</string>
+	<key>disabledTexture</key>
+	<string>navigateGestureDetector</string>
+	<key>gemVelocity</key>
+	<string>uniformPainter</string>
+	<key>intensityState</key>
+	<string>factoryContrast</string>
+	<key>selectedkernel</key>
+	<string>rapidLoop</string>
+	<key>singletontag</key>
+	<string>modelFeedback</string>
+	<key>statelessLayer</key>
+	<string>canPopPrecision</string>
+</dict>
+</plist>

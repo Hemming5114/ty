@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuletitle</key>
+	<string>shouldDeserializeStoryboard</string>
+	<key>eagerisolate</key>
+	<string>completionlayout</string>
+	<key>impactscale</key>
+	<string>accessorySkewY</string>
+	<key>otherRadius</key>
+	<string>interactorLeft</string>
+	<key>previewmethodskewx</key>
+	<string>canLayoutMap</string>
+	<key>shouldBindGridView</key>
+	<string>optionDecorator</string>
+	<key>shouldConnectReference</key>
+	<string>segmentFlyweight</string>
+	<key>shouldCreateUsage</key>
+	<string>robustInstruction</string>
+	<key>subsequentMobile</key>
+	<string>persistentVertex</string>
+	<key>textactivityresponse</key>
+	<string>shouldSkipMultiplication</string>
+</dict>
+</plist>

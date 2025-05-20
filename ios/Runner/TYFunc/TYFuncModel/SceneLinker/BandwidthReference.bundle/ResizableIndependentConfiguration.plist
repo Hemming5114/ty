@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedanimation</key>
+	<string>heroPressure</string>
+	<key>combinerSaturation</key>
+	<string>gateShape</string>
+	<key>euclideanAction</key>
+	<string>canPushDuration</string>
+	<key>framelifecycle</key>
+	<string>fetchDialogs</string>
+	<key>mainTrajectory</key>
+	<string>maintainVector</string>
+	<key>prevContrast</key>
+	<string>firstClipper</string>
+	<key>semanticAmortization</key>
+	<string>newestAnalogy</string>
+	<key>shouldAnimateCell</key>
+	<string>shouldAnimateStep</string>
+	<key>shouldDispatchPrecision</key>
+	<string>mapperFlags</string>
+</dict>
+</plist>

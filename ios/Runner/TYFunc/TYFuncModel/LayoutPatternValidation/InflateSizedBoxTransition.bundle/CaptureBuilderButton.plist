@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoContrast</key>
+	<string>persistentGraphic</string>
+	<key>displayableTitle</key>
+	<string>canFinishDescriptor</string>
+	<key>fixedDescription</key>
+	<string>normalRepository</string>
+	<key>shouldNavigateText</key>
+	<string>shouldObserveConstraint</string>
+	<key>unmountederror</key>
+	<string>handleGradient</string>
+</dict>
+</plist>

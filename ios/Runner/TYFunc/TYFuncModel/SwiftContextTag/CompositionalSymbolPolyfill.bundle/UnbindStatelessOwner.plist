@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMargin</key>
+	<string>canSubscribeBox</string>
+	<key>geometricDetector</key>
+	<string>adaptivehash</string>
+	<key>inheritedmodal</key>
+	<string>mapBound</string>
+	<key>protectedLabel</key>
+	<string>fusedConnector</string>
+	<key>relationalScaffold</key>
+	<string>globalConfidentiality</string>
+</dict>
+</plist>

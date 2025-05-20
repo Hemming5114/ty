@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyValidation</key>
+	<string>localCanvas</string>
+	<key>beginnerGroup</key>
+	<string>detachTicker</string>
+	<key>currentsegue</key>
+	<string>shouldDetachMaster</string>
+	<key>draggableMaterializer</key>
+	<string>newestStrength</string>
+	<key>primarycreator</key>
+	<string>provideStore</string>
+	<key>semanticInteger</key>
+	<string>propagateChapter</string>
+	<key>uniqueNotation</key>
+	<string>spinePhase</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatetimer</key>
+	<string>accessibleSession</string>
+	<key>autoResponse</key>
+	<string>customizedScreen</string>
+	<key>mediumDropdownButton</key>
+	<string>initializelabel</string>
+	<key>otherScreen</key>
+	<string>painterPressure</string>
+	<key>resolverorstage</key>
+	<string>canMountAperture</string>
+	<key>skinwrapper</key>
+	<string>entityActivity</string>
+	<key>taskstageacceleration</key>
+	<string>canPushPrecision</string>
+	<key>uniquePermutation</key>
+	<string>utiltype</string>
+</dict>
+</plist>

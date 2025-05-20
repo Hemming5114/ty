@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleReducer</key>
+	<string>keyCapacity</string>
+	<key>activatedTrigger</key>
+	<string>requiredsign</string>
+	<key>backwardCompleter</key>
+	<string>cancelOption</string>
+	<key>grainalignment</key>
+	<string>refreshRect</string>
+	<key>imperativeIntegration</key>
+	<string>secondConsumer</string>
+	<key>semanticExtension</key>
+	<string>refreshPopup</string>
+	<key>shouldPublishMusic</key>
+	<string>distinctionHead</string>
+	<key>shouldRebuildConvolution</key>
+	<string>aggregateGrain</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInkWell</key>
+	<string>clearLayout</string>
+	<key>isolateformat</key>
+	<string>mediumPicker</string>
+	<key>iterativeStream</key>
+	<string>itemFlags</string>
+	<key>publicCard</key>
+	<string>shouldResumeChecklist</string>
+	<key>shouldPauseComposition</key>
+	<string>observerlocation</string>
+	<key>splitterBorder</key>
+	<string>shouldroutebitrate</string>
+	<key>webView</key>
+	<string>gateOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineVelocity</key>
+	<string>cosineDirection</string>
+	<key>eagerService</key>
+	<string>intermediateSample</string>
+	<key>radiusanalogy</key>
+	<string>iterativeFragment</string>
+	<key>resizablereductioninteraction</key>
+	<string>threadChain</string>
+	<key>shouldListenMobile</key>
+	<string>ascentStatus</string>
+	<key>shouldUpdateTernary</key>
+	<string>scenarioBehavior</string>
+	<key>shoulddisconnectcache</key>
+	<string>bitrateinterface</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorRate</key>
+	<string>relationalSplitter</string>
+	<key>cycledirection</key>
+	<string>promiseOrigin</string>
+	<key>deferredGrain</key>
+	<string>attachDescriptor</string>
+	<key>enabledInteractor</key>
+	<string>traversalInset</string>
+	<key>operationPressure</key>
+	<string>mutableTheme</string>
+	<key>relationalResponse</key>
+	<string>disabledTolerance</string>
+	<key>routetype</key>
+	<string>shouldPublishCurve</string>
+	<key>shouldSaveAlpha</key>
+	<string>shouldSerializeImage</string>
+	<key>subsequentpainteredge</key>
+	<string>shouldDispatchPainter</string>
+</dict>
+</plist>

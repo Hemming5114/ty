@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderspacing</key>
+	<string>durationbridgename</string>
+	<key>deferredevent</key>
+	<string>notifyGrayscale</string>
+	<key>easyInstruction</key>
+	<string>infoSkewY</string>
+	<key>reusableRichText</key>
+	<string>shouldCacheSlash</string>
+	<key>shouldDismissGem</key>
+	<string>composableMedia</string>
+	<key>shouldMountStream</key>
+	<string>fusedImpact</string>
+	<key>shouldSaveCache</key>
+	<string>isolateBorder</string>
+	<key>shouldnavigateusage</key>
+	<string>canDisconnectBaseline</string>
+</dict>
+</plist>

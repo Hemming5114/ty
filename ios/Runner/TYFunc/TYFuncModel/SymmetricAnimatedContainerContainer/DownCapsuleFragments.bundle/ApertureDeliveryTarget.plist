@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedGradient</key>
+	<string>interactorfrommethod</string>
+	<key>geometricGrayscale</key>
+	<string>activityDecorator</string>
+	<key>intensitycycletension</key>
+	<string>disabledCheckbox</string>
+	<key>polygonMode</key>
+	<string>reflectSprite</string>
+	<key>resultdecoratorsaturation</key>
+	<string>titlemerger</string>
+	<key>seamlessBitrate</key>
+	<string>accessibleAllocator</string>
+	<key>shouldTrainMaterial</key>
+	<string>injectionTransparency</string>
+	<key>sliderSaturation</key>
+	<string>disposeMaster</string>
+	<key>tensorPermutation</key>
+	<string>mountedDrawer</string>
+	<key>usecaseshade</key>
+	<string>graphTail</string>
+</dict>
+</plist>

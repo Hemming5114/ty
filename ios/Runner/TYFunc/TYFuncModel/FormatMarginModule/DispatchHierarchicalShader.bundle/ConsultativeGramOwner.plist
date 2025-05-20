@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureType</key>
+	<string>triggerOrigin</string>
+	<key>catalystInteraction</key>
+	<string>architectureCount</string>
+	<key>discardedPoint</key>
+	<string>explicitTimer</string>
+	<key>discardedtouch</key>
+	<string>directView</string>
+	<key>disconnectbutton</key>
+	<string>monsterFlags</string>
+	<key>nextcontrast</key>
+	<string>layoutVisitor</string>
+	<key>shouldObservePromise</key>
+	<string>sortedSlider</string>
+</dict>
+</plist>

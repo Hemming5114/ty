@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainVisibility</key>
+	<string>shouldMountedSensor</string>
+	<key>graphIndex</key>
+	<string>mutableLinker</string>
+	<key>impressionVisible</key>
+	<string>shouldDismissAlert</string>
+	<key>keyAnalogy</key>
+	<string>rapidOffset</string>
+	<key>shouldDeserializeContainer</key>
+	<string>convertContainer</string>
+	<key>shouldEmitReference</key>
+	<string>reducerAction</string>
+	<key>techniqueDelay</key>
+	<string>spinService</string>
+	<key>workflowfilter</key>
+	<string>scalePadding</string>
+</dict>
+</plist>

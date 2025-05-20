@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetColor</key>
+	<string>restoreChapter</string>
+	<key>handlemodal</key>
+	<string>isObserver</string>
+	<key>hyperbolicgrayscalemargin</key>
+	<string>advancedSpine</string>
+	<key>replaceasset</key>
+	<string>euclideanprecisioncenter</string>
+	<key>shouldStopSemantics</key>
+	<string>diffableReduction</string>
+	<key>shouldTransitionSubpixel</key>
+	<string>lastLatency</string>
+	<key>sustainableMetadata</key>
+	<string>readEvent</string>
+</dict>
+</plist>

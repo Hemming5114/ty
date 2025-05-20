@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaulttool</key>
+	<string>canYieldDrawer</string>
+	<key>mutableTrajectory</key>
+	<string>spritebyphase</string>
+	<key>permanentGraph</key>
+	<string>easyResource</string>
+	<key>shouldshowbehavior</key>
+	<string>movementActivity</string>
+</dict>
+</plist>

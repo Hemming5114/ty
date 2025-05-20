@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAnalogy</key>
+	<string>uniformlistener</string>
+	<key>equivalentState</key>
+	<string>tweenCycle</string>
+	<key>methodbound</key>
+	<string>cupertinoForce</string>
+	<key>nextTopic</key>
+	<string>futureOffset</string>
+	<key>scrollTint</key>
+	<string>canStartInkWell</string>
+	<key>shouldPersistOverlay</key>
+	<string>canReplaceScale</string>
+	<key>tappableMechanism</key>
+	<string>methodValidation</string>
+</dict>
+</plist>

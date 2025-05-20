@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablebase</key>
+	<string>shouldFormatMultiplication</string>
+	<key>constantValidation</key>
+	<string>compositionalEqualization</string>
+	<key>fixedSign</key>
+	<string>managercompositetransparency</string>
+	<key>interpolationhandler</key>
+	<string>oldstamp</string>
+	<key>otherJoiner</key>
+	<string>shouldDisposeResource</string>
+	<key>prevAlpha</key>
+	<string>desktopHash</string>
+	<key>resultdelivery</key>
+	<string>replaceStream</string>
+	<key>shouldPopSwitch</key>
+	<string>joinerIndex</string>
+	<key>subscriptiontolerance</key>
+	<string>handleeffect</string>
+</dict>
+</plist>

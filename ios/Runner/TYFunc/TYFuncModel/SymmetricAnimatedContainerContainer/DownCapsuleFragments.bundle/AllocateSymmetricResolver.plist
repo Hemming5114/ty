@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMerger</key>
+	<string>advancedNib</string>
+	<key>directlyObject</key>
+	<string>shouldDetachText</string>
+	<key>modulusShade</key>
+	<string>materialRoute</string>
+	<key>originalgridview</key>
+	<string>arithmeticSplitter</string>
+	<key>progressbarDepth</key>
+	<string>independentVideo</string>
+	<key>shouldAnimateSensor</key>
+	<string>immediateprotocolposition</string>
+	<key>shouldRouteAccessory</key>
+	<string>promiseBorder</string>
+	<key>validatecoordinator</key>
+	<string>screenMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserdelay</key>
+	<string>canPopContraction</string>
+	<key>contrastState</key>
+	<string>fetchHero</string>
+	<key>explicitIndicator</key>
+	<string>coordinatorsize</string>
+	<key>graphRate</key>
+	<string>shouldrestartprojection</string>
+	<key>localThroughput</key>
+	<string>cardPrototype</string>
+	<key>remainderawayframework</key>
+	<string>relationalarchitecture</string>
+	<key>scrollableScene</key>
+	<string>interactorStyle</string>
+	<key>topicsincefacade</key>
+	<string>mediaVar</string>
+</dict>
+</plist>

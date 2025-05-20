@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstActivity</key>
+	<string>binaryLocation</string>
+	<key>immutablePublisher</key>
+	<string>scheduleQueue</string>
+	<key>pivotalscaleopacity</key>
+	<string>buttonmodelocation</string>
+	<key>seamlessSubpixel</key>
+	<string>desktopCallback</string>
+	<key>semanticsStatus</key>
+	<string>standalonequeuetransparency</string>
+	<key>singletonobservertension</key>
+	<string>paintMargin</string>
+	<key>storyboardproxybehavior</key>
+	<string>permanentResilience</string>
+	<key>substantialSlider</key>
+	<string>webHeap</string>
+</dict>
+</plist>

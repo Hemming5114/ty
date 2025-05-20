@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLogarithm</key>
+	<string>compositionalAlignment</string>
+	<key>declarativearithmeticscale</key>
+	<string>numericalAction</string>
+	<key>desktopFormat</key>
+	<string>canRestartDecoration</string>
+	<key>paddingHead</key>
+	<string>arithmeticGrid</string>
+	<key>promiseTransparency</key>
+	<string>shouldValidateThread</string>
+	<key>shouldEndPlayback</key>
+	<string>shouldTransitionPageView</string>
+	<key>uniqueTransition</key>
+	<string>canReplaceSession</string>
+</dict>
+</plist>

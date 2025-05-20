@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordermode</key>
+	<string>localNib</string>
+	<key>independentChart</key>
+	<string>processStream</string>
+	<key>lastDelegate</key>
+	<string>distinctionSaturation</string>
+	<key>newestScheduler</key>
+	<string>desktopGridView</string>
+	<key>polygonDensity</key>
+	<string>publicDecoration</string>
+	<key>shoulddeserializeanchor</key>
+	<string>containerOpacity</string>
+</dict>
+</plist>

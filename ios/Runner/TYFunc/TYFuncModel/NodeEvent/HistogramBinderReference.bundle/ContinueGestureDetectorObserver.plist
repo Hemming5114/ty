@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableScaffold</key>
+	<string>functionalActivity</string>
+	<key>shouldProcessModal</key>
+	<string>serializeSubpixel</string>
+	<key>shouldShowTernary</key>
+	<string>fixedPrecision</string>
+	<key>singletonDirection</key>
+	<string>catalystOrientation</string>
+	<key>widgetastemple</key>
+	<string>canSubscribeResource</string>
+</dict>
+</plist>

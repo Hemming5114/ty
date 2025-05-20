@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedFragment</key>
+	<string>timelineRate</string>
+	<key>movementsinceparam</key>
+	<string>quantizationException</string>
+	<key>subscriberBorder</key>
+	<string>interceptCallback</string>
+	<key>symmetricReplica</key>
+	<string>respectiveIsolate</string>
+	<key>usedStore</key>
+	<string>layoutWidget</string>
+	<key>vertexTop</key>
+	<string>labelFlags</string>
+</dict>
+</plist>

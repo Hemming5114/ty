@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleaneffect</key>
+	<string>logShade</string>
+	<key>flexibleheapvisibility</key>
+	<string>mountmultiplication</string>
+	<key>navigatorMode</key>
+	<string>selectedBoxShadow</string>
+	<key>originalImage</key>
+	<string>cacheCoord</string>
+	<key>shouldCacheTouch</key>
+	<string>notifiersearcher</string>
+	<key>shouldNotifyInteger</key>
+	<string>cartesianMultiplication</string>
+	<key>specifyStream</key>
+	<string>hardUsage</string>
+</dict>
+</plist>

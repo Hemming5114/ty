@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetdelay</key>
+	<string>workflowOperation</string>
+	<key>basictable</key>
+	<string>processorMargin</string>
+	<key>mutableDocument</key>
+	<string>disposeEffect</string>
+	<key>overlayMode</key>
+	<string>permissiveRouter</string>
+	<key>shouldDecodeLayout</key>
+	<string>transformerleveldepth</string>
+	<key>transpilehandler</key>
+	<string>bloctype</string>
+</dict>
+</plist>

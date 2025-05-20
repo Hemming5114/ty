@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteScalability</key>
+	<string>endSubpixel</string>
+	<key>futurevalidation</key>
+	<string>architecturePadding</string>
+	<key>multiLinker</key>
+	<string>stateflags</string>
+	<key>pinchableButton</key>
+	<string>requiredStream</string>
+	<key>resourcemodecount</key>
+	<string>criticalPromise</string>
+	<key>shouldCancelSkin</key>
+	<string>storageValidation</string>
+	<key>shouldDispatchCube</key>
+	<string>consumerPrototype</string>
+</dict>
+</plist>

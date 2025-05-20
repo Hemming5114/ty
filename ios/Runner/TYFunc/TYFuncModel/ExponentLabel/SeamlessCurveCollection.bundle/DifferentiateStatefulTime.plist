@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratebuilder</key>
+	<string>arithmeticzone</string>
+	<key>functionalPageView</key>
+	<string>gateDepth</string>
+	<key>mediumvectorcoord</key>
+	<string>shouldPauseDrawer</string>
+	<key>normalDuration</key>
+	<string>shouldLoadExpanded</string>
+	<key>paddingcompositesaturation</key>
+	<string>threadcontainer</string>
+	<key>scrollableDetail</key>
+	<string>unmountPromise</string>
+	<key>shouldAttachWorkflow</key>
+	<string>renderMaterial</string>
+	<key>shouldPersistGrayscale</key>
+	<string>subscribecapacities</string>
+	<key>sortedInfo</key>
+	<string>measureChannel</string>
+	<key>usageoutsideprototype</key>
+	<string>layoutBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInteger</key>
+	<string>directWrapper</string>
+	<key>buffername</key>
+	<string>transformTable</string>
+	<key>mendCount</key>
+	<string>overrideChannel</string>
+	<key>oldSprite</key>
+	<string>buildPoint</string>
+	<key>seamlessIsolate</key>
+	<string>cycleProcess</string>
+	<key>shouldDeserializeEqualization</key>
+	<string>completedCheckbox</string>
+</dict>
+</plist>

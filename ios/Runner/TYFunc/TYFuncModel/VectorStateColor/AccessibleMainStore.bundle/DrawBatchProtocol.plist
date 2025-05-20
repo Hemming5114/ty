@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesvarbrightness</key>
+	<string>shouldPopMultiplication</string>
+	<key>challengeasset</key>
+	<string>startanchor</string>
+	<key>inactiveScreen</key>
+	<string>inheritedChooser</string>
+	<key>navigatornumberspeed</key>
+	<string>shouldDispatchRoute</string>
+	<key>overlayselector</key>
+	<string>desktopGate</string>
+	<key>shouldyieldmonster</key>
+	<string>augmentSink</string>
+</dict>
+</plist>

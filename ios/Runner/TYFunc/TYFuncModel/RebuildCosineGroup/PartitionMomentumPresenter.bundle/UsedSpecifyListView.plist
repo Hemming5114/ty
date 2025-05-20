@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAlignment</key>
+	<string>tabviewForm</string>
+	<key>elasticinkwell</key>
+	<string>cancelStack</string>
+	<key>firstIntegrity</key>
+	<string>deserializeEquipment</string>
+	<key>granularElement</key>
+	<string>cubitPattern</string>
+	<key>shouldContinueStamp</key>
+	<string>robustScalability</string>
+	<key>shouldPresentPlayback</key>
+	<string>activatedItem</string>
+	<key>shouldStopDrawer</key>
+	<string>lockService</string>
+	<key>shouldbindcustompaint</key>
+	<string>workflowOffset</string>
+	<key>standaloneCursor</key>
+	<string>analogyIndex</string>
+	<key>subscriptionType</key>
+	<string>denseHandler</string>
+</dict>
+</plist>

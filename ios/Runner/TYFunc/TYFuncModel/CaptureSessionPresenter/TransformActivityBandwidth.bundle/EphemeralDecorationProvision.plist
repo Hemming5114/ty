@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticTentative</key>
+	<string>detectorrotation</string>
+	<key>encodepresenter</key>
+	<string>primaryGraph</string>
+	<key>evaluationvisibility</key>
+	<string>stopsprite</string>
+	<key>nodeflyweightdirection</key>
+	<string>disabledlatency</string>
+	<key>pinchableTextField</key>
+	<string>currentthread</string>
+	<key>scalebound</key>
+	<string>capsuleHead</string>
+	<key>temporaryAlpha</key>
+	<string>cancelCell</string>
+</dict>
+</plist>

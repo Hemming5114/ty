@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerlayeralignment</key>
+	<string>opaqueEquivalent</string>
+	<key>desktopReducer</key>
+	<string>metadataleft</string>
+	<key>materialCollection</key>
+	<string>accordionEffect</string>
+	<key>methodOrigin</key>
+	<string>tableanimation</string>
+	<key>moduleKind</key>
+	<string>tabviewtint</string>
+	<key>shouldBuildTransition</key>
+	<string>lockCompleter</string>
+	<key>tabbarCenter</key>
+	<string>sizeVariable</string>
+</dict>
+</plist>

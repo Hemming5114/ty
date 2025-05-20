@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablecharacteralignment</key>
+	<string>playTimer</string>
+	<key>mobileName</key>
+	<string>dismissmember</string>
+	<key>oldFormat</key>
+	<string>desktopTicker</string>
+	<key>shouldTransformLog</key>
+	<string>sharedcoordinatorspacing</string>
+	<key>singletonSize</key>
+	<string>declarativeLog</string>
+	<key>streamconsumption</key>
+	<string>staticChapter</string>
+	<key>tabviewSkewY</key>
+	<string>ontextfieldchanged</string>
+</dict>
+</plist>

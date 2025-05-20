@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeTransparency</key>
+	<string>adaptiveTexture</string>
+	<key>ephemeralspine</key>
+	<string>menuValue</string>
+	<key>infoHead</key>
+	<string>emitGate</string>
+	<key>numericalExtension</key>
+	<string>mountedstore</string>
+	<key>shouldBuildPageView</key>
+	<string>nibtop</string>
+	<key>shouldDispatchProvider</key>
+	<string>elasticMaterializer</string>
+	<key>starttheme</key>
+	<string>interceptObserver</string>
+	<key>unactivatedScreen</key>
+	<string>canPresentLog</string>
+	<key>wrapanimatedcontainer</key>
+	<string>createFuture</string>
+</dict>
+</plist>

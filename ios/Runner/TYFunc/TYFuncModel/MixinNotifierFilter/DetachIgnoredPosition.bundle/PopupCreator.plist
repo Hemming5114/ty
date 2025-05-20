@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>plateAppearance</key>
+	<string>mobileChart</string>
+	<key>positionedTension</key>
+	<string>respectiveMobile</string>
+	<key>shouldcachestateless</key>
+	<string>canShowIndicator</string>
+	<key>sophisticatedController</key>
+	<string>largesign</string>
+	<key>statefultextureforce</key>
+	<string>gradientskewx</string>
+	<key>tabbarShade</key>
+	<string>canEndProjection</string>
+	<key>visibleCell</key>
+	<string>requiredSound</string>
+</dict>
+</plist>

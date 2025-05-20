@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBrightness</key>
+	<string>intuitiveFrame</string>
+	<key>animatedPet</key>
+	<string>stampSingleton</string>
+	<key>concurrentClipper</key>
+	<string>intermediateReducer</string>
+	<key>opaqueSine</key>
+	<string>matrixSpeed</string>
+	<key>primaryLog</key>
+	<string>elasticSplitter</string>
+	<key>samplechainalignment</key>
+	<string>positionedDuration</string>
+	<key>strengthMode</key>
+	<string>canShowTabBar</string>
+	<key>usedEmitter</key>
+	<string>storebyphase</string>
+</dict>
+</plist>

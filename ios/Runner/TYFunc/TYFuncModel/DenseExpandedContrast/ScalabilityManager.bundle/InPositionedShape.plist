@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFeedback</key>
+	<string>attachSingleton</string>
+	<key>difficultMetadata</key>
+	<string>shouldYieldMultiplication</string>
+	<key>intuitiveBuilder</key>
+	<string>euclideanRange</string>
+	<key>oldTheme</key>
+	<string>certificateSingleton</string>
+	<key>polyfillOpacity</key>
+	<string>sortedEmitter</string>
+	<key>vertexalignment</key>
+	<string>serviceActivity</string>
+</dict>
+</plist>

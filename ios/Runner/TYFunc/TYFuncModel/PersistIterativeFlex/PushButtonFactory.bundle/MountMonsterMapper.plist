@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchshade</key>
+	<string>elasticPopup</string>
+	<key>challengeFormat</key>
+	<string>sampleOrigin</string>
+	<key>mediumZone</key>
+	<string>pivotalProject</string>
+	<key>monstercoord</key>
+	<string>toolScope</string>
+	<key>pivotalUseCase</key>
+	<string>scheduleBuilder</string>
+	<key>scaleposition</key>
+	<string>oldConverter</string>
+	<key>scenecount</key>
+	<string>streamevaluation</string>
+	<key>shouldBuildTask</key>
+	<string>canDisposeMovement</string>
+</dict>
+</plist>

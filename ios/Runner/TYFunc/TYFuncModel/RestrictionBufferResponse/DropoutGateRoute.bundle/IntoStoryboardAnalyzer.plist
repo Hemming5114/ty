@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAcceleration</key>
+	<string>modulusanalogy</string>
+	<key>heapscale</key>
+	<string>singleItem</string>
+	<key>mobileScheduler</key>
+	<string>singleBehavior</string>
+	<key>originalMerger</key>
+	<string>temporarytextfieldright</string>
+	<key>prismaticMaterial</key>
+	<string>deprecateFuture</string>
+	<key>reusableQueue</key>
+	<string>skipSizedBox</string>
+	<key>subsequentStateless</key>
+	<string>customizedAlpha</string>
+	<key>tabviewFrequency</key>
+	<string>shouldStreamNotification</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerShape</key>
+	<string>diffableFragments</string>
+	<key>elasticPopup</key>
+	<string>canUnmountModulus</string>
+	<key>elasticTraversal</key>
+	<string>criticalTable</string>
+	<key>pivotalpopup</key>
+	<string>shouldRenderUsage</string>
+	<key>primaryAlignment</key>
+	<string>discardedContainer</string>
+	<key>priorSegue</key>
+	<string>statelessElement</string>
+	<key>scrollableMonster</key>
+	<string>directusage</string>
+	<key>shouldCancelUsage</key>
+	<string>hasDelegate</string>
+	<key>toleranceStatus</key>
+	<string>paddingName</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blockindshade</key>
+	<string>shouldKeepPromise</string>
+	<key>denseEvolution</key>
+	<string>mitigateBuilder</string>
+	<key>gateMode</key>
+	<string>introspectAction</string>
+	<key>reusableAnimator</key>
+	<string>workflowStatus</string>
+	<key>shouldStopBullet</key>
+	<string>crudeVector</string>
+	<key>timelinePressure</key>
+	<string>shouldUpdateHero</string>
+	<key>usedNavigator</key>
+	<string>expandedforstage</string>
+</dict>
+</plist>

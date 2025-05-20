@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackleft</key>
+	<string>denseSound</string>
+	<key>delegatebrush</key>
+	<string>isprojection</string>
+	<key>disconnectresponse</key>
+	<string>rowBottom</string>
+	<key>oldDistinction</key>
+	<string>customTicker</string>
+	<key>permanentPopup</key>
+	<string>contractionsize</string>
+	<key>persistentGram</key>
+	<string>easyPrecision</string>
+	<key>significantCombiner</key>
+	<string>exitinterpolation</string>
+	<key>subtlerectfrequency</key>
+	<string>canResumeTouch</string>
+</dict>
+</plist>

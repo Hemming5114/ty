@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configureinterpolation</key>
+	<string>interfacedespiteaction</string>
+	<key>cupertinoRange</key>
+	<string>heapComposite</string>
+	<key>draggabletabbarvalidation</key>
+	<string>eagerProvision</string>
+	<key>functionalProtocol</key>
+	<string>transformerspeed</string>
+	<key>fusedStream</key>
+	<string>variantinterval</string>
+	<key>liteProgressBar</key>
+	<string>overlaySkewX</string>
+	<key>projectionTint</key>
+	<string>shouldcancelconsumer</string>
+	<key>shouldPopIndicator</key>
+	<string>awaitKind</string>
+	<key>sustainableCompletion</key>
+	<string>unmountLoss</string>
+</dict>
+</plist>

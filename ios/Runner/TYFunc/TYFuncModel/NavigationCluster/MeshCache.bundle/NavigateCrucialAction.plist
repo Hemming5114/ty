@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPoint</key>
+	<string>desktopSemantics</string>
+	<key>denseResponse</key>
+	<string>canvasAdapter</string>
+	<key>gridviewdensity</key>
+	<string>lastLocalization</string>
+	<key>objectDistance</key>
+	<string>keepCheckbox</string>
+	<key>shouldTransitionScroll</key>
+	<string>asynchronousvolume</string>
+	<key>topicCount</key>
+	<string>customAlpha</string>
+</dict>
+</plist>

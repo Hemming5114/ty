@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSignature</key>
+	<string>scaleTier</string>
+	<key>iterativeTernary</key>
+	<string>shouldRenderButton</string>
+	<key>layoutStatus</key>
+	<string>textfieldDensity</string>
+	<key>loadaxis</key>
+	<string>progressbarinmode</string>
+	<key>persistentSkin</key>
+	<string>interpolateTransformer</string>
+	<key>pinchableOccasion</key>
+	<string>euclideanStateful</string>
+	<key>resilientListView</key>
+	<string>disabledStore</string>
+	<key>shouldKeepGridView</key>
+	<string>crudeCombiner</string>
+	<key>specifierStyle</key>
+	<string>currentworkflow</string>
+	<key>uniformImpression</key>
+	<string>skipGridView</string>
+</dict>
+</plist>

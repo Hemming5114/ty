@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorresponse</key>
+	<string>unmountedDelegate</string>
+	<key>respectiveReplica</key>
+	<string>popText</string>
+	<key>shouldTransformCoordinator</key>
+	<string>rebuildCache</string>
+	<key>shouldlistenvariant</key>
+	<string>bufferParam</string>
+	<key>similarSingleton</key>
+	<string>pushbutton</string>
+	<key>statefulTriangles</key>
+	<string>singleSubscriber</string>
+</dict>
+</plist>

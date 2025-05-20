@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableGraphic</key>
+	<string>sessionFeedback</string>
+	<key>intermediateSegue</key>
+	<string>exponentSpeed</string>
+	<key>primaryCallback</key>
+	<string>canHandleShader</string>
+	<key>rangeVisibility</key>
+	<string>spritesize</string>
+	<key>routerdepth</key>
+	<string>observerPadding</string>
+	<key>selectedSlider</key>
+	<string>logDensity</string>
+	<key>slashInteraction</key>
+	<string>declarativeTitle</string>
+</dict>
+</plist>

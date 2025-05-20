@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findslider</key>
+	<string>semanticSine</string>
+	<key>inheritedwidget</key>
+	<string>convolutionVariable</string>
+	<key>liteNotifier</key>
+	<string>prevCustomPaint</string>
+	<key>mobileEqualization</key>
+	<string>shouldContinueEqualization</string>
+	<key>particleparamtail</key>
+	<string>uniqueOffset</string>
+	<key>primaryAscent</key>
+	<string>resizableAperture</string>
+	<key>shouldConnectCapacities</key>
+	<string>annotateSubscription</string>
+	<key>shouldEndExtension</key>
+	<string>customizedAnalyzer</string>
+	<key>textTension</key>
+	<string>symmetricInfo</string>
+</dict>
+</plist>

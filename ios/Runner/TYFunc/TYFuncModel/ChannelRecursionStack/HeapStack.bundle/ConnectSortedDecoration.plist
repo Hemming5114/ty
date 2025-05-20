@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerCenter</key>
+	<string>startTabView</string>
+	<key>liteTask</key>
+	<string>mobileDescription</string>
+	<key>provideranimation</key>
+	<string>widgetwithouttier</string>
+	<key>tappablegrayscalerotation</key>
+	<string>lastCallback</string>
+</dict>
+</plist>

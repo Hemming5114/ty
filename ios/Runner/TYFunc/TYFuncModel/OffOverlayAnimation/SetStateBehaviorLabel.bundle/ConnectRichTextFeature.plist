@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationcycleinteraction</key>
+	<string>vectorProcess</string>
+	<key>backwardSubpixel</key>
+	<string>paintMultiplication</string>
+	<key>descriptionHue</key>
+	<string>shouldStreamStateful</string>
+	<key>explicitCupertino</key>
+	<string>exponentVariable</string>
+	<key>interfaceSize</key>
+	<string>nibEnvironment</string>
+	<key>mutableWorkflow</key>
+	<string>trainAnchor</string>
+	<key>respectiveSearcher</key>
+	<string>cachePromise</string>
+	<key>shouldcancelcertificate</key>
+	<string>composableMaterial</string>
+	<key>shoulddecoderadio</key>
+	<string>shouldListenActivity</string>
+</dict>
+</plist>

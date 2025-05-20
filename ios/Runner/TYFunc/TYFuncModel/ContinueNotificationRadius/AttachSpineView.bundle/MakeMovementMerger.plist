@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCompleter</key>
+	<string>canFormatMobile</string>
+	<key>curveformat</key>
+	<string>rendererSkewX</string>
+	<key>handlechapter</key>
+	<string>freetabbar</string>
+	<key>mutableTopic</key>
+	<string>scrollablestream</string>
+	<key>protectedListView</key>
+	<string>specifyUnary</string>
+	<key>sensornearbridge</key>
+	<string>associatedStrength</string>
+	<key>singleAlert</key>
+	<string>displayableUnary</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeExtension</key>
+	<string>diversifiedReducer</string>
+	<key>analogyname</key>
+	<string>navigatorBrightness</string>
+	<key>autoanimator</key>
+	<string>seamlessReplica</string>
+	<key>compareindicator</key>
+	<string>contractionHue</string>
+	<key>deferredImage</key>
+	<string>dismissIsolate</string>
+	<key>renderbuilder</key>
+	<string>shouldtransitionslider</string>
+	<key>sampleatadapter</key>
+	<string>scalePressure</string>
+	<key>ternaryspeed</key>
+	<string>notationPadding</string>
+	<key>variantFormat</key>
+	<string>canParseNotifier</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardstackappearance</key>
+	<string>inflateDependency</string>
+	<key>mapinjection</key>
+	<string>techniquePosition</string>
+	<key>meshPosition</key>
+	<string>staticComposition</string>
+</dict>
+</plist>

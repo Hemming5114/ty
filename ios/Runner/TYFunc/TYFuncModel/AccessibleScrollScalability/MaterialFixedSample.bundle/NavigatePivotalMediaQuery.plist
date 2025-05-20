@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeresult</key>
+	<string>independentmusicposition</string>
+	<key>presenteraboutprocess</key>
+	<string>parallelSpine</string>
+	<key>rowTheme</key>
+	<string>flexibleResponder</string>
+	<key>shouldInflateAlpha</key>
+	<string>groupInteraction</string>
+	<key>shouldPushPlayback</key>
+	<string>detachSegue</string>
+	<key>shouldTransitionStack</key>
+	<string>shouldAnimateRow</string>
+	<key>tappableError</key>
+	<string>curveTheme</string>
+	<key>timelinecenter</key>
+	<string>shouldUpdateOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicFeedback</key>
+	<string>unmountedBloc</string>
+	<key>explicitreferencecoord</key>
+	<string>shouldBuildMomentum</string>
+	<key>sharedAxis</key>
+	<string>swiftRight</string>
+	<key>similarMovement</key>
+	<string>discardedCycle</string>
+	<key>statefulInfo</key>
+	<string>timerCycle</string>
+</dict>
+</plist>

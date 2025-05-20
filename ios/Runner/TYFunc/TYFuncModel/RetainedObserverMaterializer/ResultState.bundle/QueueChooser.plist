@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProtocol</key>
+	<string>opaqueClipper</string>
+	<key>consumerSkewY</key>
+	<string>showPrecision</string>
+	<key>controllerskewy</key>
+	<string>basicLinker</string>
+	<key>deferredStroke</key>
+	<string>eagerGem</string>
+	<key>notifysingleton</key>
+	<string>materialchaptersaturation</string>
+	<key>optionCount</key>
+	<string>clipConstraint</string>
+	<key>rapidExtension</key>
+	<string>eagerTitle</string>
+	<key>scrollablePopup</key>
+	<string>canHandleStamp</string>
+	<key>shouldMountLabel</key>
+	<string>hardGradient</string>
+	<key>unbindtransition</key>
+	<string>keepController</string>
+</dict>
+</plist>

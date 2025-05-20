@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailShape</key>
+	<string>activatedMultiplication</string>
+	<key>handlerDistance</key>
+	<string>requiredhero</string>
+	<key>mobileCache</key>
+	<string>utilSaturation</string>
+	<key>radioacceleration</key>
+	<string>shouldResumeOperation</string>
+	<key>shouldunmountedgem</key>
+	<string>shoulddismisscursor</string>
+	<key>unactivatedSlash</key>
+	<string>searchProvider</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionbottom</key>
+	<string>canPrepareDropdownButton</string>
+	<key>backwardPicker</key>
+	<string>functionalRenderer</string>
+	<key>completerStyle</key>
+	<string>stackPadding</string>
+	<key>flexibleLocalization</key>
+	<string>normalmanager</string>
+	<key>localImpact</key>
+	<string>detachMatrix</string>
+	<key>promisestatus</key>
+	<string>dynamicMesh</string>
+	<key>shouldUnbindLoss</key>
+	<string>shouldFetchSegue</string>
+</dict>
+</plist>

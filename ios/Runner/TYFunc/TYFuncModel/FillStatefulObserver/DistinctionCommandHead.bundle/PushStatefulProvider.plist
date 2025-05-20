@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorTag</key>
+	<string>shouldDeserializeSensor</string>
+	<key>connectsample</key>
+	<string>unsortedSegue</string>
+	<key>independentslidertail</key>
+	<string>timerParameter</string>
+	<key>inheritedPosition</key>
+	<string>globalLayer</string>
+	<key>mediainterpreterduration</key>
+	<string>liteMesh</string>
+</dict>
+</plist>

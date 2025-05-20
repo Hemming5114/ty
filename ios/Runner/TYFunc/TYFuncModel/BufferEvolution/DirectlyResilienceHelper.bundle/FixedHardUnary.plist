@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatortriangles</key>
+	<string>skinforstate</string>
+	<key>beginnerResponse</key>
+	<string>shouldUnmountEffect</string>
+	<key>confidentialityLeft</key>
+	<string>priorChecklist</string>
+	<key>imperativeAmortization</key>
+	<string>protectedBinder</string>
+	<key>moveflex</key>
+	<string>axisbottom</string>
+	<key>respectiveUnary</key>
+	<string>resolveFrame</string>
+	<key>shouldYieldTheme</key>
+	<string>isMedia</string>
+	<key>statefulSingleton</key>
+	<string>canNavigateStep</string>
+	<key>uniqueQuaternion</key>
+	<string>resilienceBottom</string>
+</dict>
+</plist>

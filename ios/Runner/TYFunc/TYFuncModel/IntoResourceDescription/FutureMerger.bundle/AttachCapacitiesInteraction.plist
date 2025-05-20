@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTitle</key>
+	<string>enabledDistinction</string>
+	<key>fusedPolygon</key>
+	<string>radiusdata</string>
+	<key>hasExtension</key>
+	<string>immediateCursor</string>
+	<key>listenerscale</key>
+	<string>integrationInteraction</string>
+	<key>opaqueThread</key>
+	<string>shouldSaveSlash</string>
+	<key>priorPresenter</key>
+	<string>scalefromframework</string>
+	<key>schemasaturation</key>
+	<string>shouldSetStateView</string>
+	<key>shouldpaintsymbol</key>
+	<string>tappableResponder</string>
+	<key>wrapperTag</key>
+	<string>shouldUpdateBatch</string>
+</dict>
+</plist>

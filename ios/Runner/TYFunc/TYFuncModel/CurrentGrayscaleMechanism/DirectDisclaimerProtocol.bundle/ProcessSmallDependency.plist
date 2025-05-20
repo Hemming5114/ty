@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyAspect</key>
+	<string>multiModal</string>
+	<key>loopmargin</key>
+	<string>canRestartTransition</string>
+	<key>materialBuffer</key>
+	<string>autoMesh</string>
+	<key>mutableEntropy</key>
+	<string>accessibleDelivery</string>
+	<key>playbackwithoutactivity</key>
+	<string>specifyMerger</string>
+	<key>resilientmodel</key>
+	<string>permanentTrajectory</string>
+	<key>shouldContinueMaterial</key>
+	<string>desktopMember</string>
+	<key>shouldDisconnectTool</key>
+	<string>animatorBrightness</string>
+	<key>uniquenotificationforce</key>
+	<string>primarySelector</string>
+</dict>
+</plist>

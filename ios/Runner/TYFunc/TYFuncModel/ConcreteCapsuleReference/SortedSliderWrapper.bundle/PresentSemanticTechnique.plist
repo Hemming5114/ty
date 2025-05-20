@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCreator</key>
+	<string>canCreateModal</string>
+	<key>elasticloopdelay</key>
+	<string>tappableMetrics</string>
+	<key>immutableGesture</key>
+	<string>creatorDelay</string>
+	<key>independentFormat</key>
+	<string>shouldCreateSemantics</string>
+	<key>interpolationprototypeinterval</key>
+	<string>canPopEqualization</string>
+	<key>invisiblePresenter</key>
+	<string>sliderOpacity</string>
+	<key>listenloop</key>
+	<string>unbindPromise</string>
+</dict>
+</plist>

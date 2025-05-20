@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloccommandtag</key>
+	<string>captionDirection</string>
+	<key>evaluationFlags</key>
+	<string>unmountSpine</string>
+	<key>gestureRate</key>
+	<string>maintainChannel</string>
+	<key>materializepresenter</key>
+	<string>discardedInterface</string>
+	<key>originalColor</key>
+	<string>associatedQueue</string>
+	<key>primarytable</key>
+	<string>protocolSize</string>
+	<key>priorityStyle</key>
+	<string>visualizeVector</string>
+	<key>shouldYieldCosine</key>
+	<string>replicateMenu</string>
+	<key>viewfeedback</key>
+	<string>persistentBehavior</string>
+</dict>
+</plist>

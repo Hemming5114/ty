@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureColor</key>
+	<string>directAlert</string>
+	<key>asynchronousAnalogy</key>
+	<string>detachTexture</string>
+	<key>backwardinfo</key>
+	<string>shouldEndProject</string>
+	<key>chartMargin</key>
+	<string>listenNotification</string>
+	<key>concurrentEquivalent</key>
+	<string>asynchronousAlert</string>
+	<key>documentorigin</key>
+	<string>persistentAllocator</string>
+	<key>managerrotation</key>
+	<string>rendererRotation</string>
+	<key>resilientChannel</key>
+	<string>contractionLocation</string>
+	<key>sustainableReceiver</key>
+	<string>shouldPersistImage</string>
+	<key>typicalReducer</key>
+	<string>canPersistListView</string>
+</dict>
+</plist>

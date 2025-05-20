@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionrecursion</key>
+	<string>addAwait</string>
+	<key>directExtension</key>
+	<string>canRouteSizedBox</string>
+	<key>newestLayout</key>
+	<string>localShape</string>
+	<key>shouldDisposeScale</key>
+	<string>respondSubscription</string>
+	<key>shouldMountedPoint</key>
+	<string>multiexceptionshape</string>
+</dict>
+</plist>

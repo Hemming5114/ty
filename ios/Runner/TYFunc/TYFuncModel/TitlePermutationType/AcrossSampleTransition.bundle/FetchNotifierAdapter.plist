@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatescreen</key>
+	<string>mutableCubit</string>
+	<key>buttonAppearance</key>
+	<string>shouldMountedHeap</string>
+	<key>challengeFlags</key>
+	<string>tensorAnchor</string>
+	<key>discardedProgressBar</key>
+	<string>uniquegramdistance</string>
+	<key>relationalInjection</key>
+	<string>robustCell</string>
+	<key>shouldTrainMatrix</key>
+	<string>syncRow</string>
+	<key>unmountoverlay</key>
+	<string>paintAccessory</string>
+</dict>
+</plist>

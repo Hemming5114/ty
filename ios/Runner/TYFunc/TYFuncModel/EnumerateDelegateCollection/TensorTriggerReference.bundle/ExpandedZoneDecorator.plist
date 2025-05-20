@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanLatency</key>
+	<string>canFinishRoute</string>
+	<key>fusedGesture</key>
+	<string>checkboxIndex</string>
+	<key>multiThroughput</key>
+	<string>sinkIndex</string>
+	<key>signworkacceleration</key>
+	<string>rebuildDescriptor</string>
+	<key>typicalProcessor</key>
+	<string>canDeserializeNotification</string>
+</dict>
+</plist>

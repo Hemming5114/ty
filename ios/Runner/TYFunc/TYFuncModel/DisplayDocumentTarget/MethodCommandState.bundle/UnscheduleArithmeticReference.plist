@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEqualization</key>
+	<string>errororientation</string>
+	<key>completionFeedback</key>
+	<string>mediaInteraction</string>
+	<key>effectposition</key>
+	<string>equalizationMediator</string>
+	<key>gesturedetectorRotation</key>
+	<string>imperativeBloc</string>
+	<key>invisibleTangent</key>
+	<string>unmarshallistview</string>
+	<key>sorterShape</key>
+	<string>greatScenario</string>
+	<key>substantialsubscription</key>
+	<string>shouldPrepareSemantics</string>
+	<key>sustainableLayer</key>
+	<string>canLayoutAspect</string>
+</dict>
+</plist>

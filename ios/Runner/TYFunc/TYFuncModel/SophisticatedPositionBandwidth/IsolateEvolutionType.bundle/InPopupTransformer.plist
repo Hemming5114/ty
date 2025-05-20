@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectvariabletheme</key>
+	<string>smartslashtension</string>
+	<key>curvedirection</key>
+	<string>intermediateBandwidth</string>
+	<key>materialChallenge</key>
+	<string>shouldEncodeUsage</string>
+	<key>memberPressure</key>
+	<string>shouldSkipReduction</string>
+	<key>opaqueMediaQuery</key>
+	<string>constraintdelay</string>
+	<key>popupinteraction</key>
+	<string>shouldHandleNorm</string>
+	<key>scaleHead</key>
+	<string>grayscaletask</string>
+	<key>spotTransparency</key>
+	<string>widgetParam</string>
+</dict>
+</plist>

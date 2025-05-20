@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstAnimator</key>
+	<string>optionexception</string>
+	<key>gesturedetectorInteraction</key>
+	<string>shouldpublishprotocol</string>
+	<key>ignoredDescriptor</key>
+	<string>customizedResponse</string>
+	<key>modulustail</key>
+	<string>rangeAppearance</string>
+	<key>resolverDensity</key>
+	<string>retainBuffer</string>
+	<key>semanticMechanism</key>
+	<string>parseTouch</string>
+	<key>storageduration</key>
+	<string>detailSaturation</string>
+	<key>threadfinder</key>
+	<string>delicateDescription</string>
+	<key>typicalBehavior</key>
+	<string>metricsOffset</string>
+</dict>
+</plist>

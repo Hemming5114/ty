@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAmortization</key>
+	<string>baselineintegration</string>
+	<key>defaultstateful</key>
+	<string>displayableCosine</string>
+	<key>eagerTernary</key>
+	<string>listenbutton</string>
+	<key>hasThread</key>
+	<string>canSubscribeFuture</string>
+	<key>oldScenario</key>
+	<string>clipperHead</string>
+	<key>persistentIntegration</key>
+	<string>mountSample</string>
+	<key>semanticsparamposition</key>
+	<string>robustChart</string>
+</dict>
+</plist>

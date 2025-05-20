@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTweak</key>
+	<string>ongramchanged</string>
+	<key>contractionSpeed</key>
+	<string>shouldTransformConsumer</string>
+	<key>descentfrequency</key>
+	<string>checkDuration</string>
+	<key>dispatchinterface</key>
+	<string>unsortedEvent</string>
+	<key>introspectstore</key>
+	<string>temporaryDetail</string>
+	<key>notifysegment</key>
+	<string>previewlocation</string>
+	<key>rapidAudio</key>
+	<string>adaptiveTool</string>
+	<key>resultvisibility</key>
+	<string>mainLoader</string>
+	<key>unscheduleoperation</key>
+	<string>cubitScope</string>
+</dict>
+</plist>

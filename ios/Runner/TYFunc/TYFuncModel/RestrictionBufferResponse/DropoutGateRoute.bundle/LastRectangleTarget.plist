@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentalignment</key>
+	<string>roleconfiguration</string>
+	<key>animatedCubit</key>
+	<string>invokeAction</string>
+	<key>associatedFuture</key>
+	<string>iscurve</string>
+	<key>buttonchainforce</key>
+	<string>materialSubscription</string>
+	<key>shouldDispatchSample</key>
+	<string>shaderDelay</string>
+	<key>shouldSetStateSubpixel</key>
+	<string>textureconsumer</string>
+</dict>
+</plist>

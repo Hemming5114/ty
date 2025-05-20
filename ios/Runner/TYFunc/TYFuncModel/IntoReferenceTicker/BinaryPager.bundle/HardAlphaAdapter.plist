@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAnalogy</key>
+	<string>dropoutResponse</string>
+	<key>autoStatus</key>
+	<string>disconnectGate</string>
+	<key>componentLeft</key>
+	<string>mapperForce</string>
+	<key>futurespacing</key>
+	<string>processorSkewY</string>
+	<key>sequentialCaption</key>
+	<string>usedCompleter</string>
+	<key>shouldUnbindSample</key>
+	<string>addResource</string>
+	<key>subsequentColor</key>
+	<string>customTentative</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertSize</key>
+	<string>resizableAscent</string>
+	<key>mendOpacity</key>
+	<string>modeledge</string>
+	<key>shouldEndTool</key>
+	<string>canPopFlex</string>
+	<key>shouldPersistBuilder</key>
+	<string>destroyRepository</string>
+	<key>smartTransition</key>
+	<string>shouldResumeIcon</string>
+</dict>
+</plist>

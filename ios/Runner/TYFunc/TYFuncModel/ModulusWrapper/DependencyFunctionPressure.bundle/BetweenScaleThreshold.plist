@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviortag</key>
+	<string>benchmarkTopic</string>
+	<key>consultativeUseCase</key>
+	<string>findInterface</string>
+	<key>disabledlog</key>
+	<string>shouldvalidateobserver</string>
+	<key>explicitVideo</key>
+	<string>sophisticatedCluster</string>
+	<key>interactiveItem</key>
+	<string>playDescription</string>
+	<key>movestorage</key>
+	<string>lastAnimatedContainer</string>
+	<key>parallelReplica</key>
+	<string>largeproviderright</string>
+	<key>shouldStopBase</key>
+	<string>tweenParam</string>
+	<key>staticCursor</key>
+	<string>precisionFrequency</string>
+</dict>
+</plist>

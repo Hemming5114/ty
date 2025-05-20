@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInteraction</key>
+	<string>hardReducer</string>
+	<key>entityevolution</key>
+	<string>shouldSerializeGesture</string>
+	<key>litecontrast</key>
+	<string>declarativeManager</string>
+	<key>observerhue</key>
+	<string>canLoadScreen</string>
+	<key>originalAperture</key>
+	<string>reusableCatalyst</string>
+	<key>permanentgesturedetector</key>
+	<string>emitbuilder</string>
+	<key>sceneColor</key>
+	<string>ternaryStage</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileResilience</key>
+	<string>restartStream</string>
+	<key>animatorScale</key>
+	<string>intuitiveMaster</string>
+	<key>shouldParseCell</key>
+	<string>resizableEntity</string>
+	<key>shouldShowPlayback</key>
+	<string>onroutechanged</string>
+	<key>shouldTrainGift</key>
+	<string>timerAppearance</string>
+	<key>webSlider</key>
+	<string>adjustFeature</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impactSkewY</key>
+	<string>bufferstrategyborder</string>
+	<key>missedAperture</key>
+	<string>tappableIcon</string>
+	<key>popupbrightness</key>
+	<string>diffableSkin</string>
+	<key>remainderBound</key>
+	<string>previewContrast</string>
+	<key>scrollableRectangle</key>
+	<string>pauseModal</string>
+	<key>serviceforce</key>
+	<string>convolutionLevel</string>
+	<key>shouldSkipContraction</key>
+	<string>activePadding</string>
+	<key>shouldSkipTabView</key>
+	<string>videoVisible</string>
+</dict>
+</plist>

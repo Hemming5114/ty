@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachbloc</key>
+	<string>adjustNavigator</string>
+	<key>clipprovider</key>
+	<string>retrieveslider</string>
+	<key>conformresponse</key>
+	<string>unbindTransition</string>
+	<key>difficultStorage</key>
+	<string>grayscaleposition</string>
+	<key>optimizerpressure</key>
+	<string>listviewscope</string>
+	<key>pivotalGraphic</key>
+	<string>clusterShade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMovement</key>
+	<string>statestructureshade</string>
+	<key>diffableFilter</key>
+	<string>alignmentOperation</string>
+	<key>keynavigationorientation</key>
+	<string>canCreateDimension</string>
+	<key>relationalDependency</key>
+	<string>overlaymargin</string>
+	<key>shouldTransformAxis</key>
+	<string>animatedcontainerrow</string>
+	<key>shouldUnbindArithmetic</key>
+	<string>detachflex</string>
+</dict>
+</plist>

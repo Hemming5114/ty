@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertleveldensity</key>
+	<string>shouldLayoutUnary</string>
+	<key>architecturePressure</key>
+	<string>prevPopup</string>
+	<key>interactiveFinder</key>
+	<string>otherCallback</string>
+	<key>priorityacceleration</key>
+	<string>modulusSingleton</string>
+	<key>shouldTransformCollection</key>
+	<string>uniqueCapacity</string>
+	<key>singleFrame</key>
+	<string>materialThreshold</string>
+	<key>strokeInterval</key>
+	<string>comprehensiveGradient</string>
+	<key>thresholdColor</key>
+	<string>pageviewLayer</string>
+	<key>touchmodel</key>
+	<string>introspectLabel</string>
+	<key>tweakCoord</key>
+	<string>gridAppearance</string>
+</dict>
+</plist>

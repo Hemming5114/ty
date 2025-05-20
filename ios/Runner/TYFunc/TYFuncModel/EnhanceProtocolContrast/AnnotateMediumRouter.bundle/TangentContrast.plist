@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonselector</key>
+	<string>intuitiveequivalent</string>
+	<key>oldMesh</key>
+	<string>fusedText</string>
+	<key>onplaybacktap</key>
+	<string>reductionTheme</string>
+	<key>remediationHead</key>
+	<string>clipperStructure</string>
+	<key>synchronoustask</key>
+	<string>searchContainer</string>
+</dict>
+</plist>

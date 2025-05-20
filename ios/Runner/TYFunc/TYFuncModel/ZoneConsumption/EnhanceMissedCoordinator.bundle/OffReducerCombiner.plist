@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsright</key>
+	<string>scenarioMargin</string>
+	<key>defaultbox</key>
+	<string>spriteJob</string>
+	<key>independentReceiver</key>
+	<string>setstateSignature</string>
+	<key>invisibleScaffold</key>
+	<string>zonedistance</string>
+	<key>onequipmentchanged</key>
+	<string>publisherfrequency</string>
+	<key>seamlessIcon</key>
+	<string>responsePrototype</string>
+	<key>semanticFormat</key>
+	<string>logShade</string>
+	<key>shouldDisposeCycle</key>
+	<string>equalizationHue</string>
+	<key>shouldpopspot</key>
+	<string>shouldSkipSemantics</string>
+	<key>singlePainter</key>
+	<string>loopmerger</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileElement</key>
+	<string>deserializeRepository</string>
+	<key>asynchronousModule</key>
+	<string>metadatastatus</string>
+	<key>canvasradius</key>
+	<string>discardedsearcher</string>
+	<key>mobileSymbol</key>
+	<string>difficultBitrate</string>
+	<key>normalmapper</key>
+	<string>canMountedAnchor</string>
+	<key>seamlessVertex</key>
+	<string>resizeTimer</string>
+	<key>shouldDecodePriority</key>
+	<string>directExponent</string>
+	<key>shouldLayoutLoss</key>
+	<string>firstcapsule</string>
+	<key>storyboardtail</key>
+	<string>reflectLayer</string>
+</dict>
+</plist>

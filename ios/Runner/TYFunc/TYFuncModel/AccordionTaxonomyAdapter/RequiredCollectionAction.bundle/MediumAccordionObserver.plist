@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMerger</key>
+	<string>sineStyle</string>
+	<key>baselineamortization</key>
+	<string>componenttail</string>
+	<key>declarativeusecase</key>
+	<string>alertDuration</string>
+	<key>dropdownbuttonSize</key>
+	<string>presentFragment</string>
+	<key>geometricresolveroffset</key>
+	<string>shouldUnmountBuilder</string>
+	<key>semanticCache</key>
+	<string>thresholdOpacity</string>
+</dict>
+</plist>

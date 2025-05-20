@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredRepository</key>
+	<string>statelessHistogram</string>
+	<key>displayableNotification</key>
+	<string>mutableGradient</string>
+	<key>persistlocalization</key>
+	<string>roleFlags</string>
+	<key>selectedSpine</key>
+	<string>directScalability</string>
+	<key>shouldEncodeGridView</key>
+	<string>quaternionShade</string>
+</dict>
+</plist>

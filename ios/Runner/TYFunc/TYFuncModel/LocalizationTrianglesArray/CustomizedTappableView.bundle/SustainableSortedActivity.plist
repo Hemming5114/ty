@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableSlash</key>
+	<string>adaptiveRect</string>
+	<key>documenttransparency</key>
+	<string>sharedKernel</string>
+	<key>fixedTitle</key>
+	<string>shouldStopSegue</string>
+	<key>reactiveArchitecture</key>
+	<string>markTimer</string>
+	<key>resourcecreator</key>
+	<string>independentNode</string>
+	<key>shouldSaveTernary</key>
+	<string>canShowBitrate</string>
+	<key>topicvalidation</key>
+	<string>augmentCoordinator</string>
+	<key>transitiontint</key>
+	<string>unsorteddialogsname</string>
+	<key>viewcontrast</key>
+	<string>draggableConverter</string>
+</dict>
+</plist>

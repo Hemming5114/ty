@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectvelocity</key>
+	<string>mixinScene</string>
+	<key>compositionalRect</key>
+	<string>directlyMember</string>
+	<key>cupertinoAperture</key>
+	<string>isgram</string>
+	<key>deferredReducer</key>
+	<string>shouldPrepareVariant</string>
+	<key>titletheme</key>
+	<string>loopBridge</string>
+</dict>
+</plist>

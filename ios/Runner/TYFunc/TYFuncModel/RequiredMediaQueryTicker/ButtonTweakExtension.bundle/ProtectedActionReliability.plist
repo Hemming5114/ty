@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheInteraction</key>
+	<string>shouldStreamPlayback</string>
+	<key>grayscaleType</key>
+	<string>significantconsumerposition</string>
+	<key>inactiveGesture</key>
+	<string>shouldObservePlate</string>
+	<key>intuitiveCompletion</key>
+	<string>prevCatalyst</string>
+	<key>largeInstruction</key>
+	<string>plateSystem</string>
+	<key>notationIndex</key>
+	<string>fusedBrush</string>
+	<key>protectedgrayscale</key>
+	<string>notificationStatus</string>
+	<key>robustTriangles</key>
+	<string>smallImpact</string>
+	<key>scrollableLabel</key>
+	<string>textureMargin</string>
+	<key>seamlessDecoration</key>
+	<string>listenRadius</string>
+</dict>
+</plist>

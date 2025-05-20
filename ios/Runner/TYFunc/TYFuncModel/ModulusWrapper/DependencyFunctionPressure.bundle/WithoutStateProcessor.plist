@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentParticle</key>
+	<string>missionKind</string>
+	<key>intermediateSpecifier</key>
+	<string>refreshPopup</string>
+	<key>permanentLoss</key>
+	<string>shouldTrainAnimatedContainer</string>
+	<key>permissiveLayer</key>
+	<string>replaceCube</string>
+	<key>timerformtail</key>
+	<string>activateMetadata</string>
+</dict>
+</plist>

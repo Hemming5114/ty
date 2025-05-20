@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleamortization</key>
+	<string>materialHandler</string>
+	<key>dropdownbuttonbesidevalue</key>
+	<string>canPopInstruction</string>
+	<key>graphicbinder</key>
+	<string>responsiveTouch</string>
+	<key>labelinset</key>
+	<string>connectOverlay</string>
+	<key>pausemethod</key>
+	<string>inactiveAlert</string>
+	<key>resultinphase</key>
+	<string>mediumHistogram</string>
+	<key>scaleentity</key>
+	<string>autoComposition</string>
+	<key>statelessMerger</key>
+	<string>vertexBehavior</string>
+</dict>
+</plist>

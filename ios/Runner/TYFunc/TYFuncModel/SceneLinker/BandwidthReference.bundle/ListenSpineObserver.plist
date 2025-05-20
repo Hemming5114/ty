@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedEvaluation</key>
+	<string>completionInterpreter</string>
+	<key>explicitanimatedcontainermode</key>
+	<string>compositionCycle</string>
+	<key>heapContrast</key>
+	<string>bindPageView</string>
+	<key>histogramdetail</key>
+	<string>canParseCupertino</string>
+	<key>lastSensor</key>
+	<string>mutableDrawer</string>
+	<key>robustContainer</key>
+	<string>futuretension</string>
+	<key>sessionLocation</key>
+	<string>cubitInterval</string>
+	<key>stopshader</key>
+	<string>usecaseState</string>
+	<key>visiblePermutation</key>
+	<string>concatenateUseCase</string>
+	<key>zonerecursion</key>
+	<string>lifecycleTag</string>
+</dict>
+</plist>

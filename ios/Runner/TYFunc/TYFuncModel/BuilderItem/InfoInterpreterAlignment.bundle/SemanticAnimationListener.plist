@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTable</key>
+	<string>mainPadding</string>
+	<key>enabledGradient</key>
+	<string>geometricState</string>
+	<key>mutableTentative</key>
+	<string>nativeProvider</string>
+	<key>opaqueinteraction</key>
+	<string>activeCache</string>
+	<key>originalIndicator</key>
+	<string>modalInteraction</string>
+	<key>resilientObserver</key>
+	<string>canProcessLayout</string>
+	<key>shouldEncodeDecoration</key>
+	<string>dismissprogressbar</string>
+	<key>shouldtraincolumn</key>
+	<string>navigatorOffset</string>
+	<key>textureBound</key>
+	<string>secondRenderer</string>
+</dict>
+</plist>

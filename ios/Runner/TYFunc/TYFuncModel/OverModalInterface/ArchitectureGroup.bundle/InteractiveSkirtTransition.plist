@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatororsystem</key>
+	<string>routefunctiondirection</string>
+	<key>cubeInterval</key>
+	<string>fixedSymbol</string>
+	<key>granularPriority</key>
+	<string>listenContraction</string>
+	<key>normalStroke</key>
+	<string>logarithmTension</string>
+	<key>rapidLoop</key>
+	<string>dedicatedCache</string>
+	<key>robustFilter</key>
+	<string>shouldDetachActivity</string>
+	<key>specifySlash</key>
+	<string>dropoutGroup</string>
+</dict>
+</plist>

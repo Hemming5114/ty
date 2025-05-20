@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerContrast</key>
+	<string>disparateController</string>
+	<key>dispatchmetadata</key>
+	<string>canReplaceWidget</string>
+	<key>shouldResumeSensor</key>
+	<string>bitratescopefrequency</string>
+	<key>shouldShowContainer</key>
+	<string>listenFactory</string>
+</dict>
+</plist>

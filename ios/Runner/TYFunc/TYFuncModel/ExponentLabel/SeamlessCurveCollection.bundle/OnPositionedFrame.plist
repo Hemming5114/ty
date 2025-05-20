@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMovement</key>
+	<string>animateNib</string>
+	<key>callbackShape</key>
+	<string>sizeChain</string>
+	<key>capacityMargin</key>
+	<string>constraintOpacity</string>
+	<key>coordinatorFeedback</key>
+	<string>respectiveOperation</string>
+	<key>shouldStreamMusic</key>
+	<string>yieldgrid</string>
+	<key>sophisticatedEquivalent</key>
+	<string>invisibleDimension</string>
+	<key>transitiontween</key>
+	<string>retainedRouter</string>
+</dict>
+</plist>

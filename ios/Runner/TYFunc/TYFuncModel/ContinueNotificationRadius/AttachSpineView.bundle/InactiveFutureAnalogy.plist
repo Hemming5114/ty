@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaInset</key>
+	<string>defaultSemantics</string>
+	<key>blocacceleration</key>
+	<string>yieldCompletion</string>
+	<key>hyperbolicMatrix</key>
+	<string>touchscopevisibility</string>
+	<key>inheritedanimatedcontainer</key>
+	<string>originalMatrix</string>
+	<key>nativeResponder</key>
+	<string>featureRight</string>
+	<key>sharedgradient</key>
+	<string>initializeInjection</string>
+</dict>
+</plist>

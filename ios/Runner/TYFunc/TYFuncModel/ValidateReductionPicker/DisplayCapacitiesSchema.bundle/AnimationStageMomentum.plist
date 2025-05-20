@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderScale</key>
+	<string>advancedSize</string>
+	<key>explicitSearcher</key>
+	<string>asynchronousView</string>
+	<key>geometricLayout</key>
+	<string>streamhue</string>
+	<key>greatContainer</key>
+	<string>deferredStroke</string>
+	<key>mechanismSize</key>
+	<string>detachequalization</string>
+	<key>selectedTernary</key>
+	<string>benchmarkTask</string>
+</dict>
+</plist>

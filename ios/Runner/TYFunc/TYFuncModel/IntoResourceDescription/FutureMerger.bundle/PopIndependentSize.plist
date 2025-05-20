@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetIndex</key>
+	<string>stepFrequency</string>
+	<key>autoExpanded</key>
+	<string>cycleState</string>
+	<key>behaviormementohue</key>
+	<string>channelparametertransparency</string>
+	<key>gesturedetectorScale</key>
+	<string>coordinatorresponse</string>
+	<key>protectedScaffold</key>
+	<string>profileBorder</string>
+	<key>respectiveSegue</key>
+	<string>transpileIntensity</string>
+	<key>semanticMusic</key>
+	<string>exceptionFlags</string>
+	<key>shouldDeserializeSemantics</key>
+	<string>canUnmountConstraint</string>
+	<key>skinLeft</key>
+	<string>usecasepatternstyle</string>
+	<key>uniformEvaluation</key>
+	<string>ongrayscalechanged</string>
+</dict>
+</plist>

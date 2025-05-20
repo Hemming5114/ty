@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackformcontrast</key>
+	<string>shouldUpdateNotification</string>
+	<key>pausepresenter</key>
+	<string>sceneSkewY</string>
+	<key>shapeStyle</key>
+	<string>canStartTransition</string>
+	<key>shouldcontinuesignature</key>
+	<string>canBindIndicator</string>
+	<key>sortedLog</key>
+	<string>differentiateinterpolation</string>
+	<key>ternaryqueue</key>
+	<string>localSymbol</string>
+</dict>
+</plist>

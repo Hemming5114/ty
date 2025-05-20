@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oldSwitch</key>
+	<string>adjustSlider</string>
+	<key>responsiveSensor</key>
+	<string>documentWork</string>
+	<key>shouldKeepSegment</key>
+	<string>declarativeOption</string>
+	<key>sortedGroup</key>
+	<string>fusedLayer</string>
+	<key>statefulWrapper</key>
+	<string>asyncfrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCatalyst</key>
+	<string>latencySize</string>
+	<key>currentScale</key>
+	<string>bufferscenario</string>
+	<key>handlerflags</key>
+	<string>mediaaction</string>
+	<key>imageDistance</key>
+	<string>notifierTheme</string>
+	<key>sequentialRemediation</key>
+	<string>gridviewCommand</string>
+	<key>shouldReplaceEqualization</key>
+	<string>dissociateduration</string>
+</dict>
+</plist>

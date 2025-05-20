@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fuseddecorationindex</key>
+	<string>oldBaseline</string>
+	<key>interpolationfrequency</key>
+	<string>geometricNotifier</string>
+	<key>normalSession</key>
+	<string>shouldPersistStateless</string>
+	<key>rendereropacity</key>
+	<string>decoupleFuture</string>
+	<key>responseSkewX</key>
+	<string>latencyHue</string>
+	<key>retainedobserver</key>
+	<string>dropoutListener</string>
+	<key>reusableOffset</key>
+	<string>previewchainbrightness</string>
+	<key>sessionrecursion</key>
+	<string>specifyRestriction</string>
+	<key>taskshape</key>
+	<string>layerChain</string>
+</dict>
+</plist>

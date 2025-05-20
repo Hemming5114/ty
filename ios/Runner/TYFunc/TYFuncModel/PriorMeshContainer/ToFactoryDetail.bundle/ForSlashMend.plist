@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOptimizer</key>
+	<string>streamlineRect</string>
+	<key>checklistPressure</key>
+	<string>reactiveStateful</string>
+	<key>customizedUnary</key>
+	<string>issizedbox</string>
+	<key>eagerCombiner</key>
+	<string>semanticsResponse</string>
+	<key>inkwellTheme</key>
+	<string>canUnmountCupertino</string>
+	<key>latencyDistance</key>
+	<string>seamlessPosition</string>
+	<key>rectifydimension</key>
+	<string>canParsePromise</string>
+	<key>requestDuration</key>
+	<string>subtleWidget</string>
+	<key>standaloneListView</key>
+	<string>destroyView</string>
+	<key>textureframeworkstyle</key>
+	<string>formatAperture</string>
+</dict>
+</plist>

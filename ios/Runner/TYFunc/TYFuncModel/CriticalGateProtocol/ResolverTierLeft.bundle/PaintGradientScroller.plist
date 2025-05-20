@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateCell</key>
+	<string>ontouchtap</string>
+	<key>invisibleConvolution</key>
+	<string>decoupleIsolate</string>
+	<key>prioritymethod</key>
+	<string>seamlessRequest</string>
+	<key>reactiveSkin</key>
+	<string>alignmentVariable</string>
+	<key>responsiveGate</key>
+	<string>enabledStack</string>
+</dict>
+</plist>

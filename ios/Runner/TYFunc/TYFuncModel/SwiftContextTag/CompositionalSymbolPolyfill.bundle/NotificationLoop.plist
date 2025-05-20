@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSubscription</key>
+	<string>shouldContinueCanvas</string>
+	<key>cancelresource</key>
+	<string>widgetEdge</string>
+	<key>controllerPressure</key>
+	<string>reusableanimatedcontainerappearance</string>
+	<key>descentSaturation</key>
+	<string>initializeFactory</string>
+	<key>pinchableCompleter</key>
+	<string>pinchableCapacities</string>
+	<key>resumepoint</key>
+	<string>tabviewPosition</string>
+	<key>routeDistance</key>
+	<string>asynchronousGate</string>
+	<key>shouldUnbindProtocol</key>
+	<string>originalSplitter</string>
+</dict>
+</plist>

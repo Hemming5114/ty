@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxformat</key>
+	<string>synchronousSubscriber</string>
+	<key>mediaqueryValidation</key>
+	<string>crudeResponse</string>
+	<key>notificationright</key>
+	<string>shouldPushOption</string>
+	<key>pivotalMapper</key>
+	<string>numericalActivity</string>
+	<key>videoInterval</key>
+	<string>publicAspect</string>
+</dict>
+</plist>

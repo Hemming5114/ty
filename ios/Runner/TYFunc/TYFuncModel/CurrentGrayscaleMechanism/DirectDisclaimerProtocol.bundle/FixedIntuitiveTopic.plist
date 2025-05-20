@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEvaluation</key>
+	<string>unsortedSwitch</string>
+	<key>disabledInterpolation</key>
+	<string>requestreceiver</string>
+	<key>fetchmaster</key>
+	<string>resetasset</string>
+	<key>finishtransformer</key>
+	<string>bindCheckbox</string>
+	<key>hierarchicalCharacteristic</key>
+	<string>certificateinfo</string>
+	<key>integrationTag</key>
+	<string>concurrentTime</string>
+	<key>localizationfacadecenter</key>
+	<string>cachechannel</string>
+	<key>radiusPadding</key>
+	<string>shouldRebuildTabView</string>
+	<key>scenarioFlags</key>
+	<string>shouldEmitGraphic</string>
+	<key>shouldformatsign</key>
+	<string>multiplicationStage</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureRate</key>
+	<string>customState</string>
+	<key>basicNavigator</key>
+	<string>embedTween</string>
+	<key>batchspacing</key>
+	<string>switchCenter</string>
+	<key>ephemeralTangent</key>
+	<string>signDuration</string>
+	<key>shouldDisposePageView</key>
+	<string>encodecheckbox</string>
+	<key>stampName</key>
+	<string>canPauseProjection</string>
+</dict>
+</plist>

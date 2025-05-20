@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorFormat</key>
+	<string>throughputSpeed</string>
+	<key>itemSpacing</key>
+	<string>canBuildConsumer</string>
+	<key>mutableGroup</key>
+	<string>parseScaffold</string>
+	<key>requestInteraction</key>
+	<string>processBox</string>
+	<key>scrollableStateful</key>
+	<string>missedResilience</string>
+	<key>seekalignment</key>
+	<string>hasstateful</string>
+	<key>shouldTransformGraphic</key>
+	<string>convolutionProxy</string>
+	<key>singleTicker</key>
+	<string>resilientSensor</string>
+</dict>
+</plist>

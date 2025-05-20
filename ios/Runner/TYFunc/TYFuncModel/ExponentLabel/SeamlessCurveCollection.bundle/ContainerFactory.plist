@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancellabel</key>
+	<string>gesturedetectorStyle</string>
+	<key>confidentialityStyle</key>
+	<string>canPauseStoryboard</string>
+	<key>pausenorm</key>
+	<string>secondEffect</string>
+	<key>selectedaperture</key>
+	<string>canParseAnchor</string>
+	<key>singleSink</key>
+	<string>typicalSine</string>
+	<key>statefulStoryboard</key>
+	<string>architecturebrightness</string>
+	<key>ternaryVelocity</key>
+	<string>interpolatecurve</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyProjection</key>
+	<string>subpixelPadding</string>
+	<key>immediateVideo</key>
+	<string>shouldSkipMap</string>
+	<key>localizationDirection</key>
+	<string>replicateStream</string>
+	<key>playthread</key>
+	<string>globalDuration</string>
+	<key>shouldDisconnectSemantics</key>
+	<string>decorationtopic</string>
+	<key>streamTag</key>
+	<string>selectedpadding</string>
+	<key>unsortedMovement</key>
+	<string>bufferwithoutsystem</string>
+	<key>visitradius</key>
+	<string>canResumeMusic</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentInteraction</key>
+	<string>greatSubscription</string>
+	<key>explicitException</key>
+	<string>secondTweak</string>
+	<key>popresponse</key>
+	<string>interfacespeed</string>
+	<key>promiseVisible</key>
+	<string>touchActivity</string>
+	<key>provisionHead</key>
+	<string>shouldTransitionStep</string>
+	<key>seamlessTraversal</key>
+	<string>errorPlatform</string>
+	<key>secondPublisher</key>
+	<string>functionalStore</string>
+	<key>typicalcoordinatorbound</key>
+	<string>elasticRichText</string>
+</dict>
+</plist>

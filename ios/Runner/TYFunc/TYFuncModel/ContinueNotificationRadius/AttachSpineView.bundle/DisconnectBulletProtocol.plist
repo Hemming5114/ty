@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPosition</key>
+	<string>arithmeticbuilder</string>
+	<key>autoQuaternion</key>
+	<string>streamProtocol</string>
+	<key>positionedschema</key>
+	<string>sharedParticle</string>
+	<key>reactiveView</key>
+	<string>dedicatedReplica</string>
+	<key>resourceSkewY</key>
+	<string>canCreateMargin</string>
+	<key>shouldAttachCache</key>
+	<string>infrastructureScale</string>
+	<key>shouldEmitLabel</key>
+	<string>canStartChannels</string>
+	<key>zoneproxysize</key>
+	<string>canvasIndex</string>
+</dict>
+</plist>

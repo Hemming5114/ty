@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStrength</key>
+	<string>createProject</string>
+	<key>ignoredParticle</key>
+	<string>animateThread</string>
+	<key>invisiblegrainscale</key>
+	<string>backwardImage</string>
+	<key>missedRole</key>
+	<string>canCreateCycle</string>
+	<key>shouldPersistAppBar</key>
+	<string>trainticker</string>
+	<key>spriteShade</key>
+	<string>overlayMomentum</string>
+</dict>
+</plist>

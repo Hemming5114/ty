@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintmediatorstyle</key>
+	<string>webConstant</string>
+	<key>ephemeralcolumnfrequency</key>
+	<string>queueOpacity</string>
+	<key>geometricVector</key>
+	<string>featureInterpreter</string>
+	<key>histogramOrigin</key>
+	<string>compositionalSprite</string>
+	<key>protectedRestriction</key>
+	<string>shouldEmitListView</string>
+	<key>secondLayer</key>
+	<string>sizevisible</string>
+	<key>shouldYieldContraction</key>
+	<string>shouldDisconnectBaseline</string>
+	<key>shouldtraingesture</key>
+	<string>checklistTheme</string>
+	<key>wrapperDistance</key>
+	<string>listenerbeyondstrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventoffset</key>
+	<string>canRoutePoint</string>
+	<key>ismonster</key>
+	<string>adaptiveZone</string>
+	<key>rolearoundlevel</key>
+	<string>graphenvironmentsize</string>
+	<key>usedQuaternion</key>
+	<string>retainedDecoration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticmediatororigin</key>
+	<string>sceneSpeed</string>
+	<key>backwardcoordinatoracceleration</key>
+	<string>mediumGem</string>
+	<key>completionForce</key>
+	<string>hardHandler</string>
+	<key>iterativeReceiver</key>
+	<string>cubeJob</string>
+	<key>mainmaterialedge</key>
+	<string>integrationSkewY</string>
+	<key>memberinterval</key>
+	<string>encodecollection</string>
+	<key>permissiveRect</key>
+	<string>storagelayerbound</string>
+	<key>variantmaterializer</key>
+	<string>paintCertificate</string>
+	<key>viewIndex</key>
+	<string>replacelistview</string>
+</dict>
+</plist>

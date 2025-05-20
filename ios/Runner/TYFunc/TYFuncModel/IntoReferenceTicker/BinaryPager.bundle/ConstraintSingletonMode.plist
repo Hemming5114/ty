@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAnchor</key>
+	<string>equalizationPrototype</string>
+	<key>displayableResponder</key>
+	<string>pendingExtension</string>
+	<key>imperativestroke</key>
+	<string>inkwellFeedback</string>
+	<key>independentfilter</key>
+	<string>liteDrawer</string>
+	<key>responsiveCharacter</key>
+	<string>notificationTransparency</string>
+	<key>restartvector</key>
+	<string>shouldValidateHistogram</string>
+	<key>shouldRebuildCapsule</key>
+	<string>canAttachTabBar</string>
+	<key>uniformBuffer</key>
+	<string>webShader</string>
+</dict>
+</plist>

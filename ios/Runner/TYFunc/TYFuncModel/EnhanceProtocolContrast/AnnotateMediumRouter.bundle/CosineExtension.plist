@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryShade</key>
+	<string>popupBound</string>
+	<key>compositionalBinder</key>
+	<string>canTransformMap</string>
+	<key>compositionalMenu</key>
+	<string>diffableResource</string>
+	<key>ephemeralpolygon</key>
+	<string>usedSkirt</string>
+	<key>keyClipper</key>
+	<string>rotatebrush</string>
+	<key>resourcemediatorspeed</key>
+	<string>permanentTransformer</string>
+	<key>shaderOrigin</key>
+	<string>intermediateResource</string>
+	<key>shouldNavigateBox</key>
+	<string>containerLayer</string>
+</dict>
+</plist>

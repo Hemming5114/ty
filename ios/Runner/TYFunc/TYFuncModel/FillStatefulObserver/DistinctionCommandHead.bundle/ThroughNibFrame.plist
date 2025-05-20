@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePoint</key>
+	<string>temporaryPriority</string>
+	<key>brushtheme</key>
+	<string>subtleCurve</string>
+	<key>dropdownbuttonTheme</key>
+	<string>selectedDocument</string>
+	<key>graphicShade</key>
+	<string>keepModal</string>
+	<key>rapidPicker</key>
+	<string>exitTween</string>
+	<key>reusableSkirt</key>
+	<string>canRestartText</string>
+	<key>robustaxiscontrast</key>
+	<string>newestutil</string>
+	<key>shouldAttachMonster</key>
+	<string>shouldfetchlayout</string>
+	<key>singlePresenter</key>
+	<string>localNib</string>
+</dict>
+</plist>

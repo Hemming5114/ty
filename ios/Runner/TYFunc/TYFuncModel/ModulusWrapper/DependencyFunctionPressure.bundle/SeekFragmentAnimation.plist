@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcontroller</key>
+	<string>providerValidation</string>
+	<key>creatorbottom</key>
+	<string>mixinCoordinator</string>
+	<key>discardedOffset</key>
+	<string>statefularoundpattern</string>
+	<key>extendpromise</key>
+	<string>largeBitrate</string>
+	<key>imperativeequivalent</key>
+	<string>canSerializeEquipment</string>
+	<key>nativesubpixel</key>
+	<string>delicateNavigation</string>
+	<key>requestascontext</key>
+	<string>mobileFeature</string>
+	<key>shouldpausedescriptor</key>
+	<string>statefulItem</string>
+</dict>
+</plist>

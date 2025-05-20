@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelprovider</key>
+	<string>plateTransparency</string>
+	<key>dynamicRouter</key>
+	<string>skipReference</string>
+	<key>lostRouter</key>
+	<string>refreshSize</string>
+	<key>mediaqueryPressure</key>
+	<string>permissiveInformation</string>
+	<key>shouldDisposeMaster</key>
+	<string>dialogsScale</string>
+	<key>shouldValidateSign</key>
+	<string>smallgesturedetectormomentum</string>
+</dict>
+</plist>

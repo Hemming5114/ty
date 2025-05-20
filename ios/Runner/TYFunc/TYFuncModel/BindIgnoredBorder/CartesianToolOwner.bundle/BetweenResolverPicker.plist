@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityDensity</key>
+	<string>tickerFlags</string>
+	<key>desktopCanvas</key>
+	<string>keyBoxShadow</string>
+	<key>displayableSelector</key>
+	<string>basicSkin</string>
+	<key>mobilegesturedetectordelay</key>
+	<string>bundleProgressBar</string>
+	<key>oldEvolution</key>
+	<string>pauseContainer</string>
+	<key>parallelView</key>
+	<string>containerPattern</string>
+	<key>petColor</key>
+	<string>canCreateTabView</string>
+	<key>resizableSorter</key>
+	<string>missedBase</string>
+	<key>splitterSkewY</key>
+	<string>borderRight</string>
+</dict>
+</plist>

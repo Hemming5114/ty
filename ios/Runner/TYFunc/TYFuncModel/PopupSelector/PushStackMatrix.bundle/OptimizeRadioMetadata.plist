@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardArithmetic</key>
+	<string>easyevent</string>
+	<key>dedicatedaspectorigin</key>
+	<string>debugUseCase</string>
+	<key>difficultTime</key>
+	<string>uniformDescent</string>
+	<key>mediaqueryhead</key>
+	<string>streamMomentum</string>
+	<key>paddingInteraction</key>
+	<string>subtlegradient</string>
+	<key>retainedTimer</key>
+	<string>serializeAspect</string>
+	<key>schedulerCount</key>
+	<string>visualizeMenu</string>
+	<key>shouldPrepareDelegate</key>
+	<string>relationalSubscriber</string>
+	<key>specifierTheme</key>
+	<string>canEndBullet</string>
+	<key>transitionBrightness</key>
+	<string>shouldDismissProtocol</string>
+</dict>
+</plist>

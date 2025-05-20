@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicQuaternion</key>
+	<string>smallSlider</string>
+	<key>certificateaction</key>
+	<string>decorationsplitter</string>
+	<key>ignoredActivity</key>
+	<string>uniqueWidget</string>
+	<key>lazyScenario</key>
+	<string>capacitiesbottom</string>
+	<key>responderName</key>
+	<string>cacheInterpolation</string>
+	<key>shouldFormatObserver</key>
+	<string>animateBorder</string>
+	<key>shouldParseConstraint</key>
+	<string>playbackMemento</string>
+	<key>webSwift</key>
+	<string>intuitivebitrate</string>
+</dict>
+</plist>

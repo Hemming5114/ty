@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncrecursion</key>
+	<string>accelerateRoute</string>
+	<key>crudeArithmetic</key>
+	<string>storyboardScale</string>
+	<key>largeFinder</key>
+	<string>futureSpeed</string>
+	<key>parallelMenu</key>
+	<string>touchIntensity</string>
+	<key>playgem</key>
+	<string>activeCallback</string>
+	<key>resizableWidget</key>
+	<string>lossstylebottom</string>
+	<key>synchronousDialogs</key>
+	<string>scrollPressure</string>
+</dict>
+</plist>

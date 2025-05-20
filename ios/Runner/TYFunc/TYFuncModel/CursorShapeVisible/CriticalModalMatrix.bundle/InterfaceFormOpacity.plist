@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileError</key>
+	<string>metadataMemento</string>
+	<key>flexibleCallback</key>
+	<string>streamMedia</string>
+	<key>responsivechannel</key>
+	<string>isbase</string>
+	<key>sequentialModule</key>
+	<string>easyTernary</string>
+	<key>shouldPresentProject</key>
+	<string>alphaVelocity</string>
+	<key>shouldPublishController</key>
+	<string>canNavigateMobile</string>
+	<key>tappableinjection</key>
+	<string>declarativeAperture</string>
+	<key>usageBehavior</key>
+	<string>canRebuildImage</string>
+</dict>
+</plist>

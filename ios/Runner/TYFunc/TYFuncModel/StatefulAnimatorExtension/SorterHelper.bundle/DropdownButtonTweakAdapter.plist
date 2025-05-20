@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivateloop</key>
+	<string>efficiencyFeedback</string>
+	<key>deferredEfficiency</key>
+	<string>dependencyexceptstage</string>
+	<key>grainconnector</key>
+	<string>canStopResource</string>
+	<key>moduluscolor</key>
+	<string>criticalPolygon</string>
+	<key>multiSink</key>
+	<string>requiredMomentum</string>
+</dict>
+</plist>

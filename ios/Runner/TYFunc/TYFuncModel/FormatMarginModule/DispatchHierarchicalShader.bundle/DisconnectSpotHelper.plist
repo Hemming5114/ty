@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlecertificate</key>
+	<string>switchhead</string>
+	<key>integertheme</key>
+	<string>videotag</string>
+	<key>numericalAppBar</key>
+	<string>readLayout</string>
+	<key>projectionreducer</key>
+	<string>intuitiveFrame</string>
+	<key>shouldBuildExponent</key>
+	<string>obtainTexture</string>
+</dict>
+</plist>

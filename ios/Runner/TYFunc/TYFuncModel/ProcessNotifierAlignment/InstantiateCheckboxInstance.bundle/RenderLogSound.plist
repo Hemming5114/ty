@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectortag</key>
+	<string>unmountedCache</string>
+	<key>intuitivefilter</key>
+	<string>unscheduleListener</string>
+	<key>materialStrength</key>
+	<string>segmentbrightness</string>
+	<key>materialStyle</key>
+	<string>canFetchActivity</string>
+	<key>setstatefeature</key>
+	<string>canPersistMember</string>
+	<key>shouldLayoutBullet</key>
+	<string>appendQueue</string>
+	<key>shouldlayoutnotification</key>
+	<string>shouldTransitionConvolution</string>
+	<key>slashduringstate</key>
+	<string>handleError</string>
+	<key>smartBorder</key>
+	<string>firstTimer</string>
+</dict>
+</plist>

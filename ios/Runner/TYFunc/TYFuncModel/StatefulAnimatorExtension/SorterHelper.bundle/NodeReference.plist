@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchordespitemethod</key>
+	<string>resizeSprite</string>
+	<key>concurrentButton</key>
+	<string>constructAwait</string>
+	<key>globalCapacities</key>
+	<string>immediateRoute</string>
+	<key>integerviabuffer</key>
+	<string>inflateCache</string>
+	<key>nextBox</key>
+	<string>promiseOrigin</string>
+	<key>restrictionbrightness</key>
+	<string>shouldDisconnectDescriptor</string>
+	<key>reusablenormopacity</key>
+	<string>responseDirection</string>
+</dict>
+</plist>

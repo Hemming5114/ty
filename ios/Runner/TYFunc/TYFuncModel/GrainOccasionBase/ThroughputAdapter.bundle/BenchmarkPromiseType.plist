@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evolutionCoord</key>
+	<string>resilientMaster</string>
+	<key>fusedProvider</key>
+	<string>touchWidget</string>
+	<key>otherStep</key>
+	<string>topicadapterindex</string>
+	<key>rowAlignment</key>
+	<string>missionstructureborder</string>
+	<key>sceneSpacing</key>
+	<string>cloneButton</string>
+	<key>shouldPublishGram</key>
+	<string>textuntilsystem</string>
+	<key>specifierDuration</key>
+	<string>shouldPushBox</string>
+	<key>staticpaintercontrast</key>
+	<string>bulletTail</string>
+	<key>taskworkinteraction</key>
+	<string>primaryProject</string>
+</dict>
+</plist>

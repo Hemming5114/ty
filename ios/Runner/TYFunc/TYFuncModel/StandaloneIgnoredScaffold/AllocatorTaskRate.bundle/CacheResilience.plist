@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerEdge</key>
+	<string>tensorChallenge</string>
+	<key>missedusage</key>
+	<string>diversifiedMobile</string>
+	<key>multiconfidentiality</key>
+	<string>dispatchCube</string>
+	<key>otherStoryboard</key>
+	<string>screenMode</string>
+	<key>persistentDescriptor</key>
+	<string>invokeVector</string>
+	<key>shouldConnectWidget</key>
+	<string>regulatePresenter</string>
+	<key>shouldTrainProfile</key>
+	<string>canConnectVariant</string>
+	<key>subtleEvent</key>
+	<string>explicitGrain</string>
+	<key>timerinterpreterdepth</key>
+	<string>activeEquipment</string>
+	<key>wrappertail</key>
+	<string>finishMultiplication</string>
+</dict>
+</plist>

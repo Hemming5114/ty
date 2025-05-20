@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorbuilder</key>
+	<string>chartamongtask</string>
+	<key>dependencyRight</key>
+	<string>statefulProvision</string>
+	<key>fragmentsBorder</key>
+	<string>shouldUnbindGraphic</string>
+	<key>shouldShowSwift</key>
+	<string>shouldNotifyStream</string>
+	<key>tableevaluation</key>
+	<string>streamstyle</string>
+</dict>
+</plist>

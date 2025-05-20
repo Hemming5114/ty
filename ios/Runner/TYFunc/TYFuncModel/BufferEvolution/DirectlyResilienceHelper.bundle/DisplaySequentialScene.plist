@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedConverter</key>
+	<string>sizedboxForm</string>
+	<key>hierarchicalTrajectory</key>
+	<string>makeaspect</string>
+	<key>lastSlider</key>
+	<string>sessiondirection</string>
+	<key>scrollableDetail</key>
+	<string>lockobserver</string>
+</dict>
+</plist>

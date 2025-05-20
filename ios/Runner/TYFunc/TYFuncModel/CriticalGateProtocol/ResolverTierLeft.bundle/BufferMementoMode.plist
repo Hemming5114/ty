@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientaroundphase</key>
+	<string>canEncodeIndicator</string>
+	<key>hasNib</key>
+	<string>shouldContinueSine</string>
+	<key>independentInstruction</key>
+	<string>shouldLoadDropdownButton</string>
+	<key>otherPrecision</key>
+	<string>optimizeRequest</string>
+	<key>primarySubscription</key>
+	<string>canProcessSizedBox</string>
+	<key>shouldResumeSample</key>
+	<string>sessionPressure</string>
+	<key>synchronousIndicator</key>
+	<string>beginnerinkwellinset</string>
+</dict>
+</plist>

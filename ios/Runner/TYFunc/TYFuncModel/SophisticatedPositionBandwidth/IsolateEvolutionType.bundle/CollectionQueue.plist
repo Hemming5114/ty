@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIsolate</key>
+	<string>canEncodeOverlay</string>
+	<key>colorDepth</key>
+	<string>cacheSpot</string>
+	<key>nativeFrame</key>
+	<string>directlyConsumer</string>
+	<key>nodesincetier</key>
+	<string>customizedpointfeedback</string>
+	<key>shouldStopBaseline</key>
+	<string>canEncodeGestureDetector</string>
+	<key>shouldTrainSign</key>
+	<string>shouldDisposeModulus</string>
+	<key>significantConfiguration</key>
+	<string>displayResponse</string>
+	<key>sustainableRectangle</key>
+	<string>priorityComposite</string>
+</dict>
+</plist>

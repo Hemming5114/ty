@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseprojectionrotation</key>
+	<string>shoulddisposenavigator</string>
+	<key>draggableMapper</key>
+	<string>checklistDensity</string>
+	<key>groupandmemento</key>
+	<string>tappableRestriction</string>
+	<key>referencePressure</key>
+	<string>scrollableNode</string>
+	<key>sophisticatedInfo</key>
+	<string>equipmentEdge</string>
+</dict>
+</plist>

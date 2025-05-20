@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMovement</key>
+	<string>activatedassetduration</string>
+	<key>dependencyStyle</key>
+	<string>canStreamDocument</string>
+	<key>draggableCursor</key>
+	<string>benchmarkStorage</string>
+	<key>mountedgesture</key>
+	<string>dedicatedOption</string>
+	<key>rectDistance</key>
+	<string>pointSize</string>
+	<key>singleMetrics</key>
+	<string>introspectLayout</string>
+	<key>uniqueUsage</key>
+	<string>currentTraversal</string>
+</dict>
+</plist>

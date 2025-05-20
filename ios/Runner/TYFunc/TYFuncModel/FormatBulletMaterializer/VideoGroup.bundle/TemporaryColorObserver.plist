@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaforce</key>
+	<string>independentTool</string>
+	<key>channelEdge</key>
+	<string>smartSwift</string>
+	<key>eagersorter</key>
+	<string>synchronousDelivery</string>
+	<key>finderTheme</key>
+	<string>requestMemento</string>
+	<key>fusedcontroller</key>
+	<string>listenbox</string>
+	<key>typicalScheduler</key>
+	<string>staticPageView</string>
+</dict>
+</plist>

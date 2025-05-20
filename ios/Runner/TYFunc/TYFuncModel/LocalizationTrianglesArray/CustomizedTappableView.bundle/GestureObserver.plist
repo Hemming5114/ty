@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAsync</key>
+	<string>dedicatedCubit</string>
+	<key>consultativeCharacteristic</key>
+	<string>shouldUnmountComposition</string>
+	<key>customizedSpot</key>
+	<string>spineAppearance</string>
+	<key>delicateMaster</key>
+	<string>vectorvertex</string>
+	<key>layoutinset</key>
+	<string>coordinatorinsidestrategy</string>
+	<key>rectTheme</key>
+	<string>criticalResponder</string>
+	<key>shouldObserveSpine</key>
+	<string>autoPublisher</string>
+	<key>shouldProcessSignature</key>
+	<string>shouldAnimateDropdownButton</string>
+	<key>storesingleton</key>
+	<string>listenerCycle</string>
+</dict>
+</plist>

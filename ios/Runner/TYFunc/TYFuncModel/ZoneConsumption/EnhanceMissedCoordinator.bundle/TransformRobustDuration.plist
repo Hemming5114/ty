@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoderesolver</key>
+	<string>activityVisible</string>
+	<key>discardedTool</key>
+	<string>particlePrototype</string>
+	<key>emittermomentum</key>
+	<string>shouldCreateCustomPaint</string>
+	<key>encodedescription</key>
+	<string>validateText</string>
+	<key>euclideanFragments</key>
+	<string>equalSize</string>
+	<key>ignoredGrid</key>
+	<string>protectedGradient</string>
+	<key>oldOptimizer</key>
+	<string>canMountedSegue</string>
+	<key>shouldDetachTernary</key>
+	<string>dispatchLayout</string>
+	<key>specifyScenario</key>
+	<string>completedCycle</string>
+	<key>uniqueDisclaimer</key>
+	<string>scrollableTransformer</string>
+</dict>
+</plist>

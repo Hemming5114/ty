@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitycontrast</key>
+	<string>rapidGrayscale</string>
+	<key>chooserOffset</key>
+	<string>interactortension</string>
+	<key>containerhue</key>
+	<string>shouldPushBoxShadow</string>
+	<key>effectinteraction</key>
+	<string>autoSwitch</string>
+	<key>hasGradient</key>
+	<string>hasStep</string>
+	<key>independentCreator</key>
+	<string>sorterType</string>
+	<key>projectallocator</key>
+	<string>typicalpositionedopacity</string>
+</dict>
+</plist>

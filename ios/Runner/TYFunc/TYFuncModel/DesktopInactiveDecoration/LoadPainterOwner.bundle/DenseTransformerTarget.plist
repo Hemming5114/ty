@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPosition</key>
+	<string>alphaTask</string>
+	<key>apertureMomentum</key>
+	<string>canMountedBullet</string>
+	<key>directlystate</key>
+	<string>secondProject</string>
+	<key>fragmentsEdge</key>
+	<string>requestDependency</string>
+	<key>ignoredMobile</key>
+	<string>columnForce</string>
+	<key>offsetrotation</key>
+	<string>disposeDuration</string>
+	<key>selectorbehavior</key>
+	<string>canEmitRemainder</string>
+	<key>shouldContinueRole</key>
+	<string>tweakMode</string>
+	<key>shouldNavigateShader</key>
+	<string>animatedFilter</string>
+</dict>
+</plist>

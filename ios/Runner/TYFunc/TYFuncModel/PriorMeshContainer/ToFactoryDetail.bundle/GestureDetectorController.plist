@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLoader</key>
+	<string>presentMaterial</string>
+	<key>islogarithm</key>
+	<string>canMountedGesture</string>
+	<key>nextInteractor</key>
+	<string>composablePager</string>
+	<key>protectedOperation</key>
+	<string>rebuildPromise</string>
+	<key>scrollableTween</key>
+	<string>invisibleDetector</string>
+	<key>soundLeft</key>
+	<string>flexibleWidget</string>
+	<key>symmetricCurve</key>
+	<string>boxBottom</string>
+	<key>temporaryRenderer</key>
+	<string>canObserveDrawer</string>
+</dict>
+</plist>

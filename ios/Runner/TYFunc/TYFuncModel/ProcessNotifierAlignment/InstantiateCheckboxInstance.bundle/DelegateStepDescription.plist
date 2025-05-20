@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedImage</key>
+	<string>controllerTemple</string>
+	<key>comprehensiveCompleter</key>
+	<string>customSubpixel</string>
+	<key>effectborder</key>
+	<string>transpileBuffer</string>
+	<key>globalLoader</key>
+	<string>profileHue</string>
+	<key>polyfillRate</key>
+	<string>reactiveTrajectory</string>
+	<key>shaderawayoperation</key>
+	<string>sliderDepth</string>
+	<key>shouldCacheActivity</key>
+	<string>isOperation</string>
+	<key>shouldDeserializeWorkflow</key>
+	<string>shouldFormatObserver</string>
+	<key>stampfeedback</key>
+	<string>uniformEqualization</string>
+</dict>
+</plist>

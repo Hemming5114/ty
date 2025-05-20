@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicUseCase</key>
+	<string>secondDetector</string>
+	<key>easyroute</key>
+	<string>wrapperEdge</string>
+	<key>shouldStreamDropdownButton</key>
+	<string>fetchCosine</string>
+	<key>subscriptionEdge</key>
+	<string>canPushSegue</string>
+</dict>
+</plist>

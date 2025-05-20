@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionversusfunction</key>
+	<string>variantCount</string>
+	<key>dedicatedDelivery</key>
+	<string>smartTransformer</string>
+	<key>fragmentFeedback</key>
+	<string>disclaimerTop</string>
+	<key>insteadprogressbar</key>
+	<string>firstAlpha</string>
+	<key>layerEdge</key>
+	<string>canRestartEntropy</string>
+	<key>lifecycleName</key>
+	<string>canPopContainer</string>
+	<key>logfeature</key>
+	<string>relationalPicker</string>
+	<key>opaqueProgressBar</key>
+	<string>requestContainer</string>
+	<key>publiccreator</key>
+	<string>conformTicker</string>
+	<key>skirtShape</key>
+	<string>intensitycommandopacity</string>
+</dict>
+</plist>

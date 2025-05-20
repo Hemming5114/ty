@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactervertex</key>
+	<string>dropdownbuttoncoord</string>
+	<key>containerplatformbottom</key>
+	<string>scheduleBloc</string>
+	<key>liteGroup</key>
+	<string>shouldReplaceProject</string>
+	<key>rectvelocity</key>
+	<string>animateGroup</string>
+	<key>shouldParseBinary</key>
+	<string>pushCanvas</string>
+</dict>
+</plist>

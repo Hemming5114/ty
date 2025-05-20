@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorMomentum</key>
+	<string>activatedSplitter</string>
+	<key>criticalScale</key>
+	<string>crudeSlider</string>
+	<key>iterativeSemantics</key>
+	<string>canUpdateNib</string>
+	<key>shouldNavigateSwitch</key>
+	<string>canStreamFragment</string>
+	<key>spineorphase</key>
+	<string>calculateResponse</string>
+</dict>
+</plist>

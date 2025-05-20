@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateIcon</key>
+	<string>baselinedetail</string>
+	<key>dissociateentity</key>
+	<string>agileSubscription</string>
+	<key>resiliencetheme</key>
+	<string>preparewidget</string>
+	<key>responsiveGesture</key>
+	<string>smartnodestatus</string>
+	<key>singletonTag</key>
+	<string>mountCoordinator</string>
+	<key>statelessPadding</key>
+	<string>shouldDismissEffect</string>
+	<key>swiftContrast</key>
+	<string>navigationparamcolor</string>
+</dict>
+</plist>

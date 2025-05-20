@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratebatch</key>
+	<string>arithmeticSession</string>
+	<key>currentPreview</key>
+	<string>descriptorStyle</string>
+	<key>ignoredStatus</key>
+	<string>quantizationConfiguration</string>
+	<key>rowBehavior</key>
+	<string>builderDensity</string>
+	<key>singleObject</key>
+	<string>textureOrigin</string>
+	<key>trajectoryShade</key>
+	<string>receiveSlider</string>
+	<key>usedparticle</key>
+	<string>granularVector</string>
+	<key>viewviatemple</key>
+	<string>petType</string>
+</dict>
+</plist>

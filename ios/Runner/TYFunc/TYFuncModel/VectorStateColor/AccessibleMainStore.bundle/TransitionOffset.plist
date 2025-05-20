@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeStack</key>
+	<string>singleReducer</string>
+	<key>nativeConsumption</key>
+	<string>crudeUsage</string>
+	<key>resourceformdensity</key>
+	<string>disposePriority</string>
+	<key>semanticGrain</key>
+	<string>polyfillPadding</string>
+	<key>shaderreplica</key>
+	<string>fetchusecase</string>
+	<key>sortercenter</key>
+	<string>notifyStateless</string>
+	<key>subpixelnavigator</key>
+	<string>arithmeticPlayback</string>
+	<key>synchronousButton</key>
+	<string>delegateComposite</string>
+</dict>
+</plist>

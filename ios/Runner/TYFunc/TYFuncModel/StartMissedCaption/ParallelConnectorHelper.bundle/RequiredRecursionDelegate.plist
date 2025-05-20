@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicinfo</key>
+	<string>maxSensor</string>
+	<key>chartoffset</key>
+	<string>rendererTag</string>
+	<key>equalizationDistance</key>
+	<string>dimensionPlatform</string>
+	<key>globalVolume</key>
+	<string>serializeDependency</string>
+	<key>gridpainter</key>
+	<string>unmountedUsage</string>
+	<key>grouphandler</key>
+	<string>mobiledispatcher</string>
+	<key>largeFinder</key>
+	<string>minCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellspeed</key>
+	<string>loopFrequency</string>
+	<key>deactivatelog</key>
+	<string>playbackTemple</string>
+	<key>keyContainer</key>
+	<string>protectedStore</string>
+	<key>mediocredescriptionstyle</key>
+	<string>containerTail</string>
+	<key>mediumScroller</key>
+	<string>canDismissMap</string>
+	<key>opaqueEqualization</key>
+	<string>offsetCompleter</string>
+	<key>publicchart</key>
+	<string>presentBitrate</string>
+	<key>skipoffset</key>
+	<string>imperativeDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionsize</key>
+	<string>baseEdge</string>
+	<key>keyChecklist</key>
+	<string>fixedDimension</string>
+	<key>mapValidation</key>
+	<string>compileInterface</string>
+	<key>mixingraph</key>
+	<string>canEncodeActivity</string>
+	<key>nodeamongstate</key>
+	<string>cupertinoHandler</string>
+	<key>retainedbuilderhue</key>
+	<string>routeVar</string>
+	<key>similarFactory</key>
+	<string>graphorigin</string>
+	<key>statelessTag</key>
+	<string>synchronousDispatcher</string>
+	<key>typicalFactory</key>
+	<string>shouldDeserializeTheme</string>
+</dict>
+</plist>

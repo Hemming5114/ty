@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSlash</key>
+	<string>immutableConsumption</string>
+	<key>petStyle</key>
+	<string>connectScreen</string>
+	<key>provisioncount</key>
+	<string>combinerSpacing</string>
+	<key>throughputDuration</key>
+	<string>frameForce</string>
+</dict>
+</plist>

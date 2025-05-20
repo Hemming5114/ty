@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterScale</key>
+	<string>immutableplatepadding</string>
+	<key>isScaffold</key>
+	<string>detachDecoration</string>
+	<key>primaryPet</key>
+	<string>denseCollection</string>
+	<key>reactiveasync</key>
+	<string>resumePageView</string>
+	<key>requestcenter</key>
+	<string>navigatorProxy</string>
+	<key>shouldMountedSession</key>
+	<string>subtleInfrastructure</string>
+	<key>shouldValidateCursor</key>
+	<string>movementbehavior</string>
+	<key>substantialIntensity</key>
+	<string>respectiveOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEmitter</key>
+	<string>connectframe</string>
+	<key>composableBox</key>
+	<string>immutableRow</string>
+	<key>invisibleTernary</key>
+	<string>standaloneCubit</string>
+	<key>localizationHue</key>
+	<string>shouldPrepareCapsule</string>
+	<key>nativefilter</key>
+	<string>canFetchSine</string>
+	<key>permanentStateful</key>
+	<string>sanitizeTopic</string>
+	<key>shouldNavigatePositioned</key>
+	<string>animationRight</string>
+	<key>specifyProgressBar</key>
+	<string>logarithmtag</string>
+	<key>tappableService</key>
+	<string>statefulDelegate</string>
+	<key>uniquePublisher</key>
+	<string>difficultStoryboard</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardvarorientation</key>
+	<string>apertureactionbrightness</string>
+	<key>chartforadapter</key>
+	<string>primaryTrajectory</string>
+	<key>constraintthanlevel</key>
+	<string>relationalTransformer</string>
+	<key>customizedProvision</key>
+	<string>intuitiveText</string>
+	<key>ignoredConsumer</key>
+	<string>routeRoute</string>
+	<key>inactiveNib</key>
+	<string>deserializelistener</string>
+	<key>usedTangent</key>
+	<string>analogyState</string>
+</dict>
+</plist>

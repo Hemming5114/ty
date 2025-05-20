@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultWorkflow</key>
+	<string>nodeDepth</string>
+	<key>sharedNib</key>
+	<string>consultativeAwait</string>
+	<key>usedframe</key>
+	<string>newestlabeltint</string>
+</dict>
+</plist>

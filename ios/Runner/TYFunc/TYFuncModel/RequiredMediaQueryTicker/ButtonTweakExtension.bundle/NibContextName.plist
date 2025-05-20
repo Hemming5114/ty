@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxtag</key>
+	<string>criticalAspect</string>
+	<key>continueinterpolation</key>
+	<string>intuitiveUtil</string>
+	<key>flexedge</key>
+	<string>refreshGrain</string>
+	<key>hasRadio</key>
+	<string>temporaryCoordinator</string>
+	<key>keyStoryboard</key>
+	<string>switchparameteropacity</string>
+	<key>lastAllocator</key>
+	<string>streamlineQueue</string>
+	<key>protocolAlignment</key>
+	<string>formatSegue</string>
+	<key>shouldpopextension</key>
+	<string>intuitiveBuffer</string>
+	<key>signaturemodule</key>
+	<string>materialTheme</string>
+	<key>subsequentFeature</key>
+	<string>temporarySize</string>
+</dict>
+</plist>

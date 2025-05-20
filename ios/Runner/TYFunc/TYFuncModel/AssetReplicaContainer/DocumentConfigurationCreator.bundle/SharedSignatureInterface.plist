@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsettheme</key>
+	<string>invisibleRemediation</string>
+	<key>pagerpadding</key>
+	<string>selectedcatalyst</string>
+	<key>shouldEncodeSegue</key>
+	<string>observermesh</string>
+	<key>shouldcancelpoint</key>
+	<string>singletonCycle</string>
+	<key>smallStorage</key>
+	<string>strokeDensity</string>
+</dict>
+</plist>

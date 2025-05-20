@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTrajectory</key>
+	<string>injectionRotation</string>
+	<key>independentConverter</key>
+	<string>requiredMapper</string>
+	<key>opaqueChannel</key>
+	<string>stepinterval</string>
+	<key>paddingmerger</key>
+	<string>emitLogarithm</string>
+	<key>receivesensor</key>
+	<string>permanenttangent</string>
+	<key>rowmend</key>
+	<string>stringifyloss</string>
+	<key>sineloader</key>
+	<string>themeName</string>
+</dict>
+</plist>

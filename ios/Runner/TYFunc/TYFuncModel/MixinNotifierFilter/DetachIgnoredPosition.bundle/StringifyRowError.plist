@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeindicator</key>
+	<string>canTransformTable</string>
+	<key>frameasprocess</key>
+	<string>consumeplayback</string>
+	<key>injectsink</key>
+	<string>opaqueSession</string>
+	<key>otherroute</key>
+	<string>axisInterval</string>
+	<key>usedFragments</key>
+	<string>layerSaturation</string>
+</dict>
+</plist>

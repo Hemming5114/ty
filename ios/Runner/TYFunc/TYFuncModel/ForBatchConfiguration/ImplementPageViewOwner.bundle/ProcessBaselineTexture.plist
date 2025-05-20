@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTween</key>
+	<string>shouldStreamInkWell</string>
+	<key>adaptiveTernary</key>
+	<string>shouldcreateprojection</string>
+	<key>collectionflags</key>
+	<string>buttonBorder</string>
+	<key>eagerMobile</key>
+	<string>minSample</string>
+	<key>immediateNorm</key>
+	<string>robustProfile</string>
+	<key>quaternionVisible</key>
+	<string>zoneParam</string>
+	<key>shouldEmitSine</key>
+	<string>canObserveMedia</string>
+	<key>statelessThread</key>
+	<string>standaloneGradient</string>
+</dict>
+</plist>

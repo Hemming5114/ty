@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoNorm</key>
+	<string>continueEqualization</string>
+	<key>fixedModel</key>
+	<string>contractioncenter</string>
+	<key>rectviaadapter</key>
+	<string>detailRotation</string>
+	<key>resilientMomentum</key>
+	<string>nextConstant</string>
+	<key>shouldFormatSpine</key>
+	<string>canProcessStoryboard</string>
+</dict>
+</plist>

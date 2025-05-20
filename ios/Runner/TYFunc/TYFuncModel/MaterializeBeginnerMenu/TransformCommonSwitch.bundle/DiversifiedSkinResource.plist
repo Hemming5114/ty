@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPositioned</key>
+	<string>aggregateCoordinator</string>
+	<key>flexbesideenvironment</key>
+	<string>fixedCube</string>
+	<key>functionalDependency</key>
+	<string>publishlayout</string>
+	<key>oldDelivery</key>
+	<string>spritePressure</string>
+	<key>presenterobservercount</key>
+	<string>toolOpacity</string>
+	<key>rangeBottom</key>
+	<string>collectionAlignment</string>
+	<key>techniquepermutation</key>
+	<string>shouldEndColumn</string>
+</dict>
+</plist>

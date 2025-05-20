@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxbehavior</key>
+	<string>searchError</string>
+	<key>diversifiedstreamright</key>
+	<string>reusableOffset</string>
+	<key>notificationFrequency</key>
+	<string>trainBuilder</string>
+	<key>rectlocation</key>
+	<string>graphicCoord</string>
+	<key>textureDuration</key>
+	<string>pivotalDelegate</string>
+</dict>
+</plist>

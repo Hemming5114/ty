@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateProfile</key>
+	<string>optimizerdrawer</string>
+	<key>elasticShader</key>
+	<string>iterativePageView</string>
+	<key>localNotifier</key>
+	<string>accordionInterface</string>
+	<key>queueflags</key>
+	<string>difficultPlayback</string>
+	<key>reactiveConsumption</key>
+	<string>shouldValidateBuilder</string>
+	<key>shouldUnmountView</key>
+	<string>granularAnalogy</string>
+	<key>viewTag</key>
+	<string>captionSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiobandwidth</key>
+	<string>unsortedLifecycle</string>
+	<key>axisInset</key>
+	<string>sequentialRestriction</string>
+	<key>capacitiesLocation</key>
+	<string>statefulEmitter</string>
+	<key>deferredItem</key>
+	<string>titleLayer</string>
+	<key>dynamicResource</key>
+	<string>startConsumer</string>
+	<key>shouldDeserializeMember</key>
+	<string>canStartSine</string>
+	<key>uniquePolyfill</key>
+	<string>largeChannel</string>
+</dict>
+</plist>

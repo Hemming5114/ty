@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionException</key>
+	<string>deferredusecasescale</string>
+	<key>arithmeticState</key>
+	<string>rapidCatalyst</string>
+	<key>commonAnchor</key>
+	<string>advancedText</string>
+	<key>customButton</key>
+	<string>columntheme</string>
+	<key>multiDescription</key>
+	<string>markSprite</string>
+	<key>normalPicker</key>
+	<string>pinchablemasterdelay</string>
+	<key>transitiondescent</key>
+	<string>progressbardensity</string>
+</dict>
+</plist>

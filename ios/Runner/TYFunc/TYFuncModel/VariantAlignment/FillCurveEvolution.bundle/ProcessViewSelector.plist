@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorMargin</key>
+	<string>buttonconnector</string>
+	<key>beginnersizevalidation</key>
+	<string>shouldPauseEffect</string>
+	<key>normfeature</key>
+	<string>canEndAppBar</string>
+	<key>reconcilepresenter</key>
+	<string>directtransformer</string>
+	<key>shouldDetachPlate</key>
+	<string>reductionTheme</string>
+</dict>
+</plist>

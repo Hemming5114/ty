@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePolygon</key>
+	<string>canCancelObserver</string>
+	<key>durationbinder</key>
+	<string>canAttachSkirt</string>
+	<key>integrationAppearance</key>
+	<string>hierarchicalSink</string>
+	<key>seamlessScalability</key>
+	<string>respondTransformer</string>
+	<key>semanticcaptionbehavior</key>
+	<string>shouldPublishLabel</string>
+	<key>similarequipmentleft</key>
+	<string>mitigateRect</string>
+	<key>sortedLatency</key>
+	<string>ongatetap</string>
+	<key>tweakSize</key>
+	<string>deflateRadius</string>
+</dict>
+</plist>

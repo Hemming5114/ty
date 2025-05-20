@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationmode</key>
+	<string>visibleAlignment</string>
+	<key>bitraterestriction</key>
+	<string>scopeOrientation</string>
+	<key>directMesh</key>
+	<string>functionalOffset</string>
+	<key>euclideanCertificate</key>
+	<string>renderFragment</string>
+	<key>interpolateinterface</key>
+	<string>boxversusflyweight</string>
+	<key>movementAcceleration</key>
+	<string>finderStyle</string>
+	<key>overlayMomentum</key>
+	<string>canDispatchTangent</string>
+	<key>prismaticStrength</key>
+	<string>resizeQueue</string>
+	<key>shouldFormatSemantics</key>
+	<string>equipmentduration</string>
+	<key>shouldRebuildIndicator</key>
+	<string>canSetStateModulus</string>
+</dict>
+</plist>

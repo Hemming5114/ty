@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableSpecifier</key>
+	<string>drawCompleter</string>
+	<key>giftindex</key>
+	<string>lossEdge</string>
+	<key>shouldHandleButton</key>
+	<string>tabletentative</string>
+	<key>shouldRouteConstraint</key>
+	<string>commonmonstertint</string>
+	<key>shouldstopmaster</key>
+	<string>pauseStep</string>
+	<key>uniformDescription</key>
+	<string>shouldDetachTable</string>
+</dict>
+</plist>

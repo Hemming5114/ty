@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasContrast</key>
+	<string>listenOverlay</string>
+	<key>concurrentLifecycle</key>
+	<string>vectorobserver</string>
+	<key>hierarchicalMargin</key>
+	<string>shouldCacheBatch</string>
+	<key>notifierHead</key>
+	<string>timeOrientation</string>
+	<key>shouldUnmountedInterpolation</key>
+	<string>radioobject</string>
+	<key>sizeviaactivity</key>
+	<string>loopTransparency</string>
+	<key>sophisticatedPrecision</key>
+	<string>shouldResumeSession</string>
+	<key>stackCenter</key>
+	<string>disabledInstruction</string>
+	<key>tensorRecursion</key>
+	<string>captionFormat</string>
+</dict>
+</plist>

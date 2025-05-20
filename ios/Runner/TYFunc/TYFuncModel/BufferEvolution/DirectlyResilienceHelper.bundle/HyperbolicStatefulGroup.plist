@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oldLayout</key>
+	<string>durationmargin</string>
+	<key>resizablechallenge</key>
+	<string>hierarchicalWidget</string>
+	<key>respectiveNib</key>
+	<string>shouldCacheIcon</string>
+	<key>shouldEncodeCell</key>
+	<string>prevtextureedge</string>
+	<key>storageamongmode</key>
+	<string>oldTimeline</string>
+	<key>switchtraversal</key>
+	<string>mutableUnary</string>
+	<key>tappableFragments</key>
+	<string>moveAction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oldCard</key>
+	<string>customGraphic</string>
+	<key>projectionType</key>
+	<string>iterativeEvolution</string>
+	<key>sampleincludetask</key>
+	<string>radioAction</string>
+	<key>scrollconstraint</key>
+	<string>shouldUpdateMap</string>
+	<key>selectedplayback</key>
+	<string>actiondetector</string>
+	<key>shouldtransitioncontraction</key>
+	<string>logdensity</string>
+</dict>
+</plist>

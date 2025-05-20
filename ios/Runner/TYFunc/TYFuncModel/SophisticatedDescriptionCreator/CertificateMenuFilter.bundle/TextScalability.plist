@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledtimerdensity</key>
+	<string>differentiateinjection</string>
+	<key>effectlatency</key>
+	<string>flexFlyweight</string>
+	<key>labellikestyle</key>
+	<string>shouldYieldProtocol</string>
+	<key>persistentcertificatebehavior</key>
+	<string>sustainablehandleredge</string>
+	<key>sequentialActivity</key>
+	<string>nextItem</string>
+	<key>timestate</key>
+	<string>canSkipInkWell</string>
+	<key>tweenState</key>
+	<string>lazyInkWell</string>
+</dict>
+</plist>

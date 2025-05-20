@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChannels</key>
+	<string>stepVisible</string>
+	<key>allocatorfinder</key>
+	<string>skirtActivity</string>
+	<key>holdstream</key>
+	<string>streamShade</string>
+	<key>resultrate</key>
+	<string>basicFragments</string>
+</dict>
+</plist>

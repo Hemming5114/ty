@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarydescription</key>
+	<string>crudeManager</string>
+	<key>componentleft</key>
+	<string>navigatestate</string>
+	<key>deferredvector</key>
+	<string>mediumTrigger</string>
+	<key>discardedGrain</key>
+	<string>reducerwithcontext</string>
+	<key>shouldFinishSwitch</key>
+	<string>appbarNumber</string>
+	<key>shouldLayoutGestureDetector</key>
+	<string>inheritedText</string>
+	<key>shouldbuildconsumer</key>
+	<string>concatenateListener</string>
+	<key>stophero</key>
+	<string>immediateQuaternion</string>
+	<key>typicalNode</key>
+	<string>graininstyle</string>
+</dict>
+</plist>

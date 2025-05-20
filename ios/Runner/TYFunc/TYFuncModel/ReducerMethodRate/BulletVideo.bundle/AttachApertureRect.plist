@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLoss</key>
+	<string>persistentTable</string>
+	<key>crucialsensor</key>
+	<string>multiCoordinator</string>
+	<key>listenerofstage</key>
+	<string>easyExtension</string>
+	<key>priorjoiner</key>
+	<string>transitionHero</string>
+	<key>radioRate</key>
+	<string>aggregateHandler</string>
+	<key>requiredMission</key>
+	<string>presenterContext</string>
+	<key>shouldDisposeRoute</key>
+	<string>channelState</string>
+	<key>tweenSkewY</key>
+	<string>comprehensiveCoordinator</string>
+	<key>visiblePageView</key>
+	<string>materialStorage</string>
+</dict>
+</plist>

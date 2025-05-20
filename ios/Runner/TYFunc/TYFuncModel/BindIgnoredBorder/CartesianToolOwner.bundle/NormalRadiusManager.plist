@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectortype</key>
+	<string>buttonobject</string>
+	<key>intuitiveVector</key>
+	<string>shouldPersistMargin</string>
+	<key>intuitiveconvolutionbound</key>
+	<string>themeCoord</string>
+	<key>oldTimer</key>
+	<string>shouldresumetangent</string>
+	<key>servicechaintransparency</key>
+	<string>syncUtil</string>
+	<key>shouldStartSkin</key>
+	<string>resolvevector</string>
+	<key>shouldcancelsession</key>
+	<string>gesturedetectorFrequency</string>
+	<key>shouldkeepstream</key>
+	<string>recursionBound</string>
+	<key>visualizecubit</key>
+	<string>beginnerPresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyState</key>
+	<string>canDecodeFlex</string>
+	<key>converterVisibility</key>
+	<string>continueMember</string>
+	<key>imagecompleter</key>
+	<string>dropoutSlider</string>
+	<key>largeLayout</key>
+	<string>profileShade</string>
+	<key>resilientProvision</key>
+	<string>selectedappbar</string>
+</dict>
+</plist>

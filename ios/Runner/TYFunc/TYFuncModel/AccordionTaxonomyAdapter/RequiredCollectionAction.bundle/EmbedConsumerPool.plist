@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStatus</key>
+	<string>groupFramework</string>
+	<key>otherDescriptor</key>
+	<string>interactorForce</string>
+	<key>tabbaropacity</key>
+	<string>shouldNotifySample</string>
+	<key>tweenPosition</key>
+	<string>staticRole</string>
+</dict>
+</plist>

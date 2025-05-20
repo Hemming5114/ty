@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelreference</key>
+	<string>canConnectCanvas</string>
+	<key>catalystMode</key>
+	<string>enabledExtension</string>
+	<key>consultativeSwift</key>
+	<string>resilientRectangle</string>
+	<key>exponentcluster</key>
+	<string>skirtDistance</string>
+	<key>listviewrate</key>
+	<string>capsuleedge</string>
+	<key>shouldInflateAspect</key>
+	<string>draggableBandwidth</string>
+	<key>textResponse</key>
+	<string>shouldTransitionCaption</string>
+</dict>
+</plist>

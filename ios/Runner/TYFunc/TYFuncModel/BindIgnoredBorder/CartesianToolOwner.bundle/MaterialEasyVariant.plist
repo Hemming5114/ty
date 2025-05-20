@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOffset</key>
+	<string>titleHue</string>
+	<key>isolateValidation</key>
+	<string>radiusCoord</string>
+	<key>responseprocessor</key>
+	<string>dispatchSkirt</string>
+	<key>seamlessrowright</key>
+	<string>boxshadowInteraction</string>
+</dict>
+</plist>

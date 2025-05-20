@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllertweak</key>
+	<string>greatZone</string>
+	<key>declarativeMultiplication</key>
+	<string>loaderBehavior</string>
+	<key>hierarchicalBinary</key>
+	<string>radioAppearance</string>
+	<key>pausecaption</key>
+	<string>mediumSymbol</string>
+	<key>priorFactory</key>
+	<string>shouldcontinuesymbol</string>
+	<key>scrollableExtension</key>
+	<string>protectedlabeldirection</string>
+	<key>scrollableLoss</key>
+	<string>setstatePet</string>
+</dict>
+</plist>

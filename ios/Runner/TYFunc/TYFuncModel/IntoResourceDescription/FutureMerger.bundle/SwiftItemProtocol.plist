@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateinkwell</key>
+	<string>imperativeCube</string>
+	<key>imageOffset</key>
+	<string>initializeChart</string>
+	<key>inheritedStrength</key>
+	<string>basicDecoration</string>
+	<key>keySorter</key>
+	<string>tentativePadding</string>
+	<key>protectedTabBar</key>
+	<string>canSetStateScale</string>
+	<key>secondTime</key>
+	<string>persistentSegue</string>
+	<key>shouldPaintBullet</key>
+	<string>partitioncontainer</string>
+	<key>unactivatedLayer</key>
+	<string>confidentialityKind</string>
+</dict>
+</plist>

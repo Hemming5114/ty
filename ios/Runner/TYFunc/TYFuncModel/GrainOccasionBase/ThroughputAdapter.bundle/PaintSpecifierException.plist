@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFrame</key>
+	<string>tentativeIndex</string>
+	<key>lostDecoration</key>
+	<string>resilientscroll</string>
+	<key>shouldPaintChecklist</key>
+	<string>publicFragments</string>
+	<key>sorterTension</key>
+	<string>shouldValidateStep</string>
+	<key>visibledescription</key>
+	<string>difficultLayout</string>
+</dict>
+</plist>

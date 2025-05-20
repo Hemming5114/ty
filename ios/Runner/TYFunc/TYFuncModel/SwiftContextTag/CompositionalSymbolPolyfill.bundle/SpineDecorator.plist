@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentscalability</key>
+	<string>webInfrastructure</string>
+	<key>concurrentBinder</key>
+	<string>defaultAnchor</string>
+	<key>mediaTag</key>
+	<string>mediumMovement</string>
+	<key>meshAlignment</key>
+	<string>exceptionLayer</string>
+	<key>methodtriangles</key>
+	<string>currentScene</string>
+	<key>shouldpresentcatalyst</key>
+	<string>streamInteraction</string>
+	<key>storageBottom</key>
+	<string>requiredTitle</string>
+</dict>
+</plist>

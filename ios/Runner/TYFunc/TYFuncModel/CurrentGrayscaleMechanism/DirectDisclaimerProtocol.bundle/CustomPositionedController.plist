@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachpadding</key>
+	<string>pinchablesinkrotation</string>
+	<key>capacitiesintegrity</key>
+	<string>requiredSubpixel</string>
+	<key>invisibleCheckbox</key>
+	<string>labelreliability</string>
+	<key>listenbuilder</key>
+	<string>animatedcontainerVisible</string>
+	<key>shouldPresentCard</key>
+	<string>dropoutexponent</string>
+	<key>shouldReplacePlate</key>
+	<string>sliderPlatform</string>
+</dict>
+</plist>

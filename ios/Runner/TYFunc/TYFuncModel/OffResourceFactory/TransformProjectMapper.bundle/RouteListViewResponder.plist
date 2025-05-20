@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiandata</key>
+	<string>finishPriority</string>
+	<key>dynamicIcon</key>
+	<string>relationalRemainder</string>
+	<key>evaluationDepth</key>
+	<string>shouldDisconnectWorkflow</string>
+	<key>prevSink</key>
+	<string>layoutCaption</string>
+	<key>sequentialRemainder</key>
+	<string>associatedAppBar</string>
+	<key>shouldEndSwitch</key>
+	<string>positionedAcceleration</string>
+	<key>stampdelivery</key>
+	<string>canReplaceModulus</string>
+	<key>statelessgate</key>
+	<string>hyperbolicGestureDetector</string>
+	<key>wrapslash</key>
+	<string>clipperdetector</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createentropy</key>
+	<string>materialUnary</string>
+	<key>disabledTimer</key>
+	<string>directPromise</string>
+	<key>easyRow</key>
+	<string>visibleWrapper</string>
+	<key>effectinset</key>
+	<string>liteInteger</string>
+	<key>semantictitle</key>
+	<string>diffableDescent</string>
+	<key>sequentialTransformer</key>
+	<string>shouldLoadTouch</string>
+	<key>sortedSorter</key>
+	<string>loadArithmetic</string>
+	<key>taskposition</key>
+	<string>animationtopic</string>
+	<key>upgradecursor</key>
+	<string>configurationObserver</string>
+</dict>
+</plist>

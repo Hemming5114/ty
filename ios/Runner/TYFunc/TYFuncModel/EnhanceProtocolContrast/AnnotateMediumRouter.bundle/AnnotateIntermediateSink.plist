@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalimpression</key>
+	<string>canObserveRichText</string>
+	<key>finishmodal</key>
+	<string>canMountAxis</string>
+	<key>gradientCount</key>
+	<string>heromaterial</string>
+	<key>touchPadding</key>
+	<string>releaseLayout</string>
+</dict>
+</plist>

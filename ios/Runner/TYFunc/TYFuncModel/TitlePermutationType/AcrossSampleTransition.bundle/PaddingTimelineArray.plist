@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoException</key>
+	<string>similarSwitch</string>
+	<key>disabledEntity</key>
+	<string>imagePadding</string>
+	<key>encodecontainer</key>
+	<string>spriteVelocity</string>
+	<key>entropybandwidth</key>
+	<string>pinchableBloc</string>
+	<key>gramarchitecture</key>
+	<string>notifyRequest</string>
+	<key>precisionwithoutaction</key>
+	<string>uniformStroke</string>
+	<key>resultflags</key>
+	<string>skinCount</string>
+	<key>scrollRate</key>
+	<string>compareAction</string>
+</dict>
+</plist>

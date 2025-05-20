@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTop</key>
+	<string>shouldanimateprovider</string>
+	<key>asynchronousPager</key>
+	<string>greatEvent</string>
+	<key>channelamongstate</key>
+	<string>shouldStopDuration</string>
+	<key>crudePriority</key>
+	<string>fixedNorm</string>
+	<key>directlyhero</key>
+	<string>cupertinoBuilder</string>
+	<key>isolateborder</key>
+	<string>criticalAsync</string>
+	<key>scaffoldFormat</key>
+	<string>shouldYieldStoryboard</string>
+	<key>shouldObserveRow</key>
+	<string>scrollableTabView</string>
+	<key>shouldunmountcell</key>
+	<string>specifierTension</string>
+	<key>toolbuffer</key>
+	<string>setstateTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureDistance</key>
+	<string>endmethod</string>
+	<key>inheritedfuture</key>
+	<string>shouldNotifyTangent</string>
+	<key>materializerShape</key>
+	<string>resetBloc</string>
+	<key>originalNorm</key>
+	<string>scrollableSlash</string>
+	<key>retainedResource</key>
+	<string>mergerTail</string>
+	<key>signatureName</key>
+	<string>shouldRebuildPositioned</string>
+	<key>singletonoffset</key>
+	<string>pendingAlpha</string>
+	<key>skinexception</key>
+	<string>shouldRebuildPriority</string>
+	<key>textureTheme</key>
+	<string>pinchablecosine</string>
+</dict>
+</plist>

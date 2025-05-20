@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistcenter</key>
+	<string>localNotation</string>
+	<key>opaqueNib</key>
+	<string>discardedthreshold</string>
+	<key>pusherror</key>
+	<string>isGift</string>
+	<key>retainedtransformer</key>
+	<string>spinePadding</string>
+	<key>shouldResumeAnchor</key>
+	<string>shouldRebuildCursor</string>
+	<key>shouldSkipDescriptor</key>
+	<string>inactiveEvolution</string>
+</dict>
+</plist>

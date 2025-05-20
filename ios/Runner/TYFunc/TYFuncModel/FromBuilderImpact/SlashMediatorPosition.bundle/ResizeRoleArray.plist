@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeslider</key>
+	<string>emitAllocator</string>
+	<key>chapterskewy</key>
+	<string>formatKernel</string>
+	<key>directSlider</key>
+	<string>shouldcachemission</string>
+	<key>documentandstage</key>
+	<string>provisionName</string>
+	<key>flexibleOption</key>
+	<string>greatConfiguration</string>
+	<key>hyperbolicColor</key>
+	<string>shouldStartCatalyst</string>
+	<key>nextresolver</key>
+	<string>encapsulateResolver</string>
+	<key>rendererFeedback</key>
+	<string>navigateCapacities</string>
+	<key>specifierTransparency</key>
+	<string>shouldTransformCursor</string>
+</dict>
+</plist>

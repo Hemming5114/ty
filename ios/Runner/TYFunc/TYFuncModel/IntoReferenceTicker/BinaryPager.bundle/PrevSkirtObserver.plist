@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitcontextmode</key>
+	<string>sustainableRect</string>
+	<key>boxshadowasfunction</key>
+	<string>inflateBuilder</string>
+	<key>freeusecase</key>
+	<string>shouldpausegesturedetector</string>
+	<key>gestureInset</key>
+	<string>desktopsymbol</string>
+	<key>promiseLeft</key>
+	<string>toolDensity</string>
+	<key>stepamongprocess</key>
+	<string>iterativeConverter</string>
+	<key>timeTransparency</key>
+	<string>comprehensiveFragments</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axismanager</key>
+	<string>boxNumber</string>
+	<key>completionStatus</key>
+	<string>fragmentsTail</string>
+	<key>diversifiedpreviewformat</key>
+	<string>isolateTask</string>
+	<key>elasticResponder</key>
+	<string>cupertinoLog</string>
+	<key>priorAxis</key>
+	<string>canDispatchListView</string>
+	<key>shouldRestartInteger</key>
+	<string>challengeFramework</string>
+</dict>
+</plist>

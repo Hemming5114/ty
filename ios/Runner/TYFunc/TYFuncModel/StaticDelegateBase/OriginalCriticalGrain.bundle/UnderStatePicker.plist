@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyStyle</key>
+	<string>dedicatedRouter</string>
+	<key>groupalongkind</key>
+	<string>keyResilience</string>
+	<key>shouldObserveTouch</key>
+	<string>iterativefuture</string>
+	<key>shouldSetStateBehavior</key>
+	<string>subsequentStroke</string>
+	<key>tangentIndex</key>
+	<string>globalMenu</string>
+	<key>taskslider</key>
+	<string>syncChapter</string>
+	<key>unsortedSegue</key>
+	<string>customLabel</string>
+</dict>
+</plist>

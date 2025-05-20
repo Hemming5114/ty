@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitRect</key>
+	<string>normBottom</string>
+	<key>globalSorter</key>
+	<string>smallnotification</string>
+	<key>localizationvisibility</key>
+	<string>currentAlert</string>
+	<key>maingrain</key>
+	<string>shouldUnmountMatrix</string>
+	<key>observerSize</key>
+	<string>canDeserializeBullet</string>
+	<key>shouldEndSession</key>
+	<string>delicateAnimatedContainer</string>
+	<key>shouldUnbindConvolution</key>
+	<string>singlescaffoldsaturation</string>
+	<key>smallWrapper</key>
+	<string>visualizeOffset</string>
+</dict>
+</plist>

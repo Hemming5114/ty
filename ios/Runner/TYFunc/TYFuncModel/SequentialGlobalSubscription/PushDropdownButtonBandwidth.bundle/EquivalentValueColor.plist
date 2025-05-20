@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocKind</key>
+	<string>directlyScene</string>
+	<key>colorDensity</key>
+	<string>skipMedia</string>
+	<key>currentReliability</key>
+	<string>shouldRebuildMedia</string>
+	<key>localConnector</key>
+	<string>pinchableNotation</string>
+	<key>shouldTransformScroll</key>
+	<string>mountednavigator</string>
+	<key>streaminproxy</key>
+	<string>appbarCenter</string>
+	<key>timerversusfunction</key>
+	<string>provideGrid</string>
+</dict>
+</plist>

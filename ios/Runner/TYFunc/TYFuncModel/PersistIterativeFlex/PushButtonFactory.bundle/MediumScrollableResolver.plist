@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeDuration</key>
+	<string>alertVelocity</string>
+	<key>deferredConverter</key>
+	<string>lazyRoute</string>
+	<key>explicitProvider</key>
+	<string>shouldInflateMusic</string>
+	<key>indicatorDepth</key>
+	<string>presenterinterval</string>
+	<key>managerdensity</key>
+	<string>shouldContinueSlash</string>
+	<key>providehash</key>
+	<string>lifecycleMomentum</string>
+</dict>
+</plist>

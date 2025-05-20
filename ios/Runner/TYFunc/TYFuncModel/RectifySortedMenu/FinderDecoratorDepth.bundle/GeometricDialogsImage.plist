@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directservice</key>
+	<string>asyncSize</string>
+	<key>fusedEfficiency</key>
+	<string>baselineBuffer</string>
+	<key>loopactivitypressure</key>
+	<string>undertakeSize</string>
+	<key>mixinicon</key>
+	<string>aggregateEntity</string>
+	<key>originalVariant</key>
+	<string>alignmentbrightness</string>
+	<key>shouldSubscribePromise</key>
+	<string>spriteProcess</string>
+</dict>
+</plist>

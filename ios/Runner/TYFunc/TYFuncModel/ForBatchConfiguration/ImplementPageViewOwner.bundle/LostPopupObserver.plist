@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGroup</key>
+	<string>globalTolerance</string>
+	<key>disparateresponse</key>
+	<string>queuealongdecorator</string>
+	<key>evolutionForce</key>
+	<string>titlewithoutstrategy</string>
+	<key>imageInterval</key>
+	<string>notifieremitter</string>
+	<key>inheritedPet</key>
+	<string>unbindCube</string>
+	<key>lostPolyfill</key>
+	<string>visitInteractor</string>
+	<key>missionbesidecomposite</key>
+	<string>futureAcceleration</string>
+	<key>semanticrestriction</key>
+	<string>canBuildNib</string>
+	<key>shouldDismissActivity</key>
+	<string>quitLabel</string>
+	<key>specifyDocument</key>
+	<string>shouldDisposeContainer</string>
+</dict>
+</plist>

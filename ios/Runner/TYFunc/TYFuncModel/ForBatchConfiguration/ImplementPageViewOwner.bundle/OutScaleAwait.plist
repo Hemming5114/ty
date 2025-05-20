@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchShape</key>
+	<string>accelerateTitle</string>
+	<key>characterFormat</key>
+	<string>timeAcceleration</string>
+	<key>checkboxInset</key>
+	<string>routerTail</string>
+	<key>delicateAppBar</key>
+	<string>canRebuildStack</string>
+	<key>signsaturation</key>
+	<string>ephemeralState</string>
+	<key>webElasticity</key>
+	<string>canPersistThread</string>
+</dict>
+</plist>

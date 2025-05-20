@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratedecoratortransparency</key>
+	<string>shouldPresentClipper</string>
+	<key>composableOption</key>
+	<string>canNavigateBuilder</string>
+	<key>cupertinoUseCase</key>
+	<string>directrepository</string>
+	<key>equalizationBehavior</key>
+	<string>swiftstream</string>
+	<key>normDistance</key>
+	<string>shouldDisposeNotifier</string>
+	<key>robusttitle</key>
+	<string>evaluateParticle</string>
+	<key>shouldSetStateScale</key>
+	<string>coordinatorScope</string>
+	<key>vertexValidation</key>
+	<string>pendingPriority</string>
+</dict>
+</plist>

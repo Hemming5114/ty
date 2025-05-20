@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architecturedepth</key>
+	<string>axisworkbottom</string>
+	<key>containermoderotation</key>
+	<string>routeSubpixel</string>
+	<key>draggableLinker</key>
+	<string>releaseConstraint</string>
+	<key>opaqueCoordinator</key>
+	<string>shouldMountedHeap</string>
+	<key>presentobserver</key>
+	<string>interactionVelocity</string>
+	<key>sharedmodelcount</key>
+	<string>autoCallback</string>
+	<key>similarVariant</key>
+	<string>storyboardrenderer</string>
+</dict>
+</plist>

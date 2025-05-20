@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbehavior</key>
+	<string>touchTransformer</string>
+	<key>impactleft</key>
+	<string>reduceOffset</string>
+	<key>mutablegriddelay</key>
+	<string>opaqueAllocator</string>
+	<key>protocolgrid</key>
+	<string>yieldsubpixel</string>
+	<key>remediationdirection</key>
+	<string>baselineinteraction</string>
+	<key>routeactionpressure</key>
+	<string>mobileStamp</string>
+	<key>scaffoldSkewY</key>
+	<string>comprehensiveTool</string>
+	<key>singletonobserver</key>
+	<string>stackpublisher</string>
+</dict>
+</plist>

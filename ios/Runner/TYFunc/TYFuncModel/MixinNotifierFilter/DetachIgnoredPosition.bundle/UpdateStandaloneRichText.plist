@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativesliderdistance</key>
+	<string>observeduration</string>
+	<key>materialCurve</key>
+	<string>dismissScale</string>
+	<key>skipdimension</key>
+	<string>transpileCallback</string>
+	<key>storyboardForce</key>
+	<string>injectIntensity</string>
+	<key>unaryAppearance</key>
+	<string>sharedSymbol</string>
+</dict>
+</plist>

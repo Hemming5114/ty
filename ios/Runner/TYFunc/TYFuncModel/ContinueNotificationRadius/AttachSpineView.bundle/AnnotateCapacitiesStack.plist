@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScale</key>
+	<string>mediumTicker</string>
+	<key>curveHead</key>
+	<string>expandedNumber</string>
+	<key>customtimeline</key>
+	<string>shouldPersistAlpha</string>
+	<key>densegem</key>
+	<string>optimizerDepth</string>
+	<key>equivalentdelay</key>
+	<string>nativeSubscription</string>
+	<key>iterativeconsumerdensity</key>
+	<string>ignoredaction</string>
+	<key>persistentPicker</key>
+	<string>tappablespineshade</string>
+</dict>
+</plist>

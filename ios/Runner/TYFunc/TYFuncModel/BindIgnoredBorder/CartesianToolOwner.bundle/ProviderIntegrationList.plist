@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSorter</key>
+	<string>publishTabView</string>
+	<key>disabledMetrics</key>
+	<string>autoElement</string>
+	<key>permissiveConverter</key>
+	<string>buildSkirt</string>
+	<key>respectiveMapper</key>
+	<string>consultativeVariant</string>
+	<key>richtextColor</key>
+	<string>finishTable</string>
+	<key>shouldCreateInkWell</key>
+	<string>mainPicker</string>
+</dict>
+</plist>

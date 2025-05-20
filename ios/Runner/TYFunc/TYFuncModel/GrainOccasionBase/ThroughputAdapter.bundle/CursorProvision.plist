@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatetexture</key>
+	<string>discardedqueue</string>
+	<key>listenerTop</key>
+	<string>shouldSaveSlash</string>
+	<key>nativeResponse</key>
+	<string>functionalWidget</string>
+	<key>presenterVisible</key>
+	<string>asynchronousBehavior</string>
+	<key>robustCustomPaint</key>
+	<string>canReplaceRemainder</string>
+	<key>segmentsize</key>
+	<string>consultativeTask</string>
+	<key>sizedboxcenter</key>
+	<string>requiredScenario</string>
+	<key>soundSpeed</key>
+	<string>difficultCapacity</string>
+	<key>videoFeedback</key>
+	<string>webNotation</string>
+</dict>
+</plist>

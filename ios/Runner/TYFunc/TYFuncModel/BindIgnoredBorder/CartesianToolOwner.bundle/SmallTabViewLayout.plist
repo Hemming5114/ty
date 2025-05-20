@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basebymethod</key>
+	<string>dismissicon</string>
+	<key>coordinatorState</key>
+	<string>flexibleTrajectory</string>
+	<key>deferredIntegrity</key>
+	<string>requiredVolume</string>
+	<key>marshalposition</key>
+	<string>multiImpact</string>
+	<key>routeMargin</key>
+	<string>stopSignature</string>
+	<key>shouldDisposeCanvas</key>
+	<string>standaloneAperture</string>
+	<key>shouldRebuildSession</key>
+	<string>mainCombiner</string>
+</dict>
+</plist>

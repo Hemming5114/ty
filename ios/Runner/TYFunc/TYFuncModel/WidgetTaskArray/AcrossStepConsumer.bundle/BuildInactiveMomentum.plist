@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialUsage</key>
+	<string>refactorRadius</string>
+	<key>listviewreducer</key>
+	<string>accessibleInterface</string>
+	<key>mutableSchema</key>
+	<string>canCancelCell</string>
+	<key>shouldLayoutBuilder</key>
+	<string>sortedRecursion</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionfragments</key>
+	<string>containeradapterappearance</string>
+	<key>activatelayout</key>
+	<string>directlyTabBar</string>
+	<key>commonSlider</key>
+	<string>profileTween</string>
+	<key>elasticInteger</key>
+	<string>buildChecklist</string>
+	<key>mediocreactivity</key>
+	<string>gradientcapacity</string>
+	<key>webTime</key>
+	<string>nextsegmentduration</string>
+</dict>
+</plist>

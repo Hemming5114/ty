@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousdetector</key>
+	<string>asyncbeyondchain</string>
+	<key>draggableBuffer</key>
+	<string>oldGrid</string>
+	<key>inkwellatvariable</key>
+	<string>canYieldTabBar</string>
+	<key>instructionRate</key>
+	<string>pendingListView</string>
+	<key>newestParticle</key>
+	<string>diversifiedTimeline</string>
+	<key>popupquaternion</key>
+	<string>enabledComponent</string>
+	<key>remediationTension</key>
+	<string>sharedState</string>
+	<key>routerBound</key>
+	<string>uniqueGrid</string>
+	<key>variantTension</key>
+	<string>optionuntilvalue</string>
+</dict>
+</plist>

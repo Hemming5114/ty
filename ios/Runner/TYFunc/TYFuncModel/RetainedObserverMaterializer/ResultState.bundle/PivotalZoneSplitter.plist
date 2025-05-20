@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedgesturedetector</key>
+	<string>gradientDelay</string>
+	<key>contrastSkewY</key>
+	<string>unsortedScalability</string>
+	<key>currentConstant</key>
+	<string>statelessPadding</string>
+	<key>customizedframe</key>
+	<string>directHash</string>
+	<key>difficultCatalyst</key>
+	<string>particleVisitor</string>
+	<key>effectcenter</key>
+	<string>protectedentropyborder</string>
+	<key>immutableLoss</key>
+	<string>matrixChain</string>
+	<key>normalHistogram</key>
+	<string>visualizeGrain</string>
+	<key>scrollableTrigger</key>
+	<string>shouldDetachSlash</string>
+	<key>shouldNotifyNib</key>
+	<string>marginDuration</string>
+</dict>
+</plist>

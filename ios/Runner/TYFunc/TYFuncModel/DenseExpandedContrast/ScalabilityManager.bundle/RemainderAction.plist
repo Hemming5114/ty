@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawermomentum</key>
+	<string>canHandleFlex</string>
+	<key>fixedLog</key>
+	<string>granularIcon</string>
+	<key>functionalReference</key>
+	<string>equipmentStage</string>
+	<key>geometricConsumer</key>
+	<string>dynamicStatus</string>
+	<key>onmissionchanged</key>
+	<string>localAlert</string>
+	<key>precisionuntilinterpreter</key>
+	<string>denseTweak</string>
+	<key>shouldDeserializeTabView</key>
+	<string>logarithmCycle</string>
+</dict>
+</plist>

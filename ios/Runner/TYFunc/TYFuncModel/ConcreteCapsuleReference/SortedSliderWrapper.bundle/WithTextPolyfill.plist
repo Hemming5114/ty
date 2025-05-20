@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousmodalcount</key>
+	<string>textatvariable</string>
+	<key>backwardmetadata</key>
+	<string>selectedbinary</string>
+	<key>basicWidget</key>
+	<string>materialDrawer</string>
+	<key>clippertext</key>
+	<string>shouldUpdateCapacities</string>
+	<key>containerdecoratorfeedback</key>
+	<string>sequentialCustomPaint</string>
+	<key>parallelCycle</key>
+	<string>constraintfromform</string>
+	<key>setstateskin</key>
+	<string>listenTitle</string>
+	<key>strengthopacity</key>
+	<string>stackBound</string>
+	<key>tappableSubpixel</key>
+	<string>asynchronoussubscriptionpressure</string>
+	<key>textureactiontag</key>
+	<string>persistentEntity</string>
+</dict>
+</plist>

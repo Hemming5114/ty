@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystName</key>
+	<string>sharedTime</string>
+	<key>configurationAppearance</key>
+	<string>dependencyContrast</string>
+	<key>floatsignature</key>
+	<string>transitionSize</string>
+	<key>hardFinder</key>
+	<string>shouldMountedSemantics</string>
+	<key>inactiveMission</key>
+	<string>webReliability</string>
+	<key>resiliencePadding</key>
+	<string>currentLatency</string>
+	<key>shouldMountedModal</key>
+	<string>globalRecursion</string>
+	<key>unmountedmediaquery</key>
+	<string>vertexBorder</string>
+</dict>
+</plist>

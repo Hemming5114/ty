@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedresultvalidation</key>
+	<string>activeSprite</string>
+	<key>disabledGroup</key>
+	<string>canDisconnectContraction</string>
+	<key>discardedJoiner</key>
+	<string>configurationcolor</string>
+	<key>evolutionTension</key>
+	<string>createClipper</string>
+	<key>nativeBuilder</key>
+	<string>granularLog</string>
+	<key>parallelUseCase</key>
+	<string>associatedAnalyzer</string>
+	<key>projectionoutsidetask</key>
+	<string>shouldInflateInterpolation</string>
+	<key>shouldfinishgem</key>
+	<string>skirtDepth</string>
+</dict>
+</plist>

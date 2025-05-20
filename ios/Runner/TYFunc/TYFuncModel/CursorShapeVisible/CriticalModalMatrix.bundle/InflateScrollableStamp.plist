@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPosition</key>
+	<string>modalfrequency</string>
+	<key>drawerTheme</key>
+	<string>multiplyTask</string>
+	<key>evolutionAcceleration</key>
+	<string>consumeusage</string>
+	<key>formatScale</key>
+	<string>beginneremitter</string>
+	<key>keeptabbar</key>
+	<string>makeState</string>
+	<key>localizationtaskacceleration</key>
+	<string>permissiveTabView</string>
+	<key>reusableDimension</key>
+	<string>persistentTask</string>
+	<key>smallMedia</key>
+	<string>shouldPushClipper</string>
+	<key>streamShape</key>
+	<string>equipmentinterval</string>
+</dict>
+</plist>

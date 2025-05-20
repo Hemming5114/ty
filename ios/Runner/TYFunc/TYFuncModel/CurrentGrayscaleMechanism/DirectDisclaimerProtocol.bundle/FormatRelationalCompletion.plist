@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultLog</key>
+	<string>canDeserializeMargin</string>
+	<key>enabledResponse</key>
+	<string>mediumReliability</string>
+	<key>interactivetexture</key>
+	<string>shouldBindMargin</string>
+	<key>progressbarandinterpreter</key>
+	<string>listenFragment</string>
+	<key>responsiveCombiner</key>
+	<string>cartesianConfiguration</string>
+	<key>singleAperture</key>
+	<string>composableTask</string>
+	<key>techniqueSkewX</key>
+	<string>canEncodeInteger</string>
+	<key>throughputresponse</key>
+	<string>canNotifyCapsule</string>
+</dict>
+</plist>

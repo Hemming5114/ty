@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardModel</key>
+	<string>beginnerImpact</string>
+	<key>binderTransparency</key>
+	<string>sessionActivity</string>
+	<key>challengeFlags</key>
+	<string>defaultdropdownbutton</string>
+	<key>loglabel</key>
+	<string>logplatformdirection</string>
+	<key>numericalscaffoldkind</key>
+	<string>appendcoordinator</string>
+	<key>projectioncontainchain</key>
+	<string>fragmentdetector</string>
+	<key>reactiveJoiner</key>
+	<string>shouldSkipAlert</string>
+	<key>reducerinterval</key>
+	<string>immediateComposition</string>
+	<key>shouldRenderBorder</key>
+	<string>unsortedStatus</string>
+</dict>
+</plist>

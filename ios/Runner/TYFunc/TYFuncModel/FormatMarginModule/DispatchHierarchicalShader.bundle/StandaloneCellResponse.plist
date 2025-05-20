@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionBound</key>
+	<string>decodeText</string>
+	<key>constrainterror</key>
+	<string>channelsrecursion</string>
+	<key>enumeratekernel</key>
+	<string>captionscopeappearance</string>
+	<key>inkwellSpacing</key>
+	<string>greatDependency</string>
+	<key>parseallocator</key>
+	<string>routeContrast</string>
+	<key>rangescale</key>
+	<string>updateListView</string>
+	<key>sinkPadding</key>
+	<string>triggerAcceleration</string>
+</dict>
+</plist>

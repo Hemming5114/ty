@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeSplitter</key>
+	<string>draggableNotification</string>
+	<key>permissiveDescriptor</key>
+	<string>otherCallback</string>
+	<key>resilientEvent</key>
+	<string>intermediatequeue</string>
+	<key>shouldparsecolumn</key>
+	<string>ignoredMapper</string>
+</dict>
+</plist>

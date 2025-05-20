@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatechart</key>
+	<string>parseSkin</string>
+	<key>deferredstrength</key>
+	<string>anchorbufferopacity</string>
+	<key>displayableNorm</key>
+	<string>intermediateMaterializer</string>
+	<key>infoType</key>
+	<string>futuredespiteform</string>
+	<key>maintainallocator</key>
+	<string>brushAppearance</string>
+	<key>offsetformat</key>
+	<string>immutableScene</string>
+	<key>optionBorder</key>
+	<string>builderPlatform</string>
+	<key>shouldUnmountTabBar</key>
+	<string>imperativeusageresponse</string>
+	<key>staticSymbol</key>
+	<string>flexibleTopic</string>
+</dict>
+</plist>

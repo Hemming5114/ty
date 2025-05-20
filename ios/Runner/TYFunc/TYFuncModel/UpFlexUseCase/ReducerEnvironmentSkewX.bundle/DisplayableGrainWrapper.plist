@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDecoration</key>
+	<string>limitCurve</string>
+	<key>characterDirection</key>
+	<string>shouldcontinuecontainer</string>
+	<key>compositionalAlignment</key>
+	<string>inflateCanvas</string>
+	<key>defaultInterpolation</key>
+	<string>informationinterval</string>
+	<key>hashBound</key>
+	<string>resilientAspect</string>
+	<key>hyperbolicProtocol</key>
+	<string>popMaterial</string>
+	<key>playbackticker</key>
+	<string>mediumaspectratio</string>
+	<key>seamlessDimension</key>
+	<string>floatPopup</string>
+	<key>shouldcancelvariant</key>
+	<string>shouldTransitionStateful</string>
+</dict>
+</plist>

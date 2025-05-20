@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePet</key>
+	<string>shouldPresentSample</string>
+	<key>adaptiveMechanism</key>
+	<string>multiplicationshade</string>
+	<key>flexibleMediaQuery</key>
+	<string>subtleMaterial</string>
+	<key>shouldPopBase</key>
+	<string>canNotifyEquipment</string>
+	<key>shouldPopPoint</key>
+	<string>borderHue</string>
+	<key>synchronizeinterpolation</key>
+	<string>smallData</string>
+</dict>
+</plist>

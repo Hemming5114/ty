@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAperture</key>
+	<string>webGate</string>
+	<key>currenttask</key>
+	<string>listenermapper</string>
+	<key>detectorMomentum</key>
+	<string>processSkirt</string>
+	<key>elasticprogressbar</key>
+	<string>rowTemple</string>
+	<key>integrationspacing</key>
+	<string>seamlessCosine</string>
+	<key>priorityMomentum</key>
+	<string>discardedAsync</string>
+	<key>shouldFinishProfile</key>
+	<string>topicstyle</string>
+	<key>shouldPushDocument</key>
+	<string>maxSpecifier</string>
+	<key>tensorController</key>
+	<string>gramState</string>
+</dict>
+</plist>

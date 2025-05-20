@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorspacing</key>
+	<string>shouldSubscribeTangent</string>
+	<key>enddelegate</key>
+	<string>routerDirection</string>
+	<key>equalizationDirection</key>
+	<string>offsetTransformer</string>
+	<key>litemodelspeed</key>
+	<string>writeaspect</string>
+	<key>mainPreview</key>
+	<string>serviceValidation</string>
+	<key>rapidDispatcher</key>
+	<string>transitioninterval</string>
+	<key>singletoolrate</key>
+	<string>semanticsTint</string>
+	<key>sortedFrame</key>
+	<string>shouldCreateSemantics</string>
+</dict>
+</plist>

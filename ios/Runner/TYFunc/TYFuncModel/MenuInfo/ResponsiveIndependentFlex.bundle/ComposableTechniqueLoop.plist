@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSize</key>
+	<string>shouldSubscribeModulus</string>
+	<key>imageDirection</key>
+	<string>onactivitytap</string>
+	<key>keyChooser</key>
+	<string>resultScope</string>
+	<key>loopAlignment</key>
+	<string>generateanimation</string>
+	<key>lostNavigator</key>
+	<string>removeAsset</string>
+	<key>numericalasync</key>
+	<string>sharedPolyfill</string>
+	<key>priorityBehavior</key>
+	<string>permanentloop</string>
+	<key>resolverhandler</key>
+	<string>invokeview</string>
+	<key>sessionDistance</key>
+	<string>quantizerStream</string>
+	<key>webChannel</key>
+	<string>radioTransparency</string>
+</dict>
+</plist>

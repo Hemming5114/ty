@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionzone</key>
+	<string>scrollerPosition</string>
+	<key>dropdownbuttondespitefacade</key>
+	<string>lockpromise</string>
+	<key>lazyProgressBar</key>
+	<string>axisPhase</string>
+	<key>mobileframe</key>
+	<string>appbarBound</string>
+	<key>originalUnary</key>
+	<string>canUnmountTask</string>
+	<key>otherrouter</key>
+	<string>rebuildSpot</string>
+	<key>shoulddeserializespine</key>
+	<string>overlayDistance</string>
+	<key>synchronousMap</key>
+	<string>brushWork</string>
+</dict>
+</plist>

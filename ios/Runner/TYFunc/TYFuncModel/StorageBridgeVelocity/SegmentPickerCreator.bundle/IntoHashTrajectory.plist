@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxInset</key>
+	<string>annotateInteractor</string>
+	<key>compositionalRestriction</key>
+	<string>dissociatecard</string>
+	<key>crucialCompleter</key>
+	<string>loadEqualization</string>
+	<key>directAwait</key>
+	<string>dynamicBullet</string>
+	<key>permanentCapacities</key>
+	<string>sortedWidget</string>
+	<key>respectivedimension</key>
+	<string>catalystIndex</string>
+	<key>statelessAllocator</key>
+	<string>resizablePolyfill</string>
+	<key>subsequentPriority</key>
+	<string>processchapter</string>
+	<key>sustainableInfrastructure</key>
+	<string>taskInterpreter</string>
+</dict>
+</plist>

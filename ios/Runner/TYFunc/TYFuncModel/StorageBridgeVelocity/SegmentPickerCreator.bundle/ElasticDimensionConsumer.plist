@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directChannels</key>
+	<string>constraintbeyondsingleton</string>
+	<key>functionalStack</key>
+	<string>opaquemembersize</string>
+	<key>profilemode</key>
+	<string>explicitusage</string>
+	<key>publicThreshold</key>
+	<string>reconcilemovement</string>
+	<key>quaternionValidation</key>
+	<string>scenarioSaturation</string>
+	<key>tensorCoordinator</key>
+	<string>elasticityKind</string>
+</dict>
+</plist>

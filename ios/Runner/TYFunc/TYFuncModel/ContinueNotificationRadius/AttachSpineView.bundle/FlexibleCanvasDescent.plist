@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocShape</key>
+	<string>invisiblePriority</string>
+	<key>coordinatorreplica</key>
+	<string>shouldSkipEquipment</string>
+	<key>decorationthanfunction</key>
+	<string>isgrayscale</string>
+	<key>detailContrast</key>
+	<string>renderDocument</string>
+	<key>futurepermutation</key>
+	<string>canSaveSegue</string>
+	<key>immediateService</key>
+	<string>parallelMediaQuery</string>
+	<key>masterSkewX</key>
+	<string>requiredBandwidth</string>
+	<key>optionDirection</key>
+	<string>flexibleTexture</string>
+	<key>persistdescription</key>
+	<string>resolverFlyweight</string>
+	<key>positionedactionright</key>
+	<string>shouldRouteMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserSaturation</key>
+	<string>euclideanChannel</string>
+	<key>intermediatestatus</key>
+	<string>shouldBuildMomentum</string>
+	<key>joinerMomentum</key>
+	<string>tangentAcceleration</string>
+	<key>lazyGradient</key>
+	<string>entropyProcess</string>
+	<key>lifecycleLocation</key>
+	<string>appbartension</string>
+	<key>mendscale</key>
+	<string>declarativeView</string>
+	<key>mobilebuttontail</key>
+	<string>exponentAction</string>
+	<key>shouldcacheprojection</key>
+	<string>canYieldBullet</string>
+	<key>sortervisible</key>
+	<string>beginnerResolver</string>
+	<key>taskinterpretercenter</key>
+	<string>resolverTension</string>
+</dict>
+</plist>

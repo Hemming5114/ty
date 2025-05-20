@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredarithmetic</key>
+	<string>canNavigateCustomPaint</string>
+	<key>lazyCache</key>
+	<string>layoutSegue</string>
+	<key>multiCombiner</key>
+	<string>tangentdelegate</string>
+	<key>normalDecoration</key>
+	<string>statefulReference</string>
+	<key>routebylayer</key>
+	<string>canSaveBorder</string>
+	<key>roworigin</key>
+	<string>shouldnotifybox</string>
+	<key>shouldMountedProfile</key>
+	<string>specifyShader</string>
+	<key>smartSample</key>
+	<string>otherTask</string>
+</dict>
+</plist>

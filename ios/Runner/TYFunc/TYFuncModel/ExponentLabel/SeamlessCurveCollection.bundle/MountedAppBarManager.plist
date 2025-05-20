@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataorigin</key>
+	<string>granularStream</string>
+	<key>intensityatlayer</key>
+	<string>deserializeLogarithm</string>
+	<key>resetdelegate</key>
+	<string>newestProject</string>
+	<key>storemesh</key>
+	<string>intuitiveHistogram</string>
+</dict>
+</plist>

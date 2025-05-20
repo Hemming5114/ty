@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCycle</key>
+	<string>geometricconstant</string>
+	<key>dataVisible</key>
+	<string>canDismissDimension</string>
+	<key>euclideanStore</key>
+	<string>canPrepareBinary</string>
+	<key>firstAccessory</key>
+	<string>crucialTabBar</string>
+	<key>interactionTag</key>
+	<string>resilientResilience</string>
+	<key>keyCupertino</key>
+	<string>canFormatArithmetic</string>
+	<key>shouldSubscribeTask</key>
+	<string>constructfeature</string>
+	<key>storyboardopacity</key>
+	<string>extensionSaturation</string>
+	<key>unmountrichtext</key>
+	<string>shouldListenRole</string>
+	<key>variantFlags</key>
+	<string>findUseCase</string>
+</dict>
+</plist>

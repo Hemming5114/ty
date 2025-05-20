@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkawait</key>
+	<string>independentAnimation</string>
+	<key>defaultgradient</key>
+	<string>priorKernel</string>
+	<key>largeStatus</key>
+	<string>pagerEdge</string>
+	<key>lostgesturedetector</key>
+	<string>onvarianttap</string>
+	<key>modalBorder</key>
+	<string>textfieldstylevalidation</string>
+	<key>skipboxshadow</key>
+	<string>shouldUnmountBaseline</string>
+	<key>statusTheme</key>
+	<string>shouldAnimateProject</string>
+	<key>tabviewLocation</key>
+	<string>deprecateinteractor</string>
+</dict>
+</plist>

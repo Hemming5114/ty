@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorFeedback</key>
+	<string>executeRow</string>
+	<key>hierarchicalDetector</key>
+	<string>toleranceSkewY</string>
+	<key>inkwellTag</key>
+	<string>preparecoordinator</string>
+	<key>permissiveDocument</key>
+	<string>canDismissOption</string>
+	<key>shouldContinueGridView</key>
+	<string>renderBase</string>
+	<key>unsortedBrush</key>
+	<string>canDecodeProjection</string>
+	<key>variantFormat</key>
+	<string>captionshade</string>
+</dict>
+</plist>

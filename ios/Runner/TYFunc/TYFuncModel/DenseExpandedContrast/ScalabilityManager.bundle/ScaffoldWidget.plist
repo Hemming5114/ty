@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerSkewX</key>
+	<string>resizableEntropy</string>
+	<key>globalPolygon</key>
+	<string>shouldTransformBullet</string>
+	<key>parallelResilience</key>
+	<string>renameButton</string>
+	<key>pinchableStorage</key>
+	<string>flexOpacity</string>
+	<key>richtextScale</key>
+	<string>amortizationMomentum</string>
+	<key>shouldRestartSegment</key>
+	<string>shouldDisconnectScreen</string>
+	<key>thresholdTheme</key>
+	<string>tensorCollection</string>
+</dict>
+</plist>

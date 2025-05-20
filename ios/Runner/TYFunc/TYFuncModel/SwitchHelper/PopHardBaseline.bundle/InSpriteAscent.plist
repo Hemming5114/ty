@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerFrequency</key>
+	<string>semanticRepository</string>
+	<key>dynamicModel</key>
+	<string>normPrototype</string>
+	<key>opaqueChart</key>
+	<string>materialinjectionshape</string>
+	<key>requiredEmitter</key>
+	<string>canDisposeDropdownButton</string>
+	<key>seamlessHeap</key>
+	<string>renderGradient</string>
+	<key>unactivatedDimension</key>
+	<string>mainnavigatorpadding</string>
+	<key>unsortedRecursion</key>
+	<string>emitterDuration</string>
+</dict>
+</plist>

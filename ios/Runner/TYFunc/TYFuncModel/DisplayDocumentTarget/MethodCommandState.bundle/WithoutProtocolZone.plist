@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedPlayback</key>
+	<string>canSaveScroll</string>
+	<key>dynamictexture</key>
+	<string>widgetProxy</string>
+	<key>globalSwift</key>
+	<string>compareConfiguration</string>
+	<key>gridviewVelocity</key>
+	<string>makeController</string>
+	<key>intuitiveintensityhue</key>
+	<string>processMaster</string>
+	<key>memberMode</key>
+	<string>disposeNib</string>
+	<key>methodatchain</key>
+	<string>checkIntensity</string>
+	<key>newestSplitter</key>
+	<string>histogramPadding</string>
+	<key>utilwithkind</key>
+	<string>searchRect</string>
+</dict>
+</plist>

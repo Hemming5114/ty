@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSingleton</key>
+	<string>poplayer</string>
+	<key>fixedCurve</key>
+	<string>largeNotation</string>
+	<key>hardRemediation</key>
+	<string>fetchSwitch</string>
+	<key>listenerTint</key>
+	<string>capacitiesSkewX</string>
+	<key>nativepicker</key>
+	<string>injectionType</string>
+	<key>paintinteractor</key>
+	<string>equipmentParameter</string>
+	<key>subtlePager</key>
+	<string>enabledClipper</string>
+	<key>utilVisible</key>
+	<string>canDisposeSemantics</string>
+</dict>
+</plist>

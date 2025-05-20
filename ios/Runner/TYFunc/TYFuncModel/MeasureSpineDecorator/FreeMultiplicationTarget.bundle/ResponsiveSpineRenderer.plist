@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellparameterpressure</key>
+	<string>pinchableActivity</string>
+	<key>combinerInterval</key>
+	<string>readDescription</string>
+	<key>enabledRichText</key>
+	<string>shaderTask</string>
+	<key>imperativeEvent</key>
+	<string>requestProvider</string>
+	<key>optimizerLeft</key>
+	<string>drawAwait</string>
+	<key>protectedModal</key>
+	<string>mapSpeed</string>
+	<key>rectangleInteraction</key>
+	<string>desktopActivity</string>
+	<key>sustainableScene</key>
+	<string>requiredMethod</string>
+</dict>
+</plist>

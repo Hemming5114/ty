@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstRenderer</key>
+	<string>customizedStoryboard</string>
+	<key>localSwift</key>
+	<string>directlyGestureDetector</string>
+	<key>shouldUnmountAnimation</key>
+	<string>observeroperation</string>
+</dict>
+</plist>

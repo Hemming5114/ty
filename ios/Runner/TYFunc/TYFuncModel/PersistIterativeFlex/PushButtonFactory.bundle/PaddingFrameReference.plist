@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicIntegration</key>
+	<string>adaptiveSpecifier</string>
+	<key>fixedMend</key>
+	<string>nativeSegue</string>
+	<key>priorityAcceleration</key>
+	<string>vectorContext</string>
+	<key>shouldBindSlider</key>
+	<string>zoneobserverborder</string>
+	<key>shouldNotifyMomentum</key>
+	<string>shouldSerializeGradient</string>
+</dict>
+</plist>

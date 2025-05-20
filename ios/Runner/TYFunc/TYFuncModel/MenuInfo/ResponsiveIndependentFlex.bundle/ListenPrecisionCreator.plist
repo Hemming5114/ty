@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelValidation</key>
+	<string>replaceOverlay</string>
+	<key>comprehensiveIntegrity</key>
+	<string>persistTransition</string>
+	<key>coordinatorTop</key>
+	<string>relationalInterface</string>
+	<key>currentstamp</key>
+	<string>shouldPopProject</string>
+	<key>interpolationoffset</key>
+	<string>denseLabel</string>
+	<key>searcherInterval</key>
+	<string>enabledNib</string>
+	<key>similartouch</key>
+	<string>spincontainer</string>
+	<key>synchronousAsset</key>
+	<string>cupertinoIntensity</string>
+</dict>
+</plist>

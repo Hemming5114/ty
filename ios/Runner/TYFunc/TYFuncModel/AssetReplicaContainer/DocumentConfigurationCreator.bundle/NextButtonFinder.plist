@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRepository</key>
+	<string>deprecateResolver</string>
+	<key>accessoryplatformstatus</key>
+	<string>updateUnary</string>
+	<key>activeTime</key>
+	<string>markCompleter</string>
+	<key>directlyStoryboard</key>
+	<string>shouldRenderPainter</string>
+	<key>gestureKind</key>
+	<string>dialogsLocation</string>
+	<key>nativeExtension</key>
+	<string>originalInteractor</string>
+	<key>routeBound</key>
+	<string>decodecoordinator</string>
+	<key>sinkDepth</key>
+	<string>unsortedConstant</string>
+	<key>switchBrightness</key>
+	<string>unlockProgressBar</string>
+	<key>tensorInformation</key>
+	<string>greatreductionfeedback</string>
+</dict>
+</plist>

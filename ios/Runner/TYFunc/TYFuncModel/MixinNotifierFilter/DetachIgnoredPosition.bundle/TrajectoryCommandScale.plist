@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedparticlemode</key>
+	<string>customizedAnimation</string>
+	<key>futureHead</key>
+	<string>marshalStream</string>
+	<key>oldScaffold</key>
+	<string>shouldLayoutDecoration</string>
+	<key>permissiveSink</key>
+	<string>shouldUnbindVariant</string>
+	<key>resizableAction</key>
+	<string>priorityFormat</string>
+	<key>resolveplayback</key>
+	<string>substantialFuture</string>
+	<key>restorecoordinator</key>
+	<string>encodeFlex</string>
+	<key>shouldUnbindCursor</key>
+	<string>herostate</string>
+</dict>
+</plist>

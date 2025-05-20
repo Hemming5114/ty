@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>retainedTaxonomy</key>
+	<string>cubematrix</string>
+	<key>routeAcceleration</key>
+	<string>dynamicCube</string>
+	<key>sortedChapter</key>
+	<string>deliveryCoord</string>
+	<key>staticCoordinator</key>
+	<string>optimizeHash</string>
+	<key>subtleConsumer</key>
+	<string>transpileview</string>
+	<key>tableDepth</key>
+	<string>isolateVariable</string>
+	<key>tabviewconfiguration</key>
+	<string>processcheckbox</string>
+	<key>visibleTween</key>
+	<string>shouldBuildSample</string>
+</dict>
+</plist>

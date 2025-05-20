@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBatch</key>
+	<string>functionalChapter</string>
+	<key>materialBitrate</key>
+	<string>tentativeSpeed</string>
+	<key>shouldSetStateBullet</key>
+	<string>canPersistSwift</string>
+	<key>smartefficiency</key>
+	<string>shouldLayoutContraction</string>
+</dict>
+</plist>

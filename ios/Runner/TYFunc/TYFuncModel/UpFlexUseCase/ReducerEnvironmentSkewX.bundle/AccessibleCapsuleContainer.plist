@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorduringstrategy</key>
+	<string>respectiveTransformer</string>
+	<key>materialEffect</key>
+	<string>composableCustomPaint</string>
+	<key>responsiveaction</key>
+	<string>provideresponse</string>
+	<key>shouldInflateMargin</key>
+	<string>inactiveTweak</string>
+	<key>sortedUsage</key>
+	<string>paddinginterpretermomentum</string>
+	<key>uniformLayout</key>
+	<string>pushReducer</string>
+</dict>
+</plist>

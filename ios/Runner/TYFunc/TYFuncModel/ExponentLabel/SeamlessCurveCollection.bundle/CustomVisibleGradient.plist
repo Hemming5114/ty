@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInteraction</key>
+	<string>accordionCombiner</string>
+	<key>explicitVolume</key>
+	<string>detachternary</string>
+	<key>explicitcaption</key>
+	<string>customizedalertorientation</string>
+	<key>prismaticspriteinteraction</key>
+	<string>geometricSubscription</string>
+	<key>sortedSound</key>
+	<string>wrapperSaturation</string>
+	<key>volumeVisibility</key>
+	<string>diversifiedprojectionbrightness</string>
+</dict>
+</plist>

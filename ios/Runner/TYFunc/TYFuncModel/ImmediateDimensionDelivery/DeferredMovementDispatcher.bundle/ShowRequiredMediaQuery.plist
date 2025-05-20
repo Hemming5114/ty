@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationSpeed</key>
+	<string>shouldNavigateCheckbox</string>
+	<key>firstZone</key>
+	<string>statefulStage</string>
+	<key>fragmentVisible</key>
+	<string>assetaroundvar</string>
+	<key>immutableSizedBox</key>
+	<string>modulushead</string>
+	<key>interpolationfrequency</key>
+	<string>canUnmountedGridView</string>
+	<key>prismaticGrid</key>
+	<string>canBuildAxis</string>
+	<key>shouldPauseSubpixel</key>
+	<string>effectStatus</string>
+	<key>tappableInteractor</key>
+	<string>toolTask</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledQuaternion</key>
+	<string>collectionPrototype</string>
+	<key>inactiveDocument</key>
+	<string>methodAppearance</string>
+	<key>remediationcoord</key>
+	<string>materialasvariable</string>
+	<key>shouldPushAnimation</key>
+	<string>cubeleft</string>
+	<key>shouldTrainBox</key>
+	<string>shouldUnmountedNotification</string>
+	<key>temporaryGrayscale</key>
+	<string>metadatacontrast</string>
+</dict>
+</plist>

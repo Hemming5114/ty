@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatetechnique</key>
+	<string>modelTop</string>
+	<key>descriptorflyweighttint</key>
+	<string>stamplayerstate</string>
+	<key>nativeSelector</key>
+	<string>presentmanager</string>
+	<key>notificationforminterval</key>
+	<string>assetskewy</string>
+	<key>projectionPressure</key>
+	<string>liteService</string>
+	<key>shaderfuture</key>
+	<string>hasFuture</string>
+	<key>shouldHandleMap</key>
+	<string>protocolCount</string>
+	<key>shouldProcessDecoration</key>
+	<string>aspectduration</string>
+	<key>tabbarbrightness</key>
+	<string>specifyAnchor</string>
+</dict>
+</plist>

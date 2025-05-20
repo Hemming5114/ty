@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserCoord</key>
+	<string>textfieldAlignment</string>
+	<key>criticalJoiner</key>
+	<string>geometricCoordinator</string>
+	<key>draggableConverter</key>
+	<string>listenPriority</string>
+	<key>explicitChannels</key>
+	<string>cartesianLabel</string>
+	<key>lastScaffold</key>
+	<string>canPublishBullet</string>
+	<key>mediocrePadding</key>
+	<string>detailStyle</string>
+	<key>prismaticRoute</key>
+	<string>integerVelocity</string>
+	<key>shouldFormatSegment</key>
+	<string>baselineinset</string>
+</dict>
+</plist>

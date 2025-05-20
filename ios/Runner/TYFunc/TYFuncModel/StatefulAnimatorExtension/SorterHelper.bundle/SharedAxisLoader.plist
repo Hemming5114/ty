@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonColumn</key>
+	<string>bulletStage</string>
+	<key>granularComponent</key>
+	<string>showGrayscale</string>
+	<key>optionmomentum</key>
+	<string>themefrequency</string>
+	<key>replacesingleton</key>
+	<string>binaryinterval</string>
+	<key>shouldEndTechnique</key>
+	<string>loaderIndex</string>
+</dict>
+</plist>

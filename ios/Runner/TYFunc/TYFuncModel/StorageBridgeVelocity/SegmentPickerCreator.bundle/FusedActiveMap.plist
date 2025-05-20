@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationforminset</key>
+	<string>sliderdecoratorhead</string>
+	<key>appbarwrapper</key>
+	<string>shouldSetStateBoxShadow</string>
+	<key>bulletflags</key>
+	<string>tappableThroughput</string>
+	<key>deferredAxis</key>
+	<string>modelSpeed</string>
+	<key>resizableRect</key>
+	<string>shouldAttachBuilder</string>
+	<key>seamlessScenario</key>
+	<string>emitTechnique</string>
+	<key>stackLocation</key>
+	<string>navigationbesideoperation</string>
+</dict>
+</plist>

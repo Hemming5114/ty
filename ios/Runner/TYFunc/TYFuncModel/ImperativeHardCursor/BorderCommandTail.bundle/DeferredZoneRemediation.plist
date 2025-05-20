@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityIndex</key>
+	<string>cancelOperation</string>
+	<key>criticalAnimation</key>
+	<string>bulletPadding</string>
+	<key>nativeStateful</key>
+	<string>factorySkewX</string>
+	<key>overlayCoord</key>
+	<string>immutableTopic</string>
+	<key>prevView</key>
+	<string>intermediateScroller</string>
+	<key>rectHead</key>
+	<string>dialogsOffset</string>
+	<key>shouldMountedThread</key>
+	<string>opaqueBox</string>
+	<key>shouldYieldCurve</key>
+	<string>boxshadowvelocity</string>
+</dict>
+</plist>

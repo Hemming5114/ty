@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationconstant</key>
+	<string>canKeepMobile</string>
+	<key>diversifiedGraph</key>
+	<string>injectCompleter</string>
+	<key>shouldBindColumn</key>
+	<string>timelineMargin</string>
+	<key>shouldRouteView</key>
+	<string>sharedFuture</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeGrayscale</key>
+	<string>inflateInteger</string>
+	<key>invisibleChallenge</key>
+	<string>rangeFrequency</string>
+	<key>multiCheckbox</key>
+	<string>sequentialAudio</string>
+	<key>rapidmesh</key>
+	<string>challengeParameter</string>
+	<key>shouldEndEquipment</key>
+	<string>scaffoldPressure</string>
+</dict>
+</plist>

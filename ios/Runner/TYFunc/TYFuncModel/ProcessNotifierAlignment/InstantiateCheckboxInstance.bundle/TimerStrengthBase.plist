@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphafilter</key>
+	<string>columnVariable</string>
+	<key>emitindicator</key>
+	<string>inflateOption</string>
+	<key>graphicinmediator</key>
+	<string>matrixBrightness</string>
+	<key>heroAppearance</key>
+	<string>shouldLoadCapsule</string>
+	<key>rapidAnalogy</key>
+	<string>publicEquipment</string>
+	<key>subtlesine</key>
+	<string>switchisolate</string>
+	<key>uniqueUtil</key>
+	<string>shouldSetStateAnchor</string>
+</dict>
+</plist>

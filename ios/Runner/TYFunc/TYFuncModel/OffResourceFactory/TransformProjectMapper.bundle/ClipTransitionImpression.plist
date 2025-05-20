@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveallocator</key>
+	<string>shouldEncodeTangent</string>
+	<key>alphaisolate</key>
+	<string>canSkipResource</string>
+	<key>convolutionorframework</key>
+	<string>discardedTool</string>
+	<key>enabledEfficiency</key>
+	<string>protectedResilience</string>
+	<key>intuitivetopic</key>
+	<string>denseIntegrity</string>
+	<key>rapidLoss</key>
+	<string>mapperVisibility</string>
+</dict>
+</plist>

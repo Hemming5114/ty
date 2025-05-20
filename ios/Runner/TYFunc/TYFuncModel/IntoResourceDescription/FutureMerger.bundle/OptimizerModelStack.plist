@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMatrix</key>
+	<string>configurationversuscommand</string>
+	<key>disparateCluster</key>
+	<string>offsetInjection</string>
+	<key>exceptionSkewX</key>
+	<string>destroyButton</string>
+	<key>managerPosition</key>
+	<string>fetchSensor</string>
+	<key>oldrowcoord</key>
+	<string>explicitGraph</string>
+	<key>parallelState</key>
+	<string>unaryFeedback</string>
+	<key>shouldHandleCard</key>
+	<string>equipmentdepth</string>
+	<key>splitterKind</key>
+	<string>queueOrigin</string>
+</dict>
+</plist>

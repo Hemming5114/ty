@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeUnary</key>
+	<string>oncachechanged</string>
+	<key>certificateoffset</key>
+	<string>splitterTail</string>
+	<key>evolutionTheme</key>
+	<string>positionMode</string>
+	<key>fusedRole</key>
+	<string>arithmeticSprite</string>
+	<key>hierarchicalGate</key>
+	<string>responseFeedback</string>
+	<key>interactorShape</key>
+	<string>copyTopic</string>
+	<key>shouldPauseRoute</key>
+	<string>dynamicFragments</string>
+	<key>smallFuture</key>
+	<string>iterativePager</string>
+</dict>
+</plist>

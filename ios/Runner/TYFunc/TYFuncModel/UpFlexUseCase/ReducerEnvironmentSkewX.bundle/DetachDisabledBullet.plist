@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatenorm</key>
+	<string>intermediateTicker</string>
+	<key>distinctionTransparency</key>
+	<string>synchronousprovider</string>
+	<key>euclideanPicker</key>
+	<string>resilientpresentersaturation</string>
+	<key>primaryTimeline</key>
+	<string>matrixBehavior</string>
+	<key>slashTension</key>
+	<string>popupWork</string>
+</dict>
+</plist>

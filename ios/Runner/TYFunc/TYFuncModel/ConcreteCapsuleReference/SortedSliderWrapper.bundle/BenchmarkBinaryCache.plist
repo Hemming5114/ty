@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionshape</key>
+	<string>hierarchicalBuilder</string>
+	<key>bitrateIndex</key>
+	<string>requiredProject</string>
+	<key>computewidget</key>
+	<string>canResumeRemainder</string>
+	<key>greatoffsetcontrast</key>
+	<string>navigateStream</string>
+	<key>liteAspectRatio</key>
+	<string>schedulerType</string>
+	<key>mutableDependency</key>
+	<string>associateReducer</string>
+	<key>scaleOrigin</key>
+	<string>canPauseProvider</string>
+	<key>shouldTransitionSymbol</key>
+	<string>scrollableparticlebound</string>
+	<key>sinedespitechain</key>
+	<string>gestureContext</string>
+	<key>tweeninsidework</key>
+	<string>accordionDimension</string>
+</dict>
+</plist>

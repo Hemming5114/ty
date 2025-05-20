@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationdespitememento</key>
+	<string>histogramcompositespeed</string>
+	<key>lastDrawer</key>
+	<string>timerStyle</string>
+	<key>subpixeltopic</key>
+	<string>draggablePosition</string>
+	<key>temporaryAppBar</key>
+	<string>shouldPaintSegue</string>
+</dict>
+</plist>

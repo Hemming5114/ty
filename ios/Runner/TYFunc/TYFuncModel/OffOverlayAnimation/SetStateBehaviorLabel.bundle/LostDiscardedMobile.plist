@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushstructurekind</key>
+	<string>canRebuildUsage</string>
+	<key>denseBinder</key>
+	<string>aspectratioVar</string>
+	<key>denseSubpixel</key>
+	<string>yieldChallenge</string>
+	<key>infoInset</key>
+	<string>scrollableNotifier</string>
+	<key>shouldSkipNib</key>
+	<string>masterfrominterpreter</string>
+	<key>sortedMonster</key>
+	<string>reusableNotifier</string>
+	<key>spotInset</key>
+	<string>themeSkewX</string>
+</dict>
+</plist>

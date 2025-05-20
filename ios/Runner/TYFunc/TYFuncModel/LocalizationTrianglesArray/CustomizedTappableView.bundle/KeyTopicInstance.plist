@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSplitter</key>
+	<string>referenceMediator</string>
+	<key>cachetween</key>
+	<string>transformerPattern</string>
+	<key>eventtension</key>
+	<string>respectiveDelivery</string>
+	<key>lossLocation</key>
+	<string>futureFormat</string>
+	<key>onmediaquerytap</key>
+	<string>durationFormat</string>
+	<key>shouldUpdateCycle</key>
+	<string>informationStatus</string>
+	<key>sortedScroll</key>
+	<string>bindSegue</string>
+	<key>storyboardBrightness</key>
+	<string>shouldSerializeTabView</string>
+	<key>unmarshalwidget</key>
+	<string>canTransformResource</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredMultiplication</key>
+	<string>robustSubscription</string>
+	<key>istabbar</key>
+	<string>markcontroller</string>
+	<key>shouldParseMember</key>
+	<string>discardedMapper</string>
+	<key>temporaryListener</key>
+	<string>delegatetaskborder</string>
+	<key>visiteffect</key>
+	<string>adjustUseCase</string>
+</dict>
+</plist>

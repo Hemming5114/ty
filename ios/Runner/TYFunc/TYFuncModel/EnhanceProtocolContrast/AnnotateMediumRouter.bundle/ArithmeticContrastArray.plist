@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBehavior</key>
+	<string>contrastRight</string>
+	<key>disconnectbutton</key>
+	<string>animateTimer</string>
+	<key>hardDependency</key>
+	<string>exceptionBottom</string>
+	<key>mobileTension</key>
+	<string>firstTabView</string>
+	<key>rectstagecoord</key>
+	<string>seamlessFinder</string>
+	<key>shouldDisposeExponent</key>
+	<string>painterDensity</string>
+	<key>shouldUnmountAnchor</key>
+	<string>primaryError</string>
+	<key>shouldUnmountCharacter</key>
+	<string>builderVelocity</string>
+	<key>shoulddisconnectusage</key>
+	<string>sharedGate</string>
+</dict>
+</plist>

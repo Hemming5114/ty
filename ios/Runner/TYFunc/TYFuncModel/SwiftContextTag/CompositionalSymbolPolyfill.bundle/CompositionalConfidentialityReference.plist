@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDuration</key>
+	<string>moduleSpacing</string>
+	<key>gestureContrast</key>
+	<string>celltag</string>
+	<key>hierarchicalposition</key>
+	<string>meshInterval</string>
+	<key>interactiverequest</key>
+	<string>multiIntegrity</string>
+	<key>missedCursor</key>
+	<string>serializeNode</string>
+	<key>nativequaternion</key>
+	<string>sustainableHistogram</string>
+	<key>observeragainstvisitor</key>
+	<string>grayscaleShape</string>
+	<key>precisionForce</key>
+	<string>fixedPet</string>
+	<key>requiredDescent</key>
+	<string>shouldAnimateReduction</string>
+</dict>
+</plist>

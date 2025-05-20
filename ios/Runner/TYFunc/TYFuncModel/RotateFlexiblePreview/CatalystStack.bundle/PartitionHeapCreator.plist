@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicjobinterval</key>
+	<string>localizationcontextrotation</string>
+	<key>materialRenderer</key>
+	<string>mapFramework</string>
+	<key>publicOverlay</key>
+	<string>ignoredDelegate</string>
+	<key>rendererOrientation</key>
+	<string>routerBound</string>
+	<key>semanticchannellocation</key>
+	<string>eagerMedia</string>
+	<key>shouldHandleAlpha</key>
+	<string>imperativeChannels</string>
+	<key>temporaryTabView</key>
+	<string>spotprocessshape</string>
+	<key>transitionright</key>
+	<string>accessibleRequest</string>
+</dict>
+</plist>

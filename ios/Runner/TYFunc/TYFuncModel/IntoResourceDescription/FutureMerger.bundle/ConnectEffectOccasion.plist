@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBandwidth</key>
+	<string>appbarbuffer</string>
+	<key>curvecontainparameter</key>
+	<string>canBindSegment</string>
+	<key>intermediateTask</key>
+	<string>numericalCombiner</string>
+	<key>movereference</key>
+	<string>previewStructure</string>
+	<key>newestalignment</key>
+	<string>missedReducer</string>
+	<key>reductionmementoborder</key>
+	<string>completerBridge</string>
+	<key>shaderincludeframework</key>
+	<string>delegateProgressBar</string>
+	<key>shouldNavigateGraphic</key>
+	<string>concurrentMonster</string>
+	<key>shouldStreamExponent</key>
+	<string>canStreamTask</string>
+</dict>
+</plist>

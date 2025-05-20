@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchframeworktail</key>
+	<string>commonInterface</string>
+	<key>compositionalFactory</key>
+	<string>desktopAllocator</string>
+	<key>directTentative</key>
+	<string>intuitivereceiver</string>
+	<key>ismovement</key>
+	<string>monsterTemple</string>
+	<key>mutableLayout</key>
+	<string>aperturereliability</string>
+	<key>objectDirection</key>
+	<string>moduluscontroller</string>
+	<key>permissiveGraph</key>
+	<string>textFeedback</string>
+	<key>shouldUpdateHeap</key>
+	<string>discardedintensity</string>
+</dict>
+</plist>

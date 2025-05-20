@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredProject</key>
+	<string>shouldFetchCertificate</string>
+	<key>injectionRate</key>
+	<string>basicProcessor</string>
+	<key>losspicker</key>
+	<string>interpolateDelegate</string>
+	<key>persistentMenu</key>
+	<string>graphicScale</string>
+	<key>relationalShader</key>
+	<string>eventMethod</string>
+	<key>shouldUnmountedImage</key>
+	<string>liteInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeanimation</key>
+	<string>canRenderMargin</string>
+	<key>liteScalability</key>
+	<string>hardAscent</string>
+	<key>reusableTexture</key>
+	<string>streamqueue</string>
+	<key>soundSize</key>
+	<string>generatepoint</string>
+	<key>vectorState</key>
+	<string>futureTail</string>
+</dict>
+</plist>

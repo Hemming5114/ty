@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialbufferbehavior</key>
+	<string>responsetheme</string>
+	<key>eagerDelegate</key>
+	<string>modalrect</string>
+	<key>seamlessroutedirection</key>
+	<string>canHandleDialogs</string>
+	<key>secondMend</key>
+	<string>bloccompositekind</string>
+	<key>volumeTail</key>
+	<string>throughputTail</string>
+</dict>
+</plist>

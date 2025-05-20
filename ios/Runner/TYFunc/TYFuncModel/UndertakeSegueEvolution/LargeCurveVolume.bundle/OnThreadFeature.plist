@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResponder</key>
+	<string>convolutionDepth</string>
+	<key>drawercount</key>
+	<string>requiredHash</string>
+	<key>originalPrecision</key>
+	<string>mediocreEquipment</string>
+	<key>shouldContinueBinary</key>
+	<string>normalLayer</string>
+	<key>shouldDeserializeConstraint</key>
+	<string>shouldRestartBox</string>
+	<key>shouldPrepareGem</key>
+	<string>texturesingletoninteraction</string>
+	<key>throughputAlignment</key>
+	<string>mutableThreshold</string>
+</dict>
+</plist>

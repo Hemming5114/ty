@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushOrientation</key>
+	<string>canUnmountedThread</string>
+	<key>chapterCenter</key>
+	<string>sessionDelay</string>
+	<key>checklisttransparency</key>
+	<string>requestawayprocess</string>
+	<key>imperativeOperation</key>
+	<string>asyncStatus</string>
+	<key>keyDependency</key>
+	<string>shouldStreamPet</string>
+	<key>missednavigatorshade</key>
+	<string>paintCycle</string>
+	<key>plateSize</key>
+	<string>opaquePreview</string>
+	<key>rapidspriteinset</key>
+	<string>themeDistance</string>
+	<key>serializelistener</key>
+	<string>receiverSize</string>
+	<key>uniformChart</key>
+	<string>composablePopup</string>
+</dict>
+</plist>

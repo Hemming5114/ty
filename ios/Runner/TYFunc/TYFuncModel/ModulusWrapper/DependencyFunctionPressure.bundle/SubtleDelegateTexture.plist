@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocduration</key>
+	<string>lastTouch</string>
+	<key>cardMomentum</key>
+	<string>unregisterVector</string>
+	<key>completionPosition</key>
+	<string>immediateCollection</string>
+	<key>cosineRotation</key>
+	<string>progressbaroffset</string>
+	<key>shouldPaintAnchor</key>
+	<string>isolateduringsystem</string>
+	<key>stopchart</key>
+	<string>inkwellEnvironment</string>
+</dict>
+</plist>

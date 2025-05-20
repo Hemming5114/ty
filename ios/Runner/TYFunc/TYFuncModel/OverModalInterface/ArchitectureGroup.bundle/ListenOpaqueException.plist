@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteVector</key>
+	<string>vectorResponse</string>
+	<key>declarativeTexture</key>
+	<string>scenepadding</string>
+	<key>gridvalidation</key>
+	<string>basicView</string>
+	<key>materializecertificate</key>
+	<string>textureexceptsingleton</string>
+	<key>originalmaterialvalidation</key>
+	<string>connectsegment</string>
+	<key>subtleScheduler</key>
+	<string>animatesegue</string>
+</dict>
+</plist>

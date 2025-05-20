@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularPoint</key>
+	<string>inflateRadius</string>
+	<key>navigateresolver</key>
+	<string>schedulerTop</string>
+	<key>normalSwitch</key>
+	<string>contractionChain</string>
+	<key>publisherRight</key>
+	<string>routeEffect</string>
+	<key>shaderoperationscale</key>
+	<string>shouldcacheview</string>
+	<key>shouldAttachObserver</key>
+	<string>visitLayout</string>
+	<key>tappabledescription</key>
+	<string>materializerSkewX</string>
+</dict>
+</plist>

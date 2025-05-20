@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBrush</key>
+	<string>largemovement</string>
+	<key>curvealongkind</key>
+	<string>associatedMetadata</string>
+	<key>mediocreChannels</key>
+	<string>mastervisibility</string>
+	<key>providelayout</key>
+	<string>elementmode</string>
+	<key>slashreplica</key>
+	<string>capsuleappearance</string>
+	<key>tasknumberdistance</key>
+	<string>shouldDetachCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitycontextforce</key>
+	<string>deserializeresult</string>
+	<key>bitrateTension</key>
+	<string>singletonTint</string>
+	<key>responsiveTransition</key>
+	<string>responsiveInformation</string>
+	<key>standaloneImpact</key>
+	<string>globalhandlervalidation</string>
+	<key>uniformresponseleft</key>
+	<string>smallComponent</string>
+</dict>
+</plist>

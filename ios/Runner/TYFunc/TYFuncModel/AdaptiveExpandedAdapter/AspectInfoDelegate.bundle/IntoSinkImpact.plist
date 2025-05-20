@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerkindinterval</key>
+	<string>overlayScale</string>
+	<key>futurebesidemode</key>
+	<string>mapperPadding</string>
+	<key>gateShade</key>
+	<string>shouldSubscribeCycle</string>
+	<key>greatCanvas</key>
+	<string>updateReference</string>
+	<key>ignoredProcessor</key>
+	<string>shouldDecodeTable</string>
+	<key>layoutforce</key>
+	<string>rapidConsumption</string>
+	<key>lazyboxshadowskewy</key>
+	<string>canShowNotifier</string>
+	<key>multiplicationKind</key>
+	<string>shouldDeserializeLabel</string>
+	<key>visibleAspectRatio</key>
+	<string>allocatorWork</string>
+</dict>
+</plist>

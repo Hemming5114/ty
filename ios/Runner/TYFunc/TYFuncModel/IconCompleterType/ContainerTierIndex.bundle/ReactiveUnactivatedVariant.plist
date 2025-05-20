@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInkWell</key>
+	<string>validateSwift</string>
+	<key>alphaRate</key>
+	<string>parallelVolume</string>
+	<key>annotateresource</key>
+	<string>draggablePopup</string>
+	<key>baselineValidation</key>
+	<string>mutableaccessory</string>
+	<key>dynamicExpanded</key>
+	<string>shouldFormatSegment</string>
+	<key>modelLeft</key>
+	<string>inflateCursor</string>
+	<key>normalNorm</key>
+	<string>shouldStreamDimension</string>
+	<key>shouldUnmountedVariant</key>
+	<string>accelerateListener</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializetool</key>
+	<string>autoDialogs</string>
+	<key>greatSearcher</key>
+	<string>respectiveWorkflow</string>
+	<key>keepcallback</key>
+	<string>connectGem</string>
+	<key>listensegue</key>
+	<string>subsequentIntensity</string>
+	<key>multiBehavior</key>
+	<string>stringifyTicker</string>
+	<key>permutationColor</key>
+	<string>containerType</string>
+	<key>persistevent</key>
+	<string>dissociateConstraint</string>
+	<key>pinchablePolyfill</key>
+	<string>canPopReference</string>
+	<key>singleEvaluation</key>
+	<string>canPrepareTool</string>
+	<key>texttime</key>
+	<string>imagedelegate</string>
+</dict>
+</plist>

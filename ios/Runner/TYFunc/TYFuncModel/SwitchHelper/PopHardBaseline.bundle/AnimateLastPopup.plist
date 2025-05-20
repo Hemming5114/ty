@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacktension</key>
+	<string>switchFramework</string>
+	<key>convolutionTag</key>
+	<string>createSegment</string>
+	<key>delegateTension</key>
+	<string>eraseProgressBar</string>
+	<key>flexiblemaster</key>
+	<string>titleSize</string>
+	<key>intermediateSplitter</key>
+	<string>vectordensity</string>
+	<key>mediumnorm</key>
+	<string>expandedVisibility</string>
+	<key>permissiveStateful</key>
+	<string>durationDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSlider</key>
+	<string>lossservice</string>
+	<key>frameTheme</key>
+	<string>kernelformat</string>
+	<key>lifecycleBehavior</key>
+	<string>canUnmountedSizedBox</string>
+	<key>opaquetransformerinterval</key>
+	<string>nodeagainsttemple</string>
+	<key>projectionAcceleration</key>
+	<string>cupertinoSpacing</string>
+</dict>
+</plist>

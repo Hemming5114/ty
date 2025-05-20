@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permanentSchema</key>
+	<string>itemDepth</string>
+	<key>semanticsdistinction</key>
+	<string>syncSprite</string>
+	<key>shaderDepth</key>
+	<string>interpolateProvider</string>
+	<key>smallEqualization</key>
+	<string>adaptiveInkWell</string>
+	<key>smartasynchead</key>
+	<string>basicmomentumtype</string>
+	<key>utilDepth</key>
+	<string>positionStage</string>
+</dict>
+</plist>

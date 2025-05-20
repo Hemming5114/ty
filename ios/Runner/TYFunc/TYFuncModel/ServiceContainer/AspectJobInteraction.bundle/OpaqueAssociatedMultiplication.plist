@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCoordinator</key>
+	<string>obtainModel</string>
+	<key>consultativeMerger</key>
+	<string>publicStack</string>
+	<key>deprecateequipment</key>
+	<string>shouldCreateAnchor</string>
+	<key>disconnectpreview</key>
+	<string>symmetricWorkflow</string>
+	<key>greatProvider</key>
+	<string>capacityCenter</string>
+	<key>shouldPauseConsumer</key>
+	<string>symmetricResilience</string>
+	<key>statefuldecoration</key>
+	<string>augmentInjection</string>
+</dict>
+</plist>

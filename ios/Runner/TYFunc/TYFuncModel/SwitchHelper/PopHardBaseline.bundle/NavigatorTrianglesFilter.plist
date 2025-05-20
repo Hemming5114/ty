@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResilience</key>
+	<string>uniformReference</string>
+	<key>characteristicStatus</key>
+	<string>shouldYieldBox</string>
+	<key>dedicatedoperationborder</key>
+	<string>directsizedbox</string>
+	<key>defaultAxis</key>
+	<string>shouldPopSign</string>
+	<key>intuitiveGraphic</key>
+	<string>asyncproxyfeedback</string>
+	<key>intuitiveStorage</key>
+	<string>fragmentActivity</string>
+	<key>navigatortasktint</key>
+	<string>firstboxshadowright</string>
+	<key>shouldObserveAccessory</key>
+	<string>otherCombiner</string>
+</dict>
+</plist>

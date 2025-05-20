@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableHero</key>
+	<string>cosinecurve</string>
+	<key>intuitiveEvent</key>
+	<string>statelessVisibility</string>
+	<key>listenerflags</key>
+	<string>shouldDispatchOption</string>
+	<key>mobileInformation</key>
+	<string>sequentialMobile</string>
+	<key>scaleBrightness</key>
+	<string>storeAlignment</string>
+	<key>shouldFormatMultiplication</key>
+	<string>undertakeStore</string>
+	<key>startshader</key>
+	<string>disabledMaterial</string>
+	<key>subsequentChapter</key>
+	<string>requiredSelector</string>
+</dict>
+</plist>

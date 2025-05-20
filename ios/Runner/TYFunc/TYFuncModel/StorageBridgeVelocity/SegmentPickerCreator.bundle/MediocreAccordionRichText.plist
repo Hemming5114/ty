@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildalpha</key>
+	<string>popFeature</string>
+	<key>elasticDispatcher</key>
+	<string>notifyCaption</string>
+	<key>mainManager</key>
+	<string>canBindMember</string>
+	<key>notationType</key>
+	<string>intensityPrototype</string>
+	<key>shouldEndDocument</key>
+	<string>shouldStreamBox</string>
+	<key>subscriberformat</key>
+	<string>emitsink</string>
+	<key>taskinvariable</key>
+	<string>smartBinder</string>
+	<key>uniformTraversal</key>
+	<string>compileSlider</string>
+</dict>
+</plist>

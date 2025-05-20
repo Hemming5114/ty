@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumTimeline</key>
+	<string>storeSingleton</string>
+	<key>smarttask</key>
+	<string>implementFuture</string>
+	<key>usageDirection</key>
+	<string>shouldCacheStateless</string>
+	<key>usedRow</key>
+	<string>largecontainerformat</string>
+</dict>
+</plist>

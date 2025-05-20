@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurekernel</key>
+	<string>promisevarorientation</string>
+	<key>hardResponder</key>
+	<string>analyzeFuture</string>
+	<key>oldCreator</key>
+	<string>reusableAccessory</string>
+	<key>resourceRight</key>
+	<string>decorationColor</string>
+	<key>robustMember</key>
+	<string>multiTransition</string>
+	<key>significantConsumption</key>
+	<string>nextResilience</string>
+	<key>smallLocalization</key>
+	<string>tickerstyle</string>
+	<key>smartAnimator</key>
+	<string>normalContainer</string>
+</dict>
+</plist>

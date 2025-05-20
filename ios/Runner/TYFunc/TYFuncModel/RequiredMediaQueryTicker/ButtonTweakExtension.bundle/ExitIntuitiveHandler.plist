@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableNotifier</key>
+	<string>shouldPopCatalyst</string>
+	<key>distinctionFeedback</key>
+	<string>dropoutGraph</string>
+	<key>seamlessinterpolationshape</key>
+	<string>shouldPublishInkWell</string>
+	<key>shouldcancelkernel</key>
+	<string>shouldroutebitrate</string>
+</dict>
+</plist>

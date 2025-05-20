@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDocument</key>
+	<string>containerparameterkind</string>
+	<key>ephemeralHandler</key>
+	<string>scheduleFactory</string>
+	<key>shouldSkipGram</key>
+	<string>webCell</string>
+	<key>tensorAnchor</key>
+	<string>shouldStreamInteger</string>
+</dict>
+</plist>

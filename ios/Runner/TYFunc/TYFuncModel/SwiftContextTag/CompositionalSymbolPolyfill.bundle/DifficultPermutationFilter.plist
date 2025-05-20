@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMedia</key>
+	<string>shouldMountCache</string>
+	<key>consumptionVelocity</key>
+	<string>discardedEvolution</string>
+	<key>desktopCell</key>
+	<string>transitionstrategydensity</string>
+	<key>disabledResolver</key>
+	<string>normalModulus</string>
+	<key>fixedmethodbehavior</key>
+	<string>inheritedResult</string>
+	<key>gramticker</key>
+	<string>featurecontextmargin</string>
+	<key>mainFragments</key>
+	<string>drawerDuration</string>
+	<key>polyfillSaturation</key>
+	<string>shouldInflateTabView</string>
+	<key>shouldPrepareTabView</key>
+	<string>viewduration</string>
+	<key>slashRate</key>
+	<string>smallLoader</string>
+</dict>
+</plist>

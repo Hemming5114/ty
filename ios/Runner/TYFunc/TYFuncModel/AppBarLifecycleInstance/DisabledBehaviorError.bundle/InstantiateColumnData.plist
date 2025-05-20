@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyremainder</key>
+	<string>writeResource</string>
+	<key>keyBrush</key>
+	<string>rendererBound</string>
+	<key>mobileTail</key>
+	<string>canSetStateNavigator</string>
+	<key>multimenu</key>
+	<string>moveIntensity</string>
+	<key>resourceAppearance</key>
+	<string>interceptContainer</string>
+	<key>shouldEncodeStateless</key>
+	<string>relationalChannels</string>
+	<key>shouldStopBoxShadow</key>
+	<string>canFormatSegue</string>
+</dict>
+</plist>

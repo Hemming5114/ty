@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterproxytype</key>
+	<string>minIcon</string>
+	<key>localizationstructurecoord</key>
+	<string>agileFrame</string>
+	<key>pivotalColumn</key>
+	<string>scheduleTransformer</string>
+	<key>sequentialAnimator</key>
+	<string>multiplicationChain</string>
+	<key>shouldstreamswift</key>
+	<string>inheritedProject</string>
+	<key>specifyDetail</key>
+	<string>shouldUnmountLog</string>
+</dict>
+</plist>

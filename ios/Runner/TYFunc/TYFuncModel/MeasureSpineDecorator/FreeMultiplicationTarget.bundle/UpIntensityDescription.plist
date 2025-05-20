@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveGradient</key>
+	<string>invokemedia</string>
+	<key>modelinset</key>
+	<string>polyfillForce</string>
+	<key>particleOrientation</key>
+	<string>symmetricGridView</string>
+	<key>petHead</key>
+	<string>stateforprototype</string>
+	<key>sorterOffset</key>
+	<string>fusedQueue</string>
+	<key>webTween</key>
+	<string>connectorVelocity</string>
+</dict>
+</plist>

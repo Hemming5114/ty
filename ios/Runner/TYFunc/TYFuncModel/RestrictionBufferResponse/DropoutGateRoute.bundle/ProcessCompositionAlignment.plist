@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteGestureDetector</key>
+	<string>shouldvalidatesensor</string>
+	<key>firstEfficiency</key>
+	<string>transformtext</string>
+	<key>integrationTop</key>
+	<string>decodeCosine</string>
+	<key>mutableEfficiency</key>
+	<string>concurrentAnchor</string>
+	<key>screenchooser</key>
+	<string>staticReference</string>
+	<key>shouldMountedBinary</key>
+	<string>showPopup</string>
+	<key>shouldPopLayout</key>
+	<string>canObserveSpecifier</string>
+</dict>
+</plist>

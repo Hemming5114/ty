@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideandurationdepth</key>
+	<string>invisibleDispatcher</string>
+	<key>hierarchicalPager</key>
+	<string>permissiveParticle</string>
+	<key>playbackcount</key>
+	<string>largeSegment</string>
+	<key>radiusflags</key>
+	<string>discardedChart</string>
+	<key>shadernavigator</key>
+	<string>prepareContraction</string>
+	<key>shouldloadoptimizer</key>
+	<string>revisitController</string>
+	<key>smallDelegate</key>
+	<string>toolForm</string>
+	<key>taskanimator</key>
+	<string>unmountedEffect</string>
+	<key>zonecombiner</key>
+	<string>handlerlikeadapter</string>
+</dict>
+</plist>

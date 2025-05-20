@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentBottom</key>
+	<string>commonSchema</string>
+	<key>captionShade</key>
+	<string>canMountedSensor</string>
+	<key>disabledRepository</key>
+	<string>canPresentGraphic</string>
+	<key>significantRequest</key>
+	<string>immediateUnary</string>
+	<key>statelessBaseline</key>
+	<string>concurrentCard</string>
+</dict>
+</plist>

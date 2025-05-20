@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticelement</key>
+	<string>gramalignment</string>
+	<key>functionalPosition</key>
+	<string>comprehensiveInterface</string>
+	<key>interactiveThreshold</key>
+	<string>cupertinoPolyfill</string>
+	<key>isolatechainposition</key>
+	<string>cupertinoGem</string>
+	<key>oldcallback</key>
+	<string>commonTicker</string>
+	<key>polygonTail</key>
+	<string>independentInkWell</string>
+	<key>tensorTriangles</key>
+	<string>intuitiveBoxShadow</string>
+</dict>
+</plist>

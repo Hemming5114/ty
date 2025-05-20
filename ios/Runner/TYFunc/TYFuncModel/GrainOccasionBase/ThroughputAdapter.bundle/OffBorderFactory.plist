@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnMomentum</key>
+	<string>specifygridviewtag</string>
+	<key>dispatcherShade</key>
+	<string>persistservice</string>
+	<key>mediumsink</key>
+	<string>frameDepth</string>
+	<key>navigationShape</key>
+	<string>customVector</string>
+	<key>shouldValidateMargin</key>
+	<string>animateZone</string>
+	<key>storyboardPadding</key>
+	<string>inflateframe</string>
+	<key>throughputTransparency</key>
+	<string>instructionrange</string>
+	<key>toleranceContrast</key>
+	<string>offsetAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsVisibility</key>
+	<string>buttonscale</string>
+	<key>convolutioncount</key>
+	<string>emitAction</string>
+	<key>disabledText</key>
+	<string>parallelPet</string>
+	<key>disabledcreator</key>
+	<string>canPushMaterial</string>
+	<key>haslabel</key>
+	<string>entityComposite</string>
+	<key>interpolatereduction</key>
+	<string>consumeLabel</string>
+	<key>lostMend</key>
+	<string>shouldpopoperation</string>
+	<key>lostRadius</key>
+	<string>concurrentOffset</string>
+	<key>pinchableSign</key>
+	<string>durationDelay</string>
+	<key>signcontainer</key>
+	<string>accordionBehavior</string>
+</dict>
+</plist>

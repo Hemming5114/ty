@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeDetail</key>
+	<string>subscriberStyle</string>
+	<key>elasticitybound</key>
+	<string>secondResult</string>
+	<key>presenterSkewX</key>
+	<string>sharedScaffold</string>
+	<key>responsiveScheduler</key>
+	<string>pooltransition</string>
+	<key>secondSegment</key>
+	<string>defaultIcon</string>
+	<key>shouldSubscribeMusic</key>
+	<string>synchronousShader</string>
+	<key>vectorsize</key>
+	<string>unmarshalHash</string>
+</dict>
+</plist>

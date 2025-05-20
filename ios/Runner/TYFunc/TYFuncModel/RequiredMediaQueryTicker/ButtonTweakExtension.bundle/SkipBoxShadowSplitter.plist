@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedrect</key>
+	<string>notificationduringflyweight</string>
+	<key>enabledLifecycle</key>
+	<string>canLayoutSpecifier</string>
+	<key>inactiveMatrix</key>
+	<string>convertFeature</string>
+	<key>pivotalColor</key>
+	<string>denseModel</string>
+	<key>retainedMomentum</key>
+	<string>adaptiveDimension</string>
+	<key>shouldListenProfile</key>
+	<string>fetchSignature</string>
+	<key>shouldUpdateArithmetic</key>
+	<string>graphStructure</string>
+	<key>stateInterval</key>
+	<string>persistentSpine</string>
+	<key>usedPresenter</key>
+	<string>quantizerException</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInstruction</key>
+	<string>canBindScreen</string>
+	<key>clearinstruction</key>
+	<string>instructionLevel</string>
+	<key>customCluster</key>
+	<string>descriptorversusobserver</string>
+	<key>repositorybesideparameter</key>
+	<string>hierarchicalAnimation</string>
+	<key>shouldEmitSine</key>
+	<string>listviewPlatform</string>
+	<key>shouldFetchBloc</key>
+	<string>observeTransition</string>
+	<key>subtleAwait</key>
+	<string>channelMomentum</string>
+	<key>typicalRange</key>
+	<string>statelessbrushacceleration</string>
+</dict>
+</plist>

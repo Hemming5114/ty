@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantsaturation</key>
+	<string>documentBridge</string>
+	<key>descriptorName</key>
+	<string>accelerateChapter</string>
+	<key>errorstyle</key>
+	<string>adaptiveNavigation</string>
+	<key>intuitiveGrayscale</key>
+	<string>minProjection</string>
+	<key>resizableRichText</key>
+	<string>canDismissGesture</string>
+	<key>shouldRenderAppBar</key>
+	<string>blocCycle</string>
+	<key>shouldSerializeLog</key>
+	<string>shouldTransformLogarithm</string>
+	<key>tickerRight</key>
+	<string>wrapperTransparency</string>
+</dict>
+</plist>

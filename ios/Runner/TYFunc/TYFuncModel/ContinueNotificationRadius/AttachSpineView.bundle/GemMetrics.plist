@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedTitle</key>
+	<string>syncConstraint</string>
+	<key>independentresult</key>
+	<string>bitratePosition</string>
+	<key>requiredAscent</key>
+	<string>canDetachCaption</string>
+	<key>responsiveService</key>
+	<string>staticClipper</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentEdge</key>
+	<string>shouldBuildBaseline</string>
+	<key>gesturedetectorInset</key>
+	<string>permissiveError</string>
+	<key>webClipper</key>
+	<string>canAnimateHero</string>
+</dict>
+</plist>

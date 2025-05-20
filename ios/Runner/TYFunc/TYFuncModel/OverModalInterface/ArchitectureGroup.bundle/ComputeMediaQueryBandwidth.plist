@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationfinder</key>
+	<string>interactiveScenario</string>
+	<key>criticalScroll</key>
+	<string>instructionBorder</string>
+	<key>disposegrain</key>
+	<string>previewBrightness</string>
+	<key>eventcolor</key>
+	<string>accordionCurve</string>
+	<key>notificationvariableposition</key>
+	<string>customAspect</string>
+</dict>
+</plist>

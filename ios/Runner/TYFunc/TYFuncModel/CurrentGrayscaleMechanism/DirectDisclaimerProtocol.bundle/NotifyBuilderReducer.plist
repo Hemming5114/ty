@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalEffect</key>
+	<string>shouldemitsymbol</string>
+	<key>documentthroughsystem</key>
+	<string>protectedAscent</string>
+	<key>hyperbolicskirt</key>
+	<string>shouldPopOperation</string>
+	<key>interfaceDistance</key>
+	<string>streamBitrate</string>
+	<key>prismaticGrain</key>
+	<string>paintDocument</string>
+	<key>shouldSubscribeIndicator</key>
+	<string>concreteCombiner</string>
+</dict>
+</plist>

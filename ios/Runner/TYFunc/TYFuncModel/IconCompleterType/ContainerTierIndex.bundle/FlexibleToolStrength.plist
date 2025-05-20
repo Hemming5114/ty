@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseagainstparameter</key>
+	<string>responsiveThreshold</string>
+	<key>chartscale</key>
+	<string>prevModal</string>
+	<key>directlySpecifier</key>
+	<string>sortedEntity</string>
+	<key>interpolationOffset</key>
+	<string>mobileAnalogy</string>
+	<key>nibShape</key>
+	<string>yieldGate</string>
+	<key>secondMesh</key>
+	<string>wrapListener</string>
+	<key>storeBorder</key>
+	<string>activityLevel</string>
+	<key>webChecklist</key>
+	<string>asynchronousException</string>
+</dict>
+</plist>

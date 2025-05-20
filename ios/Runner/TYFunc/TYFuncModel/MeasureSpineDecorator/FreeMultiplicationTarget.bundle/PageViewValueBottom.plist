@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedImpact</key>
+	<string>granularCaption</string>
+	<key>crudeAlpha</key>
+	<string>maintainTicker</string>
+	<key>inheritedFrame</key>
+	<string>unactivatedCollection</string>
+	<key>oldEvent</key>
+	<string>setstateMatrix</string>
+	<key>respondlistener</key>
+	<string>entropyProxy</string>
+	<key>shouldPrepareContainer</key>
+	<string>asyncVisible</string>
+	<key>webMethod</key>
+	<string>sorterEdge</string>
+</dict>
+</plist>

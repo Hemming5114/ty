@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmcolor</key>
+	<string>shouldTrainNotifier</string>
+	<key>lostdecorationrotation</key>
+	<string>interfaceenvironmentsaturation</string>
+	<key>navigationmesh</key>
+	<string>scaffoldNumber</string>
+	<key>profileasync</key>
+	<string>removeCompleter</string>
+	<key>resourceOrientation</key>
+	<string>modalAction</string>
+	<key>shouldDisposeComposition</key>
+	<string>canEmitCupertino</string>
+	<key>shouldSetStateTable</key>
+	<string>intuitiveTransformer</string>
+	<key>tappableStream</key>
+	<string>equalFeature</string>
+</dict>
+</plist>

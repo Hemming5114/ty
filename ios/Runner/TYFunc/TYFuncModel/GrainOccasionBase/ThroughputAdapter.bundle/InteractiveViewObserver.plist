@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchForce</key>
+	<string>canPopAnimatedContainer</string>
+	<key>beginnerStoryboard</key>
+	<string>subscriberInteraction</string>
+	<key>cardinteraction</key>
+	<string>missedBaseline</string>
+	<key>exceptiontag</key>
+	<string>descriptorVar</string>
+	<key>geometricException</key>
+	<string>orchestrateResponse</string>
+	<key>marginAlignment</key>
+	<string>fetchProjection</string>
+	<key>multiImpression</key>
+	<string>connectListener</string>
+	<key>painterStatus</key>
+	<string>streamcharacteristic</string>
+	<key>rectangleName</key>
+	<string>sharedMargin</string>
+</dict>
+</plist>

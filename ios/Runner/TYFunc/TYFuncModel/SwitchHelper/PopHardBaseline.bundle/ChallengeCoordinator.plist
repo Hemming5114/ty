@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBloc</key>
+	<string>imperativeUnary</string>
+	<key>characteristicName</key>
+	<string>adaptivelayout</string>
+	<key>projectionviashape</key>
+	<string>reactivePublisher</string>
+	<key>shouldContinueRadio</key>
+	<string>materialCombiner</string>
+	<key>shouldValidateAppBar</key>
+	<string>canConnectConstraint</string>
+	<key>smallStateless</key>
+	<string>deflateHandler</string>
+	<key>storyboardStatus</key>
+	<string>compositionoutsidework</string>
+	<key>subsequentReduction</key>
+	<string>consumptionSpeed</string>
+	<key>visibleConsumption</key>
+	<string>canBindDuration</string>
+</dict>
+</plist>

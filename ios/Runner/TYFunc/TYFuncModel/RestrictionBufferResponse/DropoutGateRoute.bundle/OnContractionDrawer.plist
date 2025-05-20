@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopcollectioncontrast</key>
+	<string>sineBound</string>
+	<key>mediumGridView</key>
+	<string>parallelLog</string>
+	<key>shouldAnimateAspectRatio</key>
+	<string>canDismissTransition</string>
+	<key>symmetricStateless</key>
+	<string>sortedIsolate</string>
+	<key>uniformdurationname</key>
+	<string>requestAction</string>
+	<key>visibleProvision</key>
+	<string>shouldcancelpoint</string>
+</dict>
+</plist>

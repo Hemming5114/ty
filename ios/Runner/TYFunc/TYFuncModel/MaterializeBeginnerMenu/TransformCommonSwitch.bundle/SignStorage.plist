@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedShade</key>
+	<string>histogramflags</string>
+	<key>parallelAlignment</key>
+	<string>lostCanvas</string>
+	<key>shouldPauseInterpolation</key>
+	<string>invokeAllocator</string>
+	<key>shouldYieldCycle</key>
+	<string>contractionForce</string>
+	<key>singleTabBar</key>
+	<string>sophisticatedFinder</string>
+	<key>specifyImpression</key>
+	<string>immediateDispatcher</string>
+</dict>
+</plist>

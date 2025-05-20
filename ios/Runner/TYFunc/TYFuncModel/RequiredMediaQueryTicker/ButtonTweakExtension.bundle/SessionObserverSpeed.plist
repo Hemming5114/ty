@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureskewy</key>
+	<string>canEndLabel</string>
+	<key>connectcompletion</key>
+	<string>canNotifyLabel</string>
+	<key>diffableMember</key>
+	<string>spinResult</string>
+	<key>lostIcon</key>
+	<string>shearVector</string>
+	<key>originalBuilder</key>
+	<string>selectorType</string>
+	<key>permissiveBaseline</key>
+	<string>startPoint</string>
+	<key>requestvisible</key>
+	<string>progressbarshapeinterval</string>
+	<key>shouldDeserializeText</key>
+	<string>accessibleRectangle</string>
+	<key>statelessBuffer</key>
+	<string>streamTabBar</string>
+	<key>viewchapter</key>
+	<string>themeLayer</string>
+</dict>
+</plist>

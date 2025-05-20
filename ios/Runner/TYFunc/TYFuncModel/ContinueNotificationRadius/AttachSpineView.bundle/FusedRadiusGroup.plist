@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredClipper</key>
+	<string>topicfrequency</string>
+	<key>rendererspeed</key>
+	<string>canKeepSpecifier</string>
+	<key>sessionName</key>
+	<string>shouldUpdateSubpixel</string>
+	<key>singletonmethodmode</key>
+	<string>eagerinjection</string>
+	<key>textfieldperprocess</key>
+	<string>descriptionrotation</string>
+	<key>tweenoutsideobserver</key>
+	<string>canEmitSegue</string>
+</dict>
+</plist>

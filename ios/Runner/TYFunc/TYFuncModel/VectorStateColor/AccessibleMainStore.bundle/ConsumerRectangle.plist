@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOccasion</key>
+	<string>prismaticReducer</string>
+	<key>agileConsumer</key>
+	<string>mechanismColor</string>
+	<key>elasticVariant</key>
+	<string>equipmentFlyweight</string>
+	<key>globalSpecifier</key>
+	<string>popNavigation</string>
+	<key>navigatorTop</key>
+	<string>popProjection</string>
+	<key>persistentSound</key>
+	<string>flexibleCell</string>
+	<key>primarycompleter</key>
+	<string>markscroll</string>
+	<key>richtextshape</key>
+	<string>canNavigateCustomPaint</string>
+</dict>
+</plist>

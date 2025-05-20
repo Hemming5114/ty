@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorworktransparency</key>
+	<string>canTransformCheckbox</string>
+	<key>desktopDependency</key>
+	<string>scrollerOffset</string>
+	<key>emittransition</key>
+	<string>canDisposeBox</string>
+	<key>grainthroughmediator</key>
+	<string>maxCycle</string>
+	<key>marginmesh</key>
+	<string>inflatePresenter</string>
+	<key>retainedBase</key>
+	<string>iconFacade</string>
+	<key>scrollAcceleration</key>
+	<string>resumeGraphic</string>
+	<key>shouldParseSignature</key>
+	<string>shouldFormatTool</string>
+	<key>updatebuffer</key>
+	<string>disclaimerIndex</string>
+</dict>
+</plist>

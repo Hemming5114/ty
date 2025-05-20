@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSelector</key>
+	<string>sustainableSelector</string>
+	<key>actionForce</key>
+	<string>sequentialInteraction</string>
+	<key>consultativeDistinction</key>
+	<string>temporaryPainter</string>
+	<key>equalizationLocation</key>
+	<string>diversifiedGridView</string>
+	<key>geometricPlayback</key>
+	<string>localRow</string>
+	<key>groupstrength</key>
+	<string>architectureOpacity</string>
+	<key>sequentialResult</key>
+	<string>missionPosition</string>
+	<key>widgetBrightness</key>
+	<string>storeVisibility</string>
+</dict>
+</plist>

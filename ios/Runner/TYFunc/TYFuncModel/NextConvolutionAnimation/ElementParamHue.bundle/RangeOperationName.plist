@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableappbar</key>
+	<string>activityLeft</string>
+	<key>equivalentRate</key>
+	<string>canPaintText</string>
+	<key>exponentRate</key>
+	<string>lastBuilder</string>
+	<key>granularSymbol</key>
+	<string>integerComposite</string>
+	<key>ignoredbuilderinset</key>
+	<string>canLoadLogarithm</string>
+	<key>parallelnavigatorfeedback</key>
+	<string>workflowStrategy</string>
+	<key>requestShape</key>
+	<string>heapOrientation</string>
+	<key>statusSkewX</key>
+	<string>sharedamortization</string>
+	<key>webloader</key>
+	<string>visibleMenu</string>
+</dict>
+</plist>

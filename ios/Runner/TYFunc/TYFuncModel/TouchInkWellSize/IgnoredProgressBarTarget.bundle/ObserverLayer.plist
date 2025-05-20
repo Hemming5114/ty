@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorjobkind</key>
+	<string>directSearcher</string>
+	<key>directSwift</key>
+	<string>navigatorandnumber</string>
+	<key>futureSize</key>
+	<string>shouldDisposeNavigation</string>
+	<key>shouldPublishInteger</key>
+	<string>streamForce</string>
+	<key>shouldTrainRow</key>
+	<string>agileDrawer</string>
+	<key>smallStrength</key>
+	<string>characteristicSpeed</string>
+</dict>
+</plist>

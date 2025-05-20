@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentspeed</key>
+	<string>prepareTernary</string>
+	<key>functionalticker</key>
+	<string>materialView</string>
+	<key>functionalviewvelocity</key>
+	<string>chapterSpeed</string>
+	<key>hasheap</key>
+	<string>attachLog</string>
+	<key>mediaquerystream</key>
+	<string>destroycycle</string>
+	<key>pickerTension</key>
+	<string>mainCurve</string>
+	<key>projectionResponse</key>
+	<string>nodeMode</string>
+	<key>sequentialMend</key>
+	<string>unmountBrush</string>
+	<key>shouldEndSkin</key>
+	<string>trajectorySize</string>
+	<key>sophisticatedPosition</key>
+	<string>responsevisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorForce</key>
+	<string>primaryGem</string>
+	<key>keepview</key>
+	<string>defaultTool</string>
+	<key>mediocreBloc</key>
+	<string>processSine</string>
+	<key>presenterPosition</key>
+	<string>draggableeffectcoord</string>
+	<key>serializeoffset</key>
+	<string>unsortedState</string>
+	<key>shouldtrainmediaquery</key>
+	<string>updatedependency</string>
+	<key>tappablemodel</key>
+	<string>escalateController</string>
+	<key>textureSpeed</key>
+	<string>shouldTransitionDuration</string>
+</dict>
+</plist>

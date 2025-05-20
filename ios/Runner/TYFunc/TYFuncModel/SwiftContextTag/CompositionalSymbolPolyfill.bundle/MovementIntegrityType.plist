@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSubscription</key>
+	<string>reusablePositioned</string>
+	<key>animatedcontainerMargin</key>
+	<string>checkHandler</string>
+	<key>elasticfactory</key>
+	<string>positionedbound</string>
+	<key>interactivesink</key>
+	<string>otherparticle</string>
+	<key>variantTint</key>
+	<string>decorationshape</string>
+</dict>
+</plist>

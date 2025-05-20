@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateintensity</key>
+	<string>routeKind</string>
+	<key>elasticityCenter</key>
+	<string>attachdelegate</string>
+	<key>functionalError</key>
+	<string>canAttachInteger</string>
+	<key>geometricInkWell</key>
+	<string>webNotation</string>
+	<key>retainedNotation</key>
+	<string>aspectaudio</string>
+	<key>shouldDeserializeGrayscale</key>
+	<string>textureShade</string>
+	<key>statelessDispatcher</key>
+	<string>canUnmountedSession</string>
+	<key>toolPressure</key>
+	<string>sortedDescriptor</string>
+</dict>
+</plist>

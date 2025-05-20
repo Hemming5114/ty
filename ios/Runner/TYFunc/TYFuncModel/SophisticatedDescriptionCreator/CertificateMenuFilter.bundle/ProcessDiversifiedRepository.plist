@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientstagetag</key>
+	<string>ignoredProvision</string>
+	<key>itemInset</key>
+	<string>intermediatePreview</string>
+	<key>statelessConfiguration</key>
+	<string>unmountSpot</string>
+	<key>staticPlayback</key>
+	<string>utiltimeline</string>
+	<key>synchronousPublisher</key>
+	<string>reusableEquipment</string>
+</dict>
+</plist>

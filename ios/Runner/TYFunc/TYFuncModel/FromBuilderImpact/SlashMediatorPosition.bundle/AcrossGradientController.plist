@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatebinary</key>
+	<string>wrapChannel</string>
+	<key>cacheStatus</key>
+	<string>permissiveVideo</string>
+	<key>elasticCatalyst</key>
+	<string>shouldReplaceContraction</string>
+	<key>equipmentOpacity</key>
+	<string>commonRow</string>
+	<key>responseinset</key>
+	<string>permanentGrain</string>
+	<key>stampstrategyrate</key>
+	<string>gramWork</string>
+	<key>streamdescription</key>
+	<string>exceptionstructureacceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enumerategrain</key>
+	<string>smallRenderer</string>
+	<key>responsiveremediation</key>
+	<string>widgetanalogy</string>
+	<key>reusableGraphic</key>
+	<string>webIndicator</string>
+</dict>
+</plist>

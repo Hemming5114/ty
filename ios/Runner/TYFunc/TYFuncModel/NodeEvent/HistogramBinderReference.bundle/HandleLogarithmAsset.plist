@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushobserveralignment</key>
+	<string>notifierVisitor</string>
+	<key>crudeModal</key>
+	<string>publishSensor</string>
+	<key>delicatedialogsinterval</key>
+	<string>publicEqualization</string>
+	<key>lazyPublisher</key>
+	<string>setstateSemantics</string>
+	<key>mediaSize</key>
+	<string>prismaticPreview</string>
+	<key>metricsMomentum</key>
+	<string>provisionSaturation</string>
+	<key>parseinkwell</key>
+	<string>upgradeFrame</string>
+	<key>publicSkin</key>
+	<string>retainedRemainder</string>
+	<key>shouldInflateThread</key>
+	<string>shouldUnbindScreen</string>
+	<key>tangentAppearance</key>
+	<string>dropdownbuttonMargin</string>
+</dict>
+</plist>

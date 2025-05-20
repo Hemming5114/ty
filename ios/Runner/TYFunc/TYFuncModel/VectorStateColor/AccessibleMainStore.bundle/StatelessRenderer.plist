@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computelayout</key>
+	<string>singleCapacity</string>
+	<key>evolutionalignment</key>
+	<string>functionalTraversal</string>
+	<key>menufeedback</key>
+	<string>chartTint</string>
+	<key>prismaticPolyfill</key>
+	<string>shouldPresentGesture</string>
+	<key>shouldCreateNotifier</key>
+	<string>sensorformat</string>
+	<key>shouldSkipBehavior</key>
+	<string>adaptiveHandler</string>
+	<key>shouldSubscribeSizedBox</key>
+	<string>attachnorm</string>
+	<key>subsequentDependency</key>
+	<string>ignoredFilter</string>
+</dict>
+</plist>

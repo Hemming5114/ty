@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioncontextvelocity</key>
+	<string>visibleinterface</string>
+	<key>buttoncompositesaturation</key>
+	<string>concreteunaryspacing</string>
+	<key>dedicatedSkin</key>
+	<string>shouldCreateTouch</string>
+	<key>localStack</key>
+	<string>catalystRotation</string>
+	<key>shouldskipanchor</key>
+	<string>shouldConnectTabBar</string>
+	<key>sliderformmargin</key>
+	<string>isconvolution</string>
+	<key>statelessrouterdelay</key>
+	<string>ignoreddecoration</string>
+</dict>
+</plist>

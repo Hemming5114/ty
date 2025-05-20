@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityInset</key>
+	<string>cupertinostatus</string>
+	<key>catalystresponse</key>
+	<string>appendFrame</string>
+	<key>composableBuilder</key>
+	<string>shouldFinishNavigation</string>
+	<key>difficultSegment</key>
+	<string>canStopTable</string>
+	<key>queueTint</key>
+	<string>resolverwrapper</string>
+	<key>textbandwidth</key>
+	<string>shouldStartListView</string>
+	<key>transitionnearmethod</key>
+	<string>shouldrebuildscaffold</string>
+</dict>
+</plist>

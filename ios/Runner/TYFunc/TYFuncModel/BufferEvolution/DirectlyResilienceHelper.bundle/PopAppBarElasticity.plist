@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertsize</key>
+	<string>richtextacceleration</string>
+	<key>richtextexceptflyweight</key>
+	<string>profileResponse</string>
+	<key>robustutil</key>
+	<string>buttonopacity</string>
+	<key>shouldsavepadding</key>
+	<string>lastFormat</string>
+	<key>smallslashdensity</key>
+	<string>mendRate</string>
+	<key>validatestoryboard</key>
+	<string>yieldProjection</string>
+</dict>
+</plist>

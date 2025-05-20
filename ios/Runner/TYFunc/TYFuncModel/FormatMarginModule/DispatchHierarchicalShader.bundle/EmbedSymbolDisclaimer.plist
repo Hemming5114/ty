@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleBase</key>
+	<string>enabledInformation</string>
+	<key>nextResponse</key>
+	<string>slidershapefeedback</string>
+	<key>shouldListenDecoration</key>
+	<string>explicitAlpha</string>
+	<key>shouldSkipSkin</key>
+	<string>evaluateSubscription</string>
+</dict>
+</plist>

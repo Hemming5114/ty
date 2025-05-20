@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxShape</key>
+	<string>optionMethod</string>
+	<key>dedicatedShape</key>
+	<string>advancedloopcontrast</string>
+	<key>layoutfeature</key>
+	<string>comparePopup</string>
+	<key>normFrequency</key>
+	<string>checkLocalization</string>
+	<key>sophisticatedtextureappearance</key>
+	<string>sensorAdapter</string>
+	<key>uniformthemestyle</key>
+	<string>stopIcon</string>
+</dict>
+</plist>

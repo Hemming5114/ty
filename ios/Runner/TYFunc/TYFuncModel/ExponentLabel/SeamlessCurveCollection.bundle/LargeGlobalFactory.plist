@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeanimatedcontainer</key>
+	<string>gesturebottom</string>
+	<key>frameedge</key>
+	<string>mutableOffset</string>
+	<key>nativeMenu</key>
+	<string>subscribeDocument</string>
+	<key>onnavigatortap</key>
+	<string>staticrouteinset</string>
+	<key>sustainablechapter</key>
+	<string>quaternionDuration</string>
+</dict>
+</plist>

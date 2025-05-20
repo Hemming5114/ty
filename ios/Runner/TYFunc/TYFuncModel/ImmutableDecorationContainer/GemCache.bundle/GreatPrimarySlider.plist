@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createtransformer</key>
+	<string>defaulteffect</string>
+	<key>cursorspeed</key>
+	<string>injectionForce</string>
+	<key>fixedDetector</key>
+	<string>shouldHandleShader</string>
+	<key>rendererVisible</key>
+	<string>unregisterDuration</string>
+	<key>signaturetop</key>
+	<string>listenSpecifier</string>
+	<key>substantialInterface</key>
+	<string>skipEqualization</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarktheme</key>
+	<string>elasticConverter</string>
+	<key>intuitiveSpot</key>
+	<string>processorPosition</string>
+	<key>iterativeUseCase</key>
+	<string>publishTransition</string>
+	<key>similarSignature</key>
+	<string>inactiveCombiner</string>
+</dict>
+</plist>

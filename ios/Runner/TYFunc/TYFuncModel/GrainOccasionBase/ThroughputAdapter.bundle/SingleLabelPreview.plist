@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableThroughput</key>
+	<string>independentHistogram</string>
+	<key>profileAppearance</key>
+	<string>newestInterpolation</string>
+	<key>restartposition</key>
+	<string>notifyTouch</string>
+	<key>sizedboxsysteminset</key>
+	<string>functionalConfidentiality</string>
+	<key>uniqueRadius</key>
+	<string>seguecompositevisible</string>
+	<key>uniqueTangent</key>
+	<string>constanttension</string>
+</dict>
+</plist>

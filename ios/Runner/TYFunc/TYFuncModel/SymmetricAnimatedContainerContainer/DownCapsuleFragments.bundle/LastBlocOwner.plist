@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalwidgetdelay</key>
+	<string>syncInterface</string>
+	<key>durationpadding</key>
+	<string>alphaMode</string>
+	<key>dynamicReference</key>
+	<string>radiusContrast</string>
+	<key>equalizationbehavior</key>
+	<string>similarIndicator</string>
+	<key>hardLoader</key>
+	<string>statelessReliability</string>
+	<key>pinchablecontrast</key>
+	<string>inforotation</string>
+	<key>tappableAnalyzer</key>
+	<string>injectResponse</string>
+	<key>textsystemcenter</key>
+	<string>streamBehavior</string>
+	<key>utiltheme</key>
+	<string>stringifyUseCase</string>
+</dict>
+</plist>

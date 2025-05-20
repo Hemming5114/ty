@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationdespitedecorator</key>
+	<string>seekcertificate</string>
+	<key>draggableClipper</key>
+	<string>parallelStack</string>
+	<key>inactiveNavigator</key>
+	<string>delegateLocalization</string>
+	<key>literecursion</key>
+	<string>awaitthroughlayer</string>
+	<key>permanentRole</key>
+	<string>concreteMaster</string>
+	<key>rebuildintensity</key>
+	<string>hardTime</string>
+	<key>shouldNavigateInteger</key>
+	<string>ephemeralAlignment</string>
+	<key>shouldObserveAxis</key>
+	<string>instructionoffset</string>
+	<key>symbolBrightness</key>
+	<string>seamlessVariant</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushLocation</key>
+	<string>layoutworkflow</string>
+	<key>draggablelifecycle</key>
+	<string>materialBinder</string>
+	<key>eagerOccasion</key>
+	<string>flexibleLoader</string>
+	<key>hasTool</key>
+	<string>shouldPresentPageView</string>
+	<key>lazyUnary</key>
+	<string>stepTemple</string>
+	<key>loadduration</key>
+	<string>tabviewrotation</string>
+	<key>mapmethod</key>
+	<string>throughputVisibility</string>
+	<key>shouldInflateMedia</key>
+	<string>singleVertex</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBrightness</key>
+	<string>buttonsensor</string>
+	<key>delegateTail</key>
+	<string>audioStyle</string>
+	<key>expandedDelay</key>
+	<string>canDisconnectLoss</string>
+	<key>mechanismFlags</key>
+	<string>allocatorcontrast</string>
+	<key>nativeinteractorposition</key>
+	<string>rectVar</string>
+	<key>navigatorenvironmentspeed</key>
+	<string>vertexTop</string>
+</dict>
+</plist>

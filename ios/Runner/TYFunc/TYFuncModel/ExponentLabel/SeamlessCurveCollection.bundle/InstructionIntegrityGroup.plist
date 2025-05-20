@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customequivalent</key>
+	<string>minDialogs</string>
+	<key>lazystamp</key>
+	<string>activeAnimator</string>
+	<key>storyboardfragments</key>
+	<string>inactiveIcon</string>
+	<key>uniqueColumn</key>
+	<string>dependencyorigin</string>
+</dict>
+</plist>

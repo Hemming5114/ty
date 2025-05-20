@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStyle</key>
+	<string>buttonsingletonbound</string>
+	<key>easyevaluation</key>
+	<string>animationfrombridge</string>
+	<key>gateForce</key>
+	<string>sequentialUtil</string>
+	<key>immutableLayout</key>
+	<string>dimensionMargin</string>
+	<key>invokeinkwell</key>
+	<string>shouldPresentSkirt</string>
+	<key>mediocreCapacities</key>
+	<string>elementSpeed</string>
+	<key>substantialSound</key>
+	<string>mutableVideo</string>
+</dict>
+</plist>

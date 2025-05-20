@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeExponent</key>
+	<string>customEffect</string>
+	<key>addoperation</key>
+	<string>standaloneSearcher</string>
+	<key>fetchcolumn</key>
+	<string>fragmentdelay</string>
+	<key>publicMedia</key>
+	<string>euclideanAlert</string>
+	<key>scrollableAnalogy</key>
+	<string>navigationFlags</string>
+	<key>secondRect</key>
+	<string>buttonstream</string>
+</dict>
+</plist>

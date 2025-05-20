@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalArithmetic</key>
+	<string>shoulddisposegesture</string>
+	<key>conformstore</key>
+	<string>provisionDistance</string>
+	<key>crudeMap</key>
+	<string>fusedReducer</string>
+	<key>crudeSlider</key>
+	<string>hasActivity</string>
+	<key>flexibleMesh</key>
+	<string>searchLoop</string>
+	<key>independentEfficiency</key>
+	<string>restartSegue</string>
+	<key>objectShape</key>
+	<string>uniqueData</string>
+	<key>popcycle</key>
+	<string>shouldDispatchTernary</string>
+	<key>scrollOrientation</key>
+	<string>uniqueError</string>
+</dict>
+</plist>

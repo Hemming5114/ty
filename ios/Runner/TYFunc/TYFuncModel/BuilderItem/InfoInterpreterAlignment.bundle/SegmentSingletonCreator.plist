@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoVertex</key>
+	<string>imagePhase</string>
+	<key>capturestream</key>
+	<string>tabviewCycle</string>
+	<key>discardedCoordinator</key>
+	<string>encodeTexture</string>
+	<key>independentError</key>
+	<string>prismaticDrawer</string>
+	<key>layerevaluation</key>
+	<string>releaseasync</string>
+	<key>localDescription</key>
+	<string>flexOffset</string>
+	<key>shouldCreateUsage</key>
+	<string>shouldupdategift</string>
+	<key>shouldEndCapsule</key>
+	<string>introspectGraph</string>
+	<key>shouldLoadReduction</key>
+	<string>basicLoss</string>
+	<key>validatequeue</key>
+	<string>serializewidget</string>
+</dict>
+</plist>

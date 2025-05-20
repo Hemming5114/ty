@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorylifecycle</key>
+	<string>updateTask</string>
+	<key>resizableSpecifier</key>
+	<string>endStateful</string>
+	<key>selectedGesture</key>
+	<string>scaleshade</string>
+	<key>shouldUnmountScale</key>
+	<string>calculateCubit</string>
+	<key>standaloneefficiency</key>
+	<string>shouldPaintOperation</string>
+</dict>
+</plist>

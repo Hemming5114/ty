@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcard</key>
+	<string>advancedgraphacceleration</string>
+	<key>associatedPriority</key>
+	<string>handleNavigator</string>
+	<key>autocheckbox</key>
+	<string>mainDispatcher</string>
+	<key>displayableGradient</key>
+	<string>shouldPersistConsumer</string>
+	<key>displayableconstraint</key>
+	<string>mobileResponder</string>
+	<key>draggablereferencecenter</key>
+	<string>originalNorm</string>
+	<key>usecaseRate</key>
+	<string>builderhue</string>
+</dict>
+</plist>

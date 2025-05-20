@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxvariablename</key>
+	<string>sophisticatedIsolate</string>
+	<key>disparateNavigation</key>
+	<string>prevLayer</string>
+	<key>exceptionType</key>
+	<string>cupertinoGradient</string>
+	<key>musicformat</key>
+	<string>skipcompleter</string>
+	<key>richtextRight</key>
+	<string>shouldProcessAnimatedContainer</string>
+	<key>sharedProcessor</key>
+	<string>shouldStopCupertino</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenatedependency</key>
+	<string>shouldStartAxis</string>
+	<key>criticalCompletion</key>
+	<string>visibleNotification</string>
+	<key>cupertinoSwitch</key>
+	<string>shouldPresentPriority</string>
+	<key>immutableRadius</key>
+	<string>petnode</string>
+	<key>respectiveStream</key>
+	<string>dedicatedConverter</string>
+	<key>shouldStreamEntropy</key>
+	<string>unmountedTask</string>
+	<key>swiftobservertransparency</key>
+	<string>encapsulateTexture</string>
+</dict>
+</plist>

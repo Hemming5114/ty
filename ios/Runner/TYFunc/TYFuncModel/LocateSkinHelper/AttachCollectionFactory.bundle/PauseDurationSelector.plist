@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBehavior</key>
+	<string>rectangleTag</string>
+	<key>pivotalTweak</key>
+	<string>canHandleMember</string>
+	<key>publishersize</key>
+	<string>contractionRight</string>
+	<key>resilienceDirection</key>
+	<string>scaffoldTail</string>
+	<key>shouldLoadDecoration</key>
+	<string>linkerKind</string>
+</dict>
+</plist>

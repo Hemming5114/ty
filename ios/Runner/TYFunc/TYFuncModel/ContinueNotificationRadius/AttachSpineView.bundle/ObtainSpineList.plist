@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperTint</key>
+	<string>robustalignmentscale</string>
+	<key>notationbrightness</key>
+	<string>visitTitle</string>
+	<key>pinchableGesture</key>
+	<string>shouldDispatchFragment</string>
+	<key>robustmetadata</key>
+	<string>canDismissChannels</string>
+	<key>shouldTrainReduction</key>
+	<string>shouldTrainPriority</string>
+	<key>sortedradiustransparency</key>
+	<string>uniqueCertificate</string>
+	<key>storageBottom</key>
+	<string>signatureSpeed</string>
+	<key>switchbesidestyle</key>
+	<string>intermediateLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createcupertino</key>
+	<string>widgetLocation</string>
+	<key>intuitiveProjection</key>
+	<string>schemaOpacity</string>
+	<key>meshSkewY</key>
+	<string>immediateRichText</string>
+	<key>modalCenter</key>
+	<string>layoutinterface</string>
+	<key>permissiveSwitch</key>
+	<string>statelessmode</string>
+	<key>shouldshowroute</key>
+	<string>builderlocation</string>
+</dict>
+</plist>

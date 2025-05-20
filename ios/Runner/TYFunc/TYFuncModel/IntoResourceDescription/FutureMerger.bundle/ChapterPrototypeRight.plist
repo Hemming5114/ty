@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstTechnique</key>
+	<string>lostTouch</string>
+	<key>integrationBorder</key>
+	<string>tabbarLayer</string>
+	<key>localChooser</key>
+	<string>autoPolygon</string>
+	<key>prismaticSample</key>
+	<string>scrollableRadius</string>
+	<key>reactiveArithmetic</key>
+	<string>pinchableThreshold</string>
+	<key>resizableRole</key>
+	<string>tangentstate</string>
+	<key>smartgroup</key>
+	<string>measureEntity</string>
+	<key>staticsize</key>
+	<string>interactorBuffer</string>
+	<key>tensorPrecision</key>
+	<string>animateBuilder</string>
+	<key>transitionformat</key>
+	<string>autoGesture</string>
+</dict>
+</plist>

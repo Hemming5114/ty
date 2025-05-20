@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedArchitecture</key>
+	<string>navigateDescriptor</string>
+	<key>lossScale</key>
+	<string>nibFlyweight</string>
+	<key>repositorycharacteristic</key>
+	<string>statefulConstraint</string>
+	<key>similarInterface</key>
+	<string>strengthDelay</string>
+	<key>tensorEvaluation</key>
+	<string>layoutcurve</string>
+	<key>timelineState</key>
+	<string>statefulCanvas</string>
+	<key>titleAlignment</key>
+	<string>taskVelocity</string>
+</dict>
+</plist>

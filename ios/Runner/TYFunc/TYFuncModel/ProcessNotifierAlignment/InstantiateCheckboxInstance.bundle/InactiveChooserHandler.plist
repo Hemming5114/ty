@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorsubscription</key>
+	<string>clipButton</string>
+	<key>detailbound</key>
+	<string>agileProvider</string>
+	<key>herolayer</key>
+	<string>mountedUsage</string>
+	<key>otherAnimation</key>
+	<string>skinsystemposition</string>
+	<key>responsebyvalue</key>
+	<string>visibleView</string>
+	<key>taskdensity</key>
+	<string>encapsulatebuffer</string>
+</dict>
+</plist>

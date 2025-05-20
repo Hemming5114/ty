@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionThread</key>
+	<string>priorityinterpreterforce</string>
+	<key>clearpositioned</key>
+	<string>canCachePlayback</string>
+	<key>reactiveRange</key>
+	<string>shouldUpdateMonster</string>
+	<key>resourcesingletoncoord</key>
+	<string>detailTag</string>
+	<key>shouldInflatePlayback</key>
+	<string>compositionalgatename</string>
+</dict>
+</plist>

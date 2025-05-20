@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorPosition</key>
+	<string>sessionCommand</string>
+	<key>notifycubit</key>
+	<string>dedicatedtabbarstatus</string>
+	<key>rectspeed</key>
+	<string>uniquestoragedensity</string>
+	<key>viewatprocess</key>
+	<string>concatenateTransition</string>
+</dict>
+</plist>

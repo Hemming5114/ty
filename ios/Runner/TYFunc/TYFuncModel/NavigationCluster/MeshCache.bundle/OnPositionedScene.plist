@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedLabel</key>
+	<string>canEncodeShader</string>
+	<key>notificationShade</key>
+	<string>connectstream</string>
+	<key>objectColor</key>
+	<string>discardedInfo</string>
+	<key>opaqueManager</key>
+	<string>associatedchecklistcontrast</string>
+	<key>shouldEmitTabBar</key>
+	<string>cachechainshade</string>
+	<key>splitteracceleration</key>
+	<string>referencetail</string>
+</dict>
+</plist>

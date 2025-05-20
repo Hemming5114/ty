@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCompleter</key>
+	<string>loopLocation</string>
+	<key>captionpicker</key>
+	<string>activitytypedistance</string>
+	<key>dedicatedConfiguration</key>
+	<string>canDecodeNotifier</string>
+	<key>directRemainder</key>
+	<string>canDispatchDialogs</string>
+	<key>missedChannels</key>
+	<string>euclideanVolume</string>
+	<key>petfeedback</key>
+	<string>protectedRestriction</string>
+	<key>shouldPersistContraction</key>
+	<string>substantialThreshold</string>
+</dict>
+</plist>

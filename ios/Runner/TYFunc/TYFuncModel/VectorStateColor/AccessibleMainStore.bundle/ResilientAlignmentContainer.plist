@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionagainstfacade</key>
+	<string>thresholdTail</string>
+	<key>independentSession</key>
+	<string>precisionInset</string>
+	<key>layoutconstraint</key>
+	<string>statelessParam</string>
+	<key>nibstatus</key>
+	<string>granularDecoration</string>
+	<key>presenterTail</key>
+	<string>dedicatedChooser</string>
+</dict>
+</plist>

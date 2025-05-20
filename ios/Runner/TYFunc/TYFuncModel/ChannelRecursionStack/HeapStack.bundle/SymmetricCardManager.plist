@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeAction</key>
+	<string>shouldSetStateReference</string>
+	<key>explicitRectangle</key>
+	<string>subtleShader</string>
+	<key>inheritedreceiver</key>
+	<string>scrollerInteraction</string>
+	<key>initializesprite</key>
+	<string>textureSaturation</string>
+	<key>scrollableRenderer</key>
+	<string>baselineanimator</string>
+	<key>shouldBindCanvas</key>
+	<string>tentativeRate</string>
+	<key>sophisticatedScope</key>
+	<string>lifecycleOpacity</string>
+	<key>standaloneLabel</key>
+	<string>synchronousRouter</string>
+	<key>swiftPosition</key>
+	<string>hardSensor</string>
+</dict>
+</plist>

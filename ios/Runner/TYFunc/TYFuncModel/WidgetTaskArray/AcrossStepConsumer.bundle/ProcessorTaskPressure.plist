@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultmodulus</key>
+	<string>shouldParseNib</string>
+	<key>defaultslash</key>
+	<string>canCancelGate</string>
+	<key>lazyHash</key>
+	<string>partitionAllocator</string>
+	<key>normalBitrate</key>
+	<string>stopModulus</string>
+	<key>shouldDispatchTextField</key>
+	<string>durationlifecycle</string>
+	<key>transitionedge</key>
+	<string>futureatcontext</string>
+	<key>unactivatedImpression</key>
+	<string>ternaryaboutnumber</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopview</key>
+	<string>hyperbolicPermutation</string>
+	<key>gesturedetectorDirection</key>
+	<string>firstListView</string>
+	<key>metadatacluster</key>
+	<string>hierarchicalSignature</string>
+	<key>persistentWrapper</key>
+	<string>canLayoutMovement</string>
+	<key>playbackdespitemediator</key>
+	<string>pickerDensity</string>
+	<key>rectangleForce</key>
+	<string>directLayer</string>
+	<key>shouldPauseRoute</key>
+	<string>objectSpacing</string>
+	<key>shouldstreamlistview</key>
+	<string>alertvisible</string>
+	<key>subsequentmenu</key>
+	<string>shouldvalidatesymbol</string>
+	<key>texturedescription</key>
+	<string>gridProcess</string>
+</dict>
+</plist>

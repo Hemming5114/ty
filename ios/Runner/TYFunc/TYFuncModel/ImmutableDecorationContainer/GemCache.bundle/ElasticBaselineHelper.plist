@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectposition</key>
+	<string>sensorstatus</string>
+	<key>desktopSymbol</key>
+	<string>exceptionHead</string>
+	<key>efficiencyTheme</key>
+	<string>schedulerLeft</string>
+	<key>impressionScale</key>
+	<string>mainTimer</string>
+	<key>lostHero</key>
+	<string>shouldBuildWorkflow</string>
+	<key>otherRadius</key>
+	<string>observeIntensity</string>
+	<key>reactiveaccessoryhue</key>
+	<string>binderAppearance</string>
+	<key>unactivatedLoop</key>
+	<string>statelessAlert</string>
+</dict>
+</plist>

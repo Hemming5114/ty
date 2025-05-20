@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSpot</key>
+	<string>imperativeReference</string>
+	<key>directObserver</key>
+	<string>interactorSkewY</string>
+	<key>ignoredRole</key>
+	<string>shouldMountedFragment</string>
+	<key>iterativecatalyststate</key>
+	<string>shouldkeepnib</string>
+	<key>navigationState</key>
+	<string>normalController</string>
+	<key>otherLoss</key>
+	<string>binderInset</string>
+	<key>routefromcommand</key>
+	<string>richtextFacade</string>
+	<key>temporaryContrast</key>
+	<string>statefulsign</string>
+	<key>uniformRect</key>
+	<string>imagerestriction</string>
+	<key>unsortedCube</key>
+	<string>modelname</string>
+</dict>
+</plist>

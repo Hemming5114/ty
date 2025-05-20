@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilearchitecture</key>
+	<string>staticModel</string>
+	<key>concurrentEvolution</key>
+	<string>shouldPushInkWell</string>
+	<key>gifttolerance</key>
+	<string>grayscaleBuffer</string>
+	<key>nativeChannel</key>
+	<string>staticThread</string>
+	<key>sampleBorder</key>
+	<string>resultactivityinterval</string>
+	<key>timerlistener</key>
+	<string>shouldShowReduction</string>
+</dict>
+</plist>

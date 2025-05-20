@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationobserver</key>
+	<string>techniqueResponse</string>
+	<key>declarativeSample</key>
+	<string>defaultBase</string>
+	<key>otherReplica</key>
+	<string>inactiveTolerance</string>
+	<key>responsiveintegrity</key>
+	<string>movementBrightness</string>
+	<key>selectedImage</key>
+	<string>loopTheme</string>
+	<key>shouldDispatchBoxShadow</key>
+	<string>infoVelocity</string>
+	<key>sinecenter</key>
+	<string>concurrentBehavior</string>
+	<key>transitionAcceleration</key>
+	<string>easyProgressBar</string>
+</dict>
+</plist>
