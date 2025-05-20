@@ -2628,6 +2628,11 @@ freely, subject to the following restrictions:
 copyright 2017 tencent Ltd. All rights reserved.
 
 
+## TXLiteAVSDK_Professional
+
+copyright 2017 tencent Ltd. All rights reserved.
+
+
 ## UMCCommon
 
 Copyright 2011 - 2019 umeng.com. All rights reserved.

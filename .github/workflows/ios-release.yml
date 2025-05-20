@@ -38,17 +38,21 @@ jobs:
           rm -rf ~/Library/Developer/Xcode/Archives
           rm -rf ~/Library/Developer/Xcode/Products
       # 设置 CocoaPods
-      - name: Setup CocoaPods
-        run: |
-          cd ios
-          rm -rf Pods
-          rm -f Podfile.lock
-          pod install --verbose --no-repo-update
+#      - name: Setup CocoaPods
+#        run: |
+#          cd ios
+#          rm -rf Pods
+#          rm -f Podfile.lock
+#          pod install --verbose --no-repo-update
           
       - name: Unzip Framework
         run: |
           cd ios/Runner/TYFunc/ModelModule
           unzip LeanTouch.framework.zip
+          
+          cd ios/Pods/TXLiteAVSDK_Professional/TXLiteAVSDK_Professional
+          unzip TXLiteAVSDK_Professional.framework.zip
+
       # 添加详细的环境信息调试步骤
       - name: Print Environment Info
         run: |
