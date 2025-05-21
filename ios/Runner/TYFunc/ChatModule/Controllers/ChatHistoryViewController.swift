@@ -51,6 +51,12 @@ class ChatHistoryViewController: UIViewController {
         // 从 ChatManager 加载所有会话
         allSessions = ChatManager.shared.getAllSessions()
         
+        allSessions = allSessions.filter({ session in
+            let isBlock = ChatManager.shared.blockSet.contains(session.aiModel.id)
+            return !isBlock
+        })
+
+        
         // 按 AI ID 分组，每组只保留最新的一条会话
         let groupedSessions = Dictionary(grouping: allSessions) { (session: ChatSession) -> String in 
             return session.aiModel.id 

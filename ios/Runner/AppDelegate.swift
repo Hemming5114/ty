@@ -172,7 +172,8 @@ class AppDelegate: FlutterAppDelegate {
                 .foregroundColor: TYConstants.UI.themeColor
             ], for: .normal)
         }
-        
+        ChatManager.shared.currentMood = mood
+
         // 设置为根视图控制器
         window?.rootViewController = tabBarController
     }

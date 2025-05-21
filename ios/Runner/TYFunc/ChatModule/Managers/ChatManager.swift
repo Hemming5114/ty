@@ -5,8 +5,22 @@ class ChatManager {
     private let defaults = UserDefaults.standard
     private let sessionsKey = "chatSessions"
     
-    private init() {}
     
+    public var currentMood: String = "happy"
+
+    private let blockAICacheKey = "blockAICacheKey"
+
+    public var blockSet = Set<String>()
+
+
+    
+    private init() {
+        
+        if let array = defaults.array(forKey: blockAICacheKey) as? [String] {
+            blockSet = Set(array)
+        }
+    }
+
     // 获取所有会话
     func getAllSessions() -> [ChatSession] {
         guard let data = defaults.data(forKey: sessionsKey),
@@ -65,4 +79,18 @@ class ChatManager {
     func deleteAllSessions() {
         saveSessions([])
     }
-} 
+    
+    func addBlockSession(_ AiID: String) {
+        blockSet.insert(AiID)
+        let temArray = Array(blockSet)
+        defaults.set(temArray, forKey: blockAICacheKey)
+    }
+    
+    // 删除会话
+    func removeBlockSession(_ AiID: String) {
+        blockSet.remove(AiID)
+        let temArray = Array(blockSet)
+        defaults.set(temArray, forKey: blockAICacheKey)
+    }
+
+}

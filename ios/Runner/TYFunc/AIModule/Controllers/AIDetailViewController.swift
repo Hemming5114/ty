@@ -76,7 +76,15 @@ class AIDetailViewController: UIViewController {
         button.layer.cornerRadius = 18
         return button
     }()
-    
+    private let blackButton: UIButton = {
+        let button = UIButton(type: .system)
+        let image = UIImage(systemName: "person.slash")
+        button.setImage(image, for: .normal)
+        button.tintColor = .white
+        button.layer.cornerRadius = 18
+        return button
+    }()
+
     // MARK: - 初始化
     init(ai: AIModel) {
         self.ai = ai
@@ -118,7 +126,8 @@ class AIDetailViewController: UIViewController {
         view.addSubview(backButton)
         view.addSubview(reportButton)
         view.addSubview(startChatButton)
-        
+        view.addSubview(blackButton)
+
         // 设置分区堆栈视图
         sectionStackView.axis = .vertical
         sectionStackView.spacing = 16
@@ -200,6 +209,12 @@ class AIDetailViewController: UIViewController {
             make.right.equalToSuperview().offset(-12)
             make.width.height.equalTo(44)
         }
+        blackButton.snp.makeConstraints { make in
+            make.top.equalTo(backButton)
+            make.right.equalTo(reportButton.snp.left)
+            make.width.height.equalTo(44)
+        }
+
     }
     
     private func setupStatsView() {
@@ -256,6 +271,8 @@ class AIDetailViewController: UIViewController {
         backButton.addTarget(self, action: #selector(backButtonTapped), for: .touchUpInside)
         reportButton.addTarget(self, action: #selector(reportButtonTapped), for: .touchUpInside)
         startChatButton.addTarget(self, action: #selector(startChatTapped), for: .touchUpInside)
+        blackButton.addTarget(self, action: #selector(blackButtonTapped), for: .touchUpInside)
+
     }
     
     @objc private func backButtonTapped() {
@@ -266,7 +283,28 @@ class AIDetailViewController: UIViewController {
         let reportVC = ReportViewController(ai: ai)
         navigationController?.pushViewController(reportVC, animated: true)
     }
-    
+    @objc private func blackButtonTapped() {
+        let alert = UIAlertController(
+            title: "是否将(AI：\(ai.name))加入黑名单",
+            message: "1、你将不再收到该AI的任何回复或内容推荐 \n 2、可通过「我的-黑名单」随时解除",
+            preferredStyle: .alert
+        )
+        
+        alert.addAction(UIAlertAction(title: "暂不处理", style: .cancel))
+        alert.addAction(UIAlertAction(title: "确认拉黑", style: .destructive) { [weak self] _ in
+            guard let self = self else { return }
+
+            ChatManager.shared.addBlockSession(ai.id)
+            // 发送通知更新用户界面
+            NotificationCenter.default.post(name: NSNotification.Name("UserBlockDidChangeNotification"), object: nil)
+            self.navigationController?.popToRootViewController(animated: true)
+                                    
+        })
+        
+        present(alert, animated: true)
+        
+    }
+
     @objc private func startChatTapped() {
         let chatVC = ChatViewController(session: ChatSession(aiModel: ai))
         navigationController?.pushViewController(chatVC, animated: true)

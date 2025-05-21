@@ -33,6 +33,8 @@ class AIListViewController: UIViewController {
         createAIDirectory() // 仅在调试时创建目录
         #endif
         loadAIModels()
+        setupNotifications()
+
     }
     
     private func setupUI() {
@@ -131,6 +133,25 @@ class AIListViewController: UIViewController {
         print("Failed to load JSON file for mood: \(currentMood)")
         emptyView.isHidden = false
     }
+    private func setupNotifications() {
+        NotificationCenter.default.addObserver(
+            self,
+            selector: #selector(userBlockDidChange),
+            name: NSNotification.Name("UserBlockDidChangeNotification"),
+            object: nil
+        )
+    }
+    
+    @objc private func userBlockDidChange() {
+        
+        aiModels = aiModels.filter({ model in
+            let isBlock = ChatManager.shared.blockSet.contains(model.id)
+            return !isBlock
+        })
+        emptyView.isHidden = (aiModels.count > 0)
+        collectionView.reloadData()
+    }
+
     
     private func createAIDirectory() {
         let fileManager = FileManager.default

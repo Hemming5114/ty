@@ -54,7 +54,13 @@ class UserViewController: UIViewController {
                 MenuItem(icon: "crown.fill", 
                         title: "会员", 
                         color: .systemPink,
-                        subtitle: memberStatus)
+                        subtitle: memberStatus),
+                MenuItem(icon: "person.fill.badge.minus",
+                        title: "黑名单",
+                         color: .systemGray2,
+                        subtitle: "")
+
+                
             ],
             // 通用
             [
@@ -395,7 +401,10 @@ extension UserViewController: UITableViewDelegate, UITableViewDataSource {
         case "会员":
             let memberVC = MemberViewController()
             pushWithHiddenTabBar(memberVC)
-            
+        case "黑名单":
+            let blockVC = AIBlockViewController()
+            pushWithHiddenTabBar(blockVC)
+
         case "清除缓存":
             handleClearCache()
         case "消息通知":

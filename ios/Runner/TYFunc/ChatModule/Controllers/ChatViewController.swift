@@ -80,13 +80,20 @@ class ChatViewController: UIViewController {
     private func setupUI() {
         view.backgroundColor = .systemBackground
         
+        let report = UIBarButtonItem(
+                image: UIImage(systemName: "exclamationmark.triangle"),
+                style: .plain,
+                target: self,
+                action: #selector(reportButtonTapped))
+        let block = UIBarButtonItem(
+                image: UIImage(systemName: "person.slash"),
+                style: .plain,
+                target: self,
+                action: #selector(blackButtonTapped))
+
+      
         // 设置导航栏
-        navigationItem.rightBarButtonItem = UIBarButtonItem(
-            image: UIImage(systemName: "exclamationmark.triangle"),
-            style: .plain,
-            target: self,
-            action: #selector(reportButtonTapped)
-        )
+        navigationItem.rightBarButtonItems = [report, block]
         navigationItem.rightBarButtonItem?.tintColor = TYConstants.UI.themeColor
         
         // 添加头部视图
@@ -201,6 +208,28 @@ class ChatViewController: UIViewController {
         let reportVC = ReportViewController(ai: session.aiModel)
         navigationController?.pushViewController(reportVC, animated: true)
     }
+    @objc private func blackButtonTapped() {
+        let alert = UIAlertController(
+            title: "是否将(AI：\(session.aiModel.name))加入黑名单",
+            message: "1、你将不再收到该AI的任何回复或内容推荐 \n 2、可通过「我的-黑名单」随时解除",
+            preferredStyle: .alert
+        )
+        
+        alert.addAction(UIAlertAction(title: "暂不处理", style: .cancel))
+        alert.addAction(UIAlertAction(title: "确认拉黑", style: .destructive) { [weak self] _ in
+            guard let self = self else { return }
+
+            ChatManager.shared.addBlockSession(session.aiModel.id)
+            // 发送通知更新用户界面
+            NotificationCenter.default.post(name: NSNotification.Name("UserBlockDidChangeNotification"), object: nil)
+            self.navigationController?.popToRootViewController(animated: true)
+                                    
+        })
+        
+        present(alert, animated: true)
+        
+    }
+
     
     private func sendMessage(_ text: String) {
         guard var user = User.loadFromKeychain() else { return }
